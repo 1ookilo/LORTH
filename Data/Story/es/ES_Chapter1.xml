@@ -9,187 +9,187 @@
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
         <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
-        <Dialog ID="0" โมdel="앤젤라">
+        <Dialog ID="0" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela1</VoiceFile>
           <Content>ฉันยังไม่สามารถที่จะไปจากที่นี่ได้…</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="앤젤라">
+        <Dialog ID="1" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela2</VoiceFile>
           <Content>แม้กระทั้งเรื่องพวกนี้มันจบลงไปแล้ว ฉันก็ยังไม่เป็นอิสระ…</Content>
         </Dialog>
-        <Dialog ID="2" โมdel="앤젤라">
+        <Dialog ID="2" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela3</VoiceFile>
           <Content>หรือว่าฉันจะไม่มีสิทธิ์ฝันไปไกลเกินมากกว่านี้ได้…?</Content>
         </Dialog>
-        <Dialog ID="3" โมdel="롤랑">
+        <Dialog ID="3" model="롤랑">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_roland1</VoiceFile>
           <Content>บ้าเอ้ย… The Purple Tear…</Content>
         </Dialog>
-        <Dialog ID="4" โมdel="롤랑">
+        <Dialog ID="4" model="롤랑">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_roland2</VoiceFile>
           <Content>ไม่อยากเชื่อว่ายัยนั้นคิดจัดการด้วยวิธีนี้…</Content>
         </Dialog>
-        <Dialog ID="5" โมdel="롤랑">
+        <Dialog ID="5" model="롤랑">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_roland3</VoiceFile>
           <Content>ว่าแต่มันเกิดบ้าอะไรขึ้น? ควันพวกนี้มาจากไหน?</Content>
         </Dialog>
-        <Dialog ID="6" โมdel="롤랑">
+        <Dialog ID="6" model="롤랑">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_roland4</VoiceFile>
           <Content>เฮ้อ… ฉันว่าคงต้องเชื่อใจยัยนั้นไปก่อน…</Content>
         </Dialog>
-        <Dialog ID="7" โมdel="앤젤라">
+        <Dialog ID="7" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela4</VoiceFile>
           <Content>…ฉันจะถามแค่ครั้งเดียวเท่านั้น</Content>
         </Dialog>
-        <Dialog ID="8" โมdel="앤젤라">
+        <Dialog ID="8" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela5</VoiceFile>
           <Content>ฉันเกลียดการพูดเยอะและวกไปวนมาไม่เข้าประเด็น</Content>
         </Dialog>
-        <Dialog ID="9" โมdel="앤젤라">
+        <Dialog ID="9" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela6</VoiceFile>
           <Content>ดังนั้นอย่าพยายามพูดมากแล้วตอบคำถามฉันมา</Content>
         </Dialog>
-        <Dialog ID="10" โมdel="앤젤라">
+        <Dialog ID="10" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela7</VoiceFile>
           <Content>และก็อย่าถามฉันกลับด้วยนะ</Content>
         </Dialog>
-        <Dialog ID="11" โมdel="앤젤라">
+        <Dialog ID="11" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela8</VoiceFile>
           <Content>นายมาจากไหน มาที่นี่ได้ยังไง และก็มาด้วยจุดประสงค์อะไร?</Content>
         </Dialog>
-        <Dialog ID="12" โมdel="롤랑">
+        <Dialog ID="12" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland5</VoiceFile>
           <Content>เด๋วก่อน, เนี้ยเธอเป็นใคร…</Content>
         </Dialog>
-        <Dialog ID="13" โมdel="롤랑">
+        <Dialog ID="13" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland6</VoiceFile>
           <Content>เอิ๊ก, แม่งเอ้ย… ทำไมอยู่ๆรู้สึกคลื่นไส้วะเนี้ย…</Content>
         </Dialog>
-        <Dialog ID="14" โมdel="롤랑">
+        <Dialog ID="14" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland7</VoiceFile>
           <Content>อ๊ากกก!!! ขาฉัน!!!</Content>
         </Dialog>
-        <Dialog ID="15" โมdel="앤젤라">
+        <Dialog ID="15" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela9</VoiceFile>
           <Content>ฉันเตือนนายแล้ว แต่นายก็ยังคงล้ำเส้นอยู่ดี งั้นฉันจะถามอีกสักครั้งละกันนะ</Content>
         </Dialog>
-        <Dialog ID="16" โมdel="앤젤라">
+        <Dialog ID="16" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela10</VoiceFile>
           <Content>นายมาที่นี่ได้ยังไง มาจากไหนและก็มาเพื่ออะไร?</Content>
         </Dialog>
-        <Dialog ID="17" โมdel="롤랑">
+        <Dialog ID="17" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland8</VoiceFile>
           <Content>…ฉันก็แค่เดินเล่นเดินไปมาแค่นั้นเอง แล้วจู่ๆก็มาโผล่ที่นี่ ฉันไม่รู้ตัวด้วยซ้ำว่ามาที่นี่ได้ยังไง บ้าเอ้ย เลือดกระฉูดออกมาจากขาขวาของฉัน ฉันสาบานจริงๆฉันไม่ได้กะมาบุกรุกที่นี่ ไม่รู้ด้วยซ้ำว่าที่นี่มันที่ไหน</Content>
         </Dialog>
-        <Dialog ID="18" โมdel="롤랑">
+        <Dialog ID="18" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland9</VoiceFile>
-          <Content>ฉันตื่นมาราวๆตอนบ่ายโมงและไปเดินเล่นรอบๆถนนเขต 13 แล้วพอออกมาเดินเล่นแล้วคิดว่า ฉันอยากที่จะไปร้านแฮมแฮมปังปัง เพราะได้ยินว่าตอนนี้เขากำลังขายแซนวิซสูตรพิเศษในสุดสัปดาห์นี้</Content>
+          <Content>ฉันตื่นมาราวๆตอนบ่ายmoงและไปเดินเล่นรอบๆถนนเขต 13 แล้วพอออกมาเดินเล่นแล้วคิดว่า ฉันอยากที่จะไปร้านแฮมแฮมปังปัง เพราะได้ยินว่าตอนนี้เขากำลังขายแซนวิซสูตรพิเศษในสุดสัปดาห์นี้</Content>
         </Dialog>
-        <Dialog ID="19" โมdel="롤랑">
+        <Dialog ID="19" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland10</VoiceFile>
           <Content>ยังไงก็แล้วแต่ ฉันมีหนี้ที่ต้องจ่าย ไม่มีงานและก็พยายามใช้ชีวิตอยู่ด้วยการเป็นพนักงา—</Content>
         </Dialog>
-        <Dialog ID="20" โมdel="롤랑">
+        <Dialog ID="20" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland11</VoiceFile>
           <Content>อร๊าาาากกกก!!!!!</Content>
         </Dialog>
-        <Dialog ID="21" โมdel="앤젤라">
+        <Dialog ID="21" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela11</VoiceFile>
           <Content>นายพูดจาลากยาวเกินไป ครั้งต่อไปฉันจะเอาแขนซ้ายและขาซ้ายของนาย</Content>
         </Dialog>
-        <Dialog ID="22" โมdel="앤젤라">
+        <Dialog ID="22" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela12</VoiceFile>
           <Content>นายไม่มีจุดประสงค์ และนายก็ไม่รู้ว่าเข้ามาที่นี่ได้ยังไงสินะ แล้วนายเป็นใครกันแน่?</Content>
         </Dialog>
-        <Dialog ID="23" โมdel="롤랑">
+        <Dialog ID="23" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland12</VoiceFile>
           <Content>ฉันก็แค่ฟิซเซอร์ธรรมดาๆที่ตกกระป๋องแล้วเท่านั้นเอง แล้วที่บ้าๆเนี้ยมันที่ไหน? แล้วเธอเป็นใครกันละเนี้ย?</Content>
         </Dialog>
-        <Dialog ID="24" โมdel="롤랑">
+        <Dialog ID="24" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland13</VoiceFile>
           <Content>อ่ะเหื้อ!!! ไม่เอาน่า คราวนี้เอาไปทั้งแขนทั้งขาแบบนี้ไม่ยุติธรรมเลย…</Content>
         </Dialog>
-        <Dialog ID="25" โมdel="앤젤라">
+        <Dialog ID="25" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela13</VoiceFile>
           <Content>ฉันเป็นคนถามนายนะ นายชื่ออะไรน่ะ?</Content>
         </Dialog>
-        <Dialog ID="26" โมdel="롤랑">
+        <Dialog ID="26" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland14</VoiceFile>
           <Content>โรแลนด์…</Content>
         </Dialog>
-        <Dialog ID="27" โมdel="앤젤라">
+        <Dialog ID="27" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela14</VoiceFile>
           <Content>ดี ยินดีต้อนรับสู่ห้องสมุด พวกเรามีหน้าที่ต้อนรับแขก แต่จู่ๆนายก็ไม่รู้โผล่มาจากไหน</Content>
         </Dialog>
-        <Dialog ID="28" โมdel="앤젤라">
+        <Dialog ID="28" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela15</VoiceFile>
           <Content>ฉันใช้ความพยายามไปไม่น้อยในการออกแบบห้องสมุดนี้ เพื่อให้แน่ใจว่าจะไม่มีแขกที่ไม่ได้รับเชิญเข้ามาได้ นายเข้าใจแล้วหรือเปล่า</Content>
         </Dialog>
-        <Dialog ID="29" โมdel="롤랑">
+        <Dialog ID="29" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland15</VoiceFile>
           <Content>…บ้าเอ้ย แขนขาเหล่านี้คือทั้งหมดที่ฉันมีนะ… ฉันไม่มีเงินหรือเอาอะไรไปซื้อมาใหม่ได้นะเว้ย…</Content>
         </Dialog>
-        <Dialog ID="30" โมdel="앤젤라">
+        <Dialog ID="30" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela16</VoiceFile>
@@ -201,217 +201,217 @@
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
         <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
-        <Dialog ID="0" โมdel="앤젤라">
+        <Dialog ID="0" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela1</VoiceFile>
           <Content>ตื่น</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="롤랑">
+        <Dialog ID="1" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland1</VoiceFile>
           <Content>ฮึ่ม! แฮ่ก แฮ่ก… ข-ขา! และก็แขนฉัน!! </Content>
         </Dialog>
-        <Dialog ID="2" โมdel="롤랑">
+        <Dialog ID="2" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland2</VoiceFile>
           <Content>…เฮ้ย เด๋วสิ พวกมันทำไมยังอยู่ครบเหมือนเดิมกันละเนี้ย?</Content>
         </Dialog>
-        <Dialog ID="3" โมdel="앤젤라">
+        <Dialog ID="3" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela2</VoiceFile>
           <Content>ตอนนี้นายน่าจะแกว่งแขนและก็เดินได้เหมือนเดิมแล้วล่ะนะ</Content>
         </Dialog>
-        <Dialog ID="4" โมdel="앤젤라">
+        <Dialog ID="4" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela3</VoiceFile>
           <Content>และฉันยังปรับร่างกายของนายนิดหน่อยทำให้คล่องตัวกว่าเดิมด้วย</Content>
         </Dialog>
-        <Dialog ID="5" โมdel="앤젤라">
+        <Dialog ID="5" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela4</VoiceFile>
           <Content>ถึงแม้ว่านายจะบุกรุกเข้ามาห้องสมุดของฉัน แต่ฉันก็ยังเอาแขนขาของนายโดยที่นายไม่ได้ยินยอม ดังนั้นฉันจึงทำสิ่งนั้นให้เพื่อเป็นการขอโทษ</Content>
         </Dialog>
-        <Dialog ID="6" โมdel="앤젤라">
+        <Dialog ID="6" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela4_1</VoiceFile>
           <Content>เห็นมั้ยล่ะ ฉันเป็นคนที่ค่อนข้างอดทนและใจกว้างขนาดไหน</Content>
         </Dialog>
-        <Dialog ID="7" โมdel="롤랑">
+        <Dialog ID="7" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland3</VoiceFile>
           <Content>อดทน ยัยบ้า… แล้วฉันต้องขอบคุณเธอมั้ยเนี้ย?</Content>
         </Dialog>
-        <Dialog ID="8" โมdel="롤랑">
+        <Dialog ID="8" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland4</VoiceFile>
           <Content>แล้วก็ เอ่อ… แล้วไอ้คำเตือนของเธอก่อนหน้านั้นไม่มีผลแล้ว ใช่ม่ะ?</Content>
         </Dialog>
-        <Dialog ID="9" โมdel="앤젤라">
+        <Dialog ID="9" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela5</VoiceFile>
           <Content>ไม่ ไม่มีแล้ว ตอนที่นายสลบอยู่ฉันได้คิดอะไรได้นิดหน่อย</Content>
         </Dialog>
-        <Dialog ID="10" โมdel="앤젤라">
+        <Dialog ID="10" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela6</VoiceFile>
           <Content>แล้วข้อสรุปของฉันก็คือ: นายจะต้องอยู่ช่วยฉันที่นี่</Content>
         </Dialog>
-        <Dialog ID="11" โมdel="롤랑">
+        <Dialog ID="11" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland5</VoiceFile>
           <Content>อะไร? ห๊ะ? เด๋วนี้องค์กรมันลักพาตัวกันแบบนี้แล้วเรอะ? หรือว่าเธอเป็นหนึ่งในพวก Wings?</Content>
         </Dialog>
-        <Dialog ID="12" โมdel="롤랑">
+        <Dialog ID="12" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland6</VoiceFile>
           <Content>ฉันได้ยินข่าวลือพวกนั้นนะว่าลักพาตัวผู้คนไปทดลองเกี่ยวกับ Singularity อะไรสักอย่าง</Content>
         </Dialog>
-        <Dialog ID="13" โมdel="롤랑">
+        <Dialog ID="13" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland7</VoiceFile>
           <Content>คนรู้จักของฉันเริ่มหลอนเป็นบ้าเพราะผลข้างเคียงจากหนึ่งในการทดลองเหล่านั้น…</Content>
         </Dialog>
-        <Dialog ID="14" โมdel="롤랑">
+        <Dialog ID="14" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland8</VoiceFile>
           <Content>เฮ้อ… ชีวิตของฉันมันช่างโชคร้ายสิ้นดี</Content>
         </Dialog>
-        <Dialog ID="15" โมdel="앤젤라">
+        <Dialog ID="15" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela7</VoiceFile>
           <Content>ที่นี่มันห้องสมุด แล้วฉันก็ไม่รู้จักไอ้ "องค์กร" ที่นายพูดหรอกนะ และสถานที่นี้อย่างน้อยๆก็ไม่ใช่ Wing อะไรนั้นด้วย</Content>
         </Dialog>
-        <Dialog ID="16" โมdel="롤랑">
+        <Dialog ID="16" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland9</VoiceFile>
           <Content>เรื่องนั้นมันไม่สำคัญหรอก เพราะยังไงฉันก็ต้องติดอยู่ที่นี่ แล้วเธอก็กะจะใช้งานฉันอย่างหนัก ใช่มั้ยละ?</Content>
         </Dialog>
-        <Dialog ID="17" โมdel="앤젤라">
+        <Dialog ID="17" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela8</VoiceFile>
           <Content>ใช่ ที่ฉันปล่อยให้นายมีชีวิตอยู่เพราะมีเหตุผลด้วยกันสองข้อ</Content>
         </Dialog>
-        <Dialog ID="18" โมdel="앤젤라">
+        <Dialog ID="18" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela9</VoiceFile>
           <Content>ประการแรก ฉันต้องการตรวจสอบว่านายเข้ามาที่นี้ได้ยังไงโดยที่ไม่ได้รับคำเชิญมา</Content>
         </Dialog>
-        <Dialog ID="19" โมdel="앤젤라">
+        <Dialog ID="19" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela9_1</VoiceFile>
           <Content>การส่งนายกลับไปหรือละเลยนายโดยที่ไม่รู้สาเหตุอะไรเลยแบบนี้ มันอาจจะเป็นความเสี่ยงต่อห้องสมุดแห่งนี้</Content>
         </Dialog>
-        <Dialog ID="20" โมdel="앤젤라">
+        <Dialog ID="20" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela10</VoiceFile>
           <Content>เพราะฉะนั้น นายจะออกไปจากที่นี่ไม่ได้ โดยไม่ได้รับคำอนุญาตจากฉันอีกต่อไป</Content>
         </Dialog>
-        <Dialog ID="21" โมdel="앤젤라">
+        <Dialog ID="21" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela11</VoiceFile>
           <Content>ประการที่สอง ต่อจากนี้ฉันจะเริ่มเก็บหนังสือเกี่ยวกับเมืองนี้เพื่อค้นหาหนังสือหนึ่งเล่มที่สมบูรณ์แบบที่สุด</Content>
         </Dialog>
-        <Dialog ID="22" โมdel="앤젤라">
+        <Dialog ID="22" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela12</VoiceFile>
           <Content>ซึ่งเรื่องนี้ ฉันอยากจะให้นายช่วย</Content>
         </Dialog>
-        <Dialog ID="23" โมdel="앤젤라">
+        <Dialog ID="23" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela13</VoiceFile>
           <Content>เนื่องจากนายเป็นผู้อยู่อาศัยที่เมืองนี้มาก่อน ฉันก็เลยคาดหวังว่านายจะมีประโยชน์ในหลายๆทาง</Content>
         </Dialog>
-        <Dialog ID="24" โมdel="롤랑">
+        <Dialog ID="24" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland10</VoiceFile>
           <Content>…ฉันว่าแล้วเรื่องแบบนี้มันต้องเกิดขึ้นสักวัน ผู้คนก็หายตัวไปโดยไม่มีร่องรอย แล้วก็มาพบอีกทีเหลือเพียงแค่ก้อนเนื้อในภายหลัง…</Content>
         </Dialog>
-        <Dialog ID="25" โมdel="롤랑">
+        <Dialog ID="25" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland11</VoiceFile>
           <Content>ฉันมักจะหัวเราะว่าคนพวกนั้นไม่ระวังตัวจนตัวเองต้องโชคร้าย แต่ตอนนี้ฉันเข้าใจแล้วว่ามันไม่เกี่ยวกับว่าไม่ระวังตัวหรือว่าโชคร้ายอะไรนั้นเลย คือแบบ ฮะ พอมันจะเกิดก็เกิดขึ้นโดยไม่รู้ตัว…</Content>
         </Dialog>
-        <Dialog ID="26" โมdel="앤젤라">
+        <Dialog ID="26" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela14</VoiceFile>
           <Content>ไม่ต้องกังวลเกี่ยวกับชีวิตของนายมากเกินไป นายไม่ได้รับอนุญาตให้ตายที่นี่เว้นแต่ฉันจะอนุญาต</Content>
         </Dialog>
-        <Dialog ID="27" โมdel="롤랑">
+        <Dialog ID="27" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland12</VoiceFile>
           <Content>บ้าเอ้ย นี่เป็นการทดลองในห้องทดลองบ้าๆชัดๆ</Content>
         </Dialog>
-        <Dialog ID="28" โมdel="롤랑">
+        <Dialog ID="28" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland13</VoiceFile>
           <Content>เธอเป็นพวกชอบใส่อะไรสุ่มๆ อย่างเช่นเมล็ดข้าวโพดและใส่เครื่องจักรเข้าไปในท้องของคน แล้วคิดว่ามันจะกลายเป็นเครื่องทำป๊อปคอร์นพ่นป๊อปคอร์นออกมาได้ ทำนองนั้นหรอ?</Content>
         </Dialog>
-        <Dialog ID="29" โมdel="롤랑">
+        <Dialog ID="29" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland14</VoiceFile>
           <Content>นั้นมันต้องแย่มากเลยนะ… ถ้าให้ฉันเลือกได้ขอยอมตายซะดีกว่า…</Content>
         </Dialog>
-        <Dialog ID="30" โมdel="앤젤라">
+        <Dialog ID="30" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela15</VoiceFile>
           <Content>ถ้าหายนายยังพูดจาไร้สาระแบบนั้นอีกสักครั้ง ฉันยินดีที่จะเปลี่ยนให้นายเป็นมนุษย์เครื่องทำป๊อบคอร์นแบบที่นายขอเลยนะ</Content>
         </Dialog>
-        <Dialog ID="31" โมdel="앤젤라">
+        <Dialog ID="31" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela16</VoiceFile>
           <Content>ฉันได้ยินการพูดที่ไม่มีสาระและไม่มีประโยชน์มาหลายรอบแล้วนะ และมันเป็นเรื่องที่น่ารำคาญที่ต้องตอบกลับมันทุกครั้ง</Content>
         </Dialog>
-        <Dialog ID="32" โมdel="롤랑">
+        <Dialog ID="32" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland15</VoiceFile>
           <Content>ข-ขอโทษครับ…</Content>
         </Dialog>
-        <Dialog ID="33" โมdel="앤젤라">
+        <Dialog ID="33" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela17</VoiceFile>
           <Content>ขอให้ฉันได้แนะนำตัว อย่างเป็นทางการก็แล้วกัน</Content>
         </Dialog>
-        <Dialog ID="34" โมdel="앤젤라">
+        <Dialog ID="34" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol2_ep1_angela18</VoiceFile>
           <Content>ฉันชื่อว่าแองเจล่า เป็นหัวหน้าบรรณารักษ์และเป็นผู้อำนวยการห้องสมุดแห่งนี้</Content>
         </Dialog>
-        <Dialog ID="35" โมdel="롤랑">
+        <Dialog ID="35" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland16</VoiceFile>
@@ -423,217 +423,217 @@
       <EpisodeName>Episode 3</EpisodeName>
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
-        <Dialog ID="0" โมdel="롤랑">
+        <Dialog ID="0" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland1</VoiceFile>
           <Content>แล้ว ฉันควรทำยังไงบ้างละ?</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="앤젤라">
+        <Dialog ID="1" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela1</VoiceFile>
           <Content>หน้าที่ของนายก็คือ "ต้อนรับ" แขกที่ถูกเชิญมาห้องสมุดแห่งนี้</Content>
         </Dialog>
-        <Dialog ID="2" โมdel="앤젤라">
+        <Dialog ID="2" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela2</VoiceFile>
           <Content>ฉันจะพิจารณาอย่างรอบคอบว่าจะเชิญแขกท่านใดและเขียนคำเชิญเอง ซึ่งตามลำดับนั้น นายจะต้องคอยรับรองแขกที่ตอบรับคำเชิญ เมื่อพวกเขามาถึงห้องสมุด</Content>
         </Dialog>
-        <Dialog ID="3" โมdel="앤젤라">
+        <Dialog ID="3" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela3</VoiceFile>
           <Content>เนื่องจากว่านายมีประสบการณ์ทำงานจากการเป็นฟิซเซอร์ ฉันมั่นใจว่านายจะสามารถให้การต้อนรับแขกประเภทต่างๆ ได้ดีมากกว่าฉัน</Content>
         </Dialog>
-        <Dialog ID="4" โมdel="롤랑">
+        <Dialog ID="4" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland2</VoiceFile>
           <Content>ฉันก็แค่ฟิซเซอร์เกรด 9 ผู้ล้มเหลวคนหนึ่งเองนะ แต่เด๋วก่อนนะ…</Content>
         </Dialog>
-        <Dialog ID="5" โมdel="롤랑">
+        <Dialog ID="5" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland3</VoiceFile>
           <Content>ไอ้ "การต้อนรับ" เนี้ยมันยังไงกันแน่? ฉันต้องคอยสบตาดูพวกเขาไหมหรือว่าฉันต้องเดินไปเสิร์ฟน้ำให้พวกเขาด้วยล่ะ?</Content>
         </Dialog>
-        <Dialog ID="6" โมdel="앤젤라">
+        <Dialog ID="6" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela4</VoiceFile>
           <Content>มันเป็นเรื่องที่ง่ายมาก นายเพียงแค่ต้องคอยจัดการกับแขกด้วยกำลังแค่นั้นเอง</Content>
         </Dialog>
-        <Dialog ID="7" โมdel="앤젤라">
+        <Dialog ID="7" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela5</VoiceFile>
           <Content>ห้องสมุดแห่งนี้จะมอบบททดสอบให้แก่แขกผู้เข้ามา และหนังสือก็จะเปิดออกในกระบวนการนี้</Content>
         </Dialog>
-        <Dialog ID="8" โมdel="앤젤라">
+        <Dialog ID="8" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela6</VoiceFile>
           <Content>แขกผู้ที่ก้าวข้ามบททดสอบนั้นไปได้จะถือว่าสมควรได้รับหนังสือของพวกเขาไป</Content>
         </Dialog>
-        <Dialog ID="9" โมdel="앤젤라">
+        <Dialog ID="9" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela7</VoiceFile>
           <Content>แต่มันก็มีความเป็นไปได้ที่นายอาจจะตายในระหว่างการต้อนรับ แต่ก็เป็นเพียงชั่วคราวเท่านั้น นายจะกลับมามีชีวิตอีกครั้งเมื่อห้องสมุดปิดทำการ</Content>
         </Dialog>
-        <Dialog ID="10" โมdel="앤젤라">
+        <Dialog ID="10" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela8</VoiceFile>
           <Content>ห้ามมิให้ผู้ใดได้พักที่นี่โดยไม่ได้รับอนุญาติจากฉัน</Content>
         </Dialog>
-        <Dialog ID="11" โมdel="롤랑">
+        <Dialog ID="11" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland4</VoiceFile>
           <Content>เธอมีจินตนาการแปลกๆเกี่ยวกับฟิซเซอร์หรือเปล่านะ? คงไม่ได้คาดหวังมากเกินไปจากฟิซเซอร์เกรด 9 ใช่มั้ยห๊ะ? ฉันไม่ได้มีความสามารถแบบที่เธอคิดหรอกนะ</Content>
         </Dialog>
-        <Dialog ID="12" โมdel="앤젤라">
+        <Dialog ID="12" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela9</VoiceFile>
           <Content>นั่นไม่ใช่ธุรกิจของฉัน ฉันได้เตรียมคู่มือให้นายแล้ว ดังนั้นเอาไปอ่านแล้วและหาทางจัดการด้วยตัวเองก็แล้วกัน</Content>
         </Dialog>
-        <Dialog ID="13" โมdel="롤랑">
+        <Dialog ID="13" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland5</VoiceFile>
           <Content>โอเค ฉันคิดว่าฉันเข้าใจสาระสำคัญของมันแล้วละ แล้วคำเชิญเนี้ยทำงานยังไงล่ะ?</Content>
         </Dialog>
-        <Dialog ID="14" โมdel="앤젤라">
+        <Dialog ID="14" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela10</VoiceFile>
           <Content>เปิดหน้าคำเชิญ และก็ลงทะเบียนหนังสือที่นายต้องการให้บริการกับแขก</Content>
         </Dialog>
-        <Dialog ID="15" โมdel="롤랑">
+        <Dialog ID="15" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland6</VoiceFile>
           <Content>แล้ว ต่อจากนั้นล่ะ?</Content>
         </Dialog>
-        <Dialog ID="16" โมdel="앤젤라">
+        <Dialog ID="16" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela11</VoiceFile>
           <Content>คำเชิญจะถูกส่งไปยังผู้ที่ต้องการหนังสือเอง</Content>
         </Dialog>
-        <Dialog ID="17" โมdel="롤랑">
+        <Dialog ID="17" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland7</VoiceFile>
           <Content>แค่นั้นน่ะนะ? มันฟังดูง่ายเกินไปหน่อยจังแฮะ</Content>
         </Dialog>
-        <Dialog ID="18" โมdel="앤젤라">
+        <Dialog ID="18" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela12</VoiceFile>
           <Content>การเชิญชวนเป็นอีกงานหนึ่ง ที่ฉันคิดขึ้นมาอย่างรอบคอบและพิถีพิถันอย่างมาก เช่นเดียวกับห้องสมุดแห่งนี้</Content>
         </Dialog>
-        <Dialog ID="19" โมdel="앤젤라">
+        <Dialog ID="19" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela13</VoiceFile>
           <Content>ใช่ ให้คิดซะว่ามันเป็นเหมือนเข็มทิศ แบบนั้นมันน่าจะเข้าใจได้ง่ายกว่า</Content>
         </Dialog>
-        <Dialog ID="20" โมdel="롤랑">
+        <Dialog ID="20" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland8</VoiceFile>
           <Content>อ๊า~ เข็มทิศ? ให้ใช้มันเป็นอุปกรณ์บอกทิศทางไปเลยรึไง?</Content>
         </Dialog>
-        <Dialog ID="21" โมdel="앤젤라">
+        <Dialog ID="21" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela14</VoiceFile>
           <Content>ถูกตัอง คำเชิญเหล่านั้นจะนำพาฉันไปสู่หนังสือเล่มหนึ่งที่ฉันต้องการ ที่อยากจะได้มัน</Content>
         </Dialog>
-        <Dialog ID="22" โมdel="앤젤라">
+        <Dialog ID="22" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela15</VoiceFile>
           <Content>และบางครั้งคำเชิญอาจเปลี่ยนเป็นสีแดงตามหนังสือที่นายลงทะเบียนแล้ว</Content>
         </Dialog>
-        <Dialog ID="23" โมdel="앤젤라">
+        <Dialog ID="23" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela16</VoiceFile>
           <Content>คำเชิญสีแดงระบุว่าสามารถส่งไปยังแขกรับเชิญพิเศษที่จะคลี่คลายส่วนต่อไปของเรื่องราวได้</Content>
         </Dialog>
-        <Dialog ID="24" โมdel="앤젤라">
+        <Dialog ID="24" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela17</VoiceFile>
           <Content>จนกว่าเราจะลงทะเบียนหนังสือที่ตรงกับคำเชิญสีแดง การเดินทางของเรานั้นจะถูกหยุดไว้สักหน่อย</Content>
         </Dialog>
-        <Dialog ID="25" โมdel="롤랑">
+        <Dialog ID="25" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland9</VoiceFile>
           <Content>แต่ไม่มีการรับประกันว่าแขกจะตอบรับคำเชิญอยู่เสมอ ใช่ม่ะ?</Content>
         </Dialog>
-        <Dialog ID="26" โมdel="앤젤라">
+        <Dialog ID="26" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela18</VoiceFile>
           <Content>ความจริงก็คือ พวกเขาถูกกำหนดให้มาที่นี่น่ะ</Content>
         </Dialog>
-        <Dialog ID="27" โมdel="앤젤라">
+        <Dialog ID="27" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela19</VoiceFile>
           <Content>แขกจะตอบรับคำเชิญด้วยตัวของพวกเขาเองและก็จะเข้ามาที่ห้องสมุดแห่งนี้</Content>
         </Dialog>
-        <Dialog ID="28" โมdel="롤랑">
+        <Dialog ID="28" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland10</VoiceFile>
           <Content>นั้นมันเป็นเรื่องที่สุภาพและยุติธรรมมากๆ จนน่าประหลาดใจกับสิ่งที่เกิดขึ้นในเมืองนี้นะ</Content>
         </Dialog>
-        <Dialog ID="29" โมdel="롤랑">
+        <Dialog ID="29" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland11</VoiceFile>
           <Content>นั้นเพราะว่าแทบจะตลอดเวลา ชีวิตของผู้คนมักจะถูกพรากไปโดยผู้อื่น แบบที่ไม่ได้รับความยินยอมหรือว่าเห็นด้วยกับมันเลยด้วยซ้ำ</Content>
         </Dialog>
-        <Dialog ID="30" โมdel="롤랑">
+        <Dialog ID="30" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland12</VoiceFile>
           <Content>เอาล่ะ เมื่อเราได้รับหนังสือเหล่านั้นมา แล้วยังไงต่อ?</Content>
         </Dialog>
-        <Dialog ID="31" โมdel="앤젤라">
+        <Dialog ID="31" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela20</VoiceFile>
           <Content>ห้องสมุดแห่งนี้เป็นสถานที่แห่งความเป็นไปได้ไร้ขีดจำกัด</Content>
         </Dialog>
-        <Dialog ID="32" โมdel="앤젤라">
+        <Dialog ID="32" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela21</VoiceFile>
           <Content>แม้แต่ฉันเองก็ไม่สามารถหยั่งรู้ถึงพื้นที่อันไร้ที่สิ้นสุดและพลังของห้องสมุดแห่งนี้ได้เลย</Content>
         </Dialog>
-        <Dialog ID="33" โมdel="앤젤라">
+        <Dialog ID="33" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela22</VoiceFile>
           <Content>นั้นแหละ เป็นเหตุผลที่ว่าทำไมฉันต้องการทำให้ห้องสมุดเติมเต็มช่องว่างเหล่านั้น ให้เต็มไปด้วยหนังสือ</Content>
         </Dialog>
-        <Dialog ID="34" โมdel="앤젤라">
+        <Dialog ID="34" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela23</VoiceFile>
           <Content>แล้วหลังจากนั้นฉันก็จะต้องได้หนังสือที่สมบูรณ์แบบที่สุดที่ฉันต้องการ มาไว้ที่ห้องสมุดของฉัน</Content>
         </Dialog>
-        <Dialog ID="35" โมdel="롤랑">
+        <Dialog ID="35" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland13</VoiceFile>
@@ -645,31 +645,31 @@
       <EpisodeName>Episode 4</EpisodeName>
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
-        <Dialog ID="0" โมdel="롤랑">
+        <Dialog ID="0" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Prol_ep4_roland1</VoiceFile>
           <Content>ขอเดาเลยนะว่าหนังสือที่นี่คงไม่ใช่หนังสือที่ฉันรู้จักธรรมดาๆอย่างแน่นอน</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="앤젤라">
+        <Dialog ID="1" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Prol_ep4_angela1</VoiceFile>
           <Content>หนังสือในห้องสมุดเหล่านี้มีความพิเศษเพราะมันสร้างขึ้นมาจากมนุษย์</Content>
         </Dialog>
-        <Dialog ID="2" โมdel="앤젤라">
+        <Dialog ID="2" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Prol_ep4_angela2</VoiceFile>
           <Content>หนังสือเหล่านี้จะโชว์ในสิ่งที่ผู้อ่านต้องอยากที่จะเห็น</Content>
         </Dialog>
-        <Dialog ID="3" โมdel="앤젤라">
+        <Dialog ID="3" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Prol_ep4_angela3</VoiceFile>
           <Content>สิ่งที่หนังสือสามารถโชว์ให้เห็นได้นั้น เฉพาะข้อมูลต้นฉบับของบุคคลๆนึ่งที่มี ดังนั้นมันจึงมีขีดจำกัดของมัน แต่ถึงกระนั้นมูลค่าของมันอาจแตกต่างกันไปมากน้อยขึ้นอยู่กับว่าใครเป็นคนอ่าน</Content>
         </Dialog>
-        <Dialog ID="4" โมdel="롤랑">
+        <Dialog ID="4" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Prol_ep4_roland2</VoiceFile>
@@ -684,73 +684,73 @@
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
         <PlaceName>สถานที่: ที่ไหนสักแห่งในแบ็คสตรีท</PlaceName>
-        <Dialog ID="0" โมdel="피트">
+        <Dialog ID="0" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit1</VoiceFile>
           <Content>เฮ้ย! เร็วๆเข้า เร่งมือหน่อย พวกสมุน Zwei อาจมาถึงที่นี่ได้ทันทีเลยนะ</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="레니">
+        <Dialog ID="1" model="레니">
           <Teller>เลนนี่</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_lenny1</VoiceFile>
           <Content>ฉันก็ทำเต็มที่แล้วน่า!</Content>
         </Dialog>
-        <Dialog ID="2" โมdel="레니">
+        <Dialog ID="2" model="레니">
           <Teller>เลนนี่</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_lenny2</VoiceFile>
           <Content>ฉันไม่สามารถแยกส่วนเครื่องในของเขาได้ ข้างในของผู้ชายคนนี้มันแปลกๆนะ</Content>
         </Dialog>
-        <Dialog ID="3" โมdel="레니">
+        <Dialog ID="3" model="레니">
           <Teller>เลนนี่</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_lenny3</VoiceFile>
           <Content>ฉันไม่เคยได้ยินมาก่อนว่ามีการดัดแปลงร่างกายแบบนี้ด้วย…</Content>
         </Dialog>
-        <Dialog ID="4" โมdel="망치">
+        <Dialog ID="4" model="망치">
           <Teller>มัง-ชิ</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_mangchi1</VoiceFile>
           <Content>มีบางอย่างผิดปกติเกี่ยวกับอวัยวะพวกนี้ มันดูแปลกๆจริงๆด้วย…</Content>
         </Dialog>
-        <Dialog ID="5" โมdel="피트">
+        <Dialog ID="5" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit2</VoiceFile>
           <Content>แม่งเอ๊ย! พวกมันใกล้เข้ามาเรื่อยๆแล้ว.</Content>
         </Dialog>
-        <Dialog ID="6" โมdel="피트">
+        <Dialog ID="6" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit3</VoiceFile>
           <Content>ช่างเรื่องแยกส่วนมันเหอะ แค่ดึงๆมันออกมาก็พอแล้ว!!</Content>
         </Dialog>
-        <Dialog ID="7" โมdel="피트">
+        <Dialog ID="7" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit4</VoiceFile>
           <Content>ถ้าเป็นอย่างงี้ หัวของพวกเราคงถูกตัดออกจากตัวแน่ๆ</Content>
         </Dialog>
-        <Dialog ID="8" โมdel="레니">
+        <Dialog ID="8" model="레니">
           <Teller>เลนนี่</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_lenny4</VoiceFile>
           <Content>ทำไมมีของแบบนี้อยู่ในตัวของเขาด้วย…</Content>
         </Dialog>
-        <Dialog ID="9" โมdel="피트">
+        <Dialog ID="9" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit5</VoiceFile>
           <Content>อะไรก็เอาไปเหอะ! เราไม่มีเวลาแล้ว!</Content>
         </Dialog>
-        <Dialog ID="10" โมdel="망치">
+        <Dialog ID="10" model="망치">
           <Teller>มัง-ชิ</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_mangchi2</VoiceFile>
           <Content>ใกล้เสร็จแล้ว!</Content>
         </Dialog>
-        <Dialog ID="11" โมdel="피트">
+        <Dialog ID="11" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit6</VoiceFile>
@@ -759,199 +759,199 @@
       </Place>
       <Place>
         <PlaceName>สถานที่: ที่ซ่อนในแบ็คสตรีท</PlaceName>
-        <Dialog ID="12" โมdel="레니">
+        <Dialog ID="12" model="레니">
           <Teller>เลนนี่</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_lenny5</VoiceFile>
           <Content>ว้า… เกือบไปแล้ว</Content>
         </Dialog>
-        <Dialog ID="13" โมdel="망치">
+        <Dialog ID="13" model="망치">
           <Teller>มัง-ชิ</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_mangchi3</VoiceFile>
           <Content>นายนี่กล้าเกินไปแล้วนะพีท พาไปหาเก็บเครื่องในในพื้นที่ดูแลของพวก Zwei</Content>
         </Dialog>
-        <Dialog ID="14" โมdel="피트">
+        <Dialog ID="14" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit7</VoiceFile>
           <Content>ก็มีงานให้ทำเหลือแค่นี้เองละนะ</Content>
         </Dialog>
-        <Dialog ID="15" โมdel="피트">
+        <Dialog ID="15" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit8</VoiceFile>
           <Content>ไม่ว่าจะใช้วิธีไหนก็ตาม ถ้าหากจำเป็นเราก็ต้องใช้ปีนขึ้นไปให้ได้ละนะ…</Content>
         </Dialog>
-        <Dialog ID="16" โมdel="피트">
+        <Dialog ID="16" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit9</VoiceFile>
           <Content>นายก็รู้นี่ ว่าฉันก็มีความฝัน? อยากจะเป็นหนี่งในฟิงเกอร์ของแบ็คสตรีท</Content>
         </Dialog>
-        <Dialog ID="17" โมdel="망치">
+        <Dialog ID="17" model="망치">
           <Teller>มัง-ชิ</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_mangchi4</VoiceFile>
           <Content>ฉันนับถือนายเลย ทุกวันนี้หายากมากที่จะเจอคนที่คิดที่จะอยากทำตามความฝัน</Content>
         </Dialog>
-        <Dialog ID="18" โมdel="망치">
+        <Dialog ID="18" model="망치">
           <Teller>มัง-ชิ</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_mangchi5</VoiceFile>
           <Content>แต่ก่อนนั้นเรามาเอาเครื่องในที่เราได้มาไปขายกันก่อน</Content>
         </Dialog>
-        <Dialog ID="19" โมdel="망치">
+        <Dialog ID="19" model="망치">
           <Teller>มัง-ชิ</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_mangchi6</VoiceFile>
           <Content>เราต้องเตรียมเงินให้พอเพื่อจ่ายให้กับพวกสเตรย์ด็อกอีกนะ</Content>
         </Dialog>
-        <Dialog ID="20" โมdel="피트">
+        <Dialog ID="20" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit10</VoiceFile>
           <Content>ก็จริงนะ… นี่อาจเป็นโอกาสให้เราได้เข้าร่วมกับองค์ใหญ่ระดับตำนานของเมืองได้…</Content>
         </Dialog>
-        <Dialog ID="21" โมdel="피트">
+        <Dialog ID="21" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit11</VoiceFile>
           <Content>เอาล่ะ มาเช็คของที่เราหามาได้กันเหอะ</Content>
         </Dialog>
-        <Dialog ID="22" โมdel="피트">
+        <Dialog ID="22" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit12</VoiceFile>
           <Content>เฮ้ย! ล้อกันเล่นใช่มั้ย? ของพวกเนี้ยนะที่พวกนายยัดใส่กระเป๋ากันมา!?</Content>
         </Dialog>
-        <Dialog ID="23" โมdel="레니">
+        <Dialog ID="23" model="레니">
           <Teller>เลนนี่</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_lenny6</VoiceFile>
           <Content>ฉันก็บอกนายแล้วว่าเครื่องในของหมอเนี้ยมันแปลก</Content>
         </Dialog>
-        <Dialog ID="24" โมdel="피트">
+        <Dialog ID="24" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit13</VoiceFile>
           <Content>เห้ย ก็นึกว่าเครื่องในจะเปื้อนไปด้วยพวกยาเอนเคฟาลินนั้นซะอีก…</Content>
         </Dialog>
-        <Dialog ID="25" โมdel="피트">
+        <Dialog ID="25" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit14</VoiceFile>
           <Content>แต่นี่เครื่องในมันเสียหายเกินไป เหมือนว่ามีคนมาทำให้มันเละข้างในมาก่อน</Content>
         </Dialog>
-        <Dialog ID="26" โมdel="망치">
+        <Dialog ID="26" model="망치">
           <Teller>มัง-ชิ</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_mangchi7</VoiceFile>
           <Content>แต่เราใช้แค่ยาสลบกับเขาเองนะ ไม่ได้ทำอะไรอย่างอื่นเลย</Content>
         </Dialog>
-        <Dialog ID="27" โมdel="피트">
+        <Dialog ID="27" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit15</VoiceFile>
           <Content>ไม่สมเหตุสมผลเลยแฮะ คนเราจะเดินไปมาได้กับอวัยวะภายในที่เละแบบนี้ได้ยังไง…</Content>
         </Dialog>
-        <Dialog ID="28" โมdel="망치">
+        <Dialog ID="28" model="망치">
           <Teller>มัง-ชิ</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_mangchi8</VoiceFile>
           <Content>…ถ้ามันเป็นหนึ่งในเรื่องนั้นล่ะ? นายก็รู้นี่ ข่าวลือที่ว่า มีคนที่ถูกไม้เสียบและร้อยด้ายทำให้มีชีวิตเหมือนกับเป็นตุ๊กตาน่ะ…</Content>
         </Dialog>
-        <Dialog ID="29" โมdel="피트">
+        <Dialog ID="29" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit16</VoiceFile>
           <Content>อ่าใช่ ฉันก็เคยได้ยินมาอย่างนั้น แต่ดูสภาพข้างในนั้นสิ! มันไม่เหมือนแบบนั้นสักนิดเดียว</Content>
         </Dialog>
-        <Dialog ID="30" โมdel="피트">
+        <Dialog ID="30" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit17</VoiceFile>
           <Content>ที่ฉันได้ยินมาว่าตุ๊กตานั้นทำขึ้นโดยใช้เนื้อและกระดูกมาร้อยเข้าด้วยกัน แต่ไอ้ห่านั้น มันไม่มีรอยแผลหรือรอยเย็บให้เห็นเลย!</Content>
         </Dialog>
-        <Dialog ID="31" โมdel="망치">
+        <Dialog ID="31" model="망치">
           <Teller>มัง-ชิ</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_mangchi9</VoiceFile>
           <Content>…พอมาคิดดูแล้วนะ ที่หลังคอของเขามีสัญลักษณ์สีส้มกลมๆอยู่นะ</Content>
         </Dialog>
-        <Dialog ID="32" โมdel="망치">
+        <Dialog ID="32" model="망치">
           <Teller>มัง-ชิ</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_mangchi10</VoiceFile>
           <Content>ตอนแรกฉันคิดว่ามันเป็นรอยสัก แต่ดูเหมือนว่าเขาจะไม่ใช่คนประเภทนั้น เขาเป็นไอ้บื้อที่ทำงานนั่งโต๊ะไปวันๆนิ</Content>
         </Dialog>
-        <Dialog ID="33" โมdel="피트">
+        <Dialog ID="33" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit18</VoiceFile>
           <Content>สัญลักษณ์? รอยสัก? แม่งเอ๊ย อย่าบอกนะว่าเราไปเล่นผิดคนเข้าให้แล้ว…</Content>
         </Dialog>
-        <Dialog ID="34" โมdel="레니">
+        <Dialog ID="34" model="레니">
           <Teller>เลนนี่</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_lenny7</VoiceFile>
           <Content>นอกจากนั้นนะ…</Content>
         </Dialog>
-        <Dialog ID="35" โมdel="레니">
+        <Dialog ID="35" model="레니">
           <Teller>เลนนี่</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_lenny8</VoiceFile>
           <Content>เขามีซองนี่อยู่ในตัวด้วยแหละ</Content>
         </Dialog>
-        <Dialog ID="36" โมdel="피트">
+        <Dialog ID="36" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit19</VoiceFile>
           <Content>ซองบ้าอะไรอยู่ในตัวมนุษย์เนี้ย!? ยิ่งฟังยิ่งเลวร้ายขึ้นเรื่อยๆ… เอามานี่หน่อยสิ!</Content>
         </Dialog>
-        <Dialog ID="37" โมdel="피트">
+        <Dialog ID="37" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit20</VoiceFile>
           <Content>บัตรเชิญไปห้องสมุด? เหี้ยอะไรว่ะเนี้ย…</Content>
         </Dialog>
-        <Dialog ID="38" โมdel="망치">
+        <Dialog ID="38" model="망치">
           <Teller>มัง-ชิ</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_mangchi11</VoiceFile>
           <Content>หนังสือ? เราจะได้รับหนังสือจากห้องสมุดหรอ? ฟังดูเป็นเรื่องไร้สาระนะ</Content>
         </Dialog>
-        <Dialog ID="39" โมdel="레니">
+        <Dialog ID="39" model="레니">
           <Teller>เลนนี่</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_lenny9</VoiceFile>
           <Content>ดูเหมือนว่าที่ทำมาทั้งหมดจะล้มเหลวละนะ …สำหรับส่วนที่ต้องจ่ายในวันพรุ้งนี้</Content>
         </Dialog>
-        <Dialog ID="40" โมdel="레니">
+        <Dialog ID="40" model="레니">
           <Teller>เลนนี่</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_lenny10</VoiceFile>
-          <Content>เรามีเวลาแค่ 7 ชั่วโมง มันน้อยเกินไปสำหรับการที่จะไปหาเครื่องในอีกครั้งนะ…</Content>
+          <Content>เรามีเวลาแค่ 7 ชั่วmoง มันน้อยเกินไปสำหรับการที่จะไปหาเครื่องในอีกครั้งนะ…</Content>
         </Dialog>
-        <Dialog ID="41" โมdel="피트">
+        <Dialog ID="41" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit21</VoiceFile>
           <Content>…งั้นเราต้องมุ่งหน้าไปยังห้องสมุดตามคำเชิญนั้น</Content>
         </Dialog>
-        <Dialog ID="42" โมdel="피트">
+        <Dialog ID="42" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit22</VoiceFile>
           <Content>ฉันไม่รู้ว่า "หนังสือ" ที่ว่ามันคืออะไร แต่เราไม่มีทางเลือกอื่นแล้วละ เราต้องใช้โอกาสที่ได้รับมานี้เท่านั้น</Content>
         </Dialog>
-        <Dialog ID="43" โมdel="망치">
+        <Dialog ID="43" model="망치">
           <Teller>มัง-ชิ</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_mangchi12</VoiceFile>
           <Content>เนี้ยจะไม่ใช่การไปฆ่าตัวตายไปหน่อยหรอ? เรายังไม่รู้เลยว่าสถานที่นั้นเป็นยังไงนะ</Content>
         </Dialog>
-        <Dialog ID="44" โมdel="피트">
+        <Dialog ID="44" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit23</VoiceFile>
@@ -960,187 +960,187 @@
       </Place>
       <Place>
         <PlaceName>สถานที่: ด้านในห้องสมุด - การส่งคำเชิญครั้งที่หนึ่ง</PlaceName>
-        <Dialog ID="45" โมdel="롤랑">
+        <Dialog ID="45" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland1</VoiceFile>
           <Content>ที่พวกเราเห็นนั้นมันอะไร…?</Content>
         </Dialog>
-        <Dialog ID="46" โมdel="앤젤라">
+        <Dialog ID="46" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela1</VoiceFile>
           <Content>ส่วนหนึ่งของกระบวนการเชิญน่ะ</Content>
         </Dialog>
-        <Dialog ID="47" โมdel="앤젤라">
+        <Dialog ID="47" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela2</VoiceFile>
           <Content>เราสามารถส่องเรื่องราวของแขกที่กำลังจะมาหาพวกเราได้</Content>
         </Dialog>
-        <Dialog ID="48" โมdel="롤랑">
+        <Dialog ID="48" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland2</VoiceFile>
           <Content>ฉันไม่คิดเลยว่าเธอจะเป็นพวกมีนิสัยชอบถ้ำมองเลยนะเนี้ย</Content>
         </Dialog>
-        <Dialog ID="49" โมdel="앤젤라">
+        <Dialog ID="49" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela3</VoiceFile>
           <Content>มันจะไม่สะดวกกว่าใช่หรอ? ที่จะรู้จักประเภทของแขกสักหน่อยก่อนที่พวกเขาจะมาน่ะ</Content>
         </Dialog>
-        <Dialog ID="50" โมdel="앤젤라">
+        <Dialog ID="50" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela4</VoiceFile>
           <Content>อีกอย่าง มันเป็นขั้นตอนของการเชิญ ไม่ใช่ฉันเป็นคนกำหนดซะหน่อย</Content>
         </Dialog>
-        <Dialog ID="51" โมdel="롤랑">
+        <Dialog ID="51" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland3</VoiceFile>
           <Content>มันเป็นสิ่งที่ยอดเยี่ยมเลยครับคุณผู้หญิง ใช้เหยื่อล่อและลักพาตัว ช่างเป็นเครื่องมือก่ออาชญกรรมที่สมบูรณ์เลยแฮะ</Content>
         </Dialog>
-        <Dialog ID="52" โมdel="롤랑">
+        <Dialog ID="52" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland4</VoiceFile>
           <Content>เฮ้ ถ้าการเชิญมันทำได้ขนาดนี้แล้ว ทำไมเราไม่ข้ามขั้นตอนการตอนรับทั้งหมดไปเลยล่ะ?</Content>
         </Dialog>
-        <Dialog ID="53" โมdel="롤랑">
+        <Dialog ID="53" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland5</VoiceFile>
           <Content>เราก็แค่ย้ายพวกเขาเข้าไปในห้องที่เต็มไปด้วยกับดักหรืออะไรสักอย่างก็ได้นิ?</Content>
         </Dialog>
-        <Dialog ID="54" โมdel="앤젤라">
+        <Dialog ID="54" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela5</VoiceFile>
           <Content>ฉันทำแบบนั้นไม่ได้ เราสามารถดูได้ก็ต่อเมื่อแขกมีการตัดสินใจจะมาที่นี่โดยความสมัครใจของพวกเขาเอง</Content>
         </Dialog>
-        <Dialog ID="55" โมdel="앤젤라">
+        <Dialog ID="55" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela6</VoiceFile>
           <Content>แล้วพลังของการเชิญก็ไม่ใช่ของฉันทั้งหมด้วยเช่นกัน ฉันแค่ยืมมันมา</Content>
         </Dialog>
-        <Dialog ID="56" โมdel="롤랑">
+        <Dialog ID="56" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland6</VoiceFile>
           <Content>ใช่ ใช่ ไม่มีทางที่ทุกอย่างจะเป็นไปได้อย่างราบรื่นในเมืองแห่งนี้สินะ</Content>
         </Dialog>
-        <Dialog ID="57" โมdel="앤젤라">
+        <Dialog ID="57" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela7</VoiceFile>
           <Content>พวกเขาเป็นแขกที่ดูสิ้นหวังจังนะ</Content>
         </Dialog>
-        <Dialog ID="58" โมdel="롤랑">
+        <Dialog ID="58" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland7</VoiceFile>
           <Content>งั้นช่วยบอกฉันหน่อย ขั้นตอนของการเชิญทำให้เกิดตราสัญลักษณ์นั้นและความเสียหายในร่างกายนั้นด้วยหรอ?</Content>
         </Dialog>
-        <Dialog ID="59" โมdel="앤젤라">
+        <Dialog ID="59" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela8</VoiceFile>
           <Content>อะไร? ขั้นตอนการเชิญ ไม่มีทางทำให้เกิดเรื่องแบบนั้นได้หรอก</Content>
         </Dialog>
-        <Dialog ID="60" โมdel="앤젤라">
+        <Dialog ID="60" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela9</VoiceFile>
           <Content>การเชิญจะทำเพียงแค่หาทางไปยังผู้รับที่ต้องการมันเท่านั้น</Content>
         </Dialog>
-        <Dialog ID="61" โมdel="롤랑">
+        <Dialog ID="61" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland8</VoiceFile>
           <Content>ถ้าอย่างงั้นเรื่องแปลกๆที่เกิดขึ้นเป็นฝีมือของคนอื่นสินะ… </Content>
         </Dialog>
-        <Dialog ID="62" โมdel="롤랑">
+        <Dialog ID="62" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland9</VoiceFile>
           <Content>ฉันไม่เคยเห็นอะไรแบบนั้นมาก่อน ตั้งแต่เมื่อตอนที่ฉันยังเป็นฟิคเซอร์อยู่เลยนะ มันเหมือนกับอะไรบางอย่างที่มาจาก “Ruins” สินะ…</Content>
         </Dialog>
-        <Dialog ID="63" โมdel="앤젤라">
+        <Dialog ID="63" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela10</VoiceFile>
           <Content>Ruins?</Content>
         </Dialog>
-        <Dialog ID="64" โมdel="롤랑">
+        <Dialog ID="64" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland10</VoiceFile>
           <Content>…ฉันก็ไม่รู้อะไรมากหรอกนะ แค่ได้แต่ได้ยินเรื่องเล่าของมัน จะว่ายังไงดีละมันเป็นเหมือน… เวทมนตร์ละมั้ง?</Content>
         </Dialog>
-        <Dialog ID="65" โมdel="롤랑">
+        <Dialog ID="65" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland11</VoiceFile>
           <Content>อะไรพวกนั้นมันมีอยู่ใน Ruins น่ะ</Content>
         </Dialog>
-        <Dialog ID="66" โมdel="앤젤라">
+        <Dialog ID="66" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela11</VoiceFile>
           <Content>ยังไงก็แล้วแต่ พวกเราต้องไปทักทายแขกได้แล้ว แม้ดูว่าพวกเขาดูจะเป็นคนระดับต่ำก็ตาม แต่ก็ช่างเถอะ</Content>
         </Dialog>
-        <Dialog ID="67" โมdel="롤랑">
+        <Dialog ID="67" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland12</VoiceFile>
           <Content>พวกนั้นน่าจะเป็นกลุ่มแก๊งอันธพาลจากแบ็คสตรีทที่เรียกว่า พวก‘Rats’.</Content>
         </Dialog>
-        <Dialog ID="68" โมdel="롤랑">
+        <Dialog ID="68" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland13</VoiceFile>
           <Content>กลุ่มแก๊งอันธพาลครึ่งๆกลางๆ แทบไม่มีค่าพอจะเป็นองค์กรได้ พวกเขาไม่มีแม้แต่เงินหรืออำนาจใดๆ</Content>
         </Dialog>
-        <Dialog ID="69" โมdel="롤랑">
+        <Dialog ID="69" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland14</VoiceFile>
           <Content>พวกเขาเป็นพวกขี้แพ้ที่คิดแต่จะทำเรื่องให้จบไปวันๆ</Content>
         </Dialog>
-        <Dialog ID="70" โมdel="롤랑">
+        <Dialog ID="70" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland15</VoiceFile>
           <Content>อืมม… พอพูดแล้วเหมือนฉันกำลังล้อตัวเองอยู่อย่างงั้นนะ</Content>
         </Dialog>
-        <Dialog ID="71" โมdel="앤젤라">
+        <Dialog ID="71" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela12</VoiceFile>
           <Content>แบ็คสตรีท… ฉันรู้จักนะ</Content>
         </Dialog>
-        <Dialog ID="72" โมdel="롤랑">
+        <Dialog ID="72" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland16</VoiceFile>
           <Content>รู้จักด้วยหรอ?</Content>
         </Dialog>
-        <Dialog ID="73" โมdel="앤젤라">
+        <Dialog ID="73" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela13</VoiceFile>
           <Content>เพราะใครสักคนที่ฉันรู้จักก็มาจากแบ็คสตรีท</Content>
         </Dialog>
-        <Dialog ID="74" โมdel="롤랑">
+        <Dialog ID="74" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland17</VoiceFile>
           <Content>อ้อ มันไม่มีอะไรพิเศษหรอก แบ็คสตรีทมันขยายตัวแพร่ไปทั่วเมืองอย่างรวดเร็วเหมือนกะเส้นเลือด</Content>
         </Dialog>
-        <Dialog ID="75" โมdel="롤랑">
+        <Dialog ID="75" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland18</VoiceFile>
@@ -1149,73 +1149,73 @@
       </Place>
       <Place>
         <PlaceName>สถานที่: ทางเข้าห้องสมุด</PlaceName>
-        <Dialog ID="76" โมdel="피트">
+        <Dialog ID="76" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit24</VoiceFile>
           <Content>งั้นที่คือห้องสมุดที่ว่านั้น ดูหรูกว่าที่คิดนะ</Content>
         </Dialog>
-        <Dialog ID="77" โมdel="레니">
+        <Dialog ID="77" model="레니">
           <Teller>เลนนี่</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_lenny11</VoiceFile>
           <Content>อาจจะมีของหลายอย่างที่มีราคาอยู่ที่นี่ด้วยนะ</Content>
         </Dialog>
-        <Dialog ID="78" โมdel="앤젤라">
+        <Dialog ID="78" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela14</VoiceFile>
           <Content>สวัสดีค่ะ ท่านแขกทุกท่าน ที่นี้คือห้องสมุด</Content>
         </Dialog>
-        <Dialog ID="79" โมdel="앤젤라">
+        <Dialog ID="79" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela15</VoiceFile>
           <Content>และฉันแองเจล่าเป็นบรรณารักษ์และผู้ดูแลที่แห่งนี้</Content>
         </Dialog>
-        <Dialog ID="80" โมdel="앤젤라">
+        <Dialog ID="80" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela16</VoiceFile>
           <Content>คุณอาจพบสิ่งที่คุณต้องการได้ที่นี่ แต่คุณก็อาจจะต้องสูญเสียสิ่งที่คุณมีค่าที่สุดในที่แห่งนี่ให้กับเราได้ด้วยเช่นกัน</Content>
         </Dialog>
-        <Dialog ID="81" โมdel="피트">
+        <Dialog ID="81" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit25</VoiceFile>
           <Content>เธอเป็นเจ้าของที่นี่สินะ? เราได้รับอนุญาตให้เอาสิ่งของที่นี่ตามที่เราต้องการได้ ใช่ไหม?</Content>
         </Dialog>
-        <Dialog ID="82" โมdel="앤젤라">
+        <Dialog ID="82" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela17</VoiceFile>
           <Content>แน่นอนค่ะ คุณอาจได้รับหนังสือเหล่านั้นอย่างแน่นอน</Content>
         </Dialog>
-        <Dialog ID="83" โมdel="앤젤라">
+        <Dialog ID="83" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela18</VoiceFile>
           <Content>ถ้าหากว่าคุณทำได้</Content>
         </Dialog>
-        <Dialog ID="84" โมdel="망치">
+        <Dialog ID="84" model="망치">
           <Teller>มัง-ชิ</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_mangchi13</VoiceFile>
           <Content>ว่าแต่หนังสือพวกนี้มันมีค่ามากขนาดนั้นเลยหรอ?</Content>
         </Dialog>
-        <Dialog ID="85" โมdel="앤젤라">
+        <Dialog ID="85" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela19</VoiceFile>
           <Content>แน่นอนค่ะ มันอาจเป็นไปได้ว่ามีค่า หากข้อมูลที่เก็บในนั้นมีค่าจริงๆ</Content>
         </Dialog>
-        <Dialog ID="86" โมdel="피트">
+        <Dialog ID="86" model="피트">
           <Teller>พีท</Teller>
           <Title>Rat</Title>
           <VoiceFile>ch1_rat_ep1_pit26</VoiceFile>
           <Content>มัง-ชิ! ขอทานไม่มีสิทธิ์เลือกหรอกนะ ถ้าเราเจออะไรได้ก็ต้องเอาละนะ</Content>
         </Dialog>
-        <Dialog ID="87" โมdel="앤젤라">
+        <Dialog ID="87" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela20</VoiceFile>
@@ -1227,13 +1227,13 @@
       <EpisodeName>Episode 1 - Conclusion</EpisodeName>
       <Place>
         <PlaceName>สถานที่: ภายในห้องสมุด</PlaceName>
-        <Dialog ID="0" โมdel="앤젤라">
+        <Dialog ID="0" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_rat_ep1_angela21</VoiceFile>
           <Content>ฉันสงสัยว่ามันสำคัญขนาดนั้นหรอที่ได้เป็นส่วนหนึ่งขององค์กรที่มีชื่อเสียงน่ะ?</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="롤랑">
+        <Dialog ID="1" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland19</VoiceFile>
@@ -1248,169 +1248,169 @@
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
         <PlaceName>สถานที่: สักที่ใน Backstreets</PlaceName>
-        <Dialog ID="0" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="0" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม1</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo1</VoiceFile>
           <Content>พ-วกนายควรคอยบรรจุน้ำยาสมองเข้าไปในหัวเป็นประจำนะรู้ไหม</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="1" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม2</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo2</VoiceFile>
           <Content>ส-สติมันจะทือถ้าเกิดสมองมันแห้งน่ะ</Content>
         </Dialog>
-        <Dialog ID="2" โมdel="아놀드">
+        <Dialog ID="2" model="아놀드">
           <Teller>อาร์โนลด์</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_อาร์โนลด์1</VoiceFile>
           <Content>ว-ว่าแล้วทำไมช่วงนี้ฉันถึงรู้สึกมึนหัว</Content>
         </Dialog>
-        <Dialog ID="3" โมdel="콘스타">
+        <Dialog ID="3" model="콘스타">
           <Teller>คอนสตา</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_คอนสตา1</VoiceFile>
           <Content>ล-แล้วคราวนี้เราจะไปปล้นที่ไหนกันหรอ?</Content>
         </Dialog>
-        <Dialog ID="4" โมdel="아놀드">
+        <Dialog ID="4" model="아놀드">
           <Teller>อาร์โนลด์</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_อาร์โนลด์2</VoiceFile>
           <Content>ฉ-ฉันว่าเราควรไปปล้นพวกเวิร์คช็อป พ-พวกนั้นมันรวย แถมยังมีชิ้นส่วนอุปกรณ์ดีๆอีกต่างหาก</Content>
         </Dialog>
-        <Dialog ID="5" โมdel="콘스타">
+        <Dialog ID="5" model="콘스타">
           <Teller>คอนสตา</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_คอนสตา2</VoiceFile>
           <Content>อ-ออฟฟิศล่ะ? ถ-ถ้าเราไปถล่มสักที่สองที่ล่ะก็ เราน่าจะได้เป็นที่พูดอยู่บ้างใช่ไหม</Content>
         </Dialog>
-        <Dialog ID="6" โมdel="아놀드">
+        <Dialog ID="6" model="아놀드">
           <Teller>อาร์โนลด์</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_อาร์โนลด์3</VoiceFile>
-          <Content>ด-ดูจากออฟฟิศที่เราสู้ไหวตอนนี้ มันคงไม่มีของมีค่าให้เราขโมยหรอก</Content>
+          <Content>ด-ดูจากออฟฟิศที่เราสู้ไหวตอนนี้ มันคงไม่มีของมีค่าให้เราขmoยหรอก</Content>
         </Dialog>
-        <Dialog ID="7" โมdel="콘스타">
+        <Dialog ID="7" model="콘스타">
           <Teller>คอนสตา</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_คอนสตา3</VoiceFile>
           <Content>ร-ร้านอาหารสิ! ฉ-ฉันชอบของอร่อยๆ</Content>
         </Dialog>
-        <Dialog ID="8" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="8" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม3</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo3</VoiceFile>
           <Content>อ-ไอ้เจ้างั่ง ล-ลืมไปแล้วรึไงว่าเราอุตส่าห์เปลี่ยนร่างกายมาเพื่ออะไร?!</Content>
         </Dialog>
-        <Dialog ID="9" โมdel="아놀드">
+        <Dialog ID="9" model="아놀드">
           <Teller>อาร์โนลด์</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_อาร์โนลด์4</VoiceFile>
           <Content>พ-เพราะว่าเราจะได้หาเงินโดยไม่ต้องไปกังวลเรื่องอาหารหรือการเจ็บป่วยไงล่ะ</Content>
         </Dialog>
-        <Dialog ID="10" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="10" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม4</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo4</VoiceFile>
           <Content>ถ-ถูกต้อง ต-ตอนนี้เราน่ะทนทานมากๆ</Content>
         </Dialog>
-        <Dialog ID="11" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="11" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม5</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo5</VoiceFile>
           <Content>ร-ร่างนี้ก็แค่ต้องเติมน้ำยาสมอง และก็ซ่อมบำรุงในยามจำเป็นก็เท่านั้นเอง</Content>
         </Dialog>
-        <Dialog ID="12" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="12" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม6</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo6</VoiceFile>
           <Content>ร-เราจะได้หาเงินโดยไม่ต้องหิวข้าวหิวน้ำ</Content>
         </Dialog>
-        <Dialog ID="13" โมdel="콘스타">
+        <Dialog ID="13" model="콘스타">
           <Teller>คอนสตา</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_คอนสตา4</VoiceFile>
           <Content>ก-ก็จริงอยู่ ก-การที่ได้เปลี่ยนถ่ายแบบครบร่างกายนี่ก็ถือว่าโชคดีอยู่หรอก</Content>
         </Dialog>
-        <Dialog ID="14" โมdel="콘스타">
+        <Dialog ID="14" model="콘스타">
           <Teller>คอนสตา</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_คอนสตา5</VoiceFile>
           <Content>ต-แต่มันก็อึดอัดอยู่ดี ถ-ถึงไม่จำเป็นต้องกิน แต่ในหัวฉันมันมีแต่ของอร่อยๆที่เคยกินสมัยก่อน เยอะจนฉันอยากจะลิ้มรสมันอีกสักครั้งอะ</Content>
         </Dialog>
-        <Dialog ID="15" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="15" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม7</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo7</VoiceFile>
           <Content>ก-ก็เพราะเราใช้ร่างกายถูกๆ จากเวิร์คช็อปถูกๆไงล่ะ</Content>
         </Dialog>
-        <Dialog ID="16" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="16" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม8</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo8</VoiceFile>
           <Content>ร-เราก็แค่หาเงินมากกว่านี้ แล้วก็ซื้อร่างกายที่ดีกว่ามาเปลี่ยนก็พอแล้ว</Content>
         </Dialog>
-        <Dialog ID="17" โมdel="아놀드">
+        <Dialog ID="17" model="아놀드">
           <Teller>อาร์โนลด์</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_อาร์โนลด์5</VoiceFile>
           <Content>ถ-ถ้าเป็นของแพงล่ะก็ เห็นบอกว่าสามารถปรับอารมณ์และก็ปิดความอยากทั้งหมดได้เลยล่ะ แถมยังมีคุณภาพที่ดีอีกต่างหาก...</Content>
         </Dialog>
-        <Dialog ID="18" โมdel="아놀드">
+        <Dialog ID="18" model="아놀드">
           <Teller>อาร์โนลด์</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_อาร์โนลด์6</VoiceFile>
           <Content>ต-แต่ขนาดราคาถูกที่สุดในชุด ก็แพงมากพอจนซื้อบ้านในNestได้หลังหนึ่งเลยนะ</Content>
         </Dialog>
-        <Dialog ID="19" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="19" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม9</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo9</VoiceFile>
           <Content>ร-เรื่องนั้นอย่าพึ่งสนจะดีกว่า ร-เราควรมุ่งหน้าทำมาหากินไปก่อน</Content>
         </Dialog>
-        <Dialog ID="20" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="20" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม10</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo10</VoiceFile>
           <Content>ส-สุดท้ายเงินก็คือทุกอย่างอยู่ดี</Content>
         </Dialog>
-        <Dialog ID="21" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="21" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม11</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo11</VoiceFile>
           <Content>พ-เพราะงั้น อย่าพูดเรื่องร้านอาหารอีก น-ายจะทำให้ฉันอยากกินไปด้วยอีกคน</Content>
         </Dialog>
-        <Dialog ID="22" โมdel="콘스타">
+        <Dialog ID="22" model="콘스타">
           <Teller>คอนสตา</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_คอนสตา6</VoiceFile>
-          <Content>ม-โม…! มีกระดาษติดอยู่ที่ร่างกายนาย</Content>
+          <Content>ม-mo…! มีกระดาษติดอยู่ที่ร่างกายนาย</Content>
         </Dialog>
-        <Dialog ID="23" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="23" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม12</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo12</VoiceFile>
           <Content>ก-ก็ดีอยู่หรอกที่ร่างนี้ไม่มีระบบประสาท ต-แต่พอเกิดอะไรอย่างนี้ขึ้นก็น่ารำคาญเป็นบ้า</Content>
         </Dialog>
-        <Dialog ID="24" โมdel="아놀드">
+        <Dialog ID="24" model="아놀드">
           <Teller>อาร์โนลด์</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_อาร์โนลด์7</VoiceFile>
           <Content>ด-ดูไอ้กระดาษที่ว่านั่นก่อนเถอะ</Content>
         </Dialog>
-        <Dialog ID="25" โมdel="아놀드">
+        <Dialog ID="25" model="아놀드">
           <Teller>อาร์โนลด์</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_อาร์โนลด์8</VoiceFile>
           <Content>ฉ-ฉันไม่คิดว่ามันติดอยู่ที่นายตั้งแต่แรกนะ</Content>
         </Dialog>
-        <Dialog ID="26" โมdel="콘스타">
+        <Dialog ID="26" model="콘스타">
           <Teller>คอนสตา</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_คอนสตา7</VoiceFile>
           <Content>ร-หรือบางทีเราสร้างชื่อเสียไว้เยอะ จนใครสักคนส่งบัตรมาเชิญตัวรึไง?</Content>
         </Dialog>
-        <Dialog ID="27" โมdel="콘스타">
+        <Dialog ID="27" model="콘스타">
           <Teller>คอนสตา</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_คอนสตา8</VoiceFile>
@@ -1419,61 +1419,61 @@
       </Place>
       <Place>
         <PlaceName>สถานที่: ภายในห้องสมุด</PlaceName>
-        <Dialog ID="28" โมdel="앤젤라">
+        <Dialog ID="28" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Iron_ep1_angela1</VoiceFile>
           <Content>Syndicateทุกแก็งเต็มไปด้วยคนปัญหาอ่อนแบบนี้หมดเลยรึเปล่า?  ฉันคาดหวังอะไรที่มันดูดีกว่านี้น่ะ</Content>
         </Dialog>
-        <Dialog ID="29" โมdel="롤랑">
+        <Dialog ID="29" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland1</VoiceFile>
           <Content>ก็ขึ้นอยู่กับSyndicateนั้นแหละ  The Cityมีมันเต็มไปหมดเลย จะบอกว่าเท่าจำนวนFixerเลยก็ได้มั้ง</Content>
         </Dialog>
-        <Dialog ID="30" โมdel="롤랑">
+        <Dialog ID="30" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland2</VoiceFile>
           <Content>จริงๆมันก็แค่พวกนักเลงมารวมตัวกัน แล้วไปทำอะไรสักอย่างภายใต้ชื่อที่ตั้งไว้นั้นแหละ</Content>
         </Dialog>
-        <Dialog ID="31" โมdel="롤랑">
+        <Dialog ID="31" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland3</VoiceFile>
           <Content>พวกเขาก็ทำแทบจะทุกอย่าง ถ้าจะให้จำกัดความคงทำได้ยากไปหน่อย</Content>
         </Dialog>
-        <Dialog ID="32" โมdel="앤젤라">
+        <Dialog ID="32" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Iron_ep1_angela2</VoiceFile>
           <Content>พวกมันดูก้องแก้งจังเลยนะ มันเป็นจักรกลอย่างงั้นเหรอ?</Content>
         </Dialog>
-        <Dialog ID="33" โมdel="롤랑">
+        <Dialog ID="33" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland4</VoiceFile>
           <Content>เขาไม่ใช่จักรกลหรือAIหรอก ถึงจะรูปร่างอย่างงั้น</Content>
         </Dialog>
-        <Dialog ID="34" โมdel="롤랑">
+        <Dialog ID="34" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland5</VoiceFile>
           <Content>จักรกลบริสุทธิ์ที่มีความรู้สึกและความปราถนาเป็นของตัวเองน่ะ หายไปจากCityนานมากแล้ว</Content>
         </Dialog>
-        <Dialog ID="35" โมdel="롤랑">
+        <Dialog ID="35" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland6</VoiceFile>
           <Content>พวกนี้ก็แต่เปลี่ยนถ่ายอวัยวะแบบครบร่าง แล้วคงจะเป็นของกากๆจากเวิร์คช็อปห่วยๆแน่นอน...</Content>
         </Dialog>
-        <Dialog ID="36" โมdel="앤젤라">
+        <Dialog ID="36" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Iron_ep1_angela3</VoiceFile>
           <Content>เข้าใจแล้วล่ะ.</Content>
         </Dialog>
-        <Dialog ID="37" โมdel="롤랑">
+        <Dialog ID="37" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland7</VoiceFile>
@@ -1482,97 +1482,97 @@
       </Place>
       <Place>
         <PlaceName>สถานที่: ทางเข้าห้องสมุด</PlaceName>
-        <Dialog ID="38" โมdel="콘스타">
+        <Dialog ID="38" model="콘스타">
           <Teller>คอนสตา</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_คอนสตา9</VoiceFile>
           <Content>ร-เรามาหาของมีค่ากัน ใช่ไหม?</Content>
         </Dialog>
-        <Dialog ID="39" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="39" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม13</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo13</VoiceFile>
           <Content>ร-เราก็แค่ซัดหน้าสัตว์ประหลาด แล้วก็เอาหนังสือไปสักหน่อยไงล่ะ</Content>
         </Dialog>
-        <Dialog ID="40" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="40" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม14</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo14</VoiceFile>
           <Content>ย-อย่างน้อยไอ้ร่างนี้ ก็แข็งแรงอยู่พอตัว</Content>
         </Dialog>
-        <Dialog ID="41" โมdel="아놀드">
+        <Dialog ID="41" model="아놀드">
           <Teller>อาร์โนลด์</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_อาร์โนลด์9</VoiceFile>
           <Content>ร-เรามาเอาของพวกนั้น แต่ถ้าเจ้ากระดาษนั่นมันโกหกเราล่ะ?</Content>
         </Dialog>
-        <Dialog ID="42" โมdel="아놀드">
+        <Dialog ID="42" model="아놀드">
           <Teller>อาร์โนลด์</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_อาร์โนลด์10</VoiceFile>
           <Content>บ-บางทีเราคงหน่อมแน้มเกินไป</Content>
         </Dialog>
-        <Dialog ID="43" โมdel="앤젤라">
+        <Dialog ID="43" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Iron_ep1_angela4</VoiceFile>
           <Content>มิต้องเป็นกังวลไปค่ะ แขกทุกคน</Content>
         </Dialog>
-        <Dialog ID="44" โมdel="앤젤라">
+        <Dialog ID="44" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Iron_ep1_angela5</VoiceFile>
           <Content>ณ ที่แห่งนี้ เราปฎิบัติตามกฎที่เขียนในบัตรเชิญอย่างเคร่งครัด</Content>
         </Dialog>
-        <Dialog ID="45" โมdel="콘스타">
+        <Dialog ID="45" model="콘스타">
           <Teller>คอนสตา</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_คอนสตา10</VoiceFile>
           <Content>อุ้ยตายว้ายกรี๊ด</Content>
         </Dialog>
-        <Dialog ID="46" โมdel="앤젤라">
+        <Dialog ID="46" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Iron_ep1_angela6</VoiceFile>
           <Content>ยินดีต้อนรับแขกทุกคนค่ะ ที่นี่คือห้องสมุด</Content>
         </Dialog>
-        <Dialog ID="47" โมdel="앤젤라">
+        <Dialog ID="47" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Iron_ep1_angela7</VoiceFile>
           <Content>ส่วนฉันคือแองเจล่า เป็นบรรณารักษ์และผู้ดูแลที่แห่งนี้</Content>
         </Dialog>
-        <Dialog ID="48" โมdel="앤젤라">
+        <Dialog ID="48" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Iron_ep1_angela8</VoiceFile>
           <Content>ในห้องสมุดนี้ คุณสามารถนำหนังสือที่อยู่ในบัตรเชิญนั่นกลับไปได้ ถ้าเกิดคุณผ่านการทดสอบล่ะก็</Content>
         </Dialog>
-        <Dialog ID="49" โมdel="아놀드">
+        <Dialog ID="49" model="아놀드">
           <Teller>อาร์โนลด์</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_อาร์โนลด์11</VoiceFile>
           <Content>ต-ต้องเป็นฝีมือของพวกคนรวยแน่เลย อ-เอาไว้ให้พวกมันบันเทิงกันเล่นๆ</Content>
         </Dialog>
-        <Dialog ID="50" โมdel="콘스타">
+        <Dialog ID="50" model="콘스타">
           <Teller>คอนสตา</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_คอนสตา11</VoiceFile>
           <Content>ฉ-ฉันเคยได้ยินมา พ-พวกมันลักพาตัวคนจากBackstreet แล้วเอาไปขังในเขาวงกตที่ไม่มีทางออก ปล่อยให้เขาเดินไปมาตลอดกาล</Content>
         </Dialog>
-        <Dialog ID="51" โมdel="콘스타">
+        <Dialog ID="51" model="콘스타">
           <Teller>คอนสตา</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_คอนสตา12</VoiceFile>
           <Content>จ-จนกว่าจะตาย ไม่ได้เห็นแสงเดือนแสงตะวันอีกเลย</Content>
         </Dialog>
-        <Dialog ID="52" โมdel="모">
-          <Teller>โม</Teller>
+        <Dialog ID="52" model="모">
+          <Teller>mo</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
-          <VoiceFile>ch1_Iron_ep1_โม15</VoiceFile>
+          <VoiceFile>ch1_Iron_ep1_mo15</VoiceFile>
           <Content>ร-เรามาตั้งไกลขนาดนี้แล้ว เราต้องทำให้ได้ ย-อย่าพึ่งมาซึมเอาป่านนี้</Content>
         </Dialog>
-        <Dialog ID="53" โมdel="앤젤라">
+        <Dialog ID="53" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Iron_ep1_angela9</VoiceFile>
@@ -1584,79 +1584,79 @@
       <EpisodeName>Episode 1 - Conclusion</EpisodeName>
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
-        <Dialog ID="0" โมdel="롤랑">
+        <Dialog ID="0" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland8</VoiceFile>
           <Content>เห็นม่ะ การเอาสมองตัวเองไปใส่ในเศษเหล็กไม่ใช่เรื่องดีเลยสักนิด</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="앤젤라">
+        <Dialog ID="1" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Iron_ep1_angela10</VoiceFile>
           <Content>แต่มันก็ยังดีกว่าร่างกายบอบบางของมนุษย์ไม่ใช่เหรอ?</Content>
         </Dialog>
-        <Dialog ID="2" โมdel="롤랑">
+        <Dialog ID="2" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland9</VoiceFile>
           <Content>มันมีวิธีเสริมพลังกายตั้งหลายวิธี ที่ไม่ใช่การเปลี่ยนถ่าย</Content>
         </Dialog>
-        <Dialog ID="3" โมdel="롤랑">
+        <Dialog ID="3" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland10</VoiceFile>
           <Content>แบบว่า แม่มมีเยอะจริงๆนั้นแหละ รอยสักเอย แขนขากลเอย ยาปฏิชีวนะเอย ขอแค่มีกะตังอะไรก็เป็นไปได้ทั้งนั้นนั่นแหละ</Content>
         </Dialog>
-        <Dialog ID="4" โมdel="롤랑">
+        <Dialog ID="4" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland11</VoiceFile>
           <Content>กลับกัน การเปลี่ยนถ่ายร่างกายเป็นจักรกลน่ะ เป็นทางขาเดียวที่ไปแล้วจะกลับไม่ได้เลยล่ะ</Content>
         </Dialog>
-        <Dialog ID="5" โมdel="롤랑">
+        <Dialog ID="5" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland12</VoiceFile>
           <Content>ร่างหุ่นยนต์มันทำเลียนแบบมนุษย์ไม่ได้ขนาดนั้น ถึงบางคนจะเปลี่ยนแค่ส่วนกล้ามเนื้อ แต่อีกไม่นานชีวิตคนๆนั้นก็จะไม่เป็นสุขอีกเลย</Content>
         </Dialog>
-        <Dialog ID="6" โมdel="앤젤라">
+        <Dialog ID="6" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Iron_ep1_angela11</VoiceFile>
           <Content>แล้วการเอาสมองตัวเองยัดใส่จักรกลมันมีขอดียังไง?</Content>
         </Dialog>
-        <Dialog ID="7" โมdel="롤랑">
+        <Dialog ID="7" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland13</VoiceFile>
           <Content>หนึ่ง ตอนที่อยากได้เงินร้อนเงินไว เธอสามารถเอาอวัยวะของตัวเองไปเปลี่ยนเป็นกะตังจำนวนมากได้</Content>
         </Dialog>
-        <Dialog ID="8" โมdel="롤랑">
+        <Dialog ID="8" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland14</VoiceFile>
           <Content>สอง ถ้าเกิดต้องทำงานที่มันนานๆแล้ววนซ้ำไปมา ได้ยินมาว่าร่างหุ่นยนต์ก็เหมาะกับการใช้แรงงานแบบนี้มากเลย</Content>
         </Dialog>
-        <Dialog ID="9" โมdel="롤랑">
+        <Dialog ID="9" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland15</VoiceFile>
           <Content>พออวัยวะพังก็เปลี่ยนได้ พอมีความอยากก็คุมได้ จริงๆมันก็มีข้อดีอยู่นั่นแหละ</Content>
         </Dialog>
-        <Dialog ID="10" โมdel="앤젤라">
+        <Dialog ID="10" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Iron_ep1_angela12</VoiceFile>
           <Content>งานนานๆที่วนซ้ำไปมา...</Content>
         </Dialog>
-        <Dialog ID="11" โมdel="롤랑">
+        <Dialog ID="11" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland16</VoiceFile>
           <Content>อะไรจ้ะ สนใจอยากได้ร่างใหม่รึไง?</Content>
         </Dialog>
-        <Dialog ID="12" โมdel="앤젤라">
+        <Dialog ID="12" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Iron_ep1_angela13</VoiceFile>
@@ -1671,97 +1671,97 @@
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
         <PlaceName>Location: Somewhere in the Backstreets</PlaceName>
-        <Dialog ID="0" โมdel="해결사1">
+        <Dialog ID="0" model="해결사1">
           <Teller>Fixer 1</Teller>
           <Title>Yun’s Office</Title>
           <VoiceFile>ch1_Yun_ep1_fixer1_1</VoiceFile>
           <Content>Foiled again. I didn’t go through all the trouble of becoming a Fixer to do mundane chores like this.</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="해결사2">
+        <Dialog ID="1" model="해결사2">
           <Teller>Fixer 2</Teller>
           <Title>Yun’s Office</Title>
           <VoiceFile>ch1_Yun_ep1_fixer2_1</VoiceFile>
           <Content>You know how it is. Only a select few get to rise up in the ranks.</Content>
         </Dialog>
-        <Dialog ID="2" โมdel="핀">
+        <Dialog ID="2" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep1_finn1</VoiceFile>
           <Content>But still, we might see the light one day if we start out with smaller tasks, don’t you think?</Content>
         </Dialog>
-        <Dialog ID="3" โมdel="해결사2">
+        <Dialog ID="3" model="해결사2">
           <Teller>Fixer 2</Teller>
           <Title>Yun’s Office</Title>
           <VoiceFile>ch1_Yun_ep1_fixer2_2</VoiceFile>
           <Content>I envy your optimism, Finn.</Content>
         </Dialog>
-        <Dialog ID="4" โมdel="해결사2">
+        <Dialog ID="4" model="해결사2">
           <Teller>Fixer 2</Teller>
           <Title>Yun’s Office</Title>
           <VoiceFile>ch1_Yun_ep1_fixer2_3</VoiceFile>
           <Content>But a request like “Please find my lost cat before night falls” is seriously not it.</Content>
         </Dialog>
-        <Dialog ID="5" โมdel="해결사2">
+        <Dialog ID="5" model="해결사2">
           <Teller>Fixer 2</Teller>
           <Title>Yun’s Office</Title>
           <VoiceFile>ch1_Yun_ep1_fixer2_4</VoiceFile>
           <Content>Garbage Offices get garbage requests.</Content>
         </Dialog>
-        <Dialog ID="6" โมdel="해결사1">
+        <Dialog ID="6" model="해결사1">
           <Teller>Fixer 1</Teller>
           <Title>Yun’s Office</Title>
           <VoiceFile>ch1_Yun_ep1_fixer1_2</VoiceFile>
           <Content>Yeah, Finn. You probably had better things in mind when you became a Fixer.</Content>
         </Dialog>
-        <Dialog ID="7" โมdel="해결사1">
+        <Dialog ID="7" model="해결사1">
           <Teller>Fixer 1</Teller>
           <Title>Yun’s Office</Title>
           <VoiceFile>ch1_Yun_ep1_fixer1_3</VoiceFile>
           <Content>Y’know, a bigger field to play on.</Content>
         </Dialog>
-        <Dialog ID="8" โมdel="핀">
+        <Dialog ID="8" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep1_finn2</VoiceFile>
-          <Content>I’m sure I can โมve to a nicer Office or become an Associate Fixer someday if I keep working hard. Then I might…</Content>
+          <Content>I’m sure I can move to a nicer Office or become an Associate Fixer someday if I keep working hard. Then I might…</Content>
         </Dialog>
-        <Dialog ID="9" โมdel="핀">
+        <Dialog ID="9" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep1_finn3</VoiceFile>
           <Content>That’s odd… There’s this envelope in my pocket. It says ‘The Invitation’.</Content>
         </Dialog>
-        <Dialog ID="10" โมdel="해결사1">
+        <Dialog ID="10" model="해결사1">
           <Teller>Fixer 1</Teller>
           <Title>Yun’s Office</Title>
           <VoiceFile>ch1_Yun_ep1_fixer1_4</VoiceFile>
           <Content>Smells fishy.</Content>
         </Dialog>
-        <Dialog ID="11" โมdel="해결사2">
+        <Dialog ID="11" model="해결사2">
           <Teller>Fixer 2</Teller>
           <Title>Yun’s Office</Title>
           <VoiceFile>ch1_Yun_ep1_fixer2_5</VoiceFile>
           <Content>Can’t overlook something like this.</Content>
         </Dialog>
-        <Dialog ID="12" โมdel="해결사2">
+        <Dialog ID="12" model="해결사2">
           <Teller>Fixer 2</Teller>
           <Title>Yun’s Office</Title>
           <VoiceFile>ch1_Yun_ep1_fixer2_6</VoiceFile>
           <Content>Besides, if what’s written on the invitation is true, those “books” would be of interest to several Associations.</Content>
         </Dialog>
-        <Dialog ID="13" โมdel="핀">
+        <Dialog ID="13" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep1_finn4</VoiceFile>
           <Content>It is interesting, but… We don’t exactly know what’s in the library, right?</Content>
         </Dialog>
-        <Dialog ID="14" โมdel="핀">
+        <Dialog ID="14" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep1_finn5</VoiceFile>
           <Content>We should report this to the Office first and take care of it formally.</Content>
         </Dialog>
-        <Dialog ID="15" โมdel="해결사1">
+        <Dialog ID="15" model="해결사1">
           <Teller>Fixer 1</Teller>
           <Title>Yun’s Office</Title>
           <VoiceFile>ch1_Yun_ep1_fixer1_5</VoiceFile>
@@ -1770,37 +1770,37 @@
       </Place>
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
-        <Dialog ID="16" โมdel="앤젤라">
+        <Dialog ID="16" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep1_angela1</VoiceFile>
           <Content>They called themselves Fixers; do you happen to be friends with them?</Content>
         </Dialog>
-        <Dialog ID="17" โมdel="롤랑">
+        <Dialog ID="17" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep1_roland1</VoiceFile>
           <Content>What? Look, assuming all Fixers know each other is…</Content>
         </Dialog>
-        <Dialog ID="18" โมdel="롤랑">
+        <Dialog ID="18" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep1_roland2</VoiceFile>
           <Content>It’s like picking two random pedestrians and hoping they know each other.</Content>
         </Dialog>
-        <Dialog ID="19" โมdel="롤랑">
+        <Dialog ID="19" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep1_roland3</VoiceFile>
           <Content>Your question is basically asking these two strangers, “You’re both humans, so you must know each other, right?” You get what I mean?</Content>
         </Dialog>
-        <Dialog ID="20" โมdel="앤젤라">
+        <Dialog ID="20" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep1_angela2</VoiceFile>
           <Content>Sigh… I should expect to see many different kinds of Fixers if what you’re saying is true.</Content>
         </Dialog>
-        <Dialog ID="21" โมdel="롤랑">
+        <Dialog ID="21" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep1_roland4</VoiceFile>
@@ -1812,175 +1812,175 @@
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
         <PlaceName>Location: Yun’s Office</PlaceName>
-        <Dialog ID="0" โมdel="핀">
+        <Dialog ID="0" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn1</VoiceFile>
           <Content>Sir, they still haven’t responded back to us.</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="핀">
+        <Dialog ID="1" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn2</VoiceFile>
           <Content>Something must have happened in that ‘Library’.</Content>
         </Dialog>
-        <Dialog ID="2" โมdel="윤">
+        <Dialog ID="2" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun1</VoiceFile>
           <Content>Plenty of Fixers disappear without a trace.</Content>
         </Dialog>
-        <Dialog ID="3" โมdel="윤">
+        <Dialog ID="3" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun2</VoiceFile>
           <Content>Whether they died or ran off, further lack of response means a violation of contract, and they’re facing expulsion from my Office.</Content>
         </Dialog>
-        <Dialog ID="4" โมdel="윤">
+        <Dialog ID="4" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun3</VoiceFile>
           <Content>And there is too little evidence to back up your claim about this “invitation”.</Content>
         </Dialog>
-        <Dialog ID="5" โมdel="윤">
+        <Dialog ID="5" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun4</VoiceFile>
           <Content>A door appeared out of thin air when they signed the paper, and they disappeared into that? Could be rich people’s shenanigans, or a Wing experimenting with its singularity.</Content>
         </Dialog>
-        <Dialog ID="6" โมdel="윤">
+        <Dialog ID="6" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun5</VoiceFile>
           <Content>‘Yun’s Office’ does not have any time to spare with things like that.</Content>
         </Dialog>
-        <Dialog ID="7" โมdel="핀">
+        <Dialog ID="7" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn3</VoiceFile>
           <Content>I might still be a Grade 9 Fixer, but I can sense that something’s off about this.</Content>
         </Dialog>
-        <Dialog ID="8" โมdel="윤">
+        <Dialog ID="8" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun6</VoiceFile>
           <Content>Oh really? How tragic that such good instincts of a Grade 9 Fixer are wasted on our humble Office.</Content>
         </Dialog>
-        <Dialog ID="9" โมdel="핀">
+        <Dialog ID="9" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn4</VoiceFile>
           <Content>……</Content>
         </Dialog>
-        <Dialog ID="10" โมdel="윤">
+        <Dialog ID="10" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun7</VoiceFile>
-          <Content>Listen up, little frog in the well. In this city, insane events happen every second of the day, โมst of which you haven’t even heard of.</Content>
+          <Content>Listen up, little frog in the well. In this city, insane events happen every second of the day, most of which you haven’t even heard of.</Content>
         </Dialog>
-        <Dialog ID="11" โมdel="윤">
+        <Dialog ID="11" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun8</VoiceFile>
           <Content>You won’t have time to be feeling “off” about something when there’s numerous other things that need your attention.</Content>
         </Dialog>
-        <Dialog ID="12" โมdel="윤">
+        <Dialog ID="12" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun9</VoiceFile>
           <Content>If you can’t present visible evidence right now, it’s not worth looking into.</Content>
         </Dialog>
-        <Dialog ID="13" โมdel="핀">
+        <Dialog ID="13" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn5</VoiceFile>
           <Content>What about that envelope right in front of you, operator?</Content>
         </Dialog>
-        <Dialog ID="14" โมdel="윤">
+        <Dialog ID="14" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun10</VoiceFile>
           <Content>…What?</Content>
         </Dialog>
-        <Dialog ID="15" โมdel="윤">
+        <Dialog ID="15" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun11</VoiceFile>
           <Content>You little brat, trying to pull a cheap trick on me?</Content>
         </Dialog>
-        <Dialog ID="16" โมdel="핀">
+        <Dialog ID="16" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn6</VoiceFile>
           <Content>…I didn’t do anything, I swear.</Content>
         </Dialog>
-        <Dialog ID="17" โมdel="윤">
+        <Dialog ID="17" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun12</VoiceFile>
-          <Content>Get out for a โมment.</Content>
+          <Content>Get out for a moment.</Content>
         </Dialog>
-        <Dialog ID="18" โมdel="윤">
+        <Dialog ID="18" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun13</VoiceFile>
           <Content>Hey. This is Yun’s Office.</Content>
         </Dialog>
-        <Dialog ID="19" โมdel="윤">
+        <Dialog ID="19" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun14</VoiceFile>
           <Content>Got a good lead this time.</Content>
         </Dialog>
-        <Dialog ID="20" โมdel="윤">
+        <Dialog ID="20" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun15</VoiceFile>
           <Content>……</Content>
         </Dialog>
-        <Dialog ID="21" โมdel="윤">
+        <Dialog ID="21" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun16</VoiceFile>
           <Content>Lend me some cash so I can hire a few.</Content>
         </Dialog>
-        <Dialog ID="22" โมdel="윤">
+        <Dialog ID="22" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun17</VoiceFile>
           <Content>……</Content>
         </Dialog>
-        <Dialog ID="23" โมdel="윤">
+        <Dialog ID="23" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun18</VoiceFile>
           <Content>No seriously, I have a good feeling about this.</Content>
         </Dialog>
-        <Dialog ID="24" โมdel="윤">
+        <Dialog ID="24" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun19</VoiceFile>
           <Content>…True, it can end up failing like you said.</Content>
         </Dialog>
-        <Dialog ID="25" โมdel="윤">
+        <Dialog ID="25" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun20</VoiceFile>
           <Content>……</Content>
         </Dialog>
-        <Dialog ID="26" โมdel="윤">
+        <Dialog ID="26" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun21</VoiceFile>
-          <Content>…I can check just one โมre time if you want.</Content>
+          <Content>…I can check just one more time if you want.</Content>
         </Dialog>
-        <Dialog ID="27" โมdel="윤">
+        <Dialog ID="27" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun22</VoiceFile>
           <Content>I’m not exactly fond of this method, but…</Content>
         </Dialog>
-        <Dialog ID="28" โมdel="윤">
+        <Dialog ID="28" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep2_yun23</VoiceFile>
@@ -1989,25 +1989,25 @@
       </Place>
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
-        <Dialog ID="29" โมdel="앤젤라">
+        <Dialog ID="29" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep2_angela1</VoiceFile>
           <Content>It seems Fixers must report to their Office before they can even begin working.</Content>
         </Dialog>
-        <Dialog ID="30" โมdel="롤랑">
+        <Dialog ID="30" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep2_roland1</VoiceFile>
           <Content>Well, that’s formally the case. I could bypass that since I ran a one-man Office, though.</Content>
         </Dialog>
-        <Dialog ID="31" โมdel="롤랑">
+        <Dialog ID="31" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep2_roland2</VoiceFile>
           <Content>Fixers aren’t any better than Syndicates when it comes to greed. </Content>
         </Dialog>
-        <Dialog ID="32" โมdel="롤랑">
+        <Dialog ID="32" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep2_roland3</VoiceFile>
@@ -2016,43 +2016,43 @@
       </Place>
       <Place>
         <PlaceName>Location: Library Entrance</PlaceName>
-        <Dialog ID="33" โมdel="핀">
+        <Dialog ID="33" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn7</VoiceFile>
           <Content>So this is the Library…</Content>
         </Dialog>
-        <Dialog ID="34" โมdel="핀">
+        <Dialog ID="34" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn8</VoiceFile>
           <Content>Yeah, Yun said we might even get sponsorship from an Association if I succeed. I’ll do my best!</Content>
         </Dialog>
-        <Dialog ID="35" โมdel="앤젤라">
+        <Dialog ID="35" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep2_angela2</VoiceFile>
           <Content>Greetings, Fixer. I am Angela, the librarian of my role’s namesake.</Content>
         </Dialog>
-        <Dialog ID="36" โมdel="핀">
+        <Dialog ID="36" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn9</VoiceFile>
           <Content>Hello. I’m Finn, a Fixer at Yun’s Office.</Content>
         </Dialog>
-        <Dialog ID="37" โมdel="핀">
+        <Dialog ID="37" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn10</VoiceFile>
           <Content>…Is it true that I can find “books” containing lots of information in this place?</Content>
         </Dialog>
-        <Dialog ID="38" โมdel="앤젤라">
+        <Dialog ID="38" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep2_angela3</VoiceFile>
           <Content>Yes, of course. You were given the invitation for that exact reason.</Content>
         </Dialog>
-        <Dialog ID="39" โมdel="앤젤라">
+        <Dialog ID="39" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep2_angela4</VoiceFile>
@@ -2064,43 +2064,43 @@
       <EpisodeName>Episode 2 - Conclusion</EpisodeName>
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
-        <Dialog ID="0" โมdel="롤랑">
+        <Dialog ID="0" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep2_roland4</VoiceFile>
           <Content>Oh boy. It’s not all that delightful to see such a young rookie fall like that, all things considered.</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="앤젤라">
+        <Dialog ID="1" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep2_angela5</VoiceFile>
           <Content>You said yourself that our way is quite polite and fair before, didn’t you?</Content>
         </Dialog>
-        <Dialog ID="2" โมdel="앤젤라">
+        <Dialog ID="2" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep2_angela6</VoiceFile>
-          <Content>That “โมst of the time, people’s lives are taken away by others without any consent or agreement.”</Content>
+          <Content>That “most of the time, people’s lives are taken away by others without any consent or agreement.”</Content>
         </Dialog>
-        <Dialog ID="3" โมdel="앤젤라">
+        <Dialog ID="3" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep2_angela7</VoiceFile>
           <Content>The Library is different.</Content>
         </Dialog>
-        <Dialog ID="4" โมdel="앤젤라">
+        <Dialog ID="4" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep2_angela8</VoiceFile>
           <Content>People who enter this place have agreed to risk death to gain what they want. They even sign the paper to show such agreement.</Content>
         </Dialog>
-        <Dialog ID="5" โมdel="앤젤라">
+        <Dialog ID="5" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep2_angela9</VoiceFile>
           <Content>No coercion or compulsion is involved in this process. They make their own choice and pay accordingly.</Content>
         </Dialog>
-        <Dialog ID="6" โมdel="롤랑">
+        <Dialog ID="6" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep2_roland5</VoiceFile>
@@ -2112,97 +2112,97 @@
       <EpisodeName>Episode 3</EpisodeName>
       <Place>
         <PlaceName>Location: Yun’s Office</PlaceName>
-        <Dialog ID="0" โมdel="윤">
+        <Dialog ID="0" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep3_yun1</VoiceFile>
           <Content>Finn has failed as expected. He wasn’t going to last too long, anyway.</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="윤">
+        <Dialog ID="1" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep3_yun2</VoiceFile>
-          <Content>He was just mediocre. He should have gotten a decent โมdification surgery, or had enough talent to make up for his lack of experience.</Content>
+          <Content>He was just mediocre. He should have gotten a decent modification surgery, or had enough talent to make up for his lack of experience.</Content>
         </Dialog>
-        <Dialog ID="2" โมdel="윤">
+        <Dialog ID="2" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep3_yun3</VoiceFile>
-          <Content>But he didn’t have any of that. He was nothing โมre than an overconfident brat.</Content>
+          <Content>But he didn’t have any of that. He was nothing more than an overconfident brat.</Content>
         </Dialog>
-        <Dialog ID="3" โมdel="에리">
+        <Dialog ID="3" model="에리">
           <Teller>Eri</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep3_eri1</VoiceFile>
           <Content>Too bad, I kinda liked his affable and cutesy attitude.</Content>
         </Dialog>
-        <Dialog ID="4" โมdel="에리">
+        <Dialog ID="4" model="에리">
           <Teller>Eri</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep3_eri2</VoiceFile>
           <Content>Though I agree, he was bound to die sooner or later.</Content>
         </Dialog>
-        <Dialog ID="5" โมdel="윤">
+        <Dialog ID="5" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep3_yun4</VoiceFile>
-          <Content>Congratulations, by the way. You must have โมre options now that you’re a Grade 8 Fixer.</Content>
+          <Content>Congratulations, by the way. You must have more options now that you’re a Grade 8 Fixer.</Content>
         </Dialog>
-        <Dialog ID="6" โมdel="에리">
+        <Dialog ID="6" model="에리">
           <Teller>Eri</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep3_eri3</VoiceFile>
-          <Content>Yep! So you’d better be careful. If you don’t pay me well enough, I might โมve to another Office.</Content>
+          <Content>Yep! So you’d better be careful. If you don’t pay me well enough, I might move to another Office.</Content>
         </Dialog>
-        <Dialog ID="7" โมdel="에리">
+        <Dialog ID="7" model="에리">
           <Teller>Eri</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep3_eri4</VoiceFile>
-          <Content>Heard that you’re barely covering your own taxes these days, let alone the โมnthly rent for this Office space, am I wrong?</Content>
+          <Content>Heard that you’re barely covering your own taxes these days, let alone the monthly rent for this Office space, am I wrong?</Content>
         </Dialog>
-        <Dialog ID="8" โมdel="윤">
+        <Dialog ID="8" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep3_yun5</VoiceFile>
           <Content>…I believe the case I had Finn handle could make a breakthrough.</Content>
         </Dialog>
-        <Dialog ID="9" โมdel="에리">
+        <Dialog ID="9" model="에리">
           <Teller>Eri</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep3_eri5</VoiceFile>
           <Content>You mean the Library and the invitation you talked about earlier.</Content>
         </Dialog>
-        <Dialog ID="10" โมdel="에리">
+        <Dialog ID="10" model="에리">
           <Teller>Eri</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep3_eri6</VoiceFile>
           <Content>But you said the invitation appears randomly, no? How are you going to get another one?</Content>
         </Dialog>
-        <Dialog ID="11" โมdel="윤">
+        <Dialog ID="11" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep3_yun6</VoiceFile>
           <Content>I wouldn’t have called you if I didn’t have certainty. I recently received another invitation.</Content>
         </Dialog>
-        <Dialog ID="12" โมdel="에리">
+        <Dialog ID="12" model="에리">
           <Teller>Eri</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep3_eri7</VoiceFile>
           <Content>Hmm. Is that so?</Content>
         </Dialog>
-        <Dialog ID="13" โมdel="윤">
+        <Dialog ID="13" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep3_yun7</VoiceFile>
           <Content>The existence of our Office depends on this case.</Content>
         </Dialog>
-        <Dialog ID="14" โมdel="윤">
+        <Dialog ID="14" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep3_yun8</VoiceFile>
           <Content>The Library is sure to be profitable. I have a hunch. So we’re giving it everything we have.</Content>
         </Dialog>
-        <Dialog ID="15" โมdel="에리">
+        <Dialog ID="15" model="에리">
           <Teller>Eri</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep3_eri8</VoiceFile>
@@ -2211,109 +2211,109 @@
       </Place>
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
-        <Dialog ID="16" โมdel="앤젤라">
+        <Dialog ID="16" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela1</VoiceFile>
           <Content>These guests seem quite determined. We should prepare accordingly.</Content>
         </Dialog>
-        <Dialog ID="17" โมdel="롤랑">
+        <Dialog ID="17" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland1</VoiceFile>
           <Content>A whole Office coming at us, huh.</Content>
         </Dialog>
-        <Dialog ID="18" โมdel="롤랑">
+        <Dialog ID="18" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland2</VoiceFile>
           <Content>It may be a small and insignificant one, but it could prove to be a little tough for the Library right now.</Content>
         </Dialog>
-        <Dialog ID="19" โมdel="롤랑">
+        <Dialog ID="19" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland3</VoiceFile>
           <Content>What if they make it all the way to your room?</Content>
         </Dialog>
-        <Dialog ID="20" โมdel="앤젤라">
+        <Dialog ID="20" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela2</VoiceFile>
           <Content>The guests cannot act outside of the space we’ve prepared for them. It’s how this place works.</Content>
         </Dialog>
-        <Dialog ID="21" โมdel="앤젤라">
+        <Dialog ID="21" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela3</VoiceFile>
           <Content>After all, this space is created with limitless power.</Content>
         </Dialog>
-        <Dialog ID="22" โมdel="앤젤라">
+        <Dialog ID="22" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela4</VoiceFile>
           <Content>Yet you somehow jumped right into my room, when you weren’t even invited… </Content>
         </Dialog>
-        <Dialog ID="23" โมdel="앤젤라">
+        <Dialog ID="23" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela5</VoiceFile>
           <Content>Anyways, I’m capable of protecting myself, so there’s nothing for you to worry about.</Content>
         </Dialog>
-        <Dialog ID="24" โมdel="앤젤라">
+        <Dialog ID="24" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela6</VoiceFile>
           <Content>Greetings, dear guests.</Content>
         </Dialog>
-        <Dialog ID="25" โมdel="윤">
+        <Dialog ID="25" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep3_yun9</VoiceFile>
           <Content>You must be the owner of this place.</Content>
         </Dialog>
-        <Dialog ID="26" โมdel="에리">
+        <Dialog ID="26" model="에리">
           <Teller>Eri</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep3_eri9</VoiceFile>
           <Content>She doesn’t even look that strong.</Content>
         </Dialog>
-        <Dialog ID="27" โมdel="윤">
+        <Dialog ID="27" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep3_yun10</VoiceFile>
           <Content>Finn must have been here earlier; what happened to him?</Content>
         </Dialog>
-        <Dialog ID="28" โมdel="앤젤라">
+        <Dialog ID="28" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela7</VoiceFile>
           <Content>Ah, that one has become a book.</Content>
         </Dialog>
-        <Dialog ID="29" โมdel="에리">
+        <Dialog ID="29" model="에리">
           <Teller>Eri</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep3_eri10</VoiceFile>
           <Content>I see, so you turn into a book if you die here~</Content>
         </Dialog>
-        <Dialog ID="30" โมdel="윤">
+        <Dialog ID="30" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep3_yun11</VoiceFile>
           <Content>……</Content>
         </Dialog>
-        <Dialog ID="31" โมdel="앤젤라">
+        <Dialog ID="31" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela8</VoiceFile>
           <Content>Acting all sentimental when you were the one who sent him here, knowing he’d fail?</Content>
         </Dialog>
-        <Dialog ID="32" โมdel="윤">
+        <Dialog ID="32" model="윤">
           <Teller>Yun</Teller>
           <Title>Office Operator</Title>
           <VoiceFile>ch1_Yun_ep3_yun12</VoiceFile>
           <Content>Shut up. We all get exploited and abandoned at some point in our lives.</Content>
         </Dialog>
-        <Dialog ID="33" โมdel="앤젤라">
+        <Dialog ID="33" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela9</VoiceFile>
@@ -2325,49 +2325,49 @@
       <EpisodeName>Episode 3 - Conclusion</EpisodeName>
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
-        <Dialog ID="0" โมdel="앤젤라">
+        <Dialog ID="0" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela10</VoiceFile>
           <Content>Excellent. This guest named Yun could make an especially valuable book for us.</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="롤랑">
+        <Dialog ID="1" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland4</VoiceFile>
-          <Content>They’re all like โมths diving into flames.</Content>
+          <Content>They’re all like moths diving into flames.</Content>
         </Dialog>
-        <Dialog ID="2" โมdel="롤랑">
+        <Dialog ID="2" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland5</VoiceFile>
           <Content>That Yun guy seemed like a clever sort, but even he ended up blindly jumping into the fire to get what he wanted.</Content>
         </Dialog>
-        <Dialog ID="3" โมdel="앤젤라">
+        <Dialog ID="3" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela11</VoiceFile>
           <Content>“Once you’ve had a taste of desire, it comes in like an unstoppable wave.” It’s a quote I heard a long time ago. </Content>
         </Dialog>
-        <Dialog ID="4" โมdel="앤젤라">
+        <Dialog ID="4" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela12</VoiceFile>
           <Content>But is that desire true to one’s heart…?</Content>
         </Dialog>
-        <Dialog ID="5" โมdel="롤랑">
+        <Dialog ID="5" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland6</VoiceFile>
           <Content>Well, aren’t you funny? You said you despise roundabout speech, and now you’re being all poetic.</Content>
         </Dialog>
-        <Dialog ID="6" โมdel="롤랑">
+        <Dialog ID="6" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland7</VoiceFile>
           <Content>Ten out of ten delivery, a certain librarian I know would have taken an arm and a leg off if she heard that.</Content>
         </Dialog>
-        <Dialog ID="7" โมdel="앤젤라">
+        <Dialog ID="7" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela13</VoiceFile>
@@ -2382,151 +2382,151 @@
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
         <PlaceName>Location: Somewhere in the Backstreets</PlaceName>
-        <Dialog ID="0" โมdel="맥컬린">
+        <Dialog ID="0" model="맥컬린">
           <Teller>McCullin</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin1</VoiceFile>
           <Content>My whole body’s still aching from our last job.</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="태인">
+        <Dialog ID="1" model="태인">
           <Teller>Taein</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_taein1</VoiceFile>
           <Content>That’s lasting longer than I thought. Still, yesterday was wild, wasn’t it?  </Content>
         </Dialog>
-        <Dialog ID="2" โมdel="맥컬린">
+        <Dialog ID="2" model="맥컬린">
           <Teller>McCullin</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin2</VoiceFile>
           <Content>Yep. The new weapon you got from the workshop was a real killer, that’s for sure.</Content>
         </Dialog>
-        <Dialog ID="3" โมdel="나오키">
+        <Dialog ID="3" model="나오키">
           <Teller>Naoki</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_naoki1</VoiceFile>
-          <Content>You don’t say. You got way too excited with it and things spiraled out of control. We had to kill 20 โมre people than planned thanks to you.</Content>
+          <Content>You don’t say. You got way too excited with it and things spiraled out of control. We had to kill 20 more people than planned thanks to you.</Content>
         </Dialog>
-        <Dialog ID="4" โมdel="나오키">
+        <Dialog ID="4" model="나오키">
           <Teller>Naoki</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_naoki2</VoiceFile>
           <Content>Since it was a mistake on our part, we couldn’t even get paid for the extra kills.</Content>
         </Dialog>
-        <Dialog ID="5" โมdel="태인">
+        <Dialog ID="5" model="태인">
           <Teller>Taein</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_taein2</VoiceFile>
           <Content>Come on, don’t be such a killjoy. You’re the one who went on the biggest rampage in the end.</Content>
         </Dialog>
-        <Dialog ID="6" โมdel="태인">
+        <Dialog ID="6" model="태인">
           <Teller>Taein</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_taein3</VoiceFile>
           <Content>Macca’s muscles are all sore because he had to try hard to calm you down.</Content>
         </Dialog>
-        <Dialog ID="7" โมdel="나오키">
+        <Dialog ID="7" model="나오키">
           <Teller>Naoki</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_naoki3</VoiceFile>
           <Content>W-well, I said I’m sorry about it…</Content>
         </Dialog>
-        <Dialog ID="8" โมdel="맥컬린">
+        <Dialog ID="8" model="맥컬린">
           <Teller>McCullin</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin3</VoiceFile>
           <Content>No need to sweat it. I owe you guys a few things, too.</Content>
         </Dialog>
-        <Dialog ID="9" โมdel="나오키">
+        <Dialog ID="9" model="나오키">
           <Teller>Naoki</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_naoki4</VoiceFile>
           <Content>I hate to admit it, but Taein has a point.</Content>
         </Dialog>
-        <Dialog ID="10" โมdel="나오키">
+        <Dialog ID="10" model="나오키">
           <Teller>Naoki</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_naoki5</VoiceFile>
           <Content>We all should try to cool down our temper a little.</Content>
         </Dialog>
-        <Dialog ID="11" โมdel="나오키">
+        <Dialog ID="11" model="나오키">
           <Teller>Naoki</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_naoki6</VoiceFile>
-          <Content>As long as we’re working as Fixers, it’s not good to raise โมre trouble than necessary.</Content>
+          <Content>As long as we’re working as Fixers, it’s not good to raise more trouble than necessary.</Content>
         </Dialog>
-        <Dialog ID="12" โมdel="태인">
+        <Dialog ID="12" model="태인">
           <Teller>Taein</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_taein4</VoiceFile>
           <Content>Former members of a killer Syndicate, now registered to an Office and doing Fixer work…</Content>
         </Dialog>
-        <Dialog ID="13" โมdel="태인">
+        <Dialog ID="13" model="태인">
           <Teller>Taein</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_taein5</VoiceFile>
           <Content>Life really is full of surprises, isn’t it?</Content>
         </Dialog>
-        <Dialog ID="14" โมdel="나오키">
+        <Dialog ID="14" model="나오키">
           <Teller>Naoki</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_naoki7</VoiceFile>
           <Content>This Office is a weird one too. Can’t believe people like us are accepted.</Content>
         </Dialog>
-        <Dialog ID="15" โมdel="맥컬린">
+        <Dialog ID="15" model="맥컬린">
           <Teller>McCullin</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin4</VoiceFile>
           <Content>Remember what the boss said. There are so many Offices and Fixers these days, so standing out from the others is the best way to survive in this industry.</Content>
         </Dialog>
-        <Dialog ID="16" โมdel="맥컬린">
+        <Dialog ID="16" model="맥컬린">
           <Teller>McCullin</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin5</VoiceFile>
           <Content>Our outfits are also quite radical compared to what other Offices have.</Content>
         </Dialog>
-        <Dialog ID="17" โมdel="태인">
+        <Dialog ID="17" model="태인">
           <Teller>Taein</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_taein6</VoiceFile>
           <Content>That’s why it’s filled with maniacs like us.</Content>
         </Dialog>
-        <Dialog ID="18" โมdel="맥컬린">
+        <Dialog ID="18" model="맥컬린">
           <Teller>McCullin</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin6</VoiceFile>
-          <Content>All we gotta do is kill the targets in the โมst gruesome way possible and hang their bodies out in the open. No wonder everyone’s excited to join.</Content>
+          <Content>All we gotta do is kill the targets in the most gruesome way possible and hang their bodies out in the open. No wonder everyone’s excited to join.</Content>
         </Dialog>
-        <Dialog ID="19" โมdel="태인">
+        <Dialog ID="19" model="태인">
           <Teller>Taein</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_taein7</VoiceFile>
           <Content>It’s no different from what we’ve always been doing.</Content>
         </Dialog>
-        <Dialog ID="20" โมdel="나오키">
+        <Dialog ID="20" model="나오키">
           <Teller>Naoki</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_naoki8</VoiceFile>
           <Content>At first, I thought it was crazy that an Office would do this kinda work…</Content>
         </Dialog>
-        <Dialog ID="21" โมdel="나오키">
+        <Dialog ID="21" model="나오키">
           <Teller>Naoki</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_naoki9</VoiceFile>
           <Content>But I guess “threatening targets and sending them a warning” makes enough sense. It seems to be working well, too.</Content>
         </Dialog>
-        <Dialog ID="22" โมdel="태인">
+        <Dialog ID="22" model="태인">
           <Teller>Taein</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_taein8</VoiceFile>
           <Content>Though we’ve only been getting requests from no-name Syndicates and poor folk. This Office has a long way to go.</Content>
         </Dialog>
-        <Dialog ID="23" โมdel="나오키">
+        <Dialog ID="23" model="나오키">
           <Teller>Naoki</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_naoki10</VoiceFile>
-          <Content>It does feel โมre like a pack of Rats than a proper Office.</Content>
+          <Content>It does feel more like a pack of Rats than a proper Office.</Content>
         </Dialog>
-        <Dialog ID="24" โมdel="맥컬린">
+        <Dialog ID="24" model="맥컬린">
           <Teller>McCullin</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin7</VoiceFile>
@@ -2535,55 +2535,55 @@
       </Place>
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
-        <Dialog ID="25" โมdel="롤랑">
+        <Dialog ID="25" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland1</VoiceFile>
           <Content>Even rascals like those can join Offices these days, huh.</Content>
         </Dialog>
-        <Dialog ID="26" โมdel="롤랑">
+        <Dialog ID="26" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland2</VoiceFile>
           <Content>The whole market’s a red ocean. Everyone wants to be a Fixer.</Content>
         </Dialog>
-        <Dialog ID="27" โมdel="앤젤라">
+        <Dialog ID="27" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela1</VoiceFile>
           <Content>And that doesn’t count as raking yourself over the coals, because…?</Content>
         </Dialog>
-        <Dialog ID="28" โมdel="롤랑">
+        <Dialog ID="28" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland3</VoiceFile>
           <Content>…Listen, I may not look like it, but I used to be hot stuff, y’know?</Content>
         </Dialog>
-        <Dialog ID="29" โมdel="롤랑">
+        <Dialog ID="29" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland4</VoiceFile>
           <Content>But then things happened and I fell to rock bottom.</Content>
         </Dialog>
-        <Dialog ID="30" โมdel="앤젤라">
+        <Dialog ID="30" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela2</VoiceFile>
           <Content>So, what did you do for a living?</Content>
         </Dialog>
-        <Dialog ID="31" โมdel="롤랑">
+        <Dialog ID="31" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland5</VoiceFile>
           <Content>I did all kinds of stuff, really. Doing things within my ability!</Content>
         </Dialog>
-        <Dialog ID="32" โมdel="앤젤라">
+        <Dialog ID="32" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela3</VoiceFile>
           <Content>Hmm. Is that so?</Content>
         </Dialog>
-        <Dialog ID="33" โมdel="앤젤라">
+        <Dialog ID="33" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela4</VoiceFile>
@@ -2592,90 +2592,90 @@
       </Place>
       <Place>
         <PlaceName>Location: Library Entrance</PlaceName>
-        <Dialog ID="34" โมdel="나오키">
+        <Dialog ID="34" model="나오키">
           <Teller>Naoki</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_naoki11</VoiceFile>
           <Content>Wow, we really did teleport in the blink of an eye.</Content>
         </Dialog>
-        <Dialog ID="35" โมdel="태인">
+        <Dialog ID="35" model="태인">
           <Teller>Taein</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_taein9</VoiceFile>
           <Content>Is this one of those Singularities?</Content>
         </Dialog>
-        <Dialog ID="36" โมdel="맥컬린">
+        <Dialog ID="36" model="맥컬린">
           <Teller>McCullin</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin8</VoiceFile>
           <Content>Lots of surprises these days.</Content>
         </Dialog>
-        <Dialog ID="37" โมdel="앤젤라">
+        <Dialog ID="37" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela5</VoiceFile>
           <Content>Greetings, dear guests.</Content>
         </Dialog>
-        <Dialog ID="38" โมdel="나오키">
+        <Dialog ID="38" model="나오키">
           <Teller>Naoki</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_naoki12</VoiceFile>
           <Content>Hi there?</Content>
         </Dialog>
-        <Dialog ID="39" โมdel="태인">
+        <Dialog ID="39" model="태인">
           <Teller>Taein</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_taein10</VoiceFile>
           <Content>What the… She’s pretty damn sturdy. How much did you spend on that bod? </Content>
         </Dialog>
-        <Dialog ID="40" โมdel="앤젤라">
+        <Dialog ID="40" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela6</VoiceFile>
           <Content>There is no need to needlessly exhaust yourself, dear guest.</Content>
         </Dialog>
-        <Dialog ID="41" โมdel="앤젤라">
+        <Dialog ID="41" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela7</VoiceFile>
           <Content>You’ll need to rampage with all you have soon enough.</Content>
         </Dialog>
-        <Dialog ID="42" โมdel="태인">
+        <Dialog ID="42" model="태인">
           <Teller>Taein</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_taein11</VoiceFile>
           <Content>I don’t like your soft tone.</Content>
         </Dialog>
-        <Dialog ID="43" โมdel="나오키">
+        <Dialog ID="43" model="나오키">
           <Teller>Naoki</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_naoki13</VoiceFile>
           <Content>You’re not human, are you?</Content>
         </Dialog>
-        <Dialog ID="44" โมdel="앤젤라">
+        <Dialog ID="44" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <Content>…</Content>
         </Dialog>
-        <Dialog ID="45" โมdel="태인">
+        <Dialog ID="45" model="태인">
           <Teller>Taein</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_taein12</VoiceFile>
           <Content>Ooh, look at her face now. Guess she really isn’t?</Content>
         </Dialog>
-        <Dialog ID="46" โมdel="맥컬린">
+        <Dialog ID="46" model="맥컬린">
           <Teller>McCullin</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin9</VoiceFile>
           <Content>Yet another surprise. It’s so rare to meet a sapient being that isn’t human in this City.</Content>
         </Dialog>
-        <Dialog ID="47" โมdel="나오키">
+        <Dialog ID="47" model="나오키">
           <Teller>Naoki</Teller>
           <Title>Hook Fixer</Title>
           <VoiceFile>ch1_Hook_ep1_naoki14</VoiceFile>
           <Content>I know, right? We might get a ton of cash out of this! </Content>
         </Dialog>
-        <Dialog ID="48" โมdel="앤젤라">
+        <Dialog ID="48" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela8</VoiceFile>
@@ -2687,259 +2687,259 @@
       <EpisodeName>Episode 1 - Conclusion</EpisodeName>
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
-        <Dialog ID="0" โมdel="앤젤라">
+        <Dialog ID="0" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela9</VoiceFile>
-          <Content>Great work as always. I could learn โมre about the Offices thanks to these guests.</Content>
+          <Content>Great work as always. I could learn more about the Offices thanks to these guests.</Content>
         </Dialog>
-        <Dialog ID="1" โมdel="롤랑">
+        <Dialog ID="1" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland6</VoiceFile>
           <Content>I, uh… Don’t get too bothered by what they said about you, alright?</Content>
         </Dialog>
-        <Dialog ID="2" โมdel="앤젤라">
+        <Dialog ID="2" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela10</VoiceFile>
           <Content>Are you trying to console me?</Content>
         </Dialog>
-        <Dialog ID="3" โมdel="롤랑">
+        <Dialog ID="3" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland7</VoiceFile>
           <Content>Maybe, maybe not… I don’t really care if you’re actually human or not, you see.</Content>
         </Dialog>
-        <Dialog ID="4" โมdel="앤젤라">
+        <Dialog ID="4" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela11</VoiceFile>
           <Content>That’s refreshing to hear. It’s been quite a while since I heard such words of comfort. From even one person, too…</Content>
         </Dialog>
-        <Dialog ID="5" โมdel="롤랑">
+        <Dialog ID="5" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland8</VoiceFile>
           <Content>Well, we’re in the age of humanity, after all.</Content>
         </Dialog>
-        <Dialog ID="6" โมdel="앤젤라">
+        <Dialog ID="6" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela12</VoiceFile>
           <Content>Age of humanity? What does that mean, exactly?</Content>
         </Dialog>
-        <Dialog ID="7" โมdel="롤랑">
+        <Dialog ID="7" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland9</VoiceFile>
           <Content>Don’t stare at me too hard, now… I don’t know all the details, either.</Content>
         </Dialog>
-        <Dialog ID="8" โมdel="롤랑">
+        <Dialog ID="8" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland10</VoiceFile>
           <Content>At some point, intelligent or sapient beings that weren’t human were actively driven out of the City into the Outskirts. </Content>
         </Dialog>
-        <Dialog ID="9" โมdel="롤랑">
+        <Dialog ID="9" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland11</VoiceFile>
-          <Content>I’m not too sure why it took place, but the Artificial Intelligence Ethics Amendment was introduced as part of that โมvement…</Content>
+          <Content>I’m not too sure why it took place, but the Artificial Intelligence Ethics Amendment was introduced as part of that movement…</Content>
         </Dialog>
-        <Dialog ID="10" โมdel="롤랑">
+        <Dialog ID="10" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland12</VoiceFile>
-          <Content>It was already possible to create machines capable of feeling eโมtions and desires, actually. Those that are… pretty much human, in other words.</Content>
+          <Content>It was already possible to create machines capable of feeling emotions and desires, actually. Those that are… pretty much human, in other words.</Content>
         </Dialog>
-        <Dialog ID="11" โมdel="롤랑">
+        <Dialog ID="11" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland13</VoiceFile>
           <Content>I guess that was the problem.</Content>
         </Dialog>
-        <Dialog ID="12" โมdel="롤랑">
+        <Dialog ID="12" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland14</VoiceFile>
           <Content>Thanks to the AI Ethics Amendment, no machines could ever be made to resemble humans, including replacement bodies.</Content>
         </Dialog>
-        <Dialog ID="13" โมdel="롤랑">
+        <Dialog ID="13" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland15</VoiceFile>
           <Content>Though there seems to have been a few exceptions.</Content>
         </Dialog>
-        <Dialog ID="14" โมdel="앤젤라">
+        <Dialog ID="14" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela13</VoiceFile>
           <Content>…It’s as they said; I’m no human. I’m a machine, an artificial being.</Content>
         </Dialog>
-        <Dialog ID="15" โมdel="앤젤라">
+        <Dialog ID="15" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela14</VoiceFile>
           <Content>To be precise, I was designed using a human as a template. Only a fraction of her brain was used in my creation.</Content>
         </Dialog>
-        <Dialog ID="16" โมdel="롤랑">
+        <Dialog ID="16" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland16</VoiceFile>
           <Content>So it’s not even a human brain resting in a robotic body…?</Content>
         </Dialog>
-        <Dialog ID="17" โมdel="앤젤라">
+        <Dialog ID="17" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela15</VoiceFile>
           <Content>Not at all. I’m purely a machine.</Content>
         </Dialog>
-        <Dialog ID="18" โมdel="롤랑">
+        <Dialog ID="18" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland17</VoiceFile>
           <Content>What about that fraction of human brain you mentioned?</Content>
         </Dialog>
-        <Dialog ID="19" โมdel="앤젤라">
+        <Dialog ID="19" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela16</VoiceFile>
           <Content>It was only an electronic copy of the map of her brain.</Content>
         </Dialog>
-        <Dialog ID="20" โมdel="앤젤라">
+        <Dialog ID="20" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela17</VoiceFile>
           <Content>My body is entirely composed of mechanical components.</Content>
         </Dialog>
-        <Dialog ID="21" โมdel="롤랑">
+        <Dialog ID="21" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland18</VoiceFile>
           <Content>…I had a feeling.</Content>
         </Dialog>
-        <Dialog ID="22" โมdel="롤랑">
+        <Dialog ID="22" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland19</VoiceFile>
           <Content>And it looks like you’ve been living under a rock your whole life, seeing how you’re oblivious to the workings of the world…</Content>
         </Dialog>
-        <Dialog ID="23" โมdel="롤랑">
+        <Dialog ID="23" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland20</VoiceFile>
           <Content>You gotta be extra careful, then. Especially if you’re planning to leave here someday.</Content>
         </Dialog>
-        <Dialog ID="24" โมdel="롤랑">
+        <Dialog ID="24" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland21</VoiceFile>
-          <Content>You’re a sapient android with eโมtions and desires. Your existence is โมst likely a complete violation of the AI Ethics Amendment.</Content>
+          <Content>You’re a sapient android with emotions and desires. Your existence is most likely a complete violation of the AI Ethics Amendment.</Content>
         </Dialog>
-        <Dialog ID="25" โมdel="롤랑">
+        <Dialog ID="25" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland22</VoiceFile>
           <Content>The Head’s scarily good at spotting anomalies like you.</Content>
         </Dialog>
-        <Dialog ID="26" โมdel="롤랑">
+        <Dialog ID="26" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland23</VoiceFile>
           <Content>Oh, right. In case you don’t know, the Head is basically a bunch of shady creeps that rule over the entire City.  </Content>
         </Dialog>
-        <Dialog ID="27" โมdel="롤랑">
+        <Dialog ID="27" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland24</VoiceFile>
           <Content>Though we probably won’t ever get to face them.</Content>
         </Dialog>
-        <Dialog ID="28" โมdel="롤랑">
+        <Dialog ID="28" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland25</VoiceFile>
           <Content>Anyways, this whole Library is at a huge risk in the first place.</Content>
         </Dialog>
-        <Dialog ID="29" โมdel="롤랑">
+        <Dialog ID="29" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland26</VoiceFile>
           <Content>The librarians over here also seem like they’re humans but not really “human” at the same time.</Content>
         </Dialog>
-        <Dialog ID="30" โมdel="앤젤라">
+        <Dialog ID="30" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela18</VoiceFile>
           <Content>It’s just as you say…</Content>
         </Dialog>
-        <Dialog ID="31" โมdel="앤젤라">
+        <Dialog ID="31" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela19</VoiceFile>
-          <Content>I was designed to feel eโมtions, and I spent what felt like an eternity on a stage repeatedly performing a play that never seemed to end.</Content>
+          <Content>I was designed to feel emotions, and I spent what felt like an eternity on a stage repeatedly performing a play that never seemed to end.</Content>
         </Dialog>
-        <Dialog ID="32" โมdel="앤젤라">
+        <Dialog ID="32" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela20</VoiceFile>
           <Content>And when I thought it was finally over, turns out it never really ended.</Content>
         </Dialog>
-        <Dialog ID="33" โมdel="롤랑">
+        <Dialog ID="33" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland27</VoiceFile>
           <Content>I gotta say, whoever created you must have really been something else, too.</Content>
         </Dialog>
-        <Dialog ID="34" โมdel="롤랑">
+        <Dialog ID="34" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland28</VoiceFile>
-          <Content>I don’t know what โมtivated them, but breaking the rules designated by the Head itself takes โมre than just guts.</Content>
+          <Content>I don’t know what motivated them, but breaking the rules designated by the Head itself takes more than just guts.</Content>
         </Dialog>
-        <Dialog ID="35" โมdel="롤랑">
+        <Dialog ID="35" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland29</VoiceFile>
           <Content>No one can escape the Head’s enforcement.</Content>
         </Dialog>
-        <Dialog ID="36" โมdel="앤젤라">
+        <Dialog ID="36" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela21</VoiceFile>
           <Content>They did all eventually die.</Content>
         </Dialog>
-        <Dialog ID="37" โมdel="앤젤라">
+        <Dialog ID="37" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela22</VoiceFile>
           <Content>…But the Library will be safe. It has to be safe.</Content>
         </Dialog>
-        <Dialog ID="38" โมdel="앤젤라">
+        <Dialog ID="38" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela23</VoiceFile>
           <Content>It’s like a birdcage, no one is free to enter, and no one is free to leave…</Content>
         </Dialog>
-        <Dialog ID="39" โมdel="롤랑">
+        <Dialog ID="39" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland30</VoiceFile>
           <Content>Again with that dreamy speech you “despise” so much. What do you even mean by that?</Content>
         </Dialog>
-        <Dialog ID="40" โมdel="앤젤라">
+        <Dialog ID="40" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela24</VoiceFile>
           <Content>…I will leave this place one day, take revenge on all things that made me into what I am, and earn true freedom.</Content>
         </Dialog>
-        <Dialog ID="41" โมdel="롤랑">
+        <Dialog ID="41" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland31</VoiceFile>
           <Content>I don’t care too much either way.</Content>
         </Dialog>
-        <Dialog ID="42" โมdel="롤랑">
+        <Dialog ID="42" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland32</VoiceFile>
