@@ -1249,13 +1249,13 @@
       <Place>
         <PlaceName>สถานที่: สักที่ใน Backstreets</PlaceName>
         <Dialog ID="0" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo1</VoiceFile>
           <Content>พ-วกนายควรคอยบรรจุน้ำยาสมองเข้าไปในหัวเป็นประจำนะรู้ไหม</Content>
         </Dialog>
         <Dialog ID="1" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo2</VoiceFile>
           <Content>ส-สติมันจะทือถ้าเกิดสมองมันแห้งน่ะ</Content>
@@ -1297,7 +1297,7 @@
           <Content>ร-ร้านอาหารสิ! ฉ-ฉันชอบของอร่อยๆ</Content>
         </Dialog>
         <Dialog ID="8" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo3</VoiceFile>
           <Content>อ-ไอ้เจ้างั่ง ล-ลืมไปแล้วรึไงว่าเราอุตส่าห์เปลี่ยนร่างกายมาเพื่ออะไร?!</Content>
@@ -1309,19 +1309,19 @@
           <Content>พ-เพราะว่าเราจะได้หาเงินโดยไม่ต้องไปกังวลเรื่องอาหารหรือการเจ็บป่วยไงล่ะ</Content>
         </Dialog>
         <Dialog ID="10" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo4</VoiceFile>
           <Content>ถ-ถูกต้อง ต-ตอนนี้เราน่ะทนทานมากๆ</Content>
         </Dialog>
         <Dialog ID="11" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo5</VoiceFile>
           <Content>ร-ร่างนี้ก็แค่ต้องเติมน้ำยาสมอง และก็ซ่อมบำรุงในยามจำเป็นก็เท่านั้นเอง</Content>
         </Dialog>
         <Dialog ID="12" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo6</VoiceFile>
           <Content>ร-เราจะได้หาเงินโดยไม่ต้องหิวข้าวหิวน้ำ</Content>
@@ -1339,13 +1339,13 @@
           <Content>ต-แต่มันก็อึดอัดอยู่ดี ถ-ถึงไม่จำเป็นต้องกิน แต่ในหัวฉันมันมีแต่ของอร่อยๆที่เคยกินสมัยก่อน เยอะจนฉันอยากจะลิ้มรสมันอีกสักครั้งอะ</Content>
         </Dialog>
         <Dialog ID="15" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo7</VoiceFile>
           <Content>ก-ก็เพราะเราใช้ร่างกายถูกๆ จากเวิร์คช็อปถูกๆไงล่ะ</Content>
         </Dialog>
         <Dialog ID="16" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo8</VoiceFile>
           <Content>ร-เราก็แค่หาเงินมากกว่านี้ แล้วก็ซื้อร่างกายที่ดีกว่ามาเปลี่ยนก็พอแล้ว</Content>
@@ -1363,19 +1363,19 @@
           <Content>ต-แต่ขนาดราคาถูกที่สุดในชุด ก็แพงมากพอจนซื้อบ้านในNestได้หลังหนึ่งเลยนะ</Content>
         </Dialog>
         <Dialog ID="19" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo9</VoiceFile>
           <Content>ร-เรื่องนั้นอย่าพึ่งสนจะดีกว่า ร-เราควรมุ่งหน้าทำมาหากินไปก่อน</Content>
         </Dialog>
         <Dialog ID="20" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo10</VoiceFile>
           <Content>ส-สุดท้ายเงินก็คือทุกอย่างอยู่ดี</Content>
         </Dialog>
         <Dialog ID="21" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo11</VoiceFile>
           <Content>พ-เพราะงั้น อย่าพูดเรื่องร้านอาหารอีก น-ายจะทำให้ฉันอยากกินไปด้วยอีกคน</Content>
@@ -1387,7 +1387,7 @@
           <Content>ม-mo…! มีกระดาษติดอยู่ที่ร่างกายนาย</Content>
         </Dialog>
         <Dialog ID="23" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo12</VoiceFile>
           <Content>ก-ก็ดีอยู่หรอกที่ร่างนี้ไม่มีระบบประสาท ต-แต่พอเกิดอะไรอย่างนี้ขึ้นก็น่ารำคาญเป็นบ้า</Content>
@@ -1489,13 +1489,13 @@
           <Content>ร-เรามาหาของมีค่ากัน ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="39" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo13</VoiceFile>
           <Content>ร-เราก็แค่ซัดหน้าสัตว์ประหลาด แล้วก็เอาหนังสือไปสักหน่อยไงล่ะ</Content>
         </Dialog>
         <Dialog ID="40" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo14</VoiceFile>
           <Content>ย-อย่างน้อยไอ้ร่างนี้ ก็แข็งแรงอยู่พอตัว</Content>
@@ -1567,7 +1567,7 @@
           <Content>จ-จนกว่าจะตาย ไม่ได้เห็นแสงเดือนแสงตะวันอีกเลย</Content>
         </Dialog>
         <Dialog ID="52" model="모">
-          <Teller>mo</Teller>
+          <Teller>โม</Teller>
           <Title>เหล่าพี่น้องโลหะ</Title>
           <VoiceFile>ch1_Iron_ep1_mo15</VoiceFile>
           <Content>ร-เรามาตั้งไกลขนาดนี้แล้ว เราต้องทำให้ได้ ย-อย่าพึ่งมาซึมเอาป่านนี้</Content>
