@@ -34,7 +34,7 @@
       <BattleDialog ID="START_BATTLE_2">อย่าดูพวกเราเพียงเพราะเป็นแค่หนูละ</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">How’s it feel to be wrecked by the Rats you look down on?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">เป็นไงล่ะ โดน Rats ที่ดูถูกนักหนาตบเอา?</BattleDialog>
       <BattleDialog ID="BATTLE_VICTORY_1">Well… I won’t lie, I was a little scared at first, but they were even weaker than I thought.</BattleDialog>
     </Type>
     <Type ID="DEATH">
