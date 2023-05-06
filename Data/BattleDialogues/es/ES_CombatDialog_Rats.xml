@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Rats</GroupName>
+  <Character ID="Pete">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">คิดว่าฉันเอาชนะพวกงั่งนั้นไม่ได้หรอรึไง?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">อย่าออมมือให้เราละ เพราะว่าเราจะไม่ทำเหมือนกัน</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">เราไม่กลัวพวกอ่อนนั่นหรอก</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">ถ้าเรายังทำได้ดีแบบนี้ฉันว่า เราสามารถตั้งเป้าหมายไปยัง Syndicates ที่ใหญ่กว่า the Stray Dogs ได้แน่!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">นี่มันหวานหมูสำหรับเราเลย!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…แม่งเอ้ย. ความฝัน… มันยังอยู่ไกลเกินเอื้อมเหลือเกิน…</BattleDialog>
+      <BattleDialog ID="DEATH_1">ฉันมันโง่เองสินะที่คิดฝันใหญ่เกินไป…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">แกต้องอยู่กับฉันจนจบเซ่!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">…เจ้าพวกบ้าเอ๊ย ทำไมพวกแกอ่อนจังวะ?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">แม่งเอ๊บ… เนี่ยไม่ค่อยแฟร์กับเราเลยว่ะ!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">อ่อนอย่างที่ฉันคิดไว้เลยแฮะ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">การเอาชนะพวกแกก็เป็นเรื่องง่ายๆสำหรับผู้ที่จะได้เป็น Finger อย่างฉัน </BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ฉันไม่ใช่แค่นักเลงบ้าๆทั่วไป แต่ฉันมีสมองยังไงล่ะ?</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Lenny">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">เฮ้อ… เรามีเวลาแค่ไม่กี่ชั่วโมงนะ มารีบทำให้จบๆกันเถอะ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">เฮ้ย เอามาให้ดูเหน่อยสิ!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">อย่าดูพวกเราเพียงเพราะเป็นแค่หนูละ</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">How’s it feel to be wrecked by the Rats you look down on?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Well… I won’t lie, I was a little scared at first, but they were even weaker than I thought.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Shit… Knew I shouldn’t have come here…</BattleDialog>
+      <BattleDialog ID="DEATH_1">I didn’t scrape at the bottom my whole life just to die like this…!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…Psh. Didn’t have much expectation for you anyway.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Just don’t be a nuisance.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Don’t really care if you die.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">You’re way too weak for guardians of supposedly important stuff.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">That was close… But I won.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Hmph, so many weaknesses. You’re a bunch of failures.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="MangChi">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Do I really have to do all this to make his dream come true..</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Sigh… We’d be better off harvesting some more guts…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">I wanna get into an actual Syndicate and get comfy for once.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">We can make it if we try. Now our lives should straighten up a bit.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">That actually feels easier compared to a gut-harvest…? It wasn’t too bad at all.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…Guess this is it for me. I didn’t get to enjoy anything…</BattleDialog>
+      <BattleDialog ID="DEATH_1">I really didn’t wanna meet such an awkward end…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Hey… What’s wrong…? You aren’t dead for real, are you?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">I told you it was a bad idea to walk in here…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">I just think it’d be a lot faster and safer to find a new body…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">That was a clean blow!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">I’ve never seen someone weaker than a Rat in my life.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Eek… I-I just killed that one… Right…?</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+</BattleDialogRoot>
