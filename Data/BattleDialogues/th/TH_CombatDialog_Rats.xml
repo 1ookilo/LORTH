@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Rats</GroupName>
+  <Character ID="Pete">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">คิดว่าฉันเอาชนะพวกงั่งนั้นไม่ได้หรอรึไง?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">อย่าออมมือให้เราละ เพราะว่าเราจะไม่ทำเหมือนกัน</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">เราไม่กลัวพวกอ่อนนั่นหรอก</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">ถ้าเรายังทำได้ดีแบบนี้ฉันว่า ฉันว่าเราคงไปได้ไกลกว่า Syndicates ที่ใหญ่กว่า the Stray Dogs ได้แน่!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">นี่มันหวานหมูสำหรับเราเลย!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…แม่งเอ้ย ความฝัน… มันยังอยู่ไกลเกินเอื้อมเหลือเกิน…</BattleDialog>
+      <BattleDialog ID="DEATH_1">ฉันมันโง่เองสินะที่คิดฝันใหญ่เกินตัว…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">แกต้องอยู่กับฉันจนจบเซ่!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">…เจ้าพวกบ้าเอ๊ย ทำไมพวกแกอ่อนกันจังวะ?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">แม่งเอ๊ย… เนี่ยไม่ค่อยแฟร์กับเราเลยว่ะ!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">อ่อนอย่างที่ฉันคิดไว้เลยแฮะ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">การเอาชนะพวกแกก็เป็นเรื่องง่ายๆสำหรับผู้ที่จะได้เป็น Finger อย่างฉัน</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ฉันไม่ใช่แค่นักเลงบ้าๆทั่วไป แต่ฉันมีสมองยังไงล่ะ?</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Lenny">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">เฮ้อ… เรามีเวลาแค่ไม่กี่ชั่วโมงเองนะ มารีบทำให้จบๆกันเถอะ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">เฮ้ย เอามาให้ดูเหน่อยสิ!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">อย่าดูพวกเราเพียงเพราะเป็นแค่หนูละ</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">เป็นไงล่ะ โดน Rats ที่ดูถูกนักหนาตบเอา?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">อืม… พูดตรงๆตอนแรกฉันกลัวนิดหน่อยนะ แต่พวกเขาอ่อนแอกว่าที่ฉันคิดแฮะ</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">เหี้ยเอ้ย… รู้งี้ไม่ควรมาที่นี่เลย…</BattleDialog>
+      <BattleDialog ID="DEATH_1">ฉันไม่ได้ทนใช้ชีวิตห่วยแตกมาทั้งชีวิตเพื่อตายแบบนี้นะ…!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…อ๋อ ฉันไม่ได้คาดหวังกับพวกนายอยู่แล้ว</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">อยู่นิ่งๆไปงั้นแหละ แค่อย่าก่อกวนก็พอแล้ว</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">ไม่ได้สนใจหรอก ว่านายจะตายหรือไม่ตาย</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">นายอ่อนแอเกินไปที่จะเป็นผู้คุ้มคองสิ่งที่สำคัญๆได้</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">เกือบไปแล้ว… แต่ฉันเอาอยู่นะ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ฮึ่ม มีแต่จุดอ่อนเต็มไปหมด นายคือความล้มเหลว</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="MangChi">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">ฉันต้องทำทั้งหมดนี้เพื่อสานฝันของเขาให้เป็นจริง..</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">เฮ้อ… เรามาเก็บเกี่ยวเครื่องในกันดีกว่า…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ฉันอยากเข้า Syndicate จริงๆ แล้วจะได้สบายใจสักที</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">เราสามารถทำมันได้ ถ้าเราพยายาม ตอนนี้ชีวิตของเราน่าจะดีขึ้นเล็กน้อย</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">รู้สึกว่านั้นมันง่ายกว่าเมื่อเทียบการไปไล่เก็บเครื่องในอีกนะ…? แบบนี้มันก็ไม่เลวเลย</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…เดาว่านี่คงเป็นที่สำหรับฉัน ฉันไม่ได้สนุกกับอะไรเลย…</BattleDialog>
+      <BattleDialog ID="DEATH_1">ฉันไม่อยากพบกับจุดจบที่น่ากระอักกระอ่วนแบบนี้เลยจริงๆ…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">เฮ้… เป็นอะไรไป…? นายยังไม่ตายจริงๆใช่ไหม?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">ฉันบอกนายแล้ว ว่ามันไม่ใช่ความคิดที่ดีที่จะมาที่นี่…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">ฉันคิดว่าการหาร่างใหม่จะเร็วกว่าและปลอดภัยกว่ามาก…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">มันเป็นการโจมตีที่ดีเลยละ!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ในชีวิตฉันไม่เคยเห็นใครสักคนที่อ่อนแอกว่าหนูเลย</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">เอิ๊ก… ฉัน-ฉันเพิ่งฆ่าเจ้านั่นไป… ใช่ไหม…?</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+</BattleDialogRoot>
