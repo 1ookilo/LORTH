@@ -1672,100 +1672,100 @@
       <Place>
         <PlaceName>Location: Somewhere in the Backstreets</PlaceName>
         <Dialog ID="0" model="해결사1">
-          <Teller>Fixer 1</Teller>
-          <Title>Yun’s Office</Title>
+          <Title>ฟิคเซอร์คนที่ 1</Title>
+          <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep1_fixer1_1</VoiceFile>
-          <Content>Foiled again. I didn’t go through all the trouble of becoming a Fixer to do mundane chores like this.</Content>
+          <Content>โดนหลอกอีกแล้วแฮะ ฉันไม่ได้ยอมลำบากจนเป็นฟิคเซอร์เพื่อทำงานบ้านๆแบบนี้หรอกนะ</Content>
         </Dialog>
         <Dialog ID="1" model="해결사2">
-          <Teller>Fixer 2</Teller>
-          <Title>Yun’s Office</Title>
+          <Title>ฟิคเซอร์คนที่ 2</Title>
+          <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep1_fixer2_1</VoiceFile>
-          <Content>You know how it is. Only a select few get to rise up in the ranks.</Content>
+          <Content>นายก็รู้นี่ว่าเป็นยังไง มันจะมีเฉพาะไม่กี่คนเท่านั้นแหละที่จะได้เลื่อนตำแหน่ง</Content>
         </Dialog>
         <Dialog ID="2" model="핀">
-          <Teller>Finn</Teller>
-          <Title>Yun’s Fixer</Title>
+          <Title>ฟินน์</Title>
+          <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep1_finn1</VoiceFile>
-          <Content>But still, we might see the light one day if we start out with smaller tasks, don’t you think?</Content>
+          <Content>แต่ก็ เราอาจจะเห็นแสงสว่างเล็กๆได้ในวันหนึ่งถ้าเราเริ่มต้นจากงานที่เล็กน้อยก่อน คุณคิดว่างั้นไหม?</Content>
         </Dialog>
         <Dialog ID="3" model="해결사2">
-          <Teller>Fixer 2</Teller>
-          <Title>Yun’s Office</Title>
+          <Title>ฟิคเซอร์คนที่ 2</Title>
+          <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep1_fixer2_2</VoiceFile>
-          <Content>I envy your optimism, Finn.</Content>
+          <Content>ฉันล่ะอิจฉาในการมองโลกในแง่ดีของนายจริงๆเลยนะ ฟินน์</Content>
         </Dialog>
         <Dialog ID="4" model="해결사2">
-          <Teller>Fixer 2</Teller>
-          <Title>Yun’s Office</Title>
+          <Title>ฟิคเซอร์คนที่ 2</Title>
+          <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep1_fixer2_3</VoiceFile>
-          <Content>But a request like “Please find my lost cat before night falls” is seriously not it.</Content>
+          <Content>แต่คำขอประเภท "โปรดช่วยหาแมวของฉันที่หายไปก่อนที่จะมืด" นั้นมันไม่ใช่เรื่องที่น่าทำเลยจริงๆนะ</Content>
         </Dialog>
         <Dialog ID="5" model="해결사2">
-          <Teller>Fixer 2</Teller>
-          <Title>Yun’s Office</Title>
+          <Title>ฟิคเซอร์คนที่ 2</Title>
+          <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep1_fixer2_4</VoiceFile>
-          <Content>Garbage Offices get garbage requests.</Content>
+          <Content>สำนักงานขยะก็ได้รับแต่คำขอขยะๆ</Content>
         </Dialog>
         <Dialog ID="6" model="해결사1">
-          <Teller>Fixer 1</Teller>
-          <Title>Yun’s Office</Title>
+          <Title>ฟิคเซอร์คนที่ 1</Title>
+          <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep1_fixer1_2</VoiceFile>
-          <Content>Yeah, Finn. You probably had better things in mind when you became a Fixer.</Content>
+          <Content>ใช่แล้ว ฟินน์ นายน่าจะมีความคิดที่ดีกว่านี้เมื่อเลือกที่จะเป็นฟิคเซอร์นะ</Content>
         </Dialog>
         <Dialog ID="7" model="해결사1">
-          <Teller>Fixer 1</Teller>
-          <Title>Yun’s Office</Title>
+          <Title>ฟิคเซอร์คนที่ 1</Title>
+          <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep1_fixer1_3</VoiceFile>
-          <Content>Y’know, a bigger field to play on.</Content>
+          <Content>แบบว่า นายน่าจะคิดถึงโอกาสที่ท้าท้ายได้แสดงความสามารถอย่างเต็มที่ไง</Content>
         </Dialog>
         <Dialog ID="8" model="핀">
-          <Teller>Finn</Teller>
+          <Title>ฟินน์</Title>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep1_finn2</VoiceFile>
-          <Content>I’m sure I can move to a nicer Office or become an Associate Fixer someday if I keep working hard. Then I might…</Content>
+          <Content>ผมมั่นใจว่าถ้าผมทำงานอย่างเต็มที่ต่อไป ผมอาจจะได้ย้ายไปยังสำนักงานที่ดีกว่านี้หรือกลายเป็นส่วนหนึ่งของสมาคมฟิคเซอร์เข้าสักวัน จากนั้นผมก็อาจจะ…</Content>
         </Dialog>
         <Dialog ID="9" model="핀">
-          <Teller>Finn</Teller>
+          <Title>ฟินน์</Title>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep1_finn3</VoiceFile>
-          <Content>That’s odd… There’s this envelope in my pocket. It says ‘The Invitation’.</Content>
+          <Content>แปลกจัง… มีซองนี้อยู่ในกระเป๋าของผม มันเขียนว่า 'คำเชิญ' ด้วยนะ</Content>
         </Dialog>
         <Dialog ID="10" model="해결사1">
-          <Teller>Fixer 1</Teller>
-          <Title>Yun’s Office</Title>
+          <Title>ฟิคเซอร์คนที่ 1</Title>
+          <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep1_fixer1_4</VoiceFile>
-          <Content>Smells fishy.</Content>
+          <Content>ดูทะแม่งๆ น่าสงสัยนะ</Content>
         </Dialog>
         <Dialog ID="11" model="해결사2">
-          <Teller>Fixer 2</Teller>
-          <Title>Yun’s Office</Title>
+          <Title>ฟิคเซอร์คนที่ 2</Title>
+          <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep1_fixer2_5</VoiceFile>
-          <Content>Can’t overlook something like this.</Content>
+          <Content>เราไม่สามารถมองข้ามอะไรแบบนี้ไปได้นะ</Content>
         </Dialog>
         <Dialog ID="12" model="해결사2">
-          <Teller>Fixer 2</Teller>
-          <Title>Yun’s Office</Title>
+          <Title>ฟิคเซอร์คนที่ 2</Title>
+          <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep1_fixer2_6</VoiceFile>
-          <Content>Besides, if what’s written on the invitation is true, those “books” would be of interest to several Associations.</Content>
+          <Content>นอกจากนี้ หากสิ่งที่เขียนในจดหมายเชิญเป็นความจริง "หนังสือ" ที่ว่านั้นจะเป็นที่สนใจของเหล่าสมาคมหลายแห่งเลยละ</Content>
         </Dialog>
         <Dialog ID="13" model="핀">
-          <Teller>Finn</Teller>
+          <Title>ฟินน์</Title>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep1_finn4</VoiceFile>
-          <Content>It is interesting, but… We don’t exactly know what’s in the library, right?</Content>
+          <Content>มันน่าสนใจก็จริง แต่… เราก็ไม่รู้ว่ามีอะไรอยู่ในห้องสมุดนั้นเลยนะครับ?</Content>
         </Dialog>
         <Dialog ID="14" model="핀">
-          <Teller>Finn</Teller>
+          <Title>ฟินน์</Title>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep1_finn5</VoiceFile>
-          <Content>We should report this to the Office first and take care of it formally.</Content>
+          <Content>เราควรรายงานเรื่องนี้กับสำนักงานก่อนและดำเนินการตามขั้นตอนที่เหมาะสมด้วยนะครับ</Content>
         </Dialog>
         <Dialog ID="15" model="해결사1">
-          <Teller>Fixer 1</Teller>
-          <Title>Yun’s Office</Title>
+          <Title>ฟิคเซอร์คนที่ 1</Title>
+          <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep1_fixer1_5</VoiceFile>
-          <Content>I ain’t about to feed a garbage Office that won’t feed me. We’re going first if you don’t wanna.</Content>
+          <Content>ฉันไม่มีแผนที่จะช่วยเหลือสำนักงานขยะที่ไม่คิดจะช่วยเหลือฉันเลยหรอกนะ ถ้านายไม่อยากไป เด่วพวกฉันไปปเอง</Content>
         </Dialog>
       </Place>
       <Place>
@@ -1774,13 +1774,13 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep1_angela1</VoiceFile>
-          <Content>They called themselves Fixers; do you happen to be friends with them?</Content>
+          <Content>พวกนั้นคือพวกที่เรียกตัวว่าฟิซเซอร์อย่างงั้นสินะ; นายเป็นเพื่อนกับพวกเขารึเปล่า</Content>
         </Dialog>
         <Dialog ID="17" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep1_roland1</VoiceFile>
-          <Content>What? Look, assuming all Fixers know each other is…</Content>
+          <Content>อะไร? ฟังนะ ถ้าคิดว่ฟิคเซอร์ทุกคนรู้จักกันแค่คิดก็ผิดแล้ว…</Content>
         </Dialog>
         <Dialog ID="18" model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -1813,13 +1813,13 @@
       <Place>
         <PlaceName>Location: Yun’s Office</PlaceName>
         <Dialog ID="0" model="핀">
-          <Teller>Finn</Teller>
+          <Title>ฟินน์</Title>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn1</VoiceFile>
           <Content>Sir, they still haven’t responded back to us.</Content>
         </Dialog>
         <Dialog ID="1" model="핀">
-          <Teller>Finn</Teller>
+          <Title>ฟินน์</Title>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn2</VoiceFile>
           <Content>Something must have happened in that ‘Library’.</Content>
@@ -1855,7 +1855,7 @@
           <Content>‘Yun’s Office’ does not have any time to spare with things like that.</Content>
         </Dialog>
         <Dialog ID="7" model="핀">
-          <Teller>Finn</Teller>
+          <Title>ฟินน์</Title>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn3</VoiceFile>
           <Content>I might still be a Grade 9 Fixer, but I can sense that something’s off about this.</Content>
@@ -1867,7 +1867,7 @@
           <Content>Oh really? How tragic that such good instincts of a Grade 9 Fixer are wasted on our humble Office.</Content>
         </Dialog>
         <Dialog ID="9" model="핀">
-          <Teller>Finn</Teller>
+          <Title>ฟินน์</Title>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn4</VoiceFile>
           <Content>……</Content>
@@ -1891,7 +1891,7 @@
           <Content>If you can’t present visible evidence right now, it’s not worth looking into.</Content>
         </Dialog>
         <Dialog ID="13" model="핀">
-          <Teller>Finn</Teller>
+          <Title>ฟินน์</Title>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn5</VoiceFile>
           <Content>What about that envelope right in front of you, operator?</Content>
@@ -1909,7 +1909,7 @@
           <Content>You little brat, trying to pull a cheap trick on me?</Content>
         </Dialog>
         <Dialog ID="16" model="핀">
-          <Teller>Finn</Teller>
+          <Title>ฟินน์</Title>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn6</VoiceFile>
           <Content>…I didn’t do anything, I swear.</Content>
@@ -2017,13 +2017,13 @@
       <Place>
         <PlaceName>Location: Library Entrance</PlaceName>
         <Dialog ID="33" model="핀">
-          <Teller>Finn</Teller>
+          <Title>ฟินน์</Title>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn7</VoiceFile>
           <Content>So this is the Library…</Content>
         </Dialog>
         <Dialog ID="34" model="핀">
-          <Teller>Finn</Teller>
+          <Title>ฟินน์</Title>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn8</VoiceFile>
           <Content>Yeah, Yun said we might even get sponsorship from an Association if I succeed. I’ll do my best!</Content>
@@ -2035,13 +2035,13 @@
           <Content>Greetings, Fixer. I am Angela, the librarian of my role’s namesake.</Content>
         </Dialog>
         <Dialog ID="36" model="핀">
-          <Teller>Finn</Teller>
+          <Title>ฟินน์</Title>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn9</VoiceFile>
           <Content>Hello. I’m Finn, a Fixer at Yun’s Office.</Content>
         </Dialog>
         <Dialog ID="37" model="핀">
-          <Teller>Finn</Teller>
+          <Title>ฟินน์</Title>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn10</VoiceFile>
           <Content>…Is it true that I can find “books” containing lots of information in this place?</Content>
