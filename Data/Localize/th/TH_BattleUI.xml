@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <text id="BattleUI_StartBattle_Act">Scene {0}</text>
-  <text id="BattleUI_StartBattle_WaveInfo">Act {0}</text>
-  <text id="BattleUI_Victory_Floor">Act {1}’s curtains close on {0}</text>
-  <text id="BattleUI_Victory_Final">Curtain call for the reception of {0}</text>
-  <text id="BattleUI_Defeat_Floor">Act {1} cut on {0}</text>
-  <text id="BattleUI_Defeat_Final">Reception of {0} concluded</text>
-  <text id="BattleUI_HideCard">Hide</text>
-  <text id="BattleUI_ShowCard">Show</text>
-  <text id="BattleUI_GetBook">{0} Obtained</text>
+  <text id="BattleUI_StartBattle_Act">ฉากที่ {0}</text>
+  <text id="BattleUI_StartBattle_WaveInfo">องค์ที่ {0}</text>
+  <text id="BattleUI_Victory_Floor">องค์ที่ {1}ได้จบลงที่ {0}</text>
+  <text id="BattleUI_Victory_Final">สู่บทสรุปของการต้อนรับ {0}</text>
+  <text id="BattleUI_Defeat_Floor">องค์ {1} สั่งคัทที่ {0}</text>
+  <text id="BattleUI_Defeat_Final">การต้อนรับ {0} สิ้นสุด</text>
+  <text id="BattleUI_HideCard">ซ่อน</text>
+  <text id="BattleUI_ShowCard">แสดง</text>
+  <text id="BattleUI_GetBook">ได้รับ {0}</text>
   <text id="BattleUI_Abnormality">Abnormality</text>
-  <text id="BattleUI_Light">Light</text>
-  <text id="BattleUI_Ability">Effect</text>
-  <text id="BattleUI_Passive">Passive Ability</text>
-  <text id="BattleUI_SelectAbnormality">Select Abnormality Page</text>
+  <text id="BattleUI_Light">แสง</text>
+  <text id="BattleUI_Ability">เอฟเฟกต์</text>
+  <text id="BattleUI_Passive">ความสามารถติดตัว</text>
+  <text id="BattleUI_SelectAbnormality">โปรดเลือก Abnormality Page</text>
   <text id="BattleUI_Get_Emotion_Positive">Positive Emotion Accrued</text>
   <text id="BattleUI_Get_Emotion_Negative">Negative Emotion Accrued</text>
-  <text id="BattleUI_Quick_Mode">Quick Mode</text>
+  <text id="BattleUI_Quick_Mode">โหมดเร็ว</text>
   <text id="BattleUI_MaxValue">Max Damage!</text>
   <text id="BattleUI_Breaked">Staggered!</text>
   <text id="BattleUI_SpeedDiceBonus">Speed Diff. Bonus</text>
   <text id="BattleUI_Deflect">Deflect!</text>
   <text id="BattleUI_StartBattle_CreatureInfo">{0}</text>
-  <text id="BattleUI_Victory_Creature">Suppression of {0} Complete</text>
-  <text id="BattleUI_Defeat_Creature">Suppression of {0} Failed</text>
+  <text id="BattleUI_Victory_Creature">ปฏิบัติการหยุดยั้ง {0} สำเร็จ</text>
+  <text id="BattleUI_Defeat_Creature">ปฏิบัติการหยุดยั้ง {0} ล้มเหลว</text>
 
-  <text id="BattleUI_EmotionLevel">Emotion Level</text>
+  <text id="BattleUI_EmotionLevel">ระดับ Emotion</text>
 
-  <text id="BattleUI_Selectegocard">Select E.G.O Page</text>
+  <text id="BattleUI_Selectegocard">โปรดเลือก E.G.O Page</text>
 
   <text id="BattleUI_DiceTypeBonus">Type Advantage Power +{0}</text>
 
-  <text id="BattleUI_EmotionLevel_AddMaxPlayPoint">Max Light +1</text>
-  <text id="BattleUI_EmotionLevel_AddSpeedDice">Speed Dice Amount +1</text>
-  <text id="BattleUI_EmotionLevel_AddDrawNum">After playing two or more Combat Pages in a Scene, draw an additional page next Scene</text>
+  <text id="BattleUI_EmotionLevel_AddMaxPlayPoint">แสงสูงสุด +1</text>
+  <text id="BattleUI_EmotionLevel_AddSpeedDice">จำนวนเต๋าความเร็ว +1</text>
+  <text id="BattleUI_EmotionLevel_AddDrawNum">หลังจากใช้ Combat Pages สองใบหรือมากกว่าในเทิร์นเดียว จั่วเพิ่มหนึ่งใบในเทิร์นหน้า</text>
 
 
   <text id="BattleUI_Book_DropProb">{0}: {1}%</text>
-  <text id="BattleUI_Book_DropNum">{0} copies</text>
+  <text id="BattleUI_Book_DropNum">{0} เล่ม</text>
 
-  <text id="BattleUI_Speed_Max">Max Speed</text>
+  <text id="BattleUI_Speed_Max">ความเร็วสูงสุด</text>
 
-  <text id="BattleUI_debuf">Status Ailment</text>
+  <text id="BattleUI_debuf">สถานะผิดปกติ</text>
 </localize>
