@@ -118,19 +118,19 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland6</VoiceFile>
-          <Content>คุณบอกว่าคุณอยากจะได้หนังสืออันสมบูรณ์แบบระหว่างที่คุณรวบรวมหนังสือเกี่ยวกับนคร ใช่ไหม?</Content>
+          <Content>คุณบอกว่าคุณอยากจะได้หนังสืออันสมบูรณ์แบบเมื่อคุณรวบรวมหนังสือเกี่ยวกับนคร ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland7</VoiceFile>
-          <Content>ผมคิดว่าผมคงได้เจอประสบการณ์สนุกแน่ถ้าผมร่วมทางไปกับคุณด้วย</Content>
+          <Content>ผมคิดว่าผมคงได้เจอประสบการณ์ที่สนุกแน่ถ้าผมร่วมทางไปกับคุณด้วย</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland8</VoiceFile>
-          <Content>ผมไม่มีอะไรทำข้างนอกอยู่แล้วด้วย ผมคงกลับไปเป็นฟิกเซอร์ตกอับ อยู่วันต่อวันเหมือนเคย</Content>
+          <Content>ผมไม่มีอะไรทำข้างนอกอยู่แล้ว ผมคงกลับไปเป็นฟิกเซอร์ตกอับ อยู่ประทังชีพเหมือนเคย</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -190,7 +190,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland14</VoiceFile>
-          <Content>อึม, ผมมีคำถามครับ พอถามตอบได้ไหมครับ?</Content>
+          <Content>อึม, ผมมีคำถามครับ พอจะถามตอบได้ไหมครับ?</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -226,7 +226,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela13</VoiceFile>
-          <Content>ถือกำเนิดจากมนุษย์, ถูกเอาเปรียบ, และถูกทิ้งหลังหมดประโยชน์</Content>
+          <Content>ถือกำเนิดจากมนุษย์, ถูกเอาเปรียบ, และถูกทิ้งหลังหมดค่า</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -238,49 +238,49 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela14</VoiceFile>
-          <Content>They were broken. They couldn’t even sustain a stable form, and their existence was so fragile they could fade away at any moment. They’re barely kept together as I’ve bound them to a physical body and a book.</Content>
+          <Content>พวกนั้นแตกหัก แค่จะคงรูปเสถียรยังทำไม่ได้, และตัวตนของพวกนั้นบอบบางมากจนสามารถหายไปได้ทุกเมื่อ พวกนั้นแทบจะไม่เป็นรูปร่างเมื่อฉันผนึกพวกนั้นเข้ากับกายหยาบและหนังสือ</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela15</VoiceFile>
-          <Content>All I can do for them now is to find the one book that will free me and the librarians.</Content>
+          <Content>สิ่งที่ฉันทำได้เพื่อพวกนั้นในตอนนี้คือหาหนังสือเล่มนั้นที่จะปลดปล่อยฉันและเหล่าบรรณารักษ์</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland18</VoiceFile>
-          <Content>You’re going to release the librarians?</Content>
+          <Content>คุณจะปลดปล่อยเหล่าบรรณารักษ์เหรอ?</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela16</VoiceFile>
-          <Content>That’s the only way for any of us to leave, you know?</Content>
+          <Content>รู้ไหมว่านั่นเป็นวิธีเดียวที่เราสามารถออกไปได้น่ะ?</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela17</VoiceFile>
-          <Content>I used the same kind of power to reconstruct your body.</Content>
+          <Content>ฉันใช้พลังแบบเดียวกันในการประกอบร่างกายของเธอใหม่</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland19</VoiceFile>
-          <Content>Hunh…</Content>
+          <Content>เหอ…</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela18</VoiceFile>
-          <Content>Just remember this.</Content>
+          <Content>แค่จำไว้ล่ะ</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela19</VoiceFile>
-          <Content>As we collect numerous books from our guests, we will eventually reach the one absolute book that contains everything.</Content>
+          <Content>เมื่อเรารวบรวมหนังสือจากแขกของเราเป็นจำนวนมาก, เราจะสามารถไปถึงสุดยอดหนังสือที่มีทุกอย่างเขียนเอาไว้</Content>
         </Dialog>
       </Place>
     </Episode>
