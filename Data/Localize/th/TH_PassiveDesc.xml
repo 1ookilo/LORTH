@@ -317,15 +317,15 @@
 	</PassiveDesc>
 	<PassiveDesc ID="220005">
 		<Name>ทางเลือกที่ดีที่สุด</Name>
-		<Desc>ฟื้นฟู 3 HP เมื่อมีการทิ้งการ์ด</Desc>
+		<Desc>ฟื้นฟู 3 HP เมื่อมีการทิ้ง Page </Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220007">
 		<Name>ในเวลาเช่นนี้!</Name>
-		<Desc>เมื่อจบฉาก และในมือมีการ์ด 3 ใบหรือน้อยกว่า จะได้รับ 1 กำลังในฉากถัดไป</Desc>
+		<Desc>เมื่อจบฉาก และในมือมี Page  3 ใบหรือน้อยกว่า จะได้รับ 1 กำลังในฉากถัดไป</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220008">
 		<Name>พักฟื้น</Name>
-		<Desc>ฟื้นฟูแสงเพิ่ม 1 หากไม่ได้ใช้การ์ดใดๆเลยในฉากก่อนหน้า</Desc>
+		<Desc>ฟื้นฟูแสงเพิ่ม 1 หากไม่ได้ใช้ Page ใดๆเลยในฉากก่อนหน้า</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220010">
 		<Name>หายใจลึกๆ</Name>
@@ -396,7 +396,7 @@
   </PassiveDesc>
   <PassiveDesc ID="230207">
     <Name>สรรพาวุธ Stigma Workshop</Name>
-    <Desc>เมื่อมอบสถานะเผาไหม้ด้วยการ์ดสำเร็จ มอบสถานะเผาไหม้เพิ่มเติมอีก 1 หน่วย</Desc>
+    <Desc>เมื่อมอบสถานะเผาไหม้ด้วย Page สำเร็จ มอบสถานะเผาไหม้เพิ่มเติมอีก 1 หน่วย</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230008">
     <Name>ฟิกเซอร์เดียวดาย</Name>
@@ -424,7 +424,7 @@
   <!-- Tomerry -->
   <PassiveDesc ID="230016">
     <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลายการ์ดทั้งหมดในมือและในกอง เพิ่มการ์ดชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="231016">
     <Name>พลังแห่งรัก</Name>
@@ -438,7 +438,7 @@
   <!-- Kurokumo -->
   <PassiveDesc ID="230018">
     <Name>พร้อมรบ</Name> <!-- sayo -->
-    <Desc>เมื่อเริ่มองค์ จั่วเพิ่มเติม 2 การ์ด</Desc>
+    <Desc>เมื่อเริ่มองค์ จั่วเพิ่มเติม 2  Page </Desc>
   </PassiveDesc>
   <PassiveDesc ID="230118">
     <Name>ดาบเมฆาทมิฬ</Name> <!-- sayo2 -->
@@ -446,7 +446,7 @@
   </PassiveDesc>
   <PassiveDesc ID="230019">
     <Name>เจาะซ้ำแผล</Name> <!-- yang -->
-    <Desc>เมื่อมอบสถานะเลือดไหลด้วยการ์ดสำเร็จ มอบสถานะเลือดไหลเพิ่มเติมอีก 1 หน่วย</Desc>
+    <Desc>เมื่อมอบสถานะเลือดไหลด้วย Page สำเร็จ มอบสถานะเลือดไหลเพิ่มเติมอีก 1 หน่วย</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230020">
     <Name>แผลลึก</Name>
@@ -496,7 +496,7 @@
   <!-- 필립 에고 용-->
   <PassiveDesc ID="230028">
     <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลายการ์ดทั้งหมดในมือและในกอง เพิ่มการ์ดชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230128">
     <Name>อารมณ์ที่ลุกไหม้</Name>
@@ -525,12 +525,12 @@
   <!-- 시 협회 -->
   <PassiveDesc ID="240001">
     <Name>หายใจไม่ทั่วท้อง/อ่อนล้า</Name><!-- 유진1 -->
-    <Desc>ฟื้นฟู 2 แสง เมื่อใช้การ์ดที่มีคอส 4 หรือสูงกว่า
+    <Desc>ฟื้นฟู 2 แสง เมื่อใช้ Page ที่มีคอส 4 หรือสูงกว่า
 เต๋าความเร็วจะใช้ไม่ได้ 1 ลูก</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240101">
     <Name>ปัดป้องการประจัน</Name><!-- 유진2 -->
-    <Desc>โต้กลับการโจมตีฝ่ายเดียวด้วยลูกเต๋าป้องกัน[เต๋า:2-6] ฉากละครั้ง (จะไม่ถูกใช้ หากมีเต๋าจากการ์ดอื่นมาปะทะไว้อยู่)</Desc>
+    <Desc>โต้กลับการโจมตีฝ่ายเดียวด้วยลูกเต๋าป้องกัน[เต๋า:2-6] ฉากละครั้ง (จะไม่ถูกใช้ หากมีเต๋าจาก Page อื่นมาปะทะไว้อยู่)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240201">
     <Name>อ่อนล้า</Name> <!-- 유진3 -->
@@ -548,7 +548,7 @@
 
   <PassiveDesc ID="240002">
     <Name>จู่โจมหนเดียว</Name> <!-- 발렌틴 -->
-    <Desc>เมื่อใช้การ์ดที่มีลูกเต๋า 1 ลูก ไม่นับเต๋าประเภทโต้กลับ ลูกเต๋าดังกล่าวจะได้รับพลังเพิ่มเติม +2 และยังให้แต้มอารมณ์เป็นสองเท่าในการปะทะด้วย</Desc>
+    <Desc>เมื่อใช้ Page ที่มีลูกเต๋า 1 ลูก ไม่นับเต๋าประเภทโต้กลับ ลูกเต๋าดังกล่าวจะได้รับพลังเพิ่มเติม +2 และยังให้แต้มอารมณ์เป็นสองเท่าในการปะทะด้วย</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="240003">
@@ -594,7 +594,7 @@
   <!-- enemy only -->
   <PassiveDesc ID="240008">
     <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลายการ์ดทั้งหมดในมือและในกอง เพิ่มการ์ดชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240108">
     <Name>กายกรรมบนเส้นเชือก</Name>
@@ -607,7 +607,7 @@
   <!-- 에마 (유저가 얻는 핵심 책장에서도 사용) -->
   <PassiveDesc ID="240308">
     <Name>กายกรรมขั้นสูง</Name>
-    <Desc>เมื่อใช้การ์ดที่มีคอส 3 หรือสูงกว่า ลูกเต๋าทุกลูกได้รับพลังเพิ่มเติม +1</Desc>
+    <Desc>เมื่อใช้ Page ที่มีคอส 3 หรือสูงกว่า ลูกเต๋าทุกลูกได้รับพลังเพิ่มเติม +1</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240408">
     <Name>หมัดสิงห์</Name>
@@ -648,42 +648,42 @@
   </PassiveDesc>
   <!-- Either one of Slash, Pierce, or Blunt Power-Ups is cast, basically -->
   <PassiveDesc ID="240118">
-    <Name>Skim Prescript</Name> <!-- 검지 수행자 2 -->
-    <Desc>Draw one more page at the start of the Act</Desc>
+    <Name>เบิกใช้ Prescript</Name> <!-- 검지 수행자 2 -->
+    <Desc>เมื่อเริ่มองค์ จั่ว Page เพิ่มอีก 1 ใบ</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="240019"> 
-    <Name>Quantum Leap</Name> <!-- 로즈 --> 
-    <Desc>If Speed is 4 or higher, deal 13 bonus damage on successful hits at a 10% chance</Desc> 
+    <Name>กระโดดฝ่าควอนตัม</Name> <!-- 로즈 --> 
+    <Desc>หากความเร็ว 4 หรือสูงกว่า เมื่อโจมตีสำเร็จ มีโอกาส 10% ที่จะทำดาเมจโบนัส 13 ดาเมจ</Desc> 
   </PassiveDesc>
   <PassiveDesc ID="240020"> 
-    <Name>Refraction</Name> <!-- 센 --> 
-    <Desc>On a successful hit, deal 13 bonus Stagger damage at a 5% chance</Desc> 
+    <Name>การหักเหมิติ</Name> <!-- 센 --> 
+    <Desc>เมื่อโจมตีสำเร็จ มีโอกาส 5% ที่จะทำดาเมจ Stagger โบนัส 13 ดาเมจ</Desc> 
   </PassiveDesc>
   <PassiveDesc ID="240021"> 
-    <Name>Reaction Force</Name> <!-- 레스티 --> 
-    <Desc>If the character did not use any pages for a Scene, gain 1 Strength and Endurance next Scene</Desc> 
+    <Name>แรงปฏิกิริยา</Name> <!-- 레스티 --> 
+    <Desc>หากไม่ได้ใช้การ์ดใดๆเลย ในฉากถัดไป จะได้รับ 1 กำลังและ 1 อึดทน</Desc> 
   </PassiveDesc>
   <PassiveDesc ID="240022"> 
-    <Name>Dimensional Sections</Name> <!-- 워프 공용 --> 
-    <Desc>On a successful hit, deal 10 bonus damage at a 10% chance</Desc> 
+    <Name>ตัดแบ่งช่วงมิติ</Name> <!-- 워프 공용 --> 
+    <Desc>เมื่อโจมตีสำเร็จ มีโอกาส 10% ที่จะทำดาเมจโบนัส 10 ดาเมจ</Desc> 
   </PassiveDesc>
   
   <PassiveDesc ID="240023">
-    <Name>Sooty Thwack</Name> <!-- 왕 -->
-    <Desc>If the character has 'Smoke', boost Stagger damage dealt with attacks by (Smoke x 10)%</Desc>
+    <Name>เขม่าทลายจิต</Name> <!-- 왕 -->
+    <Desc>หากมีสถานะ "ควัน" อยู่ เพิ่มดาเมจ Stagger ที่ทำได้เป็นจำนวน (ควัน x 10)%</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240024">
-    <Name>Smoke Addiction</Name> <!-- 진 -->
-    <Desc>On a successful hit, if the target had 8 or more stacks of 'Smoke', inflict 2 Paralysis next Scene (Once per target per Scene)</Desc>
+    <Name>เสพติดควันฟู่</Name> <!-- 진 -->
+    <Desc>เมื่อโจมตีสำเร็จ และเป้าหมายมีจำนวนควันอยู่ที่ 8 หรือมากกว่า มอบสถานะอัมพาตให้กับเป้าหมาย 2 หน่วย (1 ครั้งต่อเป้าหมายต่อครั้ง)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240025">
-    <Name>Stimulating Fumes</Name> <!-- 미 -->
-    <Desc>Once per Scene, if the character has 'Smoke', respond to a one-sided attack with a Block die [Roll: 1~(Smoke)]. (Not played in clashes where both characters use a Combat Page)</Desc>
+    <Name>ควันกระตุกจิตกระชากใจ</Name> <!-- 미 -->
+    <Desc>ครั้งเดียวต่อฉาก หากมีสถานะ "ควัน" อยู่ จะโต้กลับการโจมตีฝ่ายเดียวด้วยลูกเต๋าป้องกัน [ป้องกัน:1~(ควัน)] (จะไม่ถูกใช้ หากมีเต๋าจาก Page อื่นมาปะทะไว้อยู่)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240026">
-    <Name>Puffy Brume</Name> <!-- 웃는 얼굴들 공용 -->
-    <Desc>'Smoke' amplifies outgoing damage instead of incoming damage on this character</Desc>
+    <Name>สูดควัน</Name> <!-- 웃는 얼굴들 공용 -->
+    <Desc>"ควัน" เปลี่ยนจากดาเมจที่ได้รับเพิ่มขึ้น จะทำให้กลายเป็นเพิ่มดาเมจที่ทำได้แทน</Desc>
   </PassiveDesc>
 
   <!-- 불안정한 우는 아이 -->
@@ -911,7 +911,7 @@ If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies w
   <!-- Enemy only -->
   <PassiveDesc ID="250022">
     <Name>กาลี</Name>
-    <Desc>ในแต่ละฉาก ฟื้นแสงเพิ่มเติม 1 และจั่วการ์ดเพิ่มเติม 1 ใบ
+    <Desc>ในแต่ละฉาก ฟื้นแสงเพิ่มเติม 1 และจั่ว Page เพิ่มเติม 1 ใบ
 เมื่อ HP เหลือ 350 ฟ้นฟู Stagger Resist ทั้งหมด และหลอมรวมกับ E.G.O; HP จะไม่ลดไปต่ำกว่านี้ จนกว่าความสามารถนี้จะทำงาน (ครั้งเดียวต่อการต่อสู้)
 หากสูญเสียสถานะ "หลอมรวม E.G.O" ไป จะฟื้นสถานะนี้กลับมาใน 3 ฉาก
 หากตัวละครนี้เข้าสู่องค์ถัดไปโดยที่ยังคง "หลอมรวม E.G.O" อยู่ จะกลับเข้าสู่สภาวะ "หลอมรวม E.G.O" ในฉากที่ 2</Desc>
@@ -920,7 +920,7 @@ If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies w
   <PassiveDesc ID="250122">
     <Name>วีรสตรี</Name>
     <Desc>มีเพียงเกบูร่าเท่านั้น และมี E.G.O เฉพาะตัว
-เมื่ออารมณ์อยู่ที่ระดับ 4 หรือสูงกว่า เพิ่มการ์ด "หลอมรวม E.G.O" เข้าสู่มือ (1 ครั้งต่อองค์)</Desc>
+เมื่ออารมณ์อยู่ที่ระดับ 4 หรือสูงกว่า เพิ่ม Page "หลอมรวม E.G.O" เข้าสู่มือ (1 ครั้งต่อองค์)</Desc>
   </PassiveDesc>
   
   <!-- For both enemy and ally versions -->
@@ -950,7 +950,7 @@ If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies w
   </PassiveDesc>
   <PassiveDesc ID="10011">
     <Name>ตุลาการผู้ไม่สมบูรณ์</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก จั่วการ์ดขึ้นมือจนกว่าจะมี 4 ในมือ</Desc>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก จั่ว Page ขึ้นมือจนกว่าจะมี 4 ในมือ</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250522">
