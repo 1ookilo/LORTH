@@ -3,10 +3,10 @@
   <Sephirah SephirahType="Malkuth">
     <AbnormalityCard ID="ScorchedGirl_Walk">
       <Abnormality>Scorched Girl</Abnormality>
-      <CardName>Footfalls</CardName>
-      <AbilityDesc>[All Allies]
-When a librarian's HP is at 20% or lower, deal 30% of the target's Max HP as damage (Max. 36) and inflict 1-3 Burn upon approaching them, then die.</AbilityDesc>      
-      <FlaborText>I am coming to you. You, who will be reduced to ash like me.</FlaborText>
+      <CardName>เสียงเท้าก้าว</CardName>
+      <AbilityDesc>[พันธมิตรทุกคน]
+เมื่อHPของบรรณารักษ์นั้นเป็น20%หรือต่ำกว่า หากโจมตีศัตรูใด ทำความเสียหายเป็น30%ของHP สูงสุดของศัตรู(แรงสุด36) และติด 1-3 เผาไหม้แก่ศัตรู จากนั้นก็ตาย</AbilityDesc>      
+      <FlaborText>ฉันมาแกแล้ว แกผู้ซึ่งจะต้องมอดไหม้ไปพร้อมกันกับฉัน</FlaborText>
       <Dialogues>
         <Dialogue ID="1">If I must perish, then join me.</Dialogue>
         <Dialogue ID="2">It’s just too sad to die alone… You know this feeling well, don’t you?</Dialogue>

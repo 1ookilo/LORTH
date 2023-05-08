@@ -1527,60 +1527,60 @@
 
     <!-- 샤오 -->
     <BattleCardDesc ID="610001">
-      <LocalizedName>Pú Láo</LocalizedName>
+      <LocalizedName>ผู่เหลา</LocalizedName>
       <!-- 蒲牢 -->
     </BattleCardDesc>
     <BattleCardDesc ID="610002">
-      <LocalizedName>Bì Àn</LocalizedName>
+      <LocalizedName>ปี้อ้าน</LocalizedName>
       <!-- 狴犴 -->
     </BattleCardDesc>
     <BattleCardDesc ID="610003">
-      <LocalizedName>Jiāo Tú</LocalizedName>
+      <LocalizedName>เจียวถู</LocalizedName>
       <!-- 椒图 -->
     </BattleCardDesc>
     <BattleCardDesc ID="610004">
-      <LocalizedName>Bì Xì</LocalizedName>
+      <LocalizedName>ปี้ซี่</LocalizedName>
       <!-- 赑屃 -->
     </BattleCardDesc>
     <BattleCardDesc ID="610005">
-      <LocalizedName>Yá Zì</LocalizedName>
+      <LocalizedName>หยาจื้อ</LocalizedName>
       <!-- 睚眦 -->
     </BattleCardDesc>
     <BattleCardDesc ID="610006">
-      <LocalizedName>Jīn Ní</LocalizedName>
+      <LocalizedName>ซวนหนี</LocalizedName>
       <!-- Ask RO how 金猊 (금예) is pronounced -->
       <!-- Also possibly Suān Ní -->
     </BattleCardDesc>
 
     <BattleCardDesc ID="610008">
-      <LocalizedName>Chī Wěn</LocalizedName>
+      <LocalizedName>ชือเหว่ย</LocalizedName>
       <!-- 螭吻 -->
     </BattleCardDesc>
     <BattleCardDesc ID="610009">
-      <LocalizedName>Tāo Tiè</LocalizedName>
+      <LocalizedName>เทาเที่ย</LocalizedName>
       <!-- 饕餮 -->
     </BattleCardDesc>
 
     <BattleCardDesc ID="610010">
-      <LocalizedName>Fiery Dragon Slash</LocalizedName>
+      <LocalizedName>ดาบเพลิงมังกร</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="610011">
-      <LocalizedName>Coordinated Assault</LocalizedName>
+      <LocalizedName>จู่โจมประสานเขี้ยว</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="610012">
-      <LocalizedName>Reverse Scale</LocalizedName>
+      <LocalizedName>เกล็ดมังกรย้อนกลับ</LocalizedName>
       <!-- 逆鱗 -->
     </BattleCardDesc>
     <BattleCardDesc ID="610013">
-      <LocalizedName>Reverse Scale</LocalizedName>
+      <LocalizedName>เกล็ดมังกรย้อนกลับ</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="610021">
-      <LocalizedName>Yá Zì</LocalizedName>
+      <LocalizedName>หยาจื้อ</LocalizedName>
       <!-- 睚眦 -->
     </BattleCardDesc>
     <BattleCardDesc ID="610022">
-      <LocalizedName>Tāo Tiè</LocalizedName>
+      <LocalizedName>เทาเที่ย</LocalizedName>
       <!-- 饕餮 -->
     </BattleCardDesc>
 
@@ -1612,65 +1612,65 @@
   
     <!-- yan only card -->
     <BattleCardDesc ID="611001">
-      <LocalizedName>Distorted Blade</LocalizedName>
+      <LocalizedName>เพลงดาบกระชากรูป</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611002">
-      <LocalizedName>Baleful Brand</LocalizedName>
+      <LocalizedName>ตราอักษรอำมหิต</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611003">
-      <LocalizedName>Lock</LocalizedName>
+      <LocalizedName>ผนึก</LocalizedName>
     </BattleCardDesc>
     <!-- yan player card -->
     <BattleCardDesc ID="611004">
-      <LocalizedName>Ominous Power</LocalizedName>
+      <LocalizedName>พลังอันยิ่งใหญ่</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611005">
-      <LocalizedName>Sword of Volition</LocalizedName>
+      <LocalizedName>ดาบแห่งเจตจำนง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611006">
-      <LocalizedName>Blind Faith</LocalizedName>
+      <LocalizedName>ศรัทธามืดบอด</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611007">
-      <LocalizedName>The Will of the City</LocalizedName>
+      <LocalizedName>ประสงค์แห่งมหานคร</LocalizedName>
     </BattleCardDesc>
 
     <!-- enemy only -->
     <BattleCardDesc ID="611008">
-      <LocalizedName>Distorted Blade</LocalizedName>
+      <LocalizedName>เพลงดาบกระชากรูป</LocalizedName>
     </BattleCardDesc>
 
     <!-- yan hand card -->
     <BattleCardDesc ID="611021">
-      <LocalizedName>Giant Fist</LocalizedName>
+      <LocalizedName>หมัดยักษ์</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611022">
-      <LocalizedName>Compress</LocalizedName> <!-- name changed from 'Huge Palm' -->
+      <LocalizedName>บีบแน่น</LocalizedName> <!-- name changed from 'Huge Palm' -->
     </BattleCardDesc>
     <BattleCardDesc ID="611023">
-      <LocalizedName>Flurry of Fists</LocalizedName>
+      <LocalizedName>กำปั้นโกลาหล</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611024">
-      <LocalizedName>Vigil</LocalizedName> <!-- 경계(警戒) -->
+      <LocalizedName>เฝ้าการณ์</LocalizedName> <!-- 경계(警戒) -->
     </BattleCardDesc>
 
     <!-- yan enemy buf card -->
     <BattleCardDesc ID="611031">
-      <LocalizedName>Attack</LocalizedName>
+      <LocalizedName>โจมตี</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611032">
-      <LocalizedName>Protect</LocalizedName>
+      <LocalizedName>ป้องกัน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611033">
-      <LocalizedName>Vigil</LocalizedName> <!-- 경계(警戒) -->
+      <LocalizedName>เฝ้าการณ์</LocalizedName> <!-- 경계(警戒) -->
     </BattleCardDesc>
     <BattleCardDesc ID="611034">
-      <LocalizedName>Repair</LocalizedName>
+      <LocalizedName>ซ่อมแซ่ม</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611035">
-      <LocalizedName>Endure</LocalizedName>
+      <LocalizedName>อดทน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611036">
-      <LocalizedName>Repair All</LocalizedName>
+      <LocalizedName>ซ่อมแซ่มทั้งหมด</LocalizedName>
     </BattleCardDesc>
   
     <!-- yan passive card -->
@@ -1688,13 +1688,13 @@
     </BattleCardDesc>
 
     <BattleCardDesc ID="1100018">
-      <LocalizedName>Martyr</LocalizedName>
+      <LocalizedName>พลีกาย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100019">
-      <LocalizedName>Baptism</LocalizedName>
+      <LocalizedName>ล้างบาป</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100020">
-      <LocalizedName>Sincere Baptism</LocalizedName>
+      <LocalizedName>ล้างบาปด้วยใจรัก</LocalizedName>
     </BattleCardDesc>
 
     <!-- hokma ego -->
@@ -1716,542 +1716,542 @@
     
   <!-- white night card-->
     <BattleCardDesc ID="920201">
-      <LocalizedName>Fear Thou Not</LocalizedName>
+      <LocalizedName>อย่าได้เกรงกลัว</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920202">
-      <LocalizedName>Benediction</LocalizedName>
+      <LocalizedName>อาศิรพร</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920203">
-      <LocalizedName>I am thy Saviour</LocalizedName>
+      <LocalizedName>ข้านี่แลผู้กอบกู้</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920204">
-      <LocalizedName>Behold My Power</LocalizedName>
+      <LocalizedName>จงประจักษ์ฤทธิ์เดชข้า</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920205">
-      <LocalizedName>Baptism</LocalizedName>
+      <LocalizedName>ล้างบาป</LocalizedName>
     </BattleCardDesc>
     
   <!-- 사도 -->
     <BattleCardDesc ID="920301">
-      <LocalizedName>Thou art His Son</LocalizedName>
+      <LocalizedName>เจ้าคือบุตรแห่งเทพ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920302">
-      <LocalizedName>Thou art the King</LocalizedName>
+      <LocalizedName>เจ้าคือองค์ราชันย์</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920303">
-      <LocalizedName>Wilt thou that We Command Fire?</LocalizedName>
+      <LocalizedName>เจ้าประสงค์บงการเพลิงงั้นฤา</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="920401">
-      <LocalizedName>I will Follow Thee</LocalizedName>
+      <LocalizedName>ข้าจักติดตามท่าน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920402">
-      <LocalizedName>Thy Will be Done</LocalizedName>
+      <LocalizedName>เจ้าจักมอดม้วย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920403">
-      <LocalizedName>I Shall Preserve Thee</LocalizedName>
+      <LocalizedName>ข้าจักบำรุงรักษ์</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="920501">
-      <LocalizedName>Thou wilt Light My Candle</LocalizedName>
+      <LocalizedName>ท่านผู้ซึ่งชี้นำแสงไฟ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920502">
-      <LocalizedName>Thy Words Come unto Me</LocalizedName>
+      <LocalizedName>คำตรัสแห่งท่านถึงตนข้าแล้ว</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920503">
-      <LocalizedName>Give Us Rest</LocalizedName>
+      <LocalizedName>ให้เราพักเถิด</LocalizedName>
     </BattleCardDesc>
     
     <BattleCardDesc ID="920601">
-      <LocalizedName>For He is Holy</LocalizedName>
+      <LocalizedName>พระองค์ทรงศักดิ์สิทธิ์</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920602">
-      <LocalizedName>The Will of the Lord be Done</LocalizedName>
+      <LocalizedName>ประสงค์แห่งท่านจักลุล่วง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920603">
-      <LocalizedName>I shall Devote unto Thee</LocalizedName>
+      <LocalizedName>ข้าจักอุทิศตนให้แก่ท่าน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920604">
-      <LocalizedName>Let Thy Light Lead Me</LocalizedName>
+      <LocalizedName>โปรดชี้นำข้าซึ่งมืดบอด</LocalizedName>
     </BattleCardDesc>
 
 
     <BattleCardDesc ID="701001">
-      <LocalizedName>True Trigram Formation</LocalizedName>
+      <LocalizedName>รูปแท้แห่งไตรแกรม</LocalizedName>
       <!-- 眞 卦(괘 of '팔괘') -->
     </BattleCardDesc>
     <BattleCardDesc ID="701002">
-      <LocalizedName>Impugnatio Ultima</LocalizedName>
+      <LocalizedName>อิมพูลค์นาทริโอ อุลทิมา</LocalizedName>
       <!-- Latin-ed to sound a lil cooler -->
     </BattleCardDesc>
     <BattleCardDesc ID="701003">
-      <LocalizedName>Double-edged Rencounter</LocalizedName>
+      <LocalizedName>การพบพานสองคม</LocalizedName>
       <!-- it is '합' of '합 승리' or '합 패배' -->
     </BattleCardDesc>
     <BattleCardDesc ID="701004">
-      <LocalizedName>Divinatory Impact</LocalizedName>
+      <LocalizedName>วิชาวุธส่องอนาคต</LocalizedName>
       <!-- 卦擊 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701005">
-      <LocalizedName>Augury Kick</LocalizedName>
+      <LocalizedName>ลูกเตะพยากรณ์</LocalizedName>
       <!-- 卦脚 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701006">
-      <LocalizedName>Celestial Spear</LocalizedName>
+      <LocalizedName>หอกเทวะ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="701007">
-      <LocalizedName>Godspeed</LocalizedName>
+      <LocalizedName>ความเร็วเทพ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="701008">
-      <LocalizedName>Unyielding Strike</LocalizedName>
+      <LocalizedName>จู่โจมไม่อ่อนข้อ</LocalizedName>
       <!-- 强擊 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701009">
-      <LocalizedName>Afterimage</LocalizedName>
+      <LocalizedName>ภาพติดตา</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="701010">
-      <LocalizedName>Confrontation</LocalizedName>
+      <LocalizedName>การเผชิญหน้า</LocalizedName>
       <!-- 對峙 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701011">
-      <LocalizedName>Forward March</LocalizedName>
+      <LocalizedName>ก้าวไปข้างหน้า</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="701012">
-      <LocalizedName>Brace Up</LocalizedName>
+      <LocalizedName>เหนี่ยวรั้ง</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="701021">
-      <LocalizedName>Geon of Four Trigrams</LocalizedName>
+      <LocalizedName>เกออนแห่งไตรแกรมทั้งสี่</LocalizedName>
       <!-- 乾. Arbitrarily put "Four Trigrams -" in front of the names for the part of the audience that will not be familiar with the whole thing. -->
     </BattleCardDesc>
     <BattleCardDesc ID="701022">
-      <LocalizedName>Gon of Four Trigrams</LocalizedName>
+      <LocalizedName>กอนแห่งไตรแกรมทั้งสี่</LocalizedName>
       <!-- 坤 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701023">
-      <LocalizedName>Gam of Four Trigrams</LocalizedName>
+      <LocalizedName>แกมแห่งไตรแกรมทั้งสี่</LocalizedName>
       <!-- 坎 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701024">
-      <LocalizedName>Ri of Four Trigrams</LocalizedName>
+      <LocalizedName>ริแห่งไตรแกรมทั้งสี่</LocalizedName>
       <!-- 離 -->
     </BattleCardDesc>
 
     <BattleCardDesc ID="702001">
-      <LocalizedName>Allas Workshop</LocalizedName>
+      <LocalizedName>เวิร์คช็อปอัลลาส</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702002">
-      <LocalizedName>Wheels Industry</LocalizedName>
+      <LocalizedName>วีลอินดัสตี้</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702003">
-      <LocalizedName>Zelkova Workshop</LocalizedName>
+      <LocalizedName>เวิร์คช็อปเซลโคว่า</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702004">
-      <LocalizedName>Old Boys Workshop</LocalizedName>
+      <LocalizedName>เวิร์คช็อปโอลบอย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702005">
-      <LocalizedName>Mook Workshop</LocalizedName>
+      <LocalizedName>เวิร์คช็อปมุค</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702006">
-      <LocalizedName>Ranga Workshop</LocalizedName>
+      <LocalizedName>เวิร์คช็อปรังอา</LocalizedName>
       <!-- Pronounced Rang-ah, not to be confused with a corruption of the word orangutan. -->
     </BattleCardDesc>
     <BattleCardDesc ID="702007">
-      <LocalizedName>Crystal Atelier</LocalizedName>
+      <LocalizedName>คริสตัลแอทเทลเลีย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702008">
-      <LocalizedName>Atelier Logic</LocalizedName>
+      <LocalizedName>แอทเทลเลียโลจิค</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="702009">
-      <LocalizedName>Durandal</LocalizedName>
+      <LocalizedName>ดูเรนดอล</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702010">
-      <LocalizedName>Furioso</LocalizedName>
+      <LocalizedName>ฟิวริออร์โซ่</LocalizedName>
     </BattleCardDesc>
 
 
     <BattleCardDesc ID="704001">
-      <LocalizedName>Trails of Blue</LocalizedName>
+      <LocalizedName>รอยทางสีน้ำเงิน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704002">
-      <LocalizedName>Mince</LocalizedName>
+      <LocalizedName>บดเนื้อ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704003">
-      <LocalizedName>Ever-spinning Gearwheel</LocalizedName>
+      <LocalizedName>ฟันเฟืองเคลื่อนนิรันดร์</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704004">
-      <LocalizedName>Suspicious Contract</LocalizedName>
+      <LocalizedName>สัญญาน่าสงสัย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704005">
-      <LocalizedName>Let’s Have Some Fun~</LocalizedName>
+      <LocalizedName>มาสนุกกันดีกว่า~</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704006">
-      <LocalizedName>Ghghgh</LocalizedName>
+      <LocalizedName>เอิ้กเอิ้ก</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704007">
-      <LocalizedName>Bloodspreading</LocalizedName>
+      <LocalizedName>โลหิตสะพรั่ง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704008">
-      <LocalizedName>Rekindled Strike</LocalizedName>
+      <LocalizedName>เพลิงโหมกระหน่ำ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704009">
-      <LocalizedName>Beatdown</LocalizedName>
+      <LocalizedName>เอาชนะ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704010">
-      <LocalizedName>Chorus</LocalizedName>
+      <LocalizedName>คอรัส</LocalizedName>
     </BattleCardDesc>
     
     <!-- argalia cards -->
     <BattleCardDesc ID="704011">
-      <LocalizedName>Allegro</LocalizedName> <!-- Allegro -->
+      <LocalizedName>อัลเลโกร</LocalizedName> <!-- Allegro -->
     </BattleCardDesc>
     <BattleCardDesc ID="704012">
-      <LocalizedName>Largo</LocalizedName> <!-- Largo -->
+      <LocalizedName>ลาร์โก</LocalizedName> <!-- Largo -->
     </BattleCardDesc>
     <BattleCardDesc ID="704013">
-      <LocalizedName>Resonant Scythe</LocalizedName>
+      <LocalizedName>เคียวก้องกังวาน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704014">
-      <LocalizedName>Tempestuous Danza</LocalizedName>
+      <LocalizedName>ร่ายรำดั่งมรสุม</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="704015">
-      <LocalizedName>Crimson Claws</LocalizedName>
+      <LocalizedName>กรงเล็บสีชาด</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704016">
-      <LocalizedName>Overspeed</LocalizedName>
+      <LocalizedName>เร็วเหนือกว่า</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704017">
-      <LocalizedName>Intimidate</LocalizedName>
+      <LocalizedName>ขู่ข่มเหง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704018">
-      <LocalizedName>Rooster’s Crow</LocalizedName>
+      <LocalizedName>ไก่ของอีกา</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="704101">
-      <LocalizedName>Puppet Strings</LocalizedName>
+      <LocalizedName>เส้นดายหุ่นเชิด</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="704102">
-      <LocalizedName>Unsigned Contract: Liberty</LocalizedName>
+      <LocalizedName>สัญญารออนุมัติ: อิสรภาพ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704103">
-      <LocalizedName>Unsigned Contract: Amplification</LocalizedName>
+      <LocalizedName>สัญญารออนุมัติ: แผขยายฤทธิ์</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704104">
-      <LocalizedName>Unsigned Contract: Swiftness</LocalizedName>
+      <LocalizedName>สัญญารออนุมัติ: ความว่องไว</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704105">
-      <LocalizedName>Unsigned Contract: Might</LocalizedName>
+      <LocalizedName>สัญญารออนุมัติ: ความองอาจ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704106">
-      <LocalizedName>Unsigned Contract: Light</LocalizedName>
+      <LocalizedName>สัญญารออนุมัติ: แสง</LocalizedName>
     </BattleCardDesc>
 
     <!-- 검은침묵 2페이즈 카드 -->
     <BattleCardDesc ID="702101">
-      <LocalizedName>Swing</LocalizedName>
+      <LocalizedName>เหวี่ยง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702102">
-      <LocalizedName>Bite of Flesh</LocalizedName>
+      <LocalizedName>กัดเข้าเนื้อ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702103">
-      <LocalizedName>Tail Swipe</LocalizedName>
+      <LocalizedName>แกว่งหาง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702104">
-      <LocalizedName>Amalgamated Sinews</LocalizedName>
+      <LocalizedName>ความแกร่งของก้อนเนื้อหนัง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702105">
-      <LocalizedName>Spiky Tendrils</LocalizedName>
+      <LocalizedName>หนามเนื้อเลื้อย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702106">
-      <LocalizedName>Spew Smoke</LocalizedName>
+      <LocalizedName>สำลอกควัน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702107">
-      <LocalizedName>Flail</LocalizedName>
+      <LocalizedName>โบกสบัด</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702108">
-      <LocalizedName>Gnaw</LocalizedName>
+      <LocalizedName>กัดแทะ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702109">
-      <LocalizedName>Stabbing Tentacles</LocalizedName>
+      <LocalizedName>ทิ่มแทงหนวดหนาม</LocalizedName>
     </BattleCardDesc>
 
     <!--필립 1차-->
     <BattleCardDesc ID="707101">
-      <LocalizedName>Distorted Courage</LocalizedName>
+      <LocalizedName>ความกล้าอันบิดเบี้ยว</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707102">
-      <LocalizedName>Blazing Strike</LocalizedName>
+      <LocalizedName>มหาเพลิงประจัญ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707103">
-      <LocalizedName>Restrain</LocalizedName>
+      <LocalizedName>ยับยั้งจิตใจ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707104">
-      <LocalizedName>Wound of Sorrow</LocalizedName>
+      <LocalizedName>แผลแห่งความโศก</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707105">
-      <LocalizedName>Scorching Desperation</LocalizedName>
+      <LocalizedName>เพลิงความหวังอันดับสูญ</LocalizedName>
     </BattleCardDesc>
 
           <!-- The Black Silence, phase 3-->
     <BattleCardDesc ID="705201">
-      <LocalizedName>Dark Bond</LocalizedName>
+      <LocalizedName>สายใยทมิฬ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705202">
-      <LocalizedName>Unstable Bond</LocalizedName>
+      <LocalizedName>สายใยไม่เสถียร</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705203">
-      <LocalizedName>Combo: Zelkova Workshop</LocalizedName>
+      <LocalizedName>ประสาน: เวิร์คช็อปเซลโคว่า</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705204">
-      <LocalizedName>Combo: Allas Workshop</LocalizedName>
+      <LocalizedName>ประสาน: เวิร์คช็อปอัลลาส</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705205">
-      <LocalizedName>Combo: Atelier Logic</LocalizedName>
+      <LocalizedName>ประสาน: แอทเทลเลียโลจิค</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705206">
-      <LocalizedName>Vigilant Stand</LocalizedName>
+      <LocalizedName>ยืนหยัดอย่างรอบคอบ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705207">
-      <LocalizedName>Frenzy</LocalizedName>
+      <LocalizedName>เสียสติ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705208">
-      <LocalizedName>Fury</LocalizedName>
+      <LocalizedName>โทสะ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705209">
-      <LocalizedName>Waltz in Black</LocalizedName>
+      <LocalizedName>เริ่งรำในเงามืด</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705211">
-      <LocalizedName>Ashen Bond</LocalizedName>
+      <LocalizedName>สายใยเถ้าธุลี</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705212">
-      <LocalizedName>Unstable Bond</LocalizedName>
+      <LocalizedName>สายใยไม่เสถียร</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705213">
-      <LocalizedName>Zelkova Workshop</LocalizedName>
+      <LocalizedName>เวิร์คช็อปเซลโคว่า</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705214">
-      <LocalizedName>Allas Workshop</LocalizedName>
+      <LocalizedName>เวิร์คช็อปอัลลาส</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705215">
-      <LocalizedName>Atelier Logic</LocalizedName>
+      <LocalizedName>แอทเทลเลียโลจิค</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705216">
-      <LocalizedName>Wheels Industry</LocalizedName>
+      <LocalizedName>วีลอินดัสตี้</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705217">
-      <LocalizedName>Waltz in White</LocalizedName>
+      <LocalizedName>เริ่งรำในแสงสว่าง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705218">
-      <LocalizedName>Vigilant Stand</LocalizedName>
+      <LocalizedName>ยืนหยัดอย่างรอบคอบ</LocalizedName>
     </BattleCardDesc>
 
     <!-- The Black Silence, phase 4-->
     <BattleCardDesc ID="702301">
-      <LocalizedName>Memory - Yun’s Office</LocalizedName>
+      <LocalizedName>ความทรงจำ - สำนักงานยุน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702302">
-      <LocalizedName>Memory - Dawn Office</LocalizedName>
+      <LocalizedName>ความทรงจำ - สำนักงานรุ่งอรุณ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702303">
-      <LocalizedName>Memory - Zwei Association</LocalizedName>
+      <LocalizedName>ความทรงจำ - สมาคมองค์กรซไว</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702304">
-      <LocalizedName>Memory - Love Town</LocalizedName>
+      <LocalizedName>ความทรงจำ - เมืองรัก</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702305">
-      <LocalizedName>Memory - Liu Association</LocalizedName>
+      <LocalizedName>ความทรงจำ - สมาคมองค์กรหลิว</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702306">
-      <LocalizedName>Memory - Shi Association</LocalizedName>
+      <LocalizedName>ความทรงจำ - สมาคมองค์กรชิ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702307">
-      <LocalizedName>Memory - Hana Association</LocalizedName>
+      <LocalizedName>ความทรงจำ - สมาคมองค์กรฮานา</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702308">
-      <LocalizedName>Memory - The Purple Tear</LocalizedName>
+      <LocalizedName>ความทรงจำ - น้ำตาม่วง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702309">
-      <LocalizedName>Memory - The Blue Reverberation</LocalizedName>
+      <LocalizedName>ความทรงจำ - น้ำเงินผู้ก้องกังวาน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702310">
-      <LocalizedName>Rage</LocalizedName>
+      <LocalizedName>โกรธแค้น</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702315">
-      <LocalizedName>Conflict</LocalizedName>
+      <LocalizedName>ขัดแย้ง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702311">
-      <LocalizedName>Sorrow</LocalizedName>
+      <LocalizedName>โศกา</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702313">
-      <LocalizedName>Furioso</LocalizedName>
+      <LocalizedName>ฟิวริออร์โซ่</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702314">
-      <LocalizedName>Scream</LocalizedName>
+      <LocalizedName>กรีดร้อง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702320">
-      <LocalizedName>Willpower</LocalizedName>
+      <LocalizedName>พลังใจ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702321">
-      <LocalizedName>Learn</LocalizedName>
+      <LocalizedName>ดูให้รู้</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702316">
-      <LocalizedName>Agony</LocalizedName>
+      <LocalizedName>ทุกข์ตรม</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702312">
-      <LocalizedName>Void</LocalizedName>
+      <LocalizedName>ว่างเปล่า</LocalizedName>
     </BattleCardDesc>
 
 <!-- 뒤틀린 오스왈드-->
     <BattleCardDesc ID="707501">
-      <LocalizedName>Shall We Start the Show~?</LocalizedName>
+      <LocalizedName>มาเริ่มเปิดม่านกันไหม~?</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707502">
-      <LocalizedName>Introducing Our Newest Member!</LocalizedName>
+      <LocalizedName>แนะนำตัวหน่อย สมาชิกคนใหม่~</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707503">
-      <LocalizedName>Pow~! Kablammo!!</LocalizedName>
+      <LocalizedName>ตุ้ม~! ตู้ม!!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707504">
-      <LocalizedName>Ready for a Surprise!?♥</LocalizedName>
+      <LocalizedName>พร้อมโดนเซอร์ไพรส์รึยัง!?♥</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707505">
-      <LocalizedName>Here, Catch~!♣</LocalizedName>
+      <LocalizedName>รับน้าา~!♣</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707506">
-      <LocalizedName>Shall We Somersault These?♦</LocalizedName>
+      <LocalizedName>จับมันตีลังกากันไหม?♦</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707507">
-      <LocalizedName>We Need You, You Know~?!</LocalizedName>
+      <LocalizedName>เราทุกคนอยากให้เธอเข้าร่วมน้าา~?!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707508">
-      <LocalizedName>Don’t Resist~!</LocalizedName>
+      <LocalizedName>อย่าขัดขืน~!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707509">
-      <LocalizedName>CLIMAX!!!</LocalizedName>
+      <LocalizedName>ไคลแม็ค!!!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707510">
-      <LocalizedName>FANFARE!!!</LocalizedName>
+      <LocalizedName>แฟนแฟร์!!!</LocalizedName>
     </BattleCardDesc>
 
     <!-- 뒤틀린 재헌-->
     <BattleCardDesc ID="707701">
-      <LocalizedName>Straining Strings</LocalizedName>
+      <LocalizedName>เส้นดายพันธนา</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707702">
-      <LocalizedName>Controlling Strings</LocalizedName>
+      <LocalizedName>ควบคุมเส้นดาย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707703">
-      <LocalizedName>Conjoining Strings</LocalizedName>
+      <LocalizedName>ประสานเส้นดาย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707704">
-      <LocalizedName>Not a Chance</LocalizedName>
+      <LocalizedName>ไม่ให้ทำได้</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707705">
-      <LocalizedName>Needlework</LocalizedName>
+      <LocalizedName>งานเย็บปัก</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707706">
-      <LocalizedName>Backstitch</LocalizedName>
+      <LocalizedName>ด้นถอยหลัง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707707">
-      <LocalizedName>Cripple</LocalizedName>
+      <LocalizedName>พิการ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707708">
-      <LocalizedName>Puppetry</LocalizedName>
+      <LocalizedName>การเชิดหุ่น</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707709">
-      <LocalizedName>Puppetry</LocalizedName>
+      <LocalizedName>การเชิดหุ่</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707710">
-      <LocalizedName>Manipulated Flesh</LocalizedName>
+      <LocalizedName>จัดการเนื้อหนัง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707711">
-      <LocalizedName>Manipulated Flesh</LocalizedName>
+      <LocalizedName>จัดการเนื้อหนัง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707712">
-      <LocalizedName>Red Strings</LocalizedName>
+      <LocalizedName>เส้นดายแดง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707713">
-      <LocalizedName>Red Strings</LocalizedName>
+      <LocalizedName>เส้นดายแดง</LocalizedName>
     </BattleCardDesc>
 
     <!-- 뒤틀린 타냐-->
     <BattleCardDesc ID="707604">
-      <LocalizedName>Intimidate</LocalizedName>
+      <LocalizedName>ขู่ข่มเหง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707611">
-      <LocalizedName>Lupine Onslaught</LocalizedName>
+      <LocalizedName>หมาป่าออกฆ่าฟัน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707601">
-      <LocalizedName>Fisticuffs</LocalizedName>
+      <LocalizedName>กำปั้น</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707602">
-      <LocalizedName>Kicks and Stomps</LocalizedName>
+      <LocalizedName>เตะแล้วกระทืบซ้ำ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707603">
-      <LocalizedName>Overspeed</LocalizedName>
+      <LocalizedName>เร็วเหนือกว่า</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707612">
-      <LocalizedName>Beatdown</LocalizedName>
+      <LocalizedName>เอาชนะ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707613">
-      <LocalizedName>Pitch Black Pulverizer</LocalizedName>
+      <LocalizedName>เครื่องบดเนื้อเดินได้</LocalizedName>
     </BattleCardDesc>
 
     <!-- claw -->
     <BattleCardDesc ID="706001">
-      <LocalizedName>Trail</LocalizedName>
+      <LocalizedName>รอยทาง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706002">
-      <LocalizedName>Extirpation</LocalizedName>
+      <LocalizedName>กำจัดเป้าหมาย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706003">
-      <LocalizedName>Serum R</LocalizedName>
+      <LocalizedName>เซรั่ม R</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706004">
-      <LocalizedName>Serum W</LocalizedName>
+      <LocalizedName>เซรั่ม W</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706005">
-      <LocalizedName>Tri-serum Cocktail</LocalizedName>
+      <LocalizedName>สูตรผสมสามเซรั่ม</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706006">
-      <LocalizedName>Serum K</LocalizedName>
+      <LocalizedName>เซรั่ม K</LocalizedName>
     </BattleCardDesc>
 
     <!-- head -->
     <BattleCardDesc ID="706011">
-      <LocalizedName>Thin Line</LocalizedName>
+      <LocalizedName>เส้นบาง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706012">
-      <LocalizedName>Line</LocalizedName><!-- line -->
+      <LocalizedName>เส้น</LocalizedName><!-- line -->
     </BattleCardDesc>
     <BattleCardDesc ID="706013">
-      <LocalizedName>Thick Line</LocalizedName>
+      <LocalizedName>เส้นหนา</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706014">
-      <LocalizedName>Shockwave</LocalizedName>
+      <LocalizedName>พิภพคำราม</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706015">
-      <LocalizedName>Birdcage</LocalizedName>
+      <LocalizedName>กรงนก</LocalizedName>
     </BattleCardDesc>
 
     <!-- binah upgrade -->
     <BattleCardDesc ID="706201">
-      <LocalizedName>Lock</LocalizedName>
+      <LocalizedName>ผนึก</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706202">
-      <LocalizedName>Fairy</LocalizedName>
+      <LocalizedName>แฟรี่</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706203">
-      <LocalizedName>Shockwave</LocalizedName>
+      <LocalizedName>พิภพคำราม</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706204">
-      <LocalizedName>Pillar</LocalizedName>
+      <LocalizedName>เสา</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706205">
-      <LocalizedName>Chain</LocalizedName>
+      <LocalizedName>โซ่ตรวน</LocalizedName>
     </BattleCardDesc>
 
     <!-- keter ego -->
@@ -2274,140 +2274,140 @@
     <!-- New May 16th file adjustment thing -->
     <!-- 밤의 송곳 (Night Awls) -->
     <BattleCardDesc ID="612001">
-      <LocalizedName>Gap Attack</LocalizedName>
+      <LocalizedName>โจมตีช่องโหว่</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="612002">
-      <LocalizedName>Dagger Press</LocalizedName>
+      <LocalizedName>กดใบมีด</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="612003">
-      <LocalizedName>Feint</LocalizedName>
+      <LocalizedName>หลอก</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="612004">
-      <LocalizedName>Seize ya Chance</LocalizedName>
+      <LocalizedName>โอกาสเอ็งหมดละ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="612005">
-      <LocalizedName>Prod the Weakness</LocalizedName>
+      <LocalizedName>กระทุ้งจุดอ่อน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="612006">
-      <LocalizedName>Stiletto</LocalizedName>
+      <LocalizedName>เท้าจวงแทง</LocalizedName>
     </BattleCardDesc>
 
     <!-- 정사무소 해결사 (Jeong's Office) -->
     <BattleCardDesc ID="411101">
-      <LocalizedName>Low at Night, High at Day</LocalizedName>
+      <LocalizedName>ต่ำยามค่ำ สูงยามเช้า</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="411102">
-      <LocalizedName>Relay</LocalizedName>
+      <LocalizedName>ผลัดเปลี่ยน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="411103">
-      <LocalizedName>Flip the Table</LocalizedName>
+      <LocalizedName>หน้ามือเป็นหลังตีน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="411104">
-      <LocalizedName>Shuffle Hands</LocalizedName>
+      <LocalizedName>เปลี่ยนมือ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="411105">
-      <LocalizedName>Sakura</LocalizedName>
+      <LocalizedName>ซากุระ</LocalizedName>
     </BattleCardDesc>
 
     <!-- 우제트 (Udjat) -->
     <BattleCardDesc ID="613001">
-      <LocalizedName>Harpe</LocalizedName>
+      <LocalizedName>ฮาร์ป</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="613002">
-      <LocalizedName>Sand Split</LocalizedName>
+      <LocalizedName>สำลอกทราย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="613003">
-      <LocalizedName>Sand Strike</LocalizedName>
+      <LocalizedName>ทรายจู่โจม</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="613004">
-      <LocalizedName>Furūsiyya</LocalizedName>
+      <LocalizedName>ฟุรุซิยา</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="613005">
-      <LocalizedName>Jamadhar</LocalizedName>
+      <LocalizedName>จามาดราห์</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="613006">
-      <LocalizedName>The Udjat</LocalizedName>
+      <LocalizedName>อัตจัต</LocalizedName>
     </BattleCardDesc>
 
     <!-- 미래생명 (Mirae Life Insurance) -->
     <BattleCardDesc ID="614001">
-      <LocalizedName>Switcheroo</LocalizedName>
+      <LocalizedName>แปรฉับพลัน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="614002">
-      <LocalizedName>Insurance Coverage</LocalizedName>
+      <LocalizedName>คุ้มครองประกันภัย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="614003">
-      <LocalizedName>Equivalent Exchange</LocalizedName>
+      <LocalizedName>การแลกเปลี่ยนที่เท่าเทียม</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="614004">
-      <LocalizedName>Multi-party Compensation</LocalizedName>
+      <LocalizedName>ค่าชดเชยหลายภาคส่วน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="614005">
-      <LocalizedName>Final Stroke</LocalizedName>
+      <LocalizedName>เส้นสุดท้าย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="614006">
-      <LocalizedName>Life Insurance</LocalizedName>
+      <LocalizedName>ประกันชีวิต</LocalizedName>
     </BattleCardDesc>
 
     <!-- 공방소속 (Leaflet Workshop) -->
     <BattleCardDesc ID="615001">
-      <LocalizedName>Test Run</LocalizedName>
+      <LocalizedName>รอบทดสอบ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="615002">
-      <LocalizedName>Smoke Blow</LocalizedName>
+      <LocalizedName>เป่าควัน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="615003">
-      <LocalizedName>Smoke Smash</LocalizedName>
+      <LocalizedName>ควันกระแทก</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="615004">
-      <LocalizedName>Smoke Prick</LocalizedName>
+      <LocalizedName>ควันทิ่มแทง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="615005">
-      <LocalizedName>Field Mods</LocalizedName>
+      <LocalizedName>ดัดแปลงสนาม</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="615006">
-      <LocalizedName>Exhale Smoke</LocalizedName>
+      <LocalizedName>ปลดปล่อยควัน</LocalizedName>
     </BattleCardDesc>
 
     <!-- 베이야드 (Bayard) -->
     <BattleCardDesc ID="616001">
-      <LocalizedName>Wedging Thorn</LocalizedName>
+      <LocalizedName>หนามทิ่มแทง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="616002">
-      <LocalizedName>Cleave Across</LocalizedName>
+      <LocalizedName>ผ่าแยกร่าง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="616003">
-      <LocalizedName>Faultless Strike</LocalizedName>
+      <LocalizedName>จู่โจมไร้ที่ติ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="616004">
-      <LocalizedName>Knock Back</LocalizedName>
+      <LocalizedName>สะท้อนกลับ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="616005">
-      <LocalizedName>Great Swing</LocalizedName>
+      <LocalizedName>เหวี่ยงเต็มเหนี่ยว</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="616006">
-      <LocalizedName>Ready Position</LocalizedName>
+      <LocalizedName>ตำแหน่งเตรียมพร้อม</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="616007">
-      <LocalizedName>Pinpoint Breakthrough</LocalizedName>
+      <LocalizedName>ฝ่าฟันสู่จุดหมาย</LocalizedName>
     </BattleCardDesc>
 
 
 
     <BattleCardDesc ID="1100023">
-      <LocalizedName>Liquid Courage</LocalizedName>
+      <LocalizedName>ความกล้าไม่เป็นรูป</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100024">
-      <LocalizedName>Silk Sack of Sawdust</LocalizedName>
+      <LocalizedName>กระสอบไหมขี้เลื่อย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100025">
-      <LocalizedName>Heart of Lead</LocalizedName>
+      <LocalizedName>หัวใจตะกั่ว</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100026">
-      <LocalizedName>Home that Cannot Be Reached</LocalizedName>
+      <LocalizedName>บ้านที่ไม่อาจกลับไป</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100027">
-      <LocalizedName>Transformation</LocalizedName>
+      <LocalizedName>แปลงร่าง</LocalizedName>
     </BattleCardDesc>
 
 
