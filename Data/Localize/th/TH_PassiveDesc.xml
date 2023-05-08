@@ -1,209 +1,209 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<PassiveDesc ID="1">
-		<Name>Slash Boost Ⅰ</Name>
-		<Desc>25% chance to boost Slash damage by +1</Desc>
+		<Name>เสริมพลังฟัน Ⅰ</Name>
+		<Desc>มีโอกาส 25% เพิ่มดาเมจการฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2">
-		<Name>Pierce Boost Ⅰ</Name>
-		<Desc>25% chance to boost Pierce damage by +1</Desc>
+		<Name>เสริมพลังแทง Ⅰ</Name>
+		<Desc>มีโอกาส 25% เพิ่มดาเมจการแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="3">
-		<Name>Blunt Boost Ⅰ</Name>
-		<Desc>25% chance to boost Blunt damage by +1</Desc>
+		<Name>เสริมพลังทุบ Ⅰ</Name>
+		<Desc>มีโอกาส 25% เพิ่มดาเมจการทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="4">
-		<Name>Slash Stunner Ⅰ</Name>
-		<Desc>25% chance to boost Slash stagger damage by +1</Desc>
+		<Name>ฟันผ่าสติ Ⅰ</Name>
+		<Desc>มีโอกาส 25% เพิ่มดาเมจ Stagger การฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="5">
-		<Name>Pierce Stunner Ⅰ</Name>
-		<Desc>25% chance to boost Pierce stagger damage by +1</Desc>
+		<Name>แทงเข้าสติ Ⅰ</Name>
+		<Desc>มีโอกาส 25% เพิ่มดาเมจ Stagger การแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="6">
-		<Name>Blunt Stunner Ⅰ</Name>
-		<Desc>25% chance to boost Blunt stagger damage by +1</Desc>
+		<Name>ทุบทลายสติ Ⅰ</Name>
+		<Desc>มีโอกาส 25% เพิ่มดาเมจ Stagger การทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="7">
-		<Name>Slash Mastery Ⅰ</Name>
-		<Desc>10% chance to boost Slash dice Power by +1</Desc>
+		<Name>การฟันอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทการฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="8">
-		<Name>Pierce Mastery Ⅰ</Name>
-		<Desc>10% chance to boost Pierce dice Power by +1</Desc>
+		<Name>การแทงอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทการแทง +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="9">
-		<Name>Blunt Mastery Ⅰ</Name>
-		<Desc>10% chance to boost Blunt dice Power by +1</Desc>
+		<Name>การทุบอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทการทุบ +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="10">
-		<Name>Block Mastery Ⅰ</Name>
-		<Desc>20% chance to boost Block dice Power by +1</Desc>
+		<Name>การป้องกันอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทป้องกัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="11">
-		<Name>Evade Mastery Ⅰ</Name>
-		<Desc>20% chance to boost Evade dice Power by +1</Desc>
+		<Name>การหลบอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทหลบหลีก +1</Desc>
 	</PassiveDesc>
   <PassiveDesc ID="12">
-    <Name>Blunt Overpower Ⅰ</Name>
-    <Desc>After winning a clash using a Blunt die, 35% chance to deal 1 bonus damage</Desc>
+    <Name>ทุบทำลายด้วยพลัง Ⅰ</Name>
+    <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภททุบ มีโอกาส 35% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="13">
-    <Name>Pierce Overpower Ⅰ</Name>
-    <Desc>After winning a clash using a Pierce die, 35% chance to deal 1 bonus damage</Desc>
+    <Name>แทลงทะลุด้วยพลัง Ⅰ</Name>
+    <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทแทง มีโอกาส 35% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="14">
-    <Name>Slash Overpower Ⅰ</Name>
-    <Desc>After winning a clash using a Slash die, 35% chance to deal 1 bonus damage</Desc>
+    <Name>ฟันผ่าด้วยพลัง Ⅰ</Name>
+    <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทฟัน มีโอกาส 35% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
 
 
 
-  <PassiveDesc ID="1001">
-		<Name>Slash Boost Ⅱ</Name>
-		<Desc>30% chance to boost Slash damage by +1</Desc>
+	<PassiveDesc ID="1001">
+		<Name>เสริมพลังฟัน ⅠⅠ</Name>
+		<Desc>มีโอกาส 30% เพิ่มดาเมจการฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1002">
-		<Name>Pierce Boost Ⅱ</Name>
-		<Desc>30% chance to boost Pierce damage by +1</Desc>
+		<Name>เสริมพลังแทง ⅠⅠ</Name>
+		<Desc>มีโอกาส 30% เพิ่มดาเมจการแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1003">
-		<Name>Blunt Boost Ⅱ</Name>
-		<Desc>30% chance to boost Blunt damage by +1</Desc>
+		<Name>เสริมพลังทุบ ⅠⅠ</Name>
+		<Desc>มีโอกาส 30% เพิ่มดาเมจการทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1004">
-		<Name>Slash Stunner Ⅱ</Name>
-		<Desc>30% chance to boost Slash stagger damage by +1</Desc>
+		<Name>ฟันผ่าสติ ⅠⅠ</Name>
+		<Desc>มีโอกาส 30% เพิ่มดาเมจ Stagger การฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1005">
-		<Name>Pierce Stunner Ⅱ</Name>
-		<Desc>30% chance to boost Pierce stagger damage by +1</Desc>
+		<Name>แทงเข้าสติ ⅠⅠ</Name>
+		<Desc>มีโอกาส 30% เพิ่มดาเมจ Stagger การแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1006">
-		<Name>Blunt Stunner Ⅱ</Name>
-		<Desc>30% chance to boost Blunt stagger damage by +1</Desc>
+		<Name>ทุบทลายสติ ⅠⅠ</Name>
+		<Desc>มีโอกาส 30% เพิ่มดาเมจ Stagger การทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1007">
-		<Name>Slash Mastery Ⅱ</Name>
-		<Desc>12% chance to boost Slash dice Power by +1</Desc>
+		<Name>การฟันอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Desc>มีโอกาส 12% เพิ่มพลังลูกเต๋าประเภทการฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1008">
-		<Name>Pierce Mastery Ⅱ</Name>
-		<Desc>12% chance to boost Pierce dice Power by +1</Desc>
+		<Name>การแทงอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Desc>มีโอกาส 12% เพิ่มพลังลูกเต๋าประเภทการแทง +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1009">
-		<Name>Blunt Mastery Ⅱ</Name>
-		<Desc>12% chance to boost Blunt dice Power by +1</Desc>
+		<Name>การทุบอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Desc>มีโอกาส 12% เพิ่มพลังลูกเต๋าประเภทการทุบ +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1010">
-		<Name>Block Mastery Ⅱ</Name>
-		<Desc>24% chance to boost Block dice Power by +1</Desc>
+		<Name>การป้องกันอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Desc>มีโอกาส 24% เพิ่มพลังลูกเต๋าประเภทป้องกัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1011">
-		<Name>Evade Mastery Ⅱ</Name>
-		<Desc>24% chance to boost Evade dice Power by +1</Desc>
+		<Name>การหลบอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Desc>มีโอกาส 24% เพิ่มพลังลูกเต๋าประเภทหลบหลีก +1</Desc>
 	</PassiveDesc>
-   <PassiveDesc ID="1012">
-    <Name>Blunt Overpower Ⅱ</Name>
-    <Desc>After winning a clash using a Blunt die, 45% chance to deal 1 bonus damage</Desc>
+  <PassiveDesc ID="1012">
+    <Name>ทุบทำลายด้วยพลัง ⅠⅠ</Name>
+    <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภททุบ มีโอกาส 45% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1013">
-    <Name>Slash Overpower Ⅱ</Name>
-    <Desc>After winning a clash using a Slash die, 45% chance to deal 1 bonus damage</Desc>
+    <Name>แทลงทะลุด้วยพลัง ⅠⅠ</Name>
+    <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทแทง มีโอกาส 45% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1014">
-    <Name>Pierce Overpower Ⅱ</Name>
-    <Desc>After winning a clash using a Pierce die, 45% chance to deal 1 bonus damage</Desc>
+    <Name>ฟันผ่าด้วยพลัง ⅠⅠ</Name>
+    <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทฟัน มีโอกาส 45% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   
-  <PassiveDesc ID="2001">
-    <Name>Slash Boost Ⅲ</Name>
-    <Desc>35% chance to boost Slash damage by +1</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="2002">
-    <Name>Pierce Boost Ⅲ</Name>
-    <Desc>35% chance to boost Pierce damage by +1</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="2003">
-    <Name>Blunt Boost Ⅲ</Name>
-    <Desc>35% chance to boost Blunt damage by +1</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="2004">
-    <Name>Slash Stunner Ⅲ</Name>
-    <Desc>35% chance to boost Slash stagger damage by +1</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="2005">
-    <Name>Pierce Stunner Ⅲ</Name>
-    <Desc>35% chance to boost Pierce stagger damage by +1</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="2006">
-    <Name>Blunt Stunner Ⅲ</Name>
-    <Desc>35% chance to boost Blunt stagger damage by +1</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="2007">
-    <Name>Slash Mastery Ⅲ</Name>
-    <Desc>14% chance to boost Slash dice Power by +1</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="2008">
-    <Name>Pierce Mastery Ⅲ</Name>
-    <Desc>14% chance to boost Pierce dice Power by +1</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="2009">
-    <Name>Blunt Mastery Ⅲ</Name>
-    <Desc>14% chance to boost Blunt dice Power by +1</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="2010">
-    <Name>Block Mastery Ⅲ</Name>
-    <Desc>28% chance to boost Block dice Power by +1</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="2011">
-    <Name>Evade Mastery Ⅲ</Name>
-    <Desc>28% chance to boost Evade dice Power by +1</Desc>
-  </PassiveDesc>
+	<PassiveDesc ID="2001">
+		<Name>เสริมพลังฟัน ⅠⅠⅠ</Name>
+		<Desc>มีโอกาส 35% เพิ่มดาเมจการฟัน +1 ดาเมจ</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="2002">
+		<Name>เสริมพลังแทง ⅠⅠⅠ</Name>
+		<Desc>มีโอกาส 35% เพิ่มดาเมจการแทง +1 ดาเมจ</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="2003">
+		<Name>เสริมพลังทุบ ⅠⅠⅠ</Name>
+		<Desc>มีโอกาส 35% เพิ่มดาเมจการทุบ +1 ดาเมจ</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="2004">
+		<Name>ฟันผ่าสติ ⅠⅠⅠ</Name>
+		<Desc>มีโอกาส 35% เพิ่มดาเมจ Stagger การฟัน +1 ดาเมจ</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="2005">
+		<Name>แทงเข้าสติ ⅠⅠⅠ</Name>
+		<Desc>มีโอกาส 35% เพิ่มดาเมจ Stagger การแทง +1 ดาเมจ</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="2006">
+		<Name>ทุบทลายสติ ⅠⅠⅠ</Name>
+		<Desc>มีโอกาส 35% เพิ่มดาเมจ Stagger การทุบ +1 ดาเมจ</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="2007">
+		<Name>การฟันอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Desc>มีโอกาส 14% เพิ่มพลังลูกเต๋าประเภทการฟัน +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="2008">
+		<Name>การแทงอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Desc>มีโอกาส 14% เพิ่มพลังลูกเต๋าประเภทการแทง +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="2009">
+		<Name>การทุบอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Desc>มีโอกาส 14% เพิ่มพลังลูกเต๋าประเภทการทุบ +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="2010">
+		<Name>การป้องกันอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Desc>มีโอกาส 28% เพิ่มพลังลูกเต๋าประเภทป้องกัน +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="2011">
+		<Name>การหลบอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Desc>มีโอกาส 28% เพิ่มพลังลูกเต๋าประเภทหลบหลีก +1</Desc>
+	</PassiveDesc>
   <PassiveDesc ID="2012">
-    <Name>Blunt Overpower Ⅲ</Name>
-    <Desc>After winning a clash using a Blunt die, 60% chance to deal 1 bonus damage</Desc>
+    <Name>ทุบทำลายด้วยพลัง ⅠⅠⅠ</Name>
+    <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภททุบ มีโอกาส 60% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2013">
-    <Name>Slash Overpower Ⅲ</Name>
-    <Desc>After winning a clash using a Slash die, 60% chance to deal 1 bonus damage</Desc>
+    <Name>แทลงทะลุด้วยพลัง ⅠⅠⅠ</Name>
+    <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทแทง มีโอกาส 60% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2014">
-    <Name>Pierce Overpower Ⅲ</Name>
-    <Desc>After winning a clash using a Pierce die, 60% chance to deal 1 bonus damage</Desc>
+    <Name>ฟันผ่าด้วยพลัง ⅠⅠⅠ</Name>
+    <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทฟัน มีโอกาส 60% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="3007">
-    <Name>Slash Mastery</Name>
-    <Desc>Slash Dice Power +1</Desc>
+		<Name>การฟันอย่างเชี่ยวชาญ</Name>
+		<Desc>เพิ่มพลังลูกเต๋าประเภทการฟัน +1</Desc>
   </PassiveDesc>
   <PassiveDesc ID="3008">
-    <Name>Pierce Mastery</Name>
-    <Desc>Pierce Dice Power +1</Desc>
+		<Name>การแทงอย่างเชี่ยวชาญ</Name>
+		<Desc>เพิ่มพลังลูกเต๋าประเภทการแทง +1</Desc>
   </PassiveDesc>
   <PassiveDesc ID="3009">
-    <Name>Blunt Mastery</Name>
-    <Desc>Blunt Dice Power +1</Desc>
+		<Name>การทุบอย่างเชี่ยวชาญ</Name>
+		<Desc>เพิ่มพลังลูกเต๋าประเภทการทุบ +1</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="10001">
-    <Name>Speed</Name>
-    <Desc>Speed Dice Slot +1 (Cannot Overlap)</Desc>
+    <Name>ความเร็ว</Name>
+    <Desc>เต๋าความเร็วเพิ่มขึ้น 1 ช่อง (ทับซ้อนไม่ได้)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10002">
-    <Name>Ranged Only</Name>
-    <Desc>Can only use Ranged Combat Pages</Desc>
+    <Name>ระยะไกลเท่านั้น</Name>
+    <Desc>สามารถใช้ได้เพียง Combat Page ประเภทระยะไกลเท่านั้น</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10003">
-    <Name>Ranged</Name>
-    <Desc>Can use Ranged Combat Pages</Desc>
+    <Name>ระยะไกล</Name>
+    <Desc>สามารถใช้ Combat Page ประเภทระยะไกลได้</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10004">
-    <Name>Speed Ⅱ</Name>
-    <Desc>Speed Dice Slot +2 (Cannot Overlap)</Desc>
+    <Name>ความเร็ว Ⅱ</Name>
+    <Desc>เต๋าความเร็วเพิ่มขึ้น 2 ช่อง (ทับซ้อนไม่ได้)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10005">
-    <Name>The Red Mist</Name>
+    <Name>หมอกแดง</Name>
     <Desc>???</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10006">
@@ -215,146 +215,147 @@
     <Desc>???</Desc>
   </PassiveDesc>
 	<PassiveDesc ID="10008">
-		<Name>Speed Ⅲ</Name>
-		<Desc>Speed Dice Slot +1. Gain an additional Speed die at Emotion Level 3. (Cannot Overlap)</Desc>
+		<Name>ความเร็ว Ⅲ</Name>
+		<Desc>เต๋าความเร็วเพิ่มขึ้น 1 ช่อง และจะได้รับเพิ่มอีก 1 ช่องเมื่อระดับอารมณ์อยู่ที่ 3 หรือสูงกว่า (ทับซ้อนไม่ได้)</Desc>
 	</PassiveDesc>
   
 	<PassiveDesc ID="200004">
-		<Name>Half-baked Courage</Name>
-		<Desc>When an ally dies, gain 1 Strength next Scene</Desc>
+		<Name>ความกล้าไม่เต็มบาท</Name>
+		<Desc>เมื่อเพื่อนตายในการต่อสู้ ได้รับ 1 กำลังในฉากถัดไป</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="200006">
-		<Name>Yun’s Hunch</Name>
-    <Desc>Boost the max value of Evade dice by +3 at a 50% chance</Desc>
+		<Name>ลางสังหรณ์ของยุน</Name>
+    <Desc>มีโอกาส 50% ที่จะเพิ่มค่าสูงสุดของเต๋าประเภทหลบหลีก 3</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="200005">
-		<Name>The Art of Defense</Name>
-    <Desc>Boost the max value of Defensive dice by +3 at a 25% chance</Desc>
+		<Name>ศิลปะแห่งการป้องกัน</Name>
+    <Desc>มีโอกาส 25% ที่จะเพิ่มค่าสูงสุดของเต๋าประเภทป้องกัน 3</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="201001">
-		<Name>Slash of a Grade 9 Fixer</Name>
-		<Desc>50% chance to boost Slash damage by +1</Desc>
+		<Name>การฟันของฟิกเซอร์เกรด 9</Name>
+		<Desc>มีโอกาส 50% ที่จะเพิ่มดาเมจประเภทการฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="201002">
-		<Name>Knock of a Grade 9 Fixer</Name>
-		<Desc>50% chance to boost Blunt damage by +1</Desc>
+		<Name>การเคาะของฟิกเซอร์เกรด 9</Name>
+		<Desc>มีโอกาส 50% ที่จะเพิ่มดาเมจประเภทการทุบ +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="201003">
-		<Name>Thrust of a Grade 9 Fixer</Name>
-		<Desc>50% chance to boost Pierce damage by +1</Desc>
+		<Name>การจ้วงของฟิกเซอร์เกรด 9</Name>
+		<Desc>มีโอกาส 50% ที่จะเพิ่มดาเมจประเภทการแทง +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="200007">
-		<Name>Electric Shock</Name>
-		<Desc>On a successful attack, inflict 1 Paralysis at a 25% chance next Scene (Once per target per Scene)</Desc>
+		<Name>ช๊อตไฟฟ้า</Name>
+		<Desc>เมื่อโจมตีสำเร็จ มีโอกาส 25% ทำให้ติด 1 อัมพาตในฉากต่อไป (1 ครั้งต่อเป้าหมายต่อฉาก)</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="200010">
-		<Name>Hook</Name>
-		<Desc>Upon defeating an enemy, gain 1 Strength next Scene</Desc>
+		<Name>ตะขอ</Name>
+		<Desc>เมื่อเอาชนะศัตรู ได้รับ 1 กำลัง ในฉากถัดไป</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="210002">
-		<Name>Instant Cooking</Name>
-		<Desc>Recover 10% HP upon defeating an enemy (Max. 12)</Desc>
+		<Name>ปรุงอาหารฉับพลัน</Name>
+		<Desc>ฟื้นฟู HP 10% เมื่อเอาชนะศัตรูสำเร็จ (สูงสุด 12)</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="210001">
-		<Name>Emergency Rations</Name>
-		<Desc>Recover 2 HP at the start of each Scene</Desc>
+		<Name>เสบียงฉุกเฉิน</Name>
+		<Desc>ฟื้นฟู 2 HP เมื่อเริ่มต้นในแต่ละฉาก</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="210003">
-		<Name>Talent</Name>
-		<Desc>Deal +1 Stagger damage against enemies with slower Speed</Desc>
+		<Name>พรสวรรค์</Name>
+		<Desc>ทำดาเมจ Stagger อีก 1 เมื่อเป้าหมายมีเต๋าความเร็วที่ช้ากว่า</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="210006">
-		<Name>Flaming Bat</Name>
-		<Desc>50% chance to inflict 1 Burn on a successful attack</Desc>
+		<Name>กระบองติดไฟ</Name>
+		<Desc>เมื่อโจมตีสำเร็จ มีโอกาส 50% ทำให้ติด 1 เผาไหม้</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="211005">
-		<Name>Penetration</Name>
-		<Desc>50% chance to boost Pierce damage by +1</Desc>
+		<Name>ทะลุทะลวง</Name>
+		<Desc>มีโอกาส 50% เพิ่มดาเมจการแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="211007">
-		<Name>Downward Slash</Name>
-		<Desc>50% chance to boost Slash damage by +1</Desc>
+		<Name>ฟันลง</Name>
+		<Desc>มีโอกาส 50% เพิ่มดาเมจการฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="211003">
-		<Name>Open Wound</Name>
-		<Desc>Deal +1 damage against enemies with Bleed</Desc>
+		<Name>เปิดแผล</Name>
+		<Desc>ทำดาเมจเพิ่ม +1 ใส่เป้าหมายที่ติด เลือดไหล</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221001">
-		<Name>Keeping in Stride</Name>
-		<Desc>Recover 1 HP upon winning a clash</Desc>
+		<Name>รักษาระยะก้าว</Name>
+		<Desc>เมื่อชนะการปะทะ ฟื้นฟู 1 HP</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221002">
-		<Name>Keeping in Stride</Name>
-		<Desc>Recover 1 HP upon winning a clash</Desc>
+		<Name>รักษาระยะก้าว</Name>
+		<Desc>เมื่อชนะการปะทะ ฟื้นฟู 1 HP</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220001">
-		<Name>Calmness</Name>
-    <Desc>On clash win, boost the max value of the next die by +3 at a 25% chance</Desc>
+		<Name>ใจเย็น</Name>
+    <Desc>เมื่อชนะการปะทะ มีโอกาส 25% เพิ่มค่าสูงสุดของลูกเต๋าถัดไป +3</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220002">
-		<Name>Zwei Swordsmanship Ⅰ</Name>
-		<Desc>Slash Damage +1</Desc>
+		<Name>นักดาบ Zwei Ⅰ</Name>
+		<Desc>ดาเมจการฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221003">
-		<Name>Zwei Swordsmanship Ⅱ</Name>
-		<Desc>Slash Stagger Damage +1</Desc>
+		<Name>นักดาบ Zwei Ⅱ</Name>
+		<Desc>ดาเมจ Stagger การฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220004">
-		<Name>Your Shield</Name>
-		<Desc>Defensive Dice Power +1</Desc>
+		<Name>โล่แด่คุณ</Name>
+		<Desc>ลูกเต๋าประเภทป้องกันพลัง +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220003">
-		<Name>Minimum Offense</Name>
-		<Desc>Slash Stagger Damage +1</Desc>
+		<Name>จู่โจมเล็กน้อย</Name>
+		<Desc>ดาเมจ Stagger การฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221004">
-		<Name>Zwei Swordsmanship Ⅲ</Name>
-		<Desc>Pierce Damage +2</Desc>
+		<Name>นักดาบ Zwei Ⅲ</Name>
+		<Desc>ดาเมจการแทง +2</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220006">
-		<Name>Margin</Name>
-		<Desc>At the end of each Scene, restore 1 Light and draw 1 page if the hand is empty</Desc>
+		<Name>จนตรอก</Name>
+		<Desc>เมื่อจบฉาก หากคุณมือว่าง ในฉากถัดไปจั่วเพิ่ม 1 และฟื้นฟูแสงเพิ่ม 1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220005">
-		<Name>Best Choice</Name>
-		<Desc>Recover 3 HP whenever the character discards a page</Desc>
+		<Name>ทางเลือกที่ดีที่สุด</Name>
+		<Desc>ฟื้นฟู 3 HP เมื่อมีการทิ้งการ์ด</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220007">
-		<Name>In Times Like These!</Name>
-		<Desc>If 3 or fewer pages are in-hand at the end of the Scene, gain 1 Strength next Scene</Desc>
+		<Name>ในเวลาเช่นนี้!</Name>
+		<Desc>เมื่อจบฉาก และในมือมีการ์ด 3 ใบหรือน้อยกว่า จะได้รับ 1 กำลังในฉากถัดไป</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220008">
-		<Name>Restfulness</Name>
-		<Desc>Restore 1 Light at the end of a Scene if the character did not use any pages that Scene</Desc>
+		<Name>พักฟื้น</Name>
+		<Desc>ฟื้นฟูแสงเพิ่ม 1 หากไม่ได้ใช้การ์ดใดๆเลยในฉากก่อนหน้า</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220010">
-		<Name>Deep Breaths</Name>
-		<Desc>At the start of each Scene, restore 1 Light at a 25% chance</Desc>
+		<Name>หายใจลึกๆ</Name>
+		<Desc>เมื่อเริ่มต้นในแต่ละฉาก มีโอกาส 25% ฟื้นฟูแสงเพิ่ม 1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220009">
-		<Name>Double Kick</Name>
-		<Desc>Deal 1 damage to opponent upon winning a clash</Desc>
+		<Name>ถีบขาคู่</Name>
+		<Desc>เมื่อชนะการปะทะ ทำดาเมจ 1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221005">
-		<Name>Punch to the Solar Plexus</Name>
-		<Desc>Blunt Damage +2</Desc>
+		<Name>หมัดตรงสู่สุริยัน</Name>
+		<Desc>ดาเมจการทุบ +2</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221007">
-		<Name>Slashing Prowess of a Grade 8 Fixer</Name>
-		<Desc>Slash Stagger Damage +1</Desc>
+		<Name>ฤทธิ์เดชฟาดฟันของฟิกเซอร์เกรด 8</Name>
+		<Desc>ดาเมจ Stagger การฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221009">
-		<Name>Piercing Prowess of a Grade 8 Fixer</Name>
-		<Desc>Pierce Stagger Damage +1</Desc>
+		<Name>ฤทธิ์เดชจาบจ้วงของฟิกเซอร์เกรด 8</Name>
+		<Desc>ดาเมจ Stagger การแทง +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221010">
-		<Name>Slashing Prowess of a Grade 7 Fixer</Name>
-		<Desc>Slash Stagger Damage +2</Desc>
+		<Name>ฤทธิ์เดชฟาดฟันของฟิกเซอร์เกรด 7</Name>
+		<Desc>ดาเมจ Stagger การฟัน +2</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221012">
-		<Name>Piercing Prowess of a Grade 7 Fixer</Name>
-		<Desc>Pierce Stagger Damage +2</Desc>
+		<Name>ฤทธิ์เดชจาบจ้วงของฟิกเซอร์เกรด 7</Name>
+		<Desc>ดาเมจ Stagger การแทง +2</Desc>
 	</PassiveDesc>
+  
 	<PassiveDesc ID="221013">
 		<Name>Axe Gang Spirit</Name>
 		<Desc>Blunt Stagger Damage +1</Desc>
