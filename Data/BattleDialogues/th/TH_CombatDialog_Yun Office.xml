@@ -3,12 +3,12 @@
   <GroupName>Yun Office</GroupName>
   <Character ID="Finn">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">I’ll beat these guys and prove myself to the operator.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">I still have much to learn as a Grade 9 Fixer, but I hope to have a good fight nonetheless.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">I’m afraid… But I wanna win.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ผมจะเอาชนะพวกมัน แล้วเอาไปบอกนายหน้า</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ผมยังต้องเรียนรู้อีกมากในฐานะฟิกเซอร์ระดับ 9 แต่ผมก็ขอให้นี่เป็นการสู้ที่ดี</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ผมกลัว... เเต่ผมก็อยากชนะ</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Did I really win…? I made it! See, I can do it if I try.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">นี่ผมชนะจริงเหรอ...? สำเร็จ! เห็นมั้ย ผมทำได้ถ้าผมลองทำจริงๆ</BattleDialog>
       <BattleDialog ID="BATTLE_VICTORY_1">I can’t wait to see the surprised look on operator’s face!</BattleDialog>
     </Type>
     <Type ID="DEATH">
