@@ -1,175 +1,175 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<PassiveDesc ID="1">
-		<Name>เสริมพลังฟัน Ⅰ</Name>
+		<Name>เสริมพลังฟัน I</Name>
 		<Desc>มีโอกาส 25% เพิ่มดาเมจการฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2">
-		<Name>เสริมพลังแทง Ⅰ</Name>
+		<Name>เสริมพลังแทง I</Name>
 		<Desc>มีโอกาส 25% เพิ่มดาเมจการแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="3">
-		<Name>เสริมพลังทุบ Ⅰ</Name>
+		<Name>เสริมพลังทุบ I</Name>
 		<Desc>มีโอกาส 25% เพิ่มดาเมจการทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="4">
-		<Name>ฟันผ่าสติ Ⅰ</Name>
+		<Name>ฟันผ่าสติ I</Name>
 		<Desc>มีโอกาส 25% เพิ่มดาเมจ Stagger การฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="5">
-		<Name>แทงเข้าสติ Ⅰ</Name>
+		<Name>แทงเข้าสติ I</Name>
 		<Desc>มีโอกาส 25% เพิ่มดาเมจ Stagger การแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="6">
-		<Name>ทุบทลายสติ Ⅰ</Name>
+		<Name>ทุบทลายสติ I</Name>
 		<Desc>มีโอกาส 25% เพิ่มดาเมจ Stagger การทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="7">
-		<Name>การฟันอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Name>การฟันอย่างเชี่ยวชาญ I</Name>
 		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทการฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="8">
-		<Name>การแทงอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Name>การแทงอย่างเชี่ยวชาญ I</Name>
 		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทการแทง +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="9">
-		<Name>การทุบอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Name>การทุบอย่างเชี่ยวชาญ I</Name>
 		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทการทุบ +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="10">
-		<Name>การป้องกันอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Name>การป้องกันอย่างเชี่ยวชาญ I</Name>
 		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทป้องกัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="11">
-		<Name>การหลบอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Name>การหลบอย่างเชี่ยวชาญ I</Name>
 		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทหลบหลีก +1</Desc>
 	</PassiveDesc>
   <PassiveDesc ID="12">
-    <Name>ทุบทำลายด้วยพลัง Ⅰ</Name>
+    <Name>ทุบทำลายด้วยพลัง I</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภททุบ มีโอกาส 35% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="13">
-    <Name>แทลงทะลุด้วยพลัง Ⅰ</Name>
+    <Name>แทลงทะลุด้วยพลัง I</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทแทง มีโอกาส 35% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="14">
-    <Name>ฟันผ่าด้วยพลัง Ⅰ</Name>
+    <Name>ฟันผ่าด้วยพลัง I</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทฟัน มีโอกาส 35% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
 
 
 
 	<PassiveDesc ID="1001">
-		<Name>เสริมพลังฟัน ⅠⅠ</Name>
+		<Name>เสริมพลังฟัน II</Name>
 		<Desc>มีโอกาส 30% เพิ่มดาเมจการฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1002">
-		<Name>เสริมพลังแทง ⅠⅠ</Name>
+		<Name>เสริมพลังแทง II</Name>
 		<Desc>มีโอกาส 30% เพิ่มดาเมจการแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1003">
-		<Name>เสริมพลังทุบ ⅠⅠ</Name>
+		<Name>เสริมพลังทุบ II</Name>
 		<Desc>มีโอกาส 30% เพิ่มดาเมจการทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1004">
-		<Name>ฟันผ่าสติ ⅠⅠ</Name>
+		<Name>ฟันผ่าสติ II</Name>
 		<Desc>มีโอกาส 30% เพิ่มดาเมจ Stagger การฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1005">
-		<Name>แทงเข้าสติ ⅠⅠ</Name>
+		<Name>แทงเข้าสติ II</Name>
 		<Desc>มีโอกาส 30% เพิ่มดาเมจ Stagger การแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1006">
-		<Name>ทุบทลายสติ ⅠⅠ</Name>
+		<Name>ทุบทลายสติ II</Name>
 		<Desc>มีโอกาส 30% เพิ่มดาเมจ Stagger การทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1007">
-		<Name>การฟันอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Name>การฟันอย่างเชี่ยวชาญ II</Name>
 		<Desc>มีโอกาส 12% เพิ่มพลังลูกเต๋าประเภทการฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1008">
-		<Name>การแทงอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Name>การแทงอย่างเชี่ยวชาญ II</Name>
 		<Desc>มีโอกาส 12% เพิ่มพลังลูกเต๋าประเภทการแทง +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1009">
-		<Name>การทุบอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Name>การทุบอย่างเชี่ยวชาญ II</Name>
 		<Desc>มีโอกาส 12% เพิ่มพลังลูกเต๋าประเภทการทุบ +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1010">
-		<Name>การป้องกันอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Name>การป้องกันอย่างเชี่ยวชาญ II</Name>
 		<Desc>มีโอกาส 24% เพิ่มพลังลูกเต๋าประเภทป้องกัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1011">
-		<Name>การหลบอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Name>การหลบอย่างเชี่ยวชาญ II</Name>
 		<Desc>มีโอกาส 24% เพิ่มพลังลูกเต๋าประเภทหลบหลีก +1</Desc>
 	</PassiveDesc>
   <PassiveDesc ID="1012">
-    <Name>ทุบทำลายด้วยพลัง ⅠⅠ</Name>
+    <Name>ทุบทำลายด้วยพลัง II</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภททุบ มีโอกาส 45% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1013">
-    <Name>แทลงทะลุด้วยพลัง ⅠⅠ</Name>
+    <Name>แทลงทะลุด้วยพลัง II</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทแทง มีโอกาส 45% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1014">
-    <Name>ฟันผ่าด้วยพลัง ⅠⅠ</Name>
+    <Name>ฟันผ่าด้วยพลัง II</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทฟัน มีโอกาส 45% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   
 	<PassiveDesc ID="2001">
-		<Name>เสริมพลังฟัน ⅠⅠⅠ</Name>
+		<Name>เสริมพลังฟัน III</Name>
 		<Desc>มีโอกาส 35% เพิ่มดาเมจการฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2002">
-		<Name>เสริมพลังแทง ⅠⅠⅠ</Name>
+		<Name>เสริมพลังแทง III</Name>
 		<Desc>มีโอกาส 35% เพิ่มดาเมจการแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2003">
-		<Name>เสริมพลังทุบ ⅠⅠⅠ</Name>
+		<Name>เสริมพลังทุบ III</Name>
 		<Desc>มีโอกาส 35% เพิ่มดาเมจการทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2004">
-		<Name>ฟันผ่าสติ ⅠⅠⅠ</Name>
+		<Name>ฟันผ่าสติ III</Name>
 		<Desc>มีโอกาส 35% เพิ่มดาเมจ Stagger การฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2005">
-		<Name>แทงเข้าสติ ⅠⅠⅠ</Name>
+		<Name>แทงเข้าสติ III</Name>
 		<Desc>มีโอกาส 35% เพิ่มดาเมจ Stagger การแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2006">
-		<Name>ทุบทลายสติ ⅠⅠⅠ</Name>
+		<Name>ทุบทลายสติ III</Name>
 		<Desc>มีโอกาส 35% เพิ่มดาเมจ Stagger การทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2007">
-		<Name>การฟันอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Name>การฟันอย่างเชี่ยวชาญ III</Name>
 		<Desc>มีโอกาส 14% เพิ่มพลังลูกเต๋าประเภทการฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2008">
-		<Name>การแทงอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Name>การแทงอย่างเชี่ยวชาญ III</Name>
 		<Desc>มีโอกาส 14% เพิ่มพลังลูกเต๋าประเภทการแทง +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2009">
-		<Name>การทุบอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Name>การทุบอย่างเชี่ยวชาญ III</Name>
 		<Desc>มีโอกาส 14% เพิ่มพลังลูกเต๋าประเภทการทุบ +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2010">
-		<Name>การป้องกันอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Name>การป้องกันอย่างเชี่ยวชาญ III</Name>
 		<Desc>มีโอกาส 28% เพิ่มพลังลูกเต๋าประเภทป้องกัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2011">
-		<Name>การหลบอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Name>การหลบอย่างเชี่ยวชาญ III</Name>
 		<Desc>มีโอกาส 28% เพิ่มพลังลูกเต๋าประเภทหลบหลีก +1</Desc>
 	</PassiveDesc>
   <PassiveDesc ID="2012">
-    <Name>ทุบทำลายด้วยพลัง ⅠⅠⅠ</Name>
+    <Name>ทุบทำลายด้วยพลัง III</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภททุบ มีโอกาส 60% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2013">
-    <Name>แทลงทะลุด้วยพลัง ⅠⅠⅠ</Name>
+    <Name>แทลงทะลุด้วยพลัง III</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทแทง มีโอกาส 60% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2014">
-    <Name>ฟันผ่าด้วยพลัง ⅠⅠⅠ</Name>
+    <Name>ฟันผ่าด้วยพลัง III</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทฟัน มีโอกาส 60% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
 
@@ -199,7 +199,7 @@
     <Desc>สามารถใช้ Combat Page ประเภทระยะไกลได้</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10004">
-    <Name>ความเร็ว Ⅱ</Name>
+    <Name>ความเร็ว II</Name>
     <Desc>เต๋าความเร็วเพิ่มขึ้น 2 ช่อง (ทับซ้อนไม่ได้)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10005">
@@ -215,7 +215,7 @@
     <Desc>???</Desc>
   </PassiveDesc>
 	<PassiveDesc ID="10008">
-		<Name>ความเร็ว Ⅲ</Name>
+		<Name>ความเร็ว III</Name>
 		<Desc>เต๋าความเร็วเพิ่มขึ้น 1 ช่อง และจะได้รับเพิ่มอีก 1 ช่องเมื่อระดับอารมณ์อยู่ที่ 3 หรือสูงกว่า (ทับซ้อนไม่ได้)</Desc>
 	</PassiveDesc>
   
@@ -292,11 +292,11 @@
     <Desc>เมื่อชนะการปะทะ มีโอกาส 25% เพิ่มค่าสูงสุดของลูกเต๋าถัดไป +3</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220002">
-		<Name>นักดาบ Zwei Ⅰ</Name>
+		<Name>นักดาบ Zwei I</Name>
 		<Desc>ดาเมจการฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221003">
-		<Name>นักดาบ Zwei Ⅱ</Name>
+		<Name>นักดาบ Zwei II</Name>
 		<Desc>ดาเมจ Stagger การฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220004">
@@ -308,7 +308,7 @@
 		<Desc>ดาเมจ Stagger การฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221004">
-		<Name>นักดาบ Zwei Ⅲ</Name>
+		<Name>นักดาบ Zwei III</Name>
 		<Desc>ดาเมจการแทง +2</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220006">
@@ -579,72 +579,72 @@
 
   <!-- puppet -->
   <PassiveDesc ID="240004">
-    <Name>Acceleration</Name> <!-- 빠른 인형 -->
-    <Desc>When Speed is 5 or higher, deal +1 Stagger damage with attacks</Desc>
+    <Name>เร่งความเร็ว</Name> <!-- 빠른 인형 -->
+    <Desc>เมื่อความเร็ว 5 หรือสูงกว่า ทำ Stagger ดาเมจเพิ่ม +1</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240005">
-    <Name>Concussion</Name> <!-- 무거운 인형 -->
-    <Desc>On a successful Blunt attack, deal 2 bonus Stagger damage</Desc>
+    <Name>ทุบกระแทก</Name> <!-- 무거운 인형 -->
+    <Desc>เมื่อโจมตีด้วยลูกเต๋าประเภททุบสำเร็จ ทำดาเมจโบนัส 2 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240006">
-    <Name>Puppet Skeleton</Name> <!-- 인형 공용-->
-    <Desc>Blunt Dice Power +1</Desc>
+    <Name>โครงหุ่นเชิด</Name> <!-- 인형 공용-->
+    <Desc>เพิ่มพลังลูกเต๋าประเภทการทุบ +1</Desc>
   </PassiveDesc>
   
   <!-- enemy only -->
   <PassiveDesc ID="240008">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลายการ์ดทั้งหมดในมือและในกอง เพิ่มการ์ดชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240108">
-    <Name>Funambulism</Name>
-    <Desc>When Emma and Noah are together, they cannot be staggered, and gain an additional Speed die. If their Stagger Resist falls to 0, Emma and Noah are separated at the end of the Scene.</Desc>
+    <Name>กายกรรมบนเส้นเชือก</Name>
+    <Desc>เมื่อเอ็มม่าและโนอาอยู่ด้วยกัน พวกเขาจะไม่สามารถถูก Stagger ได้ และยังได้รับลูกเต๋าความเร็วเพิ่มเติม ถ้าหากว่า Stagger Resist เหลือ 0 เมื่อจบฉาก พวกเขาจะแยกออกจากกัน</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240208">
-    <Name>Lonesome Performance</Name>
-    <Desc>When Noah is dead, all resistances change to "Fatal".</Desc>
+    <Name>การแสดงที่เดียวดาย</Name>
+    <Desc>เมื่อโนอาตาย ความทนทานของ Stagger ทั้งหมดเปลี่ยนเป็น "ร้ายแรง".</Desc>
   </PassiveDesc>
   <!-- 에마 (유저가 얻는 핵심 책장에서도 사용) -->
   <PassiveDesc ID="240308">
-    <Name>High-level Acrobatics</Name>
-    <Desc>When using a page whose original Cost is 3 or higher, all dice on that page gain +1 Power</Desc>
+    <Name>กายกรรมขั้นสูง</Name>
+    <Desc>เมื่อใช้การ์ดที่มีคอส 3 หรือสูงกว่า ลูกเต๋าทุกลูกได้รับพลังเพิ่มเติม +1</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240408">
-    <Name>Lion’s Fist</Name>
-    <Desc>Blunt Dice Power +1</Desc>
+    <Name>หมัดสิงห์</Name>
+    <Desc>เพิ่มพลังลูกเต๋าประเภทการทุบ +1</Desc>
   </PassiveDesc>
 
   <!-- 노아 -->
   <PassiveDesc ID="240508">
-    <Name>Bestride</Name>
-    <Desc>At the end of the Scene, reunite with Emma</Desc>
+    <Name>เป็นหนึ่งอีกครั้ง</Name>
+    <Desc>เมื่อจบฉาก กลับไปรวมตัวกับเอ็มม่าอีกครั้ง</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="240015">
-    <Name>Mind Hauler</Name> <!-- 안톤, 발레리 -->
-    <Desc>Recover 2 Stagger Resist on a successful attack</Desc>
+    <Name>เก็บเกี่ยวจิตใจ</Name> <!-- 안톤, 발레리 -->
+    <Desc>เมื่อโจมตีสำเร็จ ฟื้นฟู 2 Stagger Resist</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240016">
-    <Name>Health Hauler</Name> <!-- 라일라 -->
-    <Desc>Recover 2 HP on a successful attack</Desc>
+    <Name>เก็บเกี่ยวเลือดเนื้อ</Name> <!-- 라s일라 -->
+    <Desc>มื่อโจมตีสำเร็จ ฟื้นฟู 2 HP</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="241002">
-    <Name>Liquified Flesh</Name> <!-- 청소부 공용 -->
-    <Desc>Defensive Dice Power +1</Desc>
+    <Name>ละลายเนื้อหนัง</Name> <!-- 청소부 공용 -->
+    <Desc>เพิ่มพลังลูกเต๋าประเภทการป้องกันและหลบหลีก +1</Desc>
   </PassiveDesc>
   <PassiveDesc ID="241102">
-    <Name>Corpse Cleanup</Name> <!-- 청소부 공용 2 -->
-    <Desc>When another character dies, recover 5% Max. HP at the end of that Scene (Max. 12)</Desc>
+    <Name>เก็บกวาดศพ</Name> <!-- 청소부 공용 2 -->
+    <Desc>เมื่อตัวละครอื่นตาย ฟื้นฟู 5% ของ HP สูงสุด (สูงสุด 12)</Desc>
   </PassiveDesc>
 	<PassiveDesc ID="241202">
-    <Name>Corpse Cleanup</Name> <!-- 청소부 적 -->
-    <Desc>When another character dies, recover 20% Max. HP at the end of that Scene</Desc>
+    <Name>เก็บกวาดศพ</Name> <!-- 청소부 적 -->
+    <Desc>เมื่อตัวละครอื่นตาย ฟื้นฟู 20% ของ HP สูงสุด</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="240018">
-    <Name>Grace of the Prescript</Name> <!-- 검지 수행자 -->
-    <Desc>Each Scene, boost the Power of a random type of Offensive dice by +2</Desc>
+    <Name>การชี้นำของ Prescript</Name> <!-- 검지 수행자 -->
+    <Desc>ในแต่ละฉาก เพิ่มพลังลูกเต๋าประเภทโจมตีอย่างใดอย่างหนึ่ง +2</Desc>
   </PassiveDesc>
   <!-- Either one of Slash, Pierce, or Blunt Power-Ups is cast, basically -->
   <PassiveDesc ID="240118">
@@ -910,52 +910,52 @@ If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies w
 
   <!-- Enemy only -->
   <PassiveDesc ID="250022">
-    <Name>Kali</Name>
-    <Desc>Restore 1 additional Light and draw 1 more page each Scene.
-When HP drops to 350, fully recover Stagger Resist and manifest E.G.O; HP cannot drop below 350 before this occurs. (Once per reception)
-After losing 'E.G.O Manifested' status, regain it in 3 Scenes.
-If the character enters a new Act after having manifested E.G.O this reception, manifest it on the second Scene.</Desc>
+    <Name>กาลี</Name>
+    <Desc>ในแต่ละฉาก ฟื้นแสงเพิ่มเติม 1 และจั่วการ์ดเพิ่มเติม 1 ใบ
+เมื่อ HP เหลือ 350 ฟ้นฟู Stagger Resist ทั้งหมด และหลอมรวมกับ E.G.O; HP จะไม่ลดไปต่ำกว่านี้ จนกว่าความสามารถนี้จะทำงาน (ครั้งเดียวต่อการต่อสู้)
+หากสูญเสียสถานะ "หลอมรวม E.G.O" ไป จะฟื้นสถานะนี้กลับมาใน 3 ฉาก
+หากตัวละครนี้เข้าสู่องค์ถัดไปโดยที่ยังคง "หลอมรวม E.G.O" อยู่ จะกลับเข้าสู่สภาวะ "หลอมรวม E.G.O" ในฉากที่ 2</Desc>
   </PassiveDesc>
   <!-- For use only -->
   <PassiveDesc ID="250122">
-    <Name>Legendary</Name>
-    <Desc>Only Gebura can equip this. Unique E.G.O becomes accessible.
-At Emotion Level 4 or above, the Combat Page 'Manifest E.G.O' is added to hand. (Once per Act)</Desc>
+    <Name>วีรสตรี</Name>
+    <Desc>มีเพียงเกบูร่าเท่านั้น และมี E.G.O เฉพาะตัว
+เมื่ออารมณ์อยู่ที่ระดับ 4 หรือสูงกว่า เพิ่มการ์ด "หลอมรวม E.G.O" เข้าสู่มือ (1 ครั้งต่อองค์)</Desc>
   </PassiveDesc>
   
   <!-- For both enemy and ally versions -->
   <PassiveDesc ID="250222">
-    <Name>Retaliate</Name>
-    <Desc>Gain a Counter die (Slash, 4-8) at combat start.</Desc>
+    <Name>โต้กลับเอาคืน</Name>
+    <Desc>ได้รับลูกเต๋าโต้กลับ [ฟัน:4-8] เมื่อเริ่มต่อสู้</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250322">
-    <Name>The Strongest</Name>
-    <Desc>Choose the Speed dice with the lowest value; the Speed values of the dice change to the maximum possible value.</Desc>
+    <Name>หนึ่งในใต้หล้า</Name>
+    <Desc>เลือกลูกเต๋าความเร็วที่ช้าที่สุด ความเร็วของลูกเต๋าความเร็วดังกล่าวจะถูกเปลี่ยนให้เร็วที่สุดเท่าที่จะเป็นไปได้</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250422">
-    <Name>The Red Mist</Name>
-    <Desc>All dice gain +2 Power.
-Can use 'Great Split: Horizontal'.
-Each Scene, resistances against a random type become "Normal" while the rest are set to "Endured".
-For every enemy defeated, gain a stack of 'Red Mist', which boosts the Power of all dice.
-If the character fails to deal 40+ damage with attacks within a Scene, take Stagger damage equal to 40% of the Max. Stagger Resist.
-Lose 'E.G.O Manifested' status upon becoming Staggered.</Desc>
+    <Name>หมอกแดง</Name>
+    <Desc>ลูกเต๋าทุกลูกได้รับพลังเพิ่มเติม +2
+สามารถใช้ "มหารอยแยก: แนวนอน" ได้.
+ในแต่ละฉาก ความทนทานดาเมจอย่างใดอย่างหนึ่งจะเป็น "ปกติ" และที่เหลือจะเป็น "ทนทาน"
+ทุกครั้งที่ฆ่าศัตรูสำเร็จ ได้รับสถานะ "หมอกแดง" ซึ่งจะเพิ่มค่าพลังลูกเต๋าทุกลูก
+ถ้าหากไม่สามารถทำดาเมจด้วยการโจมตีได้ถึง 40 ดาเมจใน 1 ฉาก จะได้รับดาเมจ Stagger เป็นจำนวน 40% ของค่า Stagger Resist สูงสุด
+เมื่อ Staggered จะสูญเสีย "หลอมรวม E.G.O" ไป</Desc>
   </PassiveDesc>
 
   <!-- 비나 조율자 -->
   <PassiveDesc ID="10010">
-    <Name>Binah</Name>
-    <Desc>Has a unique Key page and Combat Pages that cannot be replaced or swapped.</Desc>
+    <Name>บีนา</Name>
+    <Desc>มี Key page พิเศษและ Combat Pages พิเศษที่ไม่สามารถเปลี่ยนแปลงได้</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10011">
-    <Name>Incomplete Arbiter</Name>
-    <Desc>At the start of the Scene, draw until 4 pages are in hand.</Desc>
+    <Name>ตุลาการผู้ไม่สมบูรณ์</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก จั่วการ์ดขึ้นมือจนกว่าจะมี 4 ในมือ</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250522">
-    <Name>The Red Mist</Name>
-    <Desc>Can equip The Red Mist's Key page</Desc>
+    <Name>หมอกแดง</Name>
+    <Desc>สามารถใช้ Key Page "หมอกแดง" ได้</Desc>
   </PassiveDesc>
 
   <!-- R사 -->
@@ -1267,8 +1267,8 @@ If a character fulfills the condition stated by the Unsigned Contract in their h
     <Desc>All dice on the page selected in the third Speed dice slot gain +2 Power.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170005">
-    <Name>Speed Ⅲ</Name>
-    <Desc>Speed Dice Slot +1. Gain an additional Speed die at Emotion Level 3.</Desc>
+    <Name>ความเร็ว III</Name>
+    <Desc>เต๋าความเร็วเพิ่มขึ้น 1 ช่อง และจะได้รับเพิ่มอีก 1 ช่องเมื่อระดับอารมณ์อยู่ที่ 3 หรือสูงกว่า</Desc>
   </PassiveDesc>
 
 <!--검은침묵 2페이즈 패시브-->
