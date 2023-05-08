@@ -1,286 +1,286 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="2">
-    <Title>Chapter 2-Urban Myth-‘They do not have the time to think about the terror at the end of the song, before the setting of the sun.’</Title>
+    <Title>บทที่ 2-เรื่องเล่าประจำเมือง-‘พวกเขาไม่มีเวลาคิดถึงความหวาดผวายามเพลงจบ ก่อนอาทิตย์จะอัสดง’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: Zwei Association - Southern Branch, Section 6</PlaceName>
+        <PlaceName>สถานที่: สมาพันธ์ซไวล์ - แผนกใต้, หน่วยที่ 6</PlaceName>
         <Dialog ID="0" Model="월터">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_walter1</VoiceFile>
-          <Content>Any more reports on the Distortion from the Hana Association or Zwei Section 1?</Content>
+          <Content>ได้รายงานเกี่ยวกับการบิดเบี้ยวจากสมาพันธ์ฮานะหรือซไวล์หน่วย 1 อีกหรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="1" Model="이사도라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_isadora1</VoiceFile>
-          <Content>None, sir. They’re all observing the situation for now.</Content>
+          <Content>ไม่มีค่ะท่าน พวกนั้นกำลังจับตาดูสถานการณ์อยู่</Content>
         </Dialog>
         <Dialog ID="2" Model="이사도라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_isadora2</VoiceFile>
-          <Content>They did nominate a number of likely suspects, however.</Content>
+          <Content>แต่ว่าก็ได้เสนอรายชื่อผู้ต้องสงสัยที่เป็นไปได้อยู่ค่ะ</Content>
         </Dialog>
         <Dialog ID="3" Model="이사도라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_isadora3</VoiceFile>
-          <Content>So far, we have two Urban Plagues, ‘Laundry of Dreams’ and ‘Yesterday’s Promise’; and one Urban Legend, ‘The Church of Gears’.</Content>
+          <Content>ถึงตอนนี้, เรามีโรคประจำเมืองสองเคส, ‘ร้านซักรีดในความฝัน’ และ ‘คำสัญญาของวันวาน’; และตำนานประจำเมืองอีกหนึ่ง, ‘นิกายฟันเฟือง’.</Content>
         </Dialog>
         <Dialog ID="4" Model="월터">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_walter2</VoiceFile>
-          <Content>The investigation hasn’t been going too well, is it?</Content>
+          <Content>การสืบสวนยังไม่คืบหน้ามากสินะ?</Content>
         </Dialog>
         <Dialog ID="5" Model="이사도라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_isadora4</VoiceFile>
-          <Content>Oh, and ‘The Library’, a recently appointed Urban Myth, is also on the list of possible sources.</Content>
+          <Content>อ้อ, และ ‘หอสมุด’, คำเล่าประจำเมืองที่เพิ่งแต่งตั้งไป, ก็อยู่ในรายชื่อผู้ต้องสงสัยด้วยค่ะ</Content>
         </Dialog>
         <Dialog ID="6" Model="월터">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_walter3</VoiceFile>
-          <Content>Hah, so even the higher ups are clueless, aren’t they? Seeing as they’re throwing out random guesses now.</Content>
+          <Content>ฮ่า, แม้แต่เบี้องบนก็ยังไม่รู้สินะ? เห็นว่าพวกนั้นกำลังโยนหินถามทางอยู่</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="7" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland1</VoiceFile>
-          <Content>I’m starting to get used to sorting out books now.</Content>
+          <Content>ผมเริ่มที่จะชินกับการจัดหนังสือแล้ว</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela1</VoiceFile>
-          <Content>Tell me, why are you helping me so submissively?</Content>
+          <Content>บอกที, ทำไมเธอยังจำนนช่วยฉันอยู่?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland2</VoiceFile>
-          <Content>What? Remember when you said you’ll kill me if I don’t cooperate? Because I sure do.</Content>
+          <Content>อะไรนะ? จำไดไหมที่คุณบอกว่าจะฆ่าผมถ้าผมไม่ยอมร่วมมือนะ? เพราะผมจำได้นะ</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland3</VoiceFile>
-          <Content>And I can’t leave here by myself, either.</Content>
+          <Content>และผมออกจากที่นี่ด้วยตัวเองไม่ได้ด้วย</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela2</VoiceFile>
-          <Content>Though, you don’t appear to be motivated by fear?</Content>
+          <Content>แต่ว่า, เธอเองก็ไม่ดูถูกผลักดันด้วยความกลัวเลยนะ?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela3</VoiceFile>
-          <Content>I’ve seen quite a lot of people crawl along the floor, stricken with fear and terror.</Content>
+          <Content>ฉันเห็นคยจำนวนมากคลานไปตามพื้น, เปี่ยมไปด้วยความกลัวและหวาดผวา</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela4</VoiceFile>
-          <Content>Judging from my past observations, I doubt you’re helping me simply because you’re afraid of dying.</Content>
+          <Content>จากที่ฉันเคยสังเกตการณ์ในอดีต, ฉันไม่คิดว่าเธอนั้นจะช่วยฉันแค่เพราะว่าเธอแค่กลัวตายเท่านั้น</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland4</VoiceFile>
-          <Content>What the hell were you doing in the past…</Content>
+          <Content>นี่เธอเคยทำอะไรในอดีตฟะเนี่ย…</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland5</VoiceFile>
-          <Content>To be honest, I have a few things I wanna know about this place, too.</Content>
+          <Content>เอาตามตรงนะ, ผมมีบางอย่างที่อยากจะรู้เกี่ยวกับที่นี่ด้วย</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela5</VoiceFile>
           <Content>Such as?</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland6</VoiceFile>
-          <Content>You said you want to get the one perfect book as you gather books about the City, right?</Content>
+          <Content>คุณบอกว่าคุณอยากจะได้หนังสืออันสมบูรณ์แบบเมื่อคุณรวบรวมหนังสือเกี่ยวกับนคร ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland7</VoiceFile>
-          <Content>I figured I could run into some fun experiences if I joined you on that journey. </Content>
+          <Content>ผมคิดว่าผมคงได้เจอประสบการณ์ที่สนุกแน่ถ้าผมร่วมทางไปกับคุณด้วย</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland8</VoiceFile>
-          <Content>I don’t have a whole lot to do out there, anyway. I’d go back to being a washed up Fixer, scraping at the bottom of the barrel again.</Content>
+          <Content>ผมไม่มีอะไรทำข้างนอกอยู่แล้ว ผมคงกลับไปเป็นฟิกเซอร์ตกอับ อยู่ประทังชีพเหมือนเคย</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland9</VoiceFile>
-          <Content>…And there is one thing I’ve been meaning to figure out more than anything else.</Content>
+          <Content>…และก็มีอย่างนึงที่ผมอยากรู้มากกว่าอย่างอื่นด้วย</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland10</VoiceFile>
-          <Content>I’m hoping I could maybe find an answer here one day if I stick around and help you out.</Content>
+          <Content>ผมหวังว่าผมอาจจะหาคำตอบได้จากที่นี่สักวันถ้าผมอยู่ช่วยงานคุณต่อ</Content>
         </Dialog>
         <Dialog ID="22" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela6</VoiceFile>
-          <Content>We have a coincidence of interests, I see.</Content>
+          <Content>เราคงมีความสนใจร่วมกันสินะ</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela7</VoiceFile>
-          <Content>Sure, as much as I exploit you, you’re free to make use of me.</Content>
+          <Content>แน่นอน, เท่าที่ผมหาประโยชน์จากคุณได้ คุณก็สามารถใช้ประโยชน์จากผมได้เช่นกัน</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela8</VoiceFile>
-          <Content>Try to be careful about it, though. A careless attempt could seriously get you killed.</Content>
+          <Content>พยายามระวังตัวด้วยแล้วกัน การไม่ระวังตัวอาจทำให้เธอถูกฆ่าได้เลย</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland11</VoiceFile>
-          <Content>Sheesh, you’re being way too vicious with words.</Content>
+          <Content>ให้ตาย, คุณนี่ก็ปากจัดเกินไปแล้ว</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland12</VoiceFile>
-          <Content>Just what made you so sharp?</Content>
+          <Content>อะไรทำให้คุณเฉียบขนาดนี้กัน?</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela9</VoiceFile>
-          <Content>…You’d better not pry into my past any further. I already feel like slowly melting your limbs this time.</Content>
+          <Content>…เธอไม่ควรถามถึงอดีตฉันไปมากกว่านี้ คราวนี้ฉันรู้สึกอยากละลายแขนเธออย่างช้าๆ แล้ว</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland13</VoiceFile>
-          <Content>Fine, geez…</Content>
+          <Content>ก็ได้,ชิ…</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland14</VoiceFile>
-          <Content>Uhm, I have a question, ma’am. Do you take questions, ma’am?</Content>
+          <Content>อึม, ผมมีคำถามครับ พอจะถามตอบได้ไหมครับ?</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela10</VoiceFile>
-          <Content>What is it now? Make sure it’s an appropriate question. I did warn you already.</Content>
+          <Content>อะไรอีกล่ะ? แน่ใจด้วยว่าเป็นคำถามที่เหมาะสมล่ะ ฉันเตือนเธอแล้วนะ</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland15</VoiceFile>
-          <Content>What’s up with the librarians here? They don’t really “feel” like real humans…</Content>
+          <Content>บรรณารักษ์ที่นี่มันยังไงกันแน่? พวกเขา "รู้สึก" ไม่เหมือนมนุษย์จริงเลย…</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland16</VoiceFile>
-          <Content>But they don’t seem to be machines or artificial creatures, either.</Content>
+          <Content>แต่พวกนั้นก็ไม่ใช่เครื่องจักรหรือสิ่งมีชีวิตประดิษฐ์ด้วย</Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela11</VoiceFile>
-          <Content>Entities called Abnormalities and employees, both of which were thoroughly exploited by the facility that once stood upon where we are…</Content>
+          <Content>สิ่งมีชีวิตที่เรียกว่าแอ็บโนมอลิตี้และพนักงาน,ทั้งคุ๋ต่างถูกใช้งานโดยศูนย์ทีตั้งอยู่ ณ จุดที่เราอยู่ตอนนี้…</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela12</VoiceFile>
-          <Content>They’re just like me in that sense.</Content>
+          <Content>พวกนั้นก็เหมือนกับฉันในส่วนนั้น</Content>
         </Dialog>
         <Dialog ID="35" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela13</VoiceFile>
-          <Content>Originated from humans, taken advantage of, and abandoned once grown out of use.</Content>
+          <Content>ถือกำเนิดจากมนุษย์, ถูกเอาเปรียบ, และถูกทิ้งหลังหมดค่า</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland17</VoiceFile>
-          <Content>I dunno, what you’re doing with them now still looks like exploitation…</Content>
+          <Content>ไม่รู้สิ, สิ่งที่คุณทำอยู่กับพวกนั้นตอนนี้ก็ยังเหมือนกับการใช้ประโยชน์อยู่นา…</Content>
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela14</VoiceFile>
-          <Content>They were broken. They couldn’t even sustain a stable form, and their existence was so fragile they could fade away at any moment. They’re barely kept together as I’ve bound them to a physical body and a book.</Content>
+          <Content>พวกนั้นแตกหัก แค่จะคงรูปเสถียรยังทำไม่ได้, และตัวตนของพวกนั้นบอบบางมากจนสามารถหายไปได้ทุกเมื่อ พวกนั้นแทบจะไม่เป็นรูปร่างเมื่อฉันผนึกพวกนั้นเข้ากับกายหยาบและหนังสือ</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela15</VoiceFile>
-          <Content>All I can do for them now is to find the one book that will free me and the librarians.</Content>
+          <Content>สิ่งที่ฉันทำได้เพื่อพวกนั้นในตอนนี้คือหาหนังสือเล่มนั้นที่จะปลดปล่อยฉันและเหล่าบรรณารักษ์</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland18</VoiceFile>
-          <Content>You’re going to release the librarians?</Content>
+          <Content>คุณจะปลดปล่อยเหล่าบรรณารักษ์เหรอ?</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela16</VoiceFile>
-          <Content>That’s the only way for any of us to leave, you know?</Content>
+          <Content>รู้ไหมว่านั่นเป็นวิธีเดียวที่เราสามารถออกไปได้น่ะ?</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela17</VoiceFile>
-          <Content>I used the same kind of power to reconstruct your body.</Content>
+          <Content>ฉันใช้พลังแบบเดียวกันในการประกอบร่างกายของเธอใหม่</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland19</VoiceFile>
-          <Content>Hunh…</Content>
+          <Content>เหอ…</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela18</VoiceFile>
-          <Content>Just remember this.</Content>
+          <Content>แค่จำไว้ล่ะ</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela19</VoiceFile>
-          <Content>As we collect numerous books from our guests, we will eventually reach the one absolute book that contains everything.</Content>
+          <Content>เมื่อเรารวบรวมหนังสือจากแขกของเราเป็นจำนวนมาก, เราจะสามารถไปถึงสุดยอดหนังสือที่มีทุกอย่างเขียนเอาไว้</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -290,7 +290,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: Pierre’s Bistro</PlaceName>
+        <PlaceName>สถานที่: Pierre’s Bistro</PlaceName>
         <Dialog ID="0" Model="피에르">
           <Teller>Pierre</Teller>
           <Title>Chef de Cuisine</Title>
@@ -521,100 +521,100 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="38" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela1</VoiceFile>
           <Content>Cannibalism is a thing in the Backstreets it seems?</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland1</VoiceFile>
           <Content>There are quite a few perverted maniacs who are into that, yeah.</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland2</VoiceFile>
           <Content>But it’s kind of a taboo even in the Backstreets. You certainly can’t go around saying how tasty human meat is.</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland3</VoiceFile>
           <Content>It’s actually the wealthy folk who consume human meat the most.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland4</VoiceFile>
           <Content>However… The Backstreets of District 23 are an exception.</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland5</VoiceFile>
           <Content>People there only care about pursuing the ultimate flavor, and will do anything for it.</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela2</VoiceFile>
           <Content>Each part of the Backstreets seems to have its own set of characteristics.</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland6</VoiceFile>
           <Content>It mostly depends on the policies set by the Nest and the Wing.</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland7</VoiceFile>
           <Content>Though most of the Backstreets are being neglected anyway.</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela3</VoiceFile>
           <Content>Is human meat particularly delicious or anything?</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland8</VoiceFile>
           <Content>Heck if I know. Never tried, never wanna.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland9</VoiceFile>
           <Content>Those guys are kidnapping ordinary people and cooking them right after.</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland10</VoiceFile>
           <Content>Gourmets seem to think that such cruelty only adds to the flavor…</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland11</VoiceFile>
           <Content>Even worse, they believe cooking people alive and making them suffer as much as possible is key to perfecting taste.</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela4</VoiceFile>
           <Content>Humans eating humans. What a sight to behold.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="53" Model="피에르">
           <Teller>Pierre</Teller>
           <Title>Chef de Cuisine</Title>
@@ -640,16 +640,16 @@
           <Content>If you say so.</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela5</VoiceFile>
           <Content>Greetings, dear guests.</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela6</VoiceFile>
-          <Content>I am Angela, the director and librarian of my role’s namesake.</Content>
+          <Content>I am แองเจล่า, the director and librarian of my role’s namesake.</Content>
         </Dialog>
         <Dialog ID="59" Model="피에르">
           <Teller>Pierre</Teller>
@@ -676,8 +676,8 @@
           <Content>But! That’s why I’m even more excited. How do you taste?</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela7</VoiceFile>
           <Content>I’m afraid you cannot do any harm to me.</Content>
         </Dialog>
@@ -703,11 +703,11 @@
           <Teller>Pierre</Teller>
           <Title>Chef de Cuisine</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre30</VoiceFile>
-          <Content>Now then, Miss Angela? May we enter now?</Content>
+          <Content>Now then, Miss แองเจล่า? May we enter now?</Content>
         </Dialog>
         <Dialog ID="68" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela8</VoiceFile>
           <Content>May you find your book in this place.</Content>
         </Dialog>
@@ -716,58 +716,58 @@
     <Episode>
       <EpisodeName>에피소드1-종료</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland12</VoiceFile>
           <Content>Ugh, what a bunch of nutcases. It’s best not to interact with the likes of them.</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela9</VoiceFile>
           <Content>At least they were more well-mannered than you.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland13</VoiceFile>
           <Content>Well here’s a word of wisdom for our still naive Miss Librarian!</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland14</VoiceFile>
           <Content>If you meet a polite and well-mannered person in the Backstreets, run for your life.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland15</VoiceFile>
           <Content>Not all lunatics are polite, but polite people tend to be lunatics. </Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela10</VoiceFile>
           <Content>I’m not sure if that has anything to do with politeness.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland16</VoiceFile>
           <Content>And here’s another word of wisdom!</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland17</VoiceFile>
           <Content>Lunatics always exist in any given group of people, so there’s no point in using any criteria to divide people into groups to see which is more insane.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela11</VoiceFile>
           <Content>What a load of bull.</Content>
         </Dialog>
@@ -779,7 +779,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: Streetlight Office</PlaceName>
+        <PlaceName>สถานที่: Streetlight Office</PlaceName>
         <Dialog ID="0" Model="루루">
           <Teller>Lulu</Teller>
           <Title>Streetlight Fixer</Title>
@@ -1016,130 +1016,130 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="39" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela1</VoiceFile>
           <Content>Zwei? Hana?</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland1</VoiceFile>
           <Content>They’re talking about associations of Fixers. It takes more than just setting up an Office to jump into the Fixer business.</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland2</VoiceFile>
           <Content>There are a total of twelve Fixer Associations across the City, each in charge of different types of work.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland3</VoiceFile>
           <Content>Cases and requests are all sorted according to the type and sent to one of these associations.</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela2</VoiceFile>
           <Content>Associations manage Offices and delegate work to them, I see.</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland4</VoiceFile>
           <Content>That’s right. Sometimes, the Association might send documents to multiple Offices at once, or directly have Associate Fixers take care of the work.</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland5</VoiceFile>
           <Content>And among them, the Hana Association is in overall control of all Fixers. They grade Fixers and authorize Offices and stuff.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela3</VoiceFile>
           <Content>Do Offices have grades as well?</Content>
         </Dialog>
         <Dialog ID="47" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland6</VoiceFile>
           <Content>Essentially. The requests sent out by the Associations are graded, too.</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela4</VoiceFile>
           <Content>They really love to grade things, don’t they.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland7</VoiceFile>
           <Content>It’s easier to know that way.</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela5</VoiceFile>
           <Content>Know what?</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland8</VoiceFile>
           <Content>How valuable I am as a person…</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland9</VoiceFile>
           <Content>Think about it, who in the City could claim “This is my worth!” with confidence? </Content>
         </Dialog>
         <Dialog ID="53" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland10</VoiceFile>
           <Content>Everyone’s busy minding their own business, no one is going to lounge around having deep conversations about each other’s value.</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland11</VoiceFile>
           <Content>Knowing each other’s grades and affiliations, on the other hand, can save a ton of words. You can tell if you’re above or below the person you’re talking to right away.</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela6</VoiceFile>
           <Content>Sounds like people stopped trying to learn or think about it at some point.</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland12</VoiceFile>
           <Content>Bet you won’t say the same once you experience the city life for a bit.</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland13</VoiceFile>
           <Content>You have to interact with so many people out there, whether you want to or not.</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland14</VoiceFile>
           <Content>People have been looking for ways to adapt to the City, and this is just one of them.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="59" Model="루루">
           <Teller>Lulu</Teller>
           <Title>Streetlight Fixer</Title>
@@ -1195,8 +1195,8 @@
           <Content>Yeah!</Content>
         </Dialog>
         <Dialog ID="68" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela7</VoiceFile>
           <Content>Greetings, dear guests. You seem to be well acquainted with each other.</Content>
         </Dialog>
@@ -1213,16 +1213,16 @@
           <Content>Prepare yourselves.</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela8</VoiceFile>
           <Content>There is no need to be so wary. Your ordeal has not started yet.</Content>
         </Dialog>
         <Dialog ID="72" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela9</VoiceFile>
-          <Content>I am Angela, the director and librarian of my role’s namesake.</Content>
+          <Content>I am แองเจล่า, the director and librarian of my role’s namesake.</Content>
         </Dialog>
         <Dialog ID="73" Model="산">
           <Teller>San</Teller>
@@ -1237,8 +1237,8 @@
           <Content>We were brought here by the invitation. There’s something I’d like to ask about it.</Content>
         </Dialog>
         <Dialog ID="75" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela10</VoiceFile>
           <Content>What is it?</Content>
         </Dialog>
@@ -1249,8 +1249,8 @@
           <Content>I actually retrieved this invitation from another person, not directly from you. Are we still eligible?</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela11</VoiceFile>
           <Content>Yes, indeed. The invitation eventually reached you, dear guest, and you signed your name with your own will. Everything has worked as intended.</Content>
         </Dialog>
@@ -1261,8 +1261,8 @@
           <Content>I see.</Content>
         </Dialog>
         <Dialog ID="79" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela12</VoiceFile>
           <Content>May you find your book in this place.</Content>
         </Dialog>
@@ -1319,64 +1319,64 @@
     <Episode>
       <EpisodeName>에피소드1 - 종료</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland15</VoiceFile>
           <Content>They’re still rookies.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland16</VoiceFile>
           <Content>It’s not a good idea for Fixers to form such tight bonds with each other. </Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland17</VoiceFile>
           <Content>Well, I guess this’ll be a lesson for them.</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela13</VoiceFile>
           <Content>You talk as if you’re used to all this.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland18</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland19</VoiceFile>
           <Content>Oh, I’ve already grown past that phase, and some more too.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland20</VoiceFile>
           <Content>Forming bonds aren’t bad per se, but there’s just too much risk associated with it.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland21</VoiceFile>
           <Content>The real deal Fixers know when to cut things off.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela14</VoiceFile>
           <Content>You mean to keep enough distance from people, so that you won’t feel hurt from their losses?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland22</VoiceFile>
           <Content>Yep. It’s just ironic that people who aren’t even mentally prepared to face death are applying for a job that involves killing in the first place.</Content>
         </Dialog>
@@ -1385,7 +1385,7 @@
     <Episode>
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
-        <PlaceName>Location: Streetlight Office</PlaceName>
+        <PlaceName>สถานที่: Streetlight Office</PlaceName>
         <Dialog ID="0" Model="산">
           <Teller>San</Teller>
           <Title>Streetlight Operator</Title>
@@ -1448,7 +1448,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Somewhere in the Backstreets</PlaceName>
+        <PlaceName>สถานที่: Somewhere in the Backstreets</PlaceName>
         <Dialog ID="10" Model="루루">
           <Teller>Lulu</Teller>
           <Title>Streetlight Fixer</Title>
@@ -1511,91 +1511,91 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="20" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland1</VoiceFile>
           <Content>Boy, this is frankly heartbreaking. Shouldn’t have seen that.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela1</VoiceFile>
           <Content>That’s funny, coming from the one who gave a speech on how Fixers shouldn’t cling to bonds.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland2</VoiceFile>
           <Content>That’s that, and this is this.</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland3</VoiceFile>
           <Content>Still, reacting to every bit of loss is a waste of energy. Everybody lives with burdens to bear.</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland4</VoiceFile>
           <Content>I have my share of unfortunate events, and so do others.</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland5</VoiceFile>
           <Content>And it’s rude to expose that without the listener’s agreement. They’ll be bothered to learn something they didn’t really have to know.</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland6</VoiceFile>
           <Content>They’re already carrying a hefty load of emotional baggage, and telling them your sob story will feel like you’re showing off how heavy your own baggage is. They might feel a bit of sympathy, but they’ll also be displeased.</Content>
         </Dialog>
         <Dialog ID="27" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland7</VoiceFile>
           <Content>Don’t overexpress your feelings whether you’re happy or sad, and say goodbye to each other with the appropriate words. It’s all for the sake of each other.</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela2</VoiceFile>
           <Content>That sounds even more tiring to me.</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland8</VoiceFile>
           <Content>And I shouldn’t let my feelings distract me from my librarian work, most of all.</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland9</VoiceFile>
           <Content>I gotta stay level-headed and help you collect books about the City.</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela3</VoiceFile>
           <Content>You’re right. As soon as you become useless to me, I’ll dispose of you.</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland10</VoiceFile>
           <Content>Then I’ll go back to my duties of being a useful servant for the sake of my survival, ma’am.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="33" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela4</VoiceFile>
           <Content>Greetin—</Content>
         </Dialog>
@@ -1612,8 +1612,8 @@
           <Content>I’m here for Mars’ book. I’ll get his book, kill all the monsters here, and blow your head clean off.</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela5</VoiceFile>
           <Content>I’m afraid your third statement is going to be difficult for you to fulfill, dear guest.</Content>
         </Dialog>
@@ -1624,8 +1624,8 @@
           <Content>I said shut up.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela6</VoiceFile>
           <Content>Sigh… May you find your book in this place.</Content>
         </Dialog>
@@ -1634,100 +1634,100 @@
     <Episode>
       <EpisodeName>에피소드2-종료</EpisodeName>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="0" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela7</VoiceFile>
           <Content>Are you feeling guilt or any strong emotions?</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland11</VoiceFile>
           <Content>I’d be lying if I said I feel nothing, but…</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland12</VoiceFile>
           <Content>I’ve already seen plenty of these cheap tragedies. Been the victim myself a whole lot of times, too.</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela8</VoiceFile>
           <Content>You sound like a seasoned veteran for someone who introduced himself as a “washed-up Fixer”.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland13</VoiceFile>
           <Content>I have my reasons. What, are you curious?</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela9</VoiceFile>
           <Content>You said it’s a rude thing to do, didn’t you?</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland14</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela10</VoiceFile>
           <Content>Besides, I could simply turn you into a book and read your story if I really wanted to know.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland15</VoiceFile>
           <Content>Whoa now, let’s not go there yet…</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland16</VoiceFile>
           <Content>Well, how about you? I’m curious to know what our head librarian thinks.</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela11</VoiceFile>
           <Content>Me? Indifferent. I’ve also seen relationships and scripted deaths too many times, in repeat.</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela12</VoiceFile>
           <Content>So I’ve been trying to run a system where people are free to choose their own destiny this time around, free from any coercion.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland17</VoiceFile>
           <Content>I mean, sure, they all read the warnings on the invitations and agree to those terms by signing their names, but…</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland18</VoiceFile>
           <Content>It’s still a bit dirty, y’know. You’re unkillable, and I can revive whenever I die. </Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela13</VoiceFile>
           <Content>Again with that. I thought you said my method is fair?</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland19</VoiceFile>
           <Content>Yeah, yeah. You aren’t wrong. Much more polite and fair than most things in the City.</Content>
         </Dialog>
