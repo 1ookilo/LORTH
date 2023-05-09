@@ -388,7 +388,7 @@
 
   <PassiveDesc ID="230007">
     <Name>ผู้พิทักษ์</Name>
-    <Desc>เมื่อเริ่มองค์ เพื่อนร่วมทีมได้รับ 2 เกราะ</Desc>
+    <Desc>เมื่อเริ่มองก์ เพื่อนร่วมทีมได้รับ 2 เกราะ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230107">
     <Name>แสงแห่งตะวันโผล่</Name>
@@ -410,7 +410,7 @@
   <!-- Gaze Office-->
   <PassiveDesc ID="230010">
     <Name>บืซซซซ บืซซซซ</Name>
-    <Desc>เมื่อเริ่มองค์ มอบ 1 อัมพาตให้กับศัตรู 3 คนแบบสุ่ม</Desc>
+    <Desc>เมื่อเริ่มองก์ มอบ 1 อัมพาตให้กับศัตรู 3 คนแบบสุ่ม</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230011">
     <Name>พืซซซท พืซซซท</Name>
@@ -428,7 +428,7 @@
   </PassiveDesc>
   <PassiveDesc ID="231016">
     <Name>พลังแห่งรัก</Name>
-    <Desc>หากชนะองค์นั้นๆ ฟื้นคืนชีพ "ชาวเมือง" กลับขึ้นมาที่ HP 50%</Desc>
+    <Desc>หากชนะองก์นั้นๆ ฟื้นคืนชีพ "ชาวเมือง" กลับขึ้นมาที่ HP 50%</Desc>
   </PassiveDesc>
   <PassiveDesc ID="232016">
     <Name>เดอร์เนีย อามัวเร่</Name>
@@ -438,7 +438,7 @@
   <!-- Kurokumo -->
   <PassiveDesc ID="230018">
     <Name>พร้อมรบ</Name> <!-- sayo -->
-    <Desc>เมื่อเริ่มองค์ จั่วเพิ่มเติม 2  Page </Desc>
+    <Desc>เมื่อเริ่มองก์ จั่วเพิ่มเติม 2  Page </Desc>
   </PassiveDesc>
   <PassiveDesc ID="230118">
     <Name>ดาบเมฆาทมิฬ</Name> <!-- sayo2 -->
@@ -460,7 +460,7 @@
   <!-- Bremen -->
   <PassiveDesc ID="230021">
     <Name>เหมียว เหมียว~</Name> <!-- 미야오 -->
-    <Desc>เมื่อเริ่มองค์ มอบ 1 กำลัง ให้ 2 คน</Desc>
+    <Desc>เมื่อเริ่มองก์ มอบ 1 กำลัง ให้ 2 คน</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230121">
     <Name>เสริมแรง กลองกระทบ</Name>  <!-- 브레멘 전원 -->
@@ -472,13 +472,13 @@
   </PassiveDesc>
   <PassiveDesc ID="230023">
     <Name>อู๊ด!! อู๊ด!!!</Name> <!-- 오잉크 -->
-    <Desc>เมื่อเริ่มองค์ มอบสถานะเปราะบาง 1 หน่วยให้ฝั่งศัตรู 2 คนแบบสุ่ม</Desc>
+    <Desc>เมื่อเริ่มองก์ มอบสถานะเปราะบาง 1 หน่วยให้ฝั่งศัตรู 2 คนแบบสุ่ม</Desc>
   </PassiveDesc>
   
   <!-- 쐐기 -->
   <PassiveDesc ID="230024">
     <Name>ไม่อ่อนข้อ</Name> <!-- 오스카 -->
-    <Desc>เมื่อรับดาเมจถึงตาย ลดดาเมจทั้งหมดรวมทั้งดาเมจนี้ลง 25 ดาเมจทั้งฉาก (1 ครั้งต่อองค์)</Desc>
+    <Desc>เมื่อรับดาเมจถึงตาย ลดดาเมจทั้งหมดรวมทั้งดาเมจนี้ลง 25 ดาเมจทั้งฉาก (1 ครั้งต่อองก์)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230124">
     <Name>ลิ่ม</Name> <!-- 쐐기 전원 -->
@@ -520,7 +520,7 @@
   <PassiveDesc ID="233001">
     <Name>ปรองดองสมานฉันท์</Name>
     <Desc>เมื่อจบฉาก หากเพื่อนร่วมทีมยังคงอยู่ครบถ้วน จะได้รับกำลัง 1 หน่วยในฉากถัดไป แต่หากเพื่อนร่วมทีมดายหมด จะได้รับเปราะบาง 2 หน่วยในฉากถัดไปแทน
-ความสามารถติดตัวนี้จะทำงานก็ต่อเมื่อ เริ่มองค์นี้โดยมีเพื่อนร่วมทีมอยู่ด้วย 1 คนหรือมากกว่า</Desc>
+ความสามารถติดตัวนี้จะทำงานก็ต่อเมื่อ เริ่มองก์นี้โดยมีเพื่อนร่วมทีมอยู่ด้วย 1 คนหรือมากกว่า</Desc>
   </PassiveDesc>
   <!-- 시 협회 -->
   <PassiveDesc ID="240001">
@@ -559,7 +559,7 @@
   <!-- 시 협회 공용 -->
   <PassiveDesc ID="241001">
     <Name>คิซุนะ/อ่อนล้าอย่างยิ่ง</Name>  <!-- Japanese '絆(きずな)' = 인연, 유대 -->
-    <Desc>เมื่อเพื่อนตายในการต่อสู้ จะได้รับกำลัง 1 หน่วย และอึดทน 1 หน่วยในทุกๆฉาก จนจบองค์ (ทับซ้อนได้สูงสุด 2 หน่วย)
+    <Desc>เมื่อเพื่อนตายในการต่อสู้ จะได้รับกำลัง 1 หน่วย และอึดทน 1 หน่วยในทุกๆฉาก จนจบองก์ (ทับซ้อนได้สูงสุด 2 หน่วย)
 เริ่มต้นด้วย HP ที่น้อยลง 75%</Desc>
   </PassiveDesc>
   <PassiveDesc ID="241101">
@@ -572,7 +572,7 @@
   </PassiveDesc>
   <PassiveDesc ID="241301">
     <Name>คิซุนะ/อ่อนล้าอย่างยิ่ง</Name> <!-- Japanese '絆(きずな)' = 인연, 유대 --> 
-    <Desc>เมื่อเพื่อนตายในการต่อสู้ จะได้รับกำลัง 1 หน่วย และอึดทน 1 หน่วยในทุกๆฉาก จนจบองค์ (ทับซ้อนได้สูงสุด 2 หน่วย)
+    <Desc>เมื่อเพื่อนตายในการต่อสู้ จะได้รับกำลัง 1 หน่วย และอึดทน 1 หน่วยในทุกๆฉาก จนจบองก์ (ทับซ้อนได้สูงสุด 2 หน่วย)
 เริ่มต้นด้วย HP ที่น้อยลง 25%</Desc>
   </PassiveDesc>
 
@@ -649,7 +649,7 @@
   <!-- Either one of Slash, Pierce, or Blunt Power-Ups is cast, basically -->
   <PassiveDesc ID="240118">
     <Name>เบิกใช้ Prescript</Name> <!-- 검지 수행자 2 -->
-    <Desc>เมื่อเริ่มองค์ จั่ว Page เพิ่มอีก 1 ใบ</Desc>
+    <Desc>เมื่อเริ่มองก์ จั่ว Page เพิ่มอีก 1 ใบ</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="240019"> 
@@ -886,25 +886,25 @@ Instead, one of the Children plays a page with a die carrying the following effe
     <Desc>Draw a page every time the character uses 4 unique Combat Pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250016"> <!-- 휴버트 -->
-    <Name>Breaking Pressure</Name> <!-- 強壓 -->
+    <Name>กดดันแล้วทลายทิ้ง</Name> <!-- 強壓 -->
     <Desc>In a clash, the opponent's Defensive dice lose 1 Power.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250017"> <!-- 글로리아 -->
-    <Name>Easygoing Breather</Name> <!-- 熟閑 -->
+    <Name>ค่อยๆเป็น ค่อยๆไป</Name> <!-- 熟閑 -->
     <Desc>At Emotion Level 2 or above, each Scene, the Cost of a random Combat Page in hand whose Cost is 1 or higher is reduced by 1 for the Scene.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="250018"> <!-- 춘 -->
-    <Name>Furious Fire Rending the Skies</Name> <!-- 火光衝天 -->
+    <Name>เพลิงโหมทั่วนภา</Name> <!-- 火光衝天 -->
     <Desc>At the start of the Scene, two random Combat Pages in hand gain the following effect: 'While this page is being used, inflict twice as much Burn with Combat Page abilities'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250020"> <!-- 샤오 -->
-    <Name>Force of a Wildfire</Name> <!-- 燎原之火 -->
+    <Name>ฤทธิ์อัคคีคลั่ง</Name> <!-- 燎原之火 -->
     <Desc>On a melee hit, inflict 1 Burn and 'Force of a Wildfire', a status that lasts 2 Scenes.
 If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies with Burn equal to half of the amount of Burn that enemy had. (Rounded down)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250021"> <!-- 미리스 -->
-    <Name>Hugging Fire, Sitting on Brushwood</Name> <!-- 抱火臥薪 -->
+    <Name>โอบกอดไว้ซึ่งไฟ พุ่มพงไพรนั่งอับจร</Name> <!-- 抱火臥薪 -->
     <Desc>When targets hit by melee attacks from this character take Burn damage at the end of the Scene they were attacked, they also take Stagger damage equal to half of the Burn damage.</Desc>
   </PassiveDesc>
 
@@ -914,13 +914,13 @@ If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies w
     <Desc>ในแต่ละฉาก ฟื้นแสงเพิ่มเติม 1 และจั่ว Page เพิ่มเติม 1 ใบ
 เมื่อ HP เหลือ 350 ฟ้นฟู Stagger Resist ทั้งหมด และหลอมรวมกับ E.G.O; HP จะไม่ลดไปต่ำกว่านี้ จนกว่าความสามารถนี้จะทำงาน (ครั้งเดียวต่อการต่อสู้)
 หากสูญเสียสถานะ "หลอมรวม E.G.O" ไป จะฟื้นสถานะนี้กลับมาใน 3 ฉาก
-หากตัวละครนี้เข้าสู่องค์ถัดไปโดยที่ยังคง "หลอมรวม E.G.O" อยู่ จะกลับเข้าสู่สภาวะ "หลอมรวม E.G.O" ในฉากที่ 2</Desc>
+หากตัวละครนี้เข้าสู่องก์ถัดไปโดยที่ยังคง "หลอมรวม E.G.O" อยู่ จะกลับเข้าสู่สภาวะ "หลอมรวม E.G.O" ในฉากที่ 2</Desc>
   </PassiveDesc>
   <!-- For use only -->
   <PassiveDesc ID="250122">
     <Name>วีรสตรี</Name>
     <Desc>มีเพียงเกบูร่าเท่านั้น และมี E.G.O เฉพาะตัว
-เมื่ออารมณ์อยู่ที่ระดับ 4 หรือสูงกว่า เพิ่ม Page "หลอมรวม E.G.O" เข้าสู่มือ (1 ครั้งต่อองค์)</Desc>
+เมื่ออารมณ์อยู่ที่ระดับ 4 หรือสูงกว่า เพิ่ม Page "หลอมรวม E.G.O" เข้าสู่มือ (1 ครั้งต่อองก์)</Desc>
   </PassiveDesc>
   
   <!-- For both enemy and ally versions -->
@@ -960,28 +960,28 @@ If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies w
 
   <!-- R사 -->
   <PassiveDesc ID="250123">
-    <Name>Triple-R Suit</Name>
+    <Name>ชุดสูท 3 R</Name>
     <Desc>Can store up to 20 Charges at once.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251001">
-    <Name>Rabbit Augmentation</Name> <!-- 토끼팀 + 묘 -->
+    <Name>เสริมสักยภาพกระต่ายไว</Name> <!-- 토끼팀 + 묘 -->
     <Desc>For every 30% of Max. HP lost this Act, gain 1 Haste at the start of each Scene. (Up to 3)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251002">
-    <Name>Rhino Procedure</Name> <!-- 코뿔소팀 + 막심 -->
+    <Name>เสริมเกราะแรดถึกทน</Name> <!-- 코뿔소팀 + 막심 -->
     <Desc>For every 30% of Max. HP lost this Act, gain 1 Endurance at the start of each Scene. (Up to 2)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251003">
-    <Name>Reindeer Treatment</Name> <!-- 순록팀 + 루돌프 -->
+    <Name>โอบเลี้ยงซึ่งกวางเรนเดียร์</Name> <!-- 순록팀 + 루돌프 -->
     <Desc>For every 30% of Max. HP lost this Act, gain 1 Strength at the start of each Scene. (Up to 2)</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250023">
-    <Name>The Commander</Name> <!-- 니콜라이 -->
+    <Name>ผู้บังคับบัญชา</Name> <!-- 니콜라이 -->
     <Desc>If the character has 11 or more Charge at the start of the Scene, give 1 Strength and Endurance to all allies.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250223">
-    <Name>Finishing Touch</Name> <!-- 니콜라이2 -->
+    <Name>ปิดจบงาน</Name> <!-- 니콜라이2 -->
     <Desc>After using a Combat Page on a target, leave a 'mark' on them at the end of the Scene. The marked enemy takes 50% additional damage and Stagger damage from attacks. Only one enemy can be marked at a time.</Desc>
   </PassiveDesc>
   
@@ -999,7 +999,7 @@ If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies w
   </PassiveDesc>
 
   <PassiveDesc ID="250024">
-    <Name>Myo’s Prowess</Name> <!-- 묘 -->
+    <Name>ฤทธิ์แรงของเมียว</Name> <!-- 묘 -->
     <Desc>When using a Combat Page, all dice on the page gain Power against targets with slower Speed. (+1 Power per 2 points of difference, up to 5)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250025">
@@ -1569,7 +1569,7 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
 
   <PassiveDesc ID="255003">
     <Name>ซ่อมแซมทันควัน</Name>
-    <Desc>เมื่อ Staggered ฟื้นสภาพจากการ Stagger และฟื้นฟู Stagger Resist จนเต็ม (1 ครั้งต่อองค์)</Desc>
+    <Desc>เมื่อ Staggered ฟื้นสภาพจากการ Stagger และฟื้นฟู Stagger Resist จนเต็ม (1 ครั้งต่อองก์)</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="255004">
