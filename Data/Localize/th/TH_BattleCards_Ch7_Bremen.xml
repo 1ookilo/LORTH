@@ -7,67 +7,67 @@
       <Behaviour ID="2">[On Clash Win] Inflict 1 Feeble to a random enemy next Scene</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703412">
-      <LocalizedName>Barkruff! BARK~!!!</LocalizedName>
+      <LocalizedName>โห่งโห่งโห่งโห่ง~!!!</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[On Hit] Inflict 2 Bind and Disarm next Scene</Behaviour>
       <Behaviour ID="1">[On Hit] Inflict 2 Bind and Disarm next Scene</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703413">
-      <LocalizedName>BAWKBAWKBAWK!!!</LocalizedName>
+      <LocalizedName>โห่งโห่งโห่ง!!!</LocalizedName>
       <Ability>[Can Target Ally;][Combat Start] If target is an ally, give 2 Strength this Scene</Ability>
       <Behaviour ID="0">[On Clash Win] Give 1 Strength to a random ally next Scene</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703414">
-      <LocalizedName>Cockadoodledoo~!!!!</LocalizedName>
+      <LocalizedName>เอ้กอี๊เอ้กเอ๊ก~!!!!</LocalizedName>
       <Ability>[Combat Start] Give 1 Strength to all allies</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703415">
-      <LocalizedName>NEIIIGHHIHIHH!!!</LocalizedName>
+      <LocalizedName>ฮียยยยยยยย์!!!</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[On Hit] Give 'Tagged' next Scene</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703416">
-      <LocalizedName>Neiiigh~!!!</LocalizedName>
+      <LocalizedName>ฮี~!!!</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[On Hit] Inflict 1 Paralysis next Scene</Behaviour>
       <Behaviour ID="1">[On Hit] Inflict 1 Paralysis next Scene</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703421">
-      <LocalizedName>Powerful Tendon Chords</LocalizedName>
+      <LocalizedName>เส้นเอ็นทรงพลัง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703422">
-      <LocalizedName>Everlasting Melody</LocalizedName>
+      <LocalizedName>บทเพลงนิรันดร์</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703423">
-      <LocalizedName>Dark Shrine to Music</LocalizedName>
+      <LocalizedName>จงสังเวยแด่เสียงเพลง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703424">
-      <LocalizedName>Explosive Tempo</LocalizedName>
+      <LocalizedName>ทำนองระเบิด</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703425">
-      <LocalizedName>Trio</LocalizedName>
+      <LocalizedName>3หน่อ</LocalizedName>
       <Ability>[Combat Start] Give 2 Strength, Endurance, Haste, and Protection to a random ally; inflict 2 Feeble, Disarm, Bind, and Fragile to target</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703426">
-      <LocalizedName>Chorus at the Climax</LocalizedName>
+      <LocalizedName>คอรัส ณ จุดไคลแม็ก</LocalizedName>
       <Ability>[Combat Start] Inflict 10 Fragile and 5 Paralysis to manually set target next Scene</Ability>
     </BattleCardDesc>
 
     <!--브레멘 2차-->
     <BattleCardDesc ID="707401">
-      <LocalizedName>Menacing Noise</LocalizedName>
+      <LocalizedName>เสียงอันตราย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707402">
-      <LocalizedName>Concerto</LocalizedName>
+      <LocalizedName>คอนแชร์โต้</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707403">
-      <LocalizedName>Fanciful Tune</LocalizedName>
+      <LocalizedName>บทเพลงประหลาด</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707404">
-      <LocalizedName>Music Therapy</LocalizedName>
+      <LocalizedName>บำบัดด้วยเสียงเพลง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707405">
-      <LocalizedName>Wohlklang</LocalizedName>
+      <LocalizedName>วอร์ครังค์</LocalizedName>
     </BattleCardDesc>
   </cardDescList>
 </BattleCardDescRoot>
