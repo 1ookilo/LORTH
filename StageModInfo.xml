@@ -5,8 +5,8 @@
     <ID>seiryu.lorth</ID>
     <Title>Library Of Ruina ภาษาไทย</Title>
     <Description>Story
-chapter 1 41%
-chapter 2 0%
+chapter 1 60%
+chapter 2 กำลังแปล
 chapter 3 0%
 chapter 4 0%
 chapter 5 0%
@@ -15,15 +15,25 @@ chapter 7 0%
 chapter 8 0%
 chapter 100 0%
 chapter 101 0%
-chapter 999 0%
-chapter 100 0%
+chapter 999 64%
+chapter 1000 100%
+
 Localize
-UI 0.1%
-และอื่นๆ 0%
+BattleCards 28%
+UITexts 33%
+Endinglyrics 100%
+BattleCards 100%
+Stagename กำลังแปล
+AbnormalityCards กำลังแปล
+
+BattleDialogues
+CombatDialog_Rats 100%
+CombatDialog_Librarian กำลังแปล 8%
+CombatDialog_Yun Office กำลังแปล 12%
 
 รันเกมด้วย "LOR With Mods" หรือติดตั้ง BongBong Enterprises Basemod เพื่อให้ม็อดทำงาน
 
-Font: KanchaTH</Description>
+</Description>
     <Tag>Localizations</Tag>
     <PreviewImage>C:\Program Files (x86)\Steam\steamapps\workshop\content\1256670\2968409213\d15.jpg</PreviewImage>
   </Workshop>
