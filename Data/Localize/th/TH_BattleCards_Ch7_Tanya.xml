@@ -2,23 +2,23 @@
 <BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <cardDescList>
     <BattleCardDesc ID="703601">
-      <LocalizedName>Fisticuffs</LocalizedName>
+      <LocalizedName>กำปั้น</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703602">
-      <LocalizedName>Kicks and Stomps</LocalizedName>
+      <LocalizedName>เตะแล้วกระทืบซ้ำ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703603">
-      <LocalizedName>Overspeed</LocalizedName>
+      <LocalizedName>เร็วเหนือกว่า</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703604">
-      <LocalizedName>Intimidate</LocalizedName>
+      <LocalizedName>ขู่ข่มเหง</LocalizedName>
     </BattleCardDesc>
     
     <BattleCardDesc ID="703611">
-      <LocalizedName>Lupine Onslaught</LocalizedName>
+      <LocalizedName>หมาป่าออกฆ่าฟัน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703612"> 
-      <LocalizedName>Beatdown</LocalizedName> <!-- 毆打 -->
+      <LocalizedName>เอาชนะ</LocalizedName> <!-- 毆打 -->
     </BattleCardDesc>
   </cardDescList>
 </BattleCardDescRoot>

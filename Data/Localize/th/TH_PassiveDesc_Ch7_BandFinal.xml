@@ -3,8 +3,9 @@
 
   <!-- 아르갈리아 뒤틀림-->
   <PassiveDesc ID="1410011">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
+    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1410012">
     <Name>Il Direttore dell’Ensemble Riverbero</Name>
@@ -22,8 +23,9 @@ At the end of the Scene, all characters' Emotion Levels rise by 2.</Desc>
 
   <!-- 엘레나 뒤틀림-->
   <PassiveDesc ID="1408011">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
+    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1408012">
     <Name>Speed</Name>
@@ -33,8 +35,9 @@ Does not gain Speed dice from Emotion Level bonuses.</Desc>
   
   <!-- 플루토 뒤틀림 -->
   <PassiveDesc ID="1409011">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
+    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1409012">
     <Name>Unconscionable</Name>

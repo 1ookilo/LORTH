@@ -2,35 +2,35 @@
 <BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <cardDescList>
     <BattleCardDesc ID="703001">
-      <LocalizedName>Preludio</LocalizedName>
+      <LocalizedName>เพร์รูดิโอ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703002">
-      <LocalizedName>Assolo</LocalizedName> <!-- 獨奏 -->
+      <LocalizedName>อาสโซโล</LocalizedName> <!-- 獨奏 -->
     </BattleCardDesc>
     <BattleCardDesc ID="703003">
-      <LocalizedName>Dissonance</LocalizedName>
+      <LocalizedName>บทเสียงไร้ประสาน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703004">
-      <LocalizedName>Scythe Slash</LocalizedName>
+      <LocalizedName>ฟันเคียว</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703005">
-      <LocalizedName>Unhinged Melodia</LocalizedName>
+      <LocalizedName>ทำนองมิสะท้าน</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="703011">
-      <LocalizedName>Sequential Blitz</LocalizedName>
+      <LocalizedName>สายฟ้าลำดับเพลง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703012">
-      <LocalizedName>Trails of Blue</LocalizedName>
+      <LocalizedName>รอยทางสีน้ำเงิน</LocalizedName>
     </BattleCardDesc>
 
     
     <BattleCardDesc ID="703021">
-      <LocalizedName>Final Impromptu</LocalizedName>
+      <LocalizedName>บทปัจฉิมชี้ชะตา</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="703031">
-      <LocalizedName>Resonate</LocalizedName>
+      <LocalizedName>กังวาล</LocalizedName>
     </BattleCardDesc>
   </cardDescList>
 </BattleCardDescRoot>

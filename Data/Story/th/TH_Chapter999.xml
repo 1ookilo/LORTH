@@ -151,79 +151,79 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch0_prol_ep0_Roland15</VoiceFile>
-          <Content>Alright, let’s say that’s the case… How are those sleeping entities supposed to help us, exactly?</Content>
+          <Content>โอเค ถ้าสมมติว่าเป็นแบบนั้น… เหล่า Entities ที่หลับอยู่ในหนังสือจะช่วยเราได้อย่างไรกันแน่?</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch0_prol_ep0_Angela10</VoiceFile>
-          <Content>You have to enter their books and free the librarians trapped within. I believe they’re under the influence of the Abnormalities’ powers for various reasons.</Content>
+          <Content>นายต้องเข้าไปในหนังสือเพื่อปลดปล่อยเหล่าบรรณารักษ์ที่ถูกกักขังอยู่ออกมา ฉันเชื่อว่าพวกเขาอยู่ใต้การควบคุมพลังของ Abnormalities ด้วยหลายๆเหตุผล</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch0_prol_ep0_Angela11</VoiceFile>
-          <Content>Since they’re highly unstable, they won’t easily trust us.</Content>
+          <Content>เนื่องจากสภาพของพวกเขายังไม่เสถียรมากนัก พวกเขาจึงไม่ยอมเชื่อใจเราง่ายๆ</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch0_prol_ep0_Roland16</VoiceFile>
-          <Content>You’re basically saying they’ll take us for invaders…</Content>
+          <Content>พูดง่ายๆก็คือ พวกเขาจะมองเราเป็นผู้บุกรุก…</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch0_prol_ep0_Angela12</VoiceFile>
-          <Content>Correct. If you can overcome all ordeals presented by them, they will come to accept you.</Content>
+          <Content>ถูกต้อง หากนายเอาชนะบทสอบของพวกเขาได้ พวกเขาก็จะยอมรับในตัวนาย</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch0_prol_ep0_Roland17</VoiceFile>
-          <Content>Instructions still unclear, ma’am… You said they’re as mighty as wet paper now. You sure they can give any help?</Content>
+          <Content>คำแนะนำยังคลุมเครืออยู่เลยนะคุณผู้หญิง… เธอบอกว่าตอนนี้พวกเขาทรงพลังเหมือนกระดาษเปียก แล้วเธอแน่ใจหรือว่าพวกเขาจะสามารถให้ความช่วยเหลืออะไรได้บ้าง?</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch0_prol_ep0_Angela13</VoiceFile>
-          <Content>We are not making the Abnormalities receive guests for us.</Content>
+          <Content>เราไม่สามารถใช้ให้ Abnormalities รับแขกแทนเราได้</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch0_prol_ep0_Angela14</VoiceFile>
-          <Content>If they can be understood and accepted, they will empower the librarians, directly or indirectly.</Content>
+          <Content>หากสามารถเข้าใจและยอมรับพวกเขาได้ เหล่าบรรณารักษ์จะได้รับพลังจากพวกเขาไม่ว่าทางตรงหรือทางอ้อม</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch0_prol_ep0_Roland18</VoiceFile>
-          <Content>Still too ambiguous, I’ve gotta say…</Content>
+          <Content>ยังคลุมเครือเกินไปสำหรับฉันนะ บอกตามตรง…</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch0_prol_ep0_Roland19</VoiceFile>
-          <Content>Anyhow, what you’re saying is that they’ll present us with ordeals, basically. And we have to overcome them to earn their recognition and borrow their powers.</Content>
+          <Content>อย่างไรก็ตาม สิ่งที่เธอกำลังพูดถึงคือพวกเขาจะมอบบททดสอบให้กับเราเพื่อให้เราได้รับการยอมรับและยืมพลังจากพวกเขาได้สินะ</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch0_prol_ep0_Roland20</VoiceFile>
-          <Content>Entering books… Sounds like something out of a fairy tale…</Content>
+          <Content>เข้าไปในหนังสือ… ฟังดูเหมือนหลุดออกมาจากเทพนิยายเลยแฮะ…</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch0_prol_ep0_Angela15-01</VoiceFile>
-          <Content>We’ll need their power to heighten the emotions of our guests to the peak, after all… I wish you success in there.</Content>
+          <Content>เราจะต้องใช้พลังของพวกเขาเพื่อยกระดับอารมณ์ของแขกให้ถึงขีดสุด ยังไงซะ… ฉันก็ขอให้นายทำสำเร็จละกัน</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch0_prol_ep0_Roland21</VoiceFile>
-          <Content>Sure sure, anything you say, ma’am…</Content>
+          <Content>จ๋าจ้า แน่นอนครับ ผมจะทำตามที่คุณบอก นะครับคุณผู้หญิง…</Content>
         </Dialog>
       </Place>
     </Episode>
