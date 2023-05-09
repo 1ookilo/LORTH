@@ -916,7 +916,7 @@ Instead, one of the Children plays a page with a die carrying the following effe
     เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250113">
-    <Name>The Blue Reverberation</Name>
+    <Name>เสียงกังวาลสีคราม</Name>
     <Desc>Take no damage from Ranged Combat Pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250014">
@@ -1047,11 +1047,11 @@ If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies w
     <Desc>Can store up to 20 Charges at once.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251001">
-    <Name>เสริมสักยภาพกระต่ายไว</Name> <!-- 토끼팀 + 묘 -->
+    <Name>เสริมสักยภาพกระต่ายให้ว่องไว</Name> <!-- 토끼팀 + 묘 -->
     <Desc>For every 30% of Max. HP lost this Act, gain 1 Haste at the start of each Scene. (Up to 3)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251002">
-    <Name>เสริมเกราะแรดถึกทน</Name> <!-- 코뿔소팀 + 막심 -->
+    <Name>เสริมเกราะแรดให้ถึกทน</Name> <!-- 코뿔소팀 + 막심 -->
     <Desc>For every 30% of Max. HP lost this Act, gain 1 Endurance at the start of each Scene. (Up to 2)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251003">
@@ -1064,7 +1064,7 @@ If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies w
     <Desc>If the character has 11 or more Charge at the start of the Scene, give 1 Strength and Endurance to all allies.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250223">
-    <Name>ปิดจบงาน</Name> <!-- 니콜라이2 -->
+    <Name>สะสางงาน</Name> <!-- 니콜라이2 -->
     <Desc>After using a Combat Page on a target, leave a 'mark' on them at the end of the Scene. The marked enemy takes 50% additional damage and Stagger damage from attacks. Only one enemy can be marked at a time.</Desc>
   </PassiveDesc>
   
@@ -1262,38 +1262,38 @@ The character will transform back into a librarian if no ally is synchronized wi
 
   <!-- 검은 침묵 -->
   <PassiveDesc ID="10012">
-    <Name>ออแลนโด</Name>
+    <Name>ออร์แลนโด</Name>
     <Desc>Has a unique Key page and Combat Pages that cannot be replaced or swapped.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10013">
-    <Name>The Black Silence</Name>
+    <Name>ทมิฬเงียบสงัด</Name>
     <Desc>Draw 2 additional pages at the start of the Act. All dice on every third Combat Page used gain +2 Power.</Desc>
   </PassiveDesc>
 
   <!-- 잔향악단 -->
   <PassiveDesc ID="260005">
-    <Name>Resonance</Name>
+    <Name>ก้องกังวาล</Name>
     <Desc>When using a Melee Combat Page, if the difference between this character's Speed and the target's Vibration is 1 or less, all dice on the page gain +2 Power.
 At the start of the Act, draw 2 pages.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="260006">
-    <Name>Overheat</Name>
+    <Name>อุ่นเครื่อง</Name>
     <Desc>While the character has burn, Offensive dice gain +1 Power.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="260007">
-    <Name>Masterful Smoker</Name>
+    <Name>สิงห์อมควัน</Name>
     <Desc>When using a Combat Page with an effect involving 'Smoke', all dice on the page gain +1 Power.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="260008">
-    <Name>Prep Up the Main Dish</Name>
+    <Name>เตรียมจานมื้อใหญ่</Name>
     <Desc>When using a Melee Combat Page, if target has Bleed, Offensive dice on the page gain +1~2 Power.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="260009">
-    <Name>Neigh~! Woof-woof! Bawk!</Name> 
+    <Name>ฮี๊ฮ่อ~! โฮ่งโฮ่ง! ก่ะต๊าก!</Name> 
     <Desc>On hit with a Melee Combat Page, activate one of the following effects (each effect activates once per Scene):
 - Inflict 1 Feeble next Scene
 - Inflict 1 Paralysis next Scene
@@ -1302,31 +1302,31 @@ At the start of the Act, draw 2 pages.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="260010">
-    <Name>Splendid Performance</Name>
+    <Name>การแสดงไร้ที่ติ</Name>
     <Desc>When using a Combat Page with 3 or more different types of non-Counter dice, all dice on the page gain +1 Power and deal +1 damage.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="260011">
-    <Name>Guts</Name>
+    <Name>ยังไม่จบ มาตบกันยกสอง</Name>
     <Desc>Upon taking what would be a lethal blow, nullify the damage and recover 100 HP; at the end of the Scene this happens, fully restore Stagger Resist. (Once per reception)</Desc>
   </PassiveDesc>
 
 
   <PassiveDesc ID="260012">
-    <Name>Puppet Strings</Name>
+    <Name>เชือกเชิดหุ่น</Name>
     <Desc>At the start of the Act, add a special Combat Page that can give 'Puppeteer’s Strings' to another ally to hand.
 The character with 'Puppeteer’s Strings' gains 1 Strength or Endurance at the start of each Scene, and their HP won't go below 1.
 If the HP of the character with 'Puppeteer’s Strings' reaches 1 or if the character with this passive ability is no longer present, 'Puppeteer’s Strings' is lost at the end of the Scene.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="260013">
-    <Name>Bloodfiendish</Name>
+    <Name>อสูรกระหายเลือด</Name>
     <Desc>On hit, recover 2 HP.
 If the character recovered 3 or more HP in a single Scene, gain 1 Strength next Scene.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="260014">
-    <Name>Contracts</Name>
+    <Name>สัญญา</Name>
     <Desc>At the start of the Act, add Unsigned Contracts to the hands of all allies.
 If a character fulfills the condition stated by the Unsigned Contract in their hand, its effect will be granted, and the Contract will exhaust. It is possible to exchange Unsigned Contracts with another ally.</Desc>
   </PassiveDesc>
@@ -1346,15 +1346,16 @@ If a character fulfills the condition stated by the Unsigned Contract in their h
     เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170002">
-    <Name>Retaliate</Name>
-    <Desc>Gain 2 dice (Slash, 4-8) at combat start.</Desc>
+    <Name>โต้กลับเอาคืน</Name>
+    <Desc>ได้รับลูกเต๋าโต้กลับ [ฟัน:4-8] เมื่อเริ่มต่อสู้</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170003">
-    <Name>Clenched Grudge</Name>
-    <Desc>Recover 5 Stagger Resist on hit; lose 8 Stagger Resist on clash lose.</Desc> <!-- Leave the "unimplemented" text in for now, they plan to choose one of the two after testing. -->
+    <Name>แรงแค้นสั่งสม</Name>
+    <Desc>เมื่อโจมตีสำเร็จ ฟื้นฟู 5 Stagger Resist
+    เมื่อแพ้การปะทะ เสีย 8 Stagger Resist</Desc> <!-- Leave the "unimplemented" text in for now, they plan to choose one of the two after testing. -->
   </PassiveDesc>
   <PassiveDesc ID="170004">
-    <Name>The Black Silence</Name>
+    <Name>ทมิฬเงียบสงัด</Name>
     <Desc>All dice on the page selected in the third Speed dice slot gain +2 Power.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170005">
@@ -1364,7 +1365,7 @@ If a character fulfills the condition stated by the Unsigned Contract in their h
 
 <!--검은침묵 2페이즈 패시브-->
   <PassiveDesc ID="170101">
-    <Name>The Hatching Dead</Name>
+    <Name>ฟักไข่ปีศาจ</Name>
     <Desc>When a Smoldering Byproduct is defeated, spawn one to replace it next Scene and lose 50 HP. (Once per unit) No Smoldering Byproducts will be spawned if the character has 300 or less HP.</Desc>
   </PassiveDesc>
 
@@ -1387,17 +1388,17 @@ When hit, if attacker has Suffocating Haze, take 2 less damage.</Desc>
     เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170202">
-    <Name>Soulmates</Name>
+    <Name>สหายร่วมวิญญาณ</Name>
     <Desc>Speed Dice Slots +2. Gain Soul Link for 3 Scenes, with a 2-Scene interval. While Soul Link is up, gain 3 additional Speed dice. 
 If both Roland and Angelica are Staggered, Soul Link is delayed by 1 Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170200">
-    <Name>Linked Souls</Name>
+    <Name>เชื่อมคู่โยงวิญญาณ</Name>
     <Desc>If Soul Link is lowered to 0 before it expires, the character's damage resistances change to "Normal" and Stagger damage resistances to "Fatal" for the next 2 Scenes, and is inflicted with 3 Paralysis. 
 Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amount to that of the character with the higher HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170203">
-    <Name>Request Target</Name>
+    <Name>เพ่งเล็งพุ่งเป้า</Name>
     <Desc>While Soul Link is up, the first three Speed dice target the librarian with the lowest current HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170204">
@@ -1405,7 +1406,7 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
     <Desc>When without a Soul Link, prioritize targeting the librarian who has a 'Dark Mark'. Offensive dice gain +3 Power against the marked target.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170205">
-    <Name>Dearly Departing</Name>
+    <Name>จากแยกคู่วิญญาณ</Name>
     <Desc>When Angelica dies, enter a state of Rampage and use a different set of Combat Pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170211">
@@ -1414,7 +1415,7 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
     เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170212">
-    <Name>Request Target</Name>
+    <Name>เพ่งเล็งพุ่งเป้า</Name>
     <Desc>While Soul Link is up, the first three Speed dice target the librarian with the lowest current HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170213">
@@ -1422,7 +1423,7 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
     <Desc>On the third Scene of Soul Link being maintained, leave a 'Dark Mark' on the character that engaged this character last.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170214">
-    <Name>Dearly Parting</Name>
+    <Name>บอกลาคู่วิญญาณ</Name>
     <Desc>When Roland dies, become Grief-stricken and use a different set of Combat Pages.</Desc>
   </PassiveDesc>
   
@@ -1433,15 +1434,15 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
     เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0 Take half as much damage from status ailments.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170302">
-    <Name>Memories of the Library</Name>
+    <Name>ความทรงจำของหอสมุด</Name>
     <Desc>For the duration of the phase, gain unique passive abilities each Scene. HP does not go below 40%. If Roland's HP is at 40% at the end of the Scene, proceed to the next phase. Fully recover Stagger Resist when progressing to the next phase.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170303">
-    <Name>Scars</Name>
+    <Name>แผลเป็น</Name>
     <Desc>Reduce incoming damage from a specific type, which changes every Scene. When hit by the attack of the type, reduce its damage to 0 at a 20% chance. This effect can be nullified by destroying the weapons summoned by Roland.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170304">
-    <Name>Blood</Name>
+    <Name>เลือด</Name>
     <Desc>Defensive dice gain 1-2 Power this Scene. If a Defensive die loses in a clash, take 3-6 Stagger damage.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170305">
@@ -1449,11 +1450,11 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
     <Desc>Gain 1 Strength this Scene. Strength gain increases by 1 whenever this effect activates. If an Offensive die fails to deal damage, take 3-6 Stagger damage.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170306">
-    <Name>Curiosity</Name>
+    <Name>อยากรู้อยากเห็น</Name>
     <Desc>For this Scene, on hit, shuffle two random pages in target's hand back into their deck.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170307">
-    <Name>Kiss</Name>
+    <Name>จุมพิต</Name>
     <Desc>Prioritizes targeting librarians with Bind. For this Scene, on clash win, inflict Ice Splinter to the opponent. At the end of the Scene, characters with 3 or more Ice Splinters become Immobilized for the next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170311">
@@ -1487,7 +1488,7 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
     <Desc>This character dies at the end of the third Scene after which it was summoned. Gain 2 Strength and Endurance, 3 Haste, and 4 Protection each Scene until death. All Stagger damage resistances change to "Ineffective". Max HP is lowered by 50%.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170334">
-    <Name>Learn</Name>
+    <Name>ดูให้รู้</Name>
     <Desc>Uses the Combat Page 'Learn' for all Speed dice. If this character's attack hits, it inflicts a 'Lies' status which changes the Costs of pages at random next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170335">
@@ -1506,67 +1507,67 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
  
   <!--뒤틀린 잔향악단 중층 Oswald-->
   <PassiveDesc ID="1405011">
-    <Name>Showtime~</Name>
+    <Name>โชว์ไทม์~</Name>
     <Desc>At the end of the Scene, all librarians take 2-4 Stagger damage. Prioritizes targeting the librarian with the lowest current Stagger Resist.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1405012">
-    <Name>I Can Shrug That Off!</Name>
+    <Name>ฉันไม่เป็นไร!</Name>
     <Desc>Cannot lose more than 50% of Max HP in a single Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1405013">
-    <Name>Farewell…!</Name>
+    <Name>ลาก่อน...!</Name>
     <Desc>Whenever an ally dies, takes 50 Stagger damage.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1405014">
-    <Name>The End of the Show</Name>
+    <Name>ปิดม่านการแสดง!</Name>
     <Desc>Upon death, all librarians fully restore Stagger Resist, and all status ailments on them are halved.</Desc>
   </PassiveDesc>
   <!--뒤틀린 잔향악단 중층 오스왈드 인어씨-->
   <PassiveDesc ID="1405021">
-    <Name>Twas a Joy to Perform by Your Side…!</Name>
+    <Name>ได้รวมแสดงช่างเพลิดเพลินยิ่งนัก...!</Name>
     <Desc>Upon death, Oswald takes 70 Stagger damage. (Oswald still takes damage even if he's out of combat)</Desc>
   </PassiveDesc>
   <!--뒤틀린 잔향악단 중층 오스왈드 칼날씨-->
   <PassiveDesc ID="1405031">
-    <Name>Twas a Joy to Perform by Your Side…!</Name>
+    <Name>ได้รวมแสดงช่างเพลิดเพลินยิ่งนัก...!</Name>
     <Desc>Upon death, Oswald takes 70 Stagger damage. (Oswald still takes damage even if he's out of combat)</Desc>
   </PassiveDesc>
   <!--뒤틀린 잔향악단 중층 오스왈드 토끼씨-->
   <PassiveDesc ID="1405041">
-    <Name>Twas a Joy to Perform by Your Side…!</Name>
+    <Name>ได้รวมแสดงช่างเพลิดเพลินยิ่งนัก...!</Name>
     <Desc>Upon death, Oswald takes 70 Stagger damage. (Oswald still takes damage even if he's out of combat)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1405042">
-    <Name>Amalgamation</Name>
+    <Name>ผสมปนรวม</Name>
     <Desc>If spawned by the effects of 'Red Strings', Max HP increases by 20 per character that was conjoined, and gains the passive abilities of the librarians conjoined.</Desc>
   </PassiveDesc>
 
   <!--뒤틀린 잔향악단 중층 Jae-heon-->
   <PassiveDesc ID="1407011">
-    <Name>Entangled Strings</Name>
+    <Name>เส้นด้ายมัดโยง</Name>
     <Desc>When a die each ally plays rolls the minimum value, reroll it. Activates once per die. At the start of the Scene, a random librarian is inflicted with 2 Bind. At the start of the Scene when 'Straining Strings' is used, all 'Puppet Strings' are removed.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1407012">
-    <Name>Unbound Flesh</Name>
+    <Name>เลือดเนื้อผูกมัด</Name>
     <Desc>After death, all librarians gain 1-3 Haste at the start of each Scene, and all of their dice gain +1 Power for the rest of the Act.</Desc>
   </PassiveDesc>
 
   <!--뒤틀린 잔향악단 중층 Tanya-->
   <PassiveDesc ID="1406011">
-    <Name>Fierce Sandstorm</Name>
+    <Name>พายุทรายโหมกระหน่ำ</Name>
     <Desc>At the end of the Scene, all librarians take 3-5 damage. Jae-heon's Offensive dice gain '[On Hit] Inflict 1 Bleed'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1406012">
-    <Name>Violent Sandstorm</Name>
+    <Name>พายุทรายบ้าระห่ำ</Name>
     <Desc>After death, all librarians deal +3 damage with attacks for the rest of the Act.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1406013">
-    <Name>Burning Resolve to Fight On</Name>
+    <Name>หนทางเดียวที่จะสู้ต่อ</Name>
     <Desc>If there are no other allies present at the end of the Scene, gain 1 Strength and Endurance, and gain 2 Speed dice for the rest of the Act.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="170006">
-    <Name>Perception-blocking Mask</Name>
+    <Name>หน้ากากบิดเบือนการรับรู้</Name>
     <Desc>A Speed die with the lowest Speed becomes untargetable.</Desc>
   </PassiveDesc>
   
@@ -1603,36 +1604,36 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
   
 <!-- 밤의 송곳 (Night Awls) -->
   <PassiveDesc ID="252001">
-    <Name>Mercy</Name>
+    <Name>เมตตา</Name>
     <Desc>Offensive dice gain +1 Power against targets with less than 10% HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="252002">
-    <Name>Stiletto</Name>
+    <Name>สทิเลท'โท</Name>
     <Desc>Pierce Dice Power +2, Blunt and Slash Dice Power -2.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="252003">
-    <Name>Chink in One’s Armor</Name>
+    <Name>พวกอ่อนแอในกะลา</Name>
     <Desc>When using a Melee Combat Page, if this character's Speed is greater than the target's by 3 or more, destroy a Block die the target has.</Desc>
   </PassiveDesc>
 
   <!-- 정사무소 (Jeong's Office) -->
   <PassiveDesc ID="234001">
-    <Name>Bottom Deal</Name>
+    <Name>ต่อรองที่เท่าเทียม</Name>
     <Desc>If the character discards a page, draw 1 page at the start of the next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="234002">
-    <Name>Stacking the Deck</Name>
+    <Name>กองไพ่หนาๆ</Name>
     <Desc>If the character discards a page, restore 1 Light at the end of the Scene.</Desc>
   </PassiveDesc>
 
   <!-- 우제트 (Udjat) -->
   <PassiveDesc ID="253001">
-    <Name>Mirage</Name>
+    <Name>ภาพมายา</Name>
     <Desc>At the end of the Scene, recover half of the Stagger damage taken during the Scene. (Minimum of 1; does not activate while Staggered)</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="253002">
-    <Name>Hawk's Eye</Name>
+    <Name>ฮวอกอายส์</Name>
     <Desc>At the end of the Scene, give 2 Protection to the ally that suffered the most damage.</Desc>
   </PassiveDesc>
 
@@ -1643,15 +1644,15 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
 
   <!-- 미래생명 (Mirae Life Insurance) -->
   <PassiveDesc ID="254001">
-    <Name>Insurance Benefits</Name>
+    <Name>ผลตอบแทนประกันภัย</Name>
     <Desc>If the character suffered 1 or more one-sided attacks in a Scene, restore 1 Light.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="254002">
-    <Name>Policy Form</Name>
+    <Name>สัญญาทางกฏหมาย</Name>
     <Desc>At the end of the Scene, remove all stacks of a random status ailment (Feeble, Disarm, or Bind) that would be inflicted to the character next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="254003">
-    <Name>Life Insurance</Name>
+    <Name>ประกันชีวิต</Name>
     <Desc>Untransferable. At the end of the Scene, if the character has 30% or less HP, add a copy of 'Life Insurance' to hand.</Desc>
   </PassiveDesc>
   
