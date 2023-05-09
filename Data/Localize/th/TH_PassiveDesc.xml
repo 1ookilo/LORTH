@@ -1043,7 +1043,7 @@ If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies w
 
   <!-- R사 -->
   <PassiveDesc ID="250123">
-    <Name>ชุดสูท 3 R</Name>
+    <Name>ชุดสูท RRR</Name>
     <Desc>Can store up to 20 Charges at once.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251001">
@@ -1069,15 +1069,15 @@ If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies w
   </PassiveDesc>
   
   <PassiveDesc ID="251101">
-    <Name>Compressed Charge-stimulated Muscleforce</Name> <!-- 토끼팀 + 묘 -->
+    <Name>ประจุอัดแน่น - เร่งกำลังกล้ามเนื้อ</Name> <!-- 토끼팀 + 묘 -->
     <Desc>If the character has 11 or more Charge at the start of the Scene, gain 1 Haste.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251102">
-    <Name>Bionic Charge-synchronized Hull</Name> <!-- 코뿔소팀 + 막심 -->
+    <Name>ประจุชีวภาพ - เสริมพลังลำตัว</Name> <!-- 코뿔소팀 + 막심 -->
     <Desc>If the character has 11 or more Charge at the start of the Scene, gain 2 Protection.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251103">
-    <Name>Brainwave Charge-focusing Antlers</Name> <!-- 순록팀 + 루돌프 -->
+    <Name>ประจุคลื่นสมอง - กระแทกเขาเข้าประจุ</Name> <!-- 순록팀 + 루돌프 -->
     <Desc>If the character has 11 or more Charge at the start of the Scene, deal +2 Stagger damage with attacks for the Scene.</Desc>
   </PassiveDesc>
 
@@ -1147,7 +1147,7 @@ If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies w
     เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="150138">
-    <Name>Nine Children of the Dragon</Name>
+    <Name>บุตรมังกรทั้งเก้า</Name>
     <Desc>Dice Power +1.
 At the start of the Scene, inflict 2 Burn on all enemies.</Desc>
   </PassiveDesc>
@@ -1157,23 +1157,23 @@ At the start of the Scene, inflict 2 Burn on all enemies.</Desc>
 'Pú Láo' activates on the first Scene, and then activates every 2 Scenes.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="150338">
-    <Name>Reverse Scale</Name>
+    <Name>เกล็ดมังกรย้อนกลับ</Name>
     <Desc>Every Scene, uses a Combat Page that deals Stagger damage to self but grants Strength if it loses in a clash.
 Stagger Resist is not fully recovered even if the character is restored from Stagger or an Act ends.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250036">
-    <Name>Nine Children of the Dragon</Name>
+    <Name>บุตรมังกรทั้งเก้า</Name>
     <Desc>If Emotion Level is 2 or higher at the end of the Scene, manifest E.G.O.
 The manifested E.G.O is enhanced if the character's Emotion Level is 4 or higher at the end of the Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250136">
-    <Name>Nine Children of the Dragon</Name>
+    <Name>บุตรมังกรทั้งเก้า</Name>
     <Desc>Offensive Dice Power +1. Gain the passive ability 'Bā Xià'.
 The E.G.O is enhanced if the character's Emotion Level is 4 or higher at the end of the Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250236">
-    <Name>Nine Children of the Dragon</Name>
+    <Name>บุตรมังกรทั้งเก้า</Name>
     <Desc>Dice Power +1. Gain the passive ability 'Bā Xià'.
 At the start of the Scene, inflict 2 Burn to all enemies.
 Has access to unique E.G.O.</Desc>
@@ -1463,15 +1463,15 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
     เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170312">
-    <Name>Scattering Fragments of Recollection</Name>
+    <Name>เศษเสี้ยวความทรงจำที่กระจัดกระจาย</Name>
     <Desc>At the beginning of the phase, four Images of the Bygones are summoned, each with different abilities.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170320">
-    <Name>Engraved Spite</Name>
+    <Name>อาฆาตฝังลึก</Name>
     <Desc>If this remains by the end of the Scene, it is nailed to the ground. The last die of the Combat Page used on the fifth Scene is recycled once for each weapon on the ground.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170330">
-    <Name>Image of the Bygones</Name>
+    <Name>รูปลักษณ์ผู้ล่วงลับ</Name>
     <Desc>Speed Dice Slot +1. Does not gain Speed dice from Emotion Level bonuses. เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
     เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
@@ -1618,7 +1618,7 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
 
   <!-- 정사무소 (Jeong's Office) -->
   <PassiveDesc ID="234001">
-    <Name>ต่อรองที่เท่าเทียม</Name>
+    <Name>การต่อรองที่เท่าเทียม</Name>
     <Desc>If the character discards a page, draw 1 page at the start of the next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="234002">
