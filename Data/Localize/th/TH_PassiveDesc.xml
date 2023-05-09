@@ -767,15 +767,15 @@
   <!-- 불안정한 우는 아이 -->
   <PassiveDesc ID="240027">
     <Name>ดาบประายเพลิง</Name>
-    <Desc>Inflict 1-2 Burn on hit</Desc>
+    <Desc>เมื่อโจมตีสำเร็จ มอบสถานะเผาไหม้ 1-2 หน่วยให้กับเป้าหมาย</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240127">
     <Name>โล่ปีกปักษา</Name>
-    <Desc>When hit, inflict 1-2 Burn to attacker</Desc>
+    <Desc>เมื่อถูกโจมตี มอบสถานะเผาไหม้ 1-2 หน่วยให้กับผู้โจมตี</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240227">
     <Name>อารมณ์ผันผวนที่ลุกโชน</Name>
-    <Desc>If target has Burn, boost the Power of Offensive dice by +1</Desc>
+    <Desc>หากเป้าหมายดังกล่าวติดเผาไหม้อยู่ เพิ่มพลังลูกเต๋าประเภทโจมตี +1 ทั้งหมด</Desc>
   </PassiveDesc>
   
   <!-- 우는 아이 -->
@@ -786,128 +786,143 @@
   </PassiveDesc>
   <PassiveDesc ID="240128">
     <Name>จิตใจที่กำลังแตกออก</Name> <!-- 합체 설명 -->
-    <Desc>Separates upon reaching 0 HP. All librarians restore 1 Light and 10 Stagger Resist afterwards.</Desc>
+    <Desc>เมื่อ HP เหลือ 0 จะแยกออกจากกัน จากนั้น บรรณารักษ์ทั้งหมดจะฟื้นฟู 1 แสงและ 10 Stagger Resist</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240228">
     <Name>จิตใจที่แตกแยก</Name> <!-- 분리 설명-->
-    <Desc>Unites when all Children reach 0 HP. All librarians restore 1 Light and 10 Stagger Resist afterwards.</Desc>
+    <Desc>เมื่อ HP เหลือ 0 จะรวมตัวกัน จากนั้น บรรณารักษ์ทั้งหมดจะฟื้นฟู 1 แสงและ 10 Stagger Resist</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240328">
     <Name>เด็กน้อยผู้ปิดตา ไม่มองหา</Name>
-    <Desc>Cannot see a portion of the information of Combat Pages used by the Crying Children. This ability is nullified when this character is Staggered.</Desc>
+    <Desc>จะไม่สามารถมองเห็นความสามารถบน Page ของ Crying Children ได้
+    ความสามารถนี้จะหมดพลังเมื่อ Staggered</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240428">
     <Name>เด็กน้อยผู้ปิดหู ไม่ฟังใคร</Name>
-    <Desc>Cannot check or redirect the Crying Children's target. This ability is nullified when this character is Staggered.</Desc>
+    <Desc>จะไม่สามารถเปลี่ยนเป้าหมายการโจมตีของ Crying Children ได้
+    ความสามารถนี้จะหมดพลังเมื่อ Staggered</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240528">
     <Name>Uเด็กน้อยผู้ปิดปาก ไม่กล่าวไว้</Name>
-    <Desc>A random librarian becomes Immobilized at the start of the Scene. This ability is nullified when this character is Staggered.</Desc>
+    <Desc>สุ่มบรรณารักษ์หนึ่งคน ทำให้บรรณารักษ์ดังกล่าวเคลื่อนไหวได้
+    ความสามารถนี้จะหมดพลังเมื่อ Staggered</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240628">
     <Name>จิตใจที่ใกล้ทลายลง</Name>
-    <Desc>Becoming Staggered does not temporarily change the character's resistances.
-Instead, one of the Children plays a page with a die carrying the following effect: ‘[On Clash Lose] All resistances of all allies change to "Fatal".’</Desc>
+    <Desc>เมื่อ Stagger ค่าความทนทานจะไม่เปลี่ยนแปลง
+แต่จะมี Children อย่างสุ่มหนึ่งคนเล่น Page ที่จะมีลูกเต๋าหนึ่งลูกที่มีความสามารถ;
+[เมื่อปะทะแพ้] ความทนทานทั้งหมดของทั้งทีมเปลี่ยนเป็น "ร้ายแรง"</Desc>
   </PassiveDesc>
 
   <!--세븐 협회-->
   <PassiveDesc ID="243001">
     <Name>คว้าช่องโหว่</Name>
-    <Desc>When attacking a target with a damage type they're "Weak" or "Fatal" to, deal +1 damage.</Desc>
+    <Desc>หากโจมตีด้วยดาเมจที่ความทนทานเป้าหมายเป็น "อ่อนแอ" หรือ "ร้ายแรง"
+    ทำดาเมจเพิ่ม +1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="243101">
-    <Name>ปรเมินตรวจสอบข้อมูล</Name>
-    <Desc>At the end of the Scene, a random enemy's resistance to a random damage type changes to "Normal" for the Scene. (Chosen from resistances that are "Endured" or "Normal")</Desc>
+    <Name>ประเมินตรวจสอบข้อมูล</Name>
+    <Desc>เมื่อจบฉาก ความทนทานอย่างหนึ่งของเป้าหมายกลายเป็น "ปกติ"
+    (เลือกความทนทานที่เป็น "ทนทาน" หรือ "ปกติ" เท่านั้น)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="243201">
     <Name>ฉันเห็นจุดอ่อนแกแล้ว</Name>
-    <Desc>If the character attacked an enemy last Scene with a damage type they're "Weak" to, and the enemy has 5 or more stacks of Fragile at the end of the Scene, their resistance against the type becomes "Fatal" for the rest of the Act.</Desc>
+    <Desc>หากโจมตีด้วยดาเมจที่ความทนทานเป้าหมายเป็นเป็น "อ่อนแอ" และเป้าหมายดังกล่าวมีสถานะเปราะบาง 5 หน่วย
+    เมื่อจบฉาก ความทนทานดังกล่าวจะเปลี่ยนเป็น "ร้ายแรง" ตลอดทั้งองก์</Desc>
   </PassiveDesc>
 
   <!-- 검계 -->
   <PassiveDesc ID="243003">
     <Name>เพลงดาบจากบ้านเกิด</Name>
-    <Desc>Slash Dice Power +2</Desc>
+    <Desc>เพิ่มพลังลูกเต๋าประเภทการฟัน +2</Desc>
   </PassiveDesc>
 
   <!--매우 강한 1급 해결사-->
   <PassiveDesc ID="243005">
     <Name>ตอกสลักลงแผล</Name>
-    <Desc>Offensive dice on the first Combat Page the character uses each Scene gain an additional effect: ‘[On Hit] Inflict 2 Bleed’</Desc>
+    <Desc>ลูกเต๋าประเภทป้องกันโจมตีลูกแรกที่ใช้ในแต่ละฉาก
+    ได้รับความสามารถ
+    [เมื่อโจมตี] มอบสถานะเลือดไหล 2 หน่วย</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="243105">
     <Name>ทนทายาด</Name>
-    <Desc>At Emotion Level 1 or above, gain 1 Protection and Stagger Protection at the start of the Scene. The amount increases to 2 at Emotion Level 3, and 3 at Emotion Level 5.</Desc>
+    <Desc>ที่ระดับอารมณ์ 1 เมื่อเริ่มต้นในแต่ละฉาก จะได้รับ 1 เกราะและ เกราะ Stagger
+    ปริมาณที่ได้รับจะเพิ่มเป็น 2 หากระดับอารมณ์เพิ่มเป็น 3
+    และเพิ่มเป็น 3 หากระดับอารมณ์เพิ่มเป็น 5.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="243205">
     <Name>ฉีกแผลสะบั้น</Name>
-    <Desc>Deal +3 damage against enemies with Bleed.</Desc>
+    <Desc>หากเป้าหมายดังกล่าวติดเลือดไหลอยู่ ทำดาเมจเพิ่ม +3 ดาเมจ</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250001">
     <Name>อารมณ์ร้อน</Name>
-    <Desc>Offensive dice gain +1 Power at Emotion Level 3 or above</Desc>
+    <Desc>ที่ระดับอารมณ์ 3 หรือสูงกว่า ลูกเต๋าประเภทโจมตีได้รับพลัง +1</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250002">
     <Name>นักรบสู้ไม่มีถอย</Name> <!-- 로웰, 臨戰無退 -->
-    <Desc>Whenever the Emotion Level rises, gain 1 Strength and Endurance</Desc>
+    <Desc>เมื่อระดับอารมณ์เพิ่มขึ้น ได้รับกำลังและอึดทนอย่างละ 1 หน่วย</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250003">
     <Name>ทึกทนดั่งภูภา</Name> <!-- 세실, 安如泰山 -->
-    <Desc>Whenever the Emotion Level rises, recover 15% of Max HP(Max. 20)</Desc>
+    <Desc>เมื่อระดับอารมณ์เพิ่มขึ้น ฟื้นฟู HP 15% ของ HP สูงสุด (สูงสุด 20)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250004">
     <Name>ตื่นตัวแม้นยามสงบ</Name> <!-- 메이, 安不忘危 -->
-    <Desc>Whenever the Emotion Level rises, recover 25% of Max Stagger Resist unless the character is staggered</Desc>
+    <Desc>เมื่อระดับอารมณ์เพิ่มขึ้น ฟื้นฟู 25% ของ Stagger Resist ทั้งหมด ไม่มีผลหากตัวละคร Staggered อยู่</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250005">
     <Name>คลังกระสุน</Name> <!-- 총 쓰는 엄지들 공용 -->
-    <Desc>After every three successful attacks with Melee Combat Pages, add a random Ammunition to hand.</Desc>
+    <Desc>เมื่อโจมตีสำเร็จ 3 ครั้งด้วย Page ประเภทระยะประชิด เพิ่ม Page กระสุนเข้าสู่มือแบบสุ่ม</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250006">
     <Name>บัญชาของหัวหน้า</Name> <!-- 칼로 -->
-    <Desc>At the start of the Scene, give 1 Protection to 2 random allies.</Desc>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก มอบอึดทน 1 หน่วยให้กับเพื่อนร่วมทีม 2 คนแบบสุ่ม</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250106">
     <Name>หัวแข็งกว่าถึงสามเท่า</Name> <!-- 칼로 -->
-    <Desc>Every third Offensive die gains +1 Power. Starting with the fourth Scene, all Offensive dice gain +1 Power instead.</Desc>
+    <Desc>ลูกเต๋าประเภทโจมตีทุกๆ 3 ลูก จะได้รับพลัง +1
+    ตั้งแต่ฉากที่ 4 เป็นต้นไป ลูกเต๋าประเภทโจมตีทั้งหมดได้รับพลัง +1 แทน</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250007">
     <Name>จิตแกร่ง</Name> <!-- 보리스 -->
-    <Desc>Reduce incoming damage and Stagger damage by 1 (Including damage from non-attacks)</Desc>
+    <Desc>ลดดาเมจและดาเมจ Stagger ที่ได้รับทั้งหมดลง 1 (รวมถึงดาเมจที่ไม่ได้มาจากการโจมตีเช่นกัน)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250008">
     <Name>เสริมพลังนัดแรก</Name> <!-- 카트리엘 -->
-    <Desc>When playing a Ranged Combat Page, its first Offensive die gains +1 Power.</Desc>
+    <Desc>เมื่อใช้ Page ประเภทระยะไกล ลูกเต๋าประเภทโจมตีลูกแรกได้รับพลัง +1</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250009">
     <Name>คลังเสบียงเพิ่มเติม</Name> <!-- 데니스 -->
-    <Desc>Every time the character exhausts 3 Ammunition, add a random Ammunition to hand at the end of the Scene.</Desc>
+    <Desc>ทุกครั้งที่สลาย Page กระสุน 3 ครั้ง
+    เมื่อจบฉากเพิ่ม Page กระสุนเข้าสู่มือแบบสุ่ม</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250010">
     <Name>ฟื้นชีวิตฉุกเฉินระบบโปรโตคอล</Name>
-    <Desc>Upon taking what would be a lethal blow, nullify the damage and spend all Charge to recover 5 HP per stack (Activates once per Act)</Desc>
+    <Desc>เมื่อรับดาเมจถึงตาย ยกเลิกดาเมจดังกล่าว และจ่ายชาร์จทั้งหมดและฟื้นฟู 5 HP ต่อจำนวนชาร์จที่เสียไป (1 ครั้งต่อองก์)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250011">
     <Name>สนามพลัง</Name>
-    <Desc>After spending Charge using a Combat Page, gain 1 Protection next Scene.</Desc>
+    <Desc>เมื่อมีการจ่ายชาร์จโดย Combat Page ในฉากถัดไปจะได้รับเกราะ 1 หน่วย</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250012">
     <Name>มือขวาผู้ใจใหญ่</Name>
-    <Desc>Deal 1-2 Stagger damage to the opponent upon winning a clash.</Desc>
+    <Desc>เมื่อชนะการปะทะ ทำดาเมจ Stagger 1-2 ดาเมจใส่เป้าหมาย</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250110">
     <Name>โล่ประจุ</Name> <!-- 지팡이 공용1 -->
-    <Desc>At Emotion Level 2 or above, if the character gained Charge using Combat Pages in the previous Scene, gain 1 Endurance at the start of the Scene.</Desc>
+    <Desc>ที่ระดับอารมณ์ 2 หรือสูงกว่า หากมีการได้รับชาร์จโดย Combat Page ในฉากที่แล้ว 
+    เมื่อเริ่มต้นฉากจะได้รับอึดทน 1 หน่วย</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250210">
     <Name>ปลดปล่อยพลังงาน</Name> <!-- 지팡이 공용2-->
-    <Desc>At Emotion Level 2 or above, if the character spent Charge using Combat Pages in the previous Scene, gain 1 Strength at the start of the Scene.</Desc>
+    <Desc>ที่ระดับอารมณ์ 2 หรือสูงกว่า หากมีการจ่ายชาร์จโดย Combat Page ในฉากที่แล้ว
+    เมื่อเริ่มต้นฉากจะได้รับกำลัง 1 หน่วย</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="250013">
@@ -917,19 +932,19 @@ Instead, one of the Children plays a page with a die carrying the following effe
   </PassiveDesc>
   <PassiveDesc ID="250113">
     <Name>เสียงกังวาลสีคราม</Name>
-    <Desc>Take no damage from Ranged Combat Pages.</Desc>
+    <Desc>จะไม่รับดาเมจจาก Combat Page ประเภทระยะไกล</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250014">
     <Name>เครื่องยนต์สันดาปภายใน</Name>
-    <Desc>When gaining Smoke using Combat Pages, gain +1 additional stack.</Desc>
+    <Desc>เมื่อได้รับควันโดยการใช้ Combat Page ได้รับเพิ่มอีก +1 หน่วย</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250114">
     <Name>ฟันเฟืองเนื้อ</Name>
-    <Desc>The first Offensive die of each Combat Page deals +2-3 damage.</Desc>
+    <Desc>ลูกเต๋าประเภทโจมตีลูกแรกจะทำดาเมจเพิ่ม +2-3 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250214">
     <Name>ฟันเฟืองความคิด</Name>
-    <Desc>Evade Dice Power +1</Desc>
+    <Desc>เพิ่มพลังลูกเต๋าประเภทการหลบหลีก +1</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="150015">
