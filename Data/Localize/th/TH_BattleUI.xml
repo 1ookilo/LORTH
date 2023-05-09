@@ -2,9 +2,9 @@
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <text id="BattleUI_StartBattle_Act">ฉากที่ {0}</text>
   <text id="BattleUI_StartBattle_WaveInfo">องค์ที่ {0}</text>
-  <text id="BattleUI_Victory_Floor">องค์ที่ {1}ได้จบลงที่ {0}</text>
+  <text id="BattleUI_Victory_Floor">องค์ที่ {1} สิ้นสุด ณ {0}</text>
   <text id="BattleUI_Victory_Final">สู่บทสรุปของการต้อนรับ {0}</text>
-  <text id="BattleUI_Defeat_Floor">องค์ {1} สั่งคัทที่ {0}</text>
+  <text id="BattleUI_Defeat_Floor">องค์ที่ {1} สั่งคัทที่ {0}</text>
   <text id="BattleUI_Defeat_Final">การต้อนรับ {0} สิ้นสุด</text>
   <text id="BattleUI_HideCard">ซ่อน</text>
   <text id="BattleUI_ShowCard">แสดง</text>

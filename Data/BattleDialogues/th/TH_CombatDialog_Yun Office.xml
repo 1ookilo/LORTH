@@ -3,27 +3,27 @@
   <GroupName>Yun Office</GroupName>
   <Character ID="Finn">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">I’ll beat these guys and prove myself to the operator.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">I still have much to learn as a Grade 9 Fixer, but I hope to have a good fight nonetheless.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">I’m afraid… But I wanna win.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ผมจะเอาชนะพวกมัน แล้วเอาไปบอกนายหน้า</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ผมยังต้องเรียนรู้อีกมากในฐานะฟิกเซอร์เกรด 9 แต่ผมก็ขอให้นี่เป็นการสู้ที่ดี</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ผมกลัว... เเต่ผมก็อยากชนะ</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Did I really win…? I made it! See, I can do it if I try.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">I can’t wait to see the surprised look on operator’s face!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">นี่ผมชนะจริงเหรอ...? สำเร็จ! เห็นมั้ย ผมทำได้ถ้าผมลองทำจริงๆ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">ผมรอที่จะเห็นสีหน้าที่ตกใจของนายหน้าไม่ได้เเล้ว!</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I… I didn’t want to die like this…</BattleDialog>
-      <BattleDialog ID="DEATH_1">I just managed to become a Grade 9, too…</BattleDialog>
+      <BattleDialog ID="DEATH_0">ผม... ผมไม่อยากตายเเบบนี้...</BattleDialog>
+      <BattleDialog ID="DEATH_1">ทั้งๆที่ผมพึ่งจะได้เป็นฟิกเซอร์เกรด 9...</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">I-is it really okay to… keep going at this point…?</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">This… can’t be. It seems like we’re being overwhlemed… slowly…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">My legs are quivering… What should I do? What am I supposed to…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">มันจะไม่เป็นไรเหรอ... ที่ยังต้องก้าวต่อไป...?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">เป็น... ไปไม่ได้ นี่มันเหมือนเรากำลังถูกคว่ำโดยพวกมัน...ช้าๆ...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">ขาผมมันกำลังสั่น... ผมต้องทำอะไร? ผมจะสามารถทำอะไรได้...</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">I did it! I did it on my own!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Sorry…! But I have to win here.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">We’re off to a good start! Let’s keep up the pace.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">สำเร็จ! ผมทำมันด้วยตัวผมเอง!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ขอโทษ...!เเต่ฉันจะต้องชนะที่นี่!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">เป็นการเริ่มที่ดี! เราต้องคงสติเอาไว้</BattleDialog>
     </Type>
   </Character>
   <Character ID="Yun">

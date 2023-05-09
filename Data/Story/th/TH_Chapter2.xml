@@ -290,234 +290,234 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: Pierre’s Bistro</PlaceName>
+        <PlaceName>สถานที่: ปิแอร์โภชนา</PlaceName>
         <Dialog ID="0" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre1</VoiceFile>
-          <Content>Nope, not this, that won’t do either… I can’t seem to find the one that strikes me with inspiration!</Content>
+          <Content>ไม่, อันนี้ไม่ใช่, นั่นก็ไม่ได้เหมือนกัน… ฉันหาอันที่ทำให้ดลใจฉันไม่ได้เลย!</Content>
         </Dialog>
         <Dialog ID="1" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack1</VoiceFile>
-          <Content>Hey there, Pierre~ Brought you some fresh ones this time.</Content>
+          <Content>ว่าไง, ปิแอร์~ คราวนี้ได้ของสดมาด้วยล่ะ</Content>
         </Dialog>
         <Dialog ID="2" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack2</VoiceFile>
-          <Content>They got bruised a bit too hard, but they’re still breathing.</Content>
+          <Content>ถึงพวกนี้จะซ้ำไปหน่อยก็เถอะ, แต่ก็ยังหายใจอยู่</Content>
         </Dialog>
         <Dialog ID="3" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack3</VoiceFile>
-          <Content>What, busy developing a new dish?</Content>
+          <Content>อะไรกัน, ยุ่งกับการทำอาหารสูตรใหม่อยู่เหรอ?</Content>
         </Dialog>
         <Dialog ID="4" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre2</VoiceFile>
-          <Content>Welcome, Jack~!</Content>
+          <Content>ขอต้อนรับ, แจ็ค~!</Content>
         </Dialog>
         <Dialog ID="5" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre3</VoiceFile>
-          <Content>Dishes are one thing, but we’re running way too short on ingredients these days.</Content>
+          <Content>เรื่องสูตรก็อย่างนึง, แต่ช่วงนี้เราขาดวัตถุดิบนานไปแล้ว</Content>
         </Dialog>
         <Dialog ID="6" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre4</VoiceFile>
-          <Content>Luckily I have my reliable friend Jack here, so I won’t have to worry about that for a while.</Content>
+          <Content>โชคดีที่ฉันมีเพื่อนแจ็คอันแสนพึ่งได้คนนี้, ฉันเลยไม่ต้องห่วงเรื่องนั้นไปสักพักเลย</Content>
         </Dialog>
         <Dialog ID="7" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack4</VoiceFile>
-          <Content>What happened?</Content>
+          <Content>เกิดอะไรขึ้น?</Content>
         </Dialog>
         <Dialog ID="8" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre5</VoiceFile>
-          <Content>‘The Musicians of Bremen’ say they’re no longer selling ingredients to us.</Content>
+          <Content>‘นักดนตรีแห่งเบรเมน’ บอกว่าจะไม่ขายวัตถุดิบให้เราแล้วน่ะสิ</Content>
         </Dialog>
         <Dialog ID="9" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack5</VoiceFile>
-          <Content>Those freaks were always unpredictable.</Content>
+          <Content>ตัวประหลาดพวกนั้นมันคาดเดาไม่ได้เสมอแหละ</Content>
         </Dialog>
         <Dialog ID="10" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack6</VoiceFile>
-          <Content>What about ‘Little Piggy's’, then?</Content>
+          <Content>แล้ว ‘ลิตเติล พิกกี้’ ล่ะ?</Content>
         </Dialog>
         <Dialog ID="11" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre6</VoiceFile>
-          <Content>Same deal, stopped trading with us… </Content>
+          <Content>เหมือนกัน หยุดขายให้เราแล้ว… </Content>
         </Dialog>
         <Dialog ID="12" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre7</VoiceFile>
-          <Content>We’ll have to do this the old way. You and I, together.</Content>
+          <Content>เราต้องทำแบบเมื่อก่อนแล้ว เธอกับฉันด้วยกัน</Content>
         </Dialog>
         <Dialog ID="13" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack7</VoiceFile>
-          <Content>I’d love to, but we can’t go to our usual spot anymore.</Content>
+          <Content>ก็อยากอยู่นะ แต่เราไปจุดประจำไม่ได้แล้ว</Content>
         </Dialog>
         <Dialog ID="14" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack8</VoiceFile>
-          <Content>The, uhh… ‘Zwei Association’ is safeguarding that area now.</Content>
+          <Content>พวก, เอ่อ… ‘สมาพันธ์ซไวล์’ กำลังเฝ้าระวังแถวนั้นแล้ว</Content>
         </Dialog>
         <Dialog ID="15" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre8</VoiceFile>
-          <Content>Then we should pioneer new supply chains!</Content>
+          <Content>งั้นเราก็ควรหาเส้นทางจัดส่งใหม่สิ!</Content>
         </Dialog>
         <Dialog ID="16" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre9</VoiceFile>
-          <Content>While we’re at it, I want to be more experimental with new ingredients. I’ve been using only young ones for far too long.</Content>
+          <Content>และในระหว่างนั้นนะ ฉันอยากจะทดลองกับวัตถุดิบใหม่ด้วย ฉันใช้แต่พวกอายุอ่อนนานเกินไปแล้ว</Content>
         </Dialog>
         <Dialog ID="17" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack9</VoiceFile>
-          <Content>Aw, that’s unfortunate… I’ll miss the pasty hand pies that you make…</Content>
+          <Content>อ่า, น่าเสียดายแฮะ… ฉันคงคิดถึงพายมือเหนียวแน่นที่เธอทำแน่…</Content>
         </Dialog>
         <Dialog ID="18" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre10</VoiceFile>
-          <Content>You’ll have to deal with it, unfortunate as it is. Since we’ve lost several vendors that used to provide quality meat for us, sticking to conventional dishes won’t cut it. Gourmets will surely notice the drop in the quality of our ingredients.</Content>
+          <Content>ถึงจะเสียดาย แต่นายต้องทนไปก่อนนะ เพราะเราเสียคนขายที่เคยส่งออกเนื้อคุณภาพให้เรา, ใช้สูตรตามปกติไม่ได้แน่ พวกนักชิมรู้แน่ว่าคุณภาพวัตถุดิบเราลดลง</Content>
         </Dialog>
         <Dialog ID="19" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack10</VoiceFile>
-          <Content>You were aiming to become one of ‘The Eight Chefs’, right, Pierre?</Content>
+          <Content>เธอตั้งใจที่จะเป็นหนึ่งใน ‘เหล่าแปดเชฟ’ ใช่ไหม ปิแอร์?</Content>
         </Dialog>
         <Dialog ID="20" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre11</VoiceFile>
-          <Content>That’s right! The Eight Chefs are the brightest of the Stars of the City that shine over us.</Content>
+          <Content>ใช้แล้ว! เหล่าแปดเชฟนั้นเป็นดาวประจำเมืองที่ส่องเหนือเราที่สว่างที่สุด</Content>
         </Dialog>
         <Dialog ID="21" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre12</VoiceFile>
-          <Content>They never fail to present us with stunning and sensational flavors.</Content>
+          <Content>พวกเขาไม่เคยล้มเหลวที่จะนำเสนอเราด้วยรสชาติที่ทั้งตื่นตาและตื่นใจ</Content>
         </Dialog>
         <Dialog ID="22" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack11</VoiceFile>
-          <Content>What kind of new ingredients are you looking for?</Content>
+          <Content>เธอกำลังหาวัตถุดิบใหม่แบบไหนล่ะ?</Content>
         </Dialog>
         <Dialog ID="23" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack12</VoiceFile>
-          <Content>Aged ones should be easier to get, though their meat tends to be squishy. It’s not everyone’s favorite, but some like it.</Content>
+          <Content>พวกแก่ๆ น่าจะหาง่าย แต่เนื้อพวกนั้นเปื่อยยุ่ยไปหน่อย มันไม่ใช่ของโปรดทุกคน แต่ก็มีคนชอบอยู่</Content>
         </Dialog>
         <Dialog ID="24" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre13</VoiceFile>
-          <Content>I’m not looking for a compromise. I want a taste that differentiates us from other restaurants.</Content>
+          <Content>ฉันไม่ได้จะหาการประนีประนอม ฉันต้องการรสชาติที่ทำให้เราต่างจากร้านอื่นๆ</Content>
         </Dialog>
         <Dialog ID="25" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre14</VoiceFile>
-          <Content>Ever heard of the Library? I heard monsters live there.</Content>
+          <Content>เคยได้ยินเรื่องหอสมุดใหม? ฉันได้ยินว่ามีสัตว์ประหลาดอยู่ที่นั่น</Content>
         </Dialog>
         <Dialog ID="26" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre15</VoiceFile>
-          <Content>It may still be an Urban Myth, but monster meat is usually hard to get unless we travel all the way to the Outskirts.</Content>
+          <Content>มันอาจจะยังเป็นเรื่องเล่าประจำเมือง แต่เนื้อสัตว์ประหลาดปกติก็หายากเว้นแต่จะออกไปหาเอาที่แถบชานเมือง</Content>
         </Dialog>
         <Dialog ID="27" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack13</VoiceFile>
-          <Content>Oho… Now that’s promising…</Content>
+          <Content>โอโห… น่าสนใจแฮะ…</Content>
         </Dialog>
         <Dialog ID="28" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre16</VoiceFile>
-          <Content>Isn’t it? I got an invitation from that library some time ago, see?</Content>
+          <Content>ใช่ไหมล่ะ? ฉันได้บัตรเชิญจากหอสมุดไม่นานมานี้เอง เห็นมะ?</Content>
         </Dialog>
         <Dialog ID="29" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre17</VoiceFile>
-          <Content>I’ll surprise the gourmets with a dish that’s so stimulating and novel, it could even rival the Eight Chefs themselves.</Content>
+          <Content>ฉันจะทำให้พวกนักชิมประหลาดใจด้วยอาหารที่ทั้งกระตุ้นและแปลกใหม่ อาจแม้แต่เทียบได้กับพวกแปดเชฟได้เลย</Content>
         </Dialog>
         <Dialog ID="30" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre18</VoiceFile>
-          <Content>So, Jack, you can just count on me and follow my lead, understand?</Content>
+          <Content>ถ้างั้น แจ็ค นายแค่เชื่อใจฉันแล้วตามฉันไว้ เข้าใจนะ?</Content>
         </Dialog>
         <Dialog ID="31" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack14</VoiceFile>
-          <Content>What are we gonna do with the ingredients I brought today then?</Content>
+          <Content>แล้วเราจะทำไงกับวัตถุดิบที่ฉันขนมาล่ะ?</Content>
         </Dialog>
         <Dialog ID="32" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre19</VoiceFile>
-          <Content>Ah, let’s turn them into jam.</Content>
+          <Content>อ่า, งั้นเปลื่ยนมันเป็นแยมแล้วกัน</Content>
         </Dialog>
         <Dialog ID="33" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre20</VoiceFile>
-          <Content>We’re bottling them alive, so put ‘em on drips of anesthetics and repressors and store ‘em in the kneader.</Content>
+          <Content>เราจะเอามันใส่ขวดทั้งเป็น ฉะนั้นฉีดยาชากับยาระงับและเก็บไว้ในเครื่องนวดรอเลย</Content>
         </Dialog>
         <Dialog ID="34" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack15</VoiceFile>
-          <Content>Meat jam’s nice…</Content>
+          <Content>แยมเนื้อก็อร่อยดี…</Content>
         </Dialog>
         <Dialog ID="35" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre21</VoiceFile>
-          <Content>I knew you’d love it!</Content>
+          <Content>ฉันว่าแล้วว่าเธอต้องชอบ!</Content>
         </Dialog>
         <Dialog ID="36" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre22</VoiceFile>
-          <Content>Oh, and as I said before, you have to put ‘em legs first, not headfirst. We gotta keep them alive as long as possible, you know.</Content>
+          <Content>อ้อ และอย่างที่ฉันพูดไปเมื่อกี้ นายต้องใส่จากขาก่อน ไม่ใช่หัวก่อน เราต้องให้มันมีชีวิตให้นานเท่าที่ทำได้ เข้าใจนะ</Content>
         </Dialog>
         <Dialog ID="37" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre23</VoiceFile>
-          <Content>It’s not as flavorful if they die too quickly.</Content>
+          <Content>มันจะไม่หอมกรุ่นเท่าถ้าพวกนั้นตายเร็วเกินไป</Content>
         </Dialog>
       </Place>
       <Place>
@@ -526,190 +526,190 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela1</VoiceFile>
-          <Content>Cannibalism is a thing in the Backstreets it seems?</Content>
+          <Content>เหมือนว่าการกินเนื้อคนจะเป็นเรื่องประจำในแบ็คสตรีทสินะ?</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland1</VoiceFile>
-          <Content>There are quite a few perverted maniacs who are into that, yeah.</Content>
+          <Content>มันมีพวกโรคจิตที่ชอบแบบนั้นอยู่หรอก</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland2</VoiceFile>
-          <Content>But it’s kind of a taboo even in the Backstreets. You certainly can’t go around saying how tasty human meat is.</Content>
+          <Content>แต่มันก็เป็นเรื่องต้องห้ามถึงแม้จะเป็นในแบ็คสตรีทก็เถอะ คุณจะบอกไปทั่วว่าเนื้อคนอร่อยแค่ไหนไม่ได้แน่นอน</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland3</VoiceFile>
-          <Content>It’s actually the wealthy folk who consume human meat the most.</Content>
+          <Content>จริงแล้วพวกคนรวยต่างหากที่กินเนื้อมนุษย์มากสุดน่ะ</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland4</VoiceFile>
-          <Content>However… The Backstreets of District 23 are an exception.</Content>
+          <Content>อย่างไรก็ตาม… แบ็คสตรีทของเขต 23 นั้นเป็นข้อยกเว้น</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland5</VoiceFile>
-          <Content>People there only care about pursuing the ultimate flavor, and will do anything for it.</Content>
+          <Content>คนที่นั่นสนแต่การหาสุดยอดรสชาติ และยอมทำทุกอย่างเพื่อมัน</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela2</VoiceFile>
-          <Content>Each part of the Backstreets seems to have its own set of characteristics.</Content>
+          <Content>เหมือนว่าแต่ละส่วนของแบ็คสตรีทก็มีลักษณะเฉพาะของตัวเองอยู่สินะ</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland6</VoiceFile>
-          <Content>It mostly depends on the policies set by the Nest and the Wing.</Content>
+          <Content>ก็ขึ้นกับนโยบายที่ตั้งไว้โดยกลุ่มรังและเหล่าปีก</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland7</VoiceFile>
-          <Content>Though most of the Backstreets are being neglected anyway.</Content>
+          <Content>ถึงแม้ว่าแบ็คสตรีทส่วนใหญ่จะโดนปล่อยละเลยก็เถอะ</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela3</VoiceFile>
-          <Content>Is human meat particularly delicious or anything?</Content>
+          <Content>เนื้อมนุษย์มันอร่อยขนาดนั้นเลยเหรอ?</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland8</VoiceFile>
-          <Content>Heck if I know. Never tried, never wanna.</Content>
+          <Content>ผมจะไปรู้เหรอ ไม่เคยลอง และไม่อยากด้วย</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland9</VoiceFile>
-          <Content>Those guys are kidnapping ordinary people and cooking them right after.</Content>
+          <Content>พวกนี้เป็นพวกลักพาคนปกติแล้วจับทำอาหารทันที</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland10</VoiceFile>
-          <Content>Gourmets seem to think that such cruelty only adds to the flavor…</Content>
+          <Content>เหมือนว่าพวกนักชิมจะคิดว่าความโหดร้ายแบบนั้นมันช่วยเพิ่มรสชาติน่ะสิ…</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland11</VoiceFile>
-          <Content>Even worse, they believe cooking people alive and making them suffer as much as possible is key to perfecting taste.</Content>
+          <Content>แย่ไปกว่านั้นคือ พวกนั้นเชื่อว่าการเอาคนมาทำอาหารทั้งเป็นและทำให้ทรมานให้หนักที่สุดเป็นส่วนสำคัญในการทำให้รสชาติสมบูรณ์ด้วย</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela4</VoiceFile>
-          <Content>Humans eating humans. What a sight to behold.</Content>
+          <Content>มนุษย์กินมนุษย์ ชางน่าตื่นตาจริงๆ</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="53" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre24</VoiceFile>
-          <Content>Mmm~ This is a brand new smell.</Content>
+          <Content>อืม~ ได้กลิ่นใหม่จากนี่ด้วยล่ะ</Content>
         </Dialog>
         <Dialog ID="54" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack16</VoiceFile>
-          <Content>I don’t think I like this scent.</Content>
+          <Content>ฉันไม่คิดว่าฉันชอบกลิ่นนี่นะ</Content>
         </Dialog>
         <Dialog ID="55" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre25</VoiceFile>
-          <Content>Now, Jack, it’s unfamiliarity like this that brings forth new ideas, you see?</Content>
+          <Content>เอาน่า แจ็ค ความไม่คุ้นเคยแบบเนี้ยแหละที่นำไอเดียใหม่ๆมา รู้เปล่า?</Content>
         </Dialog>
         <Dialog ID="56" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack17</VoiceFile>
-          <Content>If you say so.</Content>
+          <Content>ถ้าเธอว่างั้นนะ</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela5</VoiceFile>
-          <Content>Greetings, dear guests.</Content>
+          <Content>สวัสดีค่ะ แขกทุกท่าน</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela6</VoiceFile>
-          <Content>I am แองเจล่า, the director and librarian of my role’s namesake.</Content>
+          <Content>ดิฉันแองเจล่า เป็นบรรณารักษ์และผู้ดูแลที่แห่งนี้</Content>
         </Dialog>
         <Dialog ID="59" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre26</VoiceFile>
-          <Content>Woooooow~ What a wonderful-looking ingredient, with such a glossy appearance…</Content>
+          <Content>ว้าว~ เป็นวัตถุดิบที่ดูดีเหลือเกิน รูปร่างมันเงามากเลย…</Content>
         </Dialog>
         <Dialog ID="60" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack18</VoiceFile>
-          <Content>She certainly looks like a fresh, top-grade ingredient on the outside, but… Pierre?</Content>
+          <Content>ภายนอกเธอก็ดูเหมือนวัตถุดิบระดับสูงสดใหม่อยู่นะ แต่ว่านะ… ปิแอร์?</Content>
         </Dialog>
         <Dialog ID="61" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre27</VoiceFile>
-          <Content>Yeah, I know. She’s unfortunately not a human.</Content>
+          <Content>เออ ฉันรู้ น่าเสียดายที่เธอไม่ใช่มนุษย์</Content>
         </Dialog>
         <Dialog ID="62" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre28</VoiceFile>
-          <Content>But! That’s why I’m even more excited. How do you taste?</Content>
+          <Content>แต่ว่า! นั่นก็ทำให้ฉันตื่่นเต้นยิ่งกว่าเดิมอีก เธอมีรสชาติยังไงกัน?</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela7</VoiceFile>
-          <Content>I’m afraid you cannot do any harm to me.</Content>
+          <Content>ดิฉันเกรงว่าเธอทำร้ายฉันไม่ได้</Content>
         </Dialog>
         <Dialog ID="64" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack19</VoiceFile>
-          <Content>We never know until we try.</Content>
+          <Content>ไม่ลองก็ไม่รู้นะ</Content>
         </Dialog>
         <Dialog ID="65" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre29</VoiceFile>
-          <Content>Stay calm, Jack. We should keep our manners. She’s the wonderful individual who’s invited us here, you see?</Content>
+          <Content>เย็นไว้ก่อน แจ็ค เราควรรักษามารยาทไว้สิ เธอคนนี้เป็นคนแสนวิเศษที่เชิญเรามานะ รู้เปล่า?</Content>
         </Dialog>
         <Dialog ID="66" Model="잭">
-          <Teller>Jack</Teller>
-          <Title>Pierre’s Sous-chef</Title>
+          <Teller>แจ็ค</Teller>
+          <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack20</VoiceFile>
-          <Content>Oh, yeah… I apologize for my rudeness, ma’am.</Content>
+          <Content>อ้อ ใช่… ผมขอโทษที่เสียมารยาทครับ คุณผู้หญิง</Content>
         </Dialog>
         <Dialog ID="67" Model="피에르">
-          <Teller>Pierre</Teller>
-          <Title>Chef de Cuisine</Title>
+          <Teller>ปิแอร์</Teller>
+          <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre30</VoiceFile>
-          <Content>Now then, Miss แองเจล่า? May we enter now?</Content>
+          <Content>เอาล่ะ คุณแองเจล่า? เราจะเข้าไปได้ยัง?</Content>
         </Dialog>
         <Dialog ID="68" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela8</VoiceFile>
-          <Content>May you find your book in this place.</Content>
+          <Content>ขอให้คุณพบหนังสือที่ต้องการ ณ ที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -721,55 +721,55 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland12</VoiceFile>
-          <Content>Ugh, what a bunch of nutcases. It’s best not to interact with the likes of them.</Content>
+          <Content>เฮ้อ เป้นพวกโรคจิตแท้เหลา จะเป็นการดีมากถ้าไม่ไปคุยกับพวกนั้นอีก</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela9</VoiceFile>
-          <Content>At least they were more well-mannered than you.</Content>
+          <Content>อย่างน้อยพวกเขาก็มารยาทดีกว่าเธอแล้วกัน</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland13</VoiceFile>
-          <Content>Well here’s a word of wisdom for our still naive Miss Librarian!</Content>
+          <Content>งั้นผมขอแนะนำอะไรแก่คุณบรรณารักษ์อันไร้เดียงสาสักข้อแล้วกัน!</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland14</VoiceFile>
-          <Content>If you meet a polite and well-mannered person in the Backstreets, run for your life.</Content>
+          <Content>ถ้าคุณเจอคนสุภาพและมารยาทดีในแบ็คสตรีท วิ่งหนีไปซะ</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland15</VoiceFile>
-          <Content>Not all lunatics are polite, but polite people tend to be lunatics. </Content>
+          <Content>พวกวิกลจริตทุกคนนั้นไม่สุภาพ แต่พวกสุภาพมักจะเป็นพวกวิกลจริต </Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela10</VoiceFile>
-          <Content>I’m not sure if that has anything to do with politeness.</Content>
+          <Content>ฉันไม่แน่ใจว่ามันเกี่ยวอะไรกับความสุภาพด้วย</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland16</VoiceFile>
-          <Content>And here’s another word of wisdom!</Content>
+          <Content>และผมขอแนะนำให้อีกข้อ!</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Pierre_ep1_roland17</VoiceFile>
-          <Content>Lunatics always exist in any given group of people, so there’s no point in using any criteria to divide people into groups to see which is more insane.</Content>
+          <Content>พวกวิกลจริตนั้นมีเสมอในคนทุกหมู่เหล่า ฉะนั้นจึงหาอะไรมาตัดสินแบ่งคนเป็นกลุ่มว่าใครนั้นบ้ากว่าไม่ได้</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Pierre_ep1_angela11</VoiceFile>
-          <Content>What a load of bull.</Content>
+          <Content>ไร้สาระสิ้นดี</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -1198,7 +1198,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela7</VoiceFile>
-          <Content>Greetings, dear guests. You seem to be well acquainted with each other.</Content>
+          <Content>สวัสดีค่ะ แขกทุกท่าน You seem to be well acquainted with each other.</Content>
         </Dialog>
         <Dialog ID="69" Model="마스">
           <Teller>Mars</Teller>
@@ -1222,7 +1222,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela9</VoiceFile>
-          <Content>I am แองเจล่า, the director and librarian of my role’s namesake.</Content>
+          <Content>ดิฉันแองเจล่าเป็นบรรณารักษ์และผู้ดูแลที่แห่งนี้</Content>
         </Dialog>
         <Dialog ID="73" Model="산">
           <Teller>San</Teller>
@@ -1264,7 +1264,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela12</VoiceFile>
-          <Content>May you find your book in this place.</Content>
+          <Content>ขอให้คุณพบหนังสือที่ต้องการ ณ ที่แห่งนี้</Content>
         </Dialog>
         <Dialog ID="80" Model="마스">
           <Teller>Mars</Teller>
@@ -1627,7 +1627,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela6</VoiceFile>
-          <Content>Sigh… May you find your book in this place.</Content>
+          <Content>Sigh… ขอให้คุณพบหนังสือที่ต้องการ ณ ที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>

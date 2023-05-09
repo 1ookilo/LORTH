@@ -1,175 +1,175 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<PassiveDesc ID="1">
-		<Name>เสริมพลังฟัน Ⅰ</Name>
+		<Name>เสริมพลังฟัน I</Name>
 		<Desc>มีโอกาส 25% เพิ่มดาเมจการฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2">
-		<Name>เสริมพลังแทง Ⅰ</Name>
+		<Name>เสริมพลังแทง I</Name>
 		<Desc>มีโอกาส 25% เพิ่มดาเมจการแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="3">
-		<Name>เสริมพลังทุบ Ⅰ</Name>
+		<Name>เสริมพลังทุบ I</Name>
 		<Desc>มีโอกาส 25% เพิ่มดาเมจการทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="4">
-		<Name>ฟันผ่าสติ Ⅰ</Name>
+		<Name>ฟันผ่าสติ I</Name>
 		<Desc>มีโอกาส 25% เพิ่มดาเมจ Stagger การฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="5">
-		<Name>แทงเข้าสติ Ⅰ</Name>
+		<Name>แทงเข้าสติ I</Name>
 		<Desc>มีโอกาส 25% เพิ่มดาเมจ Stagger การแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="6">
-		<Name>ทุบทลายสติ Ⅰ</Name>
+		<Name>ทุบทลายสติ I</Name>
 		<Desc>มีโอกาส 25% เพิ่มดาเมจ Stagger การทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="7">
-		<Name>การฟันอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Name>การฟันอย่างเชี่ยวชาญ I</Name>
 		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทการฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="8">
-		<Name>การแทงอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Name>การแทงอย่างเชี่ยวชาญ I</Name>
 		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทการแทง +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="9">
-		<Name>การทุบอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Name>การทุบอย่างเชี่ยวชาญ I</Name>
 		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทการทุบ +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="10">
-		<Name>การป้องกันอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Name>การป้องกันอย่างเชี่ยวชาญ I</Name>
 		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทป้องกัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="11">
-		<Name>การหลบอย่างเชี่ยวชาญ Ⅰ</Name>
+		<Name>การหลบอย่างเชี่ยวชาญ I</Name>
 		<Desc>มีโอกาส 10% เพิ่มพลังลูกเต๋าประเภทหลบหลีก +1</Desc>
 	</PassiveDesc>
   <PassiveDesc ID="12">
-    <Name>ทุบทำลายด้วยพลัง Ⅰ</Name>
+    <Name>ทุบทำลายด้วยพลัง I</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภททุบ มีโอกาส 35% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="13">
-    <Name>แทลงทะลุด้วยพลัง Ⅰ</Name>
+    <Name>แทลงทะลุด้วยพลัง I</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทแทง มีโอกาส 35% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="14">
-    <Name>ฟันผ่าด้วยพลัง Ⅰ</Name>
+    <Name>ฟันผ่าด้วยพลัง I</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทฟัน มีโอกาส 35% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
 
 
 
 	<PassiveDesc ID="1001">
-		<Name>เสริมพลังฟัน ⅠⅠ</Name>
+		<Name>เสริมพลังฟัน II</Name>
 		<Desc>มีโอกาส 30% เพิ่มดาเมจการฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1002">
-		<Name>เสริมพลังแทง ⅠⅠ</Name>
+		<Name>เสริมพลังแทง II</Name>
 		<Desc>มีโอกาส 30% เพิ่มดาเมจการแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1003">
-		<Name>เสริมพลังทุบ ⅠⅠ</Name>
+		<Name>เสริมพลังทุบ II</Name>
 		<Desc>มีโอกาส 30% เพิ่มดาเมจการทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1004">
-		<Name>ฟันผ่าสติ ⅠⅠ</Name>
+		<Name>ฟันผ่าสติ II</Name>
 		<Desc>มีโอกาส 30% เพิ่มดาเมจ Stagger การฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1005">
-		<Name>แทงเข้าสติ ⅠⅠ</Name>
+		<Name>แทงเข้าสติ II</Name>
 		<Desc>มีโอกาส 30% เพิ่มดาเมจ Stagger การแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1006">
-		<Name>ทุบทลายสติ ⅠⅠ</Name>
+		<Name>ทุบทลายสติ II</Name>
 		<Desc>มีโอกาส 30% เพิ่มดาเมจ Stagger การทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1007">
-		<Name>การฟันอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Name>การฟันอย่างเชี่ยวชาญ II</Name>
 		<Desc>มีโอกาส 12% เพิ่มพลังลูกเต๋าประเภทการฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1008">
-		<Name>การแทงอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Name>การแทงอย่างเชี่ยวชาญ II</Name>
 		<Desc>มีโอกาส 12% เพิ่มพลังลูกเต๋าประเภทการแทง +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1009">
-		<Name>การทุบอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Name>การทุบอย่างเชี่ยวชาญ II</Name>
 		<Desc>มีโอกาส 12% เพิ่มพลังลูกเต๋าประเภทการทุบ +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1010">
-		<Name>การป้องกันอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Name>การป้องกันอย่างเชี่ยวชาญ II</Name>
 		<Desc>มีโอกาส 24% เพิ่มพลังลูกเต๋าประเภทป้องกัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1011">
-		<Name>การหลบอย่างเชี่ยวชาญ ⅠⅠ</Name>
+		<Name>การหลบอย่างเชี่ยวชาญ II</Name>
 		<Desc>มีโอกาส 24% เพิ่มพลังลูกเต๋าประเภทหลบหลีก +1</Desc>
 	</PassiveDesc>
   <PassiveDesc ID="1012">
-    <Name>ทุบทำลายด้วยพลัง ⅠⅠ</Name>
+    <Name>ทุบทำลายด้วยพลัง II</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภททุบ มีโอกาส 45% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1013">
-    <Name>แทลงทะลุด้วยพลัง ⅠⅠ</Name>
+    <Name>แทลงทะลุด้วยพลัง II</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทแทง มีโอกาส 45% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1014">
-    <Name>ฟันผ่าด้วยพลัง ⅠⅠ</Name>
+    <Name>ฟันผ่าด้วยพลัง II</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทฟัน มีโอกาส 45% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   
 	<PassiveDesc ID="2001">
-		<Name>เสริมพลังฟัน ⅠⅠⅠ</Name>
+		<Name>เสริมพลังฟัน III</Name>
 		<Desc>มีโอกาส 35% เพิ่มดาเมจการฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2002">
-		<Name>เสริมพลังแทง ⅠⅠⅠ</Name>
+		<Name>เสริมพลังแทง III</Name>
 		<Desc>มีโอกาส 35% เพิ่มดาเมจการแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2003">
-		<Name>เสริมพลังทุบ ⅠⅠⅠ</Name>
+		<Name>เสริมพลังทุบ III</Name>
 		<Desc>มีโอกาส 35% เพิ่มดาเมจการทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2004">
-		<Name>ฟันผ่าสติ ⅠⅠⅠ</Name>
+		<Name>ฟันผ่าสติ III</Name>
 		<Desc>มีโอกาส 35% เพิ่มดาเมจ Stagger การฟัน +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2005">
-		<Name>แทงเข้าสติ ⅠⅠⅠ</Name>
+		<Name>แทงเข้าสติ III</Name>
 		<Desc>มีโอกาส 35% เพิ่มดาเมจ Stagger การแทง +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2006">
-		<Name>ทุบทลายสติ ⅠⅠⅠ</Name>
+		<Name>ทุบทลายสติ III</Name>
 		<Desc>มีโอกาส 35% เพิ่มดาเมจ Stagger การทุบ +1 ดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2007">
-		<Name>การฟันอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Name>การฟันอย่างเชี่ยวชาญ III</Name>
 		<Desc>มีโอกาส 14% เพิ่มพลังลูกเต๋าประเภทการฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2008">
-		<Name>การแทงอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Name>การแทงอย่างเชี่ยวชาญ III</Name>
 		<Desc>มีโอกาส 14% เพิ่มพลังลูกเต๋าประเภทการแทง +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2009">
-		<Name>การทุบอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Name>การทุบอย่างเชี่ยวชาญ III</Name>
 		<Desc>มีโอกาส 14% เพิ่มพลังลูกเต๋าประเภทการทุบ +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2010">
-		<Name>การป้องกันอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Name>การป้องกันอย่างเชี่ยวชาญ III</Name>
 		<Desc>มีโอกาส 28% เพิ่มพลังลูกเต๋าประเภทป้องกัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2011">
-		<Name>การหลบอย่างเชี่ยวชาญ ⅠⅠⅠ</Name>
+		<Name>การหลบอย่างเชี่ยวชาญ III</Name>
 		<Desc>มีโอกาส 28% เพิ่มพลังลูกเต๋าประเภทหลบหลีก +1</Desc>
 	</PassiveDesc>
   <PassiveDesc ID="2012">
-    <Name>ทุบทำลายด้วยพลัง ⅠⅠⅠ</Name>
+    <Name>ทุบทำลายด้วยพลัง III</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภททุบ มีโอกาส 60% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2013">
-    <Name>แทลงทะลุด้วยพลัง ⅠⅠⅠ</Name>
+    <Name>แทลงทะลุด้วยพลัง III</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทแทง มีโอกาส 60% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2014">
-    <Name>ฟันผ่าด้วยพลัง ⅠⅠⅠ</Name>
+    <Name>ฟันผ่าด้วยพลัง III</Name>
     <Desc>เมื่อชนะการปะทะด้วยลูกเต๋าประเภทฟัน มีโอกาส 60% ที่จะทำดาเมจโบนัส 1 ดาเมจ</Desc>
   </PassiveDesc>
 
@@ -199,7 +199,7 @@
     <Desc>สามารถใช้ Combat Page ประเภทระยะไกลได้</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10004">
-    <Name>ความเร็ว Ⅱ</Name>
+    <Name>ความเร็ว II</Name>
     <Desc>เต๋าความเร็วเพิ่มขึ้น 2 ช่อง (ทับซ้อนไม่ได้)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10005">
@@ -215,7 +215,7 @@
     <Desc>???</Desc>
   </PassiveDesc>
 	<PassiveDesc ID="10008">
-		<Name>ความเร็ว Ⅲ</Name>
+		<Name>ความเร็ว III</Name>
 		<Desc>เต๋าความเร็วเพิ่มขึ้น 1 ช่อง และจะได้รับเพิ่มอีก 1 ช่องเมื่อระดับอารมณ์อยู่ที่ 3 หรือสูงกว่า (ทับซ้อนไม่ได้)</Desc>
 	</PassiveDesc>
   
@@ -292,11 +292,11 @@
     <Desc>เมื่อชนะการปะทะ มีโอกาส 25% เพิ่มค่าสูงสุดของลูกเต๋าถัดไป +3</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220002">
-		<Name>นักดาบ Zwei Ⅰ</Name>
+		<Name>นักดาบ Zwei I</Name>
 		<Desc>ดาเมจการฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221003">
-		<Name>นักดาบ Zwei Ⅱ</Name>
+		<Name>นักดาบ Zwei II</Name>
 		<Desc>ดาเมจ Stagger การฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220004">
@@ -308,7 +308,7 @@
 		<Desc>ดาเมจ Stagger การฟัน +1</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221004">
-		<Name>นักดาบ Zwei Ⅲ</Name>
+		<Name>นักดาบ Zwei III</Name>
 		<Desc>ดาเมจการแทง +2</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220006">
@@ -317,15 +317,15 @@
 	</PassiveDesc>
 	<PassiveDesc ID="220005">
 		<Name>ทางเลือกที่ดีที่สุด</Name>
-		<Desc>ฟื้นฟู 3 HP เมื่อมีการทิ้งการ์ด</Desc>
+		<Desc>ฟื้นฟู 3 HP เมื่อมีการทิ้ง Page </Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220007">
 		<Name>ในเวลาเช่นนี้!</Name>
-		<Desc>เมื่อจบฉาก และในมือมีการ์ด 3 ใบหรือน้อยกว่า จะได้รับ 1 กำลังในฉากถัดไป</Desc>
+		<Desc>เมื่อจบฉาก และในมือมี Page  3 ใบหรือน้อยกว่า จะได้รับ 1 กำลังในฉากถัดไป</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220008">
 		<Name>พักฟื้น</Name>
-		<Desc>ฟื้นฟูแสงเพิ่ม 1 หากไม่ได้ใช้การ์ดใดๆเลยในฉากก่อนหน้า</Desc>
+		<Desc>ฟื้นฟูแสงเพิ่ม 1 หากไม่ได้ใช้ Page ใดๆเลยในฉากก่อนหน้า</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220010">
 		<Name>หายใจลึกๆ</Name>
@@ -388,7 +388,7 @@
 
   <PassiveDesc ID="230007">
     <Name>ผู้พิทักษ์</Name>
-    <Desc>เมื่อเริ่มองค์ เพื่อนร่วมทีมได้รับ 2 เกราะ</Desc>
+    <Desc>เมื่อเริ่มองก์ เพื่อนร่วมทีมได้รับ 2 เกราะ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230107">
     <Name>แสงแห่งตะวันโผล่</Name>
@@ -396,7 +396,7 @@
   </PassiveDesc>
   <PassiveDesc ID="230207">
     <Name>สรรพาวุธ Stigma Workshop</Name>
-    <Desc>เมื่อมอบสถานะเผาไหม้ด้วยการ์ดสำเร็จ มอบสถานะเผาไหม้เพิ่มเติมอีก 1 หน่วย</Desc>
+    <Desc>เมื่อมอบสถานะเผาไหม้ด้วย Page สำเร็จ มอบสถานะเผาไหม้เพิ่มเติมอีก 1 หน่วย</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230008">
     <Name>ฟิกเซอร์เดียวดาย</Name>
@@ -410,7 +410,7 @@
   <!-- Gaze Office-->
   <PassiveDesc ID="230010">
     <Name>บืซซซซ บืซซซซ</Name>
-    <Desc>เมื่อเริ่มองค์ มอบ 1 อัมพาตให้กับศัตรู 3 คนแบบสุ่ม</Desc>
+    <Desc>เมื่อเริ่มองก์ มอบ 1 อัมพาตให้กับศัตรู 3 คนแบบสุ่ม</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230011">
     <Name>พืซซซท พืซซซท</Name>
@@ -424,11 +424,11 @@
   <!-- Tomerry -->
   <PassiveDesc ID="230016">
     <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลายการ์ดทั้งหมดในมือและในกอง เพิ่มการ์ดชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="231016">
     <Name>พลังแห่งรัก</Name>
-    <Desc>หากชนะองค์นั้นๆ ฟื้นคืนชีพ "ชาวเมือง" กลับขึ้นมาที่ HP 50%</Desc>
+    <Desc>หากชนะองก์นั้นๆ ฟื้นคืนชีพ "ชาวเมือง" กลับขึ้นมาที่ HP 50%</Desc>
   </PassiveDesc>
   <PassiveDesc ID="232016">
     <Name>เดอร์เนีย อามัวเร่</Name>
@@ -438,7 +438,7 @@
   <!-- Kurokumo -->
   <PassiveDesc ID="230018">
     <Name>พร้อมรบ</Name> <!-- sayo -->
-    <Desc>เมื่อเริ่มองค์ จั่วเพิ่มเติม 2 การ์ด</Desc>
+    <Desc>เมื่อเริ่มองก์ จั่วเพิ่มเติม 2  Page </Desc>
   </PassiveDesc>
   <PassiveDesc ID="230118">
     <Name>ดาบเมฆาทมิฬ</Name> <!-- sayo2 -->
@@ -446,7 +446,7 @@
   </PassiveDesc>
   <PassiveDesc ID="230019">
     <Name>เจาะซ้ำแผล</Name> <!-- yang -->
-    <Desc>เมื่อมอบสถานะเลือดไหลด้วยการ์ดสำเร็จ มอบสถานะเลือดไหลเพิ่มเติมอีก 1 หน่วย</Desc>
+    <Desc>เมื่อมอบสถานะเลือดไหลด้วย Page สำเร็จ มอบสถานะเลือดไหลเพิ่มเติมอีก 1 หน่วย</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230020">
     <Name>แผลลึก</Name>
@@ -460,7 +460,7 @@
   <!-- Bremen -->
   <PassiveDesc ID="230021">
     <Name>เหมียว เหมียว~</Name> <!-- 미야오 -->
-    <Desc>เมื่อเริ่มองค์ มอบ 1 กำลัง ให้ 2 คน</Desc>
+    <Desc>เมื่อเริ่มองก์ มอบ 1 กำลัง ให้ 2 คน</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230121">
     <Name>เสริมแรง กลองกระทบ</Name>  <!-- 브레멘 전원 -->
@@ -472,13 +472,13 @@
   </PassiveDesc>
   <PassiveDesc ID="230023">
     <Name>อู๊ด!! อู๊ด!!!</Name> <!-- 오잉크 -->
-    <Desc>เมื่อเริ่มองค์ มอบสถานะเปราะบาง 1 หน่วยให้ฝั่งศัตรู 2 คนแบบสุ่ม</Desc>
+    <Desc>เมื่อเริ่มองก์ มอบสถานะเปราะบาง 1 หน่วยให้ฝั่งศัตรู 2 คนแบบสุ่ม</Desc>
   </PassiveDesc>
   
   <!-- 쐐기 -->
   <PassiveDesc ID="230024">
     <Name>ไม่อ่อนข้อ</Name> <!-- 오스카 -->
-    <Desc>เมื่อรับดาเมจถึงตาย ลดดาเมจทั้งหมดรวมทั้งดาเมจนี้ลง 25 ดาเมจทั้งฉาก (1 ครั้งต่อองค์)</Desc>
+    <Desc>เมื่อรับดาเมจถึงตาย ลดดาเมจทั้งหมดรวมทั้งดาเมจนี้ลง 25 ดาเมจทั้งฉาก (1 ครั้งต่อองก์)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230124">
     <Name>ลิ่ม</Name> <!-- 쐐기 전원 -->
@@ -496,7 +496,7 @@
   <!-- 필립 에고 용-->
   <PassiveDesc ID="230028">
     <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลายการ์ดทั้งหมดในมือและในกอง เพิ่มการ์ดชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230128">
     <Name>อารมณ์ที่ลุกไหม้</Name>
@@ -520,17 +520,17 @@
   <PassiveDesc ID="233001">
     <Name>ปรองดองสมานฉันท์</Name>
     <Desc>เมื่อจบฉาก หากเพื่อนร่วมทีมยังคงอยู่ครบถ้วน จะได้รับกำลัง 1 หน่วยในฉากถัดไป แต่หากเพื่อนร่วมทีมดายหมด จะได้รับเปราะบาง 2 หน่วยในฉากถัดไปแทน
-ความสามารถติดตัวนี้จะทำงานก็ต่อเมื่อ เริ่มองค์นี้โดยมีเพื่อนร่วมทีมอยู่ด้วย 1 คนหรือมากกว่า</Desc>
+ความสามารถติดตัวนี้จะทำงานก็ต่อเมื่อ เริ่มองก์นี้โดยมีเพื่อนร่วมทีมอยู่ด้วย 1 คนหรือมากกว่า</Desc>
   </PassiveDesc>
   <!-- 시 협회 -->
   <PassiveDesc ID="240001">
     <Name>หายใจไม่ทั่วท้อง/อ่อนล้า</Name><!-- 유진1 -->
-    <Desc>ฟื้นฟู 2 แสง เมื่อใช้การ์ดที่มีคอส 4 หรือสูงกว่า
+    <Desc>ฟื้นฟู 2 แสง เมื่อใช้ Page ที่มีคอส 4 หรือสูงกว่า
 เต๋าความเร็วจะใช้ไม่ได้ 1 ลูก</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240101">
     <Name>ปัดป้องการประจัน</Name><!-- 유진2 -->
-    <Desc>โต้กลับการโจมตีฝ่ายเดียวด้วยลูกเต๋าป้องกัน[เต๋า:2-6] ฉากละครั้ง (จะไม่ถูกใช้ หากมีเต๋าจากการ์ดอื่นมาปะทะไว้อยู่)</Desc>
+    <Desc>โต้กลับการโจมตีฝ่ายเดียวด้วยลูกเต๋าป้องกัน[เต๋า:2-6] ฉากละครั้ง (จะไม่ถูกใช้ หากมีเต๋าจาก Page อื่นมาปะทะไว้อยู่)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240201">
     <Name>อ่อนล้า</Name> <!-- 유진3 -->
@@ -548,7 +548,7 @@
 
   <PassiveDesc ID="240002">
     <Name>จู่โจมหนเดียว</Name> <!-- 발렌틴 -->
-    <Desc>เมื่อใช้การ์ดที่มีลูกเต๋า 1 ลูก ไม่นับเต๋าประเภทโต้กลับ ลูกเต๋าดังกล่าวจะได้รับพลังเพิ่มเติม +2 และยังให้แต้มอารมณ์เป็นสองเท่าในการปะทะด้วย</Desc>
+    <Desc>เมื่อใช้ Page ที่มีลูกเต๋า 1 ลูก ไม่นับเต๋าประเภทโต้กลับ ลูกเต๋าดังกล่าวจะได้รับพลังเพิ่มเติม +2 และยังให้แต้มอารมณ์เป็นสองเท่าในการปะทะด้วย</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="240003">
@@ -559,7 +559,7 @@
   <!-- 시 협회 공용 -->
   <PassiveDesc ID="241001">
     <Name>คิซุนะ/อ่อนล้าอย่างยิ่ง</Name>  <!-- Japanese '絆(きずな)' = 인연, 유대 -->
-    <Desc>เมื่อเพื่อนตายในการต่อสู้ จะได้รับกำลัง 1 หน่วย และอึดทน 1 หน่วยในทุกๆฉาก จนจบองค์ (ทับซ้อนได้สูงสุด 2 หน่วย)
+    <Desc>เมื่อเพื่อนตายในการต่อสู้ จะได้รับกำลัง 1 หน่วย และอึดทน 1 หน่วยในทุกๆฉาก จนจบองก์ (ทับซ้อนได้สูงสุด 2 หน่วย)
 เริ่มต้นด้วย HP ที่น้อยลง 75%</Desc>
   </PassiveDesc>
   <PassiveDesc ID="241101">
@@ -572,305 +572,305 @@
   </PassiveDesc>
   <PassiveDesc ID="241301">
     <Name>คิซุนะ/อ่อนล้าอย่างยิ่ง</Name> <!-- Japanese '絆(きずな)' = 인연, 유대 --> 
-    <Desc>เมื่อเพื่อนตายในการต่อสู้ จะได้รับกำลัง 1 หน่วย และอึดทน 1 หน่วยในทุกๆฉาก จนจบองค์ (ทับซ้อนได้สูงสุด 2 หน่วย)
+    <Desc>เมื่อเพื่อนตายในการต่อสู้ จะได้รับกำลัง 1 หน่วย และอึดทน 1 หน่วยในทุกๆฉาก จนจบองก์ (ทับซ้อนได้สูงสุด 2 หน่วย)
 เริ่มต้นด้วย HP ที่น้อยลง 25%</Desc>
   </PassiveDesc>
 
 
   <!-- puppet -->
   <PassiveDesc ID="240004">
-    <Name>Acceleration</Name> <!-- 빠른 인형 -->
-    <Desc>When Speed is 5 or higher, deal +1 Stagger damage with attacks</Desc>
+    <Name>เร่งความเร็ว</Name> <!-- 빠른 인형 -->
+    <Desc>เมื่อความเร็ว 5 หรือสูงกว่า ทำ Stagger ดาเมจเพิ่ม +1</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240005">
-    <Name>Concussion</Name> <!-- 무거운 인형 -->
-    <Desc>On a successful Blunt attack, deal 2 bonus Stagger damage</Desc>
+    <Name>ทุบกระแทก</Name> <!-- 무거운 인형 -->
+    <Desc>เมื่อโจมตีด้วยลูกเต๋าประเภททุบสำเร็จ ทำดาเมจโบนัส 2 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240006">
-    <Name>Puppet Skeleton</Name> <!-- 인형 공용-->
-    <Desc>Blunt Dice Power +1</Desc>
+    <Name>โครงหุ่นเชิด</Name> <!-- 인형 공용-->
+    <Desc>เพิ่มพลังลูกเต๋าประเภทการทุบ +1</Desc>
   </PassiveDesc>
   
   <!-- enemy only -->
   <PassiveDesc ID="240008">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240108">
-    <Name>Funambulism</Name>
-    <Desc>When Emma and Noah are together, they cannot be staggered, and gain an additional Speed die. If their Stagger Resist falls to 0, Emma and Noah are separated at the end of the Scene.</Desc>
+    <Name>กายกรรมบนเส้นเชือก</Name>
+    <Desc>เมื่อเอ็มม่าและโนอาอยู่ด้วยกัน พวกเขาจะไม่สามารถถูก Stagger ได้ และยังได้รับลูกเต๋าความเร็วเพิ่มเติม ถ้าหากว่า Stagger Resist เหลือ 0 เมื่อจบฉาก พวกเขาจะแยกออกจากกัน</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240208">
-    <Name>Lonesome Performance</Name>
-    <Desc>When Noah is dead, all resistances change to "Fatal".</Desc>
+    <Name>การแสดงที่เดียวดาย</Name>
+    <Desc>เมื่อโนอาตาย ความทนทานของ Stagger ทั้งหมดเปลี่ยนเป็น "ร้ายแรง".</Desc>
   </PassiveDesc>
   <!-- 에마 (유저가 얻는 핵심 책장에서도 사용) -->
   <PassiveDesc ID="240308">
-    <Name>High-level Acrobatics</Name>
-    <Desc>When using a page whose original Cost is 3 or higher, all dice on that page gain +1 Power</Desc>
+    <Name>กายกรรมขั้นสูง</Name>
+    <Desc>เมื่อใช้ Page ที่มีคอส 3 หรือสูงกว่า ลูกเต๋าทุกลูกได้รับพลังเพิ่มเติม +1</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240408">
-    <Name>Lion’s Fist</Name>
-    <Desc>Blunt Dice Power +1</Desc>
+    <Name>หมัดสิงห์</Name>
+    <Desc>เพิ่มพลังลูกเต๋าประเภทการทุบ +1</Desc>
   </PassiveDesc>
 
   <!-- 노아 -->
   <PassiveDesc ID="240508">
-    <Name>Bestride</Name>
-    <Desc>At the end of the Scene, reunite with Emma</Desc>
+    <Name>เป็นหนึ่งอีกครั้ง</Name>
+    <Desc>เมื่อจบฉาก กลับไปรวมตัวกับเอ็มม่าอีกครั้ง</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="240015">
-    <Name>Mind Hauler</Name> <!-- 안톤, 발레리 -->
-    <Desc>Recover 2 Stagger Resist on a successful attack</Desc>
+    <Name>เก็บเกี่ยวจิตใจ</Name> <!-- 안톤, 발레리 -->
+    <Desc>เมื่อโจมตีสำเร็จ ฟื้นฟู 2 Stagger Resist</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240016">
-    <Name>Health Hauler</Name> <!-- 라일라 -->
-    <Desc>Recover 2 HP on a successful attack</Desc>
+    <Name>เก็บเกี่ยวเลือดเนื้อ</Name> <!-- 라s일라 -->
+    <Desc>มื่อโจมตีสำเร็จ ฟื้นฟู 2 HP</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="241002">
-    <Name>Liquified Flesh</Name> <!-- 청소부 공용 -->
-    <Desc>Defensive Dice Power +1</Desc>
+    <Name>ละลายเนื้อหนัง</Name> <!-- 청소부 공용 -->
+    <Desc>เพิ่มพลังลูกเต๋าประเภทการป้องกันและหลบหลีก +1</Desc>
   </PassiveDesc>
   <PassiveDesc ID="241102">
-    <Name>Corpse Cleanup</Name> <!-- 청소부 공용 2 -->
-    <Desc>When another character dies, recover 5% Max. HP at the end of that Scene (Max. 12)</Desc>
+    <Name>เก็บกวาดศพ</Name> <!-- 청소부 공용 2 -->
+    <Desc>เมื่อตัวละครอื่นตาย ฟื้นฟู 5% ของ HP สูงสุด (สูงสุด 12)</Desc>
   </PassiveDesc>
 	<PassiveDesc ID="241202">
-    <Name>Corpse Cleanup</Name> <!-- 청소부 적 -->
-    <Desc>When another character dies, recover 20% Max. HP at the end of that Scene</Desc>
+    <Name>เก็บกวาดศพ</Name> <!-- 청소부 적 -->
+    <Desc>เมื่อตัวละครอื่นตาย ฟื้นฟู 20% ของ HP สูงสุด</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="240018">
-    <Name>Grace of the Prescript</Name> <!-- 검지 수행자 -->
-    <Desc>Each Scene, boost the Power of a random type of Offensive dice by +2</Desc>
+    <Name>การชี้นำของ Prescript</Name> <!-- 검지 수행자 -->
+    <Desc>ในแต่ละฉาก เพิ่มพลังลูกเต๋าประเภทโจมตีอย่างใดอย่างหนึ่ง +2</Desc>
   </PassiveDesc>
   <!-- Either one of Slash, Pierce, or Blunt Power-Ups is cast, basically -->
   <PassiveDesc ID="240118">
-    <Name>Skim Prescript</Name> <!-- 검지 수행자 2 -->
-    <Desc>Draw one more page at the start of the Act</Desc>
+    <Name>เบิกใช้ Prescript</Name> <!-- 검지 수행자 2 -->
+    <Desc>เมื่อเริ่มองก์ จั่ว Page เพิ่มอีก 1 ใบ</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="240019"> 
-    <Name>Quantum Leap</Name> <!-- 로즈 --> 
-    <Desc>If Speed is 4 or higher, deal 13 bonus damage on successful hits at a 10% chance</Desc> 
+    <Name>กระโดดฝ่าควอนตัม</Name> <!-- 로즈 --> 
+    <Desc>หากความเร็ว 4 หรือสูงกว่า เมื่อโจมตีสำเร็จ มีโอกาส 10% ที่จะทำดาเมจโบนัส 13 ดาเมจ</Desc> 
   </PassiveDesc>
   <PassiveDesc ID="240020"> 
-    <Name>Refraction</Name> <!-- 센 --> 
-    <Desc>On a successful hit, deal 13 bonus Stagger damage at a 5% chance</Desc> 
+    <Name>การหักเหมิติ</Name> <!-- 센 --> 
+    <Desc>เมื่อโจมตีสำเร็จ มีโอกาส 5% ที่จะทำดาเมจ Stagger โบนัส 13 ดาเมจ</Desc> 
   </PassiveDesc>
   <PassiveDesc ID="240021"> 
-    <Name>Reaction Force</Name> <!-- 레스티 --> 
-    <Desc>If the character did not use any pages for a Scene, gain 1 Strength and Endurance next Scene</Desc> 
+    <Name>แรงปฏิกิริยา</Name> <!-- 레스티 --> 
+    <Desc>หากไม่ได้ใช้การ์ดใดๆเลย ในฉากถัดไป จะได้รับ 1 กำลังและ 1 อึดทน</Desc> 
   </PassiveDesc>
   <PassiveDesc ID="240022"> 
-    <Name>Dimensional Sections</Name> <!-- 워프 공용 --> 
-    <Desc>On a successful hit, deal 10 bonus damage at a 10% chance</Desc> 
+    <Name>ตัดแบ่งช่วงมิติ</Name> <!-- 워프 공용 --> 
+    <Desc>เมื่อโจมตีสำเร็จ มีโอกาส 10% ที่จะทำดาเมจโบนัส 10 ดาเมจ</Desc> 
   </PassiveDesc>
   
   <PassiveDesc ID="240023">
-    <Name>Sooty Thwack</Name> <!-- 왕 -->
-    <Desc>If the character has 'Smoke', boost Stagger damage dealt with attacks by (Smoke x 10)%</Desc>
+    <Name>เขม่าทลายจิต</Name> <!-- 왕 -->
+    <Desc>หากมีสถานะ "ควัน" อยู่ เพิ่มดาเมจ Stagger ที่ทำได้เป็นจำนวน (ควัน x 10)%</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240024">
-    <Name>Smoke Addiction</Name> <!-- 진 -->
-    <Desc>On a successful hit, if the target had 8 or more stacks of 'Smoke', inflict 2 Paralysis next Scene (Once per target per Scene)</Desc>
+    <Name>เสพติดควันฟู่</Name> <!-- 진 -->
+    <Desc>เมื่อโจมตีสำเร็จ และเป้าหมายมีจำนวนควันอยู่ที่ 8 หรือมากกว่า มอบสถานะอัมพาตให้กับเป้าหมาย 2 หน่วย (1 ครั้งต่อเป้าหมายต่อครั้ง)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240025">
-    <Name>Stimulating Fumes</Name> <!-- 미 -->
-    <Desc>Once per Scene, if the character has 'Smoke', respond to a one-sided attack with a Block die [Roll: 1~(Smoke)]. (Not played in clashes where both characters use a Combat Page)</Desc>
+    <Name>ควันกระตุกจิตกระชากใจ</Name> <!-- 미 -->
+    <Desc>ครั้งเดียวต่อฉาก หากมีสถานะ "ควัน" อยู่ จะโต้กลับการโจมตีฝ่ายเดียวด้วยลูกเต๋าป้องกัน [ป้องกัน:1~(ควัน)] (จะไม่ถูกใช้ หากมีเต๋าจาก Page อื่นมาปะทะไว้อยู่)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240026">
-    <Name>Puffy Brume</Name> <!-- 웃는 얼굴들 공용 -->
-    <Desc>'Smoke' amplifies outgoing damage instead of incoming damage on this character</Desc>
+    <Name>สูดควัน</Name> <!-- 웃는 얼굴들 공용 -->
+    <Desc>"ควัน" เปลี่ยนจากดาเมจที่ได้รับเพิ่มขึ้น จะทำให้กลายเป็นเพิ่มดาเมจที่ทำได้แทน</Desc>
   </PassiveDesc>
 
   <!-- 불안정한 우는 아이 -->
   <PassiveDesc ID="240027">
-    <Name>Flaring Brand</Name>
+    <Name>ดาบประายเพลิง</Name>
     <Desc>Inflict 1-2 Burn on hit</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240127">
-    <Name>Plumed Escutcheon</Name>
+    <Name>โล่ปีกปักษา</Name>
     <Desc>When hit, inflict 1-2 Burn to attacker</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240227">
-    <Name>Volatile Passion</Name>
+    <Name>อารมณ์ผันผวนที่ลุกโชน</Name>
     <Desc>If target has Burn, boost the Power of Offensive dice by +1</Desc>
   </PassiveDesc>
   
   <!-- 우는 아이 -->
   <PassiveDesc ID="240028">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240128">
-    <Name>Separating Minds</Name> <!-- 합체 설명 -->
+    <Name>จิตใจที่กำลังแตกออก</Name> <!-- 합체 설명 -->
     <Desc>Separates upon reaching 0 HP. All librarians restore 1 Light and 10 Stagger Resist afterwards.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240228">
-    <Name>Separated Minds</Name> <!-- 분리 설명-->
+    <Name>จิตใจที่แตกแยก</Name> <!-- 분리 설명-->
     <Desc>Unites when all Children reach 0 HP. All librarians restore 1 Light and 10 Stagger Resist afterwards.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240328">
-    <Name>Unseeing Child</Name>
+    <Name>เด็กน้อยผู้ปิดตา ไม่มองหา</Name>
     <Desc>Cannot see a portion of the information of Combat Pages used by the Crying Children. This ability is nullified when this character is Staggered.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240428">
-    <Name>Unhearing Child</Name>
+    <Name>เด็กน้อยผู้ปิดหู ไม่ฟังใคร</Name>
     <Desc>Cannot check or redirect the Crying Children's target. This ability is nullified when this character is Staggered.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240528">
-    <Name>Unspeaking Child</Name>
+    <Name>Uเด็กน้อยผู้ปิดปาก ไม่กล่าวไว้</Name>
     <Desc>A random librarian becomes Immobilized at the start of the Scene. This ability is nullified when this character is Staggered.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240628">
-    <Name>A Precarious Mind</Name>
+    <Name>จิตใจที่ใกล้ทลายลง</Name>
     <Desc>Becoming Staggered does not temporarily change the character's resistances.
 Instead, one of the Children plays a page with a die carrying the following effect: ‘[On Clash Lose] All resistances of all allies change to "Fatal".’</Desc>
   </PassiveDesc>
 
   <!--세븐 협회-->
   <PassiveDesc ID="243001">
-    <Name>Grasping Vulnerabilities</Name>
+    <Name>คว้าช่องโหว่</Name>
     <Desc>When attacking a target with a damage type they're "Weak" or "Fatal" to, deal +1 damage.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="243101">
-    <Name>Information Assessment</Name>
+    <Name>ปรเมินตรวจสอบข้อมูล</Name>
     <Desc>At the end of the Scene, a random enemy's resistance to a random damage type changes to "Normal" for the Scene. (Chosen from resistances that are "Endured" or "Normal")</Desc>
   </PassiveDesc>
   <PassiveDesc ID="243201">
-    <Name>Seeing Through Weaknesses</Name>
+    <Name>ฉันเห็นจุดอ่อนแกแล้ว</Name>
     <Desc>If the character attacked an enemy last Scene with a damage type they're "Weak" to, and the enemy has 5 or more stacks of Fragile at the end of the Scene, their resistance against the type becomes "Fatal" for the rest of the Act.</Desc>
   </PassiveDesc>
 
   <!-- 검계 -->
   <PassiveDesc ID="243003">
-    <Name>Swordplay of the Homeland</Name>
+    <Name>เพลงดาบจากบ้านเกิด</Name>
     <Desc>Slash Dice Power +2</Desc>
   </PassiveDesc>
 
   <!--매우 강한 1급 해결사-->
   <PassiveDesc ID="243005">
-    <Name>Carver of Scars</Name>
+    <Name>ตอกสลักลงแผล</Name>
     <Desc>Offensive dice on the first Combat Page the character uses each Scene gain an additional effect: ‘[On Hit] Inflict 2 Bleed’</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="243105">
-    <Name>Toughness</Name>
+    <Name>ทนทายาด</Name>
     <Desc>At Emotion Level 1 or above, gain 1 Protection and Stagger Protection at the start of the Scene. The amount increases to 2 at Emotion Level 3, and 3 at Emotion Level 5.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="243205">
-    <Name>Rupture Wound</Name>
+    <Name>ฉีกแผลสะบั้น</Name>
     <Desc>Deal +3 damage against enemies with Bleed.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250001">
-    <Name>Fervor</Name>
+    <Name>อารมณ์ร้อน</Name>
     <Desc>Offensive dice gain +1 Power at Emotion Level 3 or above</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250002">
-    <Name>A Fighter that Never Retreats</Name> <!-- 로웰, 臨戰無退 -->
+    <Name>นักรบสู้ไม่มีถอย</Name> <!-- 로웰, 臨戰無退 -->
     <Desc>Whenever the Emotion Level rises, gain 1 Strength and Endurance</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250003">
-    <Name>Firm as a Great Mountain</Name> <!-- 세실, 安如泰山 -->
+    <Name>ทึกทนดั่งภูภา</Name> <!-- 세실, 安如泰山 -->
     <Desc>Whenever the Emotion Level rises, recover 15% of Max HP(Max. 20)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250004">
-    <Name>Remain Vigilant in Peace</Name> <!-- 메이, 安不忘危 -->
+    <Name>ตื่นตัวแม้นยามสงบ</Name> <!-- 메이, 安不忘危 -->
     <Desc>Whenever the Emotion Level rises, recover 25% of Max Stagger Resist unless the character is staggered</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250005">
-    <Name>Ammo Supply</Name> <!-- 총 쓰는 엄지들 공용 -->
+    <Name>คลังกระสุน</Name> <!-- 총 쓰는 엄지들 공용 -->
     <Desc>After every three successful attacks with Melee Combat Pages, add a random Ammunition to hand.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250006">
-    <Name>The Boss’s Orders</Name> <!-- 칼로 -->
+    <Name>บัญชาของหัวหน้า</Name> <!-- 칼로 -->
     <Desc>At the start of the Scene, give 1 Protection to 2 random allies.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250106">
-    <Name>Threefold Tenacity</Name> <!-- 칼로 -->
+    <Name>หัวแข็งกว่าถึงสามเท่า</Name> <!-- 칼로 -->
     <Desc>Every third Offensive die gains +1 Power. Starting with the fourth Scene, all Offensive dice gain +1 Power instead.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250007">
-    <Name>Grit</Name> <!-- 보리스 -->
+    <Name>จิตแกร่ง</Name> <!-- 보리스 -->
     <Desc>Reduce incoming damage and Stagger damage by 1 (Including damage from non-attacks)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250008">
-    <Name>Empowered First Shot</Name> <!-- 카트리엘 -->
+    <Name>เสริมพลังนัดแรก</Name> <!-- 카트리엘 -->
     <Desc>When playing a Ranged Combat Page, its first Offensive die gains +1 Power.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250009">
-    <Name>Additional Supplies</Name> <!-- 데니스 -->
+    <Name>คลังเสบียงเพิ่มเติม</Name> <!-- 데니스 -->
     <Desc>Every time the character exhausts 3 Ammunition, add a random Ammunition to hand at the end of the Scene.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250010">
-    <Name>Emergency Resuscitation Protocol</Name>
+    <Name>ฟื้นชีวิตฉุกเฉินระบบโปรโตคอล</Name>
     <Desc>Upon taking what would be a lethal blow, nullify the damage and spend all Charge to recover 5 HP per stack (Activates once per Act)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250011">
-    <Name>Force Field</Name>
+    <Name>สนามพลัง</Name>
     <Desc>After spending Charge using a Combat Page, gain 1 Protection next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250012">
-    <Name>Heavy-hearted Forte</Name>
+    <Name>มือขวาผู้ใจใหญ่</Name>
     <Desc>Deal 1-2 Stagger damage to the opponent upon winning a clash.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250110">
-    <Name>Charged Shield</Name> <!-- 지팡이 공용1 -->
+    <Name>โล่ประจุ</Name> <!-- 지팡이 공용1 -->
     <Desc>At Emotion Level 2 or above, if the character gained Charge using Combat Pages in the previous Scene, gain 1 Endurance at the start of the Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250210">
-    <Name>Energy Discharge</Name> <!-- 지팡이 공용2-->
+    <Name>ปลดปล่อยพลังงาน</Name> <!-- 지팡이 공용2-->
     <Desc>At Emotion Level 2 or above, if the character spent Charge using Combat Pages in the previous Scene, gain 1 Strength at the start of the Scene.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="250013">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250113">
     <Name>The Blue Reverberation</Name>
     <Desc>Take no damage from Ranged Combat Pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250014">
-    <Name>Internal Combustion Engine</Name>
+    <Name>เครื่องยนต์สันดาปภายใน</Name>
     <Desc>When gaining Smoke using Combat Pages, gain +1 additional stack.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250114">
-    <Name>Meat Gear</Name>
+    <Name>ฟันเฟืองเนื้อ</Name>
     <Desc>The first Offensive die of each Combat Page deals +2-3 damage.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250214">
-    <Name>Thought Gear</Name>
+    <Name>ฟันเฟืองความคิด</Name>
     <Desc>Evade Dice Power +1</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="150015">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="150115">
     <Name>Proxy of the Index</Name>
     <Desc>On the second Scene, enter a 'Blade Unlocked' state regardless of condition.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="150016">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="150116">
     <Name>Proxy of the Index</Name>
     <Desc>On the second Scene, enter a 'Blade Unlocked' state regardless of condition.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="150017">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="150117">
     <Name>Proxy of the Index</Name>
@@ -878,7 +878,7 @@ Instead, one of the Children plays a page with a die carrying the following effe
   </PassiveDesc>
   
   <PassiveDesc ID="250115">
-    <Name>Locked Potential</Name> <!-- 解禁 -->
+    <Name>ศักยภาพที่ซ่อนไว้</Name> <!-- 解禁 -->
     <Desc>After using six unique Combat Pages in a single Act, enter a 'Blade Unlocked' state, which boosts the Power of all dice by 1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250015"> <!-- 에스더 -->
@@ -886,102 +886,102 @@ Instead, one of the Children plays a page with a die carrying the following effe
     <Desc>Draw a page every time the character uses 4 unique Combat Pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250016"> <!-- 휴버트 -->
-    <Name>Breaking Pressure</Name> <!-- 強壓 -->
+    <Name>กดดันแล้วทลายทิ้ง</Name> <!-- 強壓 -->
     <Desc>In a clash, the opponent's Defensive dice lose 1 Power.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250017"> <!-- 글로리아 -->
-    <Name>Easygoing Breather</Name> <!-- 熟閑 -->
+    <Name>ค่อยๆเป็น ค่อยๆไป</Name> <!-- 熟閑 -->
     <Desc>At Emotion Level 2 or above, each Scene, the Cost of a random Combat Page in hand whose Cost is 1 or higher is reduced by 1 for the Scene.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="250018"> <!-- 춘 -->
-    <Name>Furious Fire Rending the Skies</Name> <!-- 火光衝天 -->
+    <Name>เพลิงโหมทั่วนภา</Name> <!-- 火光衝天 -->
     <Desc>At the start of the Scene, two random Combat Pages in hand gain the following effect: 'While this page is being used, inflict twice as much Burn with Combat Page abilities'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250020"> <!-- 샤오 -->
-    <Name>Force of a Wildfire</Name> <!-- 燎原之火 -->
+    <Name>ฤทธิ์อัคคีคลั่ง</Name> <!-- 燎原之火 -->
     <Desc>On a melee hit, inflict 1 Burn and 'Force of a Wildfire', a status that lasts 2 Scenes.
 If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies with Burn equal to half of the amount of Burn that enemy had. (Rounded down)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250021"> <!-- 미리스 -->
-    <Name>Hugging Fire, Sitting on Brushwood</Name> <!-- 抱火臥薪 -->
+    <Name>โอบกอดไว้ซึ่งไฟ พุ่มพงไพรนั่งอับจร</Name> <!-- 抱火臥薪 -->
     <Desc>When targets hit by melee attacks from this character take Burn damage at the end of the Scene they were attacked, they also take Stagger damage equal to half of the Burn damage.</Desc>
   </PassiveDesc>
 
   <!-- Enemy only -->
   <PassiveDesc ID="250022">
-    <Name>Kali</Name>
-    <Desc>Restore 1 additional Light and draw 1 more page each Scene.
-When HP drops to 350, fully recover Stagger Resist and manifest E.G.O; HP cannot drop below 350 before this occurs. (Once per reception)
-After losing 'E.G.O Manifested' status, regain it in 3 Scenes.
-If the character enters a new Act after having manifested E.G.O this reception, manifest it on the second Scene.</Desc>
+    <Name>กาลี</Name>
+    <Desc>ในแต่ละฉาก ฟื้นแสงเพิ่มเติม 1 และจั่ว Page เพิ่มเติม 1 ใบ
+เมื่อ HP เหลือ 350 ฟ้นฟู Stagger Resist ทั้งหมด และหลอมรวมกับ E.G.O; HP จะไม่ลดไปต่ำกว่านี้ จนกว่าความสามารถนี้จะทำงาน (ครั้งเดียวต่อการต่อสู้)
+หากสูญเสียสถานะ "หลอมรวม E.G.O" ไป จะฟื้นสถานะนี้กลับมาใน 3 ฉาก
+หากตัวละครนี้เข้าสู่องก์ถัดไปโดยที่ยังคง "หลอมรวม E.G.O" อยู่ จะกลับเข้าสู่สภาวะ "หลอมรวม E.G.O" ในฉากที่ 2</Desc>
   </PassiveDesc>
   <!-- For use only -->
   <PassiveDesc ID="250122">
-    <Name>Legendary</Name>
-    <Desc>Only Gebura can equip this. Unique E.G.O becomes accessible.
-At Emotion Level 4 or above, the Combat Page 'Manifest E.G.O' is added to hand. (Once per Act)</Desc>
+    <Name>วีรสตรี</Name>
+    <Desc>มีเพียงเกบูร่าเท่านั้น และมี E.G.O เฉพาะตัว
+เมื่ออารมณ์อยู่ที่ระดับ 4 หรือสูงกว่า เพิ่ม Page "หลอมรวม E.G.O" เข้าสู่มือ (1 ครั้งต่อองก์)</Desc>
   </PassiveDesc>
   
   <!-- For both enemy and ally versions -->
   <PassiveDesc ID="250222">
-    <Name>Retaliate</Name>
-    <Desc>Gain a Counter die (Slash, 4-8) at combat start.</Desc>
+    <Name>โต้กลับเอาคืน</Name>
+    <Desc>ได้รับลูกเต๋าโต้กลับ [ฟัน:4-8] เมื่อเริ่มต่อสู้</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250322">
-    <Name>The Strongest</Name>
-    <Desc>Choose the Speed dice with the lowest value; the Speed values of the dice change to the maximum possible value.</Desc>
+    <Name>หนึ่งในใต้หล้า</Name>
+    <Desc>เลือกลูกเต๋าความเร็วที่ช้าที่สุด ความเร็วของลูกเต๋าความเร็วดังกล่าวจะถูกเปลี่ยนให้เร็วที่สุดเท่าที่จะเป็นไปได้</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250422">
-    <Name>The Red Mist</Name>
-    <Desc>All dice gain +2 Power.
-Can use 'Great Split: Horizontal'.
-Each Scene, resistances against a random type become "Normal" while the rest are set to "Endured".
-For every enemy defeated, gain a stack of 'Red Mist', which boosts the Power of all dice.
-If the character fails to deal 40+ damage with attacks within a Scene, take Stagger damage equal to 40% of the Max. Stagger Resist.
-Lose 'E.G.O Manifested' status upon becoming Staggered.</Desc>
+    <Name>หมอกแดง</Name>
+    <Desc>ลูกเต๋าทุกลูกได้รับพลังเพิ่มเติม +2
+สามารถใช้ "มหารอยแยก: แนวนอน" ได้.
+ในแต่ละฉาก ความทนทานดาเมจอย่างใดอย่างหนึ่งจะเป็น "ปกติ" และที่เหลือจะเป็น "ทนทาน"
+ทุกครั้งที่ฆ่าศัตรูสำเร็จ ได้รับสถานะ "หมอกแดง" ซึ่งจะเพิ่มค่าพลังลูกเต๋าทุกลูก
+ถ้าหากไม่สามารถทำดาเมจด้วยการโจมตีได้ถึง 40 ดาเมจใน 1 ฉาก จะได้รับดาเมจ Stagger เป็นจำนวน 40% ของค่า Stagger Resist สูงสุด
+เมื่อ Staggered จะสูญเสีย "หลอมรวม E.G.O" ไป</Desc>
   </PassiveDesc>
 
   <!-- 비나 조율자 -->
   <PassiveDesc ID="10010">
-    <Name>Binah</Name>
-    <Desc>Has a unique Key page and Combat Pages that cannot be replaced or swapped.</Desc>
+    <Name>บีนา</Name>
+    <Desc>มี Key page พิเศษและ Combat Pages พิเศษที่ไม่สามารถเปลี่ยนแปลงได้</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10011">
-    <Name>Incomplete Arbiter</Name>
-    <Desc>At the start of the Scene, draw until 4 pages are in hand.</Desc>
+    <Name>ตุลาการผู้ไม่สมบูรณ์</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก จั่ว Page ขึ้นมือจนกว่าจะมี 4 ในมือ</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250522">
-    <Name>The Red Mist</Name>
-    <Desc>Can equip The Red Mist's Key page</Desc>
+    <Name>หมอกแดง</Name>
+    <Desc>สามารถใช้ Key Page "หมอกแดง" ได้</Desc>
   </PassiveDesc>
 
   <!-- R사 -->
   <PassiveDesc ID="250123">
-    <Name>Triple-R Suit</Name>
+    <Name>ชุดสูท 3 R</Name>
     <Desc>Can store up to 20 Charges at once.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251001">
-    <Name>Rabbit Augmentation</Name> <!-- 토끼팀 + 묘 -->
+    <Name>เสริมสักยภาพกระต่ายไว</Name> <!-- 토끼팀 + 묘 -->
     <Desc>For every 30% of Max. HP lost this Act, gain 1 Haste at the start of each Scene. (Up to 3)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251002">
-    <Name>Rhino Procedure</Name> <!-- 코뿔소팀 + 막심 -->
+    <Name>เสริมเกราะแรดถึกทน</Name> <!-- 코뿔소팀 + 막심 -->
     <Desc>For every 30% of Max. HP lost this Act, gain 1 Endurance at the start of each Scene. (Up to 2)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251003">
-    <Name>Reindeer Treatment</Name> <!-- 순록팀 + 루돌프 -->
+    <Name>โอบเลี้ยงซึ่งกวางเรนเดียร์</Name> <!-- 순록팀 + 루돌프 -->
     <Desc>For every 30% of Max. HP lost this Act, gain 1 Strength at the start of each Scene. (Up to 2)</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250023">
-    <Name>The Commander</Name> <!-- 니콜라이 -->
+    <Name>ผู้บังคับบัญชา</Name> <!-- 니콜라이 -->
     <Desc>If the character has 11 or more Charge at the start of the Scene, give 1 Strength and Endurance to all allies.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250223">
-    <Name>Finishing Touch</Name> <!-- 니콜라이2 -->
+    <Name>ปิดจบงาน</Name> <!-- 니콜라이2 -->
     <Desc>After using a Combat Page on a target, leave a 'mark' on them at the end of the Scene. The marked enemy takes 50% additional damage and Stagger damage from attacks. Only one enemy can be marked at a time.</Desc>
   </PassiveDesc>
   
@@ -999,50 +999,50 @@ Lose 'E.G.O Manifested' status upon becoming Staggered.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="250024">
-    <Name>Myo’s Prowess</Name> <!-- 묘 -->
+    <Name>ฤทธิ์แรงของเมียว</Name> <!-- 묘 -->
     <Desc>When using a Combat Page, all dice on the page gain Power against targets with slower Speed. (+1 Power per 2 points of difference, up to 5)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250025">
-    <Name>Maximum Crash</Name> <!-- 막심 -->
+    <Name>กระแทกเต็มพิกัด</Name> <!-- 막심 -->
     <Desc>If the character has 20 or more Charge at the start of the Scene, deal 50% more damage and Stagger damage with attacks; also receive 30% less damage and Stagger damage from attacks.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250026">
-    <Name>Survivor</Name> <!-- 루돌프 -->
+    <Name>ผู้รอดชีวิต</Name> <!-- 루돌프 -->
     <Desc>Every time the character recovers from Stagger, gain 1 Strength and Endurance at the start of the Scene for the rest of the Act. (Up to 5)</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="251201">
-    <Name>Sufficient Ammo</Name>
+    <Name>กระสุนมีเหลือใช้</Name>
     <Desc>Combat Pages whose default type is 'Ranged' do not exhaust on use.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="250027">
-    <Name>Manipulator of Odds</Name>
+    <Name>ผู้บงการความได้เปรียบ</Name>
     <Desc>When a die this character plays rolls the minimum value, reroll it. Activates once per die.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250127">
-    <Name>Changing Stances</Name>
+    <Name>สับเปลี่ยนกระบวนท่า</Name>
     <Desc>Can assume one of the four stances: Slash, Pierce, Blunt, and Guard. A different deck can be set up for each stance. At the start of the Act, a random stance is selected; the stance can be changed by paying Light.</Desc>
   </PassiveDesc>
   
   <!-- enemy only -->
   <PassiveDesc ID="250227">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Fully restore Light each Scene.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และฟื้นแสงทั้งหมด</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250327">
-    <Name>Dimension-walker</Name>
+    <Name>ผู้ก้าวย่าง ข้ามมิติ</Name>
     <Desc>When HP drops to 350, forcefully end the Act and move to another floor. HP cannot drop below 350 before this occurs. (Once per reception)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250427">
-    <Name>Changing Stances</Name>
+    <Name>สับเปลี่ยนกระบวนท่า</Name>
     <Desc>At a regular interval, change the stance to one of the following: Slash, Pierce, Blunt, and Guard. After changing stances, dice of the type representing the current stance gain +1 Power for the Scene.</Desc>
   </PassiveDesc>
 
   <!-- 샤오 -->
   <PassiveDesc ID="150036">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="150136">
     <Name>Xiao</Name>
@@ -1050,14 +1050,14 @@ Lose 'E.G.O Manifested' status upon becoming Staggered.</Desc>
   </PassiveDesc>
   <!-- 미리스 -->
   <PassiveDesc ID="150037">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   
   <!-- 샤오 2차 -->
   <PassiveDesc ID="150038">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="150138">
     <Name>Nine Children of the Dragon</Name>
@@ -1098,8 +1098,8 @@ Has access to unique E.G.O.</Desc>
 
   <!-- Left and Right Hands -->
   <PassiveDesc ID="150039">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="150139">
@@ -1109,8 +1109,8 @@ Has access to unique E.G.O.</Desc>
 
   <!-- Yan (enemy) -->
   <PassiveDesc ID="150051">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="150151">
     <Name>얀샋ㄷ요무</Name>
@@ -1245,14 +1245,14 @@ If a character fulfills the condition stated by the Unsigned Contract in their h
 
   <!--뒤틀린 잔향악단 하층 일렁임-->
   <PassiveDesc ID="1400001">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
 
    <!-- The Black Silence, phase 1 -->
   <PassiveDesc ID="170001">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170002">
     <Name>Retaliate</Name>
@@ -1267,8 +1267,8 @@ If a character fulfills the condition stated by the Unsigned Contract in their h
     <Desc>All dice on the page selected in the third Speed dice slot gain +2 Power.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170005">
-    <Name>Speed Ⅲ</Name>
-    <Desc>Speed Dice Slot +1. Gain an additional Speed die at Emotion Level 3.</Desc>
+    <Name>ความเร็ว III</Name>
+    <Desc>เต๋าความเร็วเพิ่มขึ้น 1 ช่อง และจะได้รับเพิ่มอีก 1 ช่องเมื่อระดับอารมณ์อยู่ที่ 3 หรือสูงกว่า</Desc>
   </PassiveDesc>
 
 <!--검은침묵 2페이즈 패시브-->
@@ -1284,14 +1284,14 @@ When hit, if attacker has Suffocating Haze, take 2 less damage.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="170103">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
 
 <!-- The Black Silence, phase 3 -->
   <PassiveDesc ID="170201">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170202">
     <Name>Soulmates</Name>
@@ -1316,8 +1316,8 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
     <Desc>When Angelica dies, enter a state of Rampage and use a different set of Combat Pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170211">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170212">
     <Name>Request Target</Name>
@@ -1334,8 +1334,8 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
   
   <!-- The Black Silence, phase 4 -->
   <PassiveDesc ID="170301">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0. Take half as much damage from status ailments.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0 Take half as much damage from status ailments.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170302">
     <Name>Memories of the Library</Name>
@@ -1362,8 +1362,8 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
     <Desc>Prioritizes targeting librarians with Bind. For this Scene, on clash win, inflict Ice Splinter to the opponent. At the end of the Scene, characters with 3 or more Ice Splinters become Immobilized for the next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170311">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170312">
     <Name>Scattering Fragments of Recollection</Name>
@@ -1375,7 +1375,7 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
   </PassiveDesc>
   <PassiveDesc ID="170330">
     <Name>Image of the Bygones</Name>
-    <Desc>Speed Dice Slot +1. Does not gain Speed dice from Emotion Level bonuses. At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Desc>Speed Dice Slot +1. Does not gain Speed dice from Emotion Level bonuses. เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170331">
     <Name>Pulsation</Name>
@@ -1394,15 +1394,15 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
     <Desc>Uses the Combat Page 'Learn' for all Speed dice. If this character's attack hits, it inflicts a 'Lies' status which changes the Costs of pages at random next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170335">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
 
 
   <!--뒤틀린 잔향악단 중층 공용-->
   <PassiveDesc ID="1405000">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0. Does not gain Speed dice from Emotion Level bonuses.</Desc>
+    <Name>ประกายแสง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0 Does not gain Speed dice from Emotion Level bonuses.</Desc>
   </PassiveDesc>
  
   <!--뒤틀린 잔향악단 중층 Oswald-->
@@ -1474,31 +1474,31 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
   
   <!-- 최종전 머눈발 -->
   <PassiveDesc ID="180001">
-    <Name>An Arbiter</Name>
+    <Name>ตุลาการ</Name>
     <Desc></Desc>
   </PassiveDesc>
   <PassiveDesc ID="180002">
-    <Name>A Claw</Name>
+    <Name>เขี้ยวเล็บ</Name>
     <Desc></Desc>
   </PassiveDesc>
   
   <!-- special geburah -->
   <PassiveDesc ID="180104">
-    <Name>Gebura’s Prowess</Name> <!-- equal to 묘의 기량 -->
-    <Desc>When using a Combat Page, all dice on the page gain Power against targets with slower Speed. (+1 Power per 2 points of difference, up to 5)</Desc>
+    <Name>ฤทธิ์แรงของเกบูร่า</Name> <!-- equal to 묘의 기량 -->
+    <Desc>เมื่อใช้ Combat Page ลูกเต๋าทุกลูกได้รับพลังเพิ่มเติมเมื่อโจมตีใส่เป้าหมายที่ช้ากว่า (พลัง +1 ทุกๆความเร็วที่ต่างกัน 2 หน่วย สูงสุด 5)</Desc>
   </PassiveDesc>
   
   <!-- special binah -->
   <PassiveDesc ID="180005">
-    <Name>An Arbiter</Name>
-    <Desc>At the start of the Scene, draw until 5 pages are in hand.</Desc>
+    <Name>ตุลาการ</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก จั่ว Page จนกว่าจะมี 5 ใบ</Desc>
   </PassiveDesc>
   
 
   <!-- special black silence -->
   <PassiveDesc ID="10112">
-    <Name>Weariness</Name>
-    <Desc>Starts the battle with 25% less HP</Desc>
+    <Name>เหนื่อยล้าสะสม</Name>
+    <Desc>เริ่มการต่อสู้ด้วย HP ที่หายไป 25%</Desc>
   </PassiveDesc>
 
   
@@ -1559,26 +1559,26 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
 
   <!--공방소속 (Leaflet Workshop) -->
   <PassiveDesc ID="255001">
-    <Name>Smoke Overflow</Name>
-    <Desc>At the end of the Scene, if the character has 8 or more Smoke, gain 1 Strength next Scene.</Desc>
+    <Name>ควันหลุดไหลล้นเหลือ</Name>
+    <Desc>เมื่อจบฉาก หากมีควัน 8 หรือมากกว่า จะได้รับกำลัง 1 หน่วยในฉากถัดไป</Desc>
   </PassiveDesc>
   <PassiveDesc ID="255002">
-    <Name>Excess Supply</Name>
-    <Desc>If the character has 10 or more Smoke, deal +3 damage with attacks.</Desc>
+    <Name>เสบียงมีเกินใช้</Name>
+    <Desc>หากมีควัน 10 หน่วย ดาเมจที่ทำได้ +3 ในการโจมตีนั้นๆ</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="255003">
-    <Name>Immediate Repairs</Name>
-    <Desc>When Staggered, recover from Stagger and fully recover Stagger Resist (Once per Act).</Desc>
+    <Name>ซ่อมแซมทันควัน</Name>
+    <Desc>เมื่อ Staggered ฟื้นสภาพจากการ Stagger และฟื้นฟู Stagger Resist จนเต็ม (1 ครั้งต่อองก์)</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="255004">
-    <Name>Madness</Name>
-    <Desc>At the start of the Scene, gain one of the following effects:
-- 2 Strength
-- 2 Haste
-- 2 Endurance
-- 5 Fragile</Desc>
+    <Name>คุ้มคลั่ง</Name>
+    <Desc>เมื่อเริ่มต้นในแต่ละฉาก จะได้รับเอฟเฟคอย่างใดอย่างหนึ่งต่อไปนี้:
+- 2 กำลัง
+- 2 ว่องไว
+- 2 อึดทน
+- 5 เปราะบาง</Desc>
   </PassiveDesc>
   
   <!-- 베이야드 (Bayard) -->
@@ -1601,8 +1601,8 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
 
 
   <PassiveDesc ID="240010">
-    <Name>Acrobatic</Name>
-    <Desc>Ranged Attack Damage +1</Desc>
+    <Name>กายกรรมลูกปืน</Name>
+    <Desc>ดาเมจการโจมตีประเภทระยะไกล +1</Desc>
   </PassiveDesc>
   
 </PassiveDescRoot>
