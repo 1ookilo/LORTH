@@ -1065,7 +1065,7 @@ If an enemy with 'Force of a Wildfire' is Staggered, inflict all other enemies w
 At the start of the Scene, inflict 2 Burn on all enemies.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="150238">
-    <Name>Pú Láo</Name>
+    <Name>ผู่เหลา</Name>
     <Desc>When 'Pú Láo' is active, all characters are uninfluenced by any effect on Power for the Scene.
 'Pú Láo' activates on the first Scene, and then activates every 2 Scenes.</Desc>
   </PassiveDesc>
@@ -1092,7 +1092,7 @@ At the start of the Scene, inflict 2 Burn to all enemies.
 Has access to unique E.G.O.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250336">
-    <Name>Bā Xià</Name>
+    <Name>เปาเซี่ย</Name>
     <Desc>Take no damage from Burn. When inflicted with a status ailment that isn't Burn, reduce the amount by half. (Rounded down, does not go below 1)</Desc>
   </PassiveDesc>
 
@@ -1144,36 +1144,36 @@ The character will transform back into a librarian if no ally is synchronized wi
 
   <!-- hana -->
   <PassiveDesc ID="260001">
-    <Name>Four Trigrams</Name>
+    <Name>ไตรแกรมทั้งสี่</Name>
     <Desc>Gain four special Combat Pages that benefit the user for the Scene they're used. Only one of the Four Trigrams' pages can be played per Scene, and once a Four Trigrams' page is used, it cannot be reused until all four have been utilized.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="260002">
-    <Name>Hana for All</Name>
+    <Name>ฮานะเพื่อทั้งมวล</Name>
     <!-- 미리내 -->
     <!-- Please translate '하나' as 'Hana' rather than 'One'. -->
     <Desc>When gaining Strength, Endurance, Protection, or Stagger Protection through Combat Pages: give the same status effect to a random other ally as well.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="260003">
-    <Name>All for Hana</Name>
+    <Name>ทั้งมวลเพื่อฮานะ</Name>
     <!-- 해롤드 -->
     <!-- Please translate '하나' as 'Hana' rather than 'One'. -->
     <Desc>If the character took damage from attacks on the previous Scene, change this character's resistances against the type that dealt the most damage to "Endured" for the Scene. (Applies separately for physical and Stagger damage)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="260004">
-    <Name>The Twelve Fixers</Name>
+    <Name>สิบสองฟิกเซอร์</Name>
     <!-- 올리비에 -->
     <!-- Epic 'The Twelve Peers' reference. -->
     <Desc>Boost the *minimum* roll value of all dice by +2. At Emotion Level 3 or higher, also boost the *maximum* roll value of all dice by +1.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="160004">
-    <Name>Duel</Name>
+    <Name>ดวลตัวต่อตัว</Name>
     <Desc>Immune to Immobilization. The opponent gains bonus Max HP and Max Stagger Resist.</Desc>
   </PassiveDesc>
 
   <!-- 검은 침묵 -->
   <PassiveDesc ID="10012">
-    <Name>Orlando</Name>
+    <Name>ออแลนโด</Name>
     <Desc>Has a unique Key page and Combat Pages that cannot be replaced or swapped.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10013">
@@ -1583,19 +1583,19 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
   
   <!-- 베이야드 (Bayard) -->
   <PassiveDesc ID="256001">
-    <Name>Offensive Position</Name>
+    <Name>รูปขบวนจู่โจม</Name>
     <Desc>At the start of the Scene, inflict 3 Fragile to self and gain 1 Strength.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="256002">
-    <Name>Psych Up</Name>
+    <Name>เสริมพลังจิต</Name>
     <Desc>Restore 1 Light and draw 1 page at the end of the Scene if the character did not use any pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="256003">
-    <Name>Readied Position</Name>
+    <Name>รูปขบวนเตรียมตัว</Name>
     <Desc>If the character suffered 'Immobilization' on the previous Scene, gain 1 Strength, 2 Protection, and 2 Stagger Protection.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="256004">
-    <Name>Ready for a Breakthrough</Name>
+    <Name>พร้อมฝ่าวงล้อม</Name>
     <Desc>Every 3 Scenes, uses the Combat Page 'Pinpoint Breakthrough'.</Desc>
   </PassiveDesc>
 
