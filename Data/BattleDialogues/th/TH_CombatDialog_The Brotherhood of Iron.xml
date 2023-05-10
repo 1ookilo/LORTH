@@ -51,26 +51,26 @@
   </Character>
   <Character ID="Consta">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">I-I’m fueled up and ready to go!</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">M-maybe I’d like restaurant coupons more than books…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">M-my body is harder than yours, don’t you see?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ฉ-ฉันมีพลังเต็มเปี่ยมเเล้วพร้อมเเล้ว!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ฉ-ฉันอยากจะได้คูปอนร้านอาหารมากกว่าหนังสือ ถ้าเป็นไปได้...</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ร-ร่างกายฉันมันเเข็งกว่าของพวกเจ้า เห็นมั้ย?</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">W-we’ve really won?! D-dude, for real…!</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">L-let’s go to a restaurant to celebrate our victory!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ร-เราชนะจริงหรือ?! ฮ-เฮ้ย จริงสิ...!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">ป-ไปหาร้านอาหารเพื่อฉลองชัยชนะของเรากันเถอะ!</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I-I should’ve eaten a lot of tasty stuff… I-if I knew I was gonna die here…</BattleDialog>
-      <BattleDialog ID="DEATH_1">I-I worked like a dog only to die like this. T-this is so unfair.</BattleDialog>
+      <BattleDialog ID="DEATH_0">ฉ-ฉันควรจะกินของอร่อยให้มากกว่านี้... ถ-ถ้าฉันรู้ว่าฉันต้องมาตายที่นี่...</BattleDialog>
+      <BattleDialog ID="DEATH_1">ฉ-ฉันทำงานหยั่งกับหมาเพื่อจะมาตายเยี่ยงนี้ น-นี่มันไม่มีความยุติธรรม</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">H-haha! Y-you’re just as weak as I thought.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">L-looks like cheap-looking workshop equipment had enough power, h-huh?</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">W-we’ve got this in the bag~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ฮ-ฮ่าๆ! จ-เจ้ามันอ่อนเเออตามที่ฉันคาดไว้</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ด-ดูเมือนของถูกๆมันจะมีประโยชน์มากพอ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">พ-พวกเราได้ทุกอย่างมาอยู่ในกระเป๋าเเล้ว~</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">…I-I can’t believe it. H-he just blew up like “boom” and……</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_1">…D-don’t be so heartless, g-give me a moment.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">...น-น่าเหลือเชื่อ ม-มันระเบิดดัง "บู้ม" เเล้วก็...</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">...ย-อย่าใจร้ายขนาดนั้นเลย ข-ขอเวลาอีกไม่นาน</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>
