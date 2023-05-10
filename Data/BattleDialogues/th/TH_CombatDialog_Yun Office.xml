@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <GroupName>Yun Office</GroupName>
-  <Character ID="ฟินน์">
+  <Character ID="Finn">
     <Type ID="START_BATTLE">
       <BattleDialog ID="START_BATTLE_0">ผมจะเอาชนะพวกมัน แล้วเอาไปบอกนายหน้า</BattleDialog>
       <BattleDialog ID="START_BATTLE_1">ผมยังต้องเรียนรู้อีกมากในฐานะฟิกเซอร์เกรด 9 แต่ผมก็ขอให้นี่เป็นการสู้ที่ดี</BattleDialog>
@@ -26,7 +26,7 @@
       <BattleDialog ID="KILLS_OPPONENT_2">เป็นการเริ่มที่ดี! เราต้องคงสติเอาไว้</BattleDialog>
     </Type>
   </Character>
-  <Character ID="ยุน">
+  <Character ID="Yun">
     <Type ID="START_BATTLE">
       <BattleDialog ID="START_BATTLE_0">ไม่จำเป็นที่จะต้องยืดเยื้อการต่อสู้นี้อีกต่อไปเเล้ว มันจะจบสิ้นเดี๋ยวนี้เเหละ</BattleDialog>
       <BattleDialog ID="START_BATTLE_1">ทุกคนที่มาที่นี่ตายหมดเลยเหรอ?</BattleDialog>
@@ -54,7 +54,7 @@
       <BattleDialog ID="SPECIAL_EVENT_0">ทังๆที่เธอมี่ความสุขมากที่ได้เป็นฟิกเซอร์เกรด 8...</BattleDialog>
     </Type>
   </Character>
-  <Character ID="อีริ">
+  <Character ID="Eri">
     <Type ID="START_BATTLE">
       <BattleDialog ID="START_BATTLE_0">จะตีเเบบสุดเเรงเเล้วน้า~ จะเจ็บอย่างเเรงเลยเเหล่ะ</BattleDialog>
       <BattleDialog ID="START_BATTLE_1">อืม คิดว่าฉันจะเเพ้ให้เเก่เจ้าพวกเนิร์ดนี้เหรอ?</BattleDialog>
