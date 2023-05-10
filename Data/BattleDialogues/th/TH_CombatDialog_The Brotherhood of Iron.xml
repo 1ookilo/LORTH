@@ -3,50 +3,50 @@
   <GroupName>The Brotherhood of Iron</GroupName>
   <Character ID="Mo">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">I-if this goes well, maybe we can move over to a better body, right?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">M-money, money, money! I-it must be nice having lots of riches.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">M-monsters, I-I’ll chop you all to pieces!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ถ-ถ้านี่เป็นไปได้ดี เราอาจจะได้ร่างกายที่ดีขึ้นใช่มั้ย?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ง-เงิน เงิน เงิน! ม-มันคงจะรู้สึกดีมากๆเลยในการมีเงินเยอะๆ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ส-สัตว์ประหลาด ฉ-ฉันจะหั่นพวกเเกเป็นชิ้นๆ!</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">W-we’re finally getting fancier and tougher new bodies.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">T-the long hardships have paid off, f-friends. N-now let’s go back and get some good rest.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">พ-พวกเรากำลังจะได้ร่างกายที่ดูดีเเละเเข็งเเกร่งขึ้นเเล้ว</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">น-ในที่สุดมันก็จบซักที พ-เพื่อน ง-งั้นกลับไปเเละพักกันซะเถอะ</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">W-what was the point of working so hard, r-replacing our bodies with machinery…</BattleDialog>
-      <BattleDialog ID="DEATH_1">M-maybe I should have spent more time enjoying my life…</BattleDialog>
+      <BattleDialog ID="DEATH_0">ร-เราทำงานหนักไปเพื่ออะไร ป-เปลี่ยนร่างกายเราด้วยเครื่องยนต์...</BattleDialog>
+      <BattleDialog ID="DEATH_1">ฉ-ฉันควรจะใช้เวลาในการมีความสุขกับชีวิตให้มากกว่านี้..</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">T-they’re weak, just as I expected.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">I-it’s a shame I can’t kick you guys off.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">I-I didn’t want to break down myself</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">พ-พวกมันๆอ่อนเเออเหลือเกิน ตามที่คาดไว้เลย</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">น-น่าเสียดายที่ชั้นยกขาเตะแกไม่ได้</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ฉ-ฉันไม่ได้อยากได้ร่างกายนี้ด้วยซ้ำ</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">S-stupid mechanical bodies… I-it should be stronger than this.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">T-thank you for staying with me until the end…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">ร-ร่างกายกายโง่ๆ... ม-มันควรที่จะทงทานมากกว่านี้</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">ข-ขอบคุนที่อยู่กับฉันมาตลอด...</BattleDialog>
     </Type>
   </Character>
   <Character ID="Arnold">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">T-this is a curious place, and quite big, too…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">D-don’t you think our metallic bodies are stronger than your soft flesh?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">M-my body creaks a lot, but it’s still durable.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ช-ชั่งเป็นที่ๆน่าสนใจ ใหญ่มากด้วย...</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">จ-เจ้าไม่คิดหรือว่าร่างเหล็กของพวกเรามันเเข็งเเกร่งมากกว่าร่างเนื้อของเจ้า?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ร-ร่างกายของฉันทำเสียงอยู่ตลอดเเต่มันยังคงทนอยู่</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I-it’s finally time to say goodbye to these creaking noises.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">I-if we have enough money left to spare… H-how about we go on a short vacation?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ถ-ถึงเวลาที่ได้บอกลากับเสียงที่ร่างฉันทำ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">ถ-ถ้าเรามีเงินเหลือ... ป-ไปเที่ยวกันดีมั้ย?</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I-it’s quite saddening to die in scrap metal and not my human body…</BattleDialog>
-      <BattleDialog ID="DEATH_1">I-it’s cold, t-this feels lonely.</BattleDialog>
+      <BattleDialog ID="DEATH_0">ม-มันชั่งน่าเศร้าเหลือเกินที่ต้องตายในร่างสังกะสีนี้เเทนที่จะเป็นร่างของมนุษย์...</BattleDialog>
+      <BattleDialog ID="DEATH_1">น-หนาว ฉ-ฉันรู้สึกโดดเดี่ยวเหลือเกิน</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">I-I don’t miss my target.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">I-I suppose everything comes with a price.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">M-my body may be shoddy scrap metal, but it’s more useful than that squishy body of yours.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ฉ-ฉันไม่เคยพลาดเป้า</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ท-ทุกอย่างนั้นมันมาด้วยราคา</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ร-ร่างของฉันอาจจะเก๊ เเต่มันมีประโยชน์มากกว่าร่างกายของเจ้า</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">…I-it’s been an honor to work with you. I hope you can rest now.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">T-they were my long-time friends, b-but this is not the time to be sad over their losses.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">...ม-มันเป็นเวลาที่ดีในการทำงานกับเจ้า เจ้าสามารถพักผ่อนได้เเล้ว</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">พ-พวกมันเป็นเพื่อนที่อยู่กับฉันมานาน ต-เเต่นี่ไม่ใช่เวลาที่จะไว้อาลัยกับเพื่อนที่จากไป</BattleDialog>
     </Type>
   </Character>
   <Character ID="Consta">
