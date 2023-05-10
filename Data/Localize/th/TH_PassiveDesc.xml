@@ -1260,71 +1260,76 @@ Stagger Resist จะไม่ฟื้นฟูจนเต็ม ทั้ง�
   <!-- hana -->
   <PassiveDesc ID="260001">
     <Name>ไตรแกรมทั้งสี่</Name>
-    <Desc>Gain four special Combat Pages that benefit the user for the Scene they're used. Only one of the Four Trigrams' pages can be played per Scene, and once a Four Trigrams' page is used, it cannot be reused until all four have been utilized.</Desc>
+    <Desc>จะได้รับ Combat Pages พิเศษที่สามารถใช้เพื่อมอบประโยชน์ให้ตนเองได้ในฉากที่ใช้ ในหนึ่งฉาก สามารถใช้ได้เพียง 1 อย่าง
+    และเมื่อไตรแกรมทั้งสี่ถูกใช้จนครบจะได้รับชุดใหม่ออกมา ไม่สามารถใช้ใบเก่าได้จนกว่าจะใช้ครบทั้งสี่ใบ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="260002">
     <Name>ฮานะเพื่อทั้งมวล</Name>
     <!-- 미리내 -->
     <!-- Please translate '하나' as 'Hana' rather than 'One'. -->
-    <Desc>When gaining Strength, Endurance, Protection, or Stagger Protection through Combat Pages: give the same status effect to a random other ally as well.</Desc>
+    <Desc>เมื่อได้รับพลัง อึดทน เกราะ หรือเกราะ Stagger ด้วย Combat Pages: มอบปริมาณที่เท่ากันที่เพื่อนร่วมทีมหนึ่งคนแบบสุ่ม</Desc>
   </PassiveDesc>
   <PassiveDesc ID="260003">
     <Name>ทั้งมวลเพื่อฮานะ</Name>
     <!-- 해롤드 -->
     <!-- Please translate '하나' as 'Hana' rather than 'One'. -->
-    <Desc>If the character took damage from attacks on the previous Scene, change this character's resistances against the type that dealt the most damage to "Endured" for the Scene. (Applies separately for physical and Stagger damage)</Desc>
+    <Desc>ถ้าตัวละครนี้ได้รับดาเมจจากฉากที่แล้ว เปลี่ยนความทนทานของดาเมจที่ได้รับมากที่สุดเป็น "ทนทาน" เป็นเวลา 1 ฉาก
+    (แยกกันระหว่างดาเมจและดาเมจ Stagger)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="260004">
     <Name>สิบสองฟิกเซอร์</Name>
     <!-- 올리비에 -->
     <!-- Epic 'The Twelve Peers' reference. -->
-    <Desc>Boost the *minimum* roll value of all dice by +2. At Emotion Level 3 or higher, also boost the *maximum* roll value of all dice by +1.</Desc>
+    <Desc>เพิ่ม *ค่าต่ำสุด* ของลูกเต๋าทั้งหมด +2
+    ที่ระดับอารมณ์ 3 หรือสูงกว่า เพิ่ม *ค่าสูงสุด* ของลูกเต๋าทั้งหมด +1.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="160004">
     <Name>ดวลตัวต่อตัว</Name>
-    <Desc>Immune to Immobilization. The opponent gains bonus Max HP and Max Stagger Resist.</Desc>
+    <Desc>การหมดสภาพในทุกรูปแบบไร้ผล ศัตรูได้รับ HP สูงสุด และ Stagger Resist สูงสุดเพิ่มเติม</Desc>
   </PassiveDesc>
 
   <!-- 검은 침묵 -->
   <PassiveDesc ID="10012">
     <Name>ออร์แลนโด</Name>
-    <Desc>Has a unique Key page and Combat Pages that cannot be replaced or swapped.</Desc>
+    <Desc>มี Key page พิเศษและ Combat Pages พิเศษที่ไม่สามารถเปลี่ยนแปลงได้</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10013">
     <Name>ทมิฬเงียบสงัด</Name>
-    <Desc>Draw 2 additional pages at the start of the Act. All dice on every third Combat Page used gain +2 Power.</Desc>
+    <Desc>เมื่อเริ่มองก์ จั่วเพิ่มเติม 2 Pages
+    Combat Page ทุกๆสามใบที่ใช้ ลูกเต๋าบนใบนั้นจะได้รับพลังเพิ่มเติม +2</Desc>
   </PassiveDesc>
 
   <!-- 잔향악단 -->
   <PassiveDesc ID="260005">
     <Name>ก้องกังวาล</Name>
-    <Desc>When using a Melee Combat Page, if the difference between this character's Speed and the target's Vibration is 1 or less, all dice on the page gain +2 Power.
-At the start of the Act, draw 2 pages.</Desc>
+    <Desc>เมื่อใช้ Combat Page ระยะประชิด หากผลต่างระหว่างความเร็วของผู้ใช้กับค่า "สั่นพ้อง" เป็น 1 หรือต่ำกว่า
+    ลูกเต๋าบนใบนั้นจะได้รับพลังเพิ่มเติม +2
+เมื่อเริ่มองก์ จั่วเพิ่มเติม 2 Pages</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="260006">
     <Name>อุ่นเครื่อง</Name>
-    <Desc>While the character has burn, Offensive dice gain +1 Power.</Desc>
+    <Desc>หากตัวละครนี้มีเผาไหม้ ลูกเต๋าประเภทโจมตีได้รับพลัง +1</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="260007">
     <Name>สิงห์อมควัน</Name>
-    <Desc>When using a Combat Page with an effect involving 'Smoke', all dice on the page gain +1 Power.</Desc>
+    <Desc>เมื่อใช้ Combat Page ที่เกี่ยวของกับ "ควัน" ลูกเต๋าบนใบนั้นจะได้รับพลังเพิ่มเติม +1</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="260008">
     <Name>เตรียมจานมื้อใหญ่</Name>
-    <Desc>When using a Melee Combat Page, if target has Bleed, Offensive dice on the page gain +1~2 Power.</Desc>
+    <Desc>เมื่อใช้ Combat Page ระยะประชิด หากเป้าหมายดังกล่าวติดเลือดไหลอยู่ ลูกเต๋าบนใบนั้นจะได้รับพลังเพิ่มเติม +1~2</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="260009">
     <Name>ฮี๊ฮ่อ~! โฮ่งโฮ่ง! ก่ะต๊าก!</Name> 
-    <Desc>On hit with a Melee Combat Page, activate one of the following effects (each effect activates once per Scene):
-- Inflict 1 Feeble next Scene
-- Inflict 1 Paralysis next Scene
-- Deal 2 Stagger damage to target
-- Recover 2 Stagger Resist</Desc>
+    <Desc>เมื่อโจมตีสำเร็จด้วย Combat Page ระยะประชิด จะเกิดผลอย่างใดอย่างหนึ่งต่อไปนี้ (แต่ละผลจะเกิดเพียงครั้งเดียวต่อฉาก):
+- มอบอ่อนแรง 1 จำนวนในฉากถัดไป
+- มอบอัมพาต 1 จำนวนในฉากถัดไป
+- ทำดาเมจ Stagger 2 ดาเมจใส่เป้าหมาย
+- ฟื้นฟู 2 Stagger Resist</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="260010">
