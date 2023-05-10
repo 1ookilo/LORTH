@@ -2,8 +2,8 @@
 <BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <effectTextList>
     <BattleEffectText ID="OldLady_Lonely">
-      <Name>Solitude</Name>
-      <Desc>Reduce Speed by 2. Take 1-2 damage at the start of the Scene. (Does not stack)</Desc>
+      <Name>สันโดษ</Name>
+      <Desc>ลดความเร็วลง 2 รับความเสียหาย 1-2 เมื่อเริ่มฉาก (ไม่สามารถซ้อนได้)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedShoes_Kirakira">
       <Name>Allure of The Red Shoes</Name>
@@ -11,147 +11,147 @@
     </BattleEffectText>
     <!-- Deleted old Rhythm -->
     <BattleEffectText ID="TheDreamingCurrent_Sea">
-      <Name>Rainbow Sea</Name>
-      <Desc>Reduce Speed by 3 for {0} Scene(s). Lose 10% of current HP and restore 1 Light at the start of the Scene.</Desc>
+      <Name>ทะเลสีรุ้ง</Name>
+      <Desc>ลดความเร็วลง 3 เป็นเวลา {0} ฉาก สูญเสีย HP 10% และฟื้นฟูแสง 1 ดวงเมื่อเริ่มฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Bloodbath_Hands">
-      <Name>Pale Hands</Name>
-      <Desc>After the character is hit {0} times, 3-10 bonus Stagger damage is dealt.</Desc>
+      <Name>มือจากอ่างน้ำ</Name>
+      <Desc>จะโดนโบนัสดาเมจ Stagger 3-10 ในทุก ๆ การโจมตีครั้งที่ 3 จากบรรณารักษ์ที่มีหน้าความผิดปกติ 'มือจากอ่างน้ำ'. </Desc>
     </BattleEffectText>
     <BattleEffectText ID="TheSnowQueen_Chu">
-      <Name>Ice Splinters</Name>
-      <Desc>Receiving {0} more Ice Splinters will render the character Immobilized for two Scenes.</Desc>
+      <Name>สะเก็ตน้ำแข็ง</Name>
+      <Desc>การได้รับสะเก็ตน้ำแข็งอีก {0} ชิ้นจะทำให้ตัวละครถูกแช่แข็งเป็นเวลาสองฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HappyTeddyBear_Hug">
-      <Name>Teddy’s Love</Name>
-      <Desc>Upon losing a clash against a target that used &lt;Nostalgic Embrace of the Old Days&gt;, take Stagger damage equal to the dice value at a {0}% chance.</Desc>
+      <Name>น้องหมีที่รัก</Name>
+      <Desc>เมื่อแพ้การปะทะกับเป้าหมายที่ใช้ &lt;โอบกอดความคิดถึงของวันเก่า&gt;, ได้รับความเสียหายจาก Stagger เท่ากับมูลค่าลูกเต๋าที่โอกาส {0}%</Desc>
     </BattleEffectText>
     <BattleEffectText ID="TheDreamingCurrent_candy">
-      <Name>Candy</Name>
-      <Desc>Deals {0}% additional damage to targets that used &lt;Candy&gt;.</Desc>
+      <Name>ลูกกวาด</Name>
+      <Desc>สร้างความเสียหายเพิ่ม {0}%  &lt;ลูกกวาด&gt;.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ChildofGalaxy_Token">
-      <Name>Pebble</Name>
-      <Desc>For {0} Scene(s), restore 10% of max HP at the start of the Scene. Take 20% of max HP as damage whenever an ally dies.</Desc>
+      <Name>ก้อนกรวด</Name>
+      <Desc>สำหรับ {0} ฉาก ให้ฟื้นฟู 10% ของ HP สูงสุดเมื่อเริ่มฉาก รับความเสียหาย 20% ของ HP สูงสุดเมื่อใดก็ตามที่พันธมิตรตาย</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Stun">
-      <Name>Immobilized</Name>
-      <Desc>Cannot act for the duration of the Scene.</Desc>
+      <Name>หมดสภาพ</Name>
+      <Desc>ไม่สามารถทำอะไรได้เลย</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Break">
       <Name>Staggered</Name>
-      <Desc>Cannot act for the duration of the Scene. Page restock and Light restoration will not take place.</Desc>
+      <Desc>ไม่สามารถอะไรไม่ได้เลย การจั่วการ์ดและการคืนค่าแสงจะไม่ทำงาน</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Burn">
-      <Name>Burn</Name>
-      <Desc>At the end of the Scene, take {0} damage and subtract 1/3rd of the Burn stack. (Rounds down)</Desc>
+      <Name>เผาไหม้</Name>
+      <Desc>ในตอนท้ายของฉากรับความเสียหาย {0} และลบ 1 ใน 3 ของเผาไหม้ออก (ปัดเศษลง)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Paralysis">
-      <Name>Paralyzed</Name>
-      <Desc>For the duration of the Scene, whenever the character plays any Combat Page, up to {0} random dice on it have their maximum roll value reduced by 3.</Desc>
+      <Name>อัมพาต</Name>
+      <Desc>เมื่อใดก็ตามที่ตัวละครใช้การ์ด สุ่มลูกเต๋า {0} ลูกบนนั้นมีค่าพลังสูงสุดลดลง 3</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Bleeding">
-      <Name>Bleeding</Name>
-      <Desc>For the Scene, take {0} damage and subtract 1/3rd of the Bleed stack every time the character rolls an Offensive die. (Rounds up)</Desc>
+      <Name>เลือดไหล</Name>
+      <Desc>ในฉากรับความเสียหาย {0} และลบ 1 ใน 3 ของกองเลือดไหลทุกครั้งที่ตัวละครทอยเต๋า (ปัดเศษขึ้น)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Vulnerable">
-      <Name>Fragile</Name>
-      <Desc>Take {0} additional damage from attacks this Scene.</Desc>
+      <Name>เปราะบาง</Name>
+      <Desc>รับความเสียหายเพิ่ม {0} จากการโจมตีฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Weak">
-      <Name>Feeble</Name>
-      <Desc>Decrease the Power of Offensive dice by {0} for the duration of the Scene.</Desc>
+      <Name>อ่อนแรง</Name>
+      <Desc>ลดพลังของลูกเต๋าโจมตีลง {0} ในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Disarm">
-      <Name>Disarmed</Name>
-      <Desc>Decrease the Power of Defensive dice by {0} for the duration of the Scene.</Desc>
+      <Name>ตัดกำลัง</Name>
+      <Desc>ลดพลังของลูกเต๋าป้องกันลง {0} ในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Binding">
-      <Name>Bound</Name>
-      <Desc>Reduce all Speed values by {0} for the duration of the Scene.</Desc>
+      <Name>พันธนา</Name>
+      <Desc>ลดความเร็วลง {0} ในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Protection">
-      <Name>Protected</Name>
-      <Desc>Take {0} less damage from attacks this Scene.</Desc>
+      <Name>เกราะ</Name>
+      <Desc>รับความเสียหายน้อยลง {0} จากการโจมตีในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Strength">
-      <Name>Strengthened</Name>
-      <Desc>Increase the power of Offensive dice by {0} for the duration of the Scene.</Desc>
+      <Name>กำลัง</Name>
+      <Desc>เพิ่มพลังลูกเต๋าโจมตีขึ้น {0} ในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Endurance">
-      <Name>Enduring</Name>
-      <Desc>Increase the power of Defensive dice by {0} for the duration of the Scene.</Desc>
+      <Name>ทนทาน</Name>
+      <Desc>เพิ่มพลังของลูกเต๋าป้องกันขึ้น {0} ในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Quickness">
-      <Name>Haste</Name>
-      <Desc>Increase all Speed values by {0} for the duration of the Scene.</Desc>
+      <Name>ว่องไว</Name>
+      <Desc>เพิ่มความเร็วทั้งหมด {0} ในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Blurry">
       <Name>Blurred</Name>
-      <Desc>This character cannot be targeted by the enemy as long as other targets without Blurred exist. Removed at the end of Scene.</Desc>
+      <Desc>ตัวละครนี้ไม่สามารถตกเป็นเป้าหมายตราบเท่าที่คนอื่นยังมี Blurred อยู่ ลบออกเมื่อจบฉาก</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Burn_Keyword">
-      <Name>Burn X</Name>
-      <Desc>At the end of the Scene, take X damage and subtract 1/3rd of the stack. (Rounds down)</Desc>
+      <Name>เผาไหม้ X</Name>
+      <Desc>ในตอนท้ายของฉาก รับความเสียหาย X และลบ 1 ใน 3 ของเผาไหม้ออก (ปัดเศษลง)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Paralysis_Keyword">
-      <Name>Paralysis X</Name>
-      <Desc>For the Scene, up to X dice have their maximum roll value decreased by 3 when using pages.</Desc>
+      <Name>อัมพาต X</Name>
+      <Desc>เมื่อใดก็ตามที่ตัวละครใช้การ์ด สุ่มลูกเต๋า X ลูกบนนั้นมีค่าพลังสูงสุดลดลง 3</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Bleeding_Keyword">
-      <Name>Bleed X</Name>
-      <Desc>For the Scene, take X damage and subtract 1/3rd of the stack every time an Offensive die rolls. (Rounds up)</Desc>
+      <Name>เลือดไหล X</Name>
+      <Desc>ในฉากรับความเสียหาย X และลบ 1 ใน 3 ของกองเลือดไหลทุกครั้งที่ตัวละครทอยเต๋า (ปัดเศษขึ้น)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Vulnerable_Keyword">
-      <Name>Fragile X</Name>
-      <Desc>Take X additional damage from attacks for the Scene.</Desc>
+      <Name>เปราะบาง X</Name>
+      <Desc>รับความเสียหายเพิ่ม X จากการโจมตีฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Weak_Keyword">
-      <Name>Feeble X</Name>
-      <Desc>Offensive dice lose X Power for the Scene.</Desc>
+      <Name>อ่อนแรง X</Name>
+      <Desc>ลดพลังของลูกเต๋าโจมตีลง X ในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Disarm_Keyword">
-      <Name>Disarm X</Name>
-      <Desc>Defensive dice lose X Power for the Scene.</Desc>
+      <Name>ตัดกำลัง X</Name>
+      <Desc>ลดพลังของลูกเต๋าป้องกันลง X ในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Binding_Keyword">
-      <Name>Bound X</Name>
-      <Desc>Lower all Speed values by X for the Scene.</Desc>
+      <Name>พันธนา X</Name>
+      <Desc>ลดความเร็วทั้งหมดลง X ในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Protection_Keyword">
-      <Name>Protection X</Name>
-      <Desc>Take X less damage from attacks for the Scene.</Desc>
+      <Name>เกราะ X</Name>
+      <Desc>รับความเสียหายน้อยลง X จากการโจมตีในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Strength_Keyword">
-      <Name>Strength X</Name>
-      <Desc>Offensive dice gain +X Power for the Scene.</Desc>
+      <Name>กำลัง X</Name>
+      <Desc>เพิ่มพลังลูกเต๋าโจมตีขึ้น X ในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Endurance_Keyword">
-      <Name>Endurance X</Name>
-      <Desc>Defensive dice gain +X Power for the Scene.</Desc>
+      <Name>ทนทาน X</Name>
+      <Desc>เพิ่มพลังของลูกเต๋าป้องกันขึ้น X ในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Quickness_Keyword">
-      <Name>Haste X</Name>
-      <Desc>Boost all Speed dice values by X for the Scene.</Desc>
+      <Name>ว่องไว X</Name>
+      <Desc>เพิ่มความเร็วทั้งหมด X ในฉากนี้</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="bstart_Keyword">
-      <Name>Combat Start</Name>
-      <Desc>Activates when the combat phase of a Scene begins and before characters approach targets.</Desc>
+      <Name>คอมแบตสตาร์ท</Name>
+      <Desc>เปิดใช้งานเมื่อเริ่มต่อสู่</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_Keyword">
-      <Name>Exclusive Page</Name>
-      <Desc>Can only be used with specific Key pages.</Desc>
+      <Name>การ์ดเฉพาะ</Name>
+      <Desc>ใช้ได้กับคีย์เพจเฉพาะเท่านั้น</Desc>
     </BattleEffectText>
     <BattleEffectText ID="counter_Keyword">
-      <Name>Counter</Name>
-      <Desc>Die is only played upon receiving a one-sided attack (Does not apply when both characters use a Combat Page and the opponent has more dice)</Desc>
+      <Name>เคาน์เตอร์</Name>
+      <Desc>ทอยลูกเต๋าเมื่อได้รับการโจมตีใฝ่เดียว (ใช้ไม่ได้เมื่อตัวละครทั้งสองใช้หน้าการต่อสู้และฝ่ายตรงข้ามมีลูกเต๋ามากกว่า)</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="FairyFestival_Recovery">
-      <Name>Prepared Meat</Name>
-      <Desc>At 1 HP, they will be consumed by the Fairy Queen.</Desc>
+      <Name>เนื้อที่เตรียมไว้</Name>
+      <Desc>ที่ 1 HP พวกเขาจะถูกใช้โดย Fairy Queen</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="SpiderBud_Cocoon">
@@ -160,30 +160,30 @@
     </BattleEffectText>
 
     <BattleEffectText ID="Philip_Attack">
-      <Name>Searing Sword</Name>
-      <Desc>On a successful hit, inflict 4 Burn to target.</Desc>
+      <Name>ดาบเพลิง</Name>
+      <Desc>เมื่อโจมตีสำเร็จ สร้างดาเมจ 4 เผาแก่เป้าหมาย</Desc> 
     </BattleEffectText>
     <BattleEffectText ID="Philip_Defense">
-      <Name>Feather Shield</Name>
-      <Desc>After taking a hit, inflict 2 Burn to attacker. Take -5 damage from attacks.</Desc>
+      <Name>เฟเธอร์ชิลด์</Name>
+      <Desc>หลังจากถูกโจมตีสร้างความเสียหาย 2 แต้มให้กับผู้โจมตี รับความเสียหาย -5 จากการโจมตี</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Philip_Strong">
       <Name>Blazing Strike</Name>
-      <Desc>Gain +2 Speed dice this Scene.</Desc>
+      <Desc>ลูกเต๋าได้รับความเร็ว +2 ในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Philip_Ready">
-      <Name>Readying Blazing Strike</Name>
-      <Desc>Will use Blazing Strike in {0} Scenes.</Desc>
+      <Name>เตรียม Blazing Strike</Name>
+      <Desc>จะใช้ Blazing Strike ใน {0} ฉาก</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="QueenOfHatred_Sign">
-      <Name>Villain</Name>
-      <Desc>Become the target of the Queen of Hatred.</Desc>
+      <Name>วายร้าย</Name>
+      <Desc>กลายเป็นเป้าหมายของ the Queen of Hatred.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="QueenOfHatred_Hatred">
-      <Name>Hated</Name>
-      <Desc>Become the target of *all* of the Queen of Hatred's pages.</Desc>
+      <Name>เกลียดชัง</Name>
+      <Desc>กลายเป็นเป้าหมายของ the Queen of Hatred's เพจ</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="KnightOfDespair_Blessing">
@@ -192,57 +192,57 @@
     </BattleEffectText>
 
     <BattleEffectText ID="Gaho">
-      <Name>Blessing</Name>
-      <Desc>Resistances against the type of damage that dealt the most on the previous Scene are changed to "Endured" for this Scene. (Applies separately for physical and Stagger damage)</Desc>
+      <Name>อาศิร</Name>
+      <Desc>ความต้านทานต่อประเภทความเสียหายที่ได้รับมากที่สุดในฉากก่อนหน้าจะเปลี่ยนเป็น "ทนทาน" สำหรับฉากนี้ (ใช้แยกกันสำหรับความเสียหายทางกายภาพและ Stagger)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Ability/BloodBath_Hand">
-      <Name>Pale Hands</Name>
-      <Desc>Will take 3-10 bonus Stagger damage on every third hit from the librarian with the Abnormality page 'Pale Hands'.</Desc>
+      <Name>มือจากอ่างน้ำ</Name>
+      <Desc>จะโดนโบนัสดาเมจ Stagger 3-10 ในทุก ๆ การโจมตีครั้งที่ 3 จากบรรณารักษ์ที่มีหน้าความผิดปกติ 'มือจากอ่างน้ำ'.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="SweepersSkill">
-      <Name>Persistent</Name>
-      <Desc>Upon taking lethal damage, 80% chance to revive with some HP. This chance is halved each time the character revives.</Desc>
+      <Name>ดื้อดึง</Name>
+      <Desc>เมื่อตายมีโอกาส 80% ที่จะชุบชีวิตพร้อม HP บางส่วนโอกาสนี้จะลดลงครึ่งหนึ่งทุกครั้งที่ตัวละครฟื้นคืนชีพ</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="SlashPowerUp">
-      <Name>Slash Power-Up</Name>
-      <Desc>Slash dice gain +{0} Power for this Scene.</Desc>
+      <Name>เพิ่มพลังท่าฟัน</Name>
+      <Desc>ท่าฟันได้รับพลัง +{0} สำหรับฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="PenetratePowerUp">
-      <Name>Pierce Power-Up</Name>
-      <Desc>Pierce dice gain +{0} Power for this Scene.</Desc>
+      <Name>เพิ่มพลังท่าแทง</Name>
+      <Desc>ท่าแทงได้รับพลัง +{0} สำหรับฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HitPowerUp">
-      <Name>Blunt Power-Up</Name>
-      <Desc>Blunt dice gain +{0} Power for this Scene.</Desc>
+      <Name>เพิ่มพลังท่าทุบ</Name>
+      <Desc>ท่าทุบได้รับพลัง +{0} สำหรับฉากนี้</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Queenbee_Spore">
-      <Name>Spores</Name>
-      <Desc>At the start of the Scene, take {0} damage and halve the stack. (Rounds down)
-Take {0} damage every time the character rolls an Offensive die.
-If the character dies with this ailment, a Worker Bee is spawned next Scene.</Desc>
+      <Name>สปอร์</Name>
+      <Desc>มื่อเริ่มฉาก รับความเสียหาย {0} และลดสแต็คลงครึ่งหนึ่ง (ปัดเศษลง)
+รับความเสียหาย {0} ทุกครั้งที่ตัวละครทอยเต๋า
+หากตัวละครตายด้วยสปอร์ ผึ้งงานจะเกิดในฉากต่อไป</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Queenbee_Punish">
-      <Name>Retribution</Name>
-      <Desc>Take +2-4 damage from librarians without the Abnormality page 'Worker Bee'.</Desc>
+      <Name>เวรกรรม</Name>
+      <Desc>รับความเสียหายเพิ่ม 2-4 จากบรรณารักษ์ที่ไม่มีหน้าความผิดปกติ 'Worker Bee'.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Snowwhite_Vine">
       <Name>Vines</Name>
-      <Desc>When a librarian with the Abnormality page 'Vines' attacks this character, their Pierce dice gain +1-2 Power.</Desc>
+      <Desc>เมื่อบรรณารักษ์ที่มีหน้า 'Vines' โจมตีตัวละครนี้ ลูกเต๋าเพียร์ซจะได้รับพลัง +1-2</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Burning_Match">
       <Name>Blazing</Name>
-      <Desc>Gain a Speed die; Dice Power +2; lose 5% of Max HP every time the character rolls a die.</Desc>
+      <Desc>ได้รับความเร็วลูกเต๋า; พลังลูกเต๋า +2; เสีย 5% ของ Max HP ทุกครั้งที่ตัวละครทอยลูกเต๋า</Desc>
     </BattleEffectText>
     <BattleEffectText ID="TeddyLove">
       <Name>Affection</Name>
-      <Desc>All dice of an opponent attacking this character gain Power equal to the stacks of this effect.</Desc>
+      <Desc>ลูกเต๋าทุกลูกของฝ่ายตรงข้ามที่โจมตีตัวละครนี้จะได้รับพลังเท่ากับสแต็คของเอฟเฟกต์นี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="FairyMeat">
-      <Name>Fresh Meat</Name>
-      <Desc>'Wingbeat' gains +2 Power against this character and recovers 10 HP on hit.</Desc>
+      <Name>เนื้อสด</Name>
+      <Desc>'Wingbeat' ละครนี้ได้รับพลัง +2 และฟื้น HP 10 เมื่อโจมตีโดน</Desc>
     </BattleEffectText>
 
     <!--
@@ -252,75 +252,75 @@ If the character dies with this ailment, a Worker Bee is spawned next Scene.</De
     </BattleEffectText>
     -->
     <BattleEffectText ID="AreaCard_Keyword">
-      <Name>Mass Attack</Name>
-      <Desc>Targets every enemy. A successful hit destroys the target's Combat Page or action dice.</Desc>
+      <Name>การโจมตีหมู่</Name>
+      <Desc>กำหนดเป้าหมายศัตรูทุกตัวโดยสุ่มโจมตีลูกเต๋าหนึ่งลูก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="AreaDiceAll_Keyword">
       <Name>Summation</Name>
-      <Desc>If the attack is &gt; than the sum of dice rolls on target's Combat Page, they take damage, and their page is destroyed.</Desc>
+      <Desc>หากเป็นการโจมตี &gt; หากผลรวมลูกเต๋าต่อสู้ของเราของมากกว่าเป้าหมาย เป้าหมายได้รับความเสียหายและลูกเต๋าของเป้าหมายถูกทำลาย</Desc>
     </BattleEffectText>
     <BattleEffectText ID="AreaDiceEach_Keyword">
-      <Name>Individual</Name>
-      <Desc>If the dice roll is larger than the target's current die, they take damage, and the die is destroyed.</Desc>
+      <Name>ปัจเจก</Name>
+      <Desc>หากทอยลูกเต๋าได้มากกว่าเป้าหมายทำดาเมจแล้วทำลายลูกเต๋า</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="FairyMeal">
-      <Name>Ravenousness</Name>
-      <Desc>Current damage total: {0}.</Desc>
+      <Name>ความหิวโหย</Name>
+      <Desc>รวมความเสียหายในปัจจุบัน: {0}.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="OnlyOne_Keyword">
-      <Name>Singleton</Name>
-      <Desc>A character is 'Singleton' if their Combat Bookshelf does not have any duplicate pages.</Desc>
+      <Name>ซิงเกิ้ลชั่น</Name>
+      <Desc>ตัวละครจะ 'ซิงเกิ้ลชั่น' หากเด็คมีการ์ดที่ไม่ซ้ำกัน</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="RedHood_Angry">
-      <Name>Rage</Name>
-      <Desc>Lasts 2 Scenes. Gain +2 Strength each Scene, and use Mass Attack pages.</Desc>
+      <Name>โทสะ</Name>
+      <Desc>กินเวลา 2 ฉาก ได้รับความแข็งแกร่ง +2 ในแต่ละฉากและใช้การ์ดหน้าการโจมตีหมู่</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedHood_Rage">
-      <Name>Astray Rage</Name>
-      <Desc>Permanently persists. Gain +5 Strength and Haste each Scene, and use Mass Attack pages.</Desc>
+      <Name>ลูกหลงโทสะ</Name>
+      <Desc>อยู่อย่างถาวร ได้รับ กำลังและว่องไว +5 ในแต่ละฉากและใช้การ์ดหน้าการโจมตีหมู่</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedHood_Hunt">
       <Name>Prey</Name>
-      <Desc>Take +2-6 damage from attacks done by the librarian with the Abnormality page 'Prey'.</Desc>
+      <Desc>รับความเสียหายเพิ่ม 2-6 จากการโจมตีของบรรณารักษ์ที่มีหน้าความผิดปกติ 'Prey'.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="WarpCharge">
-      <Name>Charge</Name>
-      <Desc>Affects the properties of certain Combat Pages. 10 Charges can be stored at once.</Desc>
+      <Name>ชารจ์</Name>
+      <Desc>ส่งผลต่อคุณสมบัติของหน้าการต่อสู้บางหน้า สามารถจัดเก็บได้ 10 ชาร์จ</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Lumberjack_Heart">
-      <Name>Warm Heart</Name>
-      <Desc>The max. roll value of all dice is raised by +{0}.</Desc>
+      <Name>หัวใจที่อบอุ่น</Name>
+      <Desc>มูลค่าสูงสุดของการทอยลูกเต๋าทั้งหมดจะเพิ่มขึ้น {0}.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="GalaxyBoy_Stone">
-      <Name>A Token of Friendship</Name>
-      <Desc>At the start of the Scene, restore 10% of Max HP.</Desc>
+      <Name>สัญลักษณ์แห่งมิตรภาพ</Name>
+      <Desc>เมื่อเริ่มฉาก ฟื้นฟู HP สูงสุด 10%</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Smoke">
-      <Name>Smoke</Name>
-      <Desc>Take {0}% more damage. Can stack up to 10. Dice Power +1 if the character has 9+ Smoke. Lose 1 Smoke at the end of the Scene.</Desc>
+      <Name>ควัน</Name>
+      <Desc>รับความเสียหายเพิ่มขึ้น {0}% สามารถซ้อนทับได้สูงสุด 10 พลังลูกเต๋า +1 ถ้าตัวละครมีควัน 9+ เสียควัน 1 อันเมื่อจบฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Smoke_buf">
-      <Name>Smoke</Name>
-      <Desc>Deal {0}% more damage. Can stack up to 10. Dice Power +1 if the character has 9+ Smoke. Lose 1 Smoke at the end of the Scene.</Desc>
+      <Name>ควัน</Name>
+      <Desc>สร้างความเสียหายเพิ่มขึ้น {0}% สามารถซ้อนทับได้สูงสุด 10 พลังลูกเต๋า พลัง +1 ถ้าตัวละครมีควัน 9+ เสียควัน 1 อันเมื่อจบฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Smoke_Keyword">
-      <Name>Smoke</Name>
-      <Desc>Amplifies damage taken. At 9+ Smoke, all dice gain +1 Power. Stacks up to 10. -1 Smoke at the end of each Scene.</Desc>
+      <Name>ควัน</Name>
+      <Desc>ขยายความเสียหายที่ได้รับ เมื่อควัน 9+ ลูกเต๋าทุกลูกได้รับพลัง +1 ซ้อนได้มากถึง 10 เสียควัน 1 อันเมื่อจบฉา</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Butterfly_Seal">
-      <Name>Sealed</Name>
-      <Desc>{0} Speed dice become unusable. Leftmost dice is sealed first.</Desc>
+      <Name>ปิดผนึก</Name>
+      <Desc>ลูกเต๋า {0} ลูกใช้ไม่ได้ ลูกเต๋าซ้ายสุดจะถูกปิดผนึกก่อน</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Freischutz_Bullet">
-      <Name>Magic Bullet</Name>
-      <Desc>Every 7th Melee or Ranged page targets random characters, including allies.</Desc>
+      <Name>กระสุนเงิน</Name>
+      <Desc>การ์ดโจมตีระยะประชิดหรือโจมตีระยะไกลการโจมตีครั้งที่ 7 จะกำหนดเป้าหมายตัวละครแบบสุ่มรวมถึงพันธมิตรด้วย</Desc>
       <!--<Desc>The count rises each time the character uses a page. The seventh page gains 3-7 Power; the page has a 30% chance to target random characters including allies.</Desc>-->
     </BattleEffectText>
 
@@ -329,85 +329,85 @@ If the character dies with this ailment, a Worker Bee is spawned next Scene.</De
       <Desc>Librarians who are not targeted by the Wolf cannot act.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wolf_Claw">
-      <Name>Claws of Savagery</Name>
-      <Desc>Gain +2 Strength for this Scene; cannot be targeted; cannot clash against enemies; inflict 1 Bleed next Scene for every successful hit.</Desc>
+      <Name>กรงเล็บแห่งความโหดเหี้ยม</Name>
+      <Desc>รับความแข็งแกร่ง +2 สำหรับฉากนี้ไม่สามารถกำหนดเป้าหมายได้ ไม่สามารถปะทะกับศัตรูได้ สร้างเลือดออก 1 ฉากถัดไปสำหรับทุก ๆ การโจมตีที่สำเร็จ</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="Crying_Weak">
-      <Name>Manifested Mind</Name>
-      <Desc>All resistances change to "Fatal".</Desc>
+      <Name>จิตแตก</Name>
+      <Desc>ความต้านทานทั้งหมดเปลี่ยนเป็น "ร้ายแรง".</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="BurningGirl_Burn">
-      <Name>Cinder</Name>
-      <Desc>Offensive dice gain “[On Hit] Inflict 1 Burn”.</Desc>
+      <Name>รอจุด</Name>
+      <Desc>ลูกเต๋าได้รับ “[เมื่อตี] ทำดาเมจ 1 เผาไหม้”.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BurningGirl_Ember">
-      <Name>Ember</Name>
-      <Desc>Max. roll value of the first die of pages with 'Matchlight' increases by 1 for each stack. The die inflicts Burn equal to the stacks of Ember on hit. If there are 4 or more stacks of Ember, explode after rolling the first die with a 25% chance, inflicting damage equal to the max. roll value to self.</Desc>
+      <Name>ถ่าน</Name>
+      <Desc>สูงสุด มูลค่าการม้วนของกระดาษแผ่นแรกที่มี 'Matchlight' เพิ่มขึ้น 1 ต่อแต่ละกอง ลูกเต๋าจะสร้างความเสียหายให้เผาไหม้ เท่ากับกอง ถ่าน เมื่อโจมตีโดนหากมี ถ่าน 4 กองขึ้นไป ระเบิดหลังจากทอยลูกเต๋าแรกโดยมีโอกาส 25% สร้างความเสียหายเท่ากับจำนวนสูงสุดแล้วรีใหม่</Desc>
     </BattleEffectText>
     <BattleEffectText ID="SingingMachine_Rhythm">
-      <Name>Rhythm</Name>
-      <Desc>While this effect is active, gain 1 Strength at the start of the Scene, and take +2-5 Stagger damage from attacks. Lose 1 Rhythm at the end of the Scene.</Desc>
+      <Name>จังหวะ</Name>
+      <Desc>ขณะที่เอฟเฟกต์นี้ทำงาน ได้รับ 1 กำลัง เมื่อเริ่มฉาก และรับความเสียหาย Stagger 2-5 จากการโจมตี เสีย 1 จังหวะเมื่อจบฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Porccubus_Happy">
-      <Name>Thrill</Name>
-      <Desc>If upon taking a hit Thrill reaches 3 stacks, take 2-7 damage and Stagger damage, and lose this status.</Desc>
+      <Name>ตื่นเต้น</Name>
+      <Desc>หากโดน ตื่นเต้น ถึง 3 สแตค รับความเสียหาย 2-7 ดาเมจและ Stagger ดาเมจ และลบสถานะนี้</Desc>
     </BattleEffectText>
 
 		<BattleEffectText ID="onlypage_yujin_Keyword">
-			<Name>Yujin’s Exclusive Page</Name>
-			<Desc>Can only be set in the deck of Yujin’s Key page.</Desc>
+			<Name>เฉพาะ Yujin’s Page</Name>
+			<Desc>สามารถตั้งได้เฉพาะในเด็คของ Yujin’s Key page เท่านั้น</Desc>
 		</BattleEffectText>
 		<BattleEffectText ID="onlypage_sweeper_Keyword">
-			<Name>Sweepers’ Exclusive Page</Name>
-			<Desc>Can only be set in the decks of Sweepers’ Key pages.</Desc>
+			<Name>เฉพาะ Sweepers’ Page</Name>
+			<Desc>สามารถตั้งได้เฉพาะในเด็คของ Sweepers’ Page เท่านั้น</Desc>
 		</BattleEffectText>
 		<BattleEffectText ID="onlypage_warp_Keyword">
-			<Name>Rose, Lesti, and Sen’s Exclusive Page</Name>
-			<Desc>Can only be set in the decks of Rose, Lesti, and Sen’s Key pages.</Desc>
+			<Name>เฉพาะ Rose, Lesti, and Sen’s Page</Name>
+			<Desc>สามารถตั้งได้เฉพาะในเด็คของ Rose, Lesti, and Sen’s Page เท่านั้น</Desc>
 		</BattleEffectText>
 		<BattleEffectText ID="onlypage_philip_Keyword">
 			<Name>Unstable Crying Children’s Exclusive Page</Name>
-			<Desc>Can only be set in the deck of Unstable Page of the Crying Children.</Desc>
+			<Desc>ตั้งได้ในเด็คขอ Unstable Page of the Crying Children.</Desc>
 		</BattleEffectText>
 		<BattleEffectText ID="onlypage_lowel_Keyword">
-			<Name>Lowell’s Exclusive Page</Name>
-			<Desc>Can only be set in the deck of Lowell’s Key page.</Desc>
+			<Name>เฉพาะ Lowell’s Page</Name>
+			<Desc>สามารถตั้งได้เฉพาะในเด็คของ Lowell’s Page เท่านั้น</Desc>
 		</BattleEffectText>
     <BattleEffectText ID="onlypage_chulsan_Keyword">
-      <Name>Cecil and Mei’s Exclusive Page</Name>
-      <Desc>Can only be set in the decks of Cecil and Mei’s Key pages.</Desc>
+      <Name>เฉพาะ Cecil and Mei’s Page</Name>
+      <Desc>สามารถตั้งได้เฉพาะในเด็คของ Cecil and Mei’s Page เท่านั้น</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="HodFinal_CopiousBleeding">
-      <Name>Profound Wound</Name>
-      <Desc>If upon taking a hit Profound Wound reaches 5 stacks, take damage equal to 25% of Max HP.</Desc>
+      <Name>บาดแผลลึก</Name>
+      <Desc>หากโดน บาดแผลลึก ถึง 5 แต้ม จะได้รับความเสียหายเท่ากับ 25% ของ HP สูงสุด</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="CardBuf_Latitia_Heart">
-      <Name>Laetitia’s Gift</Name>
-      <Desc>Explodes in {0} Scene(s)</Desc>
+      <Name>ของขวัญของ Laetitia</Name>
+      <Desc>ระเบิดใน {0} ฉาก(s)</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Latitia_Heart">
-      <Name>Pit-a-pat</Name>
-      <Desc>Gain a stack every time a 'Gift' page explodes. At 3 stacks, the character is killed, and a Wee Witch’s Friend is spawned next Scene.</Desc>
+      <Name>เปาะแปะ</Name>
+      <Desc> รับสแต็คทุกครั้งที่หน้า 'ของขวัญ' ระเบิด ถ้าครบ 3 สแต็คตัวละครจะถูกฆ่า และเพื่อนของ Wee Witch จะเกิดในฉากถัดไป</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Latitia_Gift">
-      <Name>Giftee</Name>
-      <Desc>If the character clashes against an opponent other than the one that gave the Gift, take 2-7 damage at the start of the clash and 2 Bleed next Scene at a 40% chance.</Desc>
+      <Name>กิ๊ฟซี่</Name>
+      <Desc>หากตัวละครปะทะกับคู่ต่อสู้อื่นที่ไม่ใช่ผู้ที่ให้ของขวัญ รับความเสียหาย 2-7 เมื่อเริ่มการปะทะ และ 2 เลือดออกในฉากถัดไปมีโอกาส 40%</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BlackSwan_Nettle">
-      <Name>Nettle Clothing</Name>
-      <Desc>At the start of the Scene, gain Protection equal to the amount of this status effect. A stack is lost upon taking a hit.</Desc>
+      <Name>เสื้อหมอตำแย</Name>
+      <Desc>เมื่อเริ่มฉาก ได้รับการป้องกันเท่ากับจำนวนเอฟเฟกต์สถานะนี้ จะหายไปเมื่อถูกโจมตี</Desc>
     </BattleEffectText>
 
 
     <BattleEffectText ID="HodFinal_BlackSwanDeadBro">
-      <Name>Disappeared Family</Name>
-      <Desc>If the amount of this status is 4 or higher at the start of the Scene, use a special Combat Page.</Desc>
+      <Name>ครอบครัวที่สาบสูญ </Name>
+      <Desc>หากจำนวนของสถานะนี้เป็น 4 หรือสูงกว่าที่จุดเริ่มต้นของฉากจะได้การ์ดต่อสู้พิเศษ</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Laetitia_Gift_Keyword">
@@ -416,151 +416,151 @@ If the character dies with this ailment, a Worker Bee is spawned next Scene.</De
     </BattleEffectText>
 
     <BattleEffectText ID="onlypage_thumb">
-      <Name>The Thumb’s Exclusive Page</Name>
-      <Desc>Can only be set in the decks of Thumb Members. (Soldato, Kalo, Katriel, and Denis’s Key pages)</Desc>
+      <Name>เฉพาะ The Thumb’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในสำรับของ Thumb Members เท่านั้น (Soldato, Kalo, Katriel, and Denis’s Key pages)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_thumb2">
-      <Name>Kalo, Katriel, and Denis’s Exclusive Page</Name>
-      <Desc>Can only be set in the decks of Kalo, Katriel, and Denis’s Key pages.</Desc>
+      <Name>เฉพาะ Kalo, Katriel, and Denis’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในสำรับของ Kalo, Katriel, and Denis’s Key pages.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_boris">
-      <Name>Boris’ Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Boris’ Key page.</Desc>
+      <Name>เฉพาะ Boris’ Page</Name>
+      <Desc>ตั้งได้เฉพาะในสำรับของ Boris’ Key page.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="bullet_keyword">
-      <Name>Ammunition</Name>
-      <Desc>When used or discarded, gives bonus effects to Ranged Combat Pages.</Desc>
+      <Name>กระสุน</Name>
+      <Desc>เมื่อใช้หรือทิ้ง จะมอบเอฟเฟกต์โบนัสให้กับเพจการต่อสู้ระยะไกล</Desc>
     </BattleEffectText>
     <BattleEffectText ID="DmgUp">
-      <Name>Damage Up</Name>
-      <Desc>All Offensive dice the character plays deal +{0} damage for the Scene.</Desc>
+      <Name>ดาเมจอัพ</Name>
+      <Desc>ลูกเต๋าโจมตีทั้งหมดที่ตัวละครเล่นจะสร้างความเสียหาย +{0} สำหรับฉาก</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Universe_DecreaseMaxBp">
-      <Name>Penetrated Boundary</Name>
-      <Desc>Max Stagger Resist decreased by {0}%.</Desc>
+      <Name>ทะลุเขตแดน</Name>
+      <Desc>Stagger Resist สูงสุดลดลง {0}%</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Universe_Enlightenment">
-      <Name>Uncontainable Knowledge</Name>
-      <Desc>Max Stagger Resist decreased by 50% because of 'Enlightenment' in hand.</Desc>
+      <Name>ความรู้ที่ควบคุมไม่ได้</Name>
+      <Desc>Stagger Resist สูงสุดลดลง 50% เนื่องจาก 'Enlightenment' อยู่ในมือ</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Alriune_Attacker">
-      <Name>Laurel Wreath of Atonement</Name>
-      <Desc>Only this character can damage Alriune (and someone wielding its power).</Desc>
+      <Name>พวงหรีดแห่งการชดใช้</Name>
+      <Desc>เฉพาะตัวละครนี้เท่านั้นที่สามารถสร้างความเสียหายให้กับ Alriune (และบางคนที่ใช้พลังของมัน)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Alriune_Debuf">
-      <Name>Aroma</Name>
-      <Desc>At the start of the Scene, take {0} Stagger damage and halve the stack. (Rounds down)</Desc>
+      <Name>กลิ่นหอม</Name>
+      <Desc>เมื่อเริ่มฉาก รับความเสียหาย {0} Stagger และลดสแต็คลงครึ่งหนึ่ง (ปัดเศษลง)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ResistWeakBP">
-      <Name>Stagger Resistance Down</Name>
-      <Desc>All Stagger damage resistances change to "Fatal" for this Scene.</Desc>
+      <Name>ลดต้านทานStagger</Name>
+      <Desc>ค่าต้านทานความเสียหายของ Stagger ทั้งหมดเปลี่ยนเป็น "ร้ายแรง" สำหรับฉากนี้</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="Orchestra_Enthusiastic">
       <Name>Fervent Adoration</Name>
-      <Desc>Uncontrollable. Upon becoming Staggered, this status is removed, and the character recovers from Stagger next Scene.
-	  Only takes Stagger damage from sane librarians; only takes physical damage from other librarians with this status. Takes no damage from the Abnormality's attacks (Excluding the Finale)</Desc>
+      <Desc>ควบคุมไม่ได้และตัวละครจะฟื้นจาก Stagger ในฉากนี้ฉากถัดไป
+	  รับเฉพาะความเสียหายของ Stagger จากบรรณารักษ์เท่านั้นและไม่ได้รับความเสียหายจากการโจมตีของแอปนอมอลลิตี้ (ไม่รวมตอนจบ)</Desc>
     </BattleEffectText>
 	<BattleEffectText ID="PowerUpOrchestraEgo">
-      <Name>Pianissimo</Name>
-      <Desc>Angela gains +2 Power in a clash against this character.</Desc>
+      <Name>เปียนิสซิโม</Name>
+      <Desc>แองเจล่าได้รับพลัง +2 ในการปะทะกับตัวละครนี้</Desc>
 	</BattleEffectText>
     <BattleEffectText ID="AllPowerUp">
-      <Name>Power Up</Name>
-      <Desc>Dice Power +{0}</Desc>
+      <Name>เพิ่มพลัง</Name>
+      <Desc>เพิ่มพลังลูกเต๋า +{0}</Desc>
     </BattleEffectText>
     <BattleEffectText ID="DecreaseSpeedTo1">
-      <Name>Fixed Speed: 1</Name>
-      <Desc>Speed is fixed at 1 for this Scene.</Desc>
+      <Name>ฟิกเซอร์ความเร็ว: 1</Name>
+      <Desc>ฟิกเซอร์ความเร็วคงที่ 1 สำหรับฉากนี้</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Alriune_Flower">
-      <Name>Petal</Name>
-      <Desc>If the character takes 4 hits from the librarian with the Abnormality page 'Spring’s Genesis', all characters take 3-7 Stagger damage, and the character becomes untargetable next Scene.</Desc>
+      <Name>กลีบดอก</Name>
+      <Desc>ถ้าตัวละครโดนบรรณารักษ์ตี 4 ครั้งด้วยหน้าผิดปกติ 'Spring’s Genesis' ตัวละครทั้งหมดได้รับความเสียหาย 3-7 Stagger และตัวละครนี้จะไม่ตกเป็นเป้าหมายในฉากต่อไป</Desc>
     </BattleEffectText>
     <BattleEffectText ID="NoTargeting">
-      <Name>Untargetable</Name>
-      <Desc>This character cannot be targeted.</Desc>
+      <Name>กำหนดเป้าหมายไม่ได้</Name>
+      <Desc>ไม่สามารถกำหนดเป้าหมายได้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Orchestra_Affect">
-      <Name>Fervent Adoration</Name>
-      <Desc>Targets random characters, including allies. Deals +2-4 damage with attacks.</Desc>
+      <Name>ความรักที่เร่าร้อน</Name>
+      <Desc>กำหนดเป้าหมายแบบสุ่มรวมถึงพันธมิตร สร้างความเสียหายเพิ่ม 2-4 ด้วยการโจมตี</Desc>
     </BattleEffectText>
 
 
     <BattleEffectText ID="TakeBreakDamage2">
-      <Name>Stagger Vulnerable</Name>
-      <Desc>Take +2 Stagger damage from attacks for this Scene.</Desc>
+      <Name>Stagger เปราะบาง</Name>
+      <Desc>รับความเสียหายเพิ่ม 2 Stagger จากการโจมตีสำหรับฉากนี้</Desc>
     </BattleEffectText>
 
 
     <BattleEffectText ID="onlypage_nemo">
-      <Name>Nemo’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Nemo’s Key page.</Desc>
+      <Name>เฉพาะ Nemo’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Nemo’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_bada">
-      <Name>Bada’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Bada’s Key page.</Desc>
+      <Name>เฉพาะ Bada’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Bada’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_martina">
-      <Name>Martina's Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Martina's Key page.</Desc>
+      <Name>เฉพาะ Martina's Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Martina's Key page.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="NullifyPower">
-      <Name>Nullify Power</Name>
-      <Desc>Unaffected by Power-related effects for this Scene.</Desc>
+      <Name>ลบล้างพลัง</Name>
+      <Desc>ไม่ได้รับผลกระทบจากเอฟเฟกต์เกี่ยวกับการเพิ่มลดพลังสำหรับฉากนี้</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Alriune_Petal">
-      <Name>Petal</Name>
-      <Desc>When three petals bloom, a Mass Attack page will be used that Scene.</Desc>
+      <Name>กลีบดอก</Name>
+      <Desc>เมื่อสามกลีบบานจะได้การ์ดโจมตีหมู่ในฉากนั้น</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="BigBird_Charm">
-      <Name>Enchanted</Name>
-      <Desc>Uncontrollable. Speed is fixed at 1. Uses ‘Dazzled’, targeting Big Bird.</Desc>
+      <Name>ลูกหลง</Name>
+      <Desc>ฟิกเซอร์ความเร็วคงที่ 1. และใช้ ‘Dazzled’, มุ่งเป้าไปที่ Big Bird.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BigBird_Eye">
-      <Name>Stared At</Name>
-      <Desc>For {0} Scenes, can only target the character that inflicted this status.</Desc>
+      <Name>จับจ้อง</Name>
+      <Desc>สำหรับฉาก {0} สามารถกำหนดเป้าหมายเฉพาะตัวละครที่ติดสถานะนี้เท่านั้น</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BigBird_Sleep">
-      <Name>Asleep</Name>
-      <Desc>Becomes Staggered for this Scene.</Desc>
+      <Name>หลับไหล</Name>
+      <Desc>ติดสถานะStaggered สำหรับฉากนี้</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Lumberjack_Cut">
-      <Name>A Warm Heart</Name>
-      <Desc>Boost Offensive dice Power by 1-2 if the character has 3 or more Light at the start of the combat phase.</Desc>
+      <Name>หัวใจที่อบอุ่น</Name>
+      <Desc>เพิ่มพลังลูกเต๋าโจมตี 1-2 หากตัวละครมีแสงตั้งแต่ 3 ดวงขึ้นไปในช่วงเริ่มต้นของการต่อสู้</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="SnowQueen_Debuf">
-      <Name>Chill</Name>
-      <Desc>1 Chill is lost at the start of each Scene.
-At the start of the Scene, if the character has 4 or more Chill, gain 2 Bind and Feeble.
-If the character has 6 or more Chill, become Immobilized, and remove all Chill from self at the start of the next Scene.</Desc>
+      <Name>ความหนาว</Name>
+      <Desc>ความความหนาวจะหายไป 1 จุดเมื่อเริ่มต้นแต่ละฉาก
+เมื่อเริ่มฉากหากตัวละครมีความหนาว 4 จุดขึ้นไป จะได้รับ พันธนาและอ่อนแรง 2 แต้ม
+หากตัวละครมีความหนาว 6 จุดขึ้นไปจะติดสถานะ หมดสภาพ และลบ ความหนาว ทั้งหมดออกจากตัวละครนี้เมื่อเริ่มฉากถัดไป</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Vibrate">
-      <Name>Vibration</Name>
+      <Name>แรงสั่นสะเทือน</Name>
       <Desc>???</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="BloodyTree_Emotion_Damage">
       <Name>Lean, Bloody Wings</Name>
-      <Desc>When this character engages in combat, all characters except themself, the target, and the librarian with the Abnormality page ‘Lean, Bloody Wings’ take 1-10 damage.</Desc>
+      <Desc>เมื่อตัวละครนี้เข้าร่วมการต่อสู้ ตัวละครทั้งหมดยกเว้นตัวละครนี้กับเป้าหมายและบรรณารักษ์ที่มีหน้าผิดปกติ 'Lean, Bloody Wings' จะได้รับความเสียหาย 1-10</Desc>
     </BattleEffectText>
     <BattleEffectText ID="SnowQueen_Emotion_Shard">
-      <Name>Ice Splinter</Name>
-      <Desc>If the stack is 3 or higher at the end of the Scene, the character becomes Immobilized for the next Scene.</Desc>
+      <Name>เสี้ยนน้ำแข็ง</Name>
+      <Desc>หากสแต็กอยู่ที่ 3 หรือสูงกว่าเมื่อจบฉาก ตัวละครนั้นจะถูกทำให้หมดสภาพสำหรับฉากถัดไป</Desc>
     </BattleEffectText>
     <BattleEffectText ID="SnowQueen_Emotion_Stun">
       <Name>Frozen</Name>
-      <Desc>Cannot act for this Scene. If it's your enemy, they gain 6 Bind next Scene.</Desc>
+      <Desc>ไม่สามารถทำอะไรได้กับฉากนี้หากศัตรูของคุณ พวกเขาจะได้รับ 6 พันธนาในฉากถัดไป</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="HokmaFirstCounter">
@@ -574,120 +574,120 @@ If the character has 6 or more Chill, become Immobilized, and remove all Chill f
 	
     
      <BattleEffectText ID="Mountain_WeakResist">
-      <Name>Stagger Resistance Down</Name>
-      <Desc>All Stagger damage resistances change to "Fatal" for this Scene.</Desc>
+      <Name>เกราะ Stagger ลดลง</Name>
+      <Desc>ค่าต้านทานความเสียหายของ Stagger ทั้งหมดเปลี่ยนเป็น "ร้ายแรง" สำหรับฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Target">
-      <Name>Yellow Brick Road</Name>
-      <Desc>Targeted by The Road Home and Scaredy Cat.
-Scaredy Cat gains +5 Power when attacking this character.
-If all attacks of 'Friends! Let’s Go Home~!' fail to hit the target with this status, The Road Home's last attack is canceled.</Desc>
+      <Name>ถนนอิฐสีเหลือง</Name>
+      <Desc>กำหนดเป้าหมายโดย ถนนกลับบ้าน และ Scaredy Cat.
+Scaredy Cat ได้รับพลัง +5 เมื่อโจมตีตัวละครนี้.
+หากการโจมตีทั้งหมดของ 'Friends! Let’s Go Home~!' ไม่สามารถโจมตีเป้าหมายด้วยสถานะนี้ได้การโจมตีครั้งสุดท้ายของ ถนนกลับบ้าน จะถูกยกเลิก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Coward_Strength">
-      <Name>Courage</Name>
-      <Desc>Gains Strength equal to the amount of times The Road Home was attacked this Scene.</Desc>
+      <Name>ความกล้า</Name>
+      <Desc>ได้รับกำลัง เท่ากับจำนวนครั้งที่ ถนนกลับบ้าน ถูกโจมตีในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Super_Cancel">
-      <Name>Home that Cannot be Reached</Name>
-      <Desc>The counter goes up whenever the page targeting the 'Home' is canceled.
-If this reaches 3, a powerful Combat Page is used the following Scene.</Desc>
+      <Name>บ้านที่ไปไม่ถึง</Name>
+      <Desc>ตัวนับจะเพิ่มขึ้นเมื่อเป้าหมายคือ 'บ้าน' ถูกยกเลิก.
+หากถึง 3 การ์ดต่อสู้อันทรงพลังจะถูกใช้ในฉากต่อไปนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Emotion_Target">
-      <Name>Stepping Stone</Name>
-      <Desc>The librarian with the Abnormality page deals 3 more damage whenever they attack a target in the right order.</Desc>
+      <Name>หนทางที่ลำบาก</Name>
+      <Desc>บรรณารักษ์จะสร้างความเสียหายเพิ่มขึ้น 3 ดาเมจเมื่อใดก็ตามที่พวกเขาโจมตีเป้าหมายตามลำดับที่ถูกต้อง</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Emotion_Protected">
-      <Name>A Road Walked Together</Name>
-      <Desc>If an ally intercepts an attack that initially targeted this character, their page gains 1-2 Power</Desc>
+      <Name>หนทางที่ไปด้วยกัน</Name>
+      <Desc>หากพันธมิตรขัดขวางการโจมตีที่เป้าหมายกำหนดตัวละครในตอนแรก เพจของพวกเขาจะได้รับพลังเพิ่ม 1-2</Desc>
     </BattleEffectText>
     <BattleEffectText ID="DangoCreature_Emotion_Healed">
-      <Name>Division</Name>
-      <Desc>The total amount of HP recovered this Act.</Desc>
+      <Name>แผนก</Name>
+      <Desc>จำนวน HP ทั้งหมดที่จะกู้คืนฉากนี้</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="IndexRelease">
-      <Name>Blade Unlocked</Name>
-      <Desc>Dice Power +1</Desc>
+      <Name>ลับคมมีด</Name>
+      <Desc>พลังลูกเต๋า +1</Desc>
     </BattleEffectText>
     <BattleEffectText ID="IndexReleaseCount">
-      <Name>Unlocking</Name>
-      <Desc>Number of unique Combat Pages used this Act: {0}</Desc>
+      <Name>กำลังปลดล็อก</Name>
+      <Desc>จำนวนการ์ดการต่อสู้ที่ใช้ไม่ซ้ำกัน: {0}</Desc>
     </BattleEffectText>
     <BattleEffectText ID="IndexOnlyCardCount">
-      <Name>Mass Attack Timer</Name>
-      <Desc>Uses a Mass Attack every 4 Scenes; if no other Proxies are present, uses it every 2 Scenes. (Will be used in {0} Scenes)</Desc>
+      <Name>ช่วงเวลา ปูพรม </Name>
+      <Desc>ใช้การโจมตีหมู่ทุกๆ 4 ฉาก; หากไม่มีพร็อกซีอื่นอยู่ ให้ใช้ทุก 2 ฉาก (จะถูกใช้ {0} ฉาก)</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="IndexReleaseCard2_Keyword">
-      <Name>Unlock-Ⅱ</Name>
-      <Desc>Combat Page with Slash (2-6), Pierce (1-3) dice; ‘[On Use] Exhaust this page and add 'Unlock-Ⅲ' to hand’</Desc>
+      <Name>ปลดล็อค-Ⅱ</Name>
+      <Desc>ได้การ์ดหน้าการต่อสู้ ฟัน (2-6),แทง (1-3) ; ‘[เมื่อใช้] เพิ่มการ์ด 'ปลดล็อค-Ⅲ' ขึ้นมือ</Desc>
     </BattleEffectText>
     <BattleEffectText ID="IndexReleaseCard3_Keyword">
-      <Name>Unlock-Ⅲ</Name>
-      <Desc>Combat Page with Slash (3-7), Pierce (2-4) dice; ‘[On Use] Restore 1 Light and draw 1 page’</Desc>
+      <Name>ปลดล็อค-Ⅲ</Name>
+      <Desc>ได้การ์ดหน้าการต่อสู้ ฟัน (3-7),แทง (2-4) ; ‘[เมื่อใช้]  ฟื้นฟูแสง 1 ดวง จั่วการ์ด 1 ใบ’</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="onlypage_esther_Keyword">
-      <Name>Esther’s Exclusive Page</Name>
-			<Desc>Can only be set in the deck of Esther’s Key page.</Desc>
+      <Name>เฉพาะ Esther’s Page</Name>
+			<Desc>ตั้งได้เฉพาะในเด็คขอ Esther’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_hubert_Keyword">
-      <Name>Hubert’s Exclusive Page</Name>
-			<Desc>Can only be set in the deck of Hubert’s Key page.</Desc>
+      <Name>เฉพาะ Hubert’s Page</Name>
+			<Desc>ตั้งได้เฉพาะในเด็คขอ Hubert’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_gloria_Keyword">
-      <Name>Gloria’s Exclusive Page</Name>
-			<Desc>Can only be set in the deck of Gloria’s Key page.</Desc>
+      <Name>เฉพาะ Gloria’s Page</Name>
+			<Desc>ตั้งได้เฉพาะในเด็คขอ Gloria’s Key page.</Desc>
     </BattleEffectText>
     
        <BattleEffectText ID="Decay">
-      <Name>Erosion</Name>
-      <Desc>At the end of the Scene, take {0} damage and lose 1 stack of Erosion. When taking a hit, take bonus damage and Stagger damage equal to the amount of this status.</Desc>
+      <Name>กัดกร่อน</Name>
+      <Desc>ในตอนท้ายของฉากรับความเสียหาย {0} และเสียกัดกร่อน 1 กอง เมื่อถูกโจมตีจะได้รับโบนัสความเสียหายและความเสียหายจาก Stagger เท่ากับจำนวนของสถานะนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ServantOfWrath_Wand">
-      <Name>Cane</Name>
-      <Desc>When Combat Page 'You Shall Fall…!' is used against this character, all dice on that page gain Power proportional to the amount of this status.</Desc>
+      <Name>ไม้เรียว(ไม้เท้า)</Name>
+      <Desc>เมื่อการ์ดการต่อสู้ 'You Shall Fall…!' ใช้กับตัวละครนี้ ลูกเต๋าทั้งหมดในหน้านั้นจะได้รับพลังตามสถานะนี้</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Nihil_Hatred">
-      <Name>Villain</Name>
-      <Desc>While the character has this effect, gain 3 Fragile at the start of the Scene.</Desc>
+      <Name>วายร้าย</Name>
+      <Desc>ในขณะที่ตัวละครมีเอฟเฟกต์นี้ จะได้รับสถานะเปราะบาง 3 แต้มเมื่อเริ่มฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nihil_Meaningless">
-      <Name>Void</Name>
-      <Desc>While the character has this effect, gain 7 Feeble, Disarm, and Fragile at the start of the Scene</Desc>
+      <Name>สูญ</Name>
+      <Desc>ในขณะที่ตัวละครมีเอฟเฟกต์นี้ ได้รับ 7 อ่อนแรง ตัดกำลัง และเปราะบางเมื่อเริ่มฉาก</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Angry_Angry">
-      <Name>Wrath</Name>
-      <Desc>Uncontrollable; targets random characters including allies. At the start of the Scene, gain 2 Strength, restore 2 Light, and draw 2 more pages. (The drawback is nullified if the conditions for a certain Abnormality page are fulfilled.)</Desc>
+      <Name>โทสะ</Name>
+      <Desc>ควบคุมไม่ได้;กำหนดเป้าหมายตัวละครแบบสุ่มรวมถึงพันธมิตรเมื่อเริ่มฉาก ได้รับ Strength 2 แต้ม ฟื้นฟูแสง 2 ดวงและจั่าวการ์ด 2 ใบ (ข้อเสียจะไร้ผลหากตรงตามเงื่อนไขสำหรับหน้าความผิดปกติบางอย่าง)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Angry_Friend">
       <Name>Companion</Name>
       <Desc>If a librarian with the corresponding Abnormality page defeats this character, all librarians restore 3 Light and recover 10 HP and Stagger Resist, and a new 'Companion' can be set.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nihil_MagicalPower">
-      <Name>Magical Girls</Name>
-      <Desc>While all four Magical Girl pages are in hand, the librarian gains 1-2 Strength each Scene, and is not affected by Feeble, Disarm, or Bind.</Desc>
+      <Name>สาวน้อยเวทมนต์</Name>
+      <Desc>ขณะที่ทั้งสี่หน้า Magical Girl อยู่ในมือของบรรณารักษ์จะได้รับ Strength 1-2 ในแต่ละฉากและไม่ได้รับผลกระทบจาก อ่อนแรง,ตัดกำลังและพันธนา</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nihil_Nihil">
       <Name>Nihil</Name>
-      <Desc>Inflict 5 Feeble, Disarm, and Bind on all other characters at the start of the Scene. The downsides of Abnormality pages 'Greed', 'Hate', and 'Wrath' are nullified in the following ways:
-Greed: Only the librarian can activate the effect.
-Hate: No longer take bonus Stagger damage upon losing a clash.
-Wrath: Regain control of the librarian.</Desc>
+      <Desc>ทำดาเมจ 5 อ่อนแรง,ตัดกำลัง,และพันธนา กับตัวละครทั้งหมดที่จุดเริ่มต้นของฉาก. ข้อเสียของหน้าความผิดปกติ 'ความโลภ', 'เกลียด', and 'โทสะ' จะไทำงาน:
+ความโลภ: เฉพาะบรรณารักษ์เท่านั้นที่สามารถเปิดใช้งานเอฟเฟกต์ได้.
+เกลียด: ไม่ได้รับโบนัสความเสียหายจาก Stagger เมื่อแพ้การปะทะอีกต่อไป.
+โทสะ: คืนการควบคุมของบรรณารักษ์.</Desc>
     </BattleEffectText>
      <BattleEffectText ID="onlypage_chun_Keyword">
-      <Name>Chun’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Chun’s Key page.</Desc>
+      <Name>เฉพาะ Chun’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Chun’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="CardBuf_burnUp_Keyword">
-      <Name>Furious Fire Rending the Skies</Name>
-      <Desc>While this page is being used, inflict twice as much Burn using Combat Pages.</Desc>
+      <Name>เพลิงผลาญ</Name>
+      <Desc>ขณะที่ใช้หน้านี้ ให้เผาไหม้สองเท่าเมื่อใช้หน้าต่อสู้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BurnSpread_Keyword">
       <Name>Force of a Wildfire</Name>
-      <Desc>If this character becomes Staggered within the next {0} Scenes, all of their allies are inflicted with Burn equal to half of the amount of Burn this character had at the start of the next Scene. (Rounds down)</Desc>
+      <Desc>หากตัวละครนี้ Staggered ในฉากถัดไปพันธมิตรทั้งหมดของพวกเขาจะถูกเผาไหม้เท่ากับครึ่งหนึ่งของจำนวน {0} เผาไหม้ที่ตัวละครนี้มีเมื่อเริ่มต้นฉากถัดไป (ปัดเศษลง)</Desc>
     </BattleEffectText>
 
 
@@ -700,430 +700,430 @@ Wrath: Regain control of the librarian.</Desc>
       <Desc>The number of Remnants of Time defeated so far.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Silence_TimeOut">
-      <Name>Unstoppable Time</Name>
-      <Desc>The special pattern will occur in {0} Scenes.</Desc>
+      <Name>เวลาที่ไม่หยุดยั้ง</Name>
+      <Desc>รูปแบบพิเศษจะเกิดขึ้นใน {0} ฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Silence_PowerClash">
-      <Name>Flown Time</Name>
-      <Desc>Gains +3 Power in a *clash*.</Desc>
+      <Name>ชั่วโมงบิน</Name>
+      <Desc>เพิ่มพลัง 3 ให้กับ *การปะทะ*.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Silence_PowerAtk">
-      <Name>Flown Time</Name>
-      <Desc>Gains +3 Power in a *one-sided attack*.</Desc>
+      <Name>ชั่วโมงบิน</Name>
+      <Desc>เพิ่มพลัง 3 ให้กับ *การโจมตีใฝ่เดียว*.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="SmallBird_Punishment">
-      <Name>Punisher</Name>
-      <Desc>The first die of the first Combat Page played this Scene will gain +2-4 Power.</Desc>
+      <Name>ลงทัณฑ์</Name>
+      <Desc>ลูกเต๋าแรกของหน้าการต่อสู้ที่เล่นฉากนี้จะได้รับพลังเพิ่ม 2-4</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Smallbird_Beak">
-      <Name>Punishing Beak</Name>
-      <Desc>Damage +{0}</Desc>
+      <Name>จิกลงทัณฑ์</Name>
+      <Desc>กาเมจ +{0}</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Clock_Thirteen">
-      <Name>The Thirteenth Toll</Name>
-      <Desc>Pages used: {0}
-Every 13th page gains +1-2 Power.
-Dice on the page gain: ‘[On Hit] Deal bonus damage equal to (Dice value)% of target's Max HP’.</Desc>
+      <Name>เวลาที่สิบสาม</Name>
+      <Desc>การ์ดที่: {0}
+การ์ดใบที่ 13 จะได้รับพลังเพิ่ม 1-2
+ลูกเต๋าบนหน้าได้รับ: ‘[เมื่อตี] สร้างโบนัสความเสียหายเท่ากับ (มูลค่าลูกเต๋า)% ของ Max HP ของเป้าหมาย’.</Desc>
     </BattleEffectText>
   
     <BattleEffectText ID="RedMist">
-      <Name>Red Mist</Name>
-      <Desc>Dice Power +{0}. Can stack up to 5.</Desc>
+      <Name>หมอกแดง</Name>
+      <Desc>พลังลูกเต๋า +{0} สามารถซ้อนได้สูงสุด 5.</Desc>
     </BattleEffectText>
 
 <BattleEffectText ID="onlypage_redmist_Keyword">
-      <Name>The Red Mist’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of The Red Mist’s Key page.</Desc>
+      <Name>เฉพาะ The Red Mist’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ The Red Mist’s Key page.</Desc>
     </BattleEffectText>
 
 <BattleEffectText ID="BinahFairy">
-      <Name>Fairy</Name>
-      <Desc>Take {0} damage every time the character rolls a die. At the end of the Scene, take {0} damage and halve the Fairy stack. (Rounds down)</Desc>
+      <Name>แฟรี่</Name>
+      <Desc>รับความเสียหาย {0} ทุกครั้งที่ตัวละครทอยลูกเต๋า ในตอนท้ายของฉากรับความเสียหาย {0} และลดกองนางฟ้าลงครึ่งหนึ่ง (ปัดเศษลง)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedMistEgoReady">
-      <Name>Manifesting E.G.O</Name>
-      <Desc>Will manifest E.G.O in {0} Scene(s)</Desc>
+      <Name>สำแดง E.G.O</Name>
+      <Desc>สำแดง E.G.O ใน {0} ฉาก(s)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedMistEgo">
       <Name>E.G.O Manifested</Name>
-      <Desc>Can use 'Great Split: Horizontal'. Dice Power +2. Take Stagger damage if the character fails to deal 40+ damage every Scene.
-This effect is disabled upon becoming Staggered.</Desc>
+      <Desc>สามารถใช้ 'Great Split: Horizontal' พลังลูกเต๋า +2 รับความเสียหาย Stagger หากตัวละครล้มเหลวในการสร้างความเสียหาย 40+ ทุกฉาก
+เอฟเฟกต์นี้จะปิดใช้งานเมื่อถูกเซ</Desc>
     </BattleEffectText>
 
 <BattleEffectText ID="Fairy_Keyword">
-      <Name>Fairy X</Name>
-      <Desc>Take X damage every time a die rolls. At the end of the Scene, take X damage and halve the stack. (Rounds down)</Desc>
+      <Name>แฟรี่ X</Name>
+      <Desc>รับความเสียหาย X ทุกครั้งที่ตัวละครทอยลูกเต๋า ในตอนท้ายของฉากรับความเสียหาย X และลดกองนางฟ้าลงครึ่งหนึ่ง (ปัดเศษลง)</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Sin_Abnormality">
-      <Name>Sin</Name>
-      <Desc>If the amount of Sin exceeds a certain threshold at the start of the Scene, Judgement Bird will use a special Combat Page. Sin can be transferred to allies by attacking and damaging them. (Once per page)</Desc>
+      <Name>บาป</Name>
+      <Desc>หากปริมาณของบาปเกินเกณฑ์ที่กำหนดในตอนเริ่มต้นฉาก Judgement Bird จะใช้หน้าต่อสู้พิเศษ บาปสามารถถ่ายโอนไปยังตัวละครอื่นได้โดยการโจมตี (หนึ่งครั้งต่อการ์ด)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Sin_AbnormalityCard">
-      <Name>Sin</Name>
-      <Desc>If the amount of Sin reaches 5 or greater, take damage equal to 10% of Max. HP, and remove all stacks. Sin can be transferred to another character by attacking and damaging them. (Once per page)</Desc>
+      <Name>บาป</Name>
+      <Desc>หากปริมาณของบาปถึง 5 หรือมากกว่า จะได้รับความเสียหายเท่ากับ 10% ของ HP สูงสุดและลบสแต็คทั้งหมด บาปสามารถถ่ายโอนไปยังตัวละครอื่นได้โดยการโจมตี (หนึ่งครั้งต่อการ์ด)</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="onlypage_rhino_Keyword">
-      <Name>The Rhino Team’s Exclusive page</Name>
-      <Desc>Can only be set in the decks of the Rhino and Maxim’s Key pages.</Desc>
+      <Name>เฉพาะ The Rhino Team’s page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ the Rhino and Maxim’s Key pages.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_reindeer_Keyword">
       <Name>The Reindeer Team’s Exclusive page</Name>
-      <Desc>Can only be set in the decks of the Reindeer and Rudolph’s Key pages.</Desc>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ the Reindeer and Rudolph’s Key pages.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_myo_Keyword">
-      <Name>Myo’s Exclusive page</Name>
-      <Desc>Can only be set in the deck of Myo’s Key page.</Desc>
+      <Name>เฉพาะ Myo’s page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Myo’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_maxim_Keyword">
-      <Name>Maxim’s Exclusive page</Name>
-      <Desc>Can only be set in the deck of Maxim’s Key page.</Desc>
+      <Name>เฉพาะ Maxim’s page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Maxim’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_rudolph_Keyword">
-      <Name>Rudolph’s Exclusive page</Name>
-      <Desc>Can only be set in the deck of Rudolph’s Key page.</Desc>
+      <Name>เฉพาะ Rudolph’s page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Rudolph’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_nicolai_Keyword">
-      <Name>Nikolai’s Exclusive page</Name>
-      <Desc>Can only be set in the deck of Nikolai’s Key page.</Desc>
+      <Name>เฉพาะ Nikolai’s page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Nikolai’s Key page.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="WarpChargeR">
-      <Name>Charge+</Name>
-      <Desc>Affects the properties of certain Combat Pages. 20 Charges can be stored at once.</Desc>
+      <Name>ชารจ์+</Name>
+      <Desc>ส่งผลต่อคุณสมบัติของหน้าการต่อสู้บางหน้า สามารถจัดเก็บ 20 ชาร์จได้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="NicolaiTarget">
-      <Name>Mark</Name>
-      <Desc>Take 50% more damage and Stagger damage from attacks.</Desc>
+      <Name>เป้า</Name>
+      <Desc>รับดาเมจเพิ่มขึ้น 50% และดาเมจ Stagger จากการโจมตี</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="MyoBerserk">
-      <Name>Savage Mode</Name>
-      <Desc>Dice Power +1</Desc>
+      <Name>สถานะป่าเถื่อน</Name>
+      <Desc>พลังลูกเต๋า +1</Desc>
     </BattleEffectText>
 
 	  
    <!-- 게부라 최종전 -->
     <BattleEffectText ID="RedHoodFinal_Berserk">
-      <Name>Rage</Name>
-      <Desc>Lasts 2 Scenes. Gain 2 Strength each Scene, and use Mass Attack pages.</Desc>
+      <Name>โกรธ</Name>
+      <Desc>กินเวลา 2 ฉาก ได้รับ 2 กำลังในแต่ละฉากและใช้หน้าโจมตีหมุ่</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedHoodFinal_Rage">
-      <Name>Astray Rage</Name>
-      <Desc>Permanently persists. Gain 4 Strength each Scene, and use Mass Attack pages.</Desc>
+      <Name>ลูกหลงโทสะ</Name>
+      <Desc>มีอยู่อย่างถาวรได้รับ 4 กำลังในแต่ละฉากและใช้หน้าโจมตีหมุ่</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedHoodFinal_Mark">
-      <Name>Mark of the Hunt</Name>
-      <Desc>Take 50% more damage from the Mercenary's attacks.</Desc>
+      <Name>เป้า</Name>
+      <Desc>รับความเสียหายเพิ่มขึ้น 50% จากการโจมตีของ Mercenary</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedHoodFinal_Scar">
-      <Name>Scars</Name>
-      <Desc>At the start of the Scene, gain Bleed equal to the amount of Scars. If the amount is 6 or higher at the start of the Scene, take damage equal to 20% of Max. HP and remove all stacks. When attacked by the Wolf, take bonus damage equal to the current amount of Scars. The Wolf's dice gain +2 Power against targets with 4 or more Scars.</Desc>
+      <Name>รอยแผล</Name>
+      <Desc>เมื่อเริ่มฉากได้รับเลือดไหลเท่ากับจำนวนรอยแผล หากจำนวนเท่ากับ 6 หรือสูงกว่าที่จุดเริ่มต้นของฉาก รับความเสียหายเท่ากับ 20% ของ HP สูงสุดและลบสแต็คทั้งหมด เมื่อถูกหมาป่าโจมตีจะได้โบนัสความเสียหายเท่ากับจำนวนรอยแผลในปัจจุบัน ลูกเต๋าของหมาป่าได้รับพลัง +2 ต่อเป้าหมายที่มีรอยแผลตั้งแต่ 4 ขึ้นไป</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nothing_Skin">
-      <Name>Shell</Name>
-      <Desc>For the Scene, copy all resistances and Combat Pages of the character that was defeated on the previous Scene.</Desc>
+      <Name>เปลือก</Name>
+      <Desc>ในฉากให้คัดลอกค่าต้านทานและการ์ดต่อสู้ทั้งหมดของตัวละครที่แพ้ในฉากก่อนหน้า</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nothing_Fear">
       <Name>Terror</Name>
-      <Desc>If the character has 3 or more copies of 'Terror' in hand at the start of the Scene, take 10 damage and Stagger damage for every copy in hand, and become Immobilized for the Scene.</Desc>
+      <Desc>หากตัวละครมีสำเนา 'Terror' ในมือตั้งแต่ 3 ชุดขึ้นไปเมื่อเริ่มฉากจะได้รับความเสียหาย 10 ดาเมจและ Stagger ดาเมจสำหรับการ์ดที่อยู่ในมือ และจะถูกทำให้หมดสภาพในฉากนั้น</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nothing_Mimic">
-      <Name>Imitation</Name>
-      <Desc>Affects the properties of certain Combat Pages. Can stack up to 10. 1 Imitation is lost at the end of each Scene.</Desc>
+      <Name>การเลียนแบบ</Name>
+      <Desc>ส่งผลต่อคุณสมบัติของหน้าการต่อสู้บางหน้า สามารถซ้อนได้สูงสุด 10 การเลียนแบบจะหายไปเมื่อสิ้นสุดแต่ละฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nosferatu_Blood">
-      <Name>Blood</Name>
-      <Desc>Uses different Combat Pages depending on the amount of Blood. 1 Blood is lost whenever the character sustains damage greater than 5% of Max. HP.</Desc>
+      <Name>เลือด</Name>
+      <Desc>ใช้การ์ดต่อสู้ที่แตกต่างกันขึ้นอยู่กับปริมาณของเลือด เสียเลือด 1 แต้ม เมื่อใดก็ตามที่ตัวละครได้รับความเสียหายมากกว่า 5% ของ HP สูงสุด </Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nosferatu_Blight">
-      <Name>Fear of Water</Name>
-      <Desc>Lasts for 2 Scenes. At the start of the Scene, lose 5% of Max. HP and gain 1 Strength, 1 Haste, and 5 Bleed. If the character is at 50% HP or lower, become uncontrollable and attack allies at a 25% chance.</Desc>
+      <Name>กลัวน้ำ</Name>
+      <Desc>กินเวลา 2 ฉาก เมื่อเริ่มฉากเสีย 5% ของ HP สูงสุดและได้รับ 1 กำลัง, 1 ว่องไวและ 5 เลือดไหล หากตัวละครมี HP 50% หรือต่ำกว่าจะควบคุมไม่ได้และโจมตีพันธมิตรด้วยโอกาส 25%</Desc>
     </BattleEffectText>
   
     <!-- text changed -->
     <BattleEffectText ID="egoChange_Keyword">
-      <Name>Synchronize</Name> <!-- 同化 -->
-      <Desc>Replace Combat Pages with unique ones. Deck and hand return to normal once status is disabled. Cannot be used with other Synchronize E.G.O or E.G.O Manifestation.</Desc>
+      <Name>ซิงโครไนซ์</Name> <!-- 同化 -->
+      <Desc>แทนที่การ์ดต่อสู้ด้วยหน้าที่ไม่ซ้ำใคร เด็คกลับสู่ปกติเมื่อสถานะถูกปิดใช้งาน ไม่สามารถใช้กับซิงโครไนซ์ E.G.O กับสำแดง E.G.O  ได้</Desc>
     </BattleEffectText>
     
     <!-- purple tear -->
     <BattleEffectText ID="onlypage_purpleTear_Keyword">
-      <Name>The Purple Tear’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of The Purple Tear’s Key page.</Desc>
+      <Name>เฉพาะ The Purple Tear’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ The Purple Tear’s Key page.</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="StanceChange_Keyword">
-      <Name>Change Stance</Name>
-      <Desc>Remove all pages from deck and hand, and replace the deck with one built for the new stance. Afterwards, draw until the number of pages in hand equals the amount prior to changing stance.</Desc>
+      <Name>เปลี่ยนท่า</Name>
+      <Desc>นำการ์ดทั้งหมดออกจากสำรับและมือ และแทนที่สำรับด้วยที่สร้างขึ้นมาใหม่ หลังจากนั้นให้จั่วการ์ดจนกว่าจำนวนการ์ดในมือจะเท่ากับจำนวนก่อนที่จะเปลี่ยน</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="StanceSlash">
-      <Name>Slashing Stance</Name>
-      <Desc>Slash Dice Power +2. Deal 50% additional damage with attacks.</Desc>
+      <Name>ท่าฟัน</Name>
+      <Desc>พลังลูกเต๋าฟัน +2 สร้างความเสียหายเพิ่มเติม 50% ด้วยการโจมตี</Desc>
     </BattleEffectText>
     <BattleEffectText ID="StancePenetrate">
-      <Name>Piercing Stance</Name>
-      <Desc>Pierce Dice Power +2. When inflicting status ailments using Combat Pages, apply twice as many stacks.</Desc>
+      <Name>ท่าแทง</Name>
+      <Desc>พลังลูกเต๋าแทง +2 เมื่อสร้างสถานะผิดปกติโดยการโจมตีให้เพิ่มสแต็คสองเท่า</Desc>
     </BattleEffectText>
     <BattleEffectText ID="StanceHit">
-      <Name>Blunting Stance</Name>
-      <Desc>Blunt Dice Power +2. Deal 50% additional Stagger damage with attacks.</Desc>
+      <Name>ท่าทุบได้รับพลัง</Name>
+      <Desc>พลังลูกเต๋าทุบ +2 สร้างความเสียหาย Stagger เพิ่ม 50% ด้วยการโจมตี</Desc>
     </BattleEffectText>
     <BattleEffectText ID="StanceDefense">
-      <Name>Guarding Stance</Name> <!-- don't need to equal to '방어' of '방어 주사위' -->
-      <Desc>Defensive Dice Power +2. Remove all status ailments.</Desc>
+      <Name>ท่าป้องกัน</Name> <!-- don't need to equal to '방어' of '방어 주사위' -->
+      <Desc>พลังลูกเต๋าป้องกัน +2. ลบสถานะเจ็บป่วยทั้งหมด</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="DefensePowerUp">
-      <Name>Defense Power-up</Name>
-      <Desc>Defensive dice gain +{0} Power for this Scene</Desc>
+      <Name>เพิ่มพลังป้องกัน</Name>
+      <Desc>ลูกเต๋าป้องกันได้รับพลัง +{0} สำหรับฉากนี้</Desc>
     </BattleEffectText>
 
     <!-- Chesed Boss -->
     <BattleEffectText ID="Lumberjack_Heart_Final">
-      <Name>Warm Heart</Name>
-      <Desc>At the start of the Scene, restore Light by the amount of 'Warm Hearts'. (Has no base Light regen) 1 Warm Heart is lost at the end of each Scene. Can stack up to 3.</Desc>
+      <Name>จิตใจที่อบอุ่น</Name>
+      <Desc>เมื่อเริ่มฉากฟื้นฟูแสงตามจำนวน 'จิตใจที่อบอุ่น'. (ไม่มีการฟื้นฟูแสงเกินพื้นฐานได้) 1 จิตใจที่อบอุ่นจะหายไปเมื่อจบแต่ละฉาก สามารถเก็บสแต็คได้ถึง 3</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Lumberjack_Meat_Final">
-      <Name>Heart Fragments</Name>
-      <Desc>Increases the Power of certain Combat Pages Roland plays.</Desc>
+      <Name>จิตใจ</Name>
+      <Desc>เพิ่มพลังลูกเต๋าโจมตีที่ โรแลนด์ ใช้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Lumberjack_Piece_Final">
-      <Name>Pieces of Mind</Name>
-      <Desc>If the amount of this status reaches 4, gain 1 Warm Heart next Scene, and remove 4 stacks of this. 1 Piece of Mind is lost at the end of each Scene.</Desc>
+      <Name>ชิ้นส่วนของจิตใจ</Name>
+      <Desc>หากจำนวนของสถานะนี้ถึง 4, รับ 1 จิตใจที่อบอุ่นฉากถัดไป,และลบ 4 สแต็คนี้. 1 ชิ้นส่วนของจิตใจจะหายไปในตอนท้ายของแต่ละฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Super_Cancel_Final">
-      <Name>Home that Cannot Be Reached</Name>
-      <Desc>The counter goes up whenever the page targeting the 'Home' is canceled.
-If this reaches 2, a powerful Combat Page is used the following Scene.</Desc>
+      <Name>บ้านที่ไปไม่ถึง</Name>
+      <Desc>จะเพิ่มขึ้นเมื่อใดก็ตามที่หน้า 'Home' ถูกยกเลิก
+หากสิ่งนี้ถึง 2 การ์ดต่อสู้อันทรงพลังจะถูกใช้ในฉากถัดไปนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Coward_Final">
-      <Name>Cowardice</Name>
-      <Desc>Gains Feeble equal to the amount of times The Road Home was attacked this Scene.</Desc>
+      <Name>ความขี้ขลาด</Name>
+      <Desc>ได้รับ อ่อนแรง เท่ากับจำนวนครั้งที่ 'The Road Home' ถูกโจมตีในฉากนี้</Desc>
     </BattleEffectText>
     
     <!-- Ozma -->
     <BattleEffectText ID="Ozma_Oblivion">
-      <Name>Oblivion</Name>
-      <Desc>All Combat Pages change to unique ones. On hit, regain a random Combat Page from the original deck. Pages remaining: {0}</Desc>
+      <Name>หลงลืม</Name>
+      <Desc>การ์ดการต่อสู้ทั้งหมดเปลี่ยนเป็นการ์ดเฉพาะเมื่อโดนโจมตี จะได้เด็คแบบสุ่มจากเด็คเดิมจากการ์ดที่เหลืออยู่: {0}</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Ozma_AwakenPumpkin_Strength">
-      <Name>Jack of the South</Name>
-      <Desc>Gain 2 Strength each Scene</Desc>
+      <Name>แจ็คแห่งทิศใต้</Name>
+      <Desc>ได้รับ 2 กำลังในแต่ละฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Ozma_AwakenPumpkin_Endurance">
-      <Name>Jack of the West</Name>
-      <Desc>Gain 2 Endurance each Scene</Desc>
+      <Name>แจ็คแห่งทิศตะวันตก</Name>
+      <Desc>ได้รับ 2 ทนทานในแต่ละฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Ozma_AwakenPumpkin_Quickness">
-      <Name>Jack of the North</Name>
-      <Desc>Gain 2 Haste each Scene</Desc>
+      <Name>แจ็คแห่งทิศเหนือ</Name>
+      <Desc>ได้รับ 2 ว่องไวในแต่ละฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Ozma_AwakenPumpkin_BreakDmg">
-      <Name>Jack of the East</Name>
-      <Desc>Deals +3 Stagger damage with attacks</Desc>
+      <Name>แจ็คแห่งตะวันออก</Name>
+      <Desc>สร้างความเสียหาย +3 Stagger ด้วยการโจมตี</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Ozma_LibrarianToPumpkin">
-      <Name>Lost Memories</Name>
-      <Desc>All Combat Pages change to unique ones. All stats change. Other passive abilities of this character will not activate.</Desc>
+      <Name>สูญเสียความทรงจำ</Name>
+      <Desc>การ์ดการต่อสู้ทั้งหมดเปลี่ยนเป็นการ์ดเฉพาะ สเตททั้งหมดถูกเปลี่ยน ความสามารถติดตัวอื่นๆของตัวละครนี้จะไม่เปิดใช้งาน</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Ozma_PumpkinToLibrarian">
-      <Name>Perfect Jack</Name>
-      <Desc>Uses the Key page and Combat Pages of the librarian that turned into a pumpkin. Gains 2 Strength, 2 Endurance, 2 Haste, and a buff that increases Stagger damage by 3 every Scene.</Desc>
+      <Name>แจ็คที่สมบูรณ์แบบ</Name>
+      <Desc>ใช้การ์ดหลักและการ์ดต่อสู้ของบรรณารักษ์ที่กลายเป็นฟักทอง ได้รับ 2 กำลัง, 2 ทนทาน, 2 ว่องไว และบัฟที่เพิ่มความเสียหายของ Stagger 3 ทุกๆฉาก</Desc>
     </BattleEffectText>
 
     <!-- Wizard -->
     <BattleEffectText ID="Wizard_Lumberjack">
-      <Name>Warm-hearted Woodsman</Name>
-      <Desc>After dealing 30 or more damage to enemies in a single Scene during this character's phase, fully restore Light of all allies including self.</Desc>
+      <Name>หุ่นยนที่อบอุ่น</Name>
+      <Desc>หลังจากสร้างความเสียหายแก่ศัตรู 30 หรือมากกว่าในฉากเดียวด้วยตัวละครนี้ ฟื้นฟูแสงของพันธมิตรทั้งหมดรวมถึงตนเองด้วย</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Scarecrow">
-      <Name>Scarecrow Searching for Wisdom</Name>
-      <Desc>When this character's phase starts, add a copy of 'Wisdom' and 4 special Combat Pages to hand, and increase the number of Speed dice to 5.
-If failed to restore all librarians to their original forms by the end of the phase, reduce the number of Speed dice to 1.</Desc>
+      <Name>หุ่นไล่กาค้นหาภูมิปัญญา</Name>
+      <Desc>เมื่อฉากของตัวละครนี้เริ่มต้น ให้เพิ่มการ์ด 'Wisdom' และการ์ดต่อสู้พิเศษ 4 ใบขึ้นในมือ และเพิ่มจำนวนลูกเต๋าความเร็วเป็น 5
+หากล้มเหลว คืนค่าบรรณารักษ์ทั้งหมดเป็นรูปแบบเดิมเมื่อจบเฟส ให้ลดจำนวนลูกเต๋าความเร็วลงเหลือ 1</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Lion">
       <Name>Scaredy Cat</Name>
-      <Desc>When this character's phase starts, a copy of 'Courage' is added to hand. The number of Speed dice is increased to 5.</Desc>
+      <Desc>เมื่อเฟสของตัวละครนี้เริ่ม สำเนาของ 'ความกล้าหาญ' จะถูกเพิ่มในมือ จำนวนลูกเต๋าความเร็วเพิ่มขึ้นเป็น 5</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_WaybackHome">
-      <Name>The Road Home</Name>
-      <Desc>Add 4 special Combat Pages to hand.</Desc>
+      <Name>ถนนกลับบ้าน</Name>
+      <Desc>เพิ่มการ์ดต่อสู้พิเศษ 4 ใบขึ้นมือมือ</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Ozma">
-      <Name>Ozma</Name>
-      <Desc>Add a copy of 'Pumpkify' and 3 special Combat Pages to hand.
-The Cost of 'Pumpkify' is reduced to 0 when this character's phase starts, and one Speed die becomes the fastest.</Desc>
+      <Name>ออซมา</Name>
+      <Desc>เพิ่มสำเนาของ 'Pumpkify' และการ์ดต่อสู้พิเศษ 3 ใบ
+ค่าคอสของ 'Pumpkify' จะลดลงเหลือ 0 เมื่อฉากของตัวละครนี้เริ่มต้นและเพิ่มความเร็วลูกเต๋าหนึ่งลูก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Scarecrow_Debuf">
       <Name>Silk Sack of Sawdust</Name>
-      <Desc>The number of Speed dice is reduced to 1.</Desc>
+      <Desc>ลูกเต๋าความเร็วลดลงเหลือ 1</Desc>
     </BattleEffectText>
 
     <!-- Wizard -->
     <BattleEffectText ID="Wizard_Lumberjack_Original">
-      <Name>Warm-hearted Woodsman</Name>
-      <Desc>Must be restored to their original form.</Desc>
+      <Name>หุ่นยนที่อบอุ่น</Name>
+      <Desc>จะต้องกลับคืนสู่รูปแบบเดิม</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Lion_Original">
       <Name>Scaredy Cat</Name>
-      <Desc>Must be restored to their original form.</Desc>
+      <Desc>จะต้องกลับคืนสู่รูปแบบเดิม</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_WaybackHome_Original">
-      <Name>The Road Home</Name>
-      <Desc>Must be restored to their original form.</Desc>
+      <Name>ถนนกลับบ้าน</Name>
+      <Desc>จะต้องกลับคืนสู่รูปแบบเดิม</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Ozma_Original">
-      <Name>Ozma</Name>
-      <Desc>Must be restored to their original form.</Desc>
+      <Name>ออซมา</Name>
+      <Desc>จะต้องกลับคืนสู่รูปแบบเดิม</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Wizard_Lumberjack_LightOfF">
-      <Name>Heart of Lead</Name>
-      <Desc>Start with less Light, and the maximum Light capacity is reduced.</Desc>
+      <Name>หัวใจของลีด</Name>
+      <Desc>เริ่มต้นด้วยแสงที่น้อยลง และความจุแสงสูงสุดจะลดลง</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Scarecrow_Fail">
       <Name>Silk Sack of Sawdust</Name>
-      <Desc>The number of Speed dice is reduced to 1 until the end of the battle.</Desc>
+      <Desc>ลูกเต๋าความเร็วจะลดลงเหลือ 1 </Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Lion_Courage">
-      <Name>Courage</Name>
-      <Desc>Purge all Feeble, Disarm, and Fragile from self. Gain 10 Strength and 5 Haste.</Desc>
+      <Name>ความกล้าหาญ</Name>
+      <Desc>ขจัดความอ่อนแรง ตัดกำลัง และความเปราะบางออกจากตนเอง ได้รับ 10 กำลัง และ 5 ว่องไว</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Lion_Coward">
-      <Name>Cowardice</Name>
-      <Desc>5 Feeble, Disarm, and Fragile is applied to self every Scene until the end of the battle.</Desc>
+      <Name>ความขี้ขลาด</Name>
+      <Desc>ได้รับ 5 อ่อนแรง, ตัดกำลัง, และ เปราะบาง มีผลกับตนเองทุกฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Ozma_Support">
-      <Name>Helping Jack</Name>
-      <Desc>Offensive dice gain +2 Power for this Scene.</Desc>
+      <Name>ช่วยแจ็คด้วย</Name>
+      <Desc>ลูกเต๋าโจมตีได้รับพลัง +2 สำหรับฉากนี้</Desc>
     </BattleEffectText>
 
     <!-- 환상체카드 -->
     <BattleEffectText ID="Ozma_revive">
-      <Name>Powder of Life</Name>
-      <Desc>Can revive from the effect of the Abnormality page 'Powder of Life'</Desc>
+      <Name>ผงแห่งชีวิต</Name>
+      <Desc>สามารถฟื้นคืนชีพได้จากผลของหน้าผิดปกตินี้ 'ผงแห่งชีวิต'</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_potion">
-      <Name>Liquid Courage</Name>
-      <Desc>Deal +6 damage with attacks; take +3 damage from attacks</Desc>
+      <Name>ความกล้าหาญของเหลว</Name>
+      <Desc>สร้างความเสียหายเพิ่ม 6 ; รับความเสียหายเพิ่ม 3 จากการโจมตี</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_poket">
       <Name>Silk Sack of Sawdust</Name>
-      <Desc>On clash win, recover 8 Stagger Resist; on clash lose, take 4 Stagger damage</Desc>
+      <Desc>เมื่อชนะการปะทะฟื้นฟู 8 Stagger Resist;เมื่อปะทะกันแพ้รับความเสียหาย 4 Stagger </Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_heart">
-      <Name>Heart of Lead</Name>
-      <Desc>Every Scene, lose 5 HP and restore 1 additional Light</Desc>
+      <Name>หัวใจของลีด</Name>
+      <Desc>ทุกๆ ฉาก สูญเสีย 5 HP และฟื้นฟูแสงเพิ่มอีก 1 ดวง</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_home">
-      <Name>Home that Cannot Be Reached</Name>
-      <Desc>On clash lose, deal 4 Stagger damage to self and add +2 Power to the next die</Desc>
+      <Name>บ้านที่ไปไม่ถึง</Name>
+      <Desc>เมื่อการปะทะแพ้ สร้างความเสียหาย 4 Stagger ให้ตัวเอง และเพิ่มพลัง +2 ให้กับลูกเต๋าต่อไป</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_change">
-      <Name>Transformation</Name>
-      <Desc>Upon a successful attack in a clash, destroy the opponent's next die at a 50% chance; upon taking a hit in a clash, destroy the next die of self at a 50% chance.</Desc>
+      <Name>แปลงเปลี่ยน</Name>
+      <Desc>เมื่อโจมตีสำเร็จในการปะทะ ทำลายลูกเต๋าถัดไปของฝ่ายตรงข้ามด้วยโอกาส 50% </Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_emerald">
-      <Name>Emerald</Name>
-      <Desc>Any character that hits this restores 1 Light for this Scene. (Up to 2 per character)</Desc>
+      <Name>มรกต</Name>
+      <Desc>ตัวละครใดก็ตามที่โดนสถานะนี้จะคืนแสง 1 ดวงสำหรับฉากนี้ (สูงสุด 2 สเตทต่อตัวละคร)</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="onlypage_xiao_Keyword">
-      <Name>Xiao’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Xiao’s Key page.</Desc>
+      <Name>เฉพาะ Xiao’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Xiao’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_chunMiris_Keyword">
-      <Name>Chun and Miris’ Exclusive Page</Name>
-      <Desc>Can only be set in the decks of Chun and Miris’ Key pages.</Desc>
+      <Name>เฉพาะ Chun and Miris’ Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Chun and Miris’ Key pages.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BreakProtection_Keyword">
-      <Name>Stagger Protection X</Name>
-      <Desc>Take X less Stagger damage from attacks for the Scene.</Desc>
+      <Name>เกราะ Stagger X</Name>
+      <Desc>รับความเสียหายจากการโจมตีของ Stagger น้อยลง X สำหรับฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BreakProtection">
-      <Name>Stagger Protection</Name>
-      <Desc>Take {0} less Stagger damage from attacks this Scene.</Desc>
+      <Name>เกราะ Stagger</Name>
+      <Desc>รับความเสียหายจากการโจมตีของ Stagger น้อยลง {0} สำหรับฉากนี้</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="NullifyPowerReady">
       <Name>Pú Láo</Name>
-      <Desc>The effect of Pú Láo will activate in {0} Scene(s), nullifying changes to dice Power</Desc>
+      <Desc>เอฟเฟกต์ของ Pú Láo จะเปิดใช้งานใน {0} ฉาก ซึ่งจะทำให้การเปลี่ยนแปลงของพลังลูกเต๋าเป็นโมฆะ</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="BurnDown">
       <Name>Burn Damage Shield</Name>
-      <Desc>Take 10 less damage from Burn for the Scene</Desc>
+      <Desc>รับความเสียหายน้อยลง 10 จากสถานะเผาไหม้</Desc>
     </BattleEffectText>
 
     <!-- Binah Final Stuff -->
     <BattleEffectText ID="Sin_Abnormality_Final">
-      <Name>Mark of Sin</Name>
-      <Desc>If the amount of 'Marks of Sin' exceeds a certain threshold at the start of the Scene, Roland will use a special Combat Page. A Mark of Sin can be transferred to another character (excluding Roland) by attacking and damaging them. (Once per page)</Desc>
+      <Name>ตราบาป</Name>
+      <Desc>หากจำนวนของ 'ตราบาป' เกินเกณฑ์ที่กำหนดในตอนเริ่มต้นของฉาก โรแลนด์จะใช้หน้าต่อสู้พิเศษ ตราบาป สามารถโอนไปยังตัวละครอื่น (ยกเว้น โรแลนด์) โดยการโจมตีและสร้างความเสียหายให้กับตัวละครเหล่านั้น (Once per page)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="SmallBird_Punish_Final">
-      <Name>Punishee</Name>
-      <Desc>Take +8 damage from Roland's attacks.</Desc>
+      <Name>ลงโทษ</Name>
+      <Desc>รับความเสียหาย +8 จากการโจมตีของโรแลนด์ </Desc>
     </BattleEffectText>
     <BattleEffectText ID="SmallBird_Vigil_Final">
-      <Name>Vigilance</Name>
-      <Desc>Gains Strength equal to the amount of times allies with lower Speed were attacked this Scene.</Desc>
+      <Name>ระมัดระวัง</Name>
+      <Desc>ได้รับกำลัง เท่ากับจำนวนที่พันธมิตรที่มีความเร็วต่ำกว่าถูกโจมตีในฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Final_BigBird_Charm">
-      <Name>Enchanted</Name>
-      <Desc>Lasts {0} Scene(s). Uncontrollable. Speed is fixed at 1. Uses a special Combat Page, targeting Roland. Takes no physical damage when hit by allies. Removed when the character is Staggered.</Desc>
+      <Name>ลูกหลง</Name>
+      <Desc>กินเวลา {0} ฉาก ควบคุมไม่ได้ ความเร็วคงที่ที่ 1 ใช้หน้าต่อสู้พิเศษโดยกำหนดเป้าหมายไปที่ โรแลนด์ ไม่ได้รับความเสียหายทางกายภาพเมื่อโดนพันธมิตรลบออกเมื่อตัวละคร Stagger</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Final_BigBird_Darkness">
-      <Name>Darkness</Name>
-      <Desc>Unaffected by Power-related effects for {0} Scenes</Desc>
+      <Name>ความมืด</Name>
+      <Desc>ไม่ได้รับผลกระทบจากเอฟเฟ็กต์เปลี่ยนค่าพลังสำหรับ {0} ฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Final_BigBird_Darkness_Keyword">
-      <Name>Darkness</Name>
-      <Desc>A status that lasts for 2 Scenes, nullifying Power-related effects.</Desc>
+      <Name>ความมืด</Name>
+      <Desc>สถานะอยู่เป็นเวลา 2 ฉาก ทำให้เอฟเฟกต์เกี่ยวกับเปลี่ยนค่าพลังเป็นโมฆะ</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="ApocalypseBird_Sin">
-      <Name>Heavy Guilt</Name>
-      <Desc>Take {0} additional Stagger damage when hit. If the amount is 5 or greater at the end of the Scene, take 10% of Max. HP as damage and remove all stacks.</Desc>
+      <Name>ความผิดหนัก</Name>
+      <Desc>ได้รับความเสียหายเพิ่ม {0} Stagger เมื่อถูกโจมตี ทุก 5 ฉากหรือมากกว่านั้น ให้รับความเสียหาย 10% ของ HP สูงสุดและลบสแต็คทั้งหมด</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ApocalypseBird_Charm">
-      <Name>Horrified</Name>
-      <Desc>All resistances change to "Fatal". At the start of the Scene, gain 4 Paralysis.</Desc>
+      <Name>หวาดกลัว</Name>
+      <Desc>ความต้านทานทั้งหมดเปลี่ยนเป็น "ร้ายแรง" เมื่อเริ่มฉาก ได้รับอัมพาต 4 แต้ม</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ApocalypseBird_BigEye">
-      <Name>Apocalypse Bird’s Egg - Big Eyes</Name>
-      <Desc>Unaffected by Power-related effects.</Desc>
+      <Name>การเพยของ Bird’s Egg - Big Eyes</Name>
+      <Desc>ไม่ได้รับผลจากเอฟเฟกต์ที่เกี่ยวข้องกับการเปลี่ยนค่าพลัง</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ApocalypseBird_LongArm">
-      <Name>Apocalypse Bird’s Egg - Long Arms</Name>
-      <Desc>Is immune to status ailments while this effect is active. At the start of the Scene, purge all status ailments.</Desc>
+      <Name>การเพยของ Bird’s Egg - Long Arms</Name>
+      <Desc>มีภูมิคุ้มกันต่อสถานะผิดปกติในขณะที่เอฟเฟกต์นี้ทำงาน เมื่อเริ่มฉากให้ล้างสถานะผิดปกติทั้งหมด</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ApocalypseBird_SmallBeak">
-      <Name>Apocalypse Bird’s Egg - Small Beak</Name>
-      <Desc>The cost of 2 random pages in the librarian's hand rise by 1 for the Scene</Desc>
+      <Name>การเพยของ Bird’s Egg - Small Beak</Name>
+      <Desc>คอสของการ์ดเป็น 2 โดยสุ่มการ์ดในมือของบรรณารักษ์ 1 ใบในฉากนี้</Desc>
     </BattleEffectText>
 
 
     <BattleEffectText ID="ApocalypseBird_Apocalypse">
-      <Name>The Beast</Name>
-      <Desc>The dice of characters targeted by/attacking this character are unaffected by Power gain or loss. Said dice have their min and max values lowered by 3.</Desc>
+      <Name>สัตว์ร้าย</Name>
+      <Desc>ลูกเต๋าของตัวละครที่เป็นเป้าหมายโดยโจมตีตัวด้วยละครนี้จะไม่ได้รับผลกระทบจากการเพิ่มหรือลดพลัง ลูกเต๋าดังกล่าวมีค่าต่ำสุดและสูงสุด +-3</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ApocalypseBird_Peace">
-      <Name>Intruder</Name>
-      <Desc>Lasts {0} Scene(s). All attacks done by this character deal 2-4 less physical and Stagger damage. Take 1-2 bonus damage when hit.</Desc>
+      <Name>ผู้บุกรุก</Name>
+      <Desc>กินเวลา {0} ฉาก การโจมตีทั้งหมดที่ทำโดยตัวละครนี้จะสร้างความเสียหายทางกายภาพและ Stagger น้อยลง 2-4 รับโบนัสดาเมจ 1-2 เมื่อถูกโจมตี</Desc>
     </BattleEffectText>
   
     <BattleEffectText ID="onlypage_yan_Keyword">
-      <Name>얀샋ㄷ요무’s Exclusive Page</Name>
-			<Desc>Can only be set in the deck of 얀샋ㄷ요무’s Key page.</Desc>
+      <Name>เฉพาะ 얀샋ㄷ요무’s Page</Name>
+			<Desc>ตั้งได้เฉพาะในเด็คขอ 얀샋ㄷ요무’s Key page.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="YanArea_Ready">
-      <Name>Distorted Blade</Name>
-      <Desc>Will use Distorted Blade in {0} Scenes.</Desc>
+      <Name>ใบมีดบิดเบี้ยว</Name>
+      <Desc>จะใช้ ใบมีดบิดเบี้ยว ใน {0} ฉาก</Desc>
     </BattleEffectText>
 
     <!-- 백야 전투 -->
@@ -1132,508 +1132,508 @@ The Cost of 'Pumpkify' is reduced to 0 when this character's phase starts, and o
       <Desc>If the Patron Librarian dies, all librarians die with him.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="PlagueDoctor_Bless">
-      <Name>Blessing</Name>
-      <Desc>I shall heal you, curing you of all disease and injury you possess.</Desc>
+      <Name>คำอวยพร</Name>
+      <Desc>เราจะรักษาเจ้าให้หายจากโรคและอาการบาดเจ็บของเจ้า</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WhiteNight_Awe">
-      <Name>Reverence</Name>
-      <Desc>At the end of the Scene, take {0} Stagger damage, and lose 1 stack of this status.</Desc>
+      <Name>ความเคารพ</Name>
+      <Desc>ในตอนท้ายของฉาก รับความเสียหาย {0} Stagger และสูญเสีย 1 สแต็กของสถานะนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WhiteNight_ApostlePowerUp">
-      <Name>Revelation</Name>
-      <Desc>Offensive dice of Apostles gain +2 Power when engaging a character with this status.</Desc>
+      <Name>การเปิดเผย</Name>
+      <Desc>ลูกเต๋าโจมตีของ Apostles ได้รับพลัง +2 เมื่อมีสถานะนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WhiteNight_BeApostle">
-      <Name>Calling</Name>
-      <Desc>This character will die at the end of the Scene; a Guardian Apostle will be spawned when this happens.</Desc>
+      <Name>จงร่ำร้อง</Name>
+      <Desc>ตัวละครนี้จะตายเมื่อจบฉาก อัครสาวกผู้พิทักษ์จะเกิดขึ้นเมื่อสิ่งนี้เกิดขึ้น</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WhiteNight_SuspendedAnimation">
-      <Name>Suspended</Name>
-      <Desc>If HP drops to 2 or lower, will be Staggered until resurrected.</Desc>
+      <Name>ถูกแขวน</Name>
+      <Desc>หาก HP ลดลงเหลือ 2 หรือต่ำกว่า จะStaggeredจนกว่าจะฟื้นคืนชีพ</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WhiteNight_Protection">
-      <Name>Crown of Thorns</Name>
-      <Desc>Gain a permanent 100 Protection and 100 Stagger Protection for this battle.</Desc> <!-- Need dev confirmation here -->
+      <Name>มงกุฎหนาม</Name>
+      <Desc>รับการป้องกันถาวร 100 และการป้องกันซวนเซ 100 สำหรับการต่อสู้นี้</Desc> <!-- Need dev confirmation here -->
     </BattleEffectText>
     <BattleEffectText ID="WhiteNight_WeakResist">
-      <Name>Unguarded</Name>
-      <Desc>All resistances change to "Fatal".</Desc>
+      <Name>เผลอ</Name>
+      <Desc>ความต้านทานทั้งหมดเปลี่ยนเป็น "ร้ายแรง"</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Emotion_PlagueDoctor_Blessed">
-      <Name>Blessed</Name>
-      <Desc>Has been Baptized this Scene.</Desc>
+      <Name>ได้รับพร</Name>
+      <Desc>ได้รับการล้างบาปนฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Emotion_PlagueDoctor_Bless_Stack">
-      <Name>Baptist</Name>
-      <Desc>Used 'Baptism' {0} time(s) this reception. (Counts up to 12 times)</Desc>
+      <Name>จงนับถือ</Name>
+      <Desc>ใช้ 'จงนับถือ' {0} ครั้ง ฉากนี้ (นับได้ถึง 12 ครั้ง)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Emotion_BlueStar_MartyrBuf">
-      <Name>Martyr</Name>
-      <Desc>On a successful attack this Scene, deal 4-6 bonus Stagger damage but take 1-3 damage.</Desc>
+      <Name>พลีชีพ</Name>
+      <Desc>เมื่อโจมตีฉากนี้สำเร็จ สร้างโบนัสดาเมจ Stagger 4-6 แต่จะได้รับความเสียหาย 1-3</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Emotion_BlueStar_SoundBuf_Cool">
-      <Name>A Nostalgic Sound</Name>
-      <Desc>The effect of the Abnormality page 'A Nostalgic Sound' (denoted by the status effect 'I Can Hear the Sound of the Star!') will activate in {0} Scenes.</Desc>
+      <Name>เสียงแห่งความคิดถึง</Name>
+      <Desc>ผลของหน้าความผิดปกติ 'เสียงแห่งความคิดถึง' จะแสดงเอฟเฟกต์สถานะ 'ฉันได้ยินเสียงของดวงดาว!'จะเปิดใช้งานใน {0} ฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Emotion_BlueStar_SoundBuf">
-      <Name>I Can Hear the Sound of the Star!</Name>
-      <Desc>Deal +2-4 Stagger damage with attacks this Scene.</Desc>
+      <Name>ฉันได้ยินเสียงของดวงดาว!</Name>
+      <Desc>สร้างความเสียหาย 2-4 Stagger ด้วยการโจมตีฉากนี้</Desc>
     </BattleEffectText>
 
 
     <!-- hana -->
     <BattleEffectText ID="onlypage_hana_Keyword">
-      <Name>Mirinae, Harold, and Olivier’s Exclusive Page</Name>
-      <Desc>Can only be set in the decks of Mirinae, Harold, and Olivier’s Key pages.</Desc>
+      <Name>เฉพาะ Mirinae, Harold, and Olivier’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Mirinae, Harold, and Olivier’s Key pages.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="HanaPassive1">
-      <Name>Geon</Name>
-      <Desc>Gain 1 Strength, and deal 2 more damage and Stagger damage with attacks this Scene.</Desc>
+      <Name>เกออน</Name>
+      <Desc>ได้รับ 1 กำลังและสร้างความเสียหายเพิ่มขึ้น 2 ดาเมจและ Stagger ดาเมจด้วยการโจมตีฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HanaPassive2">
-      <Name>Gon</Name>
-      <Desc>Gain 1 Endurance, and take 30% less damage and Stagger damage from attacks this Scene.</Desc>
+      <Name>กอน</Name>
+      <Desc>ได้รับ 1 ทนทานและรับความเสียหายน้อยลง 30% และ Stagger จากการโจมตีฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HanaPassive3">
-      <Name>Gam</Name>
-      <Desc>Restore 1 Light.</Desc>
+      <Name>เกม</Name>
+      <Desc>ฟื้นฟูแสง 1 ดวง</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HanaPassive4">
-      <Name>Ri</Name>
-      <Desc>Draw 1 page.</Desc>
+      <Name>ริ</Name>
+      <Desc>จั่วการ์ด 1 ใบ</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="HanaSpecialCard1">
-      <Name>Bonus Effect</Name>
-      <Desc>Geon - ‘On Use: All dice on this page gain +1 Power’</Desc>
+      <Name>โบนัส</Name>
+      <Desc>เกออน - ‘เมื่อใช้: ลูกเต๋าทั้งหมดในหน้านี้ได้รับพลัง +1’</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HanaSpecialCard2">
-      <Name>Bonus Effect</Name>
-      <Desc>Gon - ‘Combat Start: Gain 2 Protection and Stagger Protection’</Desc>
+      <Name>โบนัส</Name>
+      <Desc>กอน - ‘เริ่มการต่อสู้: ได้รับ 2 การป้องกันและป้องกัน Stagger’</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HanaSpecialCard3">
-      <Name>Bonus Effect</Name>
-      <Desc>Gam - ‘On Use: Restore 1 Light’
-Ri - ‘On Use: Draw 2 pages’</Desc>
+      <Name>โบนัส</Name>
+      <Desc>เกม - ‘เมื่อใช้: ฟื้นฟูแสง 1 ดวง’
+ริ - ‘เมื่อใช้: จั่วการ์ด 2 ใบ’</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="BlackSilenceSpecial">
-      <Name>Furioso</Name>
-      <Desc>Number of The Black Silence’s Combat Pages used: {0}</Desc>
+      <Name>ฟูริโซะ</Name>
+      <Desc>จำนวนการ์ดต่อสู้ของ ทมิฬเงียบสงัด ที่ใช้: {0}</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BlackSilenceCardCount">
-      <Name>The Black Silence</Name>
-      <Desc>When the amount of this status is 2, all dice on the next played Combat Page will gain +2 Power.</Desc>
+      <Name>ทมิฬเงียบสงัด</Name>
+      <Desc>เมื่อจำนวนของสถานะนี้เป็น 2 ลูกเต๋าทั้งหมดในหน้าครั้งถัดไปจะได้รับพลัง +2</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="RolandAndOlivier">
-      <Name>Duel</Name>
-      <Desc>Gain bonus Max HP and Max Stagger Resist.</Desc>
+      <Name>ดวล</Name>
+      <Desc>ได้รับโบนัส Max HP และ Max Stagger Resist</Desc>
     </BattleEffectText>
 
     <!--세븐 협회-->
     <BattleEffectText ID="DanteGraspInformation">
-      <Name>Information Assessment</Name>
-      <Desc>{0} is changed to "Normal" for this Scene.</Desc>
+      <Name>การประเมินข้อมูล</Name>
+      <Desc>{0} เปลี่ยนความทนทานเป็น "ปกติ" สำหรับฉากนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="DanteWeakPointDetection">
-      <Name>Exposed Weakness</Name>
-      <Desc>A "Weak" resistance is changed to "Fatal" for this Act.</Desc>
+      <Name>ความอ่อนแอที่เปิดเผย</Name>
+      <Desc>ความทนทาน "อ่อนแอ" เปลี่ยนเป็น "ร้ายแรง" สำหรับฉากนี้</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Engard_Keyword">
-      <Name>En Garde</Name>
-      <Desc>A 2-Cost Combat Page with a Slash (6-10) die; 'Exhausts on use; [On Use] Give 1 Strength to target and self next Scene'</Desc>
+      <Name>เอนการ์ด</Name>
+      <Desc>การ์ดต่อสู้ค่าร่าย 2 พร้อมฟัน (6-10) ;[เมื่อใช้] ให้ 1 กำลังแก่เป้าหมายและตนเองในฉากถัดไป</Desc>
     </BattleEffectText>
 
     <!-- sword -->
     <BattleEffectText ID="Giveuptheflesh_Keyword">
       <Name>To Claim Their Bones</Name>
-      <Desc>A 5-Cost Combat Page with a Slash (14-23) Counter; 'Exhausts on use; [On Hit] Inflict 5 Paralysis and 3 Bleed; cannot hold 2 at once'</Desc>
+      <Desc>การ์ดต่อสู้ค่าร่าย 5 พร้อมฟัน (14-23); [เมื่อตี] ทำดาเมจ 5 อัมพาต และ 3 เลือดไหล; ถือ 2 อันพร้อมกันไม่ได้'</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="onlypage_kim">
-      <Name>Bamboo-hatted’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Bamboo-hatted Kim’s Key page.</Desc>
+      <Name>เฉพาะ Bamboo-hatted’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Bamboo-hatted Kim’s Key page.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Vibrate_Re">
-      <Name>Vibration</Name>
-      <Desc>Can be stacked up to 7</Desc>
+      <Name>แรงสั่นสะเทือน</Name>
+      <Desc>สามารถซ้อนได้ถึง 7</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="onlypage_argalia_Keyword">
-      <Name>Argalia’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Argalia’s Key page.</Desc>
+      <Name>เฉพาะ Argalia’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Argalia’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_elena_Keyword">
-      <Name>Elena’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Elena’s Key page.</Desc>
+      <Name>เฉพาะ Elena’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Elena’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_pluto_Keyword">
-      <Name>Pluto’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Pluto’s Key page.</Desc>
+      <Name>เฉพาะ Pluto’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Pluto’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_philip2_Keyword">
-      <Name>Philip’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Philip’s Key page.</Desc>
+      <Name>เฉพาะ Philip’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Philip’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_tanya_Keyword">
-      <Name>Tanya’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Tanya’s Key page.</Desc>
+      <Name>เฉพาะ Tanya’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Tanya’s Key page.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Librarian_PuppetThread">
-      <Name>Puppeteer’s Strings</Name>
-      <Desc>At the start of the Scene, gain 1 Strength or Endurance. HP cannot go below 1. If HP reaches 1 or the ally with the passive ability 'Puppet Strings' is not present, this status is removed at the end of the Scene.</Desc>
+      <Name>เครื่องเชิดหุ่น</Name>
+      <Desc>ในช่วงเริ่มต้นของฉาก,รับ 1 กำลังหรือทนทาน. HP ไม่สามารถไปต่ำกว่า 1. ถ้า HP ถึง 1 หรือพันธมิตรที่มีความสามารถติดตัว 'สายหุ่น' ตายสถานะนี้จะถูกลบออกเมื่อสิ้นสุดฉาก</Desc>
     </BattleEffectText>
 
 
     
     <BattleEffectText ID="HeavySmoke">
-      <Name>Suffocating Haze</Name>
-      <Desc>Can stack up to 3. The character is inflicted with a random status ailment (Bleed, Paralysis, Feeble, Disarm, Bind, or Fragile) for each stack of Suffocating Haze at the start of the next Scene, losing all Suffocating Haze.</Desc>
+      <Name>หมอกควันที่หายใจไม่ออก</Name>
+      <Desc>สามารถซ้อนทับได้สูงสุด 3 สเตท ตัวละครติดสถานะผิดปกติแบบสุ่ม (เลือดไหล อัมพาต พันธนา เปราะบาง ตัดกำลัง) สำหรับแต่ละสเตทของ หมอกควันที่หายใจไม่ออก ในตอนเริ่มต้นของฉากถัดไป, เสีย หมอกควันที่หายใจไม่ออก ทั้งหมด.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HeavySmoke_buf">
-      <Name>Suffocating Haze</Name>
-      <Desc>Can stack up to 3. The character is inflicted with a random status ailment (Bleed, Paralysis, Feeble, Disarm, Bind, or Fragile) for each stack of Suffocating Haze at the start of the next Scene, losing all Suffocating Haze.</Desc>
+      <Name>หมอกควันที่หายใจไม่ออก</Name>
+      <Desc>สามารถซ้อนทับได้สูงสุด 3 ตัว ตัวละครติดสถานะผิดปกติแบบสุ่ม (เลือดไหล อัมพาต พันธนา เปราะบาง ตัดกำลัง) สำหรับแต่ละสเตทของ หมอกควันที่หายใจไม่ออก ในตอนเริ่มต้นของฉากถัดไป, เสีย หมอกควันที่หายใจไม่ออก ทั้งหมด.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HeavySmoke_Keyword">
-      <Name>Suffocating Haze</Name>
-      <Desc>Stacks up to 3. Character receives a random ailment (Bleed, Paralysis, Feeble, Disarm, Bind, or Fragile) for each stack of this effect at the start of next Scene. Loses all stacks.</Desc>
+      <Name>หมอกควันที่หายใจไม่ออก</Name>
+      <Desc>ซ้อนได้สูงสุด 3 ตัว ตัวละครจะได้รับอาการป่วยแบบสุ่ม (เลือดไหล อัมพาต พันธนา เปราะบาง ตัดกำลัง) สำหรับแต่ละสเตทของเอฟเฟ็กต์นี้เมื่อเริ่มฉากถัดไป สูญเสียสเตททั้งหมด</Desc>
     </BattleEffectText>
 
     <!--검은침묵 3페이즈-->
    <BattleEffectText ID="SpiritLink">
-      <Name>Soul Link</Name>
-      <Desc>Stagger Resist does not go below 1.</Desc>
+      <Name>จิตวิญญาณ</Name>
+      <Desc>Stagger Resist จะไม่ต่ำกว่า 1.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BlackEnergy">
-      <Name>Dark Presence</Name>
-      <Desc>Lasts 1 Scene. Dice Power +1 when engaging Angelica.</Desc>
+      <Name>การปรากฏตัวของความมืด</Name>
+      <Desc>กินเวลา 1 ฉาก พลังลูกเต๋า +1 เมื่อมีส่วนร่วม แองเจลิกา.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WhiteEnergy">
-      <Name>Ashen Presence</Name>
-      <Desc>Lasts 1 Scene. Dice Power +1 when engaging Roland.</Desc>
+      <Name>การปรากฏตัวของเพื่อน</Name>
+      <Desc>กินเวลา 1 ฉาก พลังลูกเต๋า +1 เมื่อมีส่วนร่วม โรแลนด์.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BlackMark">
-      <Name>Dark Mark</Name>
-      <Desc>Targeted by Roland. Roland's Offensive dice gain +3 Power against this character.</Desc>
+      <Name>ดาร์คมาร์ค</Name>
+      <Desc>โรแลนด์ตกเป็นเป้าหมายลูกเต๋าโจมตีของ โรแลนด์ ได้รับพลัง +3 </Desc>
     </BattleEffectText>
     <BattleEffectText ID="BlackFrantic">
-      <Name>Rampaging</Name>
-      <Desc>At the start of the Scene, lose 50% of current Stagger Resist (Only once). Gain 2 Strength and Haste every Scene.</Desc>
+      <Name>อาละวาด</Name>
+      <Desc>ในช่วงเริ่มต้นของฉาก, สูญเสีย 50% ของค่าต้านทาน Stagger ปัจจุบัน (ครั้งเดียวเท่านั้น). ได้รับ 2 กำลังและว่องไวทุกฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WhiteLoss">
-      <Name>Grief-stricken</Name>
-      <Desc>Inflicted with 3 Bind, Paralysis, and Fragile every Scene.</Desc>
+      <Name>เศร้าโศกเสียใจ</Name>
+      <Desc>โดน 3 พันธนา อัมพาต และเปราะบางทุกฉาก</Desc>
     </BattleEffectText>
 
     <!--검은침묵 4페이즈-->
     <BattleEffectText ID="Roland_4th_Lie">
-      <Name>Lies</Name>
-      <Desc>Randomize the Costs of all Combat Pages whose original Cost is 3 or less.</Desc>
+      <Name>โกหก</Name>
+      <Desc>สุ่มต้นทุนของการ์ดทั้งหมดที่มีค่าใช้จ่ายดั้งเดิมเท่ากับ 3 หรือน้อยกว่า</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_Weapon">
-      <Name>Weapon Break</Name>
-      <Desc>Ignores Roland's Scar effects. Offensive dice gain +1 Power against Roland.</Desc>
+      <Name>การทำลายอาวุธ</Name>
+      <Desc>ไม่สนใจ โรแลนด์'ผลของลูกเต๋าที่โจมตีได้รับพลัง +1 ต่อ โรแลนด์.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_DmgReduction_Hit">
-      <Name>Scars - Bruises</Name>
-      <Desc>Take 2-5 less damage from Blunt attacks. When hit by a Blunt attack, 25% chance to reduce incoming damage to 0.</Desc>
+      <Name>รอยแผล - ฟกช้ำ</Name>
+      <Desc>รับความเสียหายทุบน้อยลง 2-5 . เมื่อโดนโจมตีด้วย ทุบ มีโอกาส 25% ที่จะลดความเสียหายที่ได้รับเป็น 0</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_DmgReduction_Penetrate">
-      <Name>Scars - Punctures</Name>
-      <Desc>Take 2-5 less damage from Pierce attacks. When hit by a Pierce attack, 25% chance to reduce incoming damage to 0.</Desc>
+      <Name>รอยแผล - โดนัท</Name>
+      <Desc>รับความเสียหายแทงน้อยลง 2-5 . เมื่อโดนโจมตีด้วย แทง มีโอกาส 25% ที่จะลดความเสียหายที่ได้รับเป็น 0</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_DmgReduction_Slash">
-      <Name>Scars - Cuts</Name>
-      <Desc>Take 2-5 less damage from Slash attacks. When hit by a Slash attack, 25% chance to reduce incoming damage to 0.</Desc>
+      <Name>รอยแผล - ข่วน</Name>
+      <Desc>รับความเสียหายฟันน้อยลง 2-5 . เมื่อโดนโจมตีด้วย ฟัน มีโอกาส 25% ที่จะลดความเสียหายที่ได้รับเป็น 0</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_Blood">
-      <Name>Blood</Name>
-      <Desc>Defensive dice gain 1-2 Power this Scene. If a Defensive die loses in a clash, take 3-6 Stagger damage.</Desc>
+      <Name>เลือด</Name>
+      <Desc>ลูกเต๋าป้องกันได้รับพลัง 1-2 ฉากนี้ ถ้าแพ้ในการปะทะจะได้รับความเสียหาย 3-6 Stagger</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_Gaze">
-      <Name>Leer</Name>
-      <Desc>Gain 1 Strength this Scene. If an Offensive die fails to deal damage, take 3-6 Stagger damage. Strength gain increases by 1 whenever this effect activates.</Desc>
+      <Name>เลียร์</Name>
+      <Desc>ได้รับ 1 กำลังฉากนี้. หากลูกเต๋าโจมตีล้มเหลวในการสร้างความเสียหาย รับความเสียหาย 3-6 Stagger แล้วเพิ่มกำลัง 1 เมื่อใดก็ตามที่เอฟเฟกต์นี้เปิดใช้งาน</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_Curiosity">
-      <Name>Curiosity</Name>
-      <Desc>For this Scene, on hit, shuffle two random pages in target's hand back into their deck.</Desc>
+      <Name>ความอยากรู้</Name>
+      <Desc>สำหรับฉากนี้ เมื่อโจมตีโดนให้สับการ์ดแบบสุ่ม 2 ในมือของเป้าหมายกลับเข้าเด็ค</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_Kiss">
-      <Name>Kiss</Name>
-      <Desc>Prioritizes targeting librarians with Bind. For this Scene, on clash win, inflict Ice Splinter to the opponent. At the end of the Scene, characters with 3 or more Ice Splinters become Immobilized for the next Scene.</Desc>
+      <Name>จูบ</Name>
+      <Desc>จัดลำดับความสำคัญการกำหนดเป้าหมายบรรณารักษ์ด้วย พันธนา สำหรับฉากนี้ เมื่อการปะทะชนะทำดาเมจ สะเก็ตน้ำแข็ง ให้ฝ่ายตรงข้าม ในตอนท้ายของฉากตัวละครที่มี สะเก็ตน้ำแข็ง 3 ชิ้นขึ้นไปจะถูกทำให้หมดสภาพในฉากถัดไป</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_NonTargetable">
-      <Name>Ready to Act</Name>
-      <Desc>For {0} Scenes, does not act, cannot be targeted, and cannot take damage from status ailments. When the character resumes action after {0} Scenes, all status ailments are purged.</Desc>
+      <Name>เตรียมพร้อม</Name>
+      <Desc>สำหรับฉาก {0} จะไม่ทำงาน ไม่สามารถกำหนดเป้าหมาย และไม่สามารถรับความเสียหายจากสถานะผิดปกติ เมื่อตัวละครกลับมาดำเนินการต่อหลังจากฉาก {0} ฉาก สถานะผิดปกติทั้งหมดจะถูกลบออก</Desc>
     </BattleEffectText>
 
 
   <!--Distorted Philip-->    
    <BattleEffectText ID="Arrest">
-     <Name>Restraint</Name>
-     <Desc>This status is not lost at the end of the Scene. If Philip hits a character with 3 or more stacks of this status, they're Immobilized for the next Scene.</Desc>
+     <Name>การยับยั้ง</Name>
+     <Desc>สถานะนี้จะไม่หายไปเมื่อสิ้นสุดฉาก หาก Philip โจมตีตัวละครที่มีสถานะนี้ 3 สเตทขึ้นไป จะถูกทำให้หมดสภาพในฉากถัดไป</Desc>
    </BattleEffectText>
    <BattleEffectText ID="Arrest_buf">
-     <Name>Restraint</Name>
-     <Desc>This status is not lost at the end of the Scene.</Desc>
+     <Name>การยับยั้ง</Name>
+     <Desc>สถานะนี้จะไม่หายไปเมื่อสิ้นสุดฉาก</Desc>
    </BattleEffectText>
    <BattleEffectText ID="Arrest_Keyword">
-     <Name>Restraint</Name>
-     <Desc>This status is not lost at the end of the Scene.</Desc>
+     <Name>การยับยั้ง</Name>
+     <Desc>สถานะนี้จะไม่หายไปเมื่อสิ้นสุดฉาก</Desc>
    </BattleEffectText>
 
 
     <!--잔향악단 중층-->
     <BattleEffectText ID="Tanya_Killed">
-      <Name>Violent Sandstorm</Name>
-      <Desc>For the duration of the Act, deal +3 damage with attacks.</Desc>
+      <Name>พายุทรายรุนแรง</Name>
+      <Desc>ตลอดฉาก, สร้างความเสียหาย +3 ด้วยการโจมตี.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Jaeheon_Killed">
-      <Name>Unbound Flesh</Name>
-      <Desc>For the duration of the Act, gain 1-3 Haste at the start of the Scene, and all dice gain +1 Power.</Desc>
+      <Name>เร่งร่างกาย</Name>
+      <Desc>ตลอดฉาก,ได้รับ 1-3 ว่องไว เมื่อเริ่มฉาก และลูกเต๋าทุกลูกได้รับพลัง +1</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Jaeheon_String">
-      <Name>Puppet Strings</Name>
-      <Desc>{0} Speed dice with the lowest Speed become uncontrollable, targeting allies for attacks. (Can stack up to 3) Removed if Jae-heon dies.</Desc>
+      <Name>สายหุ่น</Name>
+      <Desc>{0} ลูกเต๋าความเร็วด้วยความเร็วต่ำสุดจะไม่สามารถควบคุมได้ มุ่งเป้าเพื่อโจมตี (ซ้อนได้สูงสุด 3 สเตท) นำออกหาก Jae-heon ตาย</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Oswald_String">
       <Name>Red Strings</Name>
       <Desc>In {0} Scenes, if two or more characters have this status, they die, and Mx. Bunny is spawned. If a librarian has this status, they gain 10 Haste at the start of the Scene. Removed if Oswald or Jae-heon dies.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Oswald_Vulnerable">
-      <Name>Vulnerability</Name>
-      <Desc>All resistances change to "Fatal" for this Scene.</Desc>
+      <Name>ช่องโหว่</Name>
+      <Desc>ความต้านทานทั้งหมดเปลี่ยนเป็น "ร้ายแรง" สำหรับฉากนี้</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="RolandWeak">
-      <Name>Weary</Name>
-      <Desc>Roland's Combat Pages are weakened.</Desc>
+      <Name>เหนื่อยล้า</Name>
+      <Desc>การ์ดต่อสู้ของโรแลนด์อ่อนแอลง</Desc>
     </BattleEffectText>
 
     <!-- added -->
     <BattleEffectText ID="DeadInBattle">
-      <Name>Incapacitated</Name>
-      <Desc>Cannot participate in battle this Act</Desc>
+      <Name>ไร้ความสามารถ</Name>
+      <Desc>ไม่สามารถเข้าฉากได้</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="ClawCounter">
-      <Name>Nullifier</Name>
-      <Desc>Can block an attack whose dice value is 30 or greater once</Desc>
+      <Name>ตัวลบ</Name>
+      <Desc>สามารถป้องกันการโจมตีที่มีค่าลูกเต๋า 30 หรือมากกว่าหนึ่งครั้ง</Desc>
     </BattleEffectText>
 
 
     <!-- 케테르 완전 개방 전투-->
     <!-- 심장 -->
     <BattleEffectText ID="KeterFinal_Eager">
-      <Name>Hankering</Name>
-      <Desc>While this character is on the offensive, gain Strength equal to the amount of this status. The amount of Hankering is reset when this character is Staggered or when the Scene in which Aspiration goes on the offensive ends.</Desc>
+      <Name>ความปรารถนา</Name>
+      <Desc>ในขณะที่ตัวละครนี้เป็นฝ่ายรุก ได้รับกำลังเท่ากับจำนวนสถานะนี้. จำนวน ความปรารถนา จะถูกรีเซ็ตเมื่อตัวละครนี้ Staggered หรือเมื่อฉากสุดท้ายสิ้นสุดลง</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_FerventBeats">
-      <Name>Fervent Beats</Name>
-      <Desc>The character dies in {0} Scenes. At the start of each Scene, gain 4 Strength, Endurance, Haste, and Protection.
-Stagger damage resistances change to "Ineffective".
-When Aspiration is not on the offensive, this character uses special Combat Pages.
-When this effect activates, the 'Craving' effect is removed.
-This effect is removed when Aspiration's offensive move is over.</Desc>
+      <Name>เร่าร้อน</Name>
+      <Desc>ลูกเต๋าใน {0} ฉาก. ในตอนเริ่มต้นของแต่ละฉาก, ได้รับ 4 กำลัง, ทนทาน, ว่องไว, และ เกราะ.
+ความต้านทานต่อความเสียหายของ Stagger เปลี่ยนเป็น "ไร้ผล".
+เมื่อความปรารถนาไม่ได้เป็นฝ่ายรุก ตัวละครนี้จะใช้การ์ดต่อสู้พิเศษ
+เมื่อเอฟเฟกต์นี้เปิดใช้งาน,'ความอยาก' เอฟเฟ็กต์อื่นจะถูกลบออก.
+เอฟเฟกต์นี้จะถูกลบออกเมื่อท่ารุกของ 'หัวใจที่ทะเยอทะยาน' สิ้นสุดลง</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_Lung1">
-      <Name>Craving - The Faith</Name>
-      <Desc>At the start of the Scene, gain Strength and Endurance equal to half the amount of 'Hankering' Aspiration has (rounded up).</Desc>
+      <Name>ความอยาก - ศรัทธา</Name>
+      <Desc>ในช่วงเริ่มต้นของฉาก, ได้รับ กำลัง และ ทนทาน เท่ากับครึ่งหนึ่งของ 'ความปรารถนา' หัวใจที่ทะเยอทะยาน (ปัดเศษขึ้น).</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_Lung2">
-      <Name>Craving - The Pain</Name>
-      <Desc>Whenever an ally is defeated, give 4 Hankering to Aspiration.</Desc>
+      <Name>ความอยาก - ความเจ็บปวด</Name>
+      <Desc>เมื่อใดก็ตามที่พันธมิตรพ่ายแพ้, ได้รับ 4 ความปรารถนา ต่อ หัวใจที่ทะเยอทะยาน.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_Lung3">
-      <Name>Craving - The Effort</Name>
-      <Desc>On hit, give 1 Hankering to Aspiration. If the character fails to deal any damage by the end of the Scene, Aspiration loses 2 Hankering.</Desc>
+      <Name>ความอยาก - ความพยายาม</Name>
+      <Desc>เมื่อตี, ได้รับ 1 ความปรารถนา ต่อ หัวใจที่ทะเยอทะยาน. หากตัวละครไม่สามารถสร้างความเสียหายได้ในตอนท้ายของฉาก, หัวใจที่ทะเยอทะยานลดลง 2 ต่อความปรารถนา.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_Lung4">
-      <Name>Craving - The Wait</Name>
-      <Desc>At the end of the Scene, give 3 Hankering to Aspiration.</Desc>
+      <Name>ความอยาก - รอคอย</Name>
+      <Desc>ในตอนท้ายของฉาก, ได้รับ 3 ความปรารถนา ต่อ หัวใจที่ทะเยอทะยาน.</Desc>
     </BattleEffectText>
 
     <!-- 피노키오 -->
     <BattleEffectText ID="KeterFinal_FailLying">
-      <Name>Why is it Bad?</Name>
-      <Desc>The lie has been busted. Inflicted with 4 Feeble and Disarm, and Stagger damage resistance are changed to "Fatal".</Desc>
+      <Name>ทำไมมันแย่?</Name>
+      <Desc>การโกหกถูกจับไปแล้ว สร้างความเสียหายด้วย 4 อ่อนแรงและตัดกำลัง และต้านทานความเสียหาย Stagger เปลี่ยนเป็น "ร้ายแรง".</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SuccessLying">
-      <Name>Lalala~</Name>
-      <Desc>The lie hasn't been caught. Gain 4 Strength and Endurance.</Desc>
+      <Name>ลา ลาลา~</Name>
+      <Desc>จับโกหกไม่ได้ ได้รับกำลังและทนทาน 4 แต้ม</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_ChangeCostAll">
-      <Name>A Song of Lies</Name>
-      <Desc>At the start of the Scene, the Costs of all Combat Pages whose original Cost is 3 or less in all characters' hands are randomized.</Desc>
+      <Name>เพลงแห่งการโกหก</Name>
+      <Desc>ในช่วงเริ่มต้นของฉาก, ต้นทุนของการ์ดทั้งหมดที่มีค่าต้นทุนดั้งเดิมอยุ่ที่ 3 หรือน้อยกว่าจะถูกสุ่มใหม่.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_ChangeLibrarianHands">
       <Name>A Song of Curiosity</Name>
-      <Desc>At the start of the Scene, all librarians shuffle all Combat Pages into the draw pile and then draw 3.</Desc>
+      <Desc>ในช่วงเริ่มต้นของฉาก, บรรณารักษ์ทิ้งการ์ดทั้งหมดแล้วจั่ว 3</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_DoubleEmotion">
-      <Name>Seed of Light</Name>
-      <Desc>Emotion heightens twice as fast this Act.</Desc>
+      <Name>เมล็ดพันธุ์แห่งแสง</Name>
+      <Desc>ระดับอารมณ์เพิ่มขึ้นมากกว่าปกติเป็นสองเท่า</Desc>
     </BattleEffectText>
 
     <!-- 아무 말 없는 소녀 -->
     <BattleEffectText ID="KeterFinal_SilenceGirl_Nail">
-      <Name>Nails</Name>
-      <Desc>Take {0} additional damage from Hammer. Lose 1 Nail at the end of the Scene.</Desc>
+      <Name>ตะปู</Name>
+      <Desc>รับความเสียหายเพิ่มเติม {0} จาก Hammer. เสียตะปู 1 อันเมื่อจบฉาก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_Gaze_Attack">
-      <Name>Anxiety</Name>
-      <Desc>For this Scene, any dice played in engagements involving this character are unaffected by Power gain or loss. Deal +1~2 damage with attacks. If the character fails to deal any damage with Offensive dice this scene, take 15 Stagger damage.</Desc>
+      <Name>ความวิตก</Name>
+      <Desc>สำหรับฉากนี้ ลูกเต๋าที่ใช้ที่เกี่ยวข้องกับตัวละครนี้จะไม่ได้รับผลกระทบจากการเพิ่มหรือลดพลัง. สร้างความเสียหาย +1~2 ด้วยการโจมตี หากตัวละครล้มเหลวในการสร้างความเสียหาย ด้วยลูกเต๋าโจมตีในฉากนี้จะได้รับความเสียหาย 15 Stagger</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_Gaze_Defense">
-      <Name>Fright</Name>
-      <Desc>For this Scene, any dice played in engagements involving this character are unaffected by Power gain or loss. Deal +1~2 Stagger damage on a deflect. If the character fails to deal any deflect damage with Block dice this scene, take 15 Stagger damage.</Desc>
+      <Name>ความกลัว</Name>
+      <Desc>สำหรับฉากนี้ ลูกเต๋าที่ใช้ที่เกี่ยวข้องกับตัวละครนี้จะไม่ได้รับผลกระทบจากการเพิ่มหรือลดพลัง. สร้างความเสียหาย +1~2 Stagger ในการเบี่ยงเบน หากตัวละครล้มเหลวในการป้องกันความเสียหายด้วยลูกเต๋าป้อนกันในฉากนี้ จะได้รับความเสียหาย 15 Stagger</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_Gaze_Attacked">
-      <Name>Self-reproach</Name>
-      <Desc>For this Scene, any dice played in engagements involving this character are unaffected by Power gain or loss. Take 1~2 less Stagger damage from attacks. If the character does not receive any damage this Scene, take 15 Stagger damage.</Desc>
+      <Name>ตำหนิตนเอง</Name>
+      <Desc>สำหรับฉากนี้ ลูกเต๋าที่ใช้ที่เกี่ยวข้องกับตัวละครนี้จะไม่ได้รับผลกระทบจากการเพิ่มหรือลดพลัง. รับความเสียหายจากการโจมตีของ Stagger น้อยลง 1~2 หากตัวละครไม่ได้รับความเสียหายในฉากนี้ จะได้รับความเสียหาย 15 Stagger</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_Light">
       <Name>Faint Glimmer</Name>
-      <Desc>If you don't use 9 unique E.G.O pages until the end of this phase……</Desc>
+      <Desc>ถ้าคุณไม่ได้ใช้การ์ด E.G.O ที่ไม่ซ้ำกัน 9 ใบจนกว่าจะจบเฟสนี้……</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_Hand_Target">
-      <Name>Target Affixed</Name>
-      <Desc>This character's attacks cannot be redirected.</Desc>
+      <Name>ติดเป้าหมาย</Name>
+      <Desc>การโจมตีของตัวละครนี้ไม่สามารถเปลี่ยนทิศทางได้</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="KeterFinal_Light">
-      <Name>A Warm Light</Name>
-      <Desc>You feel the strength to take a step forward.</Desc>
+      <Name>แสงที่อบอุ่น</Name>
+      <Desc>คุณรู้สึกถึงพลังที่จะก้าวไปข้างหน้า</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_Cogito">
-      <Name>The Final Fragment of Light</Name>
-      <Desc>A new E.G.O page can be used!</Desc>
+      <Name>ส่วนสุดท้ายของแสง</Name>
+      <Desc>สามารถใช้หน้า E.G.O ใหม่ได้!</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="KeterFinal_Angela_Ego">
-      <Name>Fragments of Light</Name>
-      <Desc>Number of unique E.G.O pages used: {0}</Desc>
+      <Name>เศษเสี้ยวของแสง</Name>
+      <Desc>จำนวนหน้า E.G.O ที่ใช้ไม่ซ้ำกัน: {0}</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="CardBuf_KeterFinal_SilenceGirl_CostDown">
-      <Name>Cost Down</Name>
-      <Desc>Cost -{0}, Page Dice Power -{0}. Resets when discarded or used.</Desc>
+      <Name>ลดคอส</Name>
+      <Desc>คอส-{0}, ลูกเต๋าพลัง -{0}. รีเซ็ตเมื่อถูกทิ้งหรือใช้งาน</Desc>
     </BattleEffectText>
     <BattleEffectText ID="CardBuf_KeterFinal_SilenceGirl_CostUp">
-      <Name>Cost Up</Name>
-      <Desc>Cost +{0}, Page Dice Power +{0}. Resets when discarded or used.</Desc>
+      <Name>เพิ่มคอส</Name>
+      <Desc>คอส+{0}, ลูกเต๋าพลัง +{0}. รีเซ็ตเมื่อถูกทิ้งหรือใช้งาน</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_BlackHand_Attacked">
-      <Name>Conviction</Name>
-      <Desc>Dice Power +10</Desc>
+      <Name>ความเชื่อมั่น</Name>
+      <Desc>พลังลูกเต๋า +10</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="KeterFinal_SilenceGirl_Sin_Ready">
-      <Name>Impending Break</Name>
-      <Desc>In {0} Scenes, uses a powerful Combat Page against characters with Guilt. The attack is delayed for a Scene if this character is Staggered.</Desc>
+      <Name>การหยุดพักที่กำลังจะมาถึง</Name>
+      <Desc>ใน {0} ฉาก, ใช้การ์ดที่ทรงพลังกับตัวละครด้วยความรู้สึกผิด.การโจมตีจะล่าช้าหากตัวละครนี้ถูก Staggered.</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="QuietKid_Hammer_Buf">
-      <Name>Nails</Name> <!-- used in '못과 망치' -->
-      <Desc>When hit by a Blunt attack, the character takes 5 damage for every stack of this status, which is then removed.</Desc>
+      <Name>ตะปู</Name> <!-- used in '못과 망치' -->
+      <Desc>เมื่อโดนโจมตีด้วย ทุบ, ตัวละครได้รับความเสียหาย 5 ต่อทุกสแต็คของสถานะนี้, ซึ่งจะถูกลบออก.</Desc>
     </BattleEffectText>
 
     <!-- 환상체 책장: 열망-->
     <BattleEffectText ID="HeartofAspiration_Heart">
-      <Name>Aspiration</Name>
-      <Desc>Increase Max HP by 15%. (Current HP increases accordingly) Gain 1-2 Speed.</Desc>
+      <Name>หัวใจที่ทะเยอทะยาน</Name>
+      <Desc>เพิ่ม HP สูงสุด 15% (HP ปัจจุบันเพิ่มขึ้นตามลำดับ) ได้รับความเร็ว 1-2</Desc>
     </BattleEffectText>
     <!-- 황상체 책장: 그리웠던 옛날의 포옹-->
     <BattleEffectText ID="Teddy_Head">
-      <Name>Nostalgic Embrace of the Old Days</Name>
-      <Desc>Upon winning a clash, deal bonus Stagger damage equal to the dice value at a 20% chance. Clashing against the same target multiple times will increase the likelihood.</Desc>
+      <Name>โอบกอดความคิดถึงของวันเก่า</Name>
+      <Desc>เมื่อชนะการปะทะ สร้างโบนัสดาเมจ Stagger เท่ากับมูลค่าลูกเต๋าโดยมีโอกาส 20% การปะทะกับเป้าหมายเดียวกันหลาย ๆ ครั้งจะเพิ่มโอกาส</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="oneinch_penetrate">
-      <Name>Pinpoint Breakthrough</Name>
-      <Desc>A 2-Cost Combat Page with Blunt (5-10), Pierce (15-24) dice; ‘[On Use] Exhaust this page; cannot hold 2 at once'</Desc>
+      <Name>ระบุความก้าวหน้า</Name>
+      <Desc>การ์ดต่อสู่คอส 2  มีหน้าทุบ (5-10), แทง (15-24) ; ‘[เมื่อใช้] การ์ดไอเสีย; ถือ 2 อันพร้อมกันไม่ได้'</Desc>
     </BattleEffectText>
 
     <!-- New May 16th -->
     <BattleEffectText ID="ExhaustOnUse_Keyword">
-      <Name>Single-use</Name>
-      <Desc>Page is exhausted on use. Exhausted pages are removed from play until the end of the Act.</Desc>
+      <Name>ใช้ครั้งเดียว</Name>
+      <Desc>การ์ดหมดจากการใช้งาน การ์ดที่หมดแล้วจะถูกลบออกจากการเล่นจนกว่าจะจบซีนนี้</Desc>
     </BattleEffectText>
 
     <!-- If you don't need this keyword, you can remove it.  -->
     <BattleEffectText ID="Exhaust_Keyword">
-      <Name>Exhaust</Name>
-      <Desc>Page will be removed from play for this Act.</Desc>
+      <Name>ไอเสีย</Name>
+      <Desc>การ์ดนี้ใช้ได้ครั้งเดียวในซีนนี้</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Instant_Keyword">
-      <Name>On Play</Name>
-      <Desc>Page's effect immediately takes place when slotted on a Speed die.</Desc>
+      <Name>เมื่อเล่น</Name>
+      <Desc>เอฟเฟกต์ของเพจ จะเกิดขึ้นทันทีเมื่อการ์ดนี้ทำการปะทะ</Desc>
     </BattleEffectText>
 
 
     <BattleEffectText ID="Freischutz_Request">
-      <Name>Requested Target</Name>
-      <Desc>Take +3-5 damage from the character with the Abnormality page 'Request'.</Desc>
+      <Name>เป้าหมายที่ร้องขอ</Name>
+      <Desc>รับความเสียหาย +3-5 จากตัวละครด้วยหน้าความผิดปกติ 'ขอร้อง'.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="CardBuf_NihilClown_Card">
-      <Name>Meaningless Struggle</Name>
-      <Desc>Gain 1 'Step Toward Futility' upon losing a clash using the page with this symbol.</Desc>
+      <Name>การต่อสู้ที่ไร้ความหมาย</Name>
+      <Desc>ได้รับ 'ไร้ความสามารถ' เมื่อแพ้การปะทะโดยใช้หน้าที่มีสัญลักษณ์นี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Buf_NihilClown_Card">
-      <Name>Steps Toward Futility</Name>
-      <Desc>When this reaches 4, gain 'Pointless' next Scene.</Desc>
+      <Name>ขั้นตอนสู่ความไร้ประโยชน์</Name>
+      <Desc>เมื่อสเตทถึง 4 ได้รับ 'ไร้จุดหมาย' ฉากหน้า</Desc>
     </BattleEffectText>
     <BattleEffectText ID="NihilClown_Card">
-      <Name>Pointless</Name>
-      <Desc>Gain 5 Protection each Scene. Become immune to status ailments.
-When hit, the attacker is inflicted with 1 Erosion and Fragile next Scene. (Twice per Scene)</Desc>
+      <Name>ไร้จุดหมาย</Name>
+      <Desc>ได้รับ 5 การป้องกันในแต่ละฉาก มีภูมิคุ้มกันต่อสถานะเจ็บป่วย
+เมื่อถูกโจมตี ผู้โจมตีจะได้รับ 1 กัดกร่อน และ เปราะบาง เทิร์นหน้า (สองครั้งต่อฉาก)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nosferatu_BloodHope">
-      <Name>Blood</Name>
-      <Desc>3 stacks of Blood are lost at the end of each Scene.
-At 0 Blood: Lose 4-8 Stagger Resist at the start of the Scene. 
-At 1+ Blood: When rolling an Offensive die, lose 2-7 HP, and boost damage by 3-7.
-At 15+ Blood: Gain 2 Strength. The amount of Blood is reset at the start of the next Scene.</Desc>
+      <Name>เลือด</Name>
+      <Desc>กองเลือด 3 กองจะเสียไปเมื่อสิ้นสุดแต่ละฉาก.
+เลือดที่ 0: เสีย 4-8 Stagger Resist เมื่อเริ่มฉาก
+เลือดที่ 1+ : เมื่อทอยลูกเต๋าโจมตี เสีย HP 2-7 และเพิ่มดาเมจ 3-7
+เลือดที่ 15+ : ได้รับ 2 กำลัง จำนวนเลือดจะถูกรีเซ็ตเมื่อเริ่มฉากถัดไป</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ApocalypseBird_BigEyeEffect">
-      <Name>Enchanted by Big Bird</Name>
-      <Desc>Targets the character with the Abnormality page &lt;'Big Eyes'&gt;. Deals +2-4 damage with attacks.</Desc>
+      <Name>เสน่ห์ของ Big Bird</Name>
+      <Desc>กำหนดเป้าหมายตัวละครด้วยหน้าความผิดปกติ &lt;'Big Eyes'&gt;. สร้างความเสียหาย +2-4 ด้วยการโจมตี</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Matan_Flame">
       <Name>Dark Flame</Name>
-      <Desc>The "Endured/Ineffective" resistances of the Key Page change to "Weak/Fatal".</Desc>
+      <Desc>จาก"ทน/ไร้ผล" ค่าความต้านทานของคีย์เปลี่ยนเป็น "อ่อนแอ/ร้ายแรง".</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="onlypage_bayyard">
-      <Name>Bayard’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Bayard’s Key page.</Desc>
+      <Name>เฉพาะ Bayard’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Bayard’s Key page.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="onlypage_cor">
-      <Name>Yae’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Yae’s Key page.</Desc>
+      <Name>เฉพาะ Yae’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Yae’s Key page.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="onlypage_awl">
-      <Name>Allen’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Allen’s Key page.</Desc>
+      <Name>เฉพาะ Allen’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ Allen’s Key page.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="onlypage_usett">
-      <Name>The Udjat’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of an Udjat’s Key Page.</Desc>
+      <Name>เฉพาะ The Udjat’s Page</Name>
+      <Desc>ตั้งได้เฉพาะในเด็คขอ an Udjat’s Key Page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_mirae">
-      <Name>Irina’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Irina’s Key Page.</Desc>
+      <Name>เฉพาะ Irina’s Page</Name>
+      <Desc>ตั้งได้ในเด็คขอ Irina’s Key Page.</Desc>
     </BattleEffectText>
 
     
