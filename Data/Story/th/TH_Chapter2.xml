@@ -8,7 +8,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: สมาพันธ์ซไวล์ - แผนกใต้, หน่วยที่ 6</PlaceName>
+        <PlaceName>สถานที่: สมาพันธ์ซไวล์ - แผนกใต้ หน่วยที่ 6</PlaceName>
         <Dialog ID="0" Model="월터">
           <Teller>???</Teller>
           <Title>???</Title>
@@ -31,7 +31,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_isadora3</VoiceFile>
-          <Content>ถึงตอนนี้, เรามีภัยประจำเมืองสองเคส, ‘ร้านซักรีดในความฝัน’ และ ‘คำสัญญาของวันวาน’; และตำนานประจำเมืองอีกหนึ่ง, ‘นิกายฟันเฟือง’.</Content>
+          <Content>ถึงตอนนี้ เรามีภัยประจำเมืองสองเคส ‘ร้านซักรีดในความฝัน’ และ ‘คำสัญญาของวันวาน’; และตำนานประจำเมืองอีกหนึ่ง ‘นิกายฟันเฟือง’.</Content>
         </Dialog>
         <Dialog ID="4" Model="월터">
           <Teller>???</Teller>
@@ -43,13 +43,13 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_isadora4</VoiceFile>
-          <Content>อ้อ, และ ‘หอสมุด’, คำเล่าประจำเมืองที่เพิ่งแต่งตั้งไป, ก็อยู่ในรายชื่อผู้ต้องสงสัยด้วยค่ะ</Content>
+          <Content>อ้อ และ ‘หอสมุด’ คำเล่าประจำเมืองที่เพิ่งแต่งตั้งไป ก็อยู่ในรายชื่อผู้ต้องสงสัยด้วยค่ะ</Content>
         </Dialog>
         <Dialog ID="6" Model="월터">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_walter3</VoiceFile>
-          <Content>ฮ่า, แม้แต่เบี้องบนก็ยังไม่รู้สินะ? เห็นว่าพวกนั้นกำลังโยนหินถามทางอยู่</Content>
+          <Content>ฮ่า แม้แต่เบี้องบนก็ยังไม่รู้สินะ? เห็นว่าพวกนั้นกำลังโยนหินถามทางอยู่</Content>
         </Dialog>
       </Place>
       <Place>
@@ -64,7 +64,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela1</VoiceFile>
-          <Content>บอกที, ทำไมเธอยังจำนนช่วยฉันอยู่?</Content>
+          <Content>บอกที ทำไมเธอยังจำนนช่วยฉันอยู่?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -82,19 +82,19 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela2</VoiceFile>
-          <Content>แต่ว่า, เธอเองก็ไม่ดูถูกผลักดันด้วยความกลัวเลยนะ?</Content>
+          <Content>แต่ว่า เธอเองก็ไม่ดูถูกผลักดันด้วยความกลัวเลยนะ?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela3</VoiceFile>
-          <Content>ฉันเห็นคยจำนวนมากคลานไปตามพื้น, เปี่ยมไปด้วยความกลัวและหวาดผวา</Content>
+          <Content>ฉันเห็นคยจำนวนมากคลานไปตามพื้น เปี่ยมไปด้วยความกลัวและหวาดผวา</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela4</VoiceFile>
-          <Content>จากที่ฉันเคยสังเกตการณ์ในอดีต, ฉันไม่คิดว่าเธอนั้นจะช่วยฉันแค่เพราะว่าเธอแค่กลัวตายเท่านั้น</Content>
+          <Content>จากที่ฉันเคยสังเกตการณ์ในอดีต ฉันไม่คิดว่าเธอนั้นจะช่วยฉันแค่เพราะว่าเธอแค่กลัวตายเท่านั้น</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -106,7 +106,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland5</VoiceFile>
-          <Content>เอาตามตรงนะ, ผมมีบางอย่างที่อยากจะรู้เกี่ยวกับที่นี่ด้วย</Content>
+          <Content>เอาตามตรงนะ ผมมีบางอย่างที่อยากจะรู้เกี่ยวกับที่นี่ด้วย</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -154,7 +154,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela7</VoiceFile>
-          <Content>แน่นอน, เท่าที่ผมหาประโยชน์จากคุณได้ คุณก็สามารถใช้ประโยชน์จากผมได้เช่นกัน</Content>
+          <Content>แน่นอน เท่าที่ผมหาประโยชน์จากคุณได้ คุณก็สามารถใช้ประโยชน์จากผมได้เช่นกัน</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -166,7 +166,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland11</VoiceFile>
-          <Content>ให้ตาย, คุณนี่ก็ปากจัดเกินไปแล้ว</Content>
+          <Content>ให้ตาย คุณนี่ก็ปากจัดเกินไปแล้ว</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -184,13 +184,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland13</VoiceFile>
-          <Content>ก็ได้,ชิ…</Content>
+          <Content>ก็ได้ชิ…</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland14</VoiceFile>
-          <Content>อึม, ผมมีคำถามครับ พอจะถามตอบได้ไหมครับ?</Content>
+          <Content>อึม ผมมีคำถามครับ พอจะถามตอบได้ไหมครับ?</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -214,7 +214,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela11</VoiceFile>
-          <Content>สิ่งมีชีวิตที่เรียกว่าแอ็บโนมอลิตี้และพนักงาน,ทั้งคุ๋ต่างถูกใช้งานโดยศูนย์ทีตั้งอยู่ ณ จุดที่เราอยู่ตอนนี้…</Content>
+          <Content>สิ่งมีชีวิตที่เรียกว่าแอ็บโนมอลิตี้และพนักงานทั้งคุ๋ต่างถูกใช้งานโดยศูนย์ทีตั้งอยู่ ณ จุดที่เราอยู่ตอนนี้…</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -226,19 +226,19 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela13</VoiceFile>
-          <Content>ถือกำเนิดจากมนุษย์, ถูกเอาเปรียบ, และถูกทิ้งหลังหมดค่า</Content>
+          <Content>ถือกำเนิดจากมนุษย์ ถูกเอาเปรียบ และถูกทิ้งหลังหมดค่า</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland17</VoiceFile>
-          <Content>ไม่รู้สิ, สิ่งที่คุณทำอยู่กับพวกนั้นตอนนี้ก็ยังเหมือนกับการใช้ประโยชน์อยู่นา…</Content>
+          <Content>ไม่รู้สิ สิ่งที่คุณทำอยู่กับพวกนั้นตอนนี้ก็ยังเหมือนกับการใช้ประโยชน์อยู่นา…</Content>
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela14</VoiceFile>
-          <Content>พวกนั้นแตกหัก แค่จะคงรูปเสถียรยังทำไม่ได้, และตัวตนของพวกนั้นบอบบางมากจนสามารถหายไปได้ทุกเมื่อ พวกนั้นแทบจะไม่เป็นรูปร่างเมื่อฉันผนึกพวกนั้นเข้ากับกายหยาบและหนังสือ</Content>
+          <Content>พวกนั้นแตกหัก แค่จะคงรูปเสถียรยังทำไม่ได้ และตัวตนของพวกนั้นบอบบางมากจนสามารถหายไปได้ทุกเมื่อ พวกนั้นแทบจะไม่เป็นรูปร่างเมื่อฉันผนึกพวกนั้นเข้ากับกายหยาบและหนังสือ</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -280,7 +280,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela19</VoiceFile>
-          <Content>เมื่อเรารวบรวมหนังสือจากแขกของเราเป็นจำนวนมาก, เราจะสามารถไปถึงสุดยอดหนังสือที่มีทุกอย่างเขียนเอาไว้</Content>
+          <Content>เมื่อเรารวบรวมหนังสือจากแขกของเราเป็นจำนวนมาก เราจะสามารถไปถึงสุดยอดหนังสือที่มีทุกอย่างเขียนเอาไว้</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -295,43 +295,43 @@
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre1</VoiceFile>
-          <Content>ไม่, อันนี้ไม่ใช่, นั่นก็ไม่ได้เหมือนกัน… ฉันหาอันที่ทำให้ดลใจฉันไม่ได้เลย!</Content>
+          <Content>ไม่ได้ อันนี้ไม่ใช่ นั่นก็ไม่ได้เหมือนกัน… ฉันหาอันที่ทำให้ดลใจฉันไม่ได้เลย!</Content>
         </Dialog>
         <Dialog ID="1" Model="잭">
           <Teller>แจ็ค</Teller>
           <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack1</VoiceFile>
-          <Content>ว่าไง, ปิแอร์~ คราวนี้ได้ของสดมาด้วยล่ะ</Content>
+          <Content>ว่าไง ปิแอร์~ คราวนี้ได้ของสดมาด้วยล่ะ</Content>
         </Dialog>
         <Dialog ID="2" Model="잭">
           <Teller>แจ็ค</Teller>
           <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack2</VoiceFile>
-          <Content>ถึงพวกนี้จะซ้ำไปหน่อยก็เถอะ, แต่ก็ยังหายใจอยู่</Content>
+          <Content>ถึงพวกนี้จะซ้ำไปหน่อยก็เถอt แต่ก็ยังหายใจอยู่</Content>
         </Dialog>
         <Dialog ID="3" Model="잭">
           <Teller>แจ็ค</Teller>
           <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack3</VoiceFile>
-          <Content>อะไรกัน, ยุ่งกับการทำอาหารสูตรใหม่อยู่เหรอ?</Content>
+          <Content>อะไรกัน ยุ่งกับการทำอาหารสูตรใหม่อยู่เหรอ?</Content>
         </Dialog>
         <Dialog ID="4" Model="피에르">
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre2</VoiceFile>
-          <Content>ขอต้อนรับ, แจ็ค~!</Content>
+          <Content>ขอต้อนรับ แจ็ค~!</Content>
         </Dialog>
         <Dialog ID="5" Model="피에르">
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre3</VoiceFile>
-          <Content>เรื่องสูตรก็อย่างนึง, แต่ช่วงนี้เราขาดวัตถุดิบนานไปแล้ว</Content>
+          <Content>เรื่องสูตรก็อย่างนึง แต่ช่วงนี้เราขาดวัตถุดิบนานไปแล้ว</Content>
         </Dialog>
         <Dialog ID="6" Model="피에르">
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre4</VoiceFile>
-          <Content>โชคดีที่ฉันมีเพื่อนแจ็คอันแสนพึ่งได้คนนี้, ฉันเลยไม่ต้องห่วงเรื่องนั้นไปสักพักเลย</Content>
+          <Content>โชคดีที่ฉันมีเพื่อนแจ็คอันแสนพึ่งได้คนนี้ ฉันเลยไม่ต้องห่วงเรื่องนั้นไปสักพักเลย</Content>
         </Dialog>
         <Dialog ID="7" Model="잭">
           <Teller>แจ็ค</Teller>
@@ -379,7 +379,7 @@
           <Teller>แจ็ค</Teller>
           <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack8</VoiceFile>
-          <Content>พวก, เอ่อ… ‘สมาพันธ์ซไวล์’ กำลังเฝ้าระวังแถวนั้นแล้ว</Content>
+          <Content>พวก เอ่อ… ‘สมาพันธ์ซไวล์’ กำลังเฝ้าระวังแถวนั้นแล้ว</Content>
         </Dialog>
         <Dialog ID="15" Model="피에르">
           <Teller>ปิแอร์</Teller>
@@ -397,7 +397,7 @@
           <Teller>แจ็ค</Teller>
           <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack9</VoiceFile>
-          <Content>อ่า, น่าเสียดายแฮะ… ฉันคงคิดถึงพายมือเหนียวแน่นที่เธอทำแน่…</Content>
+          <Content>อ่า น่าเสียดายแฮะ… ฉันคงคิดถึงพายมือเหนียวแน่นที่เธอทำแน่…</Content>
         </Dialog>
         <Dialog ID="18" Model="피에르">
           <Teller>ปิแอร์</Teller>
