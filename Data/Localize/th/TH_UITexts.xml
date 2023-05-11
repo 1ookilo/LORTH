@@ -39,7 +39,7 @@
 	<text id="ui_floormain_title_formation">รูปทีม</text>
 	<text id="ui_floormain_title_quest">หน้าที่ของ {0}</text>
 	<text id="ui_floormain_title_questroland">หน้าที่ของ โรแลนด์</text>
-	<text id="ui_floormain_questalarm_floorperfection">Floor Realization State</text>
+	<text id="ui_floormain_questalarm_floorperfection">สถานะการ Realization ของชั้น</text>
 	<text id="ui_floormain_questalarm_questclear">สะสางงานทั้งหมดเรียบร้อยแล้ว</text>
 	<text id="ui_librarianmain_title_callbookfeedphase">Realize Page</text>
 	<text id="ui_librarianmain_title_callcustomizephase">แต่งตัว บรรณารักษ์</text>
@@ -86,8 +86,8 @@
 	<text id="ui_customize_appearance_backhair">หลังผม</text>
 	<text id="ui_customize_appearance_haircolor">สี</text>
 	<text id="ui_customize_appearance_normal">ธรรมดา</text>
-	<text id="ui_customize_appearance_attack">On Attack</text>
-	<text id="ui_customize_appearance_shot">On Hit</text>
+	<text id="ui_customize_appearance_attack">เมื่อโจมตี</text>
+	<text id="ui_customize_appearance_shot">เมื่อถูกโจมตี</text>
 	<text id="ui_customize_appearance_skincolor">สีผิว</text>
 	<text id="ui_customize_appearance_eyecolor">สีตา</text>
 	<text id="ui_customize_script_fullview">ดูแบบเต็ม</text>
@@ -102,11 +102,11 @@
 	<text id="ui_customize_subtitle_name">เปลี่ยนแปลง ชื่อ &amp; ฉายา</text>
 	<text id="ui_customize_subtitle_appearance">เปลี่ยนแปลงรูปลักษณ์</text>
 	<text id="ui_customize_subtitle_script">เปลี่ยนแปลงบทพูด</text>
-	<text id="ui_floorfeedbook_maintitle">Realize Floor</text>
+	<text id="ui_floorfeedbook_maintitle">Realize ชั้นที่เลือก</text>
 	<text id="ui_floorfeedbook_button_applybook">เผาหนังสือ</text>
 	<text id="ui_floorfeedbook_button_back">กลับ</text>
 	<text id="ui_bookfeedbook_maintitle">Realize Page</text>
-	<text id="ui_bookfeedbook_button_applybook">Burn Pages</text>
+	<text id="ui_bookfeedbook_button_applybook">เผา Pages</text>
 	<text id="ui_bookfeedbook_button_back">กลับ</text>
 	<text id="ui_library_maintitle">ชั้นหนังสือ</text>
 	<text id="ui_library_applybook">เผาหนังสือ</text>
@@ -141,7 +141,7 @@
 	<text id="ui_battlesetting_giftinfo">Battle Symbol</text>
 	<text id="ui_characterlist_enemy_waveshelf">องค์ที่ {0}</text>
 	<text id="ui_battleresult_maintitle">ปิดม่าน ณ</text>
-	<text id="ui_battleresult_subtitlereturn">Proceed</text>
+	<text id="ui_battleresult_subtitlereturn">ต่อไป</text>
 	<text id="ui_battleresult_getgift">ได้รับ Battle Symbols</text>
 	<text id="ui_battleresult_losegift">สูญเสีย Battle Symbols </text>
 	<text id="ui_battleresult_title_rewardbook">หนังสือที่ได้รับ</text>
@@ -149,10 +149,10 @@
 	<text id="ui_battleresult_empty">ไม่มี</text>
 	<text id="ui_battleresult_emptybookname">ไม่มีหนังสือที่ได้รับ</text>
 	<text id="ui_battleresult_returnrewadlist">ปิด</text>
-	<text id="ui_popup_levelup_floor">{0} Realization Level Up!</text>
+	<text id="ui_popup_levelup_floor">{0} ระดับ Realization เพิ่มขึ้น</text>
 	<text id="ui_popup_opensephirah_questalarm">ได้รับมอบหมายงานใหม่</text>
 	<text id="ui_popup_opensephirah_title">{0} Opened</text>
-	<text id="ui_popup_librarygradeup_title">Grade of The Library Exalted</text>
+	<text id="ui_popup_librarygradeup_title">เกรดของห้องสมุดได้เลื่อนสูงขึ้น</text>
 	<text id="ui_popup_gacha_confirm">ตกลง</text>
 	<text id="ui_option_title">ตั้งค่า</text>
 	<text id="ui_option_gameplay">เกมเพลย์</text>
@@ -163,7 +163,7 @@
 	<text id="ui_option_cn">简体中文(ZH-CN)</text>
 	<text id="ui_option_audio">เสียง</text>
 	<text id="ui_option_sound_all">โดยรวม</text>
-	<text id="ui_option_sound_bgm">BGM</text>
+	<text id="ui_option_sound_bgm">ดนตรี</text>
 	<text id="ui_option_sound_effect">SFX</text>
 	<text id="ui_option_sound_voice">เสียงพูด</text>
 	<text id="ui_option_video">ภาพ</text>
@@ -186,12 +186,12 @@
 	<text id="ui_floormain_questalarm_queststate">'งานที่ได้รับมอบหมายที่เหลือ': {0}</text>
 	<text id="ui_gift_title_getcondition">เงื่อนไขเพื่อได้รับ</text>
 	<text id="ui_tooltip_floor_1">หาดูข้อมูลที่เกี่ยวกับ {0}</text>
-	<text id="ui_tooltip_floor_2">Raise the Realization State of the Floor.</text>
+	<text id="ui_tooltip_floor_2">ยกระดับ Realization ของชั้น</text>
 	<text id="ui_tooltip_floor_3">หาดูข้อมูลของชั้นดังกล่าว</text>
-	<text id="ui_tooltip_floor_4">View the librarian’s profile.</text>
-	<text id="ui_tooltip_librarian_1">Replace Key page.</text>
-	<text id="ui_tooltip_librarian_2">Replace Combat Pages.</text>
-	<text id="ui_tooltip_librarian_3">Replace the Battle Symbol on the {0} region.</text>
+	<text id="ui_tooltip_floor_4">ดูประวัติของบรรณารักษ์</text>
+	<text id="ui_tooltip_librarian_1">แทนที่ Key page.</text>
+	<text id="ui_tooltip_librarian_2">แทนที่ Combat Pages.</text>
+	<text id="ui_tooltip_librarian_3">แทนที่ the Battle Symbol ตรงส่วน {0} </text>
 	<text id="ui_tooltip_libraryGrade_1">Canard</text>
 	<text id="ui_tooltip_libraryGrade_2">Urban Myth</text>
 	<text id="ui_tooltip_libraryGrade_3">Urban Legend</text>
@@ -213,18 +213,18 @@
 	<text id="ui_tooltip_card_5">ยกเลิก</text>
 	<text id="ui_tooltip_gift_1">ปิดรายการ of Battle Symbols.</text>
 	<text id="ui_tooltip_gifit_2">สวมใส่ Battle Symbol.</text>
-	<text id="ui_tooltip_invitation_1">Select the book.</text>
-	<text id="ui_tooltip_invitation_2">Cancel the selected book.</text>
-	<text id="ui_tooltip_invitation_3">Right Click: Unfix Info tab</text>
-	<text id="ui_tooltip_invitation_4">Invite {0}.</text>
-	<text id="ui_tooltip_invitation_5">Recall the prologue.</text>
+	<text id="ui_tooltip_invitation_1">เลือกหนังสือ.</text>
+	<text id="ui_tooltip_invitation_2">ยกเลิกการเลือกหนังสือ</text>
+	<text id="ui_tooltip_invitation_3">คลิกขวา : หยุดล็อกแท็บข้อมูล</text>
+	<text id="ui_tooltip_invitation_4">เชื้อเชิญ {0}</text>
+	<text id="ui_tooltip_invitation_5">ย้อนดูอารัมภบท</text>
 	<text id="ui_tooltip_library_1">Select a book you wish to realize from the list.</text>
 	<text id="ui_tooltip_library_2">Realize the ชั้น {0}.</text>
 	<text id="ui_tooltip_library_3">Realize the page the librarian is equipping.</text>
-	<text id="ui_tooltip_library_4">{0} currently has this page equipped.</text>
+	<text id="ui_tooltip_library_4">{0} กำลังสวมใส่ Key Page นี้อยู่</text>
 	<text id="ui_tooltip_curtain_1">The feature is currently inaccessible.</text>
-	<text id="ui_tooltip_lower_1">ESC: Open Pause menu</text>
-	<text id="ui_tooltip_lower_2">F1: Open Manual</text>
+	<text id="ui_tooltip_lower_1">ESC: เปิดเมนู</text>
+	<text id="ui_tooltip_lower_2">F1: เปิดคู่มือ</text>
 	<text id="ui_customize_appearance_eye">Eye</text>
 	<text id="ui_customize_appearance_brow">Eyebrow</text>
 	<text id="ui_customize_appearance_mouth">Mouth</text>
@@ -252,8 +252,8 @@
 	<text id="ui_escpanel_exit">ออกเกม</text>
 	<text id="ui_option_resetSound">รีเซ็ทเสียง</text>
 	<text id="ui_customize_emptyslot">(None)</text>
-	<text id="ui_customize_main_totalsave">Save</text>
-	<text id="ui_ability_recover">การฟื้นฟูStagger Resist</text>
+	<text id="ui_customize_main_totalsave">เซฟ</text>
+	<text id="ui_ability_recover">การฟื้นฟู Stagger Resist</text>
 	<text id="ui_ability_tune">Dice Attunement</text>
 	<text id="ui_ability_amp">Dice Amplification</text>
 	<text id="endbatte_typo_win">ชนะ</text>
@@ -264,22 +264,22 @@ Please wait patiently for the next update to see more.</text>
 	<text id="ui_popup_endcontents_2">Please wait patiently for the next update to see more.</text>
 	<text id="ui_popup_manualalarm_1">คุณสามารถกด F1 เพื่อเปิดคู่มือ.</text>
 	<text id="ui_popup_manualalarm_2">คุณสามารถเข้าถึงคู่มือได้ทางปุ่ม &lt;คู่มือ&gt; ในเมนู ESC.</text>
-	<text id="ui_popup_customizealarm_returnsave_1">Are you sure you want to exit customizing {0} without saving the changes?</text>
-	<text id="ui_popup_customizealarm_returnsave_2">Are you sure you want to exit librarian customization without saving the changes?</text>
-	<text id="ui_popup_customizealarm_savecomplete">The changes have been saved.</text>
-	<text id="ui_tooltip_gifit_3">แสดง Battle Symbol on {0}</text>
+	<text id="ui_popup_customizealarm_returnsave_1">คุณแน่ใจว่าต้องการออกจากการตกแต่ง {0} โดยไม่บันทึกใช่หรือไม่?</text>
+	<text id="ui_popup_customizealarm_returnsave_2">คุณแน่ใจว่าต้องการออกจากการตกแต่งบรรณารักษ์โดยไม่บันทึกใช่หรือไม่?</text>
+	<text id="ui_popup_customizealarm_savecomplete">การปรับแต่งได้รับการบันทึกแล้ว.</text>
+	<text id="ui_tooltip_gifit_3">แสดง Battle Symbol  {0}</text>
 	<text id="ui_tooltip_gifit_4">กดซ่อน Battle Symbol  {0}</text>
 	<text id="ui_tooltip_invitation_6">{0} is required.</text>
 	<text id="ui_tooltip_invitation_7">ได้รับ {0} จากหนังสือประจำวัน</text>
 	<text id="ui_tooltip_invitation_8">คลิกซ้าย: ส่งคำเชิญ, คลิกขวา: ยกเลิก</text>
-	<text id="ui_cardfilter_shelflimit">Page Limit</text>
+	<text id="ui_cardfilter_shelflimit">-ขีดจำกัด Pages</text>
 	<text id="ui_invitation_button_back">ปิด ชั้นหนังสือ</text>
 	<text id="ui_customize_main_edit">แก้ไข</text>
 	<text id="ui_customize_main_save">บันทึก</text>
-	<text id="ui_popup_normalinvitaionopen">You can now send out general invitations.</text>
-	<text id="ui_popup_floorevelupopen">You can now raise the realization state of floors.</text>
+	<text id="ui_popup_normalinvitaionopen">คุณสามารถเชื้อเชิญแขกทั่วไปได้แล้ว</text>
+	<text id="ui_popup_floorevelupopen">คุณสามารถยกระดับ realization ของชั้นได้แล้ว</text>
 	<text id="ui_popup_cardeditopen">You can now edit the combat bookshelf.</text>
-	<text id="ui_popup_booklevelupopen">You can now raise the realization state of books.</text>
+	<text id="ui_popup_booklevelupopen">คุณสามารถยกระดับ realization ของ pages ได้แล้ว</text>
 	<text id="ui_popup_libraryopen">คุณสามารถเข้าถึงชั้นหนังสือได้แล้ว</text>
 	<text id="ui_reviewstory_episode">ตอนที่</text>
 	<text id="ui_sendinvitationbutton">Send</text>
@@ -290,12 +290,13 @@ Please wait patiently for the next update to see more.</text>
 	<text id="ui_invitation_prologue">อารัมภบท</text>
 	<text id="ui_corepage">Key Page</text>
 	<text id="ui_cardfilter_equiplimit">Maximum Equip Limit Exceeded</text>
-	<text id="ui_resistance_slash">Slash Damage Resist</text>
-	<text id="ui_resistance_penetrate">Pierce Damage Resist</text>
-	<text id="ui_resistance_hit">Blunt Damage Resist</text>
-	<text id="ui_resistance_break_slash">Slash Stagger Resist</text>
-	<text id="ui_resistance_break_penetrate">Pierce Stagger Resist</text>
-	<text id="ui_resistance_break_hit">Blunt Stagger Resist</text>
+	<text id="ui_resistance_none"></text>
+	<text id="ui_resistance_slash">ฟัน ความต้านทานดาเมจ</text>
+	<text id="ui_resistance_penetrate">แทง ความต้านทานดาเมจ</text>
+	<text id="ui_resistance_hit">ทุบ ความต้านทานดาเมจ</text>
+	<text id="ui_resistance_break_slash">ฟัน ความต้านทานดาเมจ Stagger</text>
+	<text id="ui_resistance_break_penetrate">แทง ความต้านทานดาเมจ Stagger</text>
+	<text id="ui_resistance_break_hit">ทุบ ความต้านทานดาเมจ Stagger</text>
 	<text id="ui_resistance_weak">ร้ายแรง</text>
 	<text id="ui_resistance_vulnerable">อ่อนแอ</text>
 	<text id="ui_resistance_normal">ปกติ</text>
@@ -320,20 +321,20 @@ Please wait patiently for the next update to see more.</text>
 	<text id="ui_rarity_uncommon">ปกแข็ง</text>
 	<text id="ui_rarity_rare">ลิมิเต็ต</text>
 	<text id="ui_rarity_unique">ศิลปกรรม</text>
-	<text id="ui_tooltip_equiplimit_unique">Can only be equipped by up to {0} librarians in the Library</text>
-	<text id="ui_tooltip_equiplimit_uncommon">Can only be equipped by up to {0} librarians per floor</text>
-	<text id="ui_tooltip_equiplimit_common">No Limits</text>
+	<text id="ui_tooltip_equiplimit_unique">สามารถสวมใส่ให้บรรณารักษ์พร้อมกันได้มากถึง {0} คนในห้องสมุด</text>
+	<text id="ui_tooltip_equiplimit_uncommon">สามารถสวมใส่ให้บรรณารักษ์พร้อมกันได้มากถึง {0} คนต่อชั้น</text>
+	<text id="ui_tooltip_equiplimit_common">ไร้ขีดจำกัด</text>
 	<text id="ui_popup_tutorial_burn">เลือกหนังสือที่ต้องการเผา.</text>
 	<text id="ui_popup_tutorial_levelup">Raise the Realization Level of the floor General Works.</text>
-	<text id="ui_popup_tutorial_setting">Edit the Key page and the Combat bookshelf of librarians, and invite the next guests.</text>
-	<text id="ui_popup_tutorial_pagelevelup">You can now raise the realization state of Key pages.</text>
+	<text id="ui_popup_tutorial_setting">ลองปรับแต่ง Key page และ Combat bookshelf ของบรรณารักษ์และเชิญแขกท่านต่อไป</text>
+	<text id="ui_popup_tutorial_pagelevelup">คุณสามารถยกระดับ realization ของ Key Page ได้แล้ว</text>
 	<text id="ui_popup_tutorial_normalinvite">คุณสามารถเชื้อเชิญแขกทั่วไปได้แล้ว</text>
 	<text id="ui_invitation_needfloortotallevel">Library Grade must reach {0}</text>
 	<text id="ui_popup_notenoughcard">Combat Pages ไม่พอ ช่องที่เหลือจะถูกแทนที่ด้วย combat pages พื้นฐาน</text>
 	<text id="ui_equip_level_title">Key Page Realization State</text>
-	<text id="ui_equip_limit">Equip Limit Reached</text>
-	<text id="ui_drop_limit">Storage Limit Reached</text>
-	<text id="ui_deck_limit">Combat Page Equip Limit</text>
+	<text id="ui_equip_limit">ถึงจำนวนจำกัดที่สามารถสวมใส่ได้</text>
+	<text id="ui_drop_limit">ถึงจำนวนจำกัดที่สามารถเก็บได้</text>
+	<text id="ui_deck_limit">ขีดจำกัดของ Combat Page</text>
 	<text id="ui_rewardlist">รายการที่สามารถปลดล็อคได้</text>
 	<text id="ui_popup_nocontents">This is all the story we have prepared for now.
 Please wait patiently for the next update to see more.</text>
@@ -366,7 +367,7 @@ The Combat bookshelf will be reset.</text>
 	<text id="ui_passivesuccession_apply">ตกลง</text>
 	<text id="ui_popup_passivesuccessionalarm_changepassive">คุณต้องการแทนที่ช่องนี้ด้วยความสามารถที่คุณเลือกหรือไม่?
 ความสามารถเดิมที่อยู่ในช่องนี้จะสูญหายไป</text>
-	<text id="ui_book_bookname_emptydeck">เคลียร์</text>
+	<text id="ui_book_bookname_emptydeck">เคลียร์ตู้</text>
 	<text id="ui_book_bookname_filldeck">เติมให้เต็มด้วย basic pages</text>
 	<text id="BattleUI_getexp">{0}% Additional Realization Gain</text>
 	<text id="ui_bookfilter_Levelorder">ค้นหาด้วยเลเวล</text>
@@ -385,24 +386,24 @@ The Combat bookshelf will be reset.</text>
 	<text id="ui_filter_dice">เต๋า</text>
 	<text id="ui_filter_buf">Keyword</text>
 	<text id="ui_filter_ability">ความสามารถ</text>
-	<text id="ui_dice_slash">Slash</text>
-	<text id="ui_dice_penetrate">Pierce</text>
-	<text id="ui_dice_hit">Blunt</text>
-	<text id="ui_dice_guard">Block</text>
-	<text id="ui_dice_evasion">Evade</text>
-	<text id="ui_buf_burn">Burn</text>
-	<text id="ui_buf_paralysis">Paralysis</text>
-	<text id="ui_buf_bleeding">Bleed</text>
-	<text id="ui_buf_vulnerable">Fragile</text>
-	<text id="ui_buf_weak">Feeble</text>
-	<text id="ui_buf_disarm">Disarm</text>
-	<text id="ui_buf_binding">Bind</text>
-	<text id="ui_buf_protection">Protection</text>
-	<text id="ui_buf_strength">Strength</text>
-	<text id="ui_buf_endurance">Endurance</text>
-	<text id="ui_buf_quickness">Haste</text>
-	<text id="ui_ability_energy">Light Recover</text>
-	<text id="ui_ability_drawcard">Page Draw</text>
+	<text id="ui_dice_slash">ฟัน</text>
+	<text id="ui_dice_penetrate">แทง</text>
+	<text id="ui_dice_hit">ทุบ</text>
+	<text id="ui_dice_guard">ป้องกัน</text>
+	<text id="ui_dice_evasion">หลบหลีก</text>
+	<text id="ui_buf_burn">เผาไหม้</text>
+	<text id="ui_buf_paralysis">อัมพาต</text>
+	<text id="ui_buf_bleeding">เลือดไหล</text>
+	<text id="ui_buf_vulnerable">เปราะบาง</text>
+	<text id="ui_buf_weak">อ่อนแรง</text>
+	<text id="ui_buf_disarm">ตัดกำลัง</text>
+	<text id="ui_buf_binding">พันธนา</text>
+	<text id="ui_buf_protection">เกราะ</text>
+	<text id="ui_buf_strength">กำลัง</text>
+	<text id="ui_buf_endurance">อึดทน</text>
+	<text id="ui_buf_quickness">ว่องไว</text>
+	<text id="ui_ability_energy">ฟื้นฟูแสง</text>
+	<text id="ui_ability_drawcard">จั่ว</text>
 	<text id="ui_customize_hairstyle">ทรงผม</text>
 	<text id="ui_customize_facestyle">หน้า &amp; สีหน้า</text>
 	<text id="ui_customize_previewappearance">ตัวอย่างรูปลักษณ์</text>
@@ -441,20 +442,20 @@ The Combat bookshelf will be reset.</text>
   <text id="ui_newtooltip_battle_18">กำหนด Combat Pages แบบสุ่มเข้าไปในเต๋าความเร็วที่ยังไม่ได้ถูกกำหนด
 โดยจะไม่ส่งผลกับเต๋าความเร็วที่ได้ถูกกำหนดไว้แล้ว</text>
 
-  <text id="ui_ability_speeddicenumber">Speed Dice Slot</text>
+  <text id="ui_ability_speeddicenumber">เต๋าความเร็ว</text>
 
-  <text id="ui_dice_standby">Counter</text>
-  <text id="ui_dice_onlyone">Singleton</text>
-  <text id="ui_dice_charge">Charge</text>
-  <text id="ui_dice_smoke">Smoke</text>
-  <text id="ui_ability_recoverhp">HP Recover</text>
+  <text id="ui_dice_standby">โต้กลับ</text>
+  <text id="ui_dice_onlyone">หนึ่งเดียว</text>
+  <text id="ui_dice_charge">ชาร์จ</text>
+  <text id="ui_dice_smoke">ควัน</text>
+  <text id="ui_ability_recoverhp">ฟื้นฟู HP</text>
 
   <!--20200901-->
   <text id="ui_passivesuccession_selectchangepassive">ความสามารถที่ใช้อยู่</text>
   <text id="ui_passivesuccession_equipbooks">Key Pages ที่นำไปใช้เสริม</text>
   <text id="ui_passivesuccession_selectsuccessionpassive">รายการความสามารถที่ใช้ได้</text>
-  <text id="ui_passivesuccession_originalarm">Equipped Key Page</text>
-  <text id="ui_passivesuccession_usingpassive">In Use</text>
+  <text id="ui_passivesuccession_originalarm">Key Page ที่สวมใส่อยู่</text>
+  <text id="ui_passivesuccession_usingpassive">ใช้งานอยู่</text>
   <text id="ui_passivesuccession_title">ปรับแต่ง Key Page</text>
   <text id="ui_passivesuccession_booklist">รายการ Key Pages</text>
 
@@ -464,8 +465,8 @@ The Combat bookshelf will be reset.</text>
   
   <text id="ui_passivesuccession_applyalarm">ต้องการบันทึกผลของการแก้ไข Key page หรือไม่?</text>
   <text id="ui_passivesuccession_releaseequipedbookalarm">ความสามารถติดตัวของ Key page นี้ถูกใช้งานอยู่ต้องการนำออกมาหรือไม่?</text>
-  <text id="ui_passivesuccession_releaseequipedotherbookalarm">This page is currently attributed to another Key page.
-Revert attribution to that page?
+  <text id="ui_passivesuccession_releaseequipedotherbookalarm">page นี้กำลังกูกนำไปเสริมพลังที่ key page อื่น
+ต้องการนำกลับมาหรือไม่?
   </text>
 
   <text id="ui_maintitle_citystate_6">Star of the City</text>
@@ -474,7 +475,7 @@ Revert attribution to that page?
 
   <text id ="ui_bookinventory_equipbook">สวมใส่</text>
   <text id ="ui_bookinventory_givepassiverelease">ถอดความสามารถ</text>
-  <text id ="ui_bookinventory_receivepassiverelease">Reset All Attributions</text>
+  <text id ="ui_bookinventory_receivepassiverelease">รีเซ็ทความสามารถทุกอย่าง</text>
 
   <text id="ui_popup_release_all">นำ Key Pages ที่สวมใส่ทั้งหมดออก</text>
   <text id="ui_appearanceselect">สับเปลี่ยนรูปลักษณ์</text>
@@ -490,23 +491,23 @@ Revert attribution to that page?
   <text id="ui_back_to_list">ไปที่ รายการ</text>
   <text id="ui_close_popup">ปิด</text>
 
-  <text id="ui_deck_change_name">Rename</text>
-  <text id="ui_deck_close_list">Close List</text>
-  <text id="ui_card_equip_limit">Equip Limit</text>
-  <text id="ui_card_open_equipstate">Check Equip Status</text>
+  <text id="ui_deck_change_name">เปลี่ยนชื่อ</text>
+  <text id="ui_deck_close_list">ปิดรายการ</text>
+  <text id="ui_card_equip_limit">ขีดจำกัดการสวมใส่</text>
+  <text id="ui_card_open_equipstate">ตรวจสอบสถานะการสวมใส่</text>
 
   <text id="ui_deck_delete_assure">คุณแน่ใจว่าต้องการลบเด็คนี้ใช่หรือไม่?</text>
 
   <text id="ui_customtoggle_title">ตกแต่งรูปลักษณ์</text>
 
-  <text id="ui_card_equipstate_lackofcards">Not enough Combat Pages</text>
-  <text id="ui_card_equipstate_fullofdeck">Deck list is full</text>
+  <text id="ui_card_equipstate_lackofcards">Combat Pages ไม่พอ</text>
+  <text id="ui_card_equipstate_fullofdeck">รายการเด๊คเต็มแล้ว</text>
   <text id="ui_card_equipstate_overcardlimit">เกินขีดจำกัดที่สวมใส่ได้</text>
   <text id="ui_card_equipstate_overfloorlimit">เกินขีดจำกัดที่สวมใส่ได้ต่อชั้น</text>
   <text id="ui_card_equipstate_fartypelimit">ระยะไกลเท่านั้น</text>
   <text id="ui_card_equipstate_neartypelimit">ระยะไกล้เท่านั้น</text>
   <text id="ui_card_equipstate_onlypagelimit">page เฉพาะตัว ไม่สามารถใช้งานกับ Keypage นี้ได้</text>
-  <text id="ui_card_bookcardequipinfo_notify">You will only see unequipped Key pages.</text>
+  <text id="ui_card_bookcardequipinfo_notify">คุณจะเห็นเฉพาะ Key page ที่ยังไม่ได้สวมใส่</text>
 
   <text id="ui_passivesuccession_releasepassive">นำออก</text>
 
@@ -546,7 +547,7 @@ Revert attribution to that page?
   <text id="ui_color_h">สี</text>
   <text id="ui_color_s">ความเข้มสี</text>
   <text id="ui_color_v">ความสว่าง</text>
-  <text id="ui_resultemotionlevelrewardtitle">Emotion Level Bonus</text>
+  <text id="ui_resultemotionlevelrewardtitle">พิเศษจาก Emotion Level</text>
   <text id ="ui_resultgetbookincreasepertitle">{0} Rate Up</text>
   <!--20201113-->
   <text id="ui_selectgendertype">ชนิดร่างกาย</text>
@@ -574,11 +575,11 @@ Revert attribution to that page?
   <text id ="ui_menu">เมนู</text>
 
   <!--202011227-->
-  <text id ="ui_customcoretype_melee">Melee Page Fashion</text>
-  <text id ="ui_customcoretype_hybrid">Hybrid Page Fashion</text>
-  <text id ="ui_customcoretype_range">Ranged Page Fashion</text>
+  <text id ="ui_customcoretype_melee">ชุด Page ระยะไกล้</text>
+  <text id ="ui_customcoretype_hybrid">ชุด Page ผสม</text>
+  <text id ="ui_customcoretype_range">ชุด Page ระยะไกล</text>
 
-	<text id ="ui_drop_reward">{0}: {1}% - {2} Copies</text>
+	<text id ="ui_drop_reward">{0}: {1}% - {2} เล่ม</text>
 
   <text id ="ui_decksetting_save">บันทึก</text>
   <text id ="ui_decksetting_list">โหลด</text>
@@ -589,8 +590,8 @@ Revert attribution to that page?
 
   <text id ="ui_equippage_notequip">ยกเลิก</text>
 
-  <text id ="ui_alarm_battlesetting_canusebinah">You may control Patron Librarian Binah for this battle.</text>
-  <text id ="ui_alarm_main_canusebinah">The Patron Librarian of Philosophy, Binah, is now available.</text>
+  <text id ="ui_alarm_battlesetting_canusebinah">คุณสามารถใช้งานหัวหน้าบรรณารักษ์ บีนา ได้ในการต่อสู้ครั้งนี้</text>
+  <text id ="ui_alarm_main_canusebinah">หัวหน้าบรรณารักษ์ผู้รับผิดชอบชั้นปรัชญา บีนา พร้อมร่วมต้อนรับแขกแล้ว</text>
 
   <text id ="ui_slash_form">ฟัน</text>
   <text id ="ui_penetrate_form">แทง</text>
@@ -602,8 +603,8 @@ Revert attribution to that page?
   <text id="ui_maintitle_citystate_7">Impuritas Civitatis</text>
 
   <!-- 20210205-->
-  <text id ="ui_alarm_battlesetting_canuseblacksilence">Roland will have The Black Silence’s Page equipped for this battle.</text>
-  <text id ="ui_alarm_main_canuseblacksilence">Roland’s Key page has been changed to The Black Silence’s Page.</text>
+  <text id ="ui_alarm_battlesetting_canuseblacksilence">โรแลนด์จะสวมใส่ Page ของความเงียบสีทมิฬในการต่อสู้ครั้งนี้</text>
+  <text id ="ui_alarm_main_canuseblacksilence">Key page ของโรแลน์ได้ถูกเปลี่ยนเป็น Page ของความเงียบสีทมิฬ</text>
 
   <!--<20210206-->
   <text id ="ui_storyarchives_nullepisodecaution">โปรดเลือกตอนที่คุณต้องการอ่านจากรายการข้างต้น</text>
@@ -638,46 +639,46 @@ Revert attribution to that page?
 
   <text id="ui_floor_initbattle_blueReveration">Reset</text>
 
-  <text id ="ui_alarm_initfloorbattlethebluereverberationprimary">The reception progress of the floor will be reset, and equip restrictions for the pages used for that reception will be lifted.
-Will you proceed?</text>
+  <text id ="ui_alarm_initfloorbattlethebluereverberationprimary">ความคืบหน้าของการต้อนรับในแต่ละชั้นจะถูกรีเซ็ตและสถานะถูกล็อคของ Pages,Combat Pages และ Keypage จะถูกปลดล็อค 
+ต้องการดำเนินการหรือไม่?</text>
 
-  <text id ="ui_alarm_enterthebluereverberationprimary_keter">On the floor General Works, Roland will receive his guest alone.
-Begin the reception?</text>
+  <text id ="ui_alarm_enterthebluereverberationprimary_keter">ณ ชั้นการงานทั่วไปโรแลนด์จะต้อนรับแขกของเขาด้วยตัวคนเดียว 
+ต้องการเริ่มต้นการต้อนรับหรือไม่?</text>
 
   <text id="ui_blueprimary_exit">ยกเลิกการต้อนรับ</text>
   
   <!--20210311-->
-  <text id ="ui_controller_showtooltip">View Details</text>
-  <text id ="ui_controller_focusmove">Move between Items</text>
-  <text id ="ui_controller_panelmove">Switch between Panels</text>
-  <text id ="ui_controller_leftmenu">Leftmost Menu</text>
-  <text id ="ui_showdetail">Display Details</text>
+  <text id ="ui_controller_showtooltip">ดูข้อมูล</text>
+  <text id ="ui_controller_focusmove">เลื่อนดูของที่เลือก</text>
+  <text id ="ui_controller_panelmove">สลับช่อง</text>
+  <text id ="ui_controller_leftmenu">เมนูซ้ายสุด</text>
+  <text id ="ui_showdetail">แสดงรายละเอียด</text>
 
   
   <!--20210311 -->
-  <text id ="ui_alarm_blueprimaryreward">The rewards for the reception of the Reverberation Ensemble can only be redeemed once.</text>
+  <text id ="ui_alarm_blueprimaryreward">รางวัลที่ได้รับจากการต้อนรับ คณะเสียงกังวาล สามารถรับได้เพียงครั้งเดียวเท่านั้น</text>
 
 
-  <text id="ui_alarm_startthebluereverberationprimary">You will not be able to send invitations, burn books, battle Abnormalities, or realize floors from this point onward.
-Are you fully and truly prepared for what comes next, whatever may happen?</text>
+  <text id="ui_alarm_startthebluereverberationprimary">หลังจากนี้คุณจะไม่สามารถส่งบัตรเชิญ เผาหนังสือ ต่อสู้กับ Abnormalities หรือ realize ชั้นได้อีกต้อไป
+คุณแน่ใจว่าคุณเพรียบพร้อมที่จะเผชิญหน้ากับสิ่งที่กำลังจะมาไม่ว่าจะต้องเผชิญหน้ากับสิ่งใดก็ตามใช่หรือไม่?</text>
 
-  <text id ="ui_alarm_backthebluereverberationprimary">If you forfeit now, you will lose the progress so far and be sent back to the point after the receptions of the Hana Association.
-Are you sure you wish to forfeit the reception?</text>
+  <text id ="ui_alarm_backthebluereverberationprimary">หากคุณล้มเลิกตอนนี้คุณจะเสียความคืบหน้า ณ จุดนี้และถูกส่งกลับไปสู่ ณ ช่วงเวลาหลังจากที่คุณต้อนรับ สมาพันธ์ฮานะ
+คุณแน่ใจว่าคุณต้องการล้มเลิกการต้อนรับในครั้งนี้ใช่หรือไม่?</text>
 
 
   <!--20210330 전투파트 UI 개선-->
   <text id="ui_newtooltip_battle_19">ยกเลิก Combat pages ทุกใบที่ได้กำหนดไว้</text>
 
  <!--20210402-->
-  <text id="ui_enterendcontentsformidway">Commence Next Reception</text>
-  <text id ="ui_alarm_enterendcontentsformidway">Press ‘Commence Next Reception’ to progress to the next battle.</text>
+  <text id="ui_enterendcontentsformidway">เริ่มการต้อนรับถัดไป</text>
+  <text id ="ui_alarm_enterendcontentsformidway">กด ‘เริ่มการต้อนรับถัดไป’ เพื่อเริ่มการต่อสู้ถัดไป</text>
   
-  <text id ="ui_alarm_enterblacksilence">Will you initiate the reception of the Black Silence?</text>
+  <text id ="ui_alarm_enterblacksilence">คุณต้องการเริ่มต้นการต้อนรับ ความเงียบสีทมิฬ หรือไม่</text>
 
-  <text id ="ui_alarm_entertwistedblue">Will you tackle the reception of the Distorted Reverberation Ensemble?</text>
+  <text id ="ui_alarm_entertwistedblue">คุณพร้อมเผชิญหน้ากับ คณะเสียงกังวาลที่บิดเบี้ยว หรือไม่?</text>
 
 //잔향악단2차 클리어후 결과 보상창 상단 텍스트
-  <text id ="ui_alarm_rewardtwistedblue">Acquired rewards for the receptions of the Black Silence and the Reverberation Ensemble.</text>
+  <text id ="ui_alarm_rewardtwistedblue">ได้รับรางวัลจากการต้อนรับ ความเงียบสีทมิฬและคณะเสียงกังวาล</text>
 
 
   <text id="ui_battle_switchtarget">เปลี่ยนเป้าหมายที่จะปะทะ</text>
@@ -693,14 +694,14 @@ Are you sure you wish to forfeit the reception?</text>
 
   <!--20210324패시브 필터 관련 *passive Desc에 사용되는 용어 그대로 번역-->
   <text id="ui_passivedetailfilter">ค้นหาแบบละเอียด</text>
-  <text id="ui_passivekeyword_Power">power</text>
-  <text id="ui_passivekeyword_strength">Strength</text>
-  <text id="ui_passivekeyword_endurance">Endurance</text>
-  <text id="ui_passivekeyword_burn">Burn</text>
-  <text id="ui_passivekeyword_paralysis">Paralysis</text>
-  <text id="ui_passivekeyword_bleeding">Bleed</text>
-  <text id="ui_passivekeyword_Recover">Recover</text>
-  <text id="ui_passivekeyword_damage">damage</text>
+  <text id="ui_passivekeyword_Power">พลัง</text>
+  <text id="ui_passivekeyword_strength">กำลัง</text>
+  <text id="ui_passivekeyword_endurance">อึดทน</text>
+  <text id="ui_passivekeyword_burn">เผาไหม้</text>
+  <text id="ui_passivekeyword_paralysis">อัมพาต</text>
+  <text id="ui_passivekeyword_bleeding">เลือดไหล</text>
+  <text id="ui_passivekeyword_Recover">ฟื้นฟู</text>
+  <text id="ui_passivekeyword_damage">ดาเมจ</text>
 
   <!--20210412-->
   <text id ="ui_alarm_enterhead">คุณต้องการจะเริ่มต้นการต้อนรับครั้งสุดท้ายหรือไม่?</text>
@@ -714,12 +715,12 @@ Are you sure you wish to forfeit the reception?</text>
   <text id="ui_credit_skipalarm">ข้าม</text>
 
 <!--20210423-->
-  <text id="ui_alarm_endcontentsrewardcantuse">Your progress has been set to the point after the reception of the Black Silence.
-The rewards you received for completing the receptions of the Black Silence and the Distorted Reverb Ensemble have become temporarily unavailable.</text>
+  <text id="ui_alarm_endcontentsrewardcantuse">ความคืบหน้าของคุณได้ถูกส่งมา ณ จุดที่หลังจากคุณได้ทำการต้อนรับ ทมิฬเงียบสงัด
+รางวัลที่คุณได้รับหลังจากเสร็จสิ้นการต้อนรับ ทมิฬเงียบสงัด และ คณะก้องกังวาลบิดเบี้ยวได้ถูกล็อคชั่วคราว</text>
 
   <!--20210506-->
-  <text id="ui_alarm_ensurestoryselection">This may affect future progress.
-Are you sure you want to select this?</text>
+  <text id="ui_alarm_ensurestoryselection">ทางเลือกนี้อาจมีผลต่อคุณในอนาคต
+คุณแน่ใจใช่ไหมว่าต้องเลือกเช่นนี้?</text>
 
 <text id="ui_alarm_isrunningtutorial">คุณแน่ใจว่าต้องการข้ามการฝึกสอนใช่หรือไม่?</text>
 

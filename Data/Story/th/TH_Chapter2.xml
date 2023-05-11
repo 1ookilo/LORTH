@@ -8,7 +8,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: สมาพันธ์ซไวล์ - แผนกใต้, หน่วยที่ 6</PlaceName>
+        <PlaceName>สถานที่: สมาพันธ์ซไวล์ - แผนกใต้ หน่วยที่ 6</PlaceName>
         <Dialog ID="0" Model="월터">
           <Teller>???</Teller>
           <Title>???</Title>
@@ -31,7 +31,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_isadora3</VoiceFile>
-          <Content>ถึงตอนนี้, เรามีโรคประจำเมืองสองเคส, ‘ร้านซักรีดในความฝัน’ และ ‘คำสัญญาของวันวาน’; และตำนานประจำเมืองอีกหนึ่ง, ‘นิกายฟันเฟือง’.</Content>
+          <Content>ถึงตอนนี้ เรามีภัยประจำเมืองสองเคส ‘ร้านซักรีดในความฝัน’ และ ‘คำสัญญาของวันวาน’; และตำนานประจำเมืองอีกหนึ่ง ‘นิกายฟันเฟือง’.</Content>
         </Dialog>
         <Dialog ID="4" Model="월터">
           <Teller>???</Teller>
@@ -43,13 +43,13 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_isadora4</VoiceFile>
-          <Content>อ้อ, และ ‘หอสมุด’, คำเล่าประจำเมืองที่เพิ่งแต่งตั้งไป, ก็อยู่ในรายชื่อผู้ต้องสงสัยด้วยค่ะ</Content>
+          <Content>อ้อ และ ‘หอสมุด’ คำเล่าประจำเมืองที่เพิ่งแต่งตั้งไป ก็อยู่ในรายชื่อผู้ต้องสงสัยด้วยค่ะ</Content>
         </Dialog>
         <Dialog ID="6" Model="월터">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_walter3</VoiceFile>
-          <Content>ฮ่า, แม้แต่เบี้องบนก็ยังไม่รู้สินะ? เห็นว่าพวกนั้นกำลังโยนหินถามทางอยู่</Content>
+          <Content>ฮ่า แม้แต่เบี้องบนก็ยังไม่รู้สินะ? เห็นว่าพวกนั้นกำลังโยนหินถามทางอยู่</Content>
         </Dialog>
       </Place>
       <Place>
@@ -64,7 +64,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela1</VoiceFile>
-          <Content>บอกที, ทำไมเธอยังจำนนช่วยฉันอยู่?</Content>
+          <Content>บอกที ทำไมเธอยังจำนนช่วยฉันอยู่?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -82,19 +82,19 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela2</VoiceFile>
-          <Content>แต่ว่า, เธอเองก็ไม่ดูถูกผลักดันด้วยความกลัวเลยนะ?</Content>
+          <Content>แต่ว่า เธอเองก็ไม่ดูถูกผลักดันด้วยความกลัวเลยนะ?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela3</VoiceFile>
-          <Content>ฉันเห็นคยจำนวนมากคลานไปตามพื้น, เปี่ยมไปด้วยความกลัวและหวาดผวา</Content>
+          <Content>ฉันเห็นคยจำนวนมากคลานไปตามพื้น เปี่ยมไปด้วยความกลัวและหวาดผวา</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela4</VoiceFile>
-          <Content>จากที่ฉันเคยสังเกตการณ์ในอดีต, ฉันไม่คิดว่าเธอนั้นจะช่วยฉันแค่เพราะว่าเธอแค่กลัวตายเท่านั้น</Content>
+          <Content>จากที่ฉันเคยสังเกตการณ์ในอดีต ฉันไม่คิดว่าเธอนั้นจะช่วยฉันแค่เพราะว่าเธอแค่กลัวตายเท่านั้น</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -106,7 +106,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland5</VoiceFile>
-          <Content>เอาตามตรงนะ, ผมมีบางอย่างที่อยากจะรู้เกี่ยวกับที่นี่ด้วย</Content>
+          <Content>เอาตามตรงนะ ผมมีบางอย่างที่อยากจะรู้เกี่ยวกับที่นี่ด้วย</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -154,7 +154,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela7</VoiceFile>
-          <Content>แน่นอน, เท่าที่ผมหาประโยชน์จากคุณได้ คุณก็สามารถใช้ประโยชน์จากผมได้เช่นกัน</Content>
+          <Content>แน่นอน เท่าที่ผมหาประโยชน์จากคุณได้ คุณก็สามารถใช้ประโยชน์จากผมได้เช่นกัน</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -166,7 +166,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland11</VoiceFile>
-          <Content>ให้ตาย, คุณนี่ก็ปากจัดเกินไปแล้ว</Content>
+          <Content>ให้ตาย คุณนี่ก็ปากจัดเกินไปแล้ว</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -184,13 +184,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland13</VoiceFile>
-          <Content>ก็ได้,ชิ…</Content>
+          <Content>ก็ได้ชิ…</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland14</VoiceFile>
-          <Content>อึม, ผมมีคำถามครับ พอจะถามตอบได้ไหมครับ?</Content>
+          <Content>อึม ผมมีคำถามครับ พอจะถามตอบได้ไหมครับ?</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -214,7 +214,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela11</VoiceFile>
-          <Content>สิ่งมีชีวิตที่เรียกว่าแอ็บโนมอลิตี้และพนักงาน,ทั้งคุ๋ต่างถูกใช้งานโดยศูนย์ทีตั้งอยู่ ณ จุดที่เราอยู่ตอนนี้…</Content>
+          <Content>สิ่งมีชีวิตที่เรียกว่าแอ็บโนมอลิตี้และพนักงานทั้งคุ๋ต่างถูกใช้งานโดยศูนย์ทีตั้งอยู่ ณ จุดที่เราอยู่ตอนนี้…</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -226,19 +226,19 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela13</VoiceFile>
-          <Content>ถือกำเนิดจากมนุษย์, ถูกเอาเปรียบ, และถูกทิ้งหลังหมดค่า</Content>
+          <Content>ถือกำเนิดจากมนุษย์ ถูกเอาเปรียบ และถูกทิ้งหลังหมดค่า</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_prol_ep1_roland17</VoiceFile>
-          <Content>ไม่รู้สิ, สิ่งที่คุณทำอยู่กับพวกนั้นตอนนี้ก็ยังเหมือนกับการใช้ประโยชน์อยู่นา…</Content>
+          <Content>ไม่รู้สิ สิ่งที่คุณทำอยู่กับพวกนั้นตอนนี้ก็ยังเหมือนกับการใช้ประโยชน์อยู่นา…</Content>
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela14</VoiceFile>
-          <Content>พวกนั้นแตกหัก แค่จะคงรูปเสถียรยังทำไม่ได้, และตัวตนของพวกนั้นบอบบางมากจนสามารถหายไปได้ทุกเมื่อ พวกนั้นแทบจะไม่เป็นรูปร่างเมื่อฉันผนึกพวกนั้นเข้ากับกายหยาบและหนังสือ</Content>
+          <Content>พวกนั้นแตกหัก แค่จะคงรูปเสถียรยังทำไม่ได้ และตัวตนของพวกนั้นบอบบางมากจนสามารถหายไปได้ทุกเมื่อ พวกนั้นแทบจะไม่เป็นรูปร่างเมื่อฉันผนึกพวกนั้นเข้ากับกายหยาบและหนังสือ</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -280,7 +280,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_prol_ep1_angela19</VoiceFile>
-          <Content>เมื่อเรารวบรวมหนังสือจากแขกของเราเป็นจำนวนมาก, เราจะสามารถไปถึงสุดยอดหนังสือที่มีทุกอย่างเขียนเอาไว้</Content>
+          <Content>เมื่อเรารวบรวมหนังสือจากแขกของเราเป็นจำนวนมาก เราจะสามารถไปถึงสุดยอดหนังสือที่มีทุกอย่างเขียนเอาไว้</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -295,43 +295,43 @@
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre1</VoiceFile>
-          <Content>ไม่, อันนี้ไม่ใช่, นั่นก็ไม่ได้เหมือนกัน… ฉันหาอันที่ทำให้ดลใจฉันไม่ได้เลย!</Content>
+          <Content>ไม่ได้ อันนี้ไม่ใช่ นั่นก็ไม่ได้เหมือนกัน… ฉันหาอันที่ทำให้ดลใจฉันไม่ได้เลย!</Content>
         </Dialog>
         <Dialog ID="1" Model="잭">
           <Teller>แจ็ค</Teller>
           <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack1</VoiceFile>
-          <Content>ว่าไง, ปิแอร์~ คราวนี้ได้ของสดมาด้วยล่ะ</Content>
+          <Content>ว่าไง ปิแอร์~ คราวนี้ได้ของสดมาด้วยล่ะ</Content>
         </Dialog>
         <Dialog ID="2" Model="잭">
           <Teller>แจ็ค</Teller>
           <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack2</VoiceFile>
-          <Content>ถึงพวกนี้จะซ้ำไปหน่อยก็เถอะ, แต่ก็ยังหายใจอยู่</Content>
+          <Content>ถึงพวกนี้จะซ้ำไปหน่อยก็เถอt แต่ก็ยังหายใจอยู่</Content>
         </Dialog>
         <Dialog ID="3" Model="잭">
           <Teller>แจ็ค</Teller>
           <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack3</VoiceFile>
-          <Content>อะไรกัน, ยุ่งกับการทำอาหารสูตรใหม่อยู่เหรอ?</Content>
+          <Content>อะไรกัน ยุ่งกับการทำอาหารสูตรใหม่อยู่เหรอ?</Content>
         </Dialog>
         <Dialog ID="4" Model="피에르">
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre2</VoiceFile>
-          <Content>ขอต้อนรับ, แจ็ค~!</Content>
+          <Content>ขอต้อนรับ แจ็ค~!</Content>
         </Dialog>
         <Dialog ID="5" Model="피에르">
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre3</VoiceFile>
-          <Content>เรื่องสูตรก็อย่างนึง, แต่ช่วงนี้เราขาดวัตถุดิบนานไปแล้ว</Content>
+          <Content>เรื่องสูตรก็อย่างนึง แต่ช่วงนี้เราขาดวัตถุดิบนานไปแล้ว</Content>
         </Dialog>
         <Dialog ID="6" Model="피에르">
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre4</VoiceFile>
-          <Content>โชคดีที่ฉันมีเพื่อนแจ็คอันแสนพึ่งได้คนนี้, ฉันเลยไม่ต้องห่วงเรื่องนั้นไปสักพักเลย</Content>
+          <Content>โชคดีที่ฉันมีเพื่อนแจ็คอันแสนพึ่งได้คนนี้ ฉันเลยไม่ต้องห่วงเรื่องนั้นไปสักพักเลย</Content>
         </Dialog>
         <Dialog ID="7" Model="잭">
           <Teller>แจ็ค</Teller>
@@ -379,7 +379,7 @@
           <Teller>แจ็ค</Teller>
           <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack8</VoiceFile>
-          <Content>พวก, เอ่อ… ‘สมาพันธ์ซไวล์’ กำลังเฝ้าระวังแถวนั้นแล้ว</Content>
+          <Content>พวก เอ่อ… ‘สมาพันธ์ซไวล์’ กำลังเฝ้าระวังแถวนั้นแล้ว</Content>
         </Dialog>
         <Dialog ID="15" Model="피에르">
           <Teller>ปิแอร์</Teller>
@@ -397,13 +397,13 @@
           <Teller>แจ็ค</Teller>
           <Title>ผู้ช่วยเชฟของปิแอร์</Title>
           <VoiceFile>ch2_Pierre_ep1_jack9</VoiceFile>
-          <Content>อ่า, น่าเสียดายแฮะ… ฉันคงคิดถึงพายมือเหนียวแน่นที่เธอทำแน่…</Content>
+          <Content>อ่า น่าเสียดายแฮะ… ฉันคงคิดถึงพายมือเหนียวแน่นที่เธอทำแน่…</Content>
         </Dialog>
         <Dialog ID="18" Model="피에르">
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre10</VoiceFile>
-          <Content>ถึงจะเสียดาย แต่นายต้องทนไปก่อนนะ เพราะเราเสียคนขายที่เคยส่งออกเนื้อคุณภาพให้เรา, ใช้สูตรตามปกติไม่ได้แน่ พวกนักชิมรู้แน่ว่าคุณภาพวัตถุดิบเราลดลง</Content>
+          <Content>ถึงจะเสียดาย แต่นายต้องทนไปก่อนนะ เพราะเราเสียคนขายที่เคยส่งออกเนื้อคุณภาพให้เรา จะทำอาหารตามปกติไม่ได้ พวกนักชิมรู้แน่ว่าคุณภาพวัตถุดิบเราลดลง</Content>
         </Dialog>
         <Dialog ID="19" Model="잭">
           <Teller>แจ็ค</Teller>
@@ -415,7 +415,7 @@
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre11</VoiceFile>
-          <Content>ใช้แล้ว! เหล่าแปดเชฟนั้นเป็นดาวประจำเมืองที่ส่องเหนือเราที่สว่างที่สุด</Content>
+          <Content>ใช้แล้ว! เหล่าแปดเชฟนั้นเป็นดาวประจำเมืองที่ส่องสว่างที่สุดเหนือเรา</Content>
         </Dialog>
         <Dialog ID="21" Model="피에르">
           <Teller>ปิแอร์</Teller>
@@ -445,7 +445,7 @@
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre14</VoiceFile>
-          <Content>เคยได้ยินเรื่องหอสมุดใหม? ฉันได้ยินว่ามีสัตว์ประหลาดอยู่ที่นั่น</Content>
+          <Content>เคยได้ยินเรื่องหอสมุดไหม? ฉันได้ยินว่ามีสัตว์ประหลาดอยู่ที่นั่นล่ะ</Content>
         </Dialog>
         <Dialog ID="26" Model="피에르">
           <Teller>ปิแอร์</Teller>
@@ -463,7 +463,7 @@
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre16</VoiceFile>
-          <Content>ใช่ไหมล่ะ? ฉันได้บัตรเชิญจากหอสมุดไม่นานมานี้เอง เห็นมะ?</Content>
+          <Content>ใช่ไหมล่ะ? ฉันเพิ่งได้บัตรเชิญจากหอสมุดมาไม่นานนี้เอง เห็นมะ?</Content>
         </Dialog>
         <Dialog ID="29" Model="피에르">
           <Teller>ปิแอร์</Teller>
@@ -475,7 +475,7 @@
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre18</VoiceFile>
-          <Content>ถ้างั้น แจ็ค นายแค่เชื่อใจฉันแล้วตามฉันไว้ เข้าใจนะ?</Content>
+          <Content>ถ้างั้น แจ็ค นายแค่เชื่อใจแล้วตามฉันให้ดี เข้าใจนะ?</Content>
         </Dialog>
         <Dialog ID="31" Model="잭">
           <Teller>แจ็ค</Teller>
@@ -487,7 +487,7 @@
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre19</VoiceFile>
-          <Content>อ่า, งั้นเปลื่ยนมันเป็นแยมแล้วกัน</Content>
+          <Content>อ่า งั้นเปลื่ยนมันเป็นแยมแล้วกัน</Content>
         </Dialog>
         <Dialog ID="33" Model="피에르">
           <Teller>ปิแอร์</Teller>
@@ -781,238 +781,238 @@
       <Place>
         <PlaceName>สถานที่: Streetlight Office</PlaceName>
         <Dialog ID="0" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu1</VoiceFile>
-          <Content>Ahh~ Why is our Office so unpopular with clients.</Content>
+          <Content>อ่าา~ ทำไมสำนักงานเราลูกค้าไม่เข้าเลย</Content>
         </Dialog>
         <Dialog ID="1" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu2</VoiceFile>
-          <Content>Our Office is officially designated by the Zwei Association as an affiliate, too.</Content>
+          <Content>สำนักงานเราก็ได้รับการแต่งตั้งให้เป็นสำนักงานในสังกัดจากสมาพันธ์ซไวล์ด้วย</Content>
         </Dialog>
         <Dialog ID="2" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu3</VoiceFile>
-          <Content>And the crime rate of territories secured by the Streetlight Office remains at a remarkable 0% as long as the contract is in effect!!!</Content>
+          <Content>แถมอัตราการเกิดอาชญากรรมในเขตที่สำนักงานสตรีทไลท์คุมก็ยังคงเป็น 0% ตลอดช่วงสัญญาอีก!!!</Content>
         </Dialog>
         <Dialog ID="3" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars1</VoiceFile>
-          <Content>We only cover two blocks of space at most, though.</Content>
+          <Content>แต่เราคุมพื้นที่อย่างมากแค่สองช่วงถนนเองนี่</Content>
         </Dialog>
         <Dialog ID="4" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars2</VoiceFile>
-          <Content>And we’ll eventually get work if we wait.</Content>
+          <Content>และเราจะได้งานแน่ถ้าเรารอต่อไป</Content>
         </Dialog>
         <Dialog ID="5" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu4</VoiceFile>
-          <Content>Yeah, sure, you can keep waiting for the rest of your life. I’m seriously considering moving to another Office.</Content>
+          <Content>เออ ดิ นายเชิญรอต่อไปทั้งชีวิตเถอะ ฉันคิดอยากจะย้ายไปสำนักงานอื่นจริงจังแล้วเนี่ย</Content>
         </Dialog>
         <Dialog ID="6" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars3</VoiceFile>
-          <Content>Never thought you’d have what it takes to work for a bigger Office.</Content>
+          <Content>ไม่เคยคิดเลยว่าเธอจะกล้าทำงานให้สำนักงานใหญ่ได้นะเนี่ย</Content>
         </Dialog>
         <Dialog ID="7" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu5</VoiceFile>
-          <Content>Unlike you, I have several business connections I made from experience, do you understand?</Content>
+          <Content>ไม่เหมือนนาย ฉันมีเส้นสายทางธุรกิจที่ได้มาจากประสบการณ์ เข้าใจนะ?</Content>
         </Dialog>
         <Dialog ID="8" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu6</VoiceFile>
-          <Content>Your mother must be too busy being a legendary Fixer or whatever, while I have friends who can help me right away.</Content>
+          <Content>แม่นายคงยุ่งกับการเป็นฟิกเซอร์ในตำนานหรืออะไรก็เถอะ ในขณะที่ฉันมีเพื่อนที่สามารถช่วยฉันได้ทันที</Content>
         </Dialog>
         <Dialog ID="9" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars4</VoiceFile>
-          <Content>Yeah, some great Fixer you are~</Content>
+          <Content>จ้า เป็นฟิกเซอร์สุดเก๋าจังนะเรา~</Content>
         </Dialog>
         <Dialog ID="10" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu7</VoiceFile>
-          <Content>Yeah yeah. Why thanks, I know I’m great~</Content>
+          <Content>จ้า จ้า ขอบคุณมาก รู้น่าว่าฉันเก๋าจริง~</Content>
         </Dialog>
         <Dialog ID="11" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu8</VoiceFile>
-          <Content>Hey!!! You ate the cake in the fridge, didn’t you!!!!!</Content>
+          <Content>เฮ้ย!!! นี่นายกินเค้กในตู้เย็นใช่ไหมห้ะ!!!!!</Content>
         </Dialog>
         <Dialog ID="12" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san1</VoiceFile>
-          <Content>Guys, I have work for you.</Content>
+          <Content>พวกเธอ ฉันมีงานจะให้ทำ</Content>
         </Dialog>
         <Dialog ID="13" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san2</VoiceFile>
-          <Content>…Fighting again, are you…</Content>
+          <Content>…ทะเลาะกันอีกแล้วเหรอ…</Content>
         </Dialog>
         <Dialog ID="14" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu9</VoiceFile>
-          <Content>This S.O.B ate the cake without even asking me!!</Content>
+          <Content>ก็ไอ้สารเลวนี่เล่นกินเค้กโดยไม่บอกฉันสักคำนี่!!</Content>
         </Dialog>
         <Dialog ID="15" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars5</VoiceFile>
-          <Content>The expiration date was yesterday, so I took care of it, that’s all.</Content>
+          <Content>วันหมดอายุมันเมื่อวาน ผมก็เลยจัดการกับมัน ก็แค่นั้น</Content>
         </Dialog>
         <Dialog ID="16" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu10</VoiceFile>
-          <Content>Auuuuuuuuugh!!!!! It’s MY cake, and even if it’s expired, I’ll take care of it on MY own!!!</Content>
+          <Content>อ้าาาาาาาาาก!!!!! มันเค้กฉันโว้ย และถึงแม่งจะหมดอายุ ฉันก็จัดการเองได้น่า!!!</Content>
         </Dialog>
         <Dialog ID="17" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars6</VoiceFile>
-          <Content>Anyway, boss, how about that work?</Content>
+          <Content>ไงก็ตาม หัวหน้า แล้วเรื่องงานนั่นล่ะ?</Content>
         </Dialog>
         <Dialog ID="18" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu11</VoiceFile>
-          <Content>Don’t change the topic!!!</Content>
+          <Content>อย่าเปลื่ยนเรื่องสิฟะ!!!</Content>
         </Dialog>
         <Dialog ID="19" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san3</VoiceFile>
-          <Content>I’ll get you another cake, so calm down for a moment, alright?</Content>
+          <Content>เดี๋ยวฉันซื้อเค้กมาอีกก็ได้ ฉะงั้นช่วยใจเย็นก่อนได้ไหม?</Content>
         </Dialog>
         <Dialog ID="20" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu12</VoiceFile>
-          <Content>But… That was a limited edition cake…</Content>
+          <Content>แต่… นั่นมันเค้กแบบจำกัดจำนวนนะ…</Content>
         </Dialog>
         <Dialog ID="21" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san4</VoiceFile>
-          <Content>I’m still rather skeptical about it, but I got this one from a friend of mine at the Association.</Content>
+          <Content>ฉันเองยังติดใจไม่หายอยู่ แต่ว่าฉันได้นี่มาจากจากเพื่อนของฉันที่สมาพันธ์</Content>
         </Dialog>
         <Dialog ID="22" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu13</VoiceFile>
-          <Content>You mean that Associate Fixer working directly under the Zwei?</Content>
+          <Content>คุณหมายถึงฟิกเซอร์ในสังกัดที่ทำงานโดยตรงกับซไวล์เหรอ?</Content>
         </Dialog>
         <Dialog ID="23" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san5</VoiceFile>
-          <Content>Yes, it’s her. The Hana Association has yet to consider this request as a subject that needs to be addressed officially.</Content>
+          <Content>ใช่ เธอคนนั้นล่ะ สมาพันธ์ฮานะยังไม่ประเมินว่าคำขอนี้เป็นหัวข้อที่ต้องแจ้งอย่างเป็นทางการ</Content>
         </Dialog>
         <Dialog ID="24" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san6</VoiceFile>
-          <Content>Have you heard of ‘The Library’?</Content>
+          <Content>เคยได้ยินเรื่อง ‘หอสมุด’ ไหม?</Content>
         </Dialog>
         <Dialog ID="25" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars7</VoiceFile>
-          <Content>Some stories of it. We overheard Rats talking about it.</Content>
+          <Content>ก็บางส่วน เราได้ยินพวกหนูจรพูดถึงมันอยู่</Content>
         </Dialog>
         <Dialog ID="26" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu14</VoiceFile>
-          <Content>Said the books in that place have tremendous value or whatever.</Content>
+          <Content>ว่ากันว่าหนังสือที่นั่นมีค่าสูงหรืออะไรเนี่ยแหละ</Content>
         </Dialog>
         <Dialog ID="27" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san7</VoiceFile>
-          <Content>I see. I retrieved an invitation to that library from my friend I just mentioned. </Content>
+          <Content>เข้าใจล่ะ ฉันได้รับบัตรเชิญจากหอสมุดนั่นจากเพื่อนที่ฉันพูดถึงไป</Content>
         </Dialog>
         <Dialog ID="28" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars8</VoiceFile>
-          <Content>But we might not get much payment from this request if it’s off the record.</Content>
+          <Content>แต่เราอาจไม่ได้ค่าจ้างมากจากคำขอนี้ถ้ามันเป็นงานนอกบัญชีน่ะสิ</Content>
         </Dialog>
         <Dialog ID="29" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu15</VoiceFile>
-          <Content>And it won’t count towards our official career, either.</Content>
+          <Content>แถมมันไม่นับในประวัติการงานเราด้วย</Content>
         </Dialog>
         <Dialog ID="30" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san8</VoiceFile>
-          <Content>Such as it is… The Association is trying to remain cautious about it.</Content>
+          <Content>ก็ต้องเป็นแบบนั้นแหละ… พวกสมาพันธ์ยังคงระวังกันอยู่</Content>
         </Dialog>
         <Dialog ID="31" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu16</VoiceFile>
-          <Content>Are we really going to walk right into a place we know nothing about? </Content>
+          <Content>นี่เราจะเดินไปในที่ที่เราไม่รู้อะไรเลยจริงเหรอ? </Content>
         </Dialog>
         <Dialog ID="32" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san9</VoiceFile>
-          <Content>She did promise to see to it that we’re rewarded with pay comparable to an Urban Legend-class request if everything goes down well…</Content>
+          <Content>เธอคนนั้นเองก็สัญญาว่าจะหาทางตอบแทนเราด้วยค่าจ้างเทียบเท่ากับคำขอระดับตำนานเมืองถ้าทุกอย่างไปได้สวยนะ…</Content>
         </Dialog>
         <Dialog ID="33" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars9</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="34" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu17</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="35" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san10</VoiceFile>
-          <Content>Surely it was a bad idea after all, don’t you think…?</Content>
+          <Content>คงเป็นความคิดที่ไม่ดีเลย คิดว่าไหม…?</Content>
         </Dialog>
         <Dialog ID="36" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars10</VoiceFile>
-          <Content>Let’s do this!</Content>
+          <Content>ทำกันเลย!</Content>
         </Dialog>
         <Dialog ID="37" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu18</VoiceFile>
-          <Content>Guess we have no choice. It’s still too uncertain, but we need that money. We haven’t been too busy lately.</Content>
+          <Content>เดาว่าเราคงไม่มีทางเลือกแล้ว มันยังไม่แน่นอน แต่เราต้องการเงินนั่น เราไม่ได้ยุ่งแบบนี้มาสักพักแล้ว</Content>
         </Dialog>
         <Dialog ID="38" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san11</VoiceFile>
-          <Content>Thanks, everyone! We’ll get through like we always have.</Content>
+          <Content>ขอบใจนะ ทุกคน! เราจะผ่านไปได้เหมือนที่เคยเป็นแน่</Content>
         </Dialog>
       </Place>
       <Place>
@@ -1021,202 +1021,202 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela1</VoiceFile>
-          <Content>Zwei? Hana?</Content>
+          <Content>ซไวล์? ฮานะ?</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland1</VoiceFile>
-          <Content>They’re talking about associations of Fixers. It takes more than just setting up an Office to jump into the Fixer business.</Content>
+          <Content>พวกเขากำลังพูดถึงพวกสมาพันธ์ฟิกเซอร์น่ะ มันต้องใช้มากกว่าแค่สำนักงานในการจะเข้าวงการฟิกเซอร์</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland2</VoiceFile>
-          <Content>There are a total of twelve Fixer Associations across the City, each in charge of different types of work.</Content>
+          <Content>มันมีทั้งหมดสิบสองสมาพันธ์ฟิกเซอร์อยู่ทั่วเมือง แต่ละส่วนจัดการงานที่ต่างกัน</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland3</VoiceFile>
-          <Content>Cases and requests are all sorted according to the type and sent to one of these associations.</Content>
+          <Content>เคสและคำขอนั้นถูกจัดตามประเภทและถูกส่งไปตามสมาพันธ์พวกนี้</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela2</VoiceFile>
-          <Content>Associations manage Offices and delegate work to them, I see.</Content>
+          <Content>สมาพันธ์ดูแลจัดการสำนักงานและส่งมอบงานให้กันสินะ</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland4</VoiceFile>
-          <Content>That’s right. Sometimes, the Association might send documents to multiple Offices at once, or directly have Associate Fixers take care of the work.</Content>
+          <Content>ใช่แล้ว บางครั้งสมาพันธ์อาจส่งเอกสารไปให้หลายสำนักงานพร้อมกัน หรือให้ฟิกเซอร์ในสังกัดจัดการงานโดยตรง.</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland5</VoiceFile>
-          <Content>And among them, the Hana Association is in overall control of all Fixers. They grade Fixers and authorize Offices and stuff.</Content>
+          <Content>และในหมู่พวกนั้น สมาพันธ์ฮานะนั้นควบคุมฟิกเซอร์ทุกคนโดยรวม พวกเขาจัดเกรดฟิกเซอร์และแต่งตั้งสำนักงานและอื่นๆอีก</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela3</VoiceFile>
-          <Content>Do Offices have grades as well?</Content>
+          <Content>สำนักงานมีจัดเกรดด้วยหรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="47" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland6</VoiceFile>
-          <Content>Essentially. The requests sent out by the Associations are graded, too.</Content>
+          <Content>จำเป็นเลยล่ะ คำขอที่ถูกส่งโดยสมาพันธ์ก็ถูกจัดเกรดด้วยเช่นกัน</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela4</VoiceFile>
-          <Content>They really love to grade things, don’t they.</Content>
+          <Content>พวกนั้นชอบจัดเกรดทุกอย่างสินะ</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland7</VoiceFile>
-          <Content>It’s easier to know that way.</Content>
+          <Content>แบบนั้นมันรู้ง่ายกว่า</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela5</VoiceFile>
-          <Content>Know what?</Content>
+          <Content>รู้อะไร?</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland8</VoiceFile>
-          <Content>How valuable I am as a person…</Content>
+          <Content>ว่าผมนั้นมีค่าแค่ไหน…</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland9</VoiceFile>
-          <Content>Think about it, who in the City could claim “This is my worth!” with confidence? </Content>
+          <Content>คิดดูสิ ใครกันในนครจะอ้างว่า “นี่เป้นค่าของฉัน!” ด้วยความมั่นใจกันล่ะ? </Content>
         </Dialog>
         <Dialog ID="53" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland10</VoiceFile>
-          <Content>Everyone’s busy minding their own business, no one is going to lounge around having deep conversations about each other’s value.</Content>
+          <Content>ทุกคนต่างยุ่งกับเรื่องของตัวเอง ไม่มีใครจะมานั่งจับเข่าคุยกันเรื่องค่าของกันและกันหรอกนะ</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland11</VoiceFile>
-          <Content>Knowing each other’s grades and affiliations, on the other hand, can save a ton of words. You can tell if you’re above or below the person you’re talking to right away.</Content>
+          <Content>ในอีกด้านนึง ถ้ารู้เกรดและสังกัดของกันและกัน ก็ช่วยประหยัดคำไปมาก คุณบอกได้เลยว่าคุณอยู่เหนือหรือต่ำกว่าคนที่กำลังคุยอยู่ทันที</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela6</VoiceFile>
-          <Content>Sounds like people stopped trying to learn or think about it at some point.</Content>
+          <Content>ฟังเหมือนผู้คนเลิกพยายามที่จะเรียนรู้เรื่องคนอื่นไปนานแล้ว</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland12</VoiceFile>
-          <Content>Bet you won’t say the same once you experience the city life for a bit.</Content>
+          <Content>พนันได้เลยว่าคุณจะไม่พูดแบบเดียวกันเมื่อคุณได้ลองใช้ชีวิตในนครสักครั้ง</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland13</VoiceFile>
-          <Content>You have to interact with so many people out there, whether you want to or not.</Content>
+          <Content>ข้างนอกนั่นคุณต้องคุยกับคนมากหน้าหลายตา ไม่ว่าคุณจะอยากคุยด้วยหรือเปล่า</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland14</VoiceFile>
-          <Content>People have been looking for ways to adapt to the City, and this is just one of them.</Content>
+          <Content>ผู้คนต่างหาทางปรับตัวเข้ากับนคร และนี่คือหนึ่งในนั้น</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="59" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu19</VoiceFile>
-          <Content>Guess we really are desperate. To think that we’d take on a job like this…</Content>
+          <Content>เดาว่าเราคงอับจนจริงๆแหละ ที่คิดว่าเรารับงานแบบนี้…</Content>
         </Dialog>
         <Dialog ID="60" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars11</VoiceFile>
-          <Content>Stop complaining, we should be glad to have work at all.</Content>
+          <Content>หยุดบ่นได้แล้ว เราควรดีใจที่ได้งานทำสิ</Content>
         </Dialog>
         <Dialog ID="61" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu20</VoiceFile>
-          <Content>I know! Do you really have to point out the obvious?!</Content>
+          <Content>รู้น่า! นี่นายต้องมาชี้โพรงให้จริงดิ?!</Content>
         </Dialog>
         <Dialog ID="62" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san12</VoiceFile>
-          <Content>Now now, cool it down, guys.</Content>
+          <Content>น่า น่า ใจร่มๆก่อน พวกเธอ</Content>
         </Dialog>
         <Dialog ID="63" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san13</VoiceFile>
-          <Content>Can’t tell if you’re best friends or worst enemies.</Content>
+          <Content>บอกไม่ได้เลยว่าเป็นเพื่อนสนิทหรือคู่อาฆาตกันแน่</Content>
         </Dialog>
         <Dialog ID="64" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu21</VoiceFile>
-          <Content>Excuse me! Please don’t associate me with this goof!</Content>
+          <Content>ขอโทษนะ! อย่าเอาหนูมารวมกับไอ้เบื้อกนี่สิ!</Content>
         </Dialog>
         <Dialog ID="65" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars12</VoiceFile>
-          <Content>I certainly don’t want that, either.</Content>
+          <Content>ผมเองก็ไม่อยากเหมือนกันน่ะแหละ</Content>
         </Dialog>
         <Dialog ID="66" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san14</VoiceFile>
-          <Content>Alright, alright. Let’s have a feast at Juli’s restaurant once this is over. The tab’s on me.</Content>
+          <Content>ก็ได้ ก็ได้ เดี๋ยวไปกินเลื้ยงที่ร้านจูลี่หลังจบงานก็แล้วกัน เดี๋ยวฉันเลี้ยงเอง</Content>
         </Dialog>
         <Dialog ID="67" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu22</VoiceFile>
-          <Content>Yeah!</Content>
+          <Content>เย้!</Content>
         </Dialog>
         <Dialog ID="68" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela7</VoiceFile>
-          <Content>สวัสดีค่ะ แขกทุกท่าน You seem to be well acquainted with each other.</Content>
+          <Content>สวัสดีค่ะ แขกทุกท่าน ดู้เหมือนว่าพวกคุณจะสนิทสนมกันดีนะคะ</Content>
         </Dialog>
         <Dialog ID="69" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars13</VoiceFile>
-          <Content>Who are you?</Content>
+          <Content>เธอเป็นใคร?</Content>
         </Dialog>
         <Dialog ID="70" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu23</VoiceFile>
-          <Content>Prepare yourselves.</Content>
+          <Content>เตรียมใจไว้เลย</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela8</VoiceFile>
-          <Content>There is no need to be so wary. Your ordeal has not started yet.</Content>
+          <Content>ไม่จำเป็นต้องระแวงก็ได้ค่ะ บททดสอบของคุณยังไม่เริ่มเลย</Content>
         </Dialog>
         <Dialog ID="72" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1225,40 +1225,40 @@
           <Content>ดิฉันแองเจล่าเป็นบรรณารักษ์และผู้ดูแลที่แห่งนี้</Content>
         </Dialog>
         <Dialog ID="73" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san15</VoiceFile>
-          <Content>Nice to meet you. I’m San from the Streetlight Office.</Content>
+          <Content>ดีใจที่ได้เจอ ผมซานจากสำนักงานสตรีทไลท์</Content>
         </Dialog>
         <Dialog ID="74" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san16</VoiceFile>
-          <Content>We were brought here by the invitation. There’s something I’d like to ask about it.</Content>
+          <Content>เราถูกพามาที่นี่โดยบัตรเชิญ มีบางอย่างที่ผมอยากจะถามหน่อย</Content>
         </Dialog>
         <Dialog ID="75" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela10</VoiceFile>
-          <Content>What is it?</Content>
+          <Content>มีอะไรหรือคะ?</Content>
         </Dialog>
         <Dialog ID="76" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san17</VoiceFile>
-          <Content>I actually retrieved this invitation from another person, not directly from you. Are we still eligible?</Content>
+          <Content>ผมได้รับบัตรเชิญนี้มาจากคนอื่น ไม่ใช่โดยตรงจากคุณ เรายังมีสิทธิ์หรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela11</VoiceFile>
-          <Content>Yes, indeed. The invitation eventually reached you, dear guest, and you signed your name with your own will. Everything has worked as intended.</Content>
+          <Content>แน่นอนค่ะ บัตรเชิญได้ไปถึงตัวคุณแล้ว คุณแขก และคุณก็เซ็นชื่อของคุณด้วยความประสงค์ของคุณเอง ทุกอย่างเป็นไปตามที่วางเอาไว้</Content>
         </Dialog>
         <Dialog ID="78" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san18</VoiceFile>
-          <Content>I see.</Content>
+          <Content>เข้าใจแล้ว</Content>
         </Dialog>
         <Dialog ID="79" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1267,52 +1267,52 @@
           <Content>ขอให้คุณพบหนังสือที่ต้องการ ณ ที่แห่งนี้</Content>
         </Dialog>
         <Dialog ID="80" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars14</VoiceFile>
-          <Content>Huh, she was a nicer person than I thought.</Content>
+          <Content>ฮึม เธอใจดีกว่าที่คิดไว้แฮะ</Content>
         </Dialog>
         <Dialog ID="81" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu24</VoiceFile>
-          <Content>Did that look like a human to you?</Content>
+          <Content>นายว่านั่นดูเหมือนมนุษย์งั้นเหรอ?</Content>
         </Dialog>
         <Dialog ID="82" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu25</VoiceFile>
-          <Content>I mean, she did have the shape of a person, but something about her didn’t feel right…</Content>
+          <Content>หมายถึง เธอก็มีรูปร่างของคนอยู่ แต่มีบางอย่างเกี่ยวกับเธอที่มันไม่ใช่…</Content>
         </Dialog>
         <Dialog ID="83" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu26</VoiceFile>
-          <Content>Though I can’t exactly put it to words…</Content>
+          <Content>ถึงแม้ฉันจะอธิบายเป็นคำพูดไม่ได้ก็เถอะ…</Content>
         </Dialog>
         <Dialog ID="84" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san19</VoiceFile>
-          <Content>She… probably is a machine.</Content>
+          <Content>เธอ… คงจะเป็นเครื่องจักรสินะ</Content>
         </Dialog>
         <Dialog ID="85" Model="마스">
-          <Teller>Mars</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>มาร์ส</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars15</VoiceFile>
-          <Content>Didn’t expect to see a machine that’s so similar to a human being…</Content>
+          <Content>ไม่ได้คาดว่าจะเจอเครื่องจักรที่คล้ายกับมนุษย์เลย…</Content>
         </Dialog>
         <Dialog ID="86" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san20</VoiceFile>
-          <Content>Let’s focus on our work.</Content>
+          <Content>มาโฟกัสกับงานก่อน</Content>
         </Dialog>
         <Dialog ID="87" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san21</VoiceFile>
-          <Content>Once again, you must back off as soon as you feel that you’re in danger.</Content>
+          <Content>ขอย้ำนะ พวกเธอต้องถอยกลับไปทันทีที่เธอรู้สึกอยู่ในอันตราย</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -1324,25 +1324,25 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland15</VoiceFile>
-          <Content>They’re still rookies.</Content>
+          <Content>ยังเป็นเด็กใหม่อยู่จริงๆ</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland16</VoiceFile>
-          <Content>It’s not a good idea for Fixers to form such tight bonds with each other. </Content>
+          <Content>มันไม่ใช่ความคิดที่ดีสำหรับฟิกเซอร์ที่จะสานสัมพันธ์แน่นแฟ้นกัน</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland17</VoiceFile>
-          <Content>Well, I guess this’ll be a lesson for them.</Content>
+          <Content>ก็นะ เดาว่านี่จะเป็นบทเรียนให้พวกเขา</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela13</VoiceFile>
-          <Content>You talk as if you’re used to all this.</Content>
+          <Content>เธอพูดอย่างกับว่าเธอชินกับเรื่องแบบนี้แล้วเลย</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -1354,31 +1354,31 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland19</VoiceFile>
-          <Content>Oh, I’ve already grown past that phase, and some more too.</Content>
+          <Content>อ้อ ผมผ่านช่วงนั้นมาแล้ว และผ่านมาอีกเยอะด้วย</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland20</VoiceFile>
-          <Content>Forming bonds aren’t bad per se, but there’s just too much risk associated with it.</Content>
+          <Content>การสานสัมพันธ์กันก็ไม่ได้แย่เท่าไหร่ แต่มันก็มีความเสี่ยงที่ตามมามากเกินไปเช่นกัน</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland21</VoiceFile>
-          <Content>The real deal Fixers know when to cut things off.</Content>
+          <Content>ฟิกเซอร์ตัวจริงจะรู้ว่าต้องตัดมันทิ้งไปเมื่อไหร่</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela14</VoiceFile>
-          <Content>You mean to keep enough distance from people, so that you won’t feel hurt from their losses?</Content>
+          <Content>เธอหมายถึงรักษาระยะห่างจากผู้คน เพื่อที่ตัวเองจะได้ไม่เจ็บปวดจากการสูญเสียของผู้อื่นหรือ?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland22</VoiceFile>
-          <Content>Yep. It’s just ironic that people who aren’t even mentally prepared to face death are applying for a job that involves killing in the first place.</Content>
+          <Content>เออ มันตลกร้ายนะที่คนที่ยังเตรียมใจเผชิญกับความตายไม่ได้มาทำงานที่เกี่ยวข้องกับการฆ่าตั้งแต่แรกน่ะ.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -1387,62 +1387,62 @@
       <Place>
         <PlaceName>สถานที่: Streetlight Office</PlaceName>
         <Dialog ID="0" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_san1</VoiceFile>
           <Content>…I’m terribly sorry. It’s all my fault that the job went wrong.</Content>
         </Dialog>
         <Dialog ID="1" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu1</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="2" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_san2</VoiceFile>
           <Content>We are taking our hands off of the Library from now on.</Content>
         </Dialog>
         <Dialog ID="3" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_san3</VoiceFile>
           <Content>This was out of our scope to begin with. I already sent a report to the Zwei.</Content>
         </Dialog>
         <Dialog ID="4" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu2</VoiceFile>
-          <Content>What? What about Mars? Was his death pointless then?!</Content>
+          <Content>What? What about มาร์ส? Was his death pointless then?!</Content>
         </Dialog>
         <Dialog ID="5" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_san4</VoiceFile>
           <Content>I really am sorry… You can blame me all you want.</Content>
         </Dialog>
         <Dialog ID="6" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_san5</VoiceFile>
           <Content>I misjudged. Our profession is peacekeeping, not exploration or combat.</Content>
         </Dialog>
         <Dialog ID="7" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu3</VoiceFile>
           <Content>There’s a cake in the fridge… Was that you, boss?</Content>
         </Dialog>
         <Dialog ID="8" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_san6</VoiceFile>
           <Content>Cake? No, I didn’t buy any cake yet…</Content>
         </Dialog>
         <Dialog ID="9" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu4</VoiceFile>
           <Content>…I’ll go outside for a bit.</Content>
         </Dialog>
@@ -1450,62 +1450,62 @@
       <Place>
         <PlaceName>สถานที่: Somewhere in the Backstreets</PlaceName>
         <Dialog ID="10" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu5</VoiceFile>
           <Content>Wahhhhhhhh!!!!! You stupid idiot…</Content>
         </Dialog>
         <Dialog ID="11" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu6</VoiceFile>
           <Content>It’s not like you at all to buy cakes for others…</Content>
         </Dialog>
         <Dialog ID="12" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu7</VoiceFile>
           <Content>You said your mother’s an amazing Fixer…</Content>
         </Dialog>
         <Dialog ID="13" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu8</VoiceFile>
           <Content>You loved to show off your stupidly huge sword, saying it’s a gift from her… </Content>
         </Dialog>
         <Dialog ID="14" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu9</VoiceFile>
           <Content>You bragged so much that you’d be just like your mother someday… </Content>
         </Dialog>
         <Dialog ID="15" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>None</VoiceFile>
           <Content>(!!!)</Content>
         </Dialog>
         <Dialog ID="16" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu10</VoiceFile>
           <Content>Mars’ book… That’s what happens to the people who die in there…?</Content>
         </Dialog>
         <Dialog ID="17" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu11</VoiceFile>
           <Content>I won’t let them toy with him… I’ll never let them…</Content>
         </Dialog>
         <Dialog ID="18" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu12</VoiceFile>
           <Content>San’ll totally try to stop me if I bring this up… </Content>
         </Dialog>
         <Dialog ID="19" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu13</VoiceFile>
           <Content>I’ll go there on my own. I’ve got friends to help me, too… </Content>
         </Dialog>
@@ -1600,14 +1600,14 @@
           <Content>Greetin—</Content>
         </Dialog>
         <Dialog ID="34" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu14</VoiceFile>
           <Content>Shut up. I don’t need a greeting from a despicable piece of junk.</Content>
         </Dialog>
         <Dialog ID="35" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu15</VoiceFile>
           <Content>I’m here for Mars’ book. I’ll get his book, kill all the monsters here, and blow your head clean off.</Content>
         </Dialog>
@@ -1618,8 +1618,8 @@
           <Content>I’m afraid your third statement is going to be difficult for you to fulfill, dear guest.</Content>
         </Dialog>
         <Dialog ID="37" Model="루루">
-          <Teller>Lulu</Teller>
-          <Title>Streetlight Fixer</Title>
+          <Teller>ลูลู่</Teller>
+          <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu16</VoiceFile>
           <Content>I said shut up.</Content>
         </Dialog>

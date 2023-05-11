@@ -1774,55 +1774,55 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep1_angela1</VoiceFile>
-          <Content>They called themselves Fixers; do you happen to be friends with them?</Content>
+          <Content>พวกเขาเรียกตัวเองว่าฟิกเซอร์ นายได้เป็นเพื่อนกับพวกเขาหรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="17" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep1_roland1</VoiceFile>
-          <Content>อะไร? ฟังนะ ไม่ใช่ว่าฟิกเซอร์ทุกคนรู้จักกันหรอกนะ…</Content>
+          <Content>อะไร? ฟังนะ ไม่ใช่ว่าฟิกเซอร์ทุกคนรู้จักกันซะหน่อย…</Content>
         </Dialog>
         <Dialog ID="18" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep1_roland2</VoiceFile>
-          <Content>It’s like picking two random pedestrians and hoping they know each other.</Content>
+          <Content>มันเหมือนแบบว่าเลือกสุ่มสองคนบนท้องถนนมาแล้วบอกว่าพวกเขาจะรู้จักกันเลย</Content>
         </Dialog>
         <Dialog ID="19" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep1_roland3</VoiceFile>
-          <Content>Your question is basically asking these two strangers, “You’re both humans, so you must know each other, right?” You get what I mean?</Content>
+          <Content>คำถามของเธอเหมือนกำลังถามสองคนที่ไม่รู้จักกันว่า “คุณสองคนเป็นมนุษย์เหมือนกันนะ ดังนั้นพวกคุณควรรู้จักกัน ใช่มั้ย?” เธอเข้าใจรึเปล่าว่าฉันพูดถึงอะไร?</Content>
         </Dialog>
         <Dialog ID="20" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep1_angela2</VoiceFile>
-          <Content>Sigh… I should expect to see many different kinds of Fixers if what you’re saying is true.</Content>
+          <Content>เฮ้อ… ถ้างั้นฉันน่าจะได้เห็นฟิกเซอร์ในหลายๆแบบ ถ้าสิ่งที่นายพูดเป็นเรื่องจริง</Content>
         </Dialog>
         <Dialog ID="21" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep1_roland4</VoiceFile>
-          <Content>Pretty much.</Content>
+          <Content>ก็ประมาณนั้น</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
-        <PlaceName>Location: Yun’s Office</PlaceName>
+        <PlaceName>สถานที่: สำนักงานยุน</PlaceName>
         <Dialog ID="0" model="핀">
-          <Teller>Finn</Teller>
-          <Title>Yun’s Fixer</Title>
+          <Teller>ฟินน์</Teller>
+          <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep2_finn1</VoiceFile>
-          <Content>Sir, they still haven’t responded back to us.</Content>
+          <Content>ท่านครับ พวกเขายังไม่ติดต่อกลับมาเลย</Content>
         </Dialog>
         <Dialog ID="1" model="핀">
-          <Teller>Finn</Teller>
-          <Title>Yun’s Fixer</Title>
+          <Teller>ฟินน์</Teller>
+          <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep2_finn2</VoiceFile>
-          <Content>Something must have happened in that ‘Library’.</Content>
+          <Content>ต้องมีบางอย่างเกิดขึ้นที่ "ห้องสมุด" นั้นแน่ๆ</Content>
         </Dialog>
         <Dialog ID="2" model="윤">
           <Teller>Yun</Teller>
