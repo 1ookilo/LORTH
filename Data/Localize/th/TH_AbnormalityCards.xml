@@ -18,10 +18,10 @@
     
     <AbnormalityCard ID="ScorchedGirl_Atk">
       <Abnormality>Scorched Girl</Abnormality>
-      <CardName>Ashes</CardName>
-      <AbilityDesc>[Single Ally]
-When hit, inflict 1-3 Burn to the attacker, and gain a buff at a 40% chance next Scene: ‘Offensive dice inflict 1 Burn on hit’ (Does not stack).</AbilityDesc>
-      <FlaborText>“The charred body represents the child’s crumbled hope, while the ever blazing flame represents the obsession for affection.”</FlaborText>
+      <CardName>เถ้าถ่าน</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+เมื่อถูกโจมตี ติด 1-3 เผาไหม้แก่ผู้โจมตี และคุณมีโอกาส 40% ได้รับบัฟ 'เต๋าโจมตีทุกลูกติด 1 เผาไหม้ เมื่อโจมตี' ในฉากหน้า (บัฟไม่ซ้อนทับ)</AbilityDesc>
+      <FlaborText>“ร่างสีเถ้าถ่านนั้นสื่อถึงความหวังที่แตกสลายของเด็กน้อย ส่วนไฟที่เผาไหม้สื่อถึงความต้องการที่จะเป็นที่รัก”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">To burn all things that are bright to ashes…</Dialogue>
         <Dialogue ID="2">I know very well that my scorched body can’t ever return to normal.</Dialogue>
@@ -33,11 +33,11 @@ When hit, inflict 1-3 Burn to the attacker, and gain a buff at a 40% chance next
     
     <AbnormalityCard ID="ScorchedGirl_Ashes">
       <Abnormality>Scorched Girl</Abnormality>
-      <CardName>Matchlight</CardName>
-      <AbilityDesc>[Single Ally]
-The first two Combat Pages the librarian uses after this Abnormality page is selected gain the 'Matchlight' status (Excludes [On Play] pages). Whenever the librarian uses a page with 'Matchlight', gain 1 'Ember'.
-Pages with 'Matchlight' become stronger based on the amount of Ember; however, they have a 25% chance to damage the user if Ember is at 4 or higher.</AbilityDesc>
-      <FlaborText>“Well, she’s like a ticking time bomb. No one can tell if she’s in a good mood or not.”</FlaborText>
+      <CardName>ไฟไม้ขีด</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+Combat Page 2 อันที่ใช้หลังเลือกAbnormality pageนี้ จะได้รับสถานะ 'ไฟไม้ขีด'(ไม่รวมเพจประเภท[เมื่อใช้เพจ]) เมื่อใดที่บรรณารักษ์ใช้เพจดังกล่าว จะได้รับ 1 'เศษเถ้า'
+เพจที่มีสถานะ'ไฟไม้ขีด'จะแข็งแกร่งขึ้นตามจำนวนเศษเถ้าที่มีอยู่ ทว่าหากมีเศษเถ้า4อันหรือมากกว่า เมื่อใช้เพจ'ไฟไม้ขีด' มีโอกาส 25%ที่จะทำความเสียหายแก่ผู้ใช้ด้วย</AbilityDesc>
+      <FlaborText>“ก็นะ เธอดูเหมือนกับระเบิดเวลาที่เดินอยู่ ไม่มีใครรู้ว่าเธออารมณ์ดีอยู่หรือไม่”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Step by step… Burn into pitch black char.</Dialogue>
         <Dialogue ID="2">What will show up when I light the next match?</Dialogue>
@@ -49,11 +49,11 @@ Pages with 'Matchlight' become stronger based on the amount of Ember; however, t
     
     <AbnormalityCard ID="HappyTeddyBear_Hug">
       <Abnormality>Happy Teddy Bear</Abnormality>
-      <CardName>Nostalgic Embrace of the Old Days</CardName>
-      <AbilityDesc>[Single Ally]
-Upon winning a clash, deal bonus Stagger damage equal to the dice's value at a 20% chance.
-Clashing against the same target multiple times will increase the likelihood.</AbilityDesc>
-      <FlaborText>Teddy was hugging someone tightly. Teddy loved hugs. But something was odd.</FlaborText>
+      <CardName>วันวานแสนน่าหวนคิดถึง</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+เมื่อชนะการปะทะ มีโอกาส20% ทำความเสียหายStaggerเพิ่มเติมเท่าค่าเต๋าของคุณ
+หากปะทะกับเป้าหมายเดิมหลายครั้ง โอกาสดังกล่าวจะเพิ่มขึ้นClashing against the same target multiple times will increase the likelihood.</AbilityDesc>
+      <FlaborText>ตุ๊กตาหมีนั้นกอดผู้คนอย่างเหนียวแน่น เจ้าหมีชอบการกอด แต่มีบางอย่างแปลกๆ</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Give me a tight hug, will you? It’ll soothe your mind.</Dialogue>
         <Dialogue ID="2">Everyone loves hugs. Don’t you agree?</Dialogue>
@@ -65,10 +65,10 @@ Clashing against the same target multiple times will increase the likelihood.</A
     
     <AbnormalityCard ID="HappyTeddyBear_Memory">
       <Abnormality>Happy Teddy Bear</Abnormality>
-      <CardName>Happy Memories</CardName>
-      <AbilityDesc>[Single Ally]
-The Combat Page with the highest Cost in hand is chosen (Excludes [On Play] pages). Using pages with the same name will decrease the Cost of every copy of that page the character currently owns by 1.</AbilityDesc>
-      <FlaborText>But, you see, Teddy never wanted to be separate from its owner ever again.</FlaborText>
+      <CardName>ความทรงจำแสนสุข</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+Combat Pageที่มีคอสเยอะที่สุดจะถูกเลือก(ยกเว้นเพจประเภท[เมื่อใช้เพจ]) เมื่อใช้เพจดังกล่าวหรือเพจที่มีชื่อเดียวกัน จะลดคอสของเพจชื่อนั้นทั้งหมดของตัวละครไป 1 </AbilityDesc>
+      <FlaborText>แต่ว่านะ ตุ๊กตาหมีจะไม่อยากห่างจากเจ้าของของมันแม้แต่นิดเดียว</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Why are you trying to leave me? We were such good friends…</Dialogue>
         <Dialogue ID="2">Don’t leave me. You’ll change your mind when I hug you just once more.</Dialogue>
@@ -80,11 +80,11 @@ The Combat Page with the highest Cost in hand is chosen (Excludes [On Play] page
     
     <AbnormalityCard ID="HappyTeddyBear_Lonely">
       <Abnormality>Happy Teddy Bear</Abnormality>
-      <CardName>Display of Affection</CardName>
-      <AbilityDesc>[Single Ally]
-All dice gain 1-2 Power in a clash.
-All dice lose 1-2 Power in a one-sided attack.</AbilityDesc>
-      <FlaborText>Its memories began with a warm hug.</FlaborText>
+      <CardName>แสดงความรักใคร่</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+เต๋าทุกลูกได้รับ 1-2 พลัง ในการปะทะAll dice gain 1-2 Power in a clash.
+เต๋าทุกลูกเสีย 1-2 พลัง ในการโจมตีข้างเดียว</AbilityDesc>
+      <FlaborText>ความทรงจำของมันเริ่มต้นที่กอดอันแสนอบอุ่น</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I’m so happy that you’re playing with me.</Dialogue>
         <Dialogue ID="2">You’re a kind one, aren’t you? Let’s do it again, okay?</Dialogue>
@@ -96,11 +96,11 @@ All dice lose 1-2 Power in a one-sided attack.</AbilityDesc>
     
     <AbnormalityCard ID="FairyCarnival_Care">
       <Abnormality>Fairy Festival</Abnormality>
-      <CardName>The Fairies’ Care</CardName>
-      <AbilityDesc>[Single Ally]
-For three Scenes, recover 15% of Max HP (Max. 18) at the end of the Scene.
-If the librarian is hit 3 times while this effect is active, lose 25% of current HP (Max. 30) and lose this effect.</AbilityDesc>
-      <FlaborText>The fairies protect our employees. Everything will be peaceful while you are under the fairies’ care.</FlaborText>
+      <CardName>การดูแลของเหล่าภูต</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+จากนี้ 3ฉาก ฟื้นฟู15%ของMax HP(สูงสุด 18) เมื่อจบฉาก
+หากบรรณารักษ์ถูกโจมตี3ครั้ง ขณะที่ความสามารถทำงานอยู่ เสีย25%ของHPปัจจุบันทันที(สูงสุด 30) และหยุดความสามารถนี้</AbilityDesc>
+      <FlaborText>เหล่าภูตนั้นปกป้องพนักงานของเรา ทุกอย่างจะสงบสุขตราบได้ที่อยู่ภายใต้การดูแลของเหล่าภูต</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Don’t worry, now! We’ll take good care of you.</Dialogue>
         <Dialogue ID="2">Don’t be alarmed. We’re here to protect you.</Dialogue>
@@ -112,10 +112,10 @@ If the librarian is hit 3 times while this effect is active, lose 25% of current
     
     <AbnormalityCard ID="FairyCarnival_Gluttony">
       <Abnormality>Fairy Festival</Abnormality>
-      <CardName>Gluttony</CardName>
-      <AbilityDesc>[Single Ally]
-When attacking a target who already took damage on the same Scene, deal +1-3 damage and recover 2-5 HP on hit.</AbilityDesc>
-      <FlaborText>The fairies were no more than carnivorous monsters, and their “protection” was their method to keep the meat fresh.</FlaborText>
+      <CardName>ความตะกละ</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+เมื่อโจมตีเป้าหมายที่เคยถูกโจมตีมาก่อนในฉากเดียวกัน หากโจมตีสำเร็จ ทำความเสียหายเพิ่มเติม 1-3 หน่วย และคุณฟื้นฟู 2-5 HP</AbilityDesc>
+      <FlaborText>เหล่าภูตมันก็เป็นเพียงสัตว์กินเนื้อ การ'ปกป้อง'ที่มันทำก็เป็นเพียงสูตรในการคงเนื้อให้ยังสดอยู่</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The reason we’re staying by your side? Of course it’s to protect you!</Dialogue>
         <Dialogue ID="2">Enjoy the fairies’ care to your heart’s content.</Dialogue>
@@ -127,11 +127,11 @@ When attacking a target who already took damage on the same Scene, deal +1-3 dam
     
     <AbnormalityCard ID="FairyCarnival_QueenAtk">
       <Abnormality>Fairy Festival</Abnormality>
-      <CardName>Predation</CardName>
-      <AbilityDesc>[Single Ally]
-All allies except the selected librarian lose 10 HP.
-The librarian recovers as much HP as others lost from this effect, and gains 3 Strength and 3 Haste this Scene.</AbilityDesc>
-      <FlaborText>His stomach and face were ripped off, and his eyeballs and organs were damaged as if they were eaten by something. Meanwhile, the fairies had someone’s blood and flesh smeared all over their mouths.</FlaborText>
+      <CardName>นักล่า</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+พันธมิตรทุกคนยกเว้นบรรณรักษ์ที่เลือกจะเสีย 10 HP
+นำHPที่เสียของทุกคนมาฟื้นฟูHPของยรรณารักษ์ดังกล่าว และได้รับ 3 กำลัง กับ 3 ว่องไว ในฉากนี้</AbilityDesc>
+      <FlaborText>ส่วนหน้าและท้องเขาถูกกระชาก ดวงตาและอวัยวะถูกทำร้ายหรือยังกะถูกินโดยบางอย่าง ขณะเดียวกัน ที่ปากของเหล่าภูตนั้นมีกลิ่นเลือดตลบอบอวนไปหมด</FlaborText>
       <Dialogues>
         <Dialogue ID="1">My fairies are dwindling in numbers… But it can’t be helped.</Dialogue>
         <Dialogue ID="2">Scarred and rotten meat isn’t tasty!</Dialogue>
@@ -143,10 +143,10 @@ The librarian recovers as much HP as others lost from this effect, and gains 3 S
     
     <AbnormalityCard ID="QueenBee_Funga">
       <Abnormality>Queen Bee</Abnormality>
-      <CardName>Spores</CardName>
-      <AbilityDesc>[Single Ally]
-When hit, inflict 1-3 Burn and 1-3 Bleed to the attacker next Scene.</AbilityDesc>
-      <FlaborText>It has been confirmed that the spores carry drone eggs that hatch inside a living host.</FlaborText>
+      <CardName>ละออง</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+เมื่อถูกโจมตี ผู้โจมตีติด 1-3 เผาไหม้ และ 1-3 เลือดไหล ในฉากหน้า</AbilityDesc>
+      <FlaborText>เป็นที่ยืนยันแล้วว่าละอองเหล่านี้แบกเอาไข่ที่จะไปฝักในตัวเหยื่อได้</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Even if a drone dies, I can always make more to fill their role.</Dialogue>
         <Dialogue ID="2">To bring my kingdom to greatness… I need more bees…</Dialogue>
@@ -157,10 +157,10 @@ When hit, inflict 1-3 Burn and 1-3 Bleed to the attacker next Scene.</AbilityDes
     
     <AbnormalityCard ID="QueenBee_Bee">
       <Abnormality>Queen Bee</Abnormality>
-      <CardName>Worker Bee</CardName>
-      <AbilityDesc>[Single Ally]
-The enemy who dealt the most damage to the selected librarian is marked. Other allies deal 2-4 more damage to the marked foe with their attacks.</AbilityDesc>
-      <FlaborText>They show only two forms of behavior: Delivering nutrients to the Queen, and proliferating.</FlaborText>
+      <CardName>ผึ้งงาน</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+ศัตรูที่ทำความเสียหายแก่บรรณารักษ์ที่เลือก มากที่สุด จะถูกเล็ง พันธมิตรคนอื่นจะโจมตีศัตรูที่ถูกเล็งรุนแรงขึ้น 2-4 หน่วย</AbilityDesc>
+      <FlaborText>พวกมันแสดงพฤติกรรมแค่2แบบเท่านั้น คือการนำสารอาหารไปให้ราชินี และการแพร่พันธุ์</FlaborText>
       <Dialogues>
         <Dialogue ID="1">My bees. It is time to move.</Dialogue>
         <Dialogue ID="2">Your wings, legs, jaw… Put every part of your body to work. Lest they pillage our honey.</Dialogue>
@@ -171,11 +171,11 @@ The enemy who dealt the most damage to the selected librarian is marked. Other a
     
     <AbnormalityCard ID="QueenBee_Loyalty">
       <Abnormality>Queen Bee</Abnormality>
-      <CardName>Loyalty</CardName>
-      <AbilityDesc>[Single Ally]
-At the start of the Scene, all allies gain Strength based on the amount of damage the selected librarian received on the previous Scene.
-(1 Strength per 5 damage)</AbilityDesc>
-      <FlaborText>The loyalty of bees is a naturally developed instinct. If we discover a way to draw forth that instinct, many things could change.</FlaborText>
+      <CardName>จงรักภักดี</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+เมื่อเริ่มฉาก พันธมิตรทุกคนได้รับ กำลัง ขึ้นอยู่กับความเสียหายที่บรรณารักษ์ที่ถูกเลือกได้รับในฉากก่อนหน้า
+(1 กำลัง ต่อ ความเสียหาย 5 หน่วย)</AbilityDesc>
+      <FlaborText>ความจงรักของผึ้งนั้นเป็นสัญชาตญาณโดยกำเนิด หากเราค้นพบการดึงมันออกมาใช้ได้ หลายอย่างจะไม่เหมือนเดิม</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Hurry and supply me with more honey.</Dialogue>
         <Dialogue ID="2">I am the kingdom, and the kingdom is I. Loyalty to me is loyalty to your kingdom.</Dialogue>
@@ -186,11 +186,11 @@ At the start of the Scene, all allies gain Strength based on the amount of damag
     
     <AbnormalityCard ID="SnowWhite_Vine">
       <Abnormality>Snow White’s Apple</Abnormality>
-      <CardName>Vines</CardName>
-      <AbilityDesc>[Single Ally]
-For the rest of the Act, inflict 6 Bind to a random enemy at the start of the Scene.
-Pierce dice gain 1-2 Power when attacking that enemy.</AbilityDesc>
-      <FlaborText>One day, a branch grew from it. The leaves and branches were already withered and dry, but it continued to grow.</FlaborText>
+      <CardName>เถาวัลย์</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+ตลอดทั้งองก์จากนี้ เมื่อเริ่มฉาก ติด 6 พันธนา แก่ศัตรู 1 ตัวแบบสุ่ม
+เต๋าแบบแทงได้รับบวก 1-2 พลังเมื่อโจมตีศัตรูดังกล่าว</AbilityDesc>
+      <FlaborText>วันหนึ่ง มันได้งอกกิ่งก้านสาขาออกมา ทั้งที่กิ้งและใบนั้นเหี่ยวเชาไปแล้ว มันก็ยังคงงอกต่อไป</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The apple was alone for such a long time. Only rotting corpses kept its side…</Dialogue>
         <Dialogue ID="2">The vines were withered and dry, but they always embraced the apple.</Dialogue>
@@ -201,11 +201,11 @@ Pierce dice gain 1-2 Power when attacking that enemy.</AbilityDesc>
     
     <AbnormalityCard ID="SnowWhite_Thorn">
       <Abnormality>Snow White’s Apple</Abnormality>
-      <CardName>Barrier of Thorns</CardName>
-      <AbilityDesc>[Single Ally]
-When hit, inflict 2-8 damage and 1-3 Bind to the attacker.
-If 3 Bind was inflicted at once, recover HP equal to the amount of damage dealt with this effect.</AbilityDesc>
-      <FlaborText>The apple that dropped from Snow White’s hand after a single bite could never be happy. The apple, full of loneliness and hatred towards the princess, waited for the day it would rot away and return to the earth.</FlaborText>
+      <CardName>กำแพงหนาม</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+เมื่อถูกโจมตี ผู้โจมตีได้รับความเสียหาย 2-8 หน่วย และ 1-3 พันธนา
+หากผู้โจมตีได้รับ 3 พันธนาไปในครั้งเดียว คุณได้ฟื้นฟูHP เท่ากับความเสียหายที่ได้รับพร้อมความสามารถนี้</AbilityDesc>
+      <FlaborText>แอปเปิ้ลที่ร่วงลงจากมือของสโนว์ ไวท์ ซึ่งถูกเธอกันไปเพียงครั้ง ไม่อาจมีสุขได้ เจ้าแอปเปิ้ลเต็มไปด้วยความเหงาและความเกลียดชั้งต่อเจ้าหญิงผู้ชั่วร้าย รอวันที่มันจะเน่าเสียและกับสู่ธรณี</FlaborText>
       <Dialogues>
         <Dialogue ID="1">A pretty apple, abandoned in a forlorn place. Oh, pretty apple…</Dialogue>
         <Dialogue ID="2">The apple couldn’t return to the earth, and only rotting impurities were around it.</Dialogue>
@@ -216,10 +216,10 @@ If 3 Bind was inflicted at once, recover HP equal to the amount of damage dealt 
     
     <AbnormalityCard ID="SnowWhite_malice">
       <Abnormality>Snow White’s Apple</Abnormality>
-      <CardName>Malice</CardName>
-      <AbilityDesc>[Single Ally]
-At the start of this Scene, all enemies take damage inversely proportional to the amount of HP the librarian has left. (Min. 5, Max. 30; Less HP is more DMG)</AbilityDesc>
-      <FlaborText>The inherent malice caused all life to crumble as soon as it bloomed.</FlaborText>
+      <CardName>อาฆาต</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+เมื่อเริ่มฉาก ศัตรูทุกคนรับความเสียหาย โดยแปรผันไปตามจำนวนของHPที่บรรณารักษ์ที่เลือก เหลืออยู่(น้อยสุด 5 มากสุด 30; เลือดน้อยต่อยนัก)</AbilityDesc>
+      <FlaborText>ความอาฆายโดยกำเนิด นำพาสรรพชีวิตให้แตกสลาย ในคราที่มันได้เบ่งบาน</FlaborText>
       <Dialogues>
         <Dialogue ID="1">My existence was born from wrath and a curse, yet I served as a blessing to someone else.</Dialogue>
         <Dialogue ID="2">The lifeless vines continued to grow.</Dialogue>
@@ -915,11 +915,11 @@ Whenever the selected librarian Staggers an enemy, all enemies lose 1-6 Light at
   <Sephirah SephirahType="Keter">
     <AbnormalityCard ID="Bloodbath_Blood">
       <Abnormality>Bloodbath</Abnormality>
-      <CardName>Blood</CardName>
-      <AbilityDesc>[Single Ally]
-Defensive dice gain 1-2 Power.
-Receive +3-5 Stagger damage when hit.</AbilityDesc>
-      <FlaborText>Unbearable depression overwhelms all who look into the bath.</FlaborText>
+      <CardName>เลือด</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+เต๋าโจมตีได้รับการเพิ่มพลัง 1-2 หน่วย
+ได้รับความเสียหายStaggerมากขึ้น 3-5หน่วย.</AbilityDesc>
+      <FlaborText>ความซึมเศร้าอันไม่อาจรับได้นี้ จะมอบให้แก่ใครก็ตามที่ได้มองไปยังอ่างนั่น</FlaborText>
       <Dialogues>
         <Dialogue ID="1">That person simply couldn’t take her sorrow in stride.</Dialogue>
         <Dialogue ID="2">Can you withstand this deep despair?</Dialogue>
@@ -931,11 +931,11 @@ Receive +3-5 Stagger damage when hit.</AbilityDesc>
     
     <AbnormalityCard ID="Bloodbath_Scar">
       <Abnormality>Bloodbath</Abnormality>
-      <CardName>Scars</CardName>
-      <AbilityDesc>[Single Ally]
-Take 2-5 less damage from Slash attacks.
-When hit, reduce the damage of the attack to 0 at a 20% chance.</AbilityDesc>
-      <FlaborText>When I saw the latticework of scars on her severed wrist, I was reminded of our wine cabinet. That day, I popped the cork off the last one.</FlaborText>
+      <CardName>แผลเป็น</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+รับความเสียหายประเภทฟัน น้อยลง 2-5 หน่วย.
+เมื่อถูกโจมตี มีโอกาส 20% ลดความเสียหายของการโจมตีนั้นเป็น 0</AbilityDesc>
+      <FlaborText>เมื่อฉันได้เห็นรอยแกะสลักที่ข้อมือเปื้อนเลือดของเธอ ทำให้ฉันนึกถึงลายตู้ไวน์ของเรา วันนั้น ฉันเป็นคนดึงจุกไวน์ขวดสุดท้าย</FlaborText>
       <Dialogues>
         <Dialogue ID="1">It takes a strong will and courage to cut your own wrist.</Dialogue>
         <Dialogue ID="2">Don’t call these people foolish. You’re the biggest coward.</Dialogue>
@@ -947,12 +947,12 @@ When hit, reduce the damage of the attack to 0 at a 20% chance.</AbilityDesc>
     
     <AbnormalityCard ID="Bloodbath_Hands">
       <Abnormality>Bloodbath</Abnormality>
-      <CardName>Pale Hands</CardName>
-      <AbilityDesc>[Single Ally]
-After three successful attacks on the same target, deal 3-10 bonus Stagger damage.
-(Resets upon attacking a different target, Excludes Mass Attacks)</AbilityDesc>
-      <FlaborText>Many hands float in the bath.
-They are the hands of the people I once loved.</FlaborText>
+      <CardName>มือซีดเผือก</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+หลังจากโจมตีเป้าหมายเดิมสำเร็จครบสามครั้ง ทำความเสียหายStaggerเพิ่มเติม 3-10หน่วย
+(นับค่าใหม่เมื่อโจมตีเป้าหมายอื่น, ไม่นับการโจมตีหมู่)</AbilityDesc>
+      <FlaborText>มีมือมากมายลอยอยู่ในอ่าง.
+พวกมันคือมือของผู้คนที่ฉันเคยรักใคร่</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The hands of one that you, perhaps we, loved are resting inside.</Dialogue>
         <Dialogue ID="2">These hands are waiting for someone to hold them, would you grant their wishes?</Dialogue>
@@ -964,11 +964,11 @@ They are the hands of the people I once loved.</FlaborText>
     
     <AbnormalityCard ID="HeartofAspiration_Heart">
       <Abnormality>Heart of Aspiration</Abnormality>
-      <CardName>Pulsation</CardName>
-       <AbilityDesc>[All Allies]
-Gain 1-2 Strength at the end of each Scene.
-At the end of each Scene, if the librarian did not deal any damage with Offensive dice, they lose 25% of their Max HP. (Max. 30)</AbilityDesc>
-      <FlaborText>Excessive aspiration would bring about unwarranted frenzy.</FlaborText>
+      <CardName>ชีพจร</CardName>
+       <AbilityDesc>[พันธมิตรทุกคน]
+ได้รับ 1-2 กำลัง ในทุกๆครั้งเมื่อจบฉากGain 1-2 Strength at the end of each Scene.
+เมื่อถึงตอนจบฉาก หากบรรณารักษ์ไม่เคยสร้างความเสียหายด้วยเต๋าโจมตีเลยฉากนี้ ลดMax HPของเขาไป25%(สูงสุด30)</AbilityDesc>
+      <FlaborText>ความปราถนาที่มากเกินไป จะนำไปสู่ความบ้าคลั่งที่ไม่อาจเข้าใจได้</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Overwhelming aspiration is what leads to wrongful frenzy.</Dialogue>
         <Dialogue ID="2">Why won’t you wish for anything when you’ve earned such power?</Dialogue>
@@ -980,11 +980,11 @@ At the end of each Scene, if the librarian did not deal any damage with Offensiv
     
     <AbnormalityCard ID="HeartofAspiration_Doki">
       <Abnormality>Heart of Aspiration</Abnormality>
-      <CardName>Urging</CardName>
-     <AbilityDesc>[Single Ally]
-Increase Max HP by 15%. (Current HP increases accordingly)
-Gain 1-2 Speed.</AbilityDesc>
-      <FlaborText>When borrowed, its rate of contraction will double, enhancing the borrower’s vigor and strength.</FlaborText>
+      <CardName>กระหาย</CardName>
+     <AbilityDesc>[พันธมิตรเดี่ยว]
+เพิ่มMax HP 15% (เพิ่มHPให้เต็มไปด้วย)
+ความเร็วเพิ่มขึ้น 1-2 หน่วย.</AbilityDesc>
+      <FlaborText>เมื่อยืมพลัง มันจะหดตัวเป็น2เท่า และผู้ยืมพลังจะได้รับพละกำลังอันมหาศาล</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Never stop wishing for it, until the beats give an answer.</Dialogue>
         <Dialogue ID="2">Don’t you want to see the end of this thrill that’s about to burst?</Dialogue>
@@ -996,11 +996,11 @@ Gain 1-2 Speed.</AbilityDesc>
     
     <AbnormalityCard ID="HeartofAspiration_Atk">
       <Abnormality>Heart of Aspiration</Abnormality>
-      <CardName>Fervent Beats</CardName>
-      <AbilityDesc>[Single Ally]
-The selected librarian dies at the end of the third Scene after which this page was chosen.
-Gain 4 Strength, Endurance, Haste, and Protection each Scene until death. All Stagger damage resistances change to "Ineffective".</AbilityDesc>
-      <FlaborText>A heart without an owner; it still beats even after being removed from its body.</FlaborText>
+      <CardName>ชีพจรรุนแรง</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+บรรณารักษ์ที่เลือกจะตุยเมื่อจบฉากที่สามที่ได้เลือกเพจนี้
+ได้รับ กำลัง,อึดทน,ว่องไว,เกราะ อย่างละ4หน่วยทุกฉากจนตาย Stagger resistทุกรูปแบบถูกเปลี่ยนเป็นประสิทธิภาพต่ำ.</AbilityDesc>
+      <FlaborText>หัวใจที่ไร้เจ้าของ แม้จะอยู่นอกร่างกาย มันก็ยังคงเต้นอยู่.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Yes, feel the rapid beating of your heart.</Dialogue>
         <Dialogue ID="2">If you keep craving and do nothing to sate it, it’ll become too big and burst eventually.</Dialogue>
@@ -1011,12 +1011,12 @@ Gain 4 Strength, Endurance, Haste, and Protection each Scene until death. All St
     </AbnormalityCard>
     
     <AbnormalityCard ID="Pinocchio_Learn">
-      <Abnormality>Pinocchio</Abnormality>
-      <CardName>Learning</CardName>
-      <AbilityDesc>[Single Ally]
-Add a 'Learn' page to hand: ‘Cost 2 - [Start of Clash] Replace all dice with ones on the opponent's page.’
-The page is also included in the deck at the start of subsequent Acts.</AbilityDesc>
-      <FlaborText>All the child could do was ‘learn’ by observing others and mimicking their behavior. And that was the problem.</FlaborText>
+      <Abnormality>พิน็อกคิโอ</Abnormality>
+      <CardName>เรียนรู้</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+ได้รับเพจ'ดูให้รู้' เข้ามาในมือ: 'คอส 2 - [เมื่อเริ่มการปะทะ] แทนที่เต๋าในเพจนี้ด้วยเต๋าของเพจศัตรูคู่ปะทะทั้งหมด’
+เพจนี้จะถูกเพิ่มเข้าไปในสำรับคุณเมื่อเริ่มองก์ถัดไปด้วย</AbilityDesc>
+      <FlaborText>เด็กทุกคนทำได้เพียง'เรียนรู้'โดยการสังเกตคนรอบข้าง แล้วเลียนแบบพฤติกรรมพวกเขา นั่นแหละคือปัญหา</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I’m keen to learn as usual. Would you like to see me learn?</Dialogue>
         <Dialogue ID="2">People taught me how to speak.</Dialogue>
@@ -1028,10 +1028,10 @@ The page is also included in the deck at the start of subsequent Acts.</AbilityD
     
     <AbnormalityCard ID="Pinocchio_Lie">
       <Abnormality>Pinocchio</Abnormality>
-      <CardName>Lies</CardName>
-      <AbilityDesc>[Single Ally]
-At the start of the Scene, randomize the Costs of all pages whose original Cost is less than 4.</AbilityDesc>
-      <FlaborText>People lie all the time. Why is that a bad thing?</FlaborText>
+      <CardName>โกหกตดเหม็น</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+เมื่อเริ่มฉาก ทำการสุ่มค่าคอสของเพจทุกใบที่มีค่าคอสเดิมน้อยกว่า 4.</AbilityDesc>
+      <FlaborText>ใครๆเขาก็โกหกกัน มันจะแย่ได้ยังไงจริงไหม?</FlaborText>
       <Dialogues>
         <Dialogue ID="1">People love to say things the other way round.</Dialogue>
         <Dialogue ID="2">They said it wasn’t for themselves. They were lying for the good of everyone…</Dialogue>
@@ -1043,10 +1043,10 @@ At the start of the Scene, randomize the Costs of all pages whose original Cost 
     
     <AbnormalityCard ID="Pinocchio_Curious">
       <Abnormality>Pinocchio</Abnormality>
-      <CardName>Curiosity</CardName>
-      <AbilityDesc>[Single Ally]
-At the start of the Scene, shuffle all pages into the draw pile and draw 4 pages.</AbilityDesc>
-      <FlaborText>I’m keen to learn as usual. Would you like to see me learn?</FlaborText>
+      <CardName>อยากรู้อยากเห็น</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+เมื่อเริ่มฉาก นำเพจในมือทุกใบเข้าไปในกองจั่ว จากนั้นจั่ว 4 เพจ</AbilityDesc>
+      <FlaborText>ฉันกระตือรือร้นในการเรียนรู้เสมอ อยากเห็นฉันเรียนรู้ไหม?</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I still have lots of things I want to know. There’s lots to learn.</Dialogue>
         <Dialogue ID="2">If I see various things… Will I learn that much?</Dialogue>
@@ -1057,11 +1057,11 @@ At the start of the Scene, shuffle all pages into the draw pile and draw 4 pages
 
     <AbnormalityCard ID="TheSnowQueen_Sord">
       <Abnormality>The Snow Queen</Abnormality>
-      <CardName>Sword of Frost</CardName>
-      <AbilityDesc>[Single Ally]
-Upon winning a clash, inflict 1-3 Bind next Scene at a 50% chance.
-Deal +2-5 Stagger damage against targets with Bind.</AbilityDesc>
-      <FlaborText>A queen lives alone in the frosty winter forest.</FlaborText>
+      <CardName>ดาบเยือกแข็ง</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+เมื่อชนะการปะทะ มีโอกาส50% ติด 1-3 พันธนาแก่อีกฝ่ายฉากหน้าUpon winning a clash, inflict 1-3 Bind next Scene at a 50% chance.
+ทำความเสียหายStaggerบวก2-5 หน่วยแก่เป้าหมายที่ติดพนธนาainst targets with Bind.</AbilityDesc>
+      <FlaborText>ราชินีอาศัยอยู่อย่างเดียวดายในป่าเหมันต์.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The edge of this blade is sharp and cold.</Dialogue>
         <Dialogue ID="2">Only the warmth of spring can melt away this sword.</Dialogue>
@@ -1073,12 +1073,12 @@ Deal +2-5 Stagger damage against targets with Bind.</AbilityDesc>
     
     <AbnormalityCard ID="TheSnowQueen_Chu">
       <Abnormality>The Snow Queen</Abnormality>
-      <CardName>A Kiss</CardName>
-      <AbilityDesc>[Single Ally]
-After winning 2 or more clashes with a single Combat Page, inflict Ice Splinter to the opponent.
-At the end of each Scene, characters with 3 or more Ice Splinters become Immobilized for the next Scene.
+      <CardName>จุมพิต</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+เมื่อชนะการปะทะ 2ครั้งหรือมากกว่าด้วยCombat pageอันเดียว ติด เสี้ยนน้ำแข็ง แก่เป้าหมาย
+เมื่อจบฉากทุกครั้ง ตัวละครที่มีเสี้ยนน้ำแข็ง 3 อันหรือมากกว่าจะหมดสภาพในฉากหน้า
       </AbilityDesc>
-      <FlaborText>The Snow Queen’s kiss froze his heart, and he couldn’t feel the cold anymore.</FlaborText>
+      <FlaborText>จุมพิตของThe Snow Queenแช่หัวใจของเขาให้เยือกเย็น จนเขาไม่รู้สึกถึงความหนาวอีกเลย</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Only those who know of the scent of roses can bring an end to it all.</Dialogue>
         <Dialogue ID="2">You must have had a warm heart once.</Dialogue>
@@ -1090,11 +1090,11 @@ At the end of each Scene, characters with 3 or more Ice Splinters become Immobil
     
     <AbnormalityCard ID="TheSnowQueen_Snow">
       <Abnormality>The Snow Queen</Abnormality>
-      <CardName>Blizzard</CardName>
-      <AbilityDesc>[Single Ally]
-All characters except the selected librarian become Immobilized for this Scene.
-Next Scene, all enemies are inflicted with 6 Bind.</AbilityDesc>
-      <FlaborText>Spring arrived with blossoming roses. Its warmth melted the Snow Queen’s palace. No one remembered her, sleeping underneath.</FlaborText>
+      <CardName>พายุหิมะ</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+ตัวละครทุกตัวยกเว้นบรรณารักษ์ที่เลือก จะหมดสภาพในฉากนี้
+ฉากหน้า ศัตรูทุกคนจะได้รับ 6 พันธนา</AbilityDesc>
+      <FlaborText>ไบไม้ผลินำพามาซึ่งกุหลาบอันผลิบาน ละลายราชวังของSnow Queenจนหมดสิ้น เธอหลับอยู่ภายใต้มัน ไม่มีใครจำเธอได้</FlaborText>
       <Dialogues>
         <Dialogue ID="1">No one will realize that I am slumbering in this place.</Dialogue>
         <Dialogue ID="2">When this snow melts, I will also be forgotten.</Dialogue>
@@ -1106,11 +1106,11 @@ Next Scene, all enemies are inflicted with 6 Bind.</AbilityDesc>
     
      <AbnormalityCard ID="QuietKid_Hammer">
       <Abnormality>Silent Girl</Abnormality>
-      <CardName>Hammer and Nail</CardName>
-      <AbilityDesc>[Single Ally]
-Upon a successful Pierce attack, inflict 1 'Nail' to the target.
-If a character with 'Nails' is hit by a Blunt attack, they take bonus damage equal to 5x the amount of Nails in them, then all stacks of Nails are removed.</AbilityDesc>
-      <FlaborText>When she drives the nail with her hammer, the crack in the mind will grow too wide, and shatter completely.</FlaborText>
+      <CardName>ค้อนและตะปู</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+เมื่อโจมตีแทงสำเร็จ ติด 1 ตะปูแก่เป้าหมาย
+หากตัวละคนที่มีตะปูถูกโจมตีโดยประเภททุบ เขาจะได้รับความเสียหายเพิ่มเติม 5เท่าของจำนวนตะปูทั้งหมด และลบตะปูทั้งหมดในตัวละครนั้น</AbilityDesc>
+      <FlaborText>เมื่อเธอตอกตะปูด้วยค้อนของเธอ รอยแยกในใจจะกว้างขึ้น และสลายในที่สุด</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I wonder if there’s a crack in your mind that I could hammer a nail in?</Dialogue>
         <Dialogue ID="2">When a nail drives into a fissure, it gets twice as wide.</Dialogue>
@@ -1121,10 +1121,10 @@ If a character with 'Nails' is hit by a Blunt attack, they take bonus damage equ
     
     <AbnormalityCard ID="QuietKid_Eyeshine">
       <Abnormality>Silent Girl</Abnormality>
-      <CardName>Leer</CardName>
-      <AbilityDesc>[Single Ally]
-Deal and take twice as much physical damage.</AbilityDesc>
-      <FlaborText>The girl remains silent. She would simply glare at the core of one’s inner side with her deep eyes.</FlaborText>
+      <CardName>มองค้อน</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+ทำ และได้รับความเสียหายกายภาพมากขึ้น2เท่า</AbilityDesc>
+      <FlaborText>เด็กสาวยังคงเงียบอยู่อย่างนั้น เธอทำเพียงจ้องมองไปยังภายในของผู้คนด้วยตาของเธอ</FlaborText>
       <Dialogues>
         <Dialogue ID="1">…</Dialogue>
         <Dialogue ID="2">……</Dialogue>
@@ -1135,11 +1135,11 @@ Deal and take twice as much physical damage.</AbilityDesc>
     
     <AbnormalityCard ID="QuietKid_Guilty">
       <Abnormality>Silent Girl</Abnormality>
-      <CardName>Guilt</CardName>
-      <AbilityDesc>[Single Ally]
-Reduce incoming Stagger damage by 1-3.
-When hit, the attacker takes Stagger damage equal to the physical damage this character received.</AbilityDesc>
-      <FlaborText>However, when she met a person carrying ‘guilt’ or ‘fear’, the girl revealed the nail and hammer she had been hiding behind her back.</FlaborText>
+      <CardName>ผิดบาป</CardName>
+      <AbilityDesc>[พันธมิตรเดี่ยว]
+ลดความเสียหายStaggerที่จะได้รับ 1-3 หน่วย.
+เมื่อถูกโจมตี ผู้โจมตีได้รับความเสียหายStagger เท่ากับจำนวนที่ตัวละครนี้ได้รับ</AbilityDesc>
+      <FlaborText>ทว่า เมื่อเธอได้พบกับคนที่แบกรับความรู้สึก'ผิดบาป' หรือ'กลัว'อยู่ เด็กสาวจะหยิบตะปูและค้อนออกมาจากหลังของเธอ</FlaborText>
       <Dialogues>
         <Dialogue ID="1">You’re still holding onto those painful memories… You poor fellow.</Dialogue>
         <Dialogue ID="2">Don’t shove the responsibility on others. The agony is yours to bear.</Dialogue>
