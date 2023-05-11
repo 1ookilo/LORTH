@@ -52,7 +52,7 @@ Combat Page 2 อันที่ใช้หลังเลือกAbnormality 
       <CardName>วันวานแสนน่าหวนคิดถึง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อชนะการปะทะ มีโอกาส20% ทำความเสียหายStaggerเพิ่มเติมเท่าค่าเต๋าของคุณ
-หากปะทะกับเป้าหมายเดิมหลายครั้ง โอกาสดังกล่าวจะเพิ่มขึ้นClashing against the same target multiple times will increase the likelihood.</AbilityDesc>
+หากปะทะกับเป้าหมายเดิมหลายครั้ง โอกาสดังกล่าวจะเพิ่มขึ้น</AbilityDesc>
       <FlaborText>ตุ๊กตาหมีนั้นกอดผู้คนอย่างเหนียวแน่น เจ้าหมีชอบการกอด แต่มีบางอย่างแปลกๆ</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Give me a tight hug, will you? It’ll soothe your mind.</Dialogue>
@@ -82,7 +82,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <Abnormality>Happy Teddy Bear</Abnormality>
       <CardName>แสดงความรักใคร่</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-เต๋าทุกลูกได้รับ 1-2 พลัง ในการปะทะAll dice gain 1-2 Power in a clash.
+เต๋าทุกลูกได้รับ 1-2 พลัง ในการปะทะ
 เต๋าทุกลูกเสีย 1-2 พลัง ในการโจมตีข้างเดียว</AbilityDesc>
       <FlaborText>ความทรงจำของมันเริ่มต้นที่กอดอันแสนอบอุ่น</FlaborText>
       <Dialogues>
