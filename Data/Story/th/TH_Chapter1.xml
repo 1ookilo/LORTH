@@ -31,7 +31,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_roland1</VoiceFile>
-          <Content>บ้าเอ้ย… The Purple Tear…</Content>
+          <Content>บ้าเอ้ย… น้ำตาอินทนิล…</Content>
         </Dialog>
         <Dialog ID="4" model="롤랑">
           <Teller>???</Teller>
@@ -271,7 +271,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland5</VoiceFile>
-          <Content>อะไร? ห๊ะ? เด๋วนี้องค์กรมันลักพาตัวกันแบบนี้แล้วเรอะ? หรือว่าเธอเป็นหนึ่งในพวก Wings?</Content>
+          <Content>อะไร? ห๊ะ? เด๋วนี้องค์กรมันลักพาตัวกันแบบนี้แล้วเรอะ? หรือว่าเธอเป็นหนึ่งในพวกเหล่าปีก?</Content>
         </Dialog>
         <Dialog ID="12" model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -1825,46 +1825,46 @@
           <Content>ต้องมีบางอย่างเกิดขึ้นที่ "ห้องสมุด" นั้นแน่ๆ</Content>
         </Dialog>
         <Dialog ID="2" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun1</VoiceFile>
-          <Content>Plenty of Fixers disappear without a trace.</Content>
+          <Content>มีฟิกเซอร์จำนวนมากหายไปโดยไร้ร่องรอย</Content>
         </Dialog>
         <Dialog ID="3" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun2</VoiceFile>
-          <Content>Whether they died or ran off, further lack of response means a violation of contract, and they’re facing expulsion from my Office.</Content>
+          <Content>ไม่ว่าพวกเขาจะตายหรือหนีหายไป ถ้าไม่มีการแจ้งติดต่อกลับมาจะถือว่าเป็นการละเมิดสัญญาจ้าง แล้วพวกเขาจะถูกไล่ออกจากสำนักงานของฉัน</Content>
         </Dialog>
         <Dialog ID="4" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun3</VoiceFile>
-          <Content>And there is too little evidence to back up your claim about this “invitation”.</Content>
+          <Content>และมีข้อมูลหลักฐานน้อยเกินไปที่จะเชื่อเกี่ยวกับ "บัตรเชิญ" นั้นของเธอนะ</Content>
         </Dialog>
         <Dialog ID="5" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun4</VoiceFile>
-          <Content>A door appeared out of thin air when they signed the paper, and they disappeared into that? Could be rich people’s shenanigans, or a Wing experimenting with its singularity.</Content>
+          <Content>มีประตูปรากฏขึ้นกลางอากาศ เมื่อตอนที่พวกเขาเซ็นชื่อในกระดาษแล้วพวกเขาก็หายไปซะแบบนั้นน่ะ? อาจจะเป็นงานอดิเรกของพวกคนรวยหรือไม่ก็พวก ปีก กำลังทดลองเกี่ยวกับ singularity ก็เป็นไปได้</Content>
         </Dialog>
         <Dialog ID="6" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun5</VoiceFile>
-          <Content>‘Yun’s Office’ does not have any time to spare with things like that.</Content>
+          <Content>‘สำนักงานยุน’ ไม่มีเวลาว่างไปทำเรื่องอะไรแบบนั้นหรอกนะ</Content>
         </Dialog>
         <Dialog ID="7" model="핀">
-          <Teller>Finn</Teller>
+          <Teller>ฟินน์</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn3</VoiceFile>
-          <Content>I might still be a Grade 9 Fixer, but I can sense that something’s off about this.</Content>
+          <Content>ผมอาจจะยังเป็นฟิกเซอร์เกรด 9 แต่ผมก็รู้สึกได้ว่ามันต้องมีบางอย่างผิดปกติเกี่ยวกับเรื่องนี้นะครับ</Content>
         </Dialog>
         <Dialog ID="8" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun6</VoiceFile>
-          <Content>Oh really? How tragic that such good instincts of a Grade 9 Fixer are wasted on our humble Office.</Content>
+          <Content>อย่างงั้นหรอ? น่าเศร้าจังที่สัญชาตญาณที่ดีของฟิกเซอร์เกรด 9 ต้องมาสูญเปล่าอยู่กับสำนักอันต้อยต่ำของพวกเรา</Content>
         </Dialog>
         <Dialog ID="9" model="핀">
           <Teller>Finn</Teller>
@@ -1873,149 +1873,149 @@
           <Content>……</Content>
         </Dialog>
         <Dialog ID="10" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun7</VoiceFile>
-          <Content>Listen up, little frog in the well. In this city, insane events happen every second of the day, most of which you haven’t even heard of.</Content>
+          <Content>ฟังนะ เจ้ากบในกะลา ในเมืองแบบนี้เหตุการณ์บ้าๆมักเกิดขึ้นอยู่ทุกวัน ยังมีอีกมากที่เธอยังไม่เคยได้ยินมาก่อน</Content>
         </Dialog>
         <Dialog ID="11" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun8</VoiceFile>
-          <Content>You won’t have time to be feeling “off” about something when there’s numerous other things that need your attention.</Content>
+          <Content>เธอจะไม่มีเวลาที่ให้รู้สึกว่า "มันผิดปกติ" เกี่ยวกับเรื่องใดเมื่อเธอมีหลายเรื่องที่ต้องให้ความสนใจ</Content>
         </Dialog>
         <Dialog ID="12" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun9</VoiceFile>
-          <Content>If you can’t present visible evidence right now, it’s not worth looking into.</Content>
+          <Content>หากเธอไม่แสดงหลักฐานที่เห็นภาพได้มากกว่าตอนนี้ มันก็ไม่คุ้มค่าที่จะให้ความสนใจมัน</Content>
         </Dialog>
         <Dialog ID="13" model="핀">
-          <Teller>Finn</Teller>
+          <Teller>ฟินน์</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn5</VoiceFile>
-          <Content>What about that envelope right in front of you, operator?</Content>
+          <Content>แล้วซองจดหมายที่อยู่ข้างหน้าของคุณล่ะ?</Content>
         </Dialog>
         <Dialog ID="14" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun10</VoiceFile>
-          <Content>…What?</Content>
+          <Content>…อะไรนะ?</Content>
         </Dialog>
         <Dialog ID="15" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun11</VoiceFile>
-          <Content>You little brat, trying to pull a cheap trick on me?</Content>
+          <Content>ไอ้เด็กเวรนี่ พยายามจะเหลี่ยมใส่ฉัน?</Content>
         </Dialog>
         <Dialog ID="16" model="핀">
-          <Teller>Finn</Teller>
+          <Teller>ฟินน์</Teller>
           <Title>Yun’s Fixer</Title>
           <VoiceFile>ch1_Yun_ep2_finn6</VoiceFile>
-          <Content>…I didn’t do anything, I swear.</Content>
+          <Content>…ผมไม่ได้ทำอะไรเลยนะ ผมสาบานได้</Content>
         </Dialog>
         <Dialog ID="17" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun12</VoiceFile>
-          <Content>Get out for a moment.</Content>
+          <Content>ออกไปก่อน…ไป</Content>
         </Dialog>
         <Dialog ID="18" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun13</VoiceFile>
-          <Content>Hey. This is Yun’s Office.</Content>
+          <Content>อือ นี่สำนักงานยุนนะ</Content>
         </Dialog>
         <Dialog ID="19" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun14</VoiceFile>
-          <Content>Got a good lead this time.</Content>
+          <Content>ตอนนี้ได้ข้อมูลสำคัญมาแล้ว</Content>
         </Dialog>
         <Dialog ID="20" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun15</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="21" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun16</VoiceFile>
-          <Content>Lend me some cash so I can hire a few.</Content>
+          <Content>ให้ฉันยืมเงินหน่อย จะได้จ้างเพิ่มสักคน</Content>
         </Dialog>
         <Dialog ID="22" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun17</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="23" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun18</VoiceFile>
-          <Content>No seriously, I have a good feeling about this.</Content>
+          <Content>ไม่จริงจังนะ เกี่ยวกับเรื่องนี้ ฉันมั่นใจว่ามันจะต้องไปด้วยดีแน่นอน</Content>
         </Dialog>
         <Dialog ID="24" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun19</VoiceFile>
-          <Content>…True, it can end up failing like you said.</Content>
+          <Content>…ถูกต้อง เรื่องนี้อาจล้มเหลวได้เหมือนอย่างที่พูดนั้นแหละ</Content>
         </Dialog>
         <Dialog ID="25" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun20</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="26" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun21</VoiceFile>
-          <Content>…I can check just one more time if you want.</Content>
+          <Content>…ฉันสามารถเช็คอีกครั้งได้ ถ้านายต้องการ</Content>
         </Dialog>
         <Dialog ID="27" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun22</VoiceFile>
-          <Content>I’m not exactly fond of this method, but…</Content>
+          <Content>ฉันก็ไม่ได้ชอบวิธีนี้ แต่…</Content>
         </Dialog>
         <Dialog ID="28" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep2_yun23</VoiceFile>
-          <Content>Yep, I have one guy fit for the job.</Content>
+          <Content>ใช่ ฉันมีผู้ชายคนหนึ่งที่เหมาะกับงานนี้</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="29" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep2_angela1</VoiceFile>
-          <Content>It seems Fixers must report to their Office before they can even begin working.</Content>
+          <Content>ดูเหมือนว่าฟิกเซอร์ต้องรายงานไปยังสำนักงานก่อนที่จะเริ่มงาน</Content>
         </Dialog>
         <Dialog ID="30" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep2_roland1</VoiceFile>
-          <Content>Well, that’s formally the case. I could bypass that since I ran a one-man Office, though.</Content>
+          <Content>ตามระเบียบแล้วก็เป็นแบบงั้นแหละ ฉันเลี่ยงขั้นตอนนั้นได้เพราะฉันใช้สำนักงานคนเดียว</Content>
         </Dialog>
         <Dialog ID="31" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep2_roland2</VoiceFile>
-          <Content>Fixers aren’t any better than Syndicates when it comes to greed. </Content>
+          <Content>ฟิกเซอร์ก็ไม่ได้ดีกว่า Syndicates เลยเมื่อมีความโลภเข้ามาเกี่ยว</Content>
         </Dialog>
         <Dialog ID="32" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep2_roland3</VoiceFile>
-          <Content>And it looks like this guy’s trying to exploit a naive kid, too.</Content>
+          <Content>แล้วดูเหมือนว่าผู้ชายคนนี้กำลังพยายามหลอกใช้เด็กไร้เดียงสาด้วยนะ</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าห้องสมุด</PlaceName>
         <Dialog ID="33" model="핀">
           <Teller>Finn</Teller>
           <Title>Yun’s Fixer</Title>
@@ -2113,20 +2113,20 @@
       <Place>
         <PlaceName>Location: Yun’s Office</PlaceName>
         <Dialog ID="0" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun1</VoiceFile>
           <Content>Finn has failed as expected. He wasn’t going to last too long, anyway.</Content>
         </Dialog>
         <Dialog ID="1" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun2</VoiceFile>
           <Content>He was just mediocre. He should have gotten a decent modification surgery, or had enough talent to make up for his lack of experience.</Content>
         </Dialog>
         <Dialog ID="2" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun3</VoiceFile>
           <Content>But he didn’t have any of that. He was nothing more than an overconfident brat.</Content>
         </Dialog>
@@ -2143,8 +2143,8 @@
           <Content>Though I agree, he was bound to die sooner or later.</Content>
         </Dialog>
         <Dialog ID="5" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun4</VoiceFile>
           <Content>Congratulations, by the way. You must have more options now that you’re a Grade 8 Fixer.</Content>
         </Dialog>
@@ -2161,8 +2161,8 @@
           <Content>Heard that you’re barely covering your own taxes these days, let alone the monthly rent for this Office space, am I wrong?</Content>
         </Dialog>
         <Dialog ID="8" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun5</VoiceFile>
           <Content>…I believe the case I had Finn handle could make a breakthrough.</Content>
         </Dialog>
@@ -2179,8 +2179,8 @@
           <Content>But you said the invitation appears randomly, no? How are you going to get another one?</Content>
         </Dialog>
         <Dialog ID="11" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun6</VoiceFile>
           <Content>I wouldn’t have called you if I didn’t have certainty. I recently received another invitation.</Content>
         </Dialog>
@@ -2191,14 +2191,14 @@
           <Content>Hmm. Is that so?</Content>
         </Dialog>
         <Dialog ID="13" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun7</VoiceFile>
           <Content>The existence of our Office depends on this case.</Content>
         </Dialog>
         <Dialog ID="14" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun8</VoiceFile>
           <Content>The Library is sure to be profitable. I have a hunch. So we’re giving it everything we have.</Content>
         </Dialog>
@@ -2266,8 +2266,8 @@
           <Content>Greetings, dear guests.</Content>
         </Dialog>
         <Dialog ID="25" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun9</VoiceFile>
           <Content>You must be the owner of this place.</Content>
         </Dialog>
@@ -2278,8 +2278,8 @@
           <Content>She doesn’t even look that strong.</Content>
         </Dialog>
         <Dialog ID="27" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun10</VoiceFile>
           <Content>Finn must have been here earlier; what happened to him?</Content>
         </Dialog>
@@ -2296,8 +2296,8 @@
           <Content>I see, so you turn into a book if you die here~</Content>
         </Dialog>
         <Dialog ID="30" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun11</VoiceFile>
           <Content>……</Content>
         </Dialog>
@@ -2308,8 +2308,8 @@
           <Content>Acting all sentimental when you were the one who sent him here, knowing he’d fail?</Content>
         </Dialog>
         <Dialog ID="32" model="윤">
-          <Teller>Yun</Teller>
-          <Title>Office Operator</Title>
+          <Teller>ยุน</Teller>
+          <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun12</VoiceFile>
           <Content>Shut up. We all get exploited and abandoned at some point in our lives.</Content>
         </Dialog>
