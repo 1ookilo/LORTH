@@ -4,51 +4,51 @@
         
     <!-- 엘레나 뒤틀림 -->
     <BattleEffectText ID="ForbidRecovery">
-      <Name>Antirecovery</Name>
-      <Desc>Cannot recover HP or Stagger Resist for {0} Scenes.</Desc>
+      <Name>ต่อต้านการฟื้นฟู</Name>
+      <Desc>ไม่สามารถฟื้นฟู HP หรือ Stagger Resist เป็นเวลา {0} ฉาก</Desc>
     </BattleEffectText>
 
     <!-- 아르갈리아 뒤틀림 -->
     <BattleEffectText ID="ArgaliaUpsurge">
-      <Name>Emozioni Intensificantesi</Name>
-      <Desc>At the start of the Scene, gain {0} Strength and Endurance.</Desc>
+      <Name>อารมณ์เข้ม</Name>
+      <Desc>เมื่อเริ่มฉาก ได้รับ {0} กำลังและทนทาน</Desc>
     </BattleEffectText>
 
     <!-- 플루토 뒤틀림 -->
     <BattleEffectText ID="PlutoUnfairProtect">
-      <Name>Unjust Contract: Defense</Name>
-      <Desc>Currently holding 'Unjust Counterpart: Defense'</Desc>
+      <Name>สัญญาที่ไม่เป็นธรรม: ป้องกัน</Name>
+      <Desc>ถือ 'สัญญาที่ไม่เป็นธรรม: ป้องกัน'</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="PlutoUnfairAtk">
-      <Name>Unjust Contract: Offense</Name>
-      <Desc>Currently holding 'Unjust Counterpart: Offense'</Desc>
+      <Name>สัญญาที่ไม่เป็นธรรม: โจมตี</Name>
+      <Desc>ถือ 'สัญญาที่ไม่เป็นธรรม: โจมตี'</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="PlutoUnfairLight">
-      <Name>Unjust Contract: Light</Name>
-      <Desc>Currently holding 'Unjust Counterpart: Light'</Desc>
+      <Name>สัญญาที่ไม่เป็นธรรม:แสง</Name>
+      <Desc>ถือ 'สัญญาที่ไม่เป็นธรรม:แสง'</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="onlypage_eileen_Keyword">
-      <Name>Eileen’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Eileen’s Key page.</Desc>
+      <Name>เฉพาะ Eileen’s Page</Name>
+      <Desc>ใส่ได้เฉพาะในเด็คของ Eileen’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_oswald_Keyword">
-      <Name>Oswald’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Oswald’s Key page.</Desc>
+      <Name>เฉพาะ Oswald’s Page</Name>
+      <Desc>ใส่ได้เฉพาะในเด็คของ Oswald’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_greta_Keyword">
-      <Name>Greta’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Greta’s Key page.</Desc>
+      <Name>เฉพาะ Greta’s Page</Name>
+      <Desc>ใส่ได้เฉพาะในเด็คของ Greta’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_bremen_Keyword">
-      <Name>Bremen’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Bremen’s Key page.</Desc>
+      <Name>เฉพาะ Bremen’s Page</Name>
+      <Desc>ใส่ได้เฉพาะในเด็คของ Bremen’s Key page.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="onlypage_jaeheon_Keyword">
-      <Name>Jae-heon’s Exclusive Page</Name>
-      <Desc>Can only be set in the deck of Jae-heon’s Key page.</Desc>
+      <Name>เฉพาะ Jae-heon’s Page</Name>
+      <Desc>ใส่ได้เฉพาะในเด็คของ Jae-heon’s Key page.</Desc>
     </BattleEffectText>
     
   </effectTextList>  

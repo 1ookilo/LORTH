@@ -2,16 +2,16 @@
 <BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <effectTextList>
     <BattleEffectText ID="Philip_OverHit">
-      <Name>Overheated</Name>
-      <Desc>Stagger resistances change to "Weak". Deal 3 more damage with Offensive dice.</Desc>
+      <Name>ร้อนเกินไป</Name>
+      <Desc>ต้านทาน Stagger เปลี่ยนเป็น "อ่อนแอ". สร้างความเสียหายเพิ่มขึ้น 3 แต้มด้วยลูกเต๋าโจมตี</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Philip_AddBurn">
-      <Name>Fierce Spirit</Name>
-      <Desc>Gain 2 Strength at the start of the Scene. When inflicting Burn this Scene, inflict 2 more stacks.</Desc>
+      <Name>วิญญาณร้าย</Name>
+      <Desc>ได้รับ 2 กำลังแต้มเมื่อเริ่มฉาก. เมื่อสร้างเผาไหม้ในฉากนี้จะสร้างความเสียหายเพิ่มอีก 2 สเตท</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Philip_Baby_Died">
-      <Name>Vanished Mind</Name>
-      <Desc>All dice lose {0} Power.</Desc>
+      <Name>จิตใจอ่อนแอลง</Name>
+      <Desc>ลูกเต๋าทั้งหมดสูญเสียพลัง {0}</Desc>
     </BattleEffectText>
   </effectTextList>
 </BattleEffectTextRoot>
