@@ -1715,19 +1715,19 @@ Stagger Resist จะไม่ฟื้นฟูจนเต็ม ทั้ง�
   <!-- 베이야드 (Bayard) -->
   <PassiveDesc ID="256001">
     <Name>รูปขบวนจู่โจม</Name>
-    <Desc>At the start of the Scene, inflict 3 Fragile to self and gain 1 Strength.</Desc>
+    <Desc>เมื่อเริ่มต้นฉาก มอบสถานะเปราะบาง 3 จำนวน และกำลัง 1 จำนวนให้ตนเอง</Desc>
   </PassiveDesc>
   <PassiveDesc ID="256002">
     <Name>เสริมพลังจิต</Name>
-    <Desc>Restore 1 Light and draw 1 page at the end of the Scene if the character did not use any pages.</Desc>
+    <Desc>หากไม่ได้ใช้ Page ใดๆเลย เมื่อจบฉาก ฟื้นฟูแสง 1 และจั่ว 1 Page</Desc>
   </PassiveDesc>
   <PassiveDesc ID="256003">
     <Name>รูปขบวนเตรียมตัว</Name>
-    <Desc>If the character suffered 'Immobilization' on the previous Scene, gain 1 Strength, 2 Protection, and 2 Stagger Protection.</Desc>
+    <Desc>หากถูกทำให้ "หมดสภาพ" ในฉากที่แล้ว จะได้รับกำลัง 1 จำนวน เกราะและเกราะ Stagger 2 จำนวน</Desc>
   </PassiveDesc>
   <PassiveDesc ID="256004">
     <Name>พร้อมฝ่าวงล้อม</Name>
-    <Desc>Every 3 Scenes, uses the Combat Page 'Pinpoint Breakthrough'.</Desc>
+    <Desc>ทุกๆ 3 ฉาก จะใช้ Combat Page "ฝ่าฟันสู่จุดหมาย"</Desc>
   </PassiveDesc>
 
 
