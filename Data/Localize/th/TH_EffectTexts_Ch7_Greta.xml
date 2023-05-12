@@ -2,22 +2,22 @@
 <BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <effectTextList>
     <BattleEffectText ID="Resistance">
-      <Name>Resilience</Name>
-      <Desc>Can prevent {0} instances of status ailments from being applied. A stack of this status is lost whenever a status ailment is blocked by this.
-Resilience can be further reduced by winning clashes against certain Combat Pages.</Desc>
+      <Name>ความยืดหยุ่น</Name>
+      <Desc>สามารถป้องกัน {0} สแตนซ์ของสถานะผิดปกติไม่ให้ถูกนำไปใช้ สแต็กของสถานะนี้จะหายไปเมื่อใดก็ตามที่สถานะผิดปกติหายไป
+ความยืดหยุ่นสามารถลดลงได้อีกโดยการชนะการปะทะกับการ์ดบางใบ</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Greta_Meat">
-      <Name>You’ll Be My Main Ingredient!</Name>
-      <Desc>Targeted by Greta. Greta recovers 8 HP whenever her attack hits this character.</Desc>
+      <Name>คุณจะเป็นส่วนผสมหลักของฉัน!</Name>
+      <Desc>Greta ฟื้นฟู 8  HP ทุกครั้งที่เธอโจมตีโดนตัวละครนี้</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Greta_Meat_Librarian">
-      <Name>Captured Librarian</Name>
-      <Desc>If this character's HP reaches 0, the librarian dies. Only takes Stagger damage from librarians. When Staggered, the librarian is freed next Scene, losing some HP and Stagger Resist.</Desc>
+      <Name>จับบรรณารักษ์</Name>
+      <Desc>ถ้า HP ของตัวละครนี้เหลือ 0 บรรณารักษ์ในนี้จะตาย. ได้รับความเสียหาย Stagger จากบรรณารักษ์เท่านั้น. เมื่อStaggered บรรณารักษ์จะเป็นอิสระในฉากถัดไป โดยสูญเสีย HP และ Staggered Resist บางส่วน.</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="Resistance_simple">
-      <Name>Resilience</Name>
-      <Desc>Can prevent {0} instances of status ailments from being applied. A stack of this status is lost whenever a status ailment is blocked by this.</Desc>
+      <Name>ความยืดหยุ่น</Name>
+      <Desc>สามารถป้องกัน {0} สแตนซ์ของสถานะผิดปกติไม่ให้ถูกนำไปใช้. สแต็กของสถานะนี้จะหายไปเมื่อใดก็ตามที่สถานะผิดปกติหายไป</Desc>
     </BattleEffectText>
   </effectTextList>
 </BattleEffectTextRoot>

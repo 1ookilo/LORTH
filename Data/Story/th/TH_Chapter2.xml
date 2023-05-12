@@ -614,7 +614,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>สถานที่: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าหอสมุด</PlaceName>
         <Dialog ID="53" Model="피에르">
           <Teller>ปิแอร์</Teller>
           <Title>แม่ครัวหัวป่าก์</Title>
@@ -844,7 +844,7 @@
           <Teller>ลูลู่</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu7</VoiceFile>
-          <Content>จ้า จ้า ขอบคุณมาก รู้น่าว่าฉันเก๋าจริง~</Content>
+          <Content>จ้า จ้า ขอบคุณมาก รู้น่าว่าฉันสุดจริง~</Content>
         </Dialog>
         <Dialog ID="11" Model="루루">
           <Teller>ลูลู่</Teller>
@@ -904,7 +904,7 @@
           <Teller>ลูลู่</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu12</VoiceFile>
-          <Content>แต่… นั่นมันเค้กแบบจำกัดจำนวนนะ…</Content>
+          <Content>แต่… นั่นมันเค้กแบบขายจำกัดนะ…</Content>
         </Dialog>
         <Dialog ID="21" Model="산">
           <Teller>ซาน</Teller>
@@ -1139,7 +1139,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>สถานที่: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าหอสมุด</PlaceName>
         <Dialog ID="59" Model="루루">
           <Teller>ลูลู่</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
@@ -1390,7 +1390,7 @@
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_san1</VoiceFile>
-          <Content>…I’m terribly sorry. It’s all my fault that the job went wrong.</Content>
+          <Content>…ฉันขอโทษด้วยจริงๆ มันความผิดฉันเองที่ทำงานผิดพลาด</Content>
         </Dialog>
         <Dialog ID="1" Model="루루">
           <Teller>ลูลู่</Teller>
@@ -1402,49 +1402,49 @@
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_san2</VoiceFile>
-          <Content>We are taking our hands off of the Library from now on.</Content>
+          <Content>เราจะวางมือจากหอสมุดตั้งแต่นี้ไป</Content>
         </Dialog>
         <Dialog ID="3" Model="산">
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_san3</VoiceFile>
-          <Content>This was out of our scope to begin with. I already sent a report to the Zwei.</Content>
+          <Content>นี่มันเกินความสามารถเราตั้งแต่แรกแล้ว ฉันส่งรายงานไปให้ทางซไวล์แล้ว</Content>
         </Dialog>
         <Dialog ID="4" Model="루루">
           <Teller>ลูลู่</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu2</VoiceFile>
-          <Content>What? What about มาร์ส? Was his death pointless then?!</Content>
+          <Content>หา? แล้วมาร์สล่ะ? การตายของเขามันสูญเปล่างั้นเหรอ?!</Content>
         </Dialog>
         <Dialog ID="5" Model="산">
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_san4</VoiceFile>
-          <Content>I really am sorry… You can blame me all you want.</Content>
+          <Content>ฉันขอโทษด้วยจริงๆ… เธอเองจะโทษฉันก็ได้นะ</Content>
         </Dialog>
         <Dialog ID="6" Model="산">
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_san5</VoiceFile>
-          <Content>I misjudged. Our profession is peacekeeping, not exploration or combat.</Content>
+          <Content>ฉันประเมินผิดไป งานของเราคือรักษาความสงบ ไม่ใช่การสำรวจหรือต่อสู้</Content>
         </Dialog>
         <Dialog ID="7" Model="루루">
           <Teller>ลูลู่</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu3</VoiceFile>
-          <Content>There’s a cake in the fridge… Was that you, boss?</Content>
+          <Content>มันมีเค้กในตู้เย็น… คุณซื้อมาหรือเปล่า หัวหน้า?</Content>
         </Dialog>
         <Dialog ID="8" Model="산">
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_san6</VoiceFile>
-          <Content>Cake? No, I didn’t buy any cake yet…</Content>
+          <Content>เค้กเหรอ? ไม่นะ ฉันยังไม่ได้ซื้อเค้กมาเลย…</Content>
         </Dialog>
         <Dialog ID="9" Model="루루">
           <Teller>ลูลู่</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu4</VoiceFile>
-          <Content>…I’ll go outside for a bit.</Content>
+          <Content>…หนูขอออกไปข้างนอกก่อน</Content>
         </Dialog>
       </Place>
       <Place>
@@ -1453,31 +1453,31 @@
           <Teller>ลูลู่</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu5</VoiceFile>
-          <Content>Wahhhhhhhh!!!!! You stupid idiot…</Content>
+          <Content>Wahhhhhhhh!!!!! ไอ้ซื่อบื้อเอ๊ย…</Content>
         </Dialog>
         <Dialog ID="11" Model="루루">
           <Teller>ลูลู่</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu6</VoiceFile>
-          <Content>It’s not like you at all to buy cakes for others…</Content>
+          <Content>มันไม่ใช้นายเลยที่จะซึ้อเค้กให้คนอื่นแบบนั้น…</Content>
         </Dialog>
         <Dialog ID="12" Model="루루">
           <Teller>ลูลู่</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu7</VoiceFile>
-          <Content>You said your mother’s an amazing Fixer…</Content>
+          <Content>นายบอกว่าแม่นายเป็นฟิกเซอร์ที่ยิ่งใหญ่นี่…</Content>
         </Dialog>
         <Dialog ID="13" Model="루루">
           <Teller>ลูลู่</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu8</VoiceFile>
-          <Content>You loved to show off your stupidly huge sword, saying it’s a gift from her… </Content>
+          <Content>นายชอบโชว์ดาบอันเบิ้อเริ่มของนาย บอกว่ามันเป็นของขวัญจากแม่… </Content>
         </Dialog>
         <Dialog ID="14" Model="루루">
           <Teller>ลูลู่</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu9</VoiceFile>
-          <Content>You bragged so much that you’d be just like your mother someday… </Content>
+          <Content>นายโม้มากว่าจะเป็นเหมือนแม่นายสักวัน… </Content>
         </Dialog>
         <Dialog ID="15" Model="루루">
           <Teller>ลูลู่</Teller>
@@ -1489,7 +1489,7 @@
           <Teller>ลูลู่</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu10</VoiceFile>
-          <Content>Mars’ book… That’s what happens to the people who die in there…?</Content>
+          <Content>หนังสือของมาร์ส… นั่นคือสิ่งที่เกิดกับคนที่ตายในนั้นสินะ…?</Content>
         </Dialog>
         <Dialog ID="17" Model="루루">
           <Teller>ลูลู่</Teller>
@@ -1501,13 +1501,13 @@
           <Teller>ลูลู่</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu12</VoiceFile>
-          <Content>San’ll totally try to stop me if I bring this up… </Content>
+          <Content>ซานคงพยายามหยุดฉันแน่ถ้าฉันพูดเรื่องนี้ออกไป… </Content>
         </Dialog>
         <Dialog ID="19" Model="루루">
           <Teller>ลูลู่</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu13</VoiceFile>
-          <Content>I’ll go there on my own. I’ve got friends to help me, too… </Content>
+          <Content>ฉันจะไปที่นั่นคนเดียว ฉันมีเพื่อนที่จะช่วยฉันด้วยนี่… </Content>
         </Dialog>
       </Place>
       <Place>
@@ -1516,83 +1516,83 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland1</VoiceFile>
-          <Content>Boy, this is frankly heartbreaking. Shouldn’t have seen that.</Content>
+          <Content>ให้ตาย เห็นแล้วใจสลายชะมัด ไม่น่าไปเห็นเลย</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela1</VoiceFile>
-          <Content>That’s funny, coming from the one who gave a speech on how Fixers shouldn’t cling to bonds.</Content>
+          <Content>ตลกดีนะที่มันออกมาจากปากของคนที่กล่าวว่าฟิกเซอร์ไม่ควรยึดติดกับความสัมพันธ์น่ะ</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland2</VoiceFile>
-          <Content>That’s that, and this is this.</Content>
+          <Content>นั่นก็ส่วนนั่น นี่ก็ส่วนนี่</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland3</VoiceFile>
-          <Content>Still, reacting to every bit of loss is a waste of energy. Everybody lives with burdens to bear.</Content>
+          <Content>แต่ว่านะ การตอบสนองต่อทุกการสูญเสียมันเปลืองพลังงานเปล่าๆ ทุกคนก็ต่างมีภาระที่ต้องแบกทั้งนั้น</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland4</VoiceFile>
-          <Content>I have my share of unfortunate events, and so do others.</Content>
+          <Content>ผมเองก็ผ่านเรื่องเลวร้ายมา คนอื่นก็เช่นกัน</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland5</VoiceFile>
-          <Content>And it’s rude to expose that without the listener’s agreement. They’ll be bothered to learn something they didn’t really have to know.</Content>
+          <Content>และมันหยาบคายมากที่เปิดเผยเรื่องนั้นโดยที่คนฟังไม่ยินยอม พวกเขารำคาญที่จะรู้บางอย่างที่ไม่ต้องรู้ก็ได้</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland6</VoiceFile>
-          <Content>They’re already carrying a hefty load of emotional baggage, and telling them your sob story will feel like you’re showing off how heavy your own baggage is. They might feel a bit of sympathy, but they’ll also be displeased.</Content>
+          <Content>ตัวเองก็มีภาระอารมณ์หนักอึ้งอยู่แล้ว และการบอกเรื่องเศร้าให้ฟังก็เหมือนกับการไปโม้ว่าภาระตัวเองมันหนักแค่ไหน พวกเขาอาจรู้สึกเห็นใจ แต่ก็รู้สึกไม่พอใจเช่นกัน</Content>
         </Dialog>
         <Dialog ID="27" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland7</VoiceFile>
-          <Content>Don’t overexpress your feelings whether you’re happy or sad, and say goodbye to each other with the appropriate words. It’s all for the sake of each other.</Content>
+          <Content>อย่าเผยอารมณ์เกินควรไม่ว่าจะสุขหรือเศร้า และบอกลาทุกคนด้วยคำที่เหมาะสม ทั้งหมดนี่ทำไปเพื่อผู้อื่นทั้งนั้น</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela2</VoiceFile>
-          <Content>That sounds even more tiring to me.</Content>
+          <Content>สำหรับฉันนั่นฟังดูเหนื่อยยิ่งกว่าเก่าอีก</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland8</VoiceFile>
-          <Content>And I shouldn’t let my feelings distract me from my librarian work, most of all.</Content>
+          <Content>และยิ่งไปกว่านั้น ผมก็ไม่ควรให้ความรู้สึกตัวเองมารบกวนผมจากงานบรรณารักษ์ด้วย</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland9</VoiceFile>
-          <Content>I gotta stay level-headed and help you collect books about the City.</Content>
+          <Content>ผมต้องคุมอารมณ์ไว้และช่วยคุณรวบรวมหนังสือเกี่ยวกับนคร</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela3</VoiceFile>
-          <Content>You’re right. As soon as you become useless to me, I’ll dispose of you.</Content>
+          <Content>เธอพูดถูก ทันทีที่เธอหมดประโยชน์กับฉัน ฉันจะกำจัดเธอทันที</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland10</VoiceFile>
-          <Content>Then I’ll go back to my duties of being a useful servant for the sake of my survival, ma’am.</Content>
+          <Content>งั้นผมจะกลับไปทำหน้าที่ของข้ารับใช้อันมีประโยชน์เพื่อความอยู่รอดของตัวผมเองก็แล้วกันครับ</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>สถานที่: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าหอสมุด</PlaceName>
         <Dialog ID="33" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
@@ -1634,7 +1634,7 @@
     <Episode>
       <EpisodeName>에피소드2-종료</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าหอสมุด</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
