@@ -49,7 +49,7 @@ Combat Page 2 อันที่ใช้หลังเลือกAbnormality 
     
     <AbnormalityCard ID="HappyTeddyBear_Hug">
       <Abnormality>Happy Teddy Bear</Abnormality>
-      <CardName>วันวานแสนน่าหวนคิดถึง</CardName>
+      <CardName>วันวานน่าหวนคิดถึง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อชนะการปะทะ มีโอกาส20% ทำดาเมจStaggerเพิ่มเติมเท่าค่าเต๋าของคุณ
 หากปะทะกับเป้าหมายเดิมหลายครั้ง โอกาสดังกล่าวจะเพิ่มขึ้น</AbilityDesc>
@@ -131,7 +131,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <AbilityDesc>[พันธมิตรเดี่ยว]
 พันธมิตรทุกคนยกเว้นบรรณรักษ์ที่เลือกจะเสีย 10 HP
 นำHPที่เสียของทุกคนมาฟื้นฟูHPของยรรณารักษ์ดังกล่าว และได้รับ 3 กำลัง กับ 3 ว่องไว ในฉากนี้</AbilityDesc>
-      <FlaborText>ส่วนหน้าและท้องเขาถูกกระชาก ดวงตาและอวัยวะถูกทำร้ายหรือยังกะถูกินโดยบางอย่าง ขณะเดียวกัน ที่ปากของเหล่าภูตนั้นมีกลิ่นเลือดตลบอบอวนไปหมด</FlaborText>
+      <FlaborText>ส่วนหน้าและท้องเขาถูกกระชาก ดวงตาและอวัยวะถูกทำร้ายหรือถูกกินโดยบางอย่าง ขณะเดียวกัน ที่ปากของเหล่าภูตนั้นมีกลิ่นเลือดตลบอบอวนไปหมด</FlaborText>
       <Dialogues>
         <Dialogue ID="1">My fairies are dwindling in numbers… But it can’t be helped.</Dialogue>
         <Dialogue ID="2">Scarred and rotten meat isn’t tasty!</Dialogue>
@@ -205,7 +205,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อถูกโจมตี ผู้โจมตีได้รับดาเมจ 2-8 หน่วย และ 1-3 พันธนา
 หากผู้โจมตีได้รับ 3 พันธนาไปในครั้งเดียว คุณได้ฟื้นฟูHP เท่ากับดาเมจที่ได้รับพร้อมความสามารถนี้</AbilityDesc>
-      <FlaborText>แอปเปิ้ลที่ร่วงลงจากมือของสโนว์ ไวท์ ซึ่งถูกเธอกันไปเพียงครั้ง ไม่อาจมีสุขได้ เจ้าแอปเปิ้ลเต็มไปด้วยความเหงาและความเกลียดชั้งต่อเจ้าหญิงผู้ชั่วร้าย รอวันที่มันจะเน่าเสียและกับสู่ธรณี</FlaborText>
+      <FlaborText>แอปเปิ้ลที่ร่วงลงจากมือของสโนว์ ไวท์ ซึ่งถูกเธอกัดไปเพียงครั้ง ไม่อาจมีสุขได้ เจ้าแอปเปิ้ลเต็มไปด้วยความเหงาและความเกลียดชั้งต่อเจ้าหญิงผู้ชั่วร้าย รอวันที่มันจะเน่าเสียและกับสู่ธรณี</FlaborText>
       <Dialogues>
         <Dialogue ID="1">A pretty apple, abandoned in a forlorn place. Oh, pretty apple…</Dialogue>
         <Dialogue ID="2">The apple couldn’t return to the earth, and only rotting impurities were around it.</Dialogue>
@@ -250,7 +250,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>เสียงก้องจากโลหะ</CardName>
 		<AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อโจมตีทุบสำเร็จ ติด 1 พันธนา และ 1 อัมพาตฉากหน้า (ยกเว้นการโจมตีหมู่)</AbilityDesc>
-		<FlaborText>“หัวฉัน...กลายเป็นเหล็ก...ห่อสมองของฉัน และกำลังแบน...”</FlaborText>
+		<FlaborText>“หัวฉัน...กลายเป็นเหล็ก...พับสมองของฉัน ให้เรียบแบน...”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">My head is ringing. I can hear the sound of metal, clear and loud…</Dialogue>
         <Dialogue ID="2">It feels as if my head is turning to cold steel.</Dialogue>
@@ -265,7 +265,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>ความรุนแรง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 ลดค่าต่ำสุดของเต๋าทุกลูกไป 1 และเพิ่มค่าสูงสุดไป 3</AbilityDesc>
-      <FlaborText>“ที่น่าสงสารก็คือคนอย่างแก ดันมาตายให้กับคนอยากฉัน</FlaborText>
+      <FlaborText>“ที่น่าเวทนาก็คือคนอย่างแก ดันมาตายโดยน้ำมือคนอยากฉัน</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Don’t think that you’ve won by chaining me…</Dialogue>
         <Dialogue ID="2">………</Dialogue>
@@ -279,7 +279,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>ชาร์จพลัง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 หากเริ่มฉากแล้วบรรณารักษ์มีแสงเต็ม ได้รับ 1-2 ว่องไว และทำดาเมจมากขึ้น 2-7 หน่วยเมื่อโจมตีในฉากนี้</AbilityDesc>
-      <FlaborText>ยังไงก็ตาม แขนขาของมันกับเป็นอุปกรณ์แหลมคม แทนที่จะเป็นที่ทำความสะอาด</FlaborText>
+      <FlaborText>ยังไงก็ตาม แขนขาของมันกับเป็นอุปกรณ์แหลมคม แทนที่จะเป็นของทำความสะอาด</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Beepboop… Beep… Out of battery…</Dialogue>
         <Dialogue ID="2">Please… recharge… to a nearby socket…</Dialogue>
@@ -308,7 +308,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>ปัดกวาด</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เต๋าโจมตีได้รับพลังมากขึ้นกับศัตรูที่ความเร็วน้อยกว่า (+1พลังทุกๆความต่าง สูงสุด 3)</AbilityDesc>
-      <FlaborText>พวกมันจะมองอารมณ์ที่ไม่ดีของคน แสดงว่ารอบๆข้างนั้นสกปรก แล้วทำการเข้าสู่โหมดทำความสะอาด</FlaborText>
+      <FlaborText>พวกมันจะมองอารมณ์ที่ไม่ดีของคน แปลได้ว่ารอบๆข้างนั้นสกปรก แล้วทำการเข้าสู่โหมดทำความสะอาด</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The helper-bot can help you with any household chores!</Dialogue>
         <Dialogue ID="2">What kind of task do you want me to do? I can help with anything.</Dialogue>
@@ -324,7 +324,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
 		  <AbilityDesc>[ตัวละครทั้งหมด]
 ตัวละครทุกตัวทำดาเมจ +4-8 หน่วยในการรับแขกครั้งนี้ และได้รับดาเมจStagger +4-8 เมื่อถูกโจมตี
 เมื่อพันธมิตรฆ่าศัตรูได้ พวกเขาฟื้นฟู 15 HP และ Stagger Resist</AbilityDesc>
-		  <FlaborText>ไม่มีเพลงไหนจะเทียบติดกับเพลงในตอนที่มันนั้นกำลังกิมมนุษย์</FlaborText>
+		  <FlaborText>ไม่มีเพลงไหนจะเทียบติด กับเพลงในตอนที่มันนั้นกำลังกิมมนุษย์</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Nothing makes as fascinating music as a human can.</Dialogue>
         <Dialogue ID="2">Don’t you want to hear a beautiful song? You already know how.</Dialogue>
@@ -355,8 +355,8 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>เสพติดในเสียงดนตรี</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เต๋าโจมตีบวก 1-3 พลัง
-เต๋าป้องกันจะทอยได้ 1 เท่านั้น</AbilityDesc>
-      <FlaborText>ยังไงซะ ศิลปะคือของขวัญจากปีศาจ เกิดจากความเศร้าและทรมาณ ไม่หยุดแสดงจนกว่าร่างจะแหลกละเอียดเป็นผง</FlaborText>
+เต๋าป้องกันประเภทตั้งรับจะทอยได้ 1 เท่านั้น</AbilityDesc>
+      <FlaborText>ยังไงซะ ศิลปะคือของขวัญจากปีศาจ เกิดจากความเศร้าและทรมาณ มันไม่หยุดแสดงจนกว่าร่างจะแหลกละเอียดเป็นผง</FlaborText>
       <Dialogues>
         <Dialogue ID="1">All other music is nothing more than noise to me…</Dialogue>
         <Dialogue ID="2">Make me move… Light my path with the songs!</Dialogue>
@@ -400,7 +400,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>โลงศพ</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อโจมตีศัตรูที่HPเป็น50%หรือต่ำกว่า ผนึกลูกเต๋าความเร็วหนึ่งลูกของเป้าหมาย (2ครั้งต่อฉาก)(ไม่นับการโจมตีหมู่) </AbilityDesc>
-      <FlaborText>เขากำลังแบกโลงศพ โลงศพอันใหญ่ที่เอาไว้สรรเสริญพลักงานผู้ไม่มีที่ไป มันยังเล็กไปสำหรับร่างของผู้บริสุทธ์ทั้งหลายที่ถูกสังเวย</FlaborText>
+      <FlaborText>เขากำลังแบกโลงศพ โลงศพอันใหญ่ที่เอาไว้สรรเสริญพนักงานผู้ไม่มีที่ไป มันยังเล็กไปสำหรับร่างของผู้บริสุทธ์ทั้งหลายที่ถูกสังเวย</FlaborText>
       <Dialogues>
         <Dialogue ID="1">A single coffin to pay tribute to those who had nowhere to go, wandering with the memory of an empty faith…</Dialogue>
         <Dialogue ID="2">Where does one go when they die?</Dialogue>
@@ -434,7 +434,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
 สร้างดาเมจด้วยเต๋าโจมตีมากขึ้น 1-7 หน่วย
 เมื่อเต๋าโจมตี เสมอหรือชนะในการปะทะ ทำดาเมจเท่ากับค่าลูกเต๋าแก่ฝ่ายตรงข้าม
 ในการใช้เพจครั้งที่เจ็ด จะทำการสุ่มเป้าหมาย รวมถึงพันธมิตร</AbilityDesc>
-      <FlaborText>ปีศาจนั้นทำสัญญาอย่างติดเล่น: กล่าวคือกระสุนนัดสุดท้ายนั้น จะทะลวงผ่านศรีษะของผู้ที่เป็นที่รักของเขา เมื่อเขาได้ยินดังนั้น เขาไม่รอช้า ยิงทุกคนที่เข้ารักให้ตายจาก</FlaborText>
+      <FlaborText>ปีศาจนั้นทำสัญญาอย่างติดเล่น: กล่าวคือกระสุนนัดสุดท้ายนั้น จะทะลวงผ่านศรีษะของผู้ที่เป็นที่รักของเขา เมื่อเขาได้ยินดังนั้น เขาไม่รอช้า ใช้กระสุนยิงทุกคนที่เข้ารักให้ตายจากไปก่อน</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The last bullet will puncture the head of your beloved.</Dialogue>
         <Dialogue ID="2">You’re right… This magical bullet can truly hit anyone just like you say.</Dialogue>
@@ -463,12 +463,12 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
   <Sephirah SephirahType="Hod">
     <AbnormalityCard ID="ShyLookToday_Face">
       <Abnormality>Today’s Shy Look</Abnormality>
-      <CardName>Look of the Day</CardName>
+      <CardName>สีหน้าประจำวันนี้</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-The librarian's face constantly shifts.
-Dice gain different amounts of Power depending on the current face. (Min. -2, Max. +2)
-Anger is fierce.</AbilityDesc>
-      <FlaborText>One sunny day, just like that day they sincerely dried the laundry, they dried their own skin.</FlaborText>
+หน้าของบรรณารักษ์จะเปลี่ยนไปตลอด
+ลูกเต๋าจะได้เปลี่ยนแปลงพลังขึ้นอยู่กับหน้าปัจจุบัน (น้อยสุด -2 มากสุด +2)Dice gain different amounts of Power depending on the current face. (Min. -2, Max. +2)
+หน้าโกรธจะดุดันไม่เกรงใจใคร</AbilityDesc>
+      <FlaborText>วันหนึ่งท้องฟ้าแจ่มใส ก็เหมือนทุกวันที่เขาจะเอาเสื้อผ้ามาตากแดด เพียงแต่วันนี้เป็นหนังของเขาแทน</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I’m just shy, that’s all. Just shy…</Dialogue>
         <Dialogue ID="2">A sad look doesn’t fit the City.</Dialogue>
@@ -480,11 +480,11 @@ Anger is fierce.</AbilityDesc>
     
     <AbnormalityCard ID="ShyLookToday_Shy">
       <Abnormality>Today’s Shy Look</Abnormality>
-      <CardName>Social Distancing</CardName>
+      <CardName>เว้นระยะห่าง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Block dice gain 1-2 Power.
-Deal +2-7 Stagger damage on a deflect.</AbilityDesc>
-      <FlaborText>If one tries to look at the face behind the skin, the result will not be pretty. The space behind their skin is the only personal space they have left. Leaving it uninvaded is the last bit of generosity the City can offer.</FlaborText>
+เต๋าป้องกันได้รับบวก 1-2 พลัง
+เมื่อปักป้องสำเร็จ ทำดาเมจStaggerมากขึ้น 2-7 หน่วย</AbilityDesc>
+      <FlaborText>หากมีใครพยายามมองสิ่งที่อยู่หลังหนังนั่น ผลลัพธ์คงไม่สวยเท่าไร บริเวณหลังหนังพวกนั้นเป็นพื้นที่ส่วนบุคคล การไม่ไปรุกล้ำนับได้ว่าเป็นความใจกว้างเพียงน้อยนิดที่นครจะมอบให้ได้</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Please don’t look at what’s behind this. It’s the least you can do…</Dialogue>
         <Dialogue ID="2">We need to keep an appropriate distance. Far enough for everyone to be comfortable.</Dialogue>
@@ -495,10 +495,10 @@ Deal +2-7 Stagger damage on a deflect.</AbilityDesc>
     
     <AbnormalityCard ID="ShyLookToday_Normalface">
       <Abnormality>Today’s Shy Look</Abnormality>
-      <CardName>Shyness</CardName>
+      <CardName>ความเขินอาย</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-When using a page, all Block dice on that page gain Power equal to the number of Defensive dice on said page.</AbilityDesc>
-      <FlaborText>The inability to show one’s face is perhaps a form of shyness. When throbbing emotions surge up from time to time, it’s best to simply cover the face.</FlaborText>
+เมื่อใช้เพจ เต๋าป้องกันทุกลูกในเพจนั้นได้รับพลังเท่ากับจำนวนเต๋าตั้งรับทุกลูกในเพจดังกล่าง</AbilityDesc>
+      <FlaborText>การที่ใครสักคนไม่กล้าเปิดหน้าก็คงเป็นความเขินรูปแบบหนึ่ง เมื่ออารมณ์เกิดความสั่นทอนเป็นเวลานานๆ การปิดหน้าจึงเป็นตัวเลือกที่ง่ายกว่า</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I’m just shy, that’s all. Just shy…</Dialogue>
         <Dialogue ID="2">Sorry. You’ll get used to it in time…</Dialogue>
@@ -509,13 +509,13 @@ When using a page, all Block dice on that page gain Power equal to the number of
     
     <AbnormalityCard ID="RedShoes_Kirakira">
       <Abnormality>The Red Shoes</Abnormality>
-      <CardName>Glitter</CardName>
+      <CardName>ระยับแสง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-At the start of the Scene, each enemy is Allured at a 50% chance.
-Allured enemies prioritize this librarian as a target, and deal +2-4 damage with attacks.
-Gain 1-2 Power in clashes against Allured enemies.</AbilityDesc>
-      <FlaborText>The shoes were colorless. 
-They will soon turn red.</FlaborText>
+เมื่อเริ่มฉาก ศัตรูมีโอกาส50% ที่จะเย้ายวน
+ศัตรูที่เย้ายวนจะเล็งบรรณารักษ์ที่ถูกเลือกเป็นหลัก และทำดาเมจมากขึ้น 2-4 หน่วย
+ได้รับพลังบวก 1-2 หน่วย เมื่อปะทะกับศัตรูที่เย้ายวน</AbilityDesc>
+      <FlaborText>รองเท้านี่เคยไร้สีสัน 
+มันจะกลายเป็นสีแดงในไม่ช้า.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The red is so vivid, isn’t it simply dazzling?</Dialogue>
         <Dialogue ID="2">Once you get rid of that person… The shoes are all yours.</Dialogue>
@@ -527,10 +527,10 @@ They will soon turn red.</FlaborText>
     
     <AbnormalityCard ID="RedShoes_Desire">
       <Abnormality>The Red Shoes</Abnormality>
-      <CardName>Obsession</CardName>
-      <AbilityDesc>[All Characters]
-All characters apply twice as many stacks of Bleed.</AbilityDesc>
-      <FlaborText>I’ll break your legs, then you won’t be able to dance ever again.</FlaborText>
+      <CardName>คลั่งไคล้</CardName>
+      <AbilityDesc>[ตัวละครทุกคน]
+ตัวละครทุกคนถูกคูณ2 เลือดไหล ของตัวเอง</AbilityDesc>
+      <FlaborText>ฉันหักขาแกทิ้ง แล้วแกจะไม่สามารถรำได้อีกต่อไป</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I should be the one in the spotlight!</Dialogue>
         <Dialogue ID="2">Only I should perform an elegant dance…</Dialogue>
@@ -542,11 +542,11 @@ All characters apply twice as many stacks of Bleed.</AbilityDesc>
     
     <AbnormalityCard ID="RedShoes_Cut">
       <Abnormality>The Red Shoes</Abnormality>
-      <CardName>Axe</CardName>
+      <CardName>ขวาน</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Slash dice gain 1-3 Power.
-Take 2-5 Stagger damage when a Slash attack does not connect. (Excludes Mass Attacks)</AbilityDesc>
-      <FlaborText>At some point, &lt;Redacted&gt; was wearing the shoes, grinning from ear to ear. It was uh, well it was quite strange. That wasn’t a smile. It was…</FlaborText>
+เต๋าฟันได้รับพลังบวก 1-3 หน่วย
+ได้รับดาเมจ 2-5 หน่วย หากการโจมตีฟันนั้นไม่ต่อเนื่องกัน (ไม่นับการโจมตีหมู่)</AbilityDesc>
+      <FlaborText>ณ จุดหนึ่ง &lt;Redacted&gt; ก็ใส่รองเท้านี่, แล้วยิ้มกว้างฉีกทิ้งรูหู มัน เอ่อ..., ก็นะ มันก็แปลกอยู่หรอก. นั่นไม่ใช่การยิ้ม นั่นมัน...</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Hone the axe over and over… So that it can chop them off in one swing.</Dialogue>
         <Dialogue ID="2">The desires you’ve amassed… Unravel the emotions you’ve concealed and repressed…</Dialogue>
@@ -556,10 +556,10 @@ Take 2-5 Stagger damage when a Slash attack does not connect. (Excludes Mass Att
     
     <AbnormalityCard ID="SpiderBud_Cocoon">
       <Abnormality>Spider Bud</Abnormality>
-      <CardName>Cocoon</CardName>
+      <CardName>รังไหม</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-On hit, if the dice rolled maximum value: inflict 1-2 Paralysis, Bind, and Fragile next Scene.(Excludes Mass Attacks)</AbilityDesc>
-      <FlaborText>Unsurprisingly, not a single employee volunteered to retrieve the corpse of their cocooned colleague.</FlaborText>
+เมื่อโจมตี หากเต๋านั้นทอยได้ค่าสูงสุด เป้าหมายได้รับ อัมพาด,พันธนา,เปราะบาง 1-2 หน่วย ในฉากหน้า (ไม่นับการโจมตีหมู่)</AbilityDesc>
+      <FlaborText>ไม่น่าประหลาดใจนัก ไม่มีพนักงานคนไหนอาสาไปเก็บกู้ร่างของเพื่อนร่วมงานที่ถูกคลุมใยเลยสักคน</FlaborText>
       <Dialogues>
         <Dialogue ID="1">What careless fool stepped on my baby?</Dialogue>
         <Dialogue ID="2">Few realized that the food inside my cocoons were not dead.</Dialogue>
@@ -571,10 +571,10 @@ On hit, if the dice rolled maximum value: inflict 1-2 Paralysis, Bind, and Fragi
     
     <AbnormalityCard ID="SpiderBud_BabyAtk">
       <Abnormality>Spider Bud</Abnormality>
-      <CardName>Meal</CardName>
+      <CardName>มื้ออาหาร</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-On hit against a Staggered enemy, all allies recover 2-4 HP.(Excludes Mass Attacks)</AbilityDesc>
-      <FlaborText>Peter was dragged to the ceiling in only a moment. The cocooned employee hanging off the ceiling of the Containment Unit will be a healthy meal for the spider’s offspring.</FlaborText>
+เมื่อโจมตีศัตรูที่ Stagger อยู่ พันธมิตรทั้งหมดฟื้นฟูHP 2-4หน่วย (ไม่นับการโจมตีหมู่)</AbilityDesc>
+      <FlaborText>ปีเตอร์ถูกลากไปติดเพดานในไม่กี่อึดใจ พนักงานที่ถูกพันใยห้อยกันเต็มห้องกักกัน เป็นอาหารสุขภาพดีให้แก่ลูกๆแมงมุม</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Rejoice. You will bring joy to my offspring.</Dialogue>
         <Dialogue ID="2">Growing children are always hungry.</Dialogue>
@@ -586,11 +586,11 @@ On hit against a Staggered enemy, all allies recover 2-4 HP.(Excludes Mass Attac
     
     <AbnormalityCard ID="SpiderBud_Dinner">
       <Abnormality>Spider Bud</Abnormality>
-      <CardName>Alertness</CardName>
+      <CardName>ความตื่นตัว</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Enemies lose 1 Power in clashes against the selected librarian.
-Upon winning a clash, inflict 1 Bind and Fragile next Scene at a 50% chance.</AbilityDesc>
-      <FlaborText>The eyes shone in the dark, searching for prey to feed to its spiderlings.</FlaborText>
+ศัตรูเสียพลังไป 1 หน่วยเมื่อปะทะกับบรรณารักษ์ที่ถูกเลือก
+เมื่อชนะการปะทะ มีโอกาส50% ที่เป้าหมายจะได้รับ 1 พันธนา และ เปราะบาง ในฉากหน้า</AbilityDesc>
+      <FlaborText>ดวงตาที่ส่องสว่างในความมืด, ตามหาเหยื่อที่จะนำมาเลี้ยงปากท้องเหล่าลูกแมงมุม</FlaborText>
       <Dialogues>
         <Dialogue ID="1">To clearly see in the darkness…</Dialogue>
         <Dialogue ID="2">It would be troubling to miss my prey.</Dialogue>
@@ -601,12 +601,12 @@ Upon winning a clash, inflict 1 Bind and Fragile next Scene at a 50% chance.</Ab
     
     <AbnormalityCard ID="Laetitia_Present">
       <Abnormality>Laetitia</Abnormality>
-      <CardName>Surprise Gift</CardName>
+      <CardName>ของขวัญเซอร์ไพรส์</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-The first opponent to clash against the selected librarian gains the 'Giftee' status.
-If the 'Giftee' clashes against a character other than the selected librarian, the 'Gift' explodes at a 40% chance, dealing 2-7 damage and inflicting 2 Bleed next Scene.
-When the 'Giftee' dies, a new 'Gift' can be given.</AbilityDesc>
-      <FlaborText>And when the kid meets someone she likes, she will give them a gift made all by herself. The gift's content is a secret though!</FlaborText>
+ฝ่ายตรงข้ามคนแรกที่ปะทะกับบรรณารักษ์ที่ถูกเลือกนั้น จะติดสถานะ 'ต้าวของขวัญ' 
+เมื่อ 'ต้าวของขวัญ' ปะทะกับคนอื่นที่ไม่ใช่บรรณารักษ์ที่ถูกเลือก มีโอกาส40% ที่ 'ของขวัญ'จะระเบิด ทำดาเมจ 2-7 หน่วยและติด 2 เลือดไหลในฉากหน้า
+เมื่อ'ต้าวของขวัญ'ตาย 'ต้าวของขวัญ'คนใหม่สามารถเกิดขึ้นได้</AbilityDesc>
+      <FlaborText>และเมื่อเจ้าตัวน้อยพบคนที่ถูกใจ เธอจะให้ของขวัญที่เธอทำขึ้นมาเองกับคนๆนั้น ข้างในมีอะไรไม่บอกหรอกอิอิ!</FlaborText>
       <Dialogues>
         <Dialogue ID="1">When you open the gift, you’ll be surprised, like WHOA!</Dialogue>
         <Dialogue ID="2">What’s inside the gift? That’s a secret! It’s boring to spoil it.</Dialogue>
@@ -616,11 +616,11 @@ When the 'Giftee' dies, a new 'Gift' can be given.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="Laetitia_HeartGift">
       <Abnormality>Laetitia</Abnormality>
-      <CardName>Funny Prank</CardName>
+      <CardName>แกล้งขำกลิ้ง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-The first die of any Combat Page the librarian plays will always roll either the maximum or minimum value.
-Take 2-7 damage if it rolled the minimum value.</AbilityDesc>
-      <FlaborText>So this little lady has made a decision! To stay here and never leave until laughter is restored to this place!</FlaborText>
+เต๋าอันแรกของ Combat Page ทุกอันที่บรรณารักษ์ใช้ จะทอยเป็นค่าต่ำสุดหรือสูงสุดเท่านั้น
+ได้รับดาเมจ 2-7 หน่วยหากทอยได้ค่าต่ำสุด</AbilityDesc>
+      <FlaborText>ดังนั้นเด็กสาวตัวน้อยจึงได้ตัดสิน! ที่จะอยู่ที่นี่จนกว่าเสียงหัวเราะจะกลับมายังสถานที่แห่งนี้อีกครั้ง!</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Play with me! Join my friends and laugh with us.</Dialogue>
         <Dialogue ID="2">How was my prank? It was fun, wasn’t it? Your face says so!</Dialogue>
@@ -630,13 +630,13 @@ Take 2-7 damage if it rolled the minimum value.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="Laetitia_Friend">
       <Abnormality>Laetitia</Abnormality>
-      <CardName>Friend</CardName>
+      <CardName>เพื่อนจ้า</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-At the start of the Scene, sneak a 'friend' into one of the Combat Pages in hand. (Excludes [On Play] pages)
-Does not activate when there's already a page with a 'friend' in hand.
-The page with the 'friend' gains 2-4 Power.
-However, if the page is not used within 2 Scenes, it exhausts, dealing 2-7 damage to the librarian.</AbilityDesc>
-      <FlaborText>She was so sad that she had to leave her dear friends behind, so she came up with a brilliant idea!</FlaborText>
+เมื่อเริ่มฉาก แอบเอา 'เพื่อนจ้า' ไปใส่ใน Combat Page 1ใบในมือของคุณ (ยกเว้นเพจประเภท[เมื่อใช้เพจ])
+หากมีเพจที่เป็น'เพื่อนจ้า'อยู่แล้ว ความสามารถข้างต้นจะไม่ทำงาน
+เพจที่เป็น'เพื่อนจ้า' จะได้รับพลังบวก 2-4 หน่วย
+ทว่า หากไม่ใช้เพจดังกล่าวภายใน 2 ฉาก ลบเพจนั้นจากการต่อสู้ ทำดาเมจ 2-7 หน่วยแก่บรรณารักษ์</AbilityDesc>
+      <FlaborText>เธอนั้นเศร้ามากที่ต้องทิ้งเพื่อนเอาไว้ เธอจึงมีความคิดสุดบรรเจิดขึ้นมา!</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I couldn’t leave my dear friends behind… So I came up with a brilliant idea!</Dialogue>
         <Dialogue ID="2">Don’t you worry~ Only meanies hurt friends.</Dialogue>
@@ -647,10 +647,10 @@ However, if the page is not used within 2 Scenes, it exhausts, dealing 2-7 damag
     
       <AbnormalityCard ID="BlackSwan_Feather">
       <Abnormality>Dream of a Black Swan</Abnormality>
-      <CardName>Gooey Waste</CardName>
+      <CardName>ขยะเหนอะหนะ</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Upon winning a clash, inflict 1 Bind, Fragile, Bleed and Paralysis to all enemies next Scene. (Twice per Scene)</AbilityDesc>
-      <FlaborText>Elijah fell to her knees and finally started to puke up the thing everyone else was vomiting.</FlaborText>
+เมื่อชนะการปะทะ ติด พันธนา,เปราะบาง,เลือดไหล,อัมพาต 1 หน่วย แก่ศัตรูทุกตัวในฉากหน้า (2 ครั้งต่อฉาก)</AbilityDesc>
+      <FlaborText>เอไลจาห์ล้มลงคุกเขา ก่อนที่จะอ้วกทุกอย่างที่ทุกคนอ้วกไว้ก่อนหน้าออกมา</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The lake ripples gently. As if a number of swans just took flight.</Dialogue>
         <Dialogue ID="2">I was faced with reality. The things swelling up inside spilt right out.</Dialogue>
@@ -661,11 +661,11 @@ Upon winning a clash, inflict 1 Bind, Fragile, Bleed and Paralysis to all enemie
     </AbnormalityCard>
     <AbnormalityCard ID="BlackSwan_Umbrella">
       <Abnormality>Dream of a Black Swan</Abnormality>
-      <CardName>Well-worn Parasol</CardName>
+      <CardName>ร่มอันผุพัง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Gain 2-3 Speed.
-When hit, nullify the damage at a 30% chance, and return double the amount back to the attacker as Stagger damage.</AbilityDesc>
-      <FlaborText>Believing that it would turn white, the black swan wanted to lift the curse by weaving together nettles. All that was left is a worn parasol it once treasured.</FlaborText>
+ได้รับบวกความเร็ว 2-3 หน่วย
+เมื่อถูกโจมตี มีโอกาส 30% ลบล้างดาเมจที่จะได้รับ นำดาเมจดังกล่าวคูณสอง แล้วทำกลับไปใส่ผู้โจมตีเป็นดาเมจStagger</AbilityDesc>
+      <FlaborText>เมื่อเชื่อว่าขนของตนจะกลายเป็นสีขาว เจ้าหงส์ดำพยายามถอนคำสาปโดยการทักรอยใบตำแยเข้าด้วยกัน สิ่งที่เหลืออยู่มีเพียงร่มพังๆที่เคยเป็นสมบัติเท่านั้น</FlaborText>
       <Dialogues>
         <Dialogue ID="1">What happens when the black swan wakes up from dreaming of a white swan?</Dialogue>
         <Dialogue ID="2">All that I had left was the parasol and this brooch.</Dialogue>
@@ -675,10 +675,10 @@ When hit, nullify the damage at a 30% chance, and return double the amount back 
     </AbnormalityCard>
     <AbnormalityCard ID="BlackSwan_Family">
       <Abnormality>Dream of a Black Swan</Abnormality>
-      <CardName>Loving Family</CardName>
+      <CardName>ครอบครัวแสนรัก</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Gain 6 'Nettle Clothing', which grants Protection equal to its amount each Scene. A stack of 'Nettle Clothing' is lost at the end of each Scene.</AbilityDesc>
-      <FlaborText>She began to look for her brothers. Her family who needed to wear the nettle clothing to be free from the curse. Ones whom she shared happy dreams with.</FlaborText>
+ได้รับ 6 'เสื้อผ้าตำแย', ซึ่งจะให้เกราะเท่ากับจำนวนของมันเมื่อเริ่มฉากทุกครั้ง เมื่อจบฉาก 'เสื้อผ้าตำแย' จะถูกลดไปทีละหนึ่งอัน</AbilityDesc>
+      <FlaborText>เธอเริ่มมองหาพี่น้องของเธอ ครอบครัวผู้ซึ่งต้องการ ผ้าตำแย เพื่อให้พ้นจากคำสาป ครอบครัวของเธอที่เธอคอยฝันไฝ่ถึง</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Although they didn’t have anything to pass onto her, they had honesty and diligence as their most valuable treasure.</Dialogue>
         <Dialogue ID="2">I believed… that there had to be a way for everyone to be happy.</Dialogue>
@@ -693,10 +693,10 @@ Gain 6 'Nettle Clothing', which grants Protection equal to its amount each Scene
   <Sephirah SephirahType="Netzach">
     <AbnormalityCard ID="UniverseZogak_Echo">
       <Abnormality>Fragment of the Universe</Abnormality>
-      <CardName>Echoes from the Beyond</CardName>
-      <AbilityDesc>[All Characters]
-Deal 5-10 Stagger damage to all enemies. All allies recover 5-10 Stagger Resist.</AbilityDesc>
-      <FlaborText>You see a song in front of you. It’s approaching, becoming more colorful by the second.</FlaborText>
+      <CardName>เสียงกังวานจากเบื้องบน</CardName>
+      <AbilityDesc>[ตัวละครทั้งหมด]
+ทำดาเมจStagger 5-10 หน่วยแก่ศัตรูทั้งหมด พันธมิตรทั้งหมดฟื้นฟู 5-10 Stagger Resist</AbilityDesc>
+      <FlaborText>เธอเห็นบทเพลงอยู่ตรงหน้า มันกำลังเข้าใกล้ ยิ่งเวลาผ่านไปมันก็ยิ่งสวยงาม</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Sing. Perform. Human. Song. Ear. Listen.</Dialogue>
         <Dialogue ID="2">Sings. Nerves. Focus. Moment. See. Exist.</Dialogue>
@@ -708,10 +708,10 @@ Deal 5-10 Stagger damage to all enemies. All allies recover 5-10 Stagger Resist.
     
     <AbnormalityCard ID="UniverseZogak_Tentacle">
       <Abnormality>Fragment of the Universe</Abnormality>
-      <CardName>Tentacles</CardName>
+      <CardName>หนวดชอนไช</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-On a successful Pierce attack, reduce the max Stagger Resist of the target by 5%. (Up to 50%, Excludes Mass Attacks)</AbilityDesc>
-      <FlaborText>The moment its tentacle penetrates you, it’ll drain all the interest for the life you’re currently living out of you.</FlaborText>
+เมื่อโจมตีแทงสำเร็จ ลดค่า Stagger Resist สูงสุดของเป้าหมายไป5% (สูงสุด 50%, ไม่นับการโจมตีหมู่)</AbilityDesc>
+      <FlaborText>ในวินาทีที่หนวดของมันแทงเธอ มันดูดเอาความอยากมีชีวิตอยู่ของเธอไปทั้งหมด</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Negative. Attack. Come. Help. Give.</Dialogue>
         <Dialogue ID="2">Knowledge. Our. Simple. Give. Relay. None.</Dialogue>
@@ -723,11 +723,11 @@ On a successful Pierce attack, reduce the max Stagger Resist of the target by 5%
     
     <AbnormalityCard ID="UniverseZogak_Sing">
       <Abnormality>Fragment of the Universe</Abnormality>
-      <CardName>Incomprehensible</CardName>
+      <CardName>ไม่สามารถหยั่งถึง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-On a one-sided attack, inflict 1 Feeble and Disarm next Scene at a 50% chance. 
-The likelihood increases by 10% for each successful attack. (Three times per engagement, Excludes Mass Attacks)</AbilityDesc>
-      <FlaborText>Eventually, he succeeded in entering the domain of the ‘Fragment of the Universe’. However, it was obvious that his small brain couldn’t withstand it.</FlaborText>
+ในการโจมตีข้างเดียว มีโอกาส50% ติด 1 อ่อนแรงและตัดกำลัง แก่เป้าหมายในฉากหน้า
+โอกาสข้างต้นจะเพิ่มขึ้นทีละ10% เมื่อโจมตีสำเร็จ (ทำสูงสุด 3 ครั้งต่อการโจมตี 1 ชุด, ไม่นับการโจมตีหมู่)</AbilityDesc>
+      <FlaborText>ในท้ายที่สุด เขาก็ได้เข้าสู่อาณาเขตแห่ง ‘Fragment of the Universe’ สำเร็จ แต่ทว่า ไม่มีทางที่สมองอันน้อยของเขาจะต้านทานมันได้</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Understand. You. Together. Human. I.</Dialogue>
         <Dialogue ID="2">Want. Understand. I. You. Study.</Dialogue>
@@ -737,10 +737,10 @@ The likelihood increases by 10% for each successful attack. (Three times per eng
     
     <AbnormalityCard ID="ChildofGalaxy_Tear">
       <Abnormality>Child of the Galaxy</Abnormality>
-      <CardName>Teardrop</CardName>
+      <CardName>หยาดน้ำตา</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Dice Power +1. On death, all characters take 50% of this character's Max HP as damage. (Max. 60)</AbilityDesc>
-      <FlaborText>I hear his whispers and breath. Pitch black darkness follows… just like the night I met him…</FlaborText>
+พลังลูกเต๋า +1, เมื่อตาย ตัวละครทั้งหมดได้รับดาเมจเท่ากับ50% ของMax HPของบรรณารักษ์นี้ (สูงสุด 60)</AbilityDesc>
+      <FlaborText>ฉันได้ยินเสียงหายใจและกระซิบจากเขา มาพร้อมกับความมืดสีดำ เหมือนกับคืนแรกที่เจอเขา</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Walk across the Milky Way with me.</Dialogue>
         <Dialogue ID="2">You’ll become a pebble, and join me.</Dialogue>
@@ -752,10 +752,10 @@ Dice Power +1. On death, all characters take 50% of this character's Max HP as d
     
     <AbnormalityCard ID="ChildofGalaxy_Friend">
       <Abnormality>Child of the Galaxy</Abnormality>
-      <CardName>A Token of Friendship</CardName>
-      <AbilityDesc>[All Allies]
-For 3 Scenes, all allies recover 10% of Max HP at the start of the Scene. (Max. 12)</AbilityDesc>
-      <FlaborText>The pebble dropped into your hand sparkles, sways, tickles, and eventually becomes the universe.</FlaborText>
+      <CardName>เหรียญตรามิตรภาพ</CardName>
+      <AbilityDesc>[พันธมิตรทุกคน]
+จากนี้ 3 ฉาก พันธมิตรทุกคนฟื้นฟูHP เป็น10% ของMax HPตนเมื่อเริ่มฉาก (สูงสุด 12)</AbilityDesc>
+      <FlaborText>ก้อนกรวดส่องประกายเมื่อมันมาอยู่บนมือคุณ มันโยกเยกและจั้กจี้ ท้ายที่สุดมันก็กลายเป็นจักรวาล</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Don’t lose it, and don’t give it to anyone else.</Dialogue>
         <Dialogue ID="2">It’s my gift to celebrate our friendship. Please treasure it.</Dialogue>
@@ -767,12 +767,12 @@ For 3 Scenes, all allies recover 10% of Max HP at the start of the Scene. (Max. 
     
     <AbnormalityCard ID="ChildofGalaxy_Token">
       <Abnormality>Child of the Galaxy</Abnormality>
-      <CardName>Pebble</CardName>
+      <CardName>ก้อนกรวด</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-At the start of each Scene, three random pages in hand gain the 'Pebble' status. (Excludes [On Play] pages)
-Recover 3-7 HP upon using pages with the Pebble.
-Lose 1-3 HP upon using pages without the Pebble.</AbilityDesc>
-      <FlaborText>“Do you like it? More than you like me? Isn’t it obvious? I know everything. Whatever you do, wherever you go.”</FlaborText>
+เมื่อเริ่มแต่ละฉากจากนี้ เพจสามใบบนมือแบบสุ่ม จะติดสถานะ 'ก้อนกรวด' (ยกเว้นเพจประเภท[เมื่อใช้เพจ])
+เมื่อใช้เพจที่ติดก้อนกรวด ฟื้นฟู 3-7 HP
+เมื่อใช้เพจที่ไม่ติดก้อนกรวด เสีย 1-3 HP</AbilityDesc>
+      <FlaborText>“เธอชอบมันไหม? มากกว่าชอบฉันรึเปล่า? มันแน่อยู่แล้วนี่? ฉันรู้ทุกอย่าง ไม่ว่าเธอจะทำอะไร จะไปที่ไหนฟ”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Why did you visit that friend instead… Do you like them more than you like me?</Dialogue>
         <Dialogue ID="2">I treasure you, but you won’t treasure me…</Dialogue>
@@ -784,11 +784,11 @@ Lose 1-3 HP upon using pages without the Pebble.</AbilityDesc>
     
     <AbnormalityCard ID="Porccubus_Thorn">
       <Abnormality>Porccubus</Abnormality>
-      <CardName>Thorns</CardName>
+      <CardName>ขวากหนาม</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-On a successful Pierce attack, inflict 1 Thrill to the target.
-Against targets with 3+ Thrill, deal 2-7 bonus damage and Stagger damage, then remove all stacks of Thrill.(Excludes Mass Attacks)</AbilityDesc>
-      <FlaborText>At first, all I had to do was be lightly pricked by one of the thorns. Now I have to rub my whole body against it to get the same high.</FlaborText>
+เมื่อโจมตีแทงสำเร็จ ติด 1 เร้าใจ แก่เป้าหมาย
+เมื่อโจมตีเป้าหมายที่มีเร้าใจ 3หรือมากกว่า ทำดาเมจและดาเมจStaggerเพิ่มเติม 2-7 หน่วย แล้วลบเร้าใจออกจากเป้าหมายทั้งหมด (ไม่นับการโจมตีหมู่)</AbilityDesc>
+      <FlaborText>ครั้งแรก แค่ให้หนามตำสัก1อันก็มากพอแล้ว แต่ตอนนี้ถ้าอยากไปดึงดาลล่ะก็ ฉันจะต้องเอาทั้งตัวไปถูกับมัน</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Sure, I’ll bend down for you~ Feel free to pet me.</Dialogue>
         <Dialogue ID="2">It’s scary at first, but the next step won’t be difficult at all.</Dialogue>
@@ -800,10 +800,10 @@ Against targets with 3+ Thrill, deal 2-7 bonus damage and Stagger damage, then r
     
     <AbnormalityCard ID="Porccubus_Boom">
       <Abnormality>Porccubus</Abnormality>
-      <CardName>Elation</CardName>
+      <CardName>ปลืมปิติ</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Dice Power +1. Reduce Max Stagger Resist by 50%.</AbilityDesc>
-      <FlaborText>Now it’s time for my head to burst. Good day.</FlaborText>
+พลังลูกเต๋า +1, ลด Stagger Resist สูงสุดไป 50%</AbilityDesc>
+      <FlaborText>ได้เวลาหัวระเบิดแล้วล่ะตัวฉัน เป็นวันที่ดีย์</FlaborText>
       <Dialogues>
         <Dialogue ID="1">If you wish for unbearable pleasure, you’ll break down eventually.</Dialogue>
         <Dialogue ID="2">I’m just giving you laughter, so much that you might die laughing~</Dialogue>
@@ -815,10 +815,10 @@ Dice Power +1. Reduce Max Stagger Resist by 50%.</AbilityDesc>
     
     <AbnormalityCard ID="Porccubus_Happy">
       <Abnormality>Porccubus</Abnormality>
-      <CardName>Laughing Powder</CardName>
-      <AbilityDesc>[All Allies]
-When hit, recover 2-4 Stagger Resist if the character isn't staggered.</AbilityDesc>
-      <FlaborText>When the powder that falls from the thorns becomes known to the world, people may forever sink into the swamp of intoxication.</FlaborText>
+      <CardName>ผงแห่งความตลกโปกฮา</CardName>
+      <AbilityDesc>[พันธมิตรทุกคน]
+เมื่อถูกโจมตี หากไม่ได้Staggerอยู่ ฟื้นฟู 2-4 Stagger Resist (โคตรขำ ตลกมาก 555+)</AbilityDesc>
+      <FlaborText>หากเศษผงที่ออกมาจากหนามของมันเป็นที่รู้จักขึ้นมา ผู้คนจะจมปรักอยู่ในความมึนเมาไปตลอดกาล</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Your head will soon be filled with happiness.</Dialogue>
         <Dialogue ID="2">You’ll fall ill if you hold in your laughter. Why don’t you laugh to your heart’s content?</Dialogue>
@@ -830,10 +830,10 @@ When hit, recover 2-4 Stagger Resist if the character isn't staggered.</AbilityD
     
         <AbnormalityCard ID="Alriune_flower">
       <Abnormality>Alriune</Abnormality>
-      <CardName>Flower Petals</CardName>
-      <AbilityDesc>[พันธมิตรเดี่ยว]
-Each time the librarian sustains damage greater than 10% of their Max HP, all enemies take 4-8 Stagger damage, and the librarian recovers 5-10 HP.</AbilityDesc>
-      <FlaborText>Shedding flower petals in place of tears, you spoke to me. “We were all part of earth once, so I plead you not to speak of the end here and now.”</FlaborText>
+      <CardName>กลีบดอกไม้</CardName>
+      <AbilityDesc>[พันธมิตรบุปผา]
+เมื่อใดที่บรรณารักษ์รับดาเมจเกิน10% ของMax HPตนเอง ศัตรูทุกคนได้รับดาเมจStagger 4-8 หน่วย บรรณารักษ์ฟื้นฟู 5-10 HP</AbilityDesc>
+      <FlaborText>ทำได้เพียงสลัดกลีบดอกไม้แทนการร่ำไห้ เธอก็พูดกับฉัน “เราก็เคยเป็นส่วนหนึ่งของพื้นดินมาแล้ว เพราะอย่างนั้น อย่างพึ่งพูดถึงจุดจบของเธอตอนนี้”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I have no eyes, but I can see everything.</Dialogue>
         <Dialogue ID="2">Let us go back to the grave with all that lives and breathes.</Dialogue>
@@ -843,11 +843,11 @@ Each time the librarian sustains damage greater than 10% of their Max HP, all en
     </AbnormalityCard>
     <AbnormalityCard ID="Alriune_Bush">
       <Abnormality>Alriune</Abnormality>
-      <CardName>Autumn’s Passing</CardName>
+      <CardName>ก้าวข้ามไบไม้ร่วง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-When hit, inflict 1 Aroma.
-(Aroma: At the start of the Scene, take Stagger damage equal to the amount of Aroma and halve the stack.)</AbilityDesc>
-      <FlaborText>Bearing the hope to return to dust, it shall go back to the grave with all that desires to live.</FlaborText>
+เมื่อถูกโจมตี ติด 1 สุคนธรส.
+(สุคนธรส: เมื่อเริ่มฉาก รับดาเมจStagger เท่ากับจำนวน'สุคนธรส'ที่มี แล้วหารสองจำนวนของมัน)</AbilityDesc>
+      <FlaborText>เพียงความหวังที่จะสลาย มันจะกลับไปที่หลุมศพพร้อมกับความปราถนาที่จะมีชีวิต</FlaborText>
       <Dialogues>
         <Dialogue ID="1">My atonement ended with a heavy breath in the cold.</Dialogue>
         <Dialogue ID="2">I was abandoned in a dark forest; my mind, life, and heart withering away.</Dialogue>
@@ -857,11 +857,11 @@ When hit, inflict 1 Aroma.
     </AbnormalityCard>
     <AbnormalityCard ID="Alriune_Doll">
       <Abnormality>Alriune</Abnormality>
-      <CardName>Spring’s Genesis</CardName>
+      <CardName>ปฐมบทหมื่นบุปผา</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Each Scene, a 'Petal' attaches to a random enemy.
-After the character with the Petal takes 4 hits in a single Scene, all characters take 3-7 Stagger damage, and the librarian becomes untargetable for the next Scene.</AbilityDesc>
-      <FlaborText>Unwithering flowers violently blossom.</FlaborText>
+ในทุกฉากจากนี้ ศัตรูหนึ่งตัวจะสุ่มติดสถานะ 'กลีบดอกไม้'
+เมื่อตัวละครที่ติดกลีบดอกไม้ถูกโจมตีครบ 4 ครั้งในฉากเดียว ตัวละครทั้งหมดได้รับดาเมจStagger 3-7 หน่วย และในฉากหน้า บรรณารักษ์นี้จะไม่สามารถถูกเลือกเป็นเป้าหมายได้</AbilityDesc>
+      <FlaborText>บุปผาอันมิอาจร่วงโรย บานสะพรั่งอย่างหามีผู้หยุดยั้ง</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Will you be the one to grant my wish?</Dialogue>
         <Dialogue ID="2">With unwithering flowers began my magnificent descent to despair.</Dialogue>
@@ -872,11 +872,11 @@ After the character with the Petal takes 4 hits in a single Scene, all character
     
     <AbnormalityCard ID="SilentOrchestra_Music">
       <Abnormality>The Silent Orchestra</Abnormality>
-      <CardName>Ever-repeating Performance</CardName>
+      <CardName>มหรสพนิรันดร</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Add an 'Ever-repeating Performance' page to the hand: ‘Cost 3 - [Single-use;][On Use] Ends the Scene. At the start of the next Scene, user's HP and Stagger Resist return to the values they had when acquiring this page, and fully restore Light.’
-The page is also included in the deck at the start of subsequent Acts.</AbilityDesc>
-      <FlaborText>The performance does not end. And Da capo. And, Da capo al Fine</FlaborText>
+เพิ่มเพจ 'มหรสพนิรันดร' เข้ามือ: ‘คอส 3 - [ใช้ครั้งเดียว][เมื่อใช้] จบฉากทันที เมื่อเริ่มฉากใหม่ HPและStagger Resistของผู้ใช้ ถูกย้อนกลับไปเมื่อตอนได้รับเพจนี้ และฟื้นฟูแสงทั้งหมด’
+เพจนี้จะถูกรวมเข้าไปในเด็คเมื่อเริ่มองก์ต่อไปด้วย</AbilityDesc>
+      <FlaborText>การแสดงนั้นไม่เคยจบสิ้น แล้วเริ่มต้นใหม่ แล้วเริ่มใหม่แต่ต้น</FlaborText>
       <Dialogues>
         <Dialogue ID="1">From break and ruin, I begin the most beautiful performance.</Dialogue>
         <Dialogue ID="2">A single performer standing in the midst of a silent score. He creates sounds where there is none.</Dialogue>
@@ -886,10 +886,10 @@ The page is also included in the deck at the start of subsequent Acts.</AbilityD
     </AbnormalityCard>
  <AbnormalityCard ID="SilentOrchestra_Affect">
       <Abnormality>The Silent Orchestra</Abnormality>
-      <CardName>Fervent Adoration</CardName>
+      <CardName>บูชาอย่างบ้าคลั่ง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-All enemies target random characters including their own allies for 2 Scenes. Enemies deal +2-4 damage with attacks while this effect lasts.</AbilityDesc>
-      <FlaborText>The orchestra gives impetus to the music, bringing the entire department to its demise. When all the performers have gathered, the music that no one can hear but everyone can listen to begins.</FlaborText>
+2 ฉากต่อจากนี้ ศัตรูทุกคนจะเล็งเป้าหมายแบบสุ่ม รวมไปถึงพันธมิตรของตัวเองด้วย การโจมตีของศัตรูทำดาเมจมากขึ้น 2-4 หน่วยเมื่อความสามารถนี้ยังอยู่</AbilityDesc>
+      <FlaborText>วงออร์เคสตรานั้นทุ่มแรงไปยังเสียงดนตรีนี้อย่างมาก, นำพาทั้งแผนกให้วอดวายไปกับเสียงเพลง เมื่อนักดนตรีทุกคนยืนพร้อมเพียง ท่วงทำนองที่ไร้ผู้ได้ยินแต่มากไปด้วยผู้ฟังจะเริ่มบรรเลง</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The music that no one can hear, but everyone can listen to…</Dialogue>
         <Dialogue ID="2">To the audience who shall walk into their seat upon hearing the choked up performance.</Dialogue>
@@ -899,10 +899,10 @@ All enemies target random characters including their own allies for 2 Scenes. En
     </AbnormalityCard>
     <AbnormalityCard ID="SilentOrchestra_Finale">
       <Abnormality>The Silent Orchestra</Abnormality>
-      <CardName>The Finale</CardName>
+      <CardName>ปิดม่านการแสดง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Whenever the selected librarian Staggers an enemy, all enemies lose 1-6 Light at the start of the next Scene.</AbilityDesc>
-      <FlaborText>“The music shall perforate your entire being.”</FlaborText>
+เมื่อบรรณารักษ์ทำให้ศัตรู Stagger ศัตรูทุกคนเสีย 1-6 แสงเมื่อเริ่มฉากหน้า</AbilityDesc>
+      <FlaborText>“บทเพลงนี้จะเจาะทะลวงทั้งร่างกายของเธอ”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The music shall perforate your entire being.</Dialogue>
         <Dialogue ID="2">If you can stand with your two legs, be willing to send your praise.</Dialogue>
@@ -1229,7 +1229,7 @@ On a successful Pierce attack, if the die rolled max. value, deal bonus damage e
     <AbnormalityCard ID="KnightOfDespair_Despair">
       <Abnormality>The Knight of Despair</Abnormality>
       <CardName>Despair</CardName>
-      <AbilityDesc>[All Allies]
+      <AbilityDesc>[พันธมิตรทุกคน]
 Whenever an ally dies, all other allies gain 1-3 Strength and Haste, and all enemies are inflicted with 2 Fragile.</AbilityDesc>
       <FlaborText>As with sorrow, perhaps sharing the burden will blunt the edge.</FlaborText>
       <Dialogues>
@@ -1696,7 +1696,7 @@ At the start of the Scene, gain Strength and Protection equal to the number of a
     <AbnormalityCard ID="House_BigHouse">
       <Abnormality>The Road Home</Abnormality>
       <CardName>Home</CardName>
-      <AbilityDesc>[All Allies]
+      <AbilityDesc>[พันธมิตรทุกคน]
 At the start of the Scene, numbered targets are placed on up to 3/2/2/1/1 enemies, depending on the number of allies currently alive.
 Each time a target is attacked in the correct order, increase outgoing damage by 3 for the Scene.</AbilityDesc>
       <FlaborText>Unable to ever go back home, they began an endless journey.</FlaborText>
@@ -1755,7 +1755,7 @@ The page is also included in the deck at the start of subsequent Acts.</AbilityD
     <AbnormalityCard ID="Ozma_Immortal">
       <Abnormality>Ozma</Abnormality>
       <CardName>Powder of Life</CardName>
-      <AbilityDesc>[All Allies]
+      <AbilityDesc>[พันธมิตรทุกคน]
 When a librarian takes lethal damage, nullify it and recover 20% of Max. HP (up to 24). Can only activate once per reception.</AbilityDesc>
       <FlaborText>Finally, she sprinkled cinnamon powder—her favorite—and clutched the pumpkin in her arms.</FlaborText>
       <Dialogues>
@@ -1784,7 +1784,7 @@ The page is also included in the deck at the start of subsequent Acts.</AbilityD
     <AbnormalityCard ID="Oz_Gift">
       <Abnormality>The Adult who Tells Lies</Abnormality>
       <CardName>False Present</CardName>
-      <AbilityDesc>[All Allies]
+      <AbilityDesc>[พันธมิตรทุกคน]
 Add 0-Cost false present pages that activate on play to the E.G.O pages list: 'Liquid Courage', 'Silk Sack of Sawdust', 'Heart of Lead', 'Home that Cannot Be Reached', and 'Transformation'.
 The false present pages are also added to the E.G.O page list at the start of subsequent Acts.</AbilityDesc>
       <FlaborText>Poor Ozma. She didn’t know that lying adults don’t approach others without reason.</FlaborText>
@@ -1930,7 +1930,7 @@ After attacking the enemy with the most HP, recover the HP of the ally with the 
       <Abnormality>Judgement Bird</Abnormality>
       <CardName>Judgement</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-At the start of the Scene, all characters gain 1 Sin at a 50% chance.
+At the start of the Scene, ตัวละครทั้งหมด gain 1 Sin at a 50% chance.
 If a character has 5+ Sin, they take damage equal to 10% of their Max. HP at the start of the Scene, and all Sin is removed from them.
 Sin can be transferred to another character by attacking and damaging them. (Once per page)</AbilityDesc>
       <FlaborText>Then somebody said, “But what if the scale doesn’t tip in either direction someday?” Worried, Long Bird made a scale that always tipped to one side. That way every judgement would yield a clear verdict.</FlaborText>
@@ -2079,7 +2079,7 @@ Deal and take twice as much Stagger damage on a deflect.</AbilityDesc>
         <AbnormalityCard ID="Clock_Time">
       <Abnormality>The Price of Silence</Abnormality>
       <CardName>Time</CardName>
-      <AbilityDesc>[All Allies]
+      <AbilityDesc>[พันธมิตรทุกคน]
 The player has 30 seconds to select Combat Pages before the combat phase begins each Scene.
 Boost the Power of all dice of all librarians by 1-2.</AbilityDesc>
       <FlaborText>Time flows as life does, and life goes as time does.</FlaborText>
@@ -2152,7 +2152,7 @@ If any character is Staggered at the start of the Scene, they take 3-7 damage, a
         <AbnormalityCard ID="BlueStar_Melody">
       <Abnormality>Blue Star</Abnormality>
       <CardName>A Nostalgic Sound</CardName>
-      <AbilityDesc>[All Allies]
+      <AbilityDesc>[พันธมิตรทุกคน]
 All allies deal +2-4 Stagger damage for this Scene. The effect of this page activates every 3 Scenes afterwards.</AbilityDesc>
       <FlaborText>The rise of a star is a brand new beginning. Don’t you hear the everlasting sound of the trumpet?</FlaborText>
       <Dialogues>
@@ -2195,7 +2195,7 @@ If the selected librarian also has the Abnormality page 'Baptism', its effect is
     <AbnormalityCard ID="WhiteNight_Confess">
       <Abnormality>WhiteNight</Abnormality>
       <CardName>Confession</CardName>
-      <AbilityDesc>[All Allies]
+      <AbilityDesc>[พันธมิตรทุกคน]
 Fully recover Stagger Resist, and purge all status ailments. (Also applies to Staggered librarians)
 For the duration of the reception, take 2 less Stagger damage from attacks.</AbilityDesc>
       <FlaborText>To be willing to bear pain is half the atonement.</FlaborText>
