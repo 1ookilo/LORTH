@@ -20,14 +20,14 @@
 	<text id="ui_chesed">เคเซ็ด</text>
 	<text id="ui_binah">บีนา</text>
 	<text id="ui_hokma">ฮ็อคมา</text>
-	<text id="ui_maintitle_citystate_1">Canard</text>
-	<text id="ui_maintitle_citystate_2">Urban Myth</text>
-	<text id="ui_maintitle_citystate_3">Urban Legend</text>
-	<text id="ui_maintitle_citystate_4">Urban Plague</text>
-	<text id="ui_maintitle_citystate_5">Urban Nightmare</text>
+	<text id="ui_maintitle_citystate_1">เรื่องเล่าขำขัน</text>
+	<text id="ui_maintitle_citystate_2">เรื่องเล่าประจำเมือง</text>
+	<text id="ui_maintitle_citystate_3">ตำนานเมือง</text>
+	<text id="ui_maintitle_citystate_4">ภัยประจำเมือง</text>
+	<text id="ui_maintitle_citystate_5">ฝันร้ายประจำเมือง</text>
 	<text id="ui_ability_hp">HP</text>
 	<text id="ui_ability_break">Stagger Resistance</text>
-	<text id="ui_ability_emotionlevel">Max. Emotion Level</text>
+	<text id="ui_ability_emotionlevel">ระดับอารมณ์สูงสุด</text>
 	<text id="ui_ability_speeddice">เต๋า ความเร็ว</text>
 	<text id="ui_ability_passive">ความสามารถ</text>
 	<text id="ui_controlbutton_main">ห้องสมุด</text>
@@ -192,9 +192,9 @@
 	<text id="ui_tooltip_librarian_1">แทนที่ Key page.</text>
 	<text id="ui_tooltip_librarian_2">แทนที่ Combat Pages.</text>
 	<text id="ui_tooltip_librarian_3">แทนที่ the Battle Symbol ตรงส่วน {0} </text>
-	<text id="ui_tooltip_libraryGrade_1">Canard</text>
-	<text id="ui_tooltip_libraryGrade_2">Urban Myth</text>
-	<text id="ui_tooltip_libraryGrade_3">Urban Legend</text>
+	<text id="ui_tooltip_libraryGrade_1">เรื่องเล่าขำขัน</text>
+	<text id="ui_tooltip_libraryGrade_2">เรื่องเล่าประจำเมือง</text>
+	<text id="ui_tooltip_libraryGrade_3">ตำนานเมือง</text>
 	<text id="ui_tooltip_filter_1">ค้นหาจาก เนื้อเรื่องถัดไป</text>
 	<text id="ui_tooltip_filter_2">ค้นหาจาก เนื้อเรื่องก่อนหน้า</text>
 	<text id="ui_tooltip_filter_3">ค้นหาจาก เกรดสูงสุด</text>
@@ -410,17 +410,17 @@ The Combat bookshelf will be reset.</text>
 	<text id="ui_dialog_auto">เล่นอัตโนมัติ</text>
 	<text id="ui_newtooltip_battle_1">HP ปัจจุบัน</text>
 	<text id="ui_newtooltip_battle_2">Stagger Resist ปัจจุบัน</text>
-	<text id="ui_newtooltip_battle_3">Emotion Coins ปัจจุบัน</text>
+	<text id="ui_newtooltip_battle_3">แต้มอารมณ์ปัจจุบัน</text>
 	<text id="ui_newtooltip_battle_4">รายการ Abnormality pages ที่เลือกไว้</text>
 	<text id="ui_newtooltip_battle_5">Abnormality page ที่มีผลในขณะนี้</text>
 	<text id="ui_newtooltip_battle_6">Phys. damage resist of the target against {0}: {1}</text>
 	<text id="ui_newtooltip_battle_7">Stag. damage resist of the target against {0}: {1}</text>
 	<text id="ui_newtooltip_battle_8">รายการเอฟเฟกต์ที่มีผลในการต่อสู้</text>
 	<text id="ui_newtooltip_battle_9">HP ปัจจุบัน</text>
-	<text id="ui_newtooltip_battle_10">Emotion Coins ปัจจุบัน</text>
-	<text id="ui_newtooltip_battle_11">Emotion Level ปัจจุบัน</text>
+	<text id="ui_newtooltip_battle_10">แต้มอารมณ์ปัจจุบัน</text>
+	<text id="ui_newtooltip_battle_11">ระดับอารมณ์ปัจจุบัน</text>
 	<text id="ui_newtooltip_battle_12">กดเพื่อเริ่มการต่อสู้</text>
-	<text id="ui_newtooltip_battle_13">Emotion Level ของทีม</text>
+	<text id="ui_newtooltip_battle_13">ระดับอารมณ์ของทีม</text>
 	<text id="ui_newtooltip_battle_14">สลับโหมดเร็ว เปิด/ปิด
 เมื่อโหมดเร็วถูกปิด เต๋าจะถูกทอยเมื่อผู้เล่นคลิก</text>
 	<text id="ui_newtooltip_battle_15">แสดงเป้าหมายของแขก</text>
@@ -434,7 +434,7 @@ The Combat bookshelf will be reset.</text>
   <text id ="ui_popup_opencomplete_floor">{0} Realization อย่างเสร็จสมบูรณ์</text>
   <text id ="ui_popup_openuncomplete_floor">{0} ได้ล้มเหลวในการ Realization</text>
   <text id="ui_library_abilitycontent_17">คุณสามารถใช้ E.G.O Pages ได้แล้ว</text>
-  <text id="ui_library_abilitycontent_18">ขีดจำกัดของ Emotion Level ได้ถูกเพิ่มเป็น {0}.</text>
+  <text id="ui_library_abilitycontent_18">ขีดจำกัดของระดับอารมณ์ได้ถูกเพิ่มเป็น {0}</text>
   <text id="ui_popup_creature_bossbattle_start">คุณได้เตรียมตัวเตรียมใจให้พร้อมเพื่อรับชมบทสรุปของ {0} หรือยัง?</text>
   <text id="ui_getegocard">ได้รับ E.G.O Page</text>
   <text id="ui_egocard">E.G.O Page</text>
@@ -469,7 +469,7 @@ The Combat bookshelf will be reset.</text>
 ต้องการนำกลับมาหรือไม่?
   </text>
 
-  <text id="ui_maintitle_citystate_6">Star of the City</text>
+  <text id="ui_maintitle_citystate_6">ดาวประจำเมือง</text>
 
   <text id ="ui_bookinfo_attachedbookalarm">อยู่ใน Key Page อื่น</text>
 
@@ -547,7 +547,7 @@ The Combat bookshelf will be reset.</text>
   <text id="ui_color_h">สี</text>
   <text id="ui_color_s">ความเข้มสี</text>
   <text id="ui_color_v">ความสว่าง</text>
-  <text id="ui_resultemotionlevelrewardtitle">พิเศษจาก Emotion Level</text>
+  <text id="ui_resultemotionlevelrewardtitle">พิเศษจากระดับอารมณ์</text>
   <text id ="ui_resultgetbookincreasepertitle">{0} Rate Up</text>
   <!--20201113-->
   <text id="ui_selectgendertype">ชนิดร่างกาย</text>
@@ -600,7 +600,7 @@ The Combat bookshelf will be reset.</text>
 
 
   <!--<20210202-->
-  <text id="ui_maintitle_citystate_7">Impuritas Civitatis</text>
+  <text id="ui_maintitle_citystate_7">มลทินแห่งอณาราช</text>
 
   <!-- 20210205-->
   <text id ="ui_alarm_battlesetting_canuseblacksilence">โรแลนด์จะสวมใส่ Page ของความเงียบสีทมิฬในการต่อสู้ครั้งนี้</text>
