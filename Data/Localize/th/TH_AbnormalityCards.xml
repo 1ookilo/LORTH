@@ -630,12 +630,12 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
     </AbnormalityCard>
     <AbnormalityCard ID="Laetitia_Friend">
       <Abnormality>Laetitia</Abnormality>
-      <CardName>เพื่อนจ้า</CardName>
+      <CardName>เพื่อนจ๋า</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-เมื่อเริ่มฉาก แอบเอา 'เพื่อนจ้า' ไปใส่ใน Combat Page 1ใบในมือของคุณ (ยกเว้นเพจประเภท[เมื่อใช้เพจ])
-หากมีเพจที่เป็น'เพื่อนจ้า'อยู่แล้ว ความสามารถข้างต้นจะไม่ทำงาน
-เพจที่เป็น'เพื่อนจ้า' จะได้รับพลังบวก 2-4 หน่วย
-ทว่า หากไม่ใช้เพจดังกล่าวภายใน 2 ฉาก ลบเพจนั้นจากการต่อสู้ ทำดาเมจ 2-7 หน่วยแก่บรรณารักษ์</AbilityDesc>
+เมื่อเริ่มฉาก แอบเอา 'เพื่อนจ๋า' ไปใส่ใน Combat Page 1ใบในมือของคุณ (ยกเว้นเพจประเภท[เมื่อใช้เพจ])
+หากมีเพจที่เป็น'เพื่อนจ๋า'อยู่แล้ว ความสามารถข้างต้นจะไม่ทำงาน
+เพจที่เป็น'เพื่อนจ๋า' จะได้รับพลังบวก 2-4 หน่วย
+ทว่า หากไม่ใช้เพจดังกล่าวภายใน 2 ฉาก สลายเพจนั้นจากการต่อสู้ ทำดาเมจ 2-7 หน่วยแก่บรรณารักษ์</AbilityDesc>
       <FlaborText>เธอนั้นเศร้ามากที่ต้องทิ้งเพื่อนเอาไว้ เธอจึงมีความคิดสุดบรรเจิดขึ้นมา!</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I couldn’t leave my dear friends behind… So I came up with a brilliant idea!</Dialogue>
@@ -876,7 +876,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เพิ่มเพจ 'มหรสพนิรันดร' เข้ามือ: ‘คอส 3 - [ใช้ครั้งเดียว][เมื่อใช้] จบฉากทันที เมื่อเริ่มฉากใหม่ HPและStagger Resistของผู้ใช้ ถูกย้อนกลับไปเมื่อตอนได้รับเพจนี้ และฟื้นฟูแสงทั้งหมด’
 เพจนี้จะถูกรวมเข้าไปในเด็คเมื่อเริ่มองก์ต่อไปด้วย</AbilityDesc>
-      <FlaborText>การแสดงนั้นไม่เคยจบสิ้น แล้วเริ่มต้นใหม่ แล้วเริ่มใหม่แต่ต้น</FlaborText>
+      <FlaborText>การแสดงนั้นไม่เคยจบสิ้น มันเริ่มใหม่ แล้วเริ่มใหม่อีกครา</FlaborText>
       <Dialogues>
         <Dialogue ID="1">From break and ruin, I begin the most beautiful performance.</Dialogue>
         <Dialogue ID="2">A single performer standing in the midst of a silent score. He creates sounds where there is none.</Dialogue>
@@ -889,7 +889,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>บูชาอย่างบ้าคลั่ง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 2 ฉากต่อจากนี้ ศัตรูทุกคนจะเล็งเป้าหมายแบบสุ่ม รวมไปถึงพันธมิตรของตัวเองด้วย การโจมตีของศัตรูทำดาเมจมากขึ้น 2-4 หน่วยเมื่อความสามารถนี้ยังอยู่</AbilityDesc>
-      <FlaborText>วงออร์เคสตรานั้นทุ่มแรงไปยังเสียงดนตรีนี้อย่างมาก, นำพาทั้งแผนกให้วอดวายไปกับเสียงเพลง เมื่อนักดนตรีทุกคนยืนพร้อมเพียง ท่วงทำนองที่ไร้ผู้ได้ยินแต่มากไปด้วยผู้ฟังจะเริ่มบรรเลง</FlaborText>
+      <FlaborText>วงออร์เคสตรานั้นทุ่มแรงไปกับเสียงดนตรีนี้อย่างมาก, นำพาทั้งแผนกให้วอดวายไปกับเสียงเพลง เมื่อนักดนตรีทุกคนยืนพร้อมเพียง ท่วงทำนองที่ไร้ผู้ได้ยินแต่มากไปด้วยผู้ฟังจะเริ่มบรรเลง</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The music that no one can hear, but everyone can listen to…</Dialogue>
         <Dialogue ID="2">To the audience who shall walk into their seat upon hearing the choked up performance.</Dialogue>
@@ -1158,7 +1158,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <AbilityDesc>[พันธมิตรเดี่ยว]
 หลังชนะการปะทะด้วยเต๋าโจมตี ฟื้นฟูHP พันธมิตร1คนแบบสุ่ม 3-5 หน่วย
 หลังชนะการปะทะด้วยเต๋าตั้งรับ ฟื้นฟูStagger Resist พันธมิตร1คนแบบสุ่ม 2-4 หน่วย</AbilityDesc>
-      <FlaborText>In the name of Love and Justice~ Here comes Magical Girl!</FlaborText>
+      <FlaborText>ในนามของความเที่ยงธรรมและความรัก สาวน้อยเวทมนตร์~ มาแล้ว!</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Don’t worry. You guys will be safe as long as I’m here!</Dialogue>
         <Dialogue ID="2">You can count on me any time! I’ll keep you safe.</Dialogue>
@@ -1174,7 +1174,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <AbilityDesc>[พันธมิตรเดี่ยว]
 ศัตรูที่ทำดาเมจแก่พันธมิตรมากที่สุดเมื่อฉากที่แล้ว จะถูกตั้งให้เป็น 'ตัวร้าย'
 เมื่อโจมตี 'ตัวร้าย' ทำดาเมจมากขึ้น 3-5 หน่วย</AbilityDesc>
-      <FlaborText>If I am on the side of good, then someone has to be on the side of evil. Without someone to play the villain, I can’t exist.</FlaborText>
+      <FlaborText>ถ้าฉันอยู่ฝั่งธรรมะล่ะก็ ก็ต้องมีฝ่ายอธรรมสินะ ถ้าหากไม่มีตัวร้ายในเรื่องราวล่ะก็ ฉันก็จะไม่มีตัวตน</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Finally, a villain shows up! Careful, everyone.</Dialogue>
         <Dialogue ID="2">It’s okay. I can take care of the baddies!</Dialogue>
@@ -1189,7 +1189,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อแพ้การปะทะ ได้รับดาเมจStagger 2-4 หน่วย และได้รับ 1 กำลัง ฉากหน้า(2 ครั้งต่อฉาก)
 เมื่อแพ้การปะทะ 3ครั้งในฉากเดียว ลดค่าคอสของเพจที่แพงที่สุดในมือไป 1 หน่วย(1 ครั้งต่อฉาก)</AbilityDesc>
-      <FlaborText>She vowed to love everything in the world, but all that was left was a collapsing heart.</FlaborText>
+      <FlaborText>เธอสาบานที่จะรักทุกๆสิ่งบนโลกใบนี้ แต่สิ่งที่หลงเหลืออยู่ กลับเป็นดวงใจที่แตกสลาย</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Why is everybody happy? I’d have no reason to exist if they are…</Dialogue>
         <Dialogue ID="2">I am the chosen one. Who would protect the world besides me?</Dialogue>
@@ -1204,7 +1204,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>อวยพร</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อตัวละครนี้ได้รับดาเมจจากการโจมตีเมื่อฉากที่แล้ว เลือกประเภทดาเมจที่ได้รับมากที่สุด แล้วเปลี่ยนความทนทานของประเภทดาเมจนั้นให้เป็น 'ทนทาน' ตลอดฉากนี้ (ดาเมจกายภาพและดาเมจStagger จะคำนวณแยกกัน)</AbilityDesc>
-      <FlaborText>The will to protect seems to remain unchanged after all this time; even in containment, it is still obsessed with the act of protection.</FlaborText>
+      <FlaborText>แม้เวลาจะผ่านไป ปฎิธานที่จะปกป้องก็ยังคงเดิมไม่เปลี่ยน ในห้องกักกัน มันก็ยังคงปฎิบัติตนดั่งองค์รักษ์</FlaborText>
       <Dialogues>
         <Dialogue ID="1">All that remains is the hollow pride of a weathered knight.</Dialogue>
         <Dialogue ID="2">If I could have another chance to protect…</Dialogue>
@@ -1218,7 +1218,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>ดาบที่ลับคมโดยหยาดน้ำตา</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อโจมตีแทงสำเร็จ หากทอยเต๋าได้ค่าสูงสุด ทำดาเมจเพิ่มเติมเท่ากับ 10% ของMax HPเป้าหมาย(สูงสุด 12 ไม่นับการโจมตีหมู่)</AbilityDesc>
-      <FlaborText>When Justice turns its back once more, several dozen blades will rove without a purpose. The swords will eventually point at those she could not protect.</FlaborText>
+      <FlaborText>เมื่อความยุติธรรมไร้ซึ่งเยื้อใย ใบดาบมากมายจะไร้ซึ่งหนทางและจุดประสงค์ และหันปลายดาบใส่ผู้ที่เธอนั้นไม่อาจปกป้องได้</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The edge of this sword sharpened with tears and despair is always precise.</Dialogue>
         <Dialogue ID="2">I vowed to this sharp sword, whetted with tears on an anvil of despair.</Dialogue>
@@ -1231,7 +1231,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>ความสิ้นหวัง</CardName>
       <AbilityDesc>[พันธมิตรทุกคน]
 เมื่อพันธมิตรตาย พันธมิตรคนอื่นๆ ได้รับ 1-3 กำลังและว่องไว และศัตรูทุกคนติด 2 เปราะบาง</AbilityDesc>
-      <FlaborText>As with sorrow, perhaps sharing the burden will blunt the edge.</FlaborText>
+      <FlaborText>ไม่ต่างจากความเศร้า, บางทีหากแบ่งปันความทุกข์ให้ ปลายดาบอาจจะทื่อลงก็เป็นได้</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The despair swelling up inside me is now overflowing through my eyes and heart…</Dialogue>
         <Dialogue ID="2">What does this despair… mean to me?</Dialogue>
@@ -1243,10 +1243,10 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
   
     <AbnormalityCard ID="Greed_Break">
       <Abnormality>The King of Greed</Abnormality>
-      <CardName>มากจนไม่สมดุล</CardName>
+      <CardName>ไร้สมดุลยภาพ</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 หากเต๋าแรกของ Combat Page ชนะการปะทะ มีโอกาส 25% ทำลายเต๋าที่เหลืออยู่ของฝ่ายตรงข้ามทั้งหมด</AbilityDesc>
-      <FlaborText>The first seed of desire originated from the pure yearning for happiness. The tiny seed grew larger and larger, hungering for more. Over time, the seed hardened and turned into a piece of shiny gem.</FlaborText>
+      <FlaborText>ต้นกำเนิดของตัญหาทั้งปวง มาจากความต้องการที่จะโหยหาความสุข เป็นเมล็ดพันธุ์ที่เติบโตขึ้นเรื่อยๆหิวโหยไม่หยุดยั้ง จนกระทั่งเมล็ดพันธุ์ได้กลายเป็นอัญมณีส่องประกาย</FlaborText>
       <Dialogues>
         <Dialogue ID="1">A thought echoed inside my head. A thought soaked with greed, compelling me to pursue happiness.</Dialogue>
         <Dialogue ID="2">Is it so bad to lust for honey when there are flowers?</Dialogue>
@@ -1260,7 +1260,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>เส้นทางสู่ความสุข</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 ได้รับ 1 อึดทน เมื่อชนะการปะทะ (ได้สูงสุด 3 ครั้งต่อฉาก)</AbilityDesc>
-      <FlaborText>Happiness became obsession, obsession became greed, and the greed forever solidified to become a golden amber. The happiness in the beginning, still holding a smile, dwells inside.</FlaborText>
+      <FlaborText>สุขกายจนเสพติด เสพติดจนเกิดโลภ และความโลภก็แข็งตัวจนกลายเป็นอำพันสีทองตลอดกาล  ความสุข ณ ตอนเริ่มยังคงอยู่ เก็บเป็นรอยยิ้มข้างในหัวใจ</FlaborText>
       <Dialogues>
         <Dialogue ID="1">At last, the once pure desire materialized into golden amber and solidified.</Dialogue>
         <Dialogue ID="2">This greed shall forever shine brilliantly.</Dialogue>
@@ -1274,7 +1274,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>ความโลภ</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 ในการปะทะ หากเต๋าของผู้ชนะทอยได้จำนวนมากกว่าผู้แพ้ 4 หน่วยหรือมากกว่า ผู้แพ้ได้รับความเสียหายเพิ่มเติม 3-7 หน่วย และผู้ชนะฟื้นฟูHP 2-5 หน่วย (ทั้งบรรณารักษ์และฝ่ายตรงข้าม ได้รับผลจากความสามารถนี้ทั้งคู่)</AbilityDesc>
-      <FlaborText>The magical girl, who was no longer a magical girl, ate many things. Authority, money, fame, and many other forms of pleasure. She ended up eating away anything in her sight. Now, only visceral greed remains.</FlaborText>
+      <FlaborText>สาวน้อยเวทมนตร์ บัดนี้เธอไม่ใช่อีกต่อไปแล้ว เธอผู้กลืนกินทุกอย่าง อำนาจ ชื่อเสียง เงินตรา และ ตัญหาทุกๆรูปแบบ เธอกลืนกินทุกอย่างที่ขวางหน้า เป็นเพียงอสูรแห่งความโลภท่านั้น</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The gem fanned the starved greed.</Dialogue>
         <Dialogue ID="2">But greed seeks eternity—seeks deep, deep eternity.</Dialogue>
@@ -1287,10 +1287,10 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <Abnormality>The Servant of Wrath</Abnormality>
       <CardName>ความแค้น</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-บรรณารักษ์ที่เลือกจะเข้าสู่สถานะ 'เครียดแค้น'
+บรรณารักษ์ที่เลือกจะเข้าสู่สถานะ 'เคียดแค้น'
 คุณจะไม่สามารถควบคุมบบรรณารักา์คนนั้นได้ และเล็งเป้าไปที่ตัวละครแบบสุ่ม รวมถึงพันธมิตรด้วย
 นอกจากนั้น เขาจะได้รับ 2 กำลัง ฟื้นฟูแสง 2 หน่วย และจั่วเพจเพิ่มขึ้น 2 ใบเมื่อเข้าฉากจากนี้</AbilityDesc>
-      <FlaborText>The Servant was betrayed after abandoning her principles and ingenuously trusting someone with her whole heart. Now, she is dominated by the anger towards herself for what she had done.</FlaborText>
+      <FlaborText>The Servant ถูกหักหลังเพิ่งไม่นานหลังจากทิ้งเหตุผลทั้งมวลเพื่อเชื่อใจใครบางคนอย่างสุดหัวใจ ตอนนี้ มีเพียงความโกรธที่เธอมีต่อตนเองเท่านั้นที่หลงเหลืออยู่</FlaborText>
       <Dialogues>
         <Dialogue ID="1">GRRRR!!!</Dialogue>
         <Dialogue ID="2">UUUGH… AAARGH!!!</Dialogue>
@@ -1304,7 +1304,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>พวกพ้อง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อไม่มี 'พวกพ้อง' ทำให้ศัตรูคนแรกที่บรรณารักษ์คนนี้โจมตีนั้น เป็น'พวกพ้อง'เมื่อบรรณารักษ์คนนี้ฆ่าพวกพ้องได้ บรรณารักษ์ทุกคนฟื้นฟูแสง 3 หน่วยและฟื้นฟู HP กับ Stagger Resist 10 หน่วย</AbilityDesc>
-      <FlaborText>The Servant of Wrath valued justice and balance more than anyone, but she began sharing knowledge with the Hermit—an enemy of her realm—becoming friends with her in secret.</FlaborText>
+      <FlaborText>The Servant of Wrath ให้ค่าความเที่ยงธรรมและความเท่าเทียมมากกว่าใคร ทว่าเธอได้เริ่มแบ่งปันความรู้กับนักพรตผู้หนึ่ง ผู้เป็นศัตรูของดินแดนเธอ แล้วเป็นเพื่อนกับเธออย่างลับๆ</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Call me… Call my name…</Dialogue>
         <Dialogue ID="2">Friend… My friend… Those who need… each other…</Dialogue>
@@ -1319,7 +1319,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <AbilityDesc>[All Enemies]
 ติด 5 'กัดกร่อน' แก่ศัตรูทุกคน. ศัตรูจะได้รับ พันธนา เท่ากับจำนวน กัดกร่อน ที่พวกเขามีอีกด้วย
 (กัดกร่อน: เมื่อจบฉาก ได้รับดาเมจเท่ากับจำนวน กัดกร่อน และลบมันไป 1 หน่วย เมื่อถูกโจมตี ได้รับดาเมจและดาเมจStaggerเพิ่มเติมเท่ากับจำนวน กัดกร่อน ที่มี)</AbilityDesc>
-      <FlaborText>When the two met at last, the Hermit brought countless minions to destroy the Servant’s world.</FlaborText>
+      <FlaborText>เมื่อทั้งสองเจอกันเป็นครั้งสุดท้าย นักพรตนั้นพาเหล่าลูกสมุนมากมาย มาล้างบางโลกของThe Servant</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Balance crumbles, and justice vanishes…</Dialogue>
         <Dialogue ID="2">That’s why I lost; I fell to my beloved companion.</Dialogue>
@@ -1335,7 +1335,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
 เมื่อเริ่มฉาก Combat Page ที่คอสสูงสุดในมือ(ไม่สูงกว่า4) ถูกทำเครื่องหมายตราเวทมนตร์เอาไว้
 เมื่อแพ้การปะทะด้วยเพจดังกล่าว 4ครั้ง ได้รับ 5 เกราะทุกๆฉาก และสถานะทางลบจะไม่มีผลไปจนจบ Reception
 และเมื่อถูกโจมตี ติด 1 กัดกร่อนและเปราะบาง ในฉากหน้าแก่ผู้โจมตี (2 ครั้งต่อฉาก)</AbilityDesc>
-      <FlaborText>The jester retraced the steps of a path everybody would’ve taken. The jester always found itself at the end of that road. There was no way to know if they had gathered to become the jester, or if the jester had come to resemble them.</FlaborText>
+      <FlaborText>เจ้าตัวตลกเดินย้อนไปยังทางที่ทุกๆคนไป เจ้าตัวตลกมันจะพบกับทางตันเสมอ ไม่มีทางที่จะรู้เลยว่าพวกเขามารวมตัวกันเพื่อจะเป็นตัวตลก หรือเจ้าตัวตลกมายังที่นี่เพื่อจะเป็นพวกเขา</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Did you make me, or did I make you?</Dialogue>
         <Dialogue ID="2">I look just like them, and they look just like me when they’re together.</Dialogue>
@@ -1348,7 +1348,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เพิ่มเพจ 'จงกลับสู่ความว่างเปล่า' เข้าสู่มือ : ‘คอส 3 - [ใช้ครั้งเดียว;][เมื่อเริ่มการต่อสู้] สลายการ์ดบนมือทั้งหมด ทุกฉากต่อจากนี้ จะได้รับ กำลังและอึดทน เท่ากับจำนวนการ์ดที่สลายไปด้วยความสามารถนี้’
 เพจนี้จะถูกรวมเข้าไปในเด็คเมื่อเริ่มองก์ถัดไปด้วย</AbilityDesc>
-      <FlaborText>The jester was deeper in thought, that poor jester. Without the brave puppy to lead the way, it walks with meaningless steps.</FlaborText>
+      <FlaborText>เจ้าตัวตลกคิดอยู่นาน เจ้าตัวตลกผู้น่าสงสาร ไร้ซึ่งเจ้าหมาน้อยผู้กล้าที่จะคอยนำทาง เจ้าตัวตลกจึงต้องเดินไปอย่างไร้ความหมาย</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Where is the right path? Where do I go?</Dialogue>
         <Dialogue ID="2">I don’t know what awaits me ahead. Could it be a cliff, or a ditch?</Dialogue>
@@ -1361,8 +1361,8 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>ต้องห้าม</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เพจนี้จะมีผลได้ หากบรรณารักษ์มี Abnormality pages เหล่านี้ทั้งหมดเท่านั้น: 'ความโลภ', 'ความเกลียดชัง', 'ความสิ้นหวัง', และ 'ความแค้น'
-เมื่อเริ่มฉาก ติด อ่อนแรง,ตัดกำลัง,พันธนา 5 หน่วย แก่ตัวละครอื่นๆทุกตัว ลบข้อเสียของเพจ 'ความโลภ', 'ความเกลียดชัง', 'ความสิ้นหวัง', and 'ความแค้น' อย่างสิ้นเชิง</AbilityDesc>
-      <FlaborText>Having decided to trust its own intuition, the jester spake the names of everyone it had met on that path with each step it took.</FlaborText>
+เมื่อเริ่มฉาก ติด อ่อนแรง,ตัดกำลัง,พันธนา 5 หน่วย แก่ตัวละครอื่นๆทุกตัว ลบข้อเสียของเพจ 'ความโลภ', 'ความเกลียดชัง', 'ความสิ้นหวัง', และ 'ความแค้น' อย่างสิ้นเชิง</AbilityDesc>
+      <FlaborText>เมื่อตัดสินใจเชื่อในสัญชาตญาณของตนแล้ว เจ้าตัวตลกกล่าวชื่อของคนทุกคนที่มันเจอบนเส้นทางนั้น ในทุกก้าวที่มันเดิน</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Leading the way through foolishness, there’s not a thing to guide me.</Dialogue>
         <Dialogue ID="2">Blinded by carnal desires and jealousy, willingly walking to the edge of the cliff.</Dialogue>
@@ -1380,7 +1380,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <AbilityDesc>[พันธมิตรเดี่ยว]
 หลังเลือกเพจ เล็งศัตรูคนแรกที่โจมตีบรรณารักษ์ที่เลือกเอาไว้
 เมื่อโจมตีศัตรูดังกล่าว ทำดาเมจเพิ่มเติ่ม 2-6 หน่วย</AbilityDesc>
-      <FlaborText>The wolf’s death is the one and only thing I can love in my life.</FlaborText>
+      <FlaborText>การตายของไอ้หมาป่านั่น เป็นสิ่งเดียวในชีวิตที่ทำให้ฉันมีความสุขได้</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I’m a pro. I can handle that easily.</Dialogue>
         <Dialogue ID="2">Don’t take your eyes off it. Fix your sight upon its movement.</Dialogue>
@@ -1395,7 +1395,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>ชำระแค้น</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อเริ่มฉาก ได้รับ กำลัง โดยขึ้นอยู่กับดาเมจที่ได้รับในฉากที่แล้ว (1 กำลัง ต่อ 5 ดาเมจ, สูงสุด 2 ครั้ง)</AbilityDesc>
-      <FlaborText>Between us, there’s no victory to be won. All I think about is how I’ll kill that bastard in a way more gruesome and painful than the last time.</FlaborText>
+      <FlaborText>ระหว่างเราสอง มันไม่มีแพ้หรือชนะ สิ่งที่ฉันคิดมีแค่ว่า ฉันจะฆ่าแกยังไงให้เจ็บปวดและโหดร้ายกว่าครั้งก่อนมากที่สุด</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I’ve been grinding the blade to behead that damned wolf.</Dialogue>
         <Dialogue ID="2">Hand that dreadful, cunning bastard over to me.</Dialogue>
@@ -1409,7 +1409,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>รอยเฆี่ยนสีดินแดง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 หากHPของบรรณารักษ์ เป็น 50%/35%/25% หรือต่ำกว่า, ได้รับ 1/2/4 กำลัง ในแต่ละฉากจากนี้</AbilityDesc>
-      <FlaborText>I got used to grinding the axe instead of picking flowers when I was 15.</FlaborText>
+      <FlaborText>ฉันเหลาคมขวานแทนที่จะไปเก็บดอกไม้ ตั้งแต่ตอนที่ฉันอายุ 15</FlaborText>
       <Dialogues>
         <Dialogue ID="1">This isn’t a proud decoration of a survivor. It’s the proof of my will to live.</Dialogue>
         <Dialogue ID="2">The more scars you get, the stronger your will to survive becomes.</Dialogue>
@@ -1424,7 +1424,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <AbilityDesc>[พันธมิตรเดี่ยว]
 หลังจากบรรณารักษ์ได้รับดาเมจที่มากกว่า25% ของMax HPตน ในฉากหน้า จะไม่สามารถถูกเลือกเป็นเป้าหมาย และไม่สามารถปะทะได้
 และบรรณารักษ์ได้รับ 2 กำลัง ในฉากนี้ และเมื่อโจมตีสำเร็จแต่ละครั้ง ติด 1 เลือดไหล แก่เป้าหมาย </AbilityDesc>
-      <FlaborText>Once upon a time, these claws would cut open the bellies of numerous creatures and tear apart their guts.</FlaborText>
+      <FlaborText>กาลครั้งหนึ่งนานมาแล้ว กรงเล็บพวกนี้จะแหวกท้องของสิ่งมีชีวิตนับไม่ถ้วน แล้วฉีกไส้ในของพวกมันเป็นชิ้นๆ</FlaborText>
       <Dialogues>
         <Dialogue ID="1">What sharp claws I had, the better to fill the role I was born for…</Dialogue>
         <Dialogue ID="2">The wolf was born to do bad things and be punished accordingly…</Dialogue>
@@ -1439,7 +1439,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อใดหากบรรณารักษ์ที่เลือก ชนะการปะทะ เต๋าสุดท้ายในเพจปัจจุบันจะได้รับ พลัง เพิ่ม 1-2 หน่วย
 หากเต๋าสุดท้ายดังกล่าวโจมตีสำเร็จ ฟื้นฟู 3-7 HP</AbilityDesc>
-      <FlaborText>The taste of flesh was so good after such a long absence. Since then, it got harder and harder to keep himself in check. Still, it didn’t matter to him. After all, he was “destined” to be a big bad wolf.</FlaborText>
+      <FlaborText>หลังจากห่างหายไป รสชาติของเนื้อก็ยังคงเยี่ยมยอด ตั้งแต่นั้น นับวันการจะยับยั้งตัวเขาเองก็ยิ่งทำได้ยาก ถึงอย่างงั้น เขาก็ไม่ต้องสนใจ ยังไงซะ เขาก็ถูก'กำหนด'ให้เป็นหมาป่าใจร้ายอยู่แล้ว</FlaborText>
       <Dialogues>
         <Dialogue ID="1">This place reeks of an awful stench… It calls for me…</Dialogue>
         <Dialogue ID="2">Like the empty moon filled with darkness, my belly should be filled with meat…</Dialogue>
@@ -1454,7 +1454,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เต๋าโต้กลับ ได้รับ พลัง เพิ่ม 1-2 หน่วย
 เมื่อเต๋าโต้กลับชนะการปะทะ ติด 2 เปราะบางแก่เป้าหมาย (3 ครั้งต่อฉาก)</AbilityDesc>
-      <FlaborText>Wolves could not cross the line when doing bad things. And wolves had to be punished. Wolves always needed to be an example.</FlaborText>
+      <FlaborText>พวกหมาป่าเมื่อทำเรื่องแย่ มันจะล้ำเส้นไม่ได้ พวกหมาป่าจะต้องถูกลงโทษ พวกหมาป่าจะต้องเป็นตัวอย่างเสมอ.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Doesn’t matter… I’m destined to be a big bad wolf…</Dialogue>
         <Dialogue ID="2">Everyone called me that, so it must be true… Old tales are never wrong…</Dialogue>
@@ -1469,7 +1469,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
 <AbilityDesc>[พันธมิตรเดี่ยว]
 จนจบองก์นี้ เมื่อฆ่าศัตรูได้ ฟื้นฟูHP20% ของMax HPตน (สูงสุด 20)
 เมื่อเริ่มฉาก ได้รับ กำลัง โดยขึ้นอยู่กับจำนวนHP ที่บรรณารักษ์เคยฟื้นฟูมาในองก์นี้ทั้งหมด (1 กำลังต่อ 10%ของMax HPที่ฟื้นฟู, สูงสุด 3 กำลัง)</AbilityDesc>
-      <FlaborText>It only wants one thing: our flesh drenched in blood. Once it gets a whiff of the scent, it will pursue us in an instant.</FlaborText>
+      <FlaborText>มันต้องการแค่อย่างเดียว เนื้อของเราที่โชกไปด้วยเลือด ขอแค่มันได้ดมกลิ่นเพียงน้อยนิด มันจะเข้าถึงตัวพวกเราในพริบตา</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Meat… Tasty… me…at…</Dialogue>
         <Dialogue ID="2">The smell… this… way…</Dialogue>
@@ -1484,7 +1484,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อบรรณารักษ์ถูกโจมตีตอนที่HP ของตนเป็น50% หรือต่ำกว่า มีโอกาส50% ที่จะกรีดร้องคลื่นเสียงออกมา (สูงสุด 3 ครั้งต่อฉาก)
 การกรีดร้อง ทำดาเมจStaggerแก่ศัตรูทุกคน 2-5 หน่วย และติด 1 เปราะบาง แก่พวกเขาในฉากหน้า</AbilityDesc>
-      <FlaborText>From the mountains of bodies; the dead gave life to something. The dead fused with one another, all smiling.</FlaborText>
+      <FlaborText>จากภูเขาแห่งซากศพ มันปล่อยศพมีชีวิตออกมา ศพพวกนั้นรวมตัวเข้าด้วยกัน ยิ้มอย่างพร้อมเพียง</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Krrrh… Ghh… Grgh…</Dialogue>
         <Dialogue ID="2">We help… each other… Sharing with each other… our hands… and feet…</Dialogue>
@@ -1499,7 +1499,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
 <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อเลือกเพจนี้ บรรณารักษ์ทุกคนยกเว้นคนที่เลือก จะถูกฆ่าโดยทันที
 จนจบการต่อสู้ บรรณารักษ์ที่เลือกจะได้รับ จำนวนแสงสูงสุด,อัตราฟื้นแสง,กำลัง,เกราะ และว่องไว เป็นจำนวนเท่ากับบรรณารักษ์ที่ตายด้วยความสามารถข้างต้น</AbilityDesc>
-      <FlaborText>The more bodies it comes across, the more defined its shape becomes. And it is never satisfied.</FlaborText>
+      <FlaborText>ยิ่งมันได้รับศพมากเท่าไหร่ รูปร่างของมันก็ยิ่งเด่นชัดเท่านั้น มันยังไม่เคยหนำใจ</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Must… must become one… again…</Dialogue>
         <Dialogue ID="2">Must return… Must… hurry…</Dialogue>
@@ -1514,7 +1514,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อโจมตี ติด 1 เลือดไหล แก่เป้าหมายในฉากหน้า คุณได้รับ 1 โลหิต (ไม่นับการโจมตีหมู่)
 โลหิตจะให้ผลต่างๆขึ้นอยู่กับจำนวนของมัน เช่นทำดาเมจมากขึ้นแลกกับเสียHP, รับดาเมจStaggerเมื่อเริ่มฉาก, ได้รับ กำลัง เป็นต้น</AbilityDesc>
-      <FlaborText>He seemed lost. He was looking for something, but he didn’t appear to know what he wanted to find.</FlaborText>
+      <FlaborText>เขาเหมือนจะหลงทาง เขาเหมือนจะตามหาบางสิ่ง แต่ดูเหมือนเขาจะไม่รู้ว่าเขาจะตามหาอะไร</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Blood… I want vivid blood!</Dialogue>
         <Dialogue ID="2">A night when one is allowed to pursue all kinds of desire… A neverending, blood-red night.</Dialogue>
@@ -1527,7 +1527,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>ไวน์</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อฆ่าศัตรูที่ติดเลือดไหล พันธมิตรทุกคนฟื้นฟู 10 HP และบรรณารักษ์ที่เลือก ได้รับ โลหิต จำนวนสูงสุด</AbilityDesc>
-      <FlaborText>It maintains a human form, but a single drop of blood should be enough for it to shapeshift into a ferocious monster and spend the night in a rampage.</FlaborText>
+      <FlaborText>มันคงร่างเป็นมนุษย์ แต่แค่เลือดหนึ่งหยดก็มากพอ ที่มันจะแปลงร่างกลายเป็นอสูรกายอันน่าขนลุก แล้วออกอาลาวาดในยามราตรี</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Ah… Holding back the pain of this thirst is not exactly a pleasing sight to behold.</Dialogue>
         <Dialogue ID="2">It’s too early for a nap… Won’t you join me and share the pleasure?</Dialogue>
@@ -1540,7 +1540,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>ผีดูดเลือด</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เมื่อโจมตีเป้าหมายที่ติดเลือดไหล ฟื้นฟูHPตน 2-5 หน่วย และทำดาเมจเพิ่ม 2-4 หน่วย</AbilityDesc>
-      <FlaborText>…And the thirst would never truly be quenched.</FlaborText>
+      <FlaborText>ความกระหายนั้น ไม่อาจจางหายไปได้</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Death dances macabrely with everybody! All of you have a fair chance to be consumed!</Dialogue>
         <Dialogue ID="2">Time for a feast! Enjoy the blood-red night imbued with madness to your heart’s content!</Dialogue>
@@ -1551,10 +1551,10 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
     
     <AbnormalityCard ID="NothingThere_Goodbye">
       <Abnormality>Nothing There</Abnormality>
-      <CardName>ลาฮ้าฟสุดสวย</CardName>
+      <CardName>ลาก่อย</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 เต๋าสุดท้ายที่บรรณารักษ์ใช้ในฉาก จะเพิ่มพลังเป็น2เท่า</AbilityDesc>
-      <FlaborText>If it has been confirmed that it has escaped and stood on two feet, there is only one thing you can do. Straighten up your posture, gather your hands neatly, and pray to whatever you believe in and observe the situation as it unfolds.</FlaborText>
+      <FlaborText>"หากยืนยันได้แล้วว่ามันหลุดออกมาจากการกักกันแบบยืนสองขา อย่างเดียวที่คุณสามารถทำได้ก็คือ ยืนตรงพนมมือ ขอพรสิ่งศักดิ์สิทธิ์ที่คุณนับถือ แล้วรอเฝ้ามองสิ่งที่จะเกิดขึ้นต่อไป"</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Help…me… Hel… HELP ME!!!</Dialogue>
         <Dialogue ID="2">Is anyone… nyone… there?! ANYONE THERE!!!</Dialogue>
@@ -1564,10 +1564,10 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
     </AbnormalityCard>
     <AbnormalityCard ID="NothingThere_Hello">
       <Abnormality>Nothing There</Abnormality>
-      <CardName>หวัดดีฮ้าฟ?</CardName>
+      <CardName>หวัดดี?</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 ในทุกๆฉาก เต๋าแรกที่บรรณารักษ์ใช้ จะฟื้นฟูHP เท่ากับดาเมจที่มันทำได้</AbilityDesc>
-      <FlaborText>“What’s worse, it tried to mimic humans. Doing stuff like looking into a mirror, mumbling to itself, or trying to fix its skeletal structure; it’s as if it was trying to mimic ‘us’.”</FlaborText>
+      <FlaborText>“ที่แย่กว่าก็คือ มันพยายามเลียนแบบมนุษย์ อย่างเช่นการมองกระจก พึมพำกับตัวเอง และเปลี่ยนโครงสันหลังของมัน ยังกับว่ามันกำลังเลียนแบบ'พวกเรา'เลย”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Mon… ster. That… mons… ter… That monster… why is it here…</Dialogue>
         <Dialogue ID="2">…er!!! …ger!!! Save… me!</Dialogue>
@@ -1580,7 +1580,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>เปลือก</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 ลบล้างดาเมจStagger จากการโจมตีอย่างสิ้นเชิง</AbilityDesc>
-      <FlaborText>Its appearance resembles a human, but it most certainly isn’t human. It periodically devours employees and wears their shell. The skeleton and organs are misplaced during the process, so it takes a bizarre form.</FlaborText>
+      <FlaborText>รูปทรงร่างของมันดูเหมือนมนุษย์ แต่มันไม่ใช่อย่างแน่นอน มันมักที่จะกลืนกินพนักงานของเราเข้าไป แล้วสวมใส่หนังของพวกเขา ระหว่างขั้นตอน โครงกระดูกแล้วอวัยวะสลับกันหลายจุด ร่างกายของมันจึงดูแปลกประหลาด</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Love… Lo… ou… I love you…</Dialogue>
         <Dialogue ID="2">Want… a shell… Shell…</Dialogue>
