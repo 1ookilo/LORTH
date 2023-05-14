@@ -1,4 +1,4 @@
-<?xml version="10" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <BattleCardAbility ID="exhaust">
     <Desc>Page นี้จะสลาย เมื่อถูกใช้</Desc>
@@ -340,7 +340,7 @@
   <!-- Gaze Office -->
   <!-- card ability -->
   <BattleCardAbility ID="costDown1self">
-    <Desc>[เมื่อใช้] ลดคอสของ Page นี้ลง 1 (สูงสุด 2 ครั้ง)</Desc>
+   <Desc>[เมื่อใช้] ลดคอสของ Page นี้ลง 1 (สูงสุด 2 ครั้ง)</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="cardPowerDown1target">
     <Desc>[เมื่อเริ่มการปะทะ] ลดพลังของลูกเต๋าทั้งหมดของเป้าหมายลง 1</Desc>
@@ -360,13 +360,13 @@
     <Desc>[เมื่อใช้] ทำดาเมจ 7 ดาเมจใส่ตนเอง; ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +2</Desc>
   </BattleCardAbility>
 
-  <!--ศัตรู only -->
+  <!-- enemy only -->
   <BattleCardAbility ID="tomerryReady">
     <Desc>[เมื่อใช้] ได้รับกำลัง 5 จำนวนในฉากถัดไป; เตรียมท่าโจมตีใหญ่ในฉากถัดไป; รับดาเมจ Stagger มากขึ้นระหว่างเตรียมการ</Desc>
   </BattleCardAbility>
 
   <!-- dice ability -->
-  <!--ศัตรู only -->
+  <!-- enemy only -->
   <BattleCardAbility ID="lovetownPower">
     <Desc>ได้รับพลัง +10 ถ้าโจมตีฝ่ายเดียว</Desc>
   </BattleCardAbility>
