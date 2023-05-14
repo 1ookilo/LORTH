@@ -2149,64 +2149,64 @@
           <Content>ยังไงก็ยินดีกับเธอด้วย น่าจะมีทางเลือกให้เธอมากขึ้นเมื่อได้เลื่อนเป็นฟิกเซอร์เกรด 8 แล้ว</Content>
         </Dialog>
         <Dialog ID="6" model="에리">
-          <Teller>Eri</Teller>
+          <Teller>อีริ</Teller>
           <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep3_eri3</VoiceFile>
           <Content>ใช่แล้ว ดังนั้นนายควรระวังให้ดี ถ้านายจ่ายให้ฉันไม่ดีพอ ฉันอาจย้ายไปสำนักงานอื่นก็ได้นะ</Content>
         </Dialog>
         <Dialog ID="7" model="에리">
-          <Teller>Eri</Teller>
+          <Teller>อีริ</Teller>
           <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep3_eri4</VoiceFile>
-          <Content>ฉันได้ยินมาว่านายจ่ายหนี้ในทุกวันนี้ก็แทบจะไม่ไหวแล้วนะ แถมค่าเช่ารายเดือนพื้นที่สำนักงานนี้อีก ฉันพูดถูกไหม?</Content>
+          <Content>ฉันได้ยินมาว่านายจ่ายหนี้ในทุกวันนี้ก็แทบจะไม่ไหวอยู่แล้วนะ แถมยังมีค่าเช่าพื้นที่สำนักงานอีก ฉันพูดถูกไหม?</Content>
         </Dialog>
         <Dialog ID="8" model="윤">
           <Teller>ยุน</Teller>
           <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun5</VoiceFile>
-          <Content>…I believe the case I had Finn handle could make a breakthrough.</Content>
+          <Content>…ฉันเชื่อว่าเรื่องนี้ ฉันให้ฟินน์จัดการอาจทำให้พบคำตอบที่สำคัญได้</Content>
         </Dialog>
         <Dialog ID="9" model="에리">
-          <Teller>Eri</Teller>
+          <Teller>อีริ</Teller>
           <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep3_eri5</VoiceFile>
-          <Content>You mean the Library and the invitation you talked about earlier.</Content>
+          <Content>นายหมายถึงห้องสมุดและคำเชิญที่พูดถึงก่อนหน้านี้สินะ</Content>
         </Dialog>
         <Dialog ID="10" model="에리">
-          <Teller>Eri</Teller>
+          <Teller>อีริ</Teller>
           <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep3_eri6</VoiceFile>
-          <Content>But you said the invitation appears randomly, no? How are you going to get another one?</Content>
+          <Content>แต่นายเคยบอกว่าคำเชิญจะปรากฏขึ้นแบบสุ่ม ไม่ใช่หรอ? นายไปเอามันมายังไงล่ะ?</Content>
         </Dialog>
         <Dialog ID="11" model="윤">
           <Teller>ยุน</Teller>
           <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun6</VoiceFile>
-          <Content>I wouldn’t have called you if I didn’t have certainty. I recently received another invitation.</Content>
+          <Content>ถ้าฉันไม่มั่นใจฉันก็คงไม่ได้เรียกเธอมาหรอก ฉันได้รับคำเชิญอีกอันเมื่อไม่นานมานี้</Content>
         </Dialog>
         <Dialog ID="12" model="에리">
-          <Teller>Eri</Teller>
+          <Teller>อีริ</Teller>
           <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep3_eri7</VoiceFile>
-          <Content>Hmm. Is that so?</Content>
+          <Content>หืมม เป็นอย่างงี้นี้เอง?</Content>
         </Dialog>
         <Dialog ID="13" model="윤">
           <Teller>ยุน</Teller>
           <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun7</VoiceFile>
-          <Content>The existence of our Office depends on this case.</Content>
+          <Content>ความเป็นอยู่ของสำนักงานของเราขึ้นอยู่กับเรื่องนี้แล้ว</Content>
         </Dialog>
         <Dialog ID="14" model="윤">
           <Teller>ยุน</Teller>
           <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun8</VoiceFile>
-          <Content>The Library is sure to be profitable. I have a hunch. So we’re giving it everything we have.</Content>
+          <Content>ห้องสมุดต้องทำกำไรได้อย่างแน่นอน ฉันรู้สึกได้แบบนั้น ดังนั้นเรากำลังใช้ทุกสิ่งที่เรามีเพื่อให้ได้มัน</Content>
         </Dialog>
         <Dialog ID="15" model="에리">
-          <Teller>Eri</Teller>
+          <Teller>อีริ</Teller>
           <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep3_eri8</VoiceFile>
-          <Content>Aight, let’s roll in some dough! I just bought this lovely thing here from a workshop, too.</Content>
+          <Content>เอาล่ะ เราไปทำเงินกันเถอะ! ฉันเพิ่งถอยเจ้าของรักเนี้ยมาจากโรงงานสดๆร้อนๆเลยด้วย</Content>
         </Dialog>
       </Place>
       <Place>
@@ -2272,7 +2272,7 @@
           <Content>You must be the owner of this place.</Content>
         </Dialog>
         <Dialog ID="26" model="에리">
-          <Teller>Eri</Teller>
+          <Teller>อีริ</Teller>
           <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep3_eri9</VoiceFile>
           <Content>She doesn’t even look that strong.</Content>
@@ -2290,7 +2290,7 @@
           <Content>Ah, that one has become a book.</Content>
         </Dialog>
         <Dialog ID="29" model="에리">
-          <Teller>Eri</Teller>
+          <Teller>อีริ</Teller>
           <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep3_eri10</VoiceFile>
           <Content>I see, so you turn into a book if you die here~</Content>
