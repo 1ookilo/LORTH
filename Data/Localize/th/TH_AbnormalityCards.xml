@@ -35,7 +35,7 @@
       <Abnormality>Scorched Girl</Abnormality>
       <CardName>ไฟไม้ขีด</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Combat Page 2 อันที่ใช้หลังเลือกAbnormality pageนี้ จะได้รับสถานะ 'ไฟไม้ขีด'(ไม่รวมเพจประเภท[เมื่อใช้เพจ]) เมื่อใดที่บรรณารักษ์ใช้เพจดังกล่าว จะได้รับ 1 'เศษเถ้า'
+Combat Page 2 อันที่ใช้หลังเลือกAbnormality pageนี้ จะได้รับสถานะ 'ไฟไม้ขีด'(ไม่รวมเพจประเภท[เมื่อเล่น]) เมื่อใดที่บรรณารักษ์ใช้เพจดังกล่าว จะได้รับ 1 'เศษเถ้า'
 เพจที่มีสถานะ'ไฟไม้ขีด'จะแข็งแกร่งขึ้นตามจำนวนเศษเถ้าที่มีอยู่ ทว่าหากมีเศษเถ้า4อันหรือมากกว่า เมื่อใช้เพจ'ไฟไม้ขีด' มีโอกาส 25%ที่จะทำดาเมจแก่ผู้ใช้ด้วย</AbilityDesc>
       <FlaborText>“ก็นะ เธอดูเหมือนกับระเบิดเวลาที่เดินอยู่ ไม่มีใครรู้ว่าเธออารมณ์ดีอยู่หรือไม่”</FlaborText>
       <Dialogues>
@@ -67,7 +67,7 @@ Combat Page 2 อันที่ใช้หลังเลือกAbnormality 
       <Abnormality>Happy Teddy Bear</Abnormality>
       <CardName>ความทรงจำแสนสุข</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Combat Pageที่มีคอสเยอะที่สุดจะถูกเลือก(ยกเว้นเพจประเภท[เมื่อใช้เพจ]) เมื่อใช้เพจดังกล่าวหรือเพจที่มีชื่อเดียวกัน จะลดคอสของเพจชื่อนั้นทั้งหมดของตัวละครไป 1 </AbilityDesc>
+Combat Pageที่มีคอสเยอะที่สุดจะถูกเลือก(ยกเว้นเพจประเภท[เมื่อเล่น]) เมื่อเล่นดังกล่าวหรือเพจที่มีชื่อเดียวกัน จะลดคอสของเพจชื่อนั้นทั้งหมดของตัวละครไป 1 </AbilityDesc>
       <FlaborText>แต่ว่านะ ตุ๊กตาหมีจะไม่อยากห่างจากเจ้าของของมันแม้แต่นิดเดียว</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Why are you trying to leave me? We were such good friends…</Dialogue>
@@ -497,7 +497,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <Abnormality>Today’s Shy Look</Abnormality>
       <CardName>ความเขินอาย</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-เมื่อใช้เพจเต๋าป้องกันทุกลูกในเพจนั้นได้รับพลังเท่ากับจำนวนเต๋าตั้งรับทุกลูกในเพจดังกล่าง</AbilityDesc>
+เมื่อเล่นเต๋าป้องกันทุกลูกในเพจนั้นได้รับพลังเท่ากับจำนวนเต๋าตั้งรับทุกลูกในเพจดังกล่าง</AbilityDesc>
       <FlaborText>การที่ใครสักคนไม่กล้าเปิดหน้าก็คงเป็นความเขินรูปแบบหนึ่ง เมื่ออารมณ์เกิดความสั่นทอนเป็นเวลานานๆ การปิดหน้าจึงเป็นตัวเลือกที่ง่ายกว่า</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I’m just shy, that’s all. Just shy…</Dialogue>
@@ -632,7 +632,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <Abnormality>Laetitia</Abnormality>
       <CardName>เพื่อนจ๋า</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-เมื่อเริ่มฉาก แอบเอา 'เพื่อนจ๋า' ไปใส่ใน Combat Page 1ใบในมือของคุณ (ยกเว้นเพจประเภท[เมื่อใช้เพจ])
+เมื่อเริ่มฉาก แอบเอา 'เพื่อนจ๋า' ไปใส่ใน Combat Page 1ใบในมือของคุณ (ยกเว้นเพจประเภท[เมื่อเล่น])
 หากมีเพจที่เป็น'เพื่อนจ๋า'อยู่แล้ว ความสามารถข้างต้นจะไม่ทำงาน
 เพจที่เป็น'เพื่อนจ๋า' จะได้รับพลังบวก 2-4 หน่วย
 ทว่า หากไม่ใช้เพจดังกล่าวภายใน 2 ฉาก สลายเพจนั้นจากการต่อสู้ ทำดาเมจ 2-7 หน่วยแก่บรรณารักษ์</AbilityDesc>
@@ -769,7 +769,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <Abnormality>Child of the Galaxy</Abnormality>
       <CardName>ก้อนกรวด</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-เมื่อเริ่มแต่ละฉากจากนี้ เพจสามใบบนมือแบบสุ่ม จะติดสถานะ 'ก้อนกรวด' (ยกเว้นเพจประเภท[เมื่อใช้เพจ])
+เมื่อเริ่มแต่ละฉากจากนี้ เพจสามใบบนมือแบบสุ่ม จะติดสถานะ 'ก้อนกรวด' (ยกเว้นเพจประเภท[เมื่อเล่น])
 เมื่อใช้เพจที่ติดก้อนกรวด ฟื้นฟู 3-7 HP
 เมื่อใช้เพจที่ไม่ติดก้อนกรวด เสีย 1-3 HP</AbilityDesc>
       <FlaborText>“เธอชอบมันไหม? มากกว่าชอบฉันรึเปล่า? มันแน่อยู่แล้วนี่? ฉันรู้ทุกอย่าง ไม่ว่าเธอจะทำอะไร จะไปที่ไหน”</FlaborText>
@@ -1580,7 +1580,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <CardName>เปลือก</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 ลบล้างดาเมจStagger จากการโจมตีอย่างสิ้นเชิง</AbilityDesc>
-      <FlaborText>รูปทรงร่างของมันดูเหมือนมนุษย์ แต่มันไม่ใช่อย่างแน่นอน มันมักที่จะกลืนกินพนักงานของเราเข้าไป แล้วสวมใส่หนังของพวกเขา ระหว่างขั้นตอน โครงกระดูกแล้วอวัยวะสลับกันหลายจุด ร่างกายของมันจึงดูแปลกประหลาด</FlaborText>
+      <FlaborText>รูปทรงร่างของมันดูเหมือนมนุษย์ แต่มันไม่ใช่อย่างแน่นอน มันมักที่จะกลืนกินพนักงานของเราเข้าไป แล้วสวมใส่หนังของพวกเขา ระหว่างขั้นตอน โครงกระดูกแล้วอวัยวะสลับกันหลายจุด ร่างกายของมันจึงจะดูแปลกประหลาด</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Love… Lo… ou… I love you…</Dialogue>
         <Dialogue ID="2">Want… a shell… Shell…</Dialogue>
@@ -1594,10 +1594,10 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
   <Sephirah SephirahType="Chesed">
     <AbnormalityCard ID="ScareCrow_Wisdom">
       <Abnormality>Scarecrow Searching for Wisdom</Abnormality>
-      <CardName>Torn Off Wisdom</CardName>
+      <CardName>กระชากปัญญา</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Whenever the librarian uses a page, discard a random page from hand and restore 1 Light. (Excludes [On Play] pages)</AbilityDesc>
-      <FlaborText>When he returned, he had a visibly long scar on his head. People asked him how he felt, and he responded that his head felt lighter.</FlaborText>
+เมื่อใดที่บรรณารักษ์นั้นใช้เพจ ทิ้งเพจแบบสุ่มหนึ่งใบในมือ และฟื้นฟู 1 แสง (ไม่นับเพจประเภท[เมื่อเล่น])</AbilityDesc>
+      <FlaborText>เมื่อเขากลับมา มีแผลเป็นขนาดใหญ่อยู่ที่หัวของเขา ทุกๆคนถามเขาว่าเขารู้สึกยังไง เขาตอบกลับว่าหัวของเขารู้สึกโล่งไปหมด</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Wisdom… Give me the wisdom I lack…</Dialogue>
         <Dialogue ID="2">My head is all empty… I’m just a dowdy pile of hay…</Dialogue>
@@ -1609,10 +1609,10 @@ Whenever the librarian uses a page, discard a random page from hand and restore 
     
     <AbnormalityCard ID="Scarecrow_Harvest">
       <Abnormality>Scarecrow Searching for Wisdom</Abnormality>
-      <CardName>Gleaning</CardName>
+      <CardName>เก็บสะสม</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-After attacking an enemy with a higher amount of Stagger Resist, deal 2-4 bonus Stagger damage, and recover 2-5 Stagger Resist.(Excludes Mass Attacks)</AbilityDesc>
-      <FlaborText>It shows aggression towards certain employees, attempting to take their brains. These employees are those who scored “Excellent” on the intelligence test.</FlaborText>
+หลังจากโจมตีศัตรูที่มีStagger Resist มากที่สุดในการต่อสู้ ทำดาเมจStagger เพิ่มเติม 2-4 หน่วย และคุณฟื้นฟู 2-5 Stagger Resist (ไม่นับการโจมตีหมู่)</AbilityDesc>
+      <FlaborText>มันดูจะก้าวร้าวจ่อพนักงานบางคนเป็นพิเศษ โดยพยายามที่จะเอาสมองพวกเขา พนักงานเหล่านี้มักได้รับผล "ดีเยี่ยม" ในการทดสอบความฉลาด</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I feel much smarter… I can know anything now…</Dialogue>
         <Dialogue ID="2">Good… Very good… I’ll be smarter the more I eat, right…?</Dialogue>
@@ -1622,12 +1622,12 @@ After attacking an enemy with a higher amount of Stagger Resist, deal 2-4 bonus 
     
     <AbnormalityCard ID="Scarecrow_Rake">
       <Abnormality>Scarecrow Searching for Wisdom</Abnormality>
-      <CardName>Rake</CardName>
+      <CardName>คราด</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-After Staggering an enemy, copy two pages owned by that enemy and add them to the librarian's hand with 2 less Cost.
-The copied pages are exhausted on use.
-(Can only copy Melee pages while equipping a Melee-only Key page, and vice versa; no effect against characters with 'Shimmering')</AbilityDesc>
-      <FlaborText>The rake tilled the human brain instead of farmland. How many of the wise people among us have lost their lives to this rake?</FlaborText>
+เมื่อทำให้ศัตรูStagger คัดลอกเพจ 2 ใบที่ศัตรูเป็นเจ้าของ เพิ่มเข้ามาในมือของบรรณารักษ์พร้อมกับลดคอส 2 หน่วย
+เพจเหล่านี้จะถูกสลายเมื่อใช้งาน
+(หากสวมใส่เพจ 'เฉพาะระยะใกล้' จะคัดลอกได้เฉพาะเพจระยะใกล้เท่านั้น เพจระยะไกลก็ทำในทางกลับกัน พลังนี้ไม่ได้ผลกับตัวละครที่มี 'ประกายแสง')</AbilityDesc>
+      <FlaborText>คราดนั้นพรวนสมองคน แทนที่จะเป็นไร่นา มีผู้มากปัญญารอบตัวเราสักกี่คนแล้วนะที่เสียชีวิตไปกับคราดอันนี้?</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I’ll scrape your wisdom…</Dialogue>
         <Dialogue ID="2">I want to be smart like the others…</Dialogue>
@@ -1637,10 +1637,10 @@ The copied pages are exhausted on use.
     
     <AbnormalityCard ID="LumberJack_Cut">
       <Abnormality>Warm-hearted Woodsman</Abnormality>
-      <CardName>A Warm Heart</CardName>
+      <CardName>ใจอบอุ่น</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-At the start of the Scene, boost the Power of Offensive dice by +1-2 for the Scene if the librarian has 3 or more Light.</AbilityDesc>
-      <FlaborText>In anger, he swung his axe through the wizard’s heart. The warm heart was pulsing vigorously.</FlaborText>
+เมื่อเริ่มฉาก หากบรรณารักษ์มีแสง 3 หน่วยหรือมากกว่า เพิ่มพลังเต๋าโจมตี 1-2 หน่วย</AbilityDesc>
+      <FlaborText>ด้วยความโกรธ เขาเหวียงขวานไปตัดผ่านหัวใจของพ่อมด หัวใจแสนอบอุ่นกำลังเต้นอย่างรุนแรง</FlaborText>
       <Dialogues>
         <Dialogue ID="1">This is… how it feels to have a thumping heart…</Dialogue>
         <Dialogue ID="2">The louder the heart echoes… the faster I move…</Dialogue>
@@ -1651,10 +1651,10 @@ At the start of the Scene, boost the Power of Offensive dice by +1-2 for the Sce
     
     <AbnormalityCard ID="LumberJack_Tree">
       <Abnormality>Warm-hearted Woodsman</Abnormality>
-      <CardName>Timber</CardName>
+      <CardName>ไม้</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-When attacking a target that has more Light than the librarian, Offensive dice gain Power equal to the amount of Light the target has. (Up to 2)</AbilityDesc>
-      <FlaborText>This is a forest full of hearts. No matter how many he cuts down, the forest still remains dense.</FlaborText>
+เมื่อโจมตีเป้าหมายที่มีแสงมากกว่าบรรณารักษ์ เต๋าโจมตีเพิ่มพลังเท่ากับจำนวนแสงที่เป้าหมายมี (เพิ่มสูงสุด 2)</AbilityDesc>
+      <FlaborText>นี้คือป่าที่เต็มไปด้วยหัวใจ ไม่ว่าเขาจะโค่นต้นไม่ไปเท่าไร ป่าไม้ก็ยังคงทึบเช่นเดิม</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I chop, and chop… Yet the forest remains dense…</Dialogue>
         <Dialogue ID="2">I want to be warm… I need something stronger…</Dialogue>
@@ -1665,12 +1665,12 @@ When attacking a target that has more Light than the librarian, Offensive dice g
     
     <AbnormalityCard ID="LumberJack_Heart">
       <Abnormality>Warm-hearted Woodsman</Abnormality>
-      <CardName>Cardiae</CardName>
+      <CardName>ในหัวใจ</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-After dealing 15 or more damage to enemies in a single Scene, reduce the Cost of the two most expensive pages in hand by 1.
-On kill, reduce the Cost to 0 instead.
-The Cost reduction is reset when the pages are used.</AbilityDesc>
-      <FlaborText>There will never be enough hearts. Once a Woodsman, he now fells people instead of trees.</FlaborText>
+เมื่อทำดาเมจในฉากเดียว 15 หน่วยหรือมากกว่า ลดคอสของเพจ 2 ใบ ที่แพงที่สุดในมือไป 1 หน่วย
+หากได้ฆ่า ลดคอสให้กลายเป็น 0 แทน
+เมื่อเล่นดังกล่าวไป คอสของมันจะกลับเป็นดั่งเดิม</AbilityDesc>
+      <FlaborText>หัวใจไม่เคยมีเพียงพอสำหรับเขา ครั้งหนึ่งเคยเป็นนักตัดไม้ กลับกลายเป็นนักโค่นคนเสียแล้วOnce a Woodsman, he now fells people instead of trees.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I require an object… to fill this empty void…</Dialogue>
         <Dialogue ID="2">I do not want to feel this empty and lonely feeling anymore…</Dialogue>
@@ -1681,10 +1681,10 @@ The Cost reduction is reset when the pages are used.</AbilityDesc>
 
    <AbnormalityCard ID="House_LionAtk">
       <Abnormality>The Road Home</Abnormality>
-      <CardName>Courage</CardName>
+      <CardName>กล้าหาญ</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-At the start of the Scene, gain Strength and Protection equal to the number of allies currently alive subtracted by 2. (If the value is less than 0, Feeble and Fragile will be inflicted instead.)</AbilityDesc>
-      <FlaborText>Can I follow you forever? So I can tear them apart…</FlaborText>
+เมื่อเริ่มฉาก ได้รับ กำลัง และ เกราะ เท่ากับจำนวนพันธมิตรที่มีชีวิตอยู่ หาร 2 (หากพันธมิตรเป็น 0 จะได้รับ อ่อนแรง และ เปราะบาง แทน)</AbilityDesc>
+      <FlaborText>ขอตามเธอไปตลอดกาลเลยได้ไหม? ฉันจะได้ฉีกพวกมันเป็นชิ้นๆ</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Friend. I have nothing to fear when I have you around!</Dialogue>
         <Dialogue ID="2">We set off with everyone~ Dancing along the road!</Dialogue>
@@ -1695,11 +1695,11 @@ At the start of the Scene, gain Strength and Protection equal to the number of a
     
     <AbnormalityCard ID="House_BigHouse">
       <Abnormality>The Road Home</Abnormality>
-      <CardName>Home</CardName>
+      <CardName>บ้าน</CardName>
       <AbilityDesc>[พันธมิตรทุกคน]
-At the start of the Scene, numbered targets are placed on up to 3/2/2/1/1 enemies, depending on the number of allies currently alive.
-Each time a target is attacked in the correct order, increase outgoing damage by 3 for the Scene.</AbilityDesc>
-      <FlaborText>Unable to ever go back home, they began an endless journey.</FlaborText>
+เมื่อเริ่มฉาก จะนำหมายเลขจากน้อยไปมาก ไปกำหนดที่ศัตรูจำนวน 3/2/2/1/1 คน ขึ้นอยู่กับจำนวนเพื่อนที่มีชีวิตอยู่ 5/4/3/2/1 คน
+ทุกครั้งที่โจมตีศัตรูได้ตามลำดับที่ถูกต้อง เพิ่มดาเมจที่ทำได้ไป 3 หน่วย ถาวรจนจบฉาก</AbilityDesc>
+      <FlaborText>ในเมื่อไม่อาจกลับบ้านได้ พวกเขาจึงเริ่มต้นการเดินทางที่ไร้จุดจบ</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Don’t bother us! Let us go home in peace!</Dialogue>
         <Dialogue ID="2">Ah~ That wizard! That wicked wizard!</Dialogue>
@@ -1710,10 +1710,10 @@ Each time a target is attacked in the correct order, increase outgoing damage by
     
     <AbnormalityCard ID="House_Home">
       <Abnormality>The Road Home</Abnormality>
-      <CardName>A Road Walked Together</CardName>
+      <CardName>เส้นทางที่เราร่วมเดิน</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-If an ally redirects an attack that was initially targeting this character, dice on that ally's page gain 1-2 Power in the clash.</AbilityDesc>
-      <FlaborText>Let’s walk together. To a wonderful land… The world of dreams.</FlaborText>
+หากพันธมิตรหันเหการโจมตีที่แต่แรกควรจะเล็งมาที่บรรณารักษ์คนนี้ เพจของพันธมิตรดังกล่างจะบวกพลัง 1-2 หน่วยเมื่อเข้าปะทะ</AbilityDesc>
+      <FlaborText>เดินไปด้วยกันเถอะ สู่ดินแดนมหัศจรรย์... สู่โลกในความฝัน</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I was sound asleep, then the adventure suddenly began.</Dialogue>
         <Dialogue ID="2">Hoyoyo~ Let’s go, together~!</Dialogue>
@@ -1724,11 +1724,11 @@ If an ally redirects an attack that was initially targeting this character, dice
     
     <AbnormalityCard ID="Ozma_Boom">
       <Abnormality>Ozma</Abnormality>
-      <CardName>Power of the Past</CardName>
+      <CardName>พลังแห่งวันวาน</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Increase the Cost of Combat Pages by 1.
-All dice gain 3-4 Power.</AbilityDesc>
-      <FlaborText>Ozma held the pumpkin-carving knife, then took off running towards where the lady wizard should be.</FlaborText>
+เพิ่มค่าคอสของ Combat Page ทุกอัน 1 หน่วย
+เต๋าทุกลูกเพิ่มพลัง 3-4 หน่วย</AbilityDesc>
+      <FlaborText>Ozma กำลังถือมีดแกะสลัก และเริ่มออกวิ่งไปยังที่ที่พ่อมดหญิงควรจะอยู่</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I’m Ozma… A single person took everything away from me…</Dialogue>
         <Dialogue ID="2">I don’t want to live a life of being thieved any longer…</Dialogue>
@@ -1739,11 +1739,11 @@ All dice gain 3-4 Power.</AbilityDesc>
     
     <AbnormalityCard ID="Ozma_forgotten">
       <Abnormality>Ozma</Abnormality>
-      <CardName>Oblivion</CardName>
+      <CardName>ลืมเลือน</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Add an 'Oblivion' page to hand: ‘Cost 3 - [Single-use;][On Play] Immobilized for this Scene; cannot be targeted. At the end of this Scene, recover 40% of Max. HP (up to 48) and fully restore Light.’
-The page is also included in the deck at the start of subsequent Acts.</AbilityDesc>
-      <FlaborText>There was such a fine and beautiful person, staring at her with a perplexed expression.</FlaborText>
+เพิ่มเพจ 'ลืมเลือน' เข้าสู่มือ: ‘คอส 3 - [ใช้ครั้งเดียว][เมื่อเล่น] หมดสภาพทันทีในฉากนี ถูกเล็งเป็นเป้าหมายไม่ได้ เมื่อจบฉาก ฟื้นฟูHPเป็น40% ของMax HP (สูงสุด 48) และฟื้นฟูแสงทั้งหมด’
+เพจนี้จะถูกรวมเข้าไปในเด็คเมื่อเริ่มองก์ถัดไปด้วย</AbilityDesc>
+      <FlaborText>ช่างเป็นผู้ที่งดงามทั้งกายใจ จ้องมองเธอด้วยสีหน้ามึนงง.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Why did I trust a stranger so naively… Why…</Dialogue>
         <Dialogue ID="2">I haven’t even touched my face… I was so afraid…</Dialogue>
@@ -1754,10 +1754,10 @@ The page is also included in the deck at the start of subsequent Acts.</AbilityD
     
     <AbnormalityCard ID="Ozma_Immortal">
       <Abnormality>Ozma</Abnormality>
-      <CardName>Powder of Life</CardName>
+      <CardName>ผงแห่งชีวิต</CardName>
       <AbilityDesc>[พันธมิตรทุกคน]
-When a librarian takes lethal damage, nullify it and recover 20% of Max. HP (up to 24). Can only activate once per reception.</AbilityDesc>
-      <FlaborText>Finally, she sprinkled cinnamon powder—her favorite—and clutched the pumpkin in her arms.</FlaborText>
+เมื่อบรรณารักษ์ได้รับดาเมจถึงตาย ลบล้างดาเมจทั้งหมด และบรรณารักษ์ฟื้นฟูHPเป็น20% ของMax HP (สูงสุด 24) ออกผลเพียง 1 ครั้ง ต่อ Reception</AbilityDesc>
+      <FlaborText>ในที่สุด เธอโปรยผงชินนาม่อนที่เธอชื่นชอบ แล้วคว้าเจ้าฟักทองเข้ามาอยู่ในมือเธอ</FlaborText>
       <Dialogues>
         <Dialogue ID="1">All I have left now… are these children.</Dialogue>
         <Dialogue ID="2">Here, child… I’ll give you new life.</Dialogue>
@@ -1768,11 +1768,11 @@ When a librarian takes lethal damage, nullify it and recover 20% of Max. HP (up 
     
     <AbnormalityCard ID="Oz_Emerald">
       <Abnormality>The Adult who Tells Lies</Abnormality>
-      <CardName>Emerald</CardName>
+      <CardName>มรกต</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Add an 'Emerald' page to hand: ‘Cost 5 - [On Play;] [Target Enemy] Cancel 2 random Combat Pages on the target's Speed dice. Recover 1 Light for each successful hit on the target this Scene (Up to 2)’.
-The page is also included in the deck at the start of subsequent Acts.</AbilityDesc>
-      <FlaborText>Oz came up with a brilliant idea. Her emerald eyes seemed to shine even brighter.</FlaborText>
+เพิ่มเพจ 'มรกต' เข้าสู่มือ: ‘คอส 5 - [เมื่อเล่น] [เลือกเป้าเป็นศัตรู] ยกเลิก Combat Pages 2 ใบแบบสุ่มที่อยู่บนลูกเต๋าความเร็วของเป้าหมาย ฟื้นฟู 1 แสง เมื่อโจมตีศัตรูดังกล่าวสำเร็จในฉากนี้ (ฟื้นฟูมากสุด 2)’
+เพจนี้จะถูกรวมเข้าไปในเด็คเมื่อเริ่มองก์ถัดไปด้วย</AbilityDesc>
+      <FlaborText>Oz มาพร้อมกับความคิดสุดบรรเจิด. ดวงตามรกตของเธอส่องแสงแสนสว่างออกมา</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The emerald roads sparkle bright as ever.</Dialogue>
         <Dialogue ID="2">She was a poor, poor child… Her eyes were just like mine.</Dialogue>
@@ -1783,11 +1783,11 @@ The page is also included in the deck at the start of subsequent Acts.</AbilityD
     
     <AbnormalityCard ID="Oz_Gift">
       <Abnormality>The Adult who Tells Lies</Abnormality>
-      <CardName>False Present</CardName>
+      <CardName>ของขวัญลวงหลอก</CardName>
       <AbilityDesc>[พันธมิตรทุกคน]
-Add 0-Cost false present pages that activate on play to the E.G.O pages list: 'Liquid Courage', 'Silk Sack of Sawdust', 'Heart of Lead', 'Home that Cannot Be Reached', and 'Transformation'.
-The false present pages are also added to the E.G.O page list at the start of subsequent Acts.</AbilityDesc>
-      <FlaborText>Poor Ozma. She didn’t know that lying adults don’t approach others without reason.</FlaborText>
+เพิ่มเพจ ของขวัญลวงหลอก คอส-0 ไปอยู่ในรับช่องเพจE.G.O มี5ใบต่อไปนี้: 'ความกล้าไม่เป็นรูป', 'กระสอบไหมขี้เลื่อย', 'หัวใจตะกั่ว', 'บ้านที่ไม่อาจกลับไป', and 'แปลงร่าง'.
+ของขวัญลวงหลอกเหล่านี้จะรวมอยู่ในช่องเพจE.G.Oเมื่อเริ่มฉากถัดไปด้วย</AbilityDesc>
+      <FlaborText>Ozma ผู้น่าสงสาร เธอไม่รู้เลยว่าผู้ใหญ่ขี้โกหกนั้น จะไม่เข้าหาใครถ้าไม่มีเหตุผล</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Come closer. I’ll help you forget all of your woes and worries.</Dialogue>
         <Dialogue ID="2">You’re a machine, aren’t you? A heart is unnecessary for a machine.</Dialogue>
@@ -1798,11 +1798,11 @@ The false present pages are also added to the E.G.O page list at the start of su
     
     <AbnormalityCard ID="Oz_Control">
       <Abnormality>The Adult who Tells Lies</Abnormality>
-      <CardName>Magic Trick</CardName>
+      <CardName>มายากล</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Add a 'Magic Trick' page to hand: ‘Cost 4 - [On Play] Reduce the Cost of all pages in hand to 0. When used, their Cost is reset to the value before this effect was applied.’
-The page is also included in the deck at the start of subsequent Acts.</AbilityDesc>
-      <FlaborText>Soon, Oz came to be called a wizard by the people.</FlaborText>
+เพิ่มเพจ 'มายากล' เข้าสู่มือ: ‘คอส 4 - [เมื่อเล่น] ลดคอสของเพจทุกใบในมือเป็น 0 เมื่อใช้ คอสของพวกมันจะกลับไปเป็นค่าดั้งเดิม’
+เพจนี้จะถูกรวมเข้าไปในเด็คเมื่อเริ่มองก์ถัดไปด้วย</AbilityDesc>
+      <FlaborText>ไม่นานนัก Oz ก็ถูกผู้คนเรียกขานว่าพ่อมด นับแต่นั้นมา</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Poor stuffing of straw. I’ll give you the wisdom to ponder over anything.</Dialogue>
         <Dialogue ID="2">Tin-cold woodsman. I’ll give you the heart to forgive and love anyone.</Dialogue>
