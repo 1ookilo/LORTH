@@ -282,7 +282,7 @@
 
   <!-- The Carnival -->
   <BattleCardAbility ID="energy1pw">
-    <Desc>[On Clash Win] Restore 1 Light</Desc>
+    <Desc>[เมื่อปะทะชนะ] ฟื้นฟูแสง 1 หน่วย</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="carnival">
@@ -340,15 +340,15 @@
   <!-- Gaze Office -->
   <!-- card ability -->
   <BattleCardAbility ID="costDown1self">
-    <Desc>[On Use] Lower this page's Cost by 1 (Up to 2 times)</Desc>
+   <Desc>[เมื่อใช้] ลดคอสของ Page นี้ลง 1 (สูงสุด 2 ครั้ง)</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="cardPowerDown1target">
-    <Desc>[Start of Clash] Reduce Power of all target's dice by 1</Desc>
+    <Desc>[เมื่อเริ่มการปะทะ] ลดพลังของลูกเต๋าทั้งหมดของเป้าหมายลง 1</Desc>
   </BattleCardAbility>
 
   <!-- dice ability -->
   <BattleCardAbility ID="powerUp1targetParalysis">
-    <Desc>Add +1 Power if target has Paralysis</Desc>
+    <Desc>ได้รับพลัง +1 หากเป้าหมายมีอัมพาต</Desc>
   </BattleCardAbility>
 
   <!-- Lovetown, Tomerry -->
