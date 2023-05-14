@@ -134,13 +134,13 @@
 	<text id="ui_invitation_enemyinfo_nextstory">หลังต่อสู้</text>
 	<text id="ui_invitation_reviewsephirahstory">ย้อนดูเรื่องราวเซฟิร่า</text>
 	<text id="ui_battlesetting_maintitle_stagestart">เริ่มการแสดง</text>
-	<text id="ui_battlesetting_subtitle_progress">องค์ที่เหลือ: {0}</text>
+	<text id="ui_battlesetting_subtitle_progress">องก์ที่เหลือ: {0}</text>
 	<text id="ui_battlesetting_possiblefloor">ชั้นพร้อมใช้งาน:</text>
 	<text id="ui_battlesetting_normaldata">ข้อมูลหนังสือ</text>
 	<text id="ui_battlesetting_deckinfo">Combat Pages</text>
 	<text id="ui_battlesetting_giftinfo">Battle Symbol</text>
-	<text id="ui_characterlist_enemy_waveshelf">องค์ที่ {0}</text>
-	<text id="ui_battleresult_maintitle">ปิดม่าน ณ</text>
+	<text id="ui_characterlist_enemy_waveshelf">องก์ที่ {0}</text>
+	<text id="ui_battleresult_maintitle">ปิดม่าน</text>
 	<text id="ui_battleresult_subtitlereturn">ต่อไป</text>
 	<text id="ui_battleresult_getgift">ได้รับ Battle Symbols</text>
 	<text id="ui_battleresult_losegift">สูญเสีย Battle Symbols </text>
@@ -151,7 +151,7 @@
 	<text id="ui_battleresult_returnrewadlist">ปิด</text>
 	<text id="ui_popup_levelup_floor">{0} ระดับ Realization เพิ่มขึ้น</text>
 	<text id="ui_popup_opensephirah_questalarm">ได้รับมอบหมายงานใหม่</text>
-	<text id="ui_popup_opensephirah_title">{0} Opened</text>
+	<text id="ui_popup_opensephirah_title">{0}เปิดบริการ</text>
 	<text id="ui_popup_librarygradeup_title">เกรดของห้องสมุดได้เลื่อนสูงขึ้น</text>
 	<text id="ui_popup_gacha_confirm">ตกลง</text>
 	<text id="ui_option_title">ตั้งค่า</text>
@@ -266,7 +266,7 @@ Please wait patiently for the next update to see more.</text>
 	<text id="ui_popup_manualalarm_2">คุณสามารถเข้าถึงคู่มือได้ทางปุ่ม &lt;คู่มือ&gt; ในเมนู ESC.</text>
 	<text id="ui_popup_customizealarm_returnsave_1">คุณแน่ใจว่าต้องการออกจากการตกแต่ง {0} โดยไม่บันทึกใช่หรือไม่?</text>
 	<text id="ui_popup_customizealarm_returnsave_2">คุณแน่ใจว่าต้องการออกจากการตกแต่งบรรณารักษ์โดยไม่บันทึกใช่หรือไม่?</text>
-	<text id="ui_popup_customizealarm_savecomplete">การปรับแต่งได้รับการบันทึกแล้ว.</text>
+	<text id="ui_popup_customizealarm_savecomplete">บันทึกการปรับแต่งแล้ว</text>
 	<text id="ui_tooltip_gifit_3">แสดง Battle Symbol  {0}</text>
 	<text id="ui_tooltip_gifit_4">กดซ่อน Battle Symbol  {0}</text>
 	<text id="ui_tooltip_invitation_6">{0} is required.</text>
@@ -517,8 +517,8 @@ The Combat bookshelf will be reset.</text>
 
 <!--20201020-->
   <text id ="ui_equippageinventory_bookmark">ที่ชื่นชอบ</text>
-  <text id ="ui_equippageinventory_addbookmark">ตั้งเป็นชื่นชอบ</text>
-  <text id ="ui_equippageinventory_releasebookmark">หยุดชื่นชอบ</text>
+  <text id ="ui_equippageinventory_addbookmark">ชอบ</text>
+  <text id ="ui_equippageinventory_releasebookmark">หยุดชอบ</text>
 
   <text id ="ui_equippageinventory_alreadyequipedequippage">Page ที่ใช้งานอยู่</text>
 
@@ -528,7 +528,7 @@ The Combat bookshelf will be reset.</text>
  <text id="ui_bookfilter_reinforced">Pages ที่ถูกเสริมพลัง</text>
 
   <text id="ui_invitation_availableunitnumber">บรรณารักษ์ที่ใช้ได้:</text>
-  <text id="ui_invitation_enemyfloornumber">องค์ของศัตรู</text>
+  <text id="ui_invitation_enemyfloornumber">องก์ของศัตรู</text>
 
   <!--20201103-->
   <text id="ui_stories_etc">อื่นๆ</text>
