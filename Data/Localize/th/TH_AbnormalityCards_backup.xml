@@ -30,10 +30,10 @@ After taking 3 hits, lose 25% of the current HP and lose this effect.</AbilityDe
     </AbnormalityCard>
     <AbnormalityCard ID="BeautyandtheBeast_Curse">
       <Abnormality>Beauty and the Beast</Abnormality>
-      <CardName>Cycle of the Curse</CardName>
-      <AbilityDesc>Take 1 more damage from attacks.
-On death, the killer takes 4 more damage from attacks for the rest of the Scene.</AbilityDesc>
-      <FlaborText>However, the curse continues eternally, never broken.</FlaborText>
+      <CardName>วัฏจักรต้องสาป</CardName>
+      <AbilityDesc>รับความเสียหายเพิ่มขึ้น 1 จากการโจมตี
+เมื่อตาย คนฆ่าจะได้รับความเสียหายเพิ่มขึ้น 4 ดาเมจจากการโจมตีในฉากที่เหลือ</AbilityDesc>
+      <FlaborText>อย่างไรก็ตาม คำสาปยังคงดำเนินต่อไปชั่วนิรันดร์ ไม่มีวันสลาย</FlaborText>
       <Dialogues>
         <Dialogue ID="1">This curse will never be lifted. It'll just…</Dialogue>
         <Dialogue ID="2">Every moment will be agonizing until I finally die.</Dialogue>
@@ -44,11 +44,11 @@ On death, the killer takes 4 more damage from attacks for the rest of the Scene.
     </AbnormalityCard>
     <AbnormalityCard ID="BeautyandtheBeast_Hate">
       <Abnormality>Beauty and the Beast</Abnormality>
-      <CardName>Self-loathing</CardName>
-      <AbilityDesc>Each die is enhanced at a 50% chance.
-Lose 1-2 HP every time the character rolls a die.</AbilityDesc>
-      <FlaborText>"Every moment of my life is pain.
-I'd rather die than suffer for eternity."</FlaborText>
+      <CardName>เกลียดตัวเอง</CardName>
+      <AbilityDesc>มีโอกาส 50% ที่ลูกเต๋าแต่ละลูกจะทอยซ้ำ
+สูญเสีย HP 1-2 ทุกครั้งที่ตัวละครทอยลูกเต๋า</AbilityDesc>
+      <FlaborText>"ทุกช่วงเวลาในชีวิตของฉันคือความเจ็บปวด
+ฉันขอยอมตายดีกว่าต้องทนทุกข์ทรมานชั่วนิรันดร์"</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I can't do this on my own… Someone has to help me.</Dialogue>
         <Dialogue ID="2">I'm so hideous and gross, I can't stand it.</Dialogue>
@@ -59,9 +59,9 @@ I'd rather die than suffer for eternity."</FlaborText>
     </AbnormalityCard>
     <AbnormalityCard ID="ScorchedGirl_Walk">
       <Abnormality>Scorched Girl</Abnormality>
-      <CardName>Footfalls</CardName>
-      <AbilityDesc>If the character's HP falls to 20% or below, deal 30% of the target's max HP as damage upon approaching them and die.</AbilityDesc>
-      <FlaborText>I am coming to you. You, who will be reduced to ash like me.</FlaborText>
+      <CardName>ตกเท้า</CardName>
+      <AbilityDesc>หาก HP ของตัวละครลดลงเหลือ 20% หรือต่ำกว่า สร้างความเสียหาย 30% ของ HP สูงสุดของเป้าหมายเมื่อเข้าใกล้และตาย</AbilityDesc>
+      <FlaborText>ฉันกำลังมาหาคุณ เจ้าผู้จะถูกเป็นเถ้าถ่านเช่นข้า</FlaborText>
       <Dialogues>
         <Dialogue ID="1">If I must perish, then join me.</Dialogue>
         <Dialogue ID="2">It's just too sad to die alone… You know this feeling well, don't you?</Dialogue>
@@ -72,9 +72,9 @@ I'd rather die than suffer for eternity."</FlaborText>
     </AbnormalityCard>
     <AbnormalityCard ID="ScorchedGirl_Ashes">
       <Abnormality>Scorched Girl</Abnormality>
-      <CardName>Ashes</CardName>
-      <AbilityDesc>Take 1 less damage from attacks.</AbilityDesc>
-      <FlaborText>“The charred body represents the child's crumbled hope, while the ever blazing flame represents the obsession for affection.”</FlaborText>
+      <CardName>ขี้เถ้า</CardName>
+      <AbilityDesc>รับความเสียหายน้อยลง 1 จากการโจมตี.</AbilityDesc>
+      <FlaborText>“ร่างกายที่ไหม้เกรียมแสดงถึงความหวังที่พังทลายของเด็กน้อย ในขณะที่เปลวไฟที่ลุกโชนตลอดเวลาแสดงถึงความหลงใหลของเธอ”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">To burn all things that are bright to ashes…</Dialogue>
         <Dialogue ID="2">I know very well that my scorched body can't ever return to normal.</Dialogue>
@@ -85,10 +85,10 @@ I'd rather die than suffer for eternity."</FlaborText>
     </AbnormalityCard>
     <AbnormalityCard ID="HappyTeddyBear_Hug">
       <Abnormality>Happy Teddy Bear</Abnormality>
-      <CardName>Nostalgic Embrace of the Old Days</CardName>
-      <AbilityDesc>Upon winning a clash, deal Stagger damage equal to the dice value at a 10% chance.
-Clashing against the same target multiple times will increase the likelihood.</AbilityDesc>
-      <FlaborText>Teddy was hugging someone tightly. Teddy loved hugs. But something was odd.</FlaborText>
+      <CardName>วันวานน่าหวนคิดถึง</CardName>
+      <AbilityDesc>เมื่อชนะการปะทะ สร้างความเสียหายให้ Stagger เท่ากับมูลค่าลูกเต๋าโดยมีโอกาส 10%
+การปะทะกับเป้าหมายเดียวกันหลาย ๆ ครั้งจะเพิ่มโอกาสขึ้น</AbilityDesc>
+      <FlaborText>เท็ดดี้กอดใครสักคนไว้แน่น เท็ดดี้ชอบกอด แต่มีบางอย่างแปลก</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Give me a tight hug, will you? It'll soothe your mind.</Dialogue>
         <Dialogue ID="2">Everyone loves hugs. Don't you agree?</Dialogue>
@@ -99,9 +99,9 @@ Clashing against the same target multiple times will increase the likelihood.</A
     </AbnormalityCard>
     <AbnormalityCard ID="HappyTeddyBear_Memory">
       <Abnormality>Happy Teddy Bear</Abnormality>
-      <CardName>Happy Memories</CardName>
-      <AbilityDesc>Choose the page with the highest Cost in hand. Using the pages with the same name will decrease the Cost of all pages with that name by 1.</AbilityDesc>
-      <FlaborText>But, you see, Teddy never wanted to be separate from its owner ever again.</FlaborText>
+      <CardName>ความทรงจำแสนสุข</CardName>
+      <AbilityDesc>เลือกหน้าที่มีค่าใช้จ่ายสูงสุดในมือ การใช้เพจที่มีชื่อเดียวกันจะลดค่าใช้จ่ายของเพจทั้งหมดที่มีชื่อนั้นลง 1</AbilityDesc>
+      <FlaborText>แต่คุณรู้ไหมว่าเท็ดดี้ไม่เคยต้องการแยกจากเจ้าของเลย</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Why are you trying to leave me? We were such good friends…</Dialogue>
         <Dialogue ID="2">Don't leave me. You'll change your mind when I hug you just once more.</Dialogue>
@@ -112,10 +112,10 @@ Clashing against the same target multiple times will increase the likelihood.</A
     </AbnormalityCard>
     <AbnormalityCard ID="TheDreamingCurrent_Sea">
       <Abnormality>The Dreaming Current</Abnormality>
-      <CardName>Rainbow Sea</CardName>
-      <AbilityDesc>For three Scenes, all characters lose 3 Speed.
-For three Scenes, all characters lose 10% of their current HP and restore 1 Light at the start of the Scene.</AbilityDesc>
-      <FlaborText>Instead of visiting the ocean, the child was given candy which let him see the ocean. Many colorful nights and days passed.</FlaborText>
+      <CardName>ทะเลสีรุ้ง</CardName>
+      <AbilityDesc>สำหรับสามฉาก ตัวละครทั้งหมดจะสูญเสียความเร็ว 3 ระดับ
+สำหรับสามฉาก ตัวละครทั้งหมดจะเสีย 10% ของ HP ปัจจุบันและฟื้นฟูแสง 1 ดวงเมื่อเริ่มฉาก</AbilityDesc>
+      <FlaborText>แทนที่จะได้ไปเที่ยวทะเล เด็กน้อยได้รับขนมซึ่งทำให้เขาเห็นมหาสมุทรที่มีสีสันผ่านหลายวันหลายคืน</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I want to see the sea. The shining ocean waves…</Dialogue>
         <Dialogue ID="2">Let us all watch the brilliant ocean tides together, sparkling in rainbow colors.</Dialogue>
@@ -127,8 +127,8 @@ For three Scenes, all characters lose 10% of their current HP and restore 1 Ligh
     <AbnormalityCard ID="TheDreamingCurrent_Run">
       <Abnormality>The Dreaming Current</Abnormality>
       <CardName>Hippity-Hop</CardName>
-      <AbilityDesc>Gain 3 Speed.</AbilityDesc>
-      <FlaborText>Though the only thing the child could do was run around inside a cramped lab instead of a grass field under the sun, his steps were shaky but filled with enthusiasm.</FlaborText>
+      <AbilityDesc>ได้รับความเร็ว 3</AbilityDesc>
+      <FlaborText>แม้ว่าสิ่งเดียวที่เด็กน้อยทำได้คือวิ่งไปรอบ ๆ ในห้องทดลองแคบ ๆ แทนที่จะเป็นทุ่งหญ้าภายใต้แสงแดดอันอบอุ่น</FlaborText>
       <Dialogues>
         <Dialogue ID="1">What flavor of candy will I eat… It makes my heart flutter, you know?</Dialogue>
         <Dialogue ID="2">I'm so excited, I just can't stand still.</Dialogue>
@@ -139,10 +139,10 @@ For three Scenes, all characters lose 10% of their current HP and restore 1 Ligh
     </AbnormalityCard>
     <AbnormalityCard ID="TheDreamingCurrent_candy">
       <Abnormality>The Dreaming Current</Abnormality>
-      <CardName>Candy</CardName>
-      <AbilityDesc>At the start of the Scene, each opponent gains a random 'Candy' at a 20% chance.
-Deals 50% more damage to targets carrying a 'Candy'. Deals 100% more damage to targets with 'Grape-Flavored Candy' instead.</AbilityDesc>
-      <FlaborText>Tell the kid today's treat is going to be grape-flavored candy. It's his favorite.</FlaborText>
+      <CardName>ลูกกวาด</CardName>
+      <AbilityDesc>เมื่อเริ่มฉาก ฝ่ายตรงข้ามแต่ละคนจะได้รับ 'ลูกกวาด' แบบสุ่มโดยมีโอกาส 20%
+สร้างความเสียหายเพิ่มขึ้น 50% ต่อเป้าหมายที่ถือ 'Candy' สร้างความเสียหายแก่เป้าหมายเพิ่มขึ้น 100% ด้วย 'Grape-Flavored Candy' </AbilityDesc>
+      <FlaborText>วันนี้จะเป็นลูกอมรสองุ่นที่เด็กน้อยชื่นชอบ</FlaborText>
       <Dialogues>
         <Dialogue ID="1">What flavor is today's candy gonna be?</Dialogue>
         <Dialogue ID="2">Please tell me it's grape-flavored candy. It's my favorite.</Dialogue>
@@ -153,11 +153,11 @@ Deals 50% more damage to targets carrying a 'Candy'. Deals 100% more damage to t
     </AbnormalityCard>
     <AbnormalityCard ID="27thofMarch_Shelter">
       <Abnormality>Shelter from the 27th of March</Abnormality>
-      <CardName>Shelter</CardName>
-      <AbilityDesc>Gain Blurred for this Scene.
-Cannot act for this Scene.
+      <CardName>ที่หลบภัย</CardName>
+      <AbilityDesc>ได้รับการคุ้มครองสำหรับฉากนี้.
+ไม่สามารถทำอะไรได้เลยในฉากนี้.
 Heal 50% HP.</AbilityDesc>
-      <FlaborText>However, this shelter, while perfectly safe on the inside, alters the reality of the outside to be even more hopeless.</FlaborText>
+      <FlaborText>อย่างไรก็ตาม ที่หลบภัยนี้แม้ข้างในจะปลอดภัยอย่างสมบูรณ์แบบ แต่ก็เปลี่ยนความเป็นจริงภายนอกให้สิ้นหวังยิ่งขึ้นไปอีก</FlaborText>
       <Dialogues>
         <Dialogue ID="1">This shelter can provide safety like no other place in this world.</Dialogue>
         <Dialogue ID="2">Do not pay any attention to the noises coming from outside. Outside matters do not concern you.</Dialogue>
@@ -171,9 +171,9 @@ Heal 50% HP.</AbilityDesc>
     <AbnormalityCard ID="1.76 MHz_MHz">
       <Abnormality>1.76 MHz</Abnormality>
       <CardName>1.76 MHz</CardName>
-      <AbilityDesc>All Offensive dice of all allies gain 0-1 Power.
-All Defensive dice of all allies lose 0-1 Power.</AbilityDesc>
-      <FlaborText>It is still unknown what caused the collective rage among employees.</FlaborText>
+      <AbilityDesc>ลูกเต๋าฝ่ายรุกทั้งหมดของพันธมิตรทั้งหมดได้รับพลัง 0-1
+ลูกเต๋าป้องกันของพันธมิตรทั้งหมดจะเสียพลัง 0-1</AbilityDesc>
+      <FlaborText>ยังไม่ทราบว่าอะไรทำให้เกิดความโกรธแค้นในหมู่พนักงาน</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Help… There… monsters… … …pened.</Dialogue>
         <Dialogue ID="2">Can y… … ar me? … …o, plea … … me.</Dialogue>
@@ -184,9 +184,9 @@ All Defensive dice of all allies lose 0-1 Power.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="1.76MHz_423">
       <Abnormality>1.76 MHz</Abnormality>
-      <CardName>Memories of April 23rd</CardName>
-      <AbilityDesc>When using a page, the damage of each roll is increased by the number of the Offensive dice.</AbilityDesc>
-      <FlaborText>This is a recording of the day we must never forget. It brings us to a chaotic place—forgotten by many—that must never be forgotten.</FlaborText>
+      <CardName>ความทรงจำของวันที่ 23 เมษายน</CardName>
+      <AbilityDesc>เมื่อใช้การ์ด ความเสียหายของการทอยแต่ละครั้งจะเพิ่มขึ้นตามจำนวนลูกเต๋าโจมตี</AbilityDesc>
+      <FlaborText>นี่คือบันทึกวันที่เราจะไม่มีวันลืม มันนำเราไปสู่สถานที่ที่วุ่นวายซึ่งหลายคนลืมไปแล้วแต่เราไม่</FlaborText>
       <Dialogues>
         <Dialogue ID="1">We should never forget this day, even if it's gone from everyone else's memories…</Dialogue>
         <Dialogue ID="2">If it's gotten blurry, then I'll repeat it for you anytime.</Dialogue>
@@ -197,10 +197,10 @@ All Defensive dice of all allies lose 0-1 Power.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="ForsakenMurderer_Tie">
       <Abnormality>Forsaken Murderer</Abnormality>
-      <CardName>Chained Wrath</CardName>
-      <AbilityDesc>Lose 2 Speed.
-Deal 1-3 more damage with attacks.</AbilityDesc>
-      <FlaborText>He wears a straitjacket, but is as free as any man. No amount of chains and restraints is enough to prevent him from committing violence.</FlaborText>
+      <CardName>โทสะโซ่พันธนา</CardName>
+      <AbilityDesc>สูญเสียความเร็ว 2 .
+สร้างความเสียหายเพิ่มขึ้น 1-3 ดาเมจด้วยการโจมตี.</AbilityDesc>
+      <FlaborText>เขาสวมเสื้อรัดติ้วแต่เขาก็เป็นอิสระเช่นเดียวกับผู้ชายทุกคน ไม่มีโซ่และเครื่องพันธนาการใดไม่ให้เขากระทำความรุนแรงได้</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Even if my body is tied… I'll be as free as any man.</Dialogue>
         <Dialogue ID="2">Release me… Why do I have to be bound!</Dialogue>
@@ -211,9 +211,9 @@ Deal 1-3 more damage with attacks.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="ForsakenMurderer_Metal">
       <Abnormality>Forsaken Murderer</Abnormality>
-      <CardName>Metallic Ringing</CardName>
-      <AbilityDesc>Enhance Blunt dice.</AbilityDesc>
-      <FlaborText>“My head... turning into metal... folds in my brain, being flattened...”</FlaborText>
+      <CardName>เสียงก้องจากโลหะ</CardName>
+      <AbilityDesc>เพิ่มพลังลูกเต๋าทุบ</AbilityDesc>
+      <FlaborText>“หัวฉัน... กลายเป็นโลหะ... สมองแหลกเหลว แบนราบ...”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">My head is ringing. I can hear the sound of metal, clear and loud…</Dialogue>
         <Dialogue ID="2">It feels as if my head is turning to cold steel.</Dialogue>
@@ -250,9 +250,9 @@ Deal 1-3 more damage with attacks.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="Schadenfreude_See">
       <Abnormality>Schadenfreude</Abnormality>
-      <CardName>Gaze</CardName>
-      <AbilityDesc>After engaging in a clash, inflict 2 Feeble and 2 Disarm to the opponent at a 25% chance.</AbilityDesc>
-      <FlaborText>Someone's persistent gaze can be felt from the keyhole inside the machine.</FlaborText>
+      <CardName>จ้องมอง</CardName>
+      <AbilityDesc>หลังจากเข้าปะทะกัน มีโอกาส 25% ที่จะทำดาเมจ 2 อ่อนแรง และ 2 ตัดกำลัง ให้ฝ่ายตรงข้าม</AbilityDesc>
+      <FlaborText>สามารถสัมผัสได้ถึงการจ้องมองอย่างไม่ลดละของใครบางคนจากรูกุญแจภายในเครื่อง</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Whatever you do, the gaze will always linger on you.</Dialogue>
         <Dialogue ID="2">Even if you try to escape the gaze, it'll be everywhere.</Dialogue>
@@ -263,10 +263,10 @@ Deal 1-3 more damage with attacks.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="Schadenfreude_Eye">
       <Abnormality>Schadenfreude</Abnormality>
-      <CardName>Eye Contact</CardName>
-      <AbilityDesc>All dice gain 0-2 Power in clashes.
-All dice lose 0-2 Power in one-sided attacks.</AbilityDesc>
-      <FlaborText>They faced towards the Abnormality for 10 seconds. After 5 seconds, it aggressively approached the employee. Experiment halted.</FlaborText>
+      <CardName>สบตา</CardName>
+      <AbilityDesc>ลูกเต๋าทั้งหมดได้รับพลัง 0-2 ในการปะทะกัน.
+ลูกเต๋าทั้งหมดสูญเสียพลัง 0-2 ในการโจมตีด้านเดียว.</AbilityDesc>
+      <FlaborText>ถ้าพวกเขาเผชิญหน้ากับความผิดปกติเป็นเวลา 10 วินาที หลังจากผ่านไป 5 วินาที มันจะเข้ามาหาพนักงานอย่างก้าวร้าวการทดสอบจะหยุดลง.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">It feels awful to catch someone's gaze.</Dialogue>
         <Dialogue ID="2">Don't place your gaze on me. Don't look at me.</Dialogue>
@@ -277,9 +277,9 @@ All dice lose 0-2 Power in one-sided attacks.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="YouMustBeHappy_Q">
       <Abnormality>You Must Be Happy.</Abnormality>
-      <CardName>The Query</CardName>
-      <AbilityDesc>The first die of each page only yields either the minimum or the maximum value.</AbilityDesc>
-      <FlaborText>Do you love your city?</FlaborText>
+      <CardName>แบบสอบถาม</CardName>
+      <AbilityDesc>ลูกเต๋าแรกของแต่ละหน้าจะให้ค่าต่ำสุดหรือสูงสุดเท่านั้น</AbilityDesc>
+      <FlaborText>คุณรักเมืองของคุณ?</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Do you love the City?</Dialogue>
         <Dialogue ID="2">Quick answers are appreciated.</Dialogue>
@@ -290,9 +290,9 @@ All dice lose 0-2 Power in one-sided attacks.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="ChangeAnything_Energy">
       <Abnormality>We Can Change Anything.</Abnormality>
-      <CardName>Energy Conversion</CardName>
-      <AbilityDesc>Whenever a page is used, discard a random page from the hand and restore 1 Light.</AbilityDesc>
-      <FlaborText>Just open up the machine, step inside, and press the button to make it shut. Now everything will be just fine.</FlaborText>
+      <CardName>แปลงพลังงาน</CardName>
+      <AbilityDesc>เมื่อใดก็ตามที่ใช้การ์ด ให้ทิ้งการ์ดแบบสุ่มจากมือและฟื้นฟูแสง 1 ดวง.</AbilityDesc>
+      <FlaborText>เพียงเปิดเครื่อง ก้าวเข้าไปข้างใน แล้วกดปุ่มเพื่อปิดเครื่อง ทุกอย่างก็จะดีขึ้น</FlaborText>
       <Dialogues>
         <Dialogue ID="1">This robot will change anything that does not please your mind.</Dialogue>
         <Dialogue ID="2">Are you dissatisfied with your own strength? Do you find yourself too feeble?</Dialogue>
@@ -303,10 +303,10 @@ All dice lose 0-2 Power in one-sided attacks.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="Variant_Dimensional">
       <Abnormality>Dimensional Refraction Variant</Abnormality>
-      <CardName>Dimensional Refraction</CardName>
-      <AbilityDesc>Gain Blurred for the rest of the Scene.
-This character's attacks can no longer redirect the target.</AbilityDesc>
-      <FlaborText>The area is a vacuum. Strictly speaking, the Abnormality itself is the vacuum phenomenon.</FlaborText>
+      <CardName>การหักเหของมิติ</CardName>
+      <AbilityDesc>ทำให้ภาพเบลอตลอดทั้งฉาก
+การโจมตีของตัวละครนี้ไม่สามารถเปลี่ยนทิศทางเป้าหมายได้.</AbilityDesc>
+      <FlaborText>พื้นที่เป็นสุญญากาศ แอปนอมอลลิตี้คือปรากฏการณ์สูญญากาศ</FlaborText>
       <Dialogues>
         <Dialogue ID="1">It will detach your limbs with earnesty.</Dialogue>
         <Dialogue ID="2">If you want to leave in one piece that isn't just your torso, be aware of your surroundings.</Dialogue>
@@ -317,9 +317,9 @@ This character's attacks can no longer redirect the target.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="Behavior_Adjustment">
       <Abnormality>Behavior Adjustment</Abnormality>
-      <CardName>Adjustment</CardName>
-      <AbilityDesc>Upon losing a clash, enhance the next Offense die at a 50% chance.</AbilityDesc>
-      <FlaborText>It readjusts everyone to become righteous, no matter how wicked, evil, and arrogant they may be.</FlaborText>
+      <CardName>การปรับปรุง</CardName>
+      <AbilityDesc>เมื่อแพ้การปะทะ ปรับลูกเต๋าโจมตีครั้งต่อไปที่โอกาส 50%</AbilityDesc>
+      <FlaborText>ปรับทุกคนให้กลายเป็นคนมีคุณธรรม ไม่ว่าพวกเขาจะชั่วร้ายแค่ไหนและหยิ่งยโสเพียงใด</FlaborText>
       <Dialogues>
         <Dialogue ID="1">With the aid of this device, all people will be corrected to become righteous.</Dialogue>
         <Dialogue ID="2">Do not rely too much on this device.</Dialogue>
@@ -358,10 +358,10 @@ This character's attacks can no longer redirect the target.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="ShyLookToday_Face">
       <Abnormality>Today's Shy Look</Abnormality>
-      <CardName>Today's Expression</CardName>
-      <AbilityDesc>The face constantly shifts.
-Dice gain different amounts of Power depending on the current face. (Min. -2, Max. +3)</AbilityDesc>
-      <FlaborText>One sunny day, just like that day they sincerely dried the laundry, they dried their own skin.</FlaborText>
+      <CardName>การแสดงออกของวันนี้</CardName>
+      <AbilityDesc>ใบหน้าจะเปลี่ยนไปเรื่อยๆ.
+ลูกเต๋าได้รับพลังงานในปริมาณที่แตกต่างกันขึ้นอยู่กับหน้าปัจจุบัน (ต่ำสุด -2, สูงสุด +3)</AbilityDesc>
+      <FlaborText>ในวันหนึ่งที่แดดร้อนเช่นเดียวกับวันนี้ พวกเขาตากผ้าด้วยความจริงใจแต่พวกเขาตากผิวหนังของตัวเอง</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I'm just shy, that's all. Just shy…</Dialogue>
         <Dialogue ID="2">A sad look doesn't fit the City.</Dialogue>
@@ -372,11 +372,11 @@ Dice gain different amounts of Power depending on the current face. (Min. -2, Ma
     </AbnormalityCard>
     <AbnormalityCard ID="OldLady_Lonely">
       <Abnormality>Old Lady</Abnormality>
-      <CardName>Solitude</CardName>
-      <AbilityDesc>On a successful one-sided attack, inflict Solitude for 2 Scenes at a 15% chance.
-The chance is increased by 5% for every additional one-sided attack.
-Characters with Solitude lose 2 Speed and take 1-2 damage at the start of the Scene. (Does not stack)</AbilityDesc>
-      <FlaborText>She was so talkative before, yet in the end, loneliness was the only listener.</FlaborText>
+      <CardName>สันโดษ</CardName>
+      <AbilityDesc>เมื่อโจมตีฝ่ายเดียวสำเร็จ สร้างสถานะ สันโดษ เป็นเวลา 2 ฉากโดยมีโอกาส 15%
+เพิ่มโอกาสขึ้น 5% สำหรับการโจมตีด้านเดียวเพิ่มเติม
+ตัวละครที่มี สันโดษ จะเสียความเร็ว 2 หน่วยและได้รับความเสียหาย 1-2 หน่วยเมื่อเริ่มฉาก (ไม่ซ้อน)</AbilityDesc>
+      <FlaborText>เมื่อก่อนเธอเป็นคนช่างพูดมาก แต่สุดท้ายความเหงาก็เป็นเพียงผู้รับฟังเท่านั้น</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Child. Will you come next to me, so this old woman won't feel lonely?</Dialogue>
         <Dialogue ID="2">No one visits me when I'm so old and dull.</Dialogue>
@@ -387,10 +387,10 @@ Characters with Solitude lose 2 Speed and take 1-2 damage at the start of the Sc
     </AbnormalityCard>
     <AbnormalityCard ID="OldLady_Story">
       <Abnormality>Old Lady</Abnormality>
-      <CardName>Storytime</CardName>
-      <AbilityDesc>The maximum Stagger Resistance value is lowered by 25%.
-Deal 1-2 more damage with attacks.</AbilityDesc>
-      <FlaborText>It's not a good idea to keep listening to her. She knows every story on Earth and even those that cannot possibly exist.</FlaborText>
+      <CardName>เวลาของเรื่องราว</CardName>
+      <AbilityDesc>ค่าความต้านทานการ Stagger Resistance สูงสุดจะลดลง 25%
+สร้างความเสียหายเพิ่มขึ้น 1-2 ดาเมจด้วยการโจมตี</AbilityDesc>
+      <FlaborText>ไม่ใช่ความคิดที่ดีที่จะฟังเธอต่อไป เธอรู้ทุกเรื่องราวบนโลกและแม้แต่เรื่องที่เป็นไปไม่ได้</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Dearie, dearie… Would you like to hear an old story?</Dialogue>
         <Dialogue ID="2">Yes, yes… What kind of stories do you like, little muffin?</Dialogue>
@@ -401,9 +401,9 @@ Deal 1-2 more damage with attacks.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="MeatLantern_Predation">
       <Abnormality>Meat Lantern</Abnormality>
-      <CardName>Predation</CardName>
-      <AbilityDesc>Deal 1-3 more damage when in a clash against an opponent with higher Speed.</AbilityDesc>
-      <FlaborText>Ah, screw it. Just enjoy looking at that flower all you want...</FlaborText>
+      <CardName>การปล้นสะดม</CardName>
+      <AbilityDesc>สร้างความเสียหายเพิ่มขึ้น 1-3 ดาเมจเมื่อปะทะกับคู่ต่อสู้ที่มีความเร็วสูงกว่า</AbilityDesc>
+      <FlaborText>แค่ได้มองดอกไม้นั้นอย่างเพลิดเพลิน...</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Enjoy looking at the flower… It'll be more comfortable that way...</Dialogue>
         <Dialogue ID="2">You're already right on top of me… It's too late...</Dialogue>
@@ -414,10 +414,10 @@ Deal 1-2 more damage with attacks.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="MeatLantern_Bait">
       <Abnormality>Meat Lantern</Abnormality>
-      <CardName>Bait</CardName>
-      <AbilityDesc>The opponent targeted by this character will be forced to attack them regardless of Speed.
-All Defense dice gain 0-1 Power.</AbilityDesc>
-      <FlaborText>The bud is glowing, it's amazing. It's so bright, other employees came over to look at the flower too...</FlaborText>
+      <CardName>เหยื่อ</CardName>
+      <AbilityDesc>ฝ่ายตรงข้ามที่เป็นเป้าหมายของตัวละครนี้จะถูกบังคับให้โจมตีโดยไม่คำนึงถึงความเร็ว
+เต๋าตั้งรับทั้งหมดได้รับพลัง 0-1</AbilityDesc>
+      <FlaborText>แตกหน่อเป็นประกายสวยงามมาก พนักงานคนอื่นมาดูดอกไม้ด้วย...</FlaborText>
       <Dialogues>
         <Dialogue ID="1">This lamp shines brightly in the dark…</Dialogue>
         <Dialogue ID="2">Pretty, isn't it… Go ahead, come closer and take a good look...</Dialogue>
@@ -428,9 +428,9 @@ All Defense dice gain 0-1 Power.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="MeatLantern_Ambush">
       <Abnormality>Meat Lantern</Abnormality>
-      <CardName>Ambush</CardName>
-      <AbilityDesc>At the end of each Scene, if the character is at 20% HP or lower, gain Blurred for the next Scene.</AbilityDesc>
-      <FlaborText>As it moves underground, not through the hallway, it is impossible to predict its path when breaching.</FlaborText>
+      <CardName>การซุ่มโจมตี</CardName>
+      <AbilityDesc>ในตอนท้ายของแต่ละฉาก หากตัวละครมี HP 20% หรือต่ำกว่า จะได้รับ Blurred ในฉากถัดไป</AbilityDesc>
+      <FlaborText>ขณะที่มันเคลื่อนตัวอยู่ใต้ดินไม่ผ่านโถงทางเดิน จึงเป็นไปไม่ได้ที่จะคาดเดาเส้นทางของมันได้</FlaborText>
       <Dialogues>
         <Dialogue ID="1">What's more important than baiting, is hiding…</Dialogue>
         <Dialogue ID="2">To make sure that no one notices me… I should conceal myself…</Dialogue>
@@ -595,9 +595,9 @@ Whenever a character with Rhythm kills an enemy, a random character who doesn't 
     </AbnormalityCard>
     <AbnormalityCard ID="TheLittlePrince_Bigbusut">
       <Abnormality>The Little Prince</Abnormality>
-      <CardName>Giant Mushroom</CardName>
-      <AbilityDesc>All characters take 2-4 additional Stagger damage upon taking hits.</AbilityDesc>
-      <FlaborText>If you can only perceive the Abnormality as a giant mushroom, that's because you're seeing with clouded eyes</FlaborText>
+      <CardName>เห็ดยักษ์</CardName>
+      <AbilityDesc>ตัวละครทั้งหมดได้รับความเสียหาย Stagger เพิ่มขึ้น 2-4 เมื่อถูกโจมตี</AbilityDesc>
+      <FlaborText>หากคุณสามารถรับรู้ได้ว่าแอปนอมอลลิตี้เป็นเห็ดยักษ์ นั่นเป็นเพราะคุณมองเห็นด้วยตาที่ขุ่นมัว</FlaborText>
       <Dialogues>
         <Dialogue ID="1">We can see the essence, unlike others.</Dialogue>
         <Dialogue ID="2">It's quite a hard task to gain one's heart.</Dialogue>
@@ -636,9 +636,9 @@ That was the magnificent beginning of my slow descent into despair.</FlaborText>
     </AbnormalityCard>
     <AbnormalityCard ID="Rudolta_Gift">
       <Abnormality>Rudolta of the Sleigh</Abnormality>
-      <CardName>Present</CardName>
-      <AbilityDesc>After winning a clash, inflict 2 Bind and deal 1-2 Stagger damage at a 50% chance.</AbilityDesc>
-      <FlaborText>With my infinite hatred, I give you this gift.</FlaborText>
+      <CardName>ปัจจุบัน</CardName>
+      <AbilityDesc>หลังจากชนะการปะทะ ทำดาเมจ 2 พันธนา และสร้างความเสียหาย 1-2 Stagger โดยมีโอกาส 50%</AbilityDesc>
+      <FlaborText>ด้วยความเกลียดชังที่ไม่สิ้นสุดของฉัน ฉันขอมอบของขวัญนี้ให้กับคุณ.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Merry children all deserve to have a gift!</Dialogue>
         <Dialogue ID="2">With my infinite hatred, I give you this gift.</Dialogue>
@@ -649,9 +649,9 @@ That was the magnificent beginning of my slow descent into despair.</FlaborText>
     </AbnormalityCard>
     <AbnormalityCard ID="Theresia_Orgel">
       <Abnormality>Theresia</Abnormality>
-      <CardName>Music Box</CardName>
-      <AbilityDesc>Increase Stagger Resist Recovery by 50%.</AbilityDesc>
-      <FlaborText>“Do you remember this melody? The professor used to play this song when the students were sleepy. Happy birthday.”</FlaborText>
+      <CardName>กล่องดนตรี</CardName>
+      <AbilityDesc>เพิ่มการฟื้นตัวของ Stagger Resist 50%</AbilityDesc>
+      <FlaborText>“คุณจำท่วงทำนองนี้ได้ไหม? อาจารย์เคยเปิดเพลงนี้ตอนนักศึกษาง่วง สุขสันต์วันเกิด.”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Remember this melody?</Dialogue>
         <Dialogue ID="2">Happy birthday. With love, Theresia.</Dialogue>
@@ -798,9 +798,9 @@ The change becomes more drastic with the amount of Negative Coins.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="MirrorofAdjustment_Mirror">
       <Abnormality>Mirror of Adjustment</Abnormality>
-      <CardName>Mirror</CardName>
-      <AbilityDesc>At the start of the Scene, randomize the Costs of all pages.</AbilityDesc>
-      <FlaborText>Those who face themselves in the mirror may appear the same, but in actuality, they have become completely different people.</FlaborText>
+      <CardName>กระจกเงา</CardName>
+      <AbilityDesc>ที่จุดเริ่มต้นของฉาก สุ่มต้นทุนการ์ดทุกใบ</AbilityDesc>
+      <FlaborText>คนที่เผชิญหน้ากับตัวเองในกระจกอาจดูเหมือนกันแต่ในความเป็นจริงแล้ว พวกเขาเป็นคนละคนกันโดยสิ้นเชิง</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The satisfaction is only temporary.</Dialogue>
         <Dialogue ID="2">Are you unsatisfied with your current self?</Dialogue>
@@ -811,11 +811,11 @@ The change becomes more drastic with the amount of Negative Coins.</AbilityDesc>
     </AbnormalityCard>
     <AbnormalityCard ID="HeartofAspiration_Doki">
       <Abnormality>Heart of Aspiration</Abnormality>
-      <CardName>Aspiration</CardName>
-      <AbilityDesc>Increase Max HP by 40%.
-Gain 3 Speed.
-At the end of each Scene, if the character did not deal any damage with Offensive dice, lose 10% of the current HP.</AbilityDesc>
-      <FlaborText>Excessive aspiration would bring about unwarranted frenzy.</FlaborText>
+      <CardName>ทะเยอทะยาน</CardName>
+      <AbilityDesc>เพิ่ม HP สูงสุด 40%.
+ได้รับความเร็ว 3 .
+ในตอนท้ายของแต่ละฉากหากตัวละครไม่ได้ทำความเสียหายใดๆ ด้วยลูกเต๋าโจมตีจะเสีย 10% ของ HP ปัจจุบัน</AbilityDesc>
+      <FlaborText>ความทะเยอทะยานที่มากเกินไปจะนำมาซึ่งความบ้าคลั่งที่ไร้เหตุผล</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Overwhelming aspiration is what leads to wrongful frenzy.</Dialogue>
         <Dialogue ID="2">Why won't you wish for anything when you've earned such power?</Dialogue>
