@@ -3,65 +3,65 @@
   <GroupName>Bayyard</GroupName>
   <Character ID="Named">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">This must be the Library… Be on your guard.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Strike fast, and press hard!</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">None shall stop the breath of the wilderness!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">นี้ต้องเป็นห้องสมุดแน่ๆ ระวังตัวด้วย</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">บุกให้เร็วและรุนแรง</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ไม่มีใครหยุดลมหายใจแห่งถิ่นทุรกันดารได้!</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I won’t kneel before anyone who’s weaker than me!</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Hahaha! You put up a good one.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ฉันจะไม่คุกเข่าต่อหน้าผู้ที่อ่อนแอกว่าฉัน!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">ฮ่าฮ่าฮ่า พูดได้ดี</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Who will… lead them in the future…?</BattleDialog>
-      <BattleDialog ID="DEATH_1">One should know well when to bow down…</BattleDialog>
+      <BattleDialog ID="DEATH_0">ใครจะ…เป็นผู้นำพวกเขาในอนาคตละ…?</BattleDialog>
+      <BattleDialog ID="DEATH_1">พึงทราบดีว่าเมื่อใดควรกราบ…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Don’t let the foe overpower you!</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">The key is to stay firm rather than back down.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">With fortified faith, we must go on.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">อย่าปล่อยให้ศัตรูครอบงำนะ!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">กุญแจสำคัญคือการอยู่อย่างมั่นคงแทนที่จะถอยกลับ</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">ด้วยแรงศรัทธา พวกเราต้องเดินต่อไป</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Haha! For all the scary stories that friend told me… It was simple!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Don’t get careless until it’s over. Got it?!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">You couldn’t stop me!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ฮ่าๆ! สำหรับเรื่องน่ากลัวที่เพื่อนเล่าให้ฟัง… มันเรียบง่ายมาก</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">อย่าประมาทจนกว่าจะผ่านไปได้แล้ว เข้าใจไหม?!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">หยุดฉันไม่ได้หรอก!</BattleDialog>
     </Type>
   </Character>
 
   <Character ID="Bayyard">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">There aren’t too many of them!</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">I’ll go first and take care of them!</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">The Library… It doesn’t look like it’ll be an easy job, as its reputation suggests.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_3">Well, we’ve dealt with similar jobs before…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_4">It should be fine. Let’s get going!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">พวกมันไม่เยอะเกินไปหน่อยหรอ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ฉันจะไปจัดการพวกมันก่อน!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ห้องสมุด… ดูเหมือนจะไม่ใช่งานง่ายอย่างที่เป็นข่าวลือกัน</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">เราเคยจัดการกับงานที่คล้ายกันมาก่อน...</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">มันควรจะดี ไปกันเลย!</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Good. Time to head back!</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">This wasn’t nearly enough to make me falter!</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_2">How about a pint on our way back?</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_3">What are the books we earned called, by the way?</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_4">Books containing info… I hope they’re helpful for us.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ดีมาก ได้เวลากลับแล้ว</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">มันไม่มากพอแม้แต่จะทำให้ฉันสะดุดด้วยซ้ำ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">ระหว่างทางกลับของเราละ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">หนังสือที่พวกเราได้ชื่อว่าอะไรนะ?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">หนังสือที่มีข้อมูล... ฉันหวังว่ามันจะเป็นประโยชน์สำหรับเรา</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">…Acknowledging my weakness is important as well.</BattleDialog>
-      <BattleDialog ID="DEATH_1">Shoot… I wasn’t quite capable enough…</BattleDialog>
-      <BattleDialog ID="DEATH_2">Don’t let me bother you…</BattleDialog>
-      <BattleDialog ID="DEATH_3">To perish like this…</BattleDialog>
-      <BattleDialog ID="DEATH_4">I did my best… I have no regrets.</BattleDialog>
+      <BattleDialog ID="DEATH_0">…การยอมรับความอ่อนแอของฉันก็สำคัญเช่นกัน</BattleDialog>
+      <BattleDialog ID="DEATH_1">เชี้ยเอ่ย ฉันยังไม่เก่งพอสินะ</BattleDialog>
+      <BattleDialog ID="DEATH_2">อย่าให้ฉันเป็นคนกวนพวกนายเลย</BattleDialog>
+      <BattleDialog ID="DEATH_3">ให้พินาศไปอย่างนี้…</BattleDialog>
+      <BattleDialog ID="DEATH_4">ฉันทำดีที่สุดแล้ว… ฉันไม่เสียใจเลย</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">I won’t stand back!</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">This isn’t a good look.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">The situation got awkward…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_3">…We can’t give up here.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_4">This isn’t over yet.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">ฉันไม่หนีหรอกนะ!!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">นี่ดูไม่ค่อยดีเลยนะ..</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">สถานการณ์เริ่มอึดอัด…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">พวกเรายอมแพ้ไม่ได้นะ</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">มันยังไม่จบหรอกนะ</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Haha! What a rush!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">This won’t be the most difficult request we take!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Now we push ahead!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_3">They fall at last!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_4">I see the gaps in your defense clearly!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ฮ่าฮ่า! รีบไปไหนเปล่า</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">นี่จะไม่ใช่คำขอที่ยากที่สุดของเรา!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ตอนนี้เราก้าวไปข้างหน้า!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">ในที่สุดพวกเขาก็ล้มลง!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">ฉันเห็นช่องว่างของแกแล้ว</BattleDialog>
     </Type>
   </Character>
   
