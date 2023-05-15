@@ -2215,85 +2215,85 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela1</VoiceFile>
-          <Content>These guests seem quite determined. We should prepare accordingly.</Content>
+          <Content>แขกพวกนี้ดูเหมือนมีความมุ่งมั่นอย่างมาก เราควรเตรียมตัวให้พร้อมนะ</Content>
         </Dialog>
         <Dialog ID="17" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland1</VoiceFile>
-          <Content>A whole Office coming at us, huh.</Content>
+          <Content>เนี้ยคงไม่มากันทั้งสำนักงานใช่ไหม หะ?</Content>
         </Dialog>
         <Dialog ID="18" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland2</VoiceFile>
-          <Content>It may be a small and insignificant one, but it could prove to be a little tough for the Library right now.</Content>
+          <Content>อาจจะเป็นสำนักงานเล็กและไม่มีความสำคัญนัก แต่มันก็อาจจะเป็นเรื่องลำบากสำหรับห้องสมุดได้ในตอนนี้</Content>
         </Dialog>
         <Dialog ID="19" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland3</VoiceFile>
-          <Content>What if they make it all the way to your room?</Content>
+          <Content>ถ้าพวกเขาไปถึงห้องของเธอแล้วมันจะเกิดอะไรขึ้น?</Content>
         </Dialog>
         <Dialog ID="20" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela2</VoiceFile>
-          <Content>The guests cannot act outside of the space we’ve prepared for them. It’s how this place works.</Content>
+          <Content>แขกไม่สามารถทำอะไรได้นอกเหนือจากพื้นที่ที่เราจัดให้ นั้นคือวิธีการทำงานของที่นี่</Content>
         </Dialog>
         <Dialog ID="21" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela3</VoiceFile>
-          <Content>After all, this space is created with limitless power.</Content>
+          <Content>ท้ายที่สุดแล้ว พื้นที่นี้ถูกสร้างขึ้นด้วยพลังที่ไร้ขีดจำกัด</Content>
         </Dialog>
         <Dialog ID="22" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela4</VoiceFile>
-          <Content>Yet you somehow jumped right into my room, when you weren’t even invited… </Content>
+          <Content>แต่นายก็กระโดดเข้ามาในห้องของฉันได้อย่างหน้าตาเฉย โดยที่ไม่ได้รับเชิญ… </Content>
         </Dialog>
         <Dialog ID="23" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela5</VoiceFile>
-          <Content>Anyways, I’m capable of protecting myself, so there’s nothing for you to worry about.</Content>
+          <Content>ยังไงก็ตาม ฉันก็สามารถปกป้องตัวเองได้ ดังนั้นไม่มีอะไรต้องกังวล</Content>
         </Dialog>
         <Dialog ID="24" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela6</VoiceFile>
-          <Content>Greetings, dear guests.</Content>
+          <Content>สวัสดีค่ะ แขกผู้เกียรติ์</Content>
         </Dialog>
         <Dialog ID="25" model="윤">
           <Teller>ยุน</Teller>
           <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun9</VoiceFile>
-          <Content>You must be the owner of this place.</Content>
+          <Content>เธอคงเป็นเจ้าของสถานที่แห้งนี้สินะ</Content>
         </Dialog>
         <Dialog ID="26" model="에리">
           <Teller>อีริ</Teller>
           <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep3_eri9</VoiceFile>
-          <Content>She doesn’t even look that strong.</Content>
+          <Content>เธอดูไม่ค่อยแข็งแกร่งเท่าไหร่เลยนะ</Content>
         </Dialog>
         <Dialog ID="27" model="윤">
           <Teller>ยุน</Teller>
           <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun10</VoiceFile>
-          <Content>Finn must have been here earlier; what happened to him?</Content>
+          <Content>ฟินน์ต้องมาที่นี่ก่อนหน้านี้แน่ มันเกิดอะไรขึ้นกับเขา?</Content>
         </Dialog>
         <Dialog ID="28" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela7</VoiceFile>
-          <Content>Ah, that one has become a book.</Content>
+          <Content>อา เขาได้กลายเป็นหนังสือไปแล้ว</Content>
         </Dialog>
         <Dialog ID="29" model="에리">
           <Teller>อีริ</Teller>
           <Title>สำนักงานยุน</Title>
           <VoiceFile>ch1_Yun_ep3_eri10</VoiceFile>
-          <Content>I see, so you turn into a book if you die here~</Content>
+          <Content>อย่างงี้นี่เอง ถ้าหากตายที่นี่ก็จะกลายเป็นหนังสือสินะ~</Content>
         </Dialog>
         <Dialog ID="30" model="윤">
           <Teller>ยุน</Teller>
@@ -2305,19 +2305,19 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela8</VoiceFile>
-          <Content>Acting all sentimental when you were the one who sent him here, knowing he’d fail?</Content>
+          <Content>แหม ทำตัวเหมือนเห็นอกเห็นใจ ในเมื่อคุณเป็นคนส่งเขามาทั้งที่รู้อยู่แล้วว่าเขาจะล้มเหลวที่นี่?</Content>
         </Dialog>
         <Dialog ID="32" model="윤">
           <Teller>ยุน</Teller>
           <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun12</VoiceFile>
-          <Content>Shut up. We all get exploited and abandoned at some point in our lives.</Content>
+          <Content>หุบปาก เราทุกคนล้วนจะถูกใช้ให้ประโยชน์และถูกทอดทิ้งในช่วงหนึ่งของชีวิตอยู่แล้ว</Content>
         </Dialog>
         <Dialog ID="33" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela9</VoiceFile>
-          <Content>…May you find your book in this place.</Content>
+          <Content>…ขอให้คุณพบหนังสือที่ต้องการ ณ ที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>
