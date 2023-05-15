@@ -4,65 +4,65 @@
 
   <Character ID="Named">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Ready now? We’re here because we wanna live.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Stop complaining, and be thankful that we even get another minute.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">If we take care of this right… We won’t be purged at the very least.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">พร้อมหรือเปล่า.. พวกเรามาที่นี้เพราะอยากจะรอด</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">พูดบ่นได้แล้ว รู้สึกขอบคุณไว้ซะเถอะทีพวกเรายังมีชีวิตอยู่อีกนาทีกว่าๆ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ถ้าเราจัดการตรงนี้ได้ อย่างน้อยพวกเราก็จะไม่ถูกกวาดล้าง</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">…Let’s head back. We’d better deal with this fast.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">How many do we have left? Can you all stand?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">…กลับกันเถอะ เราควรจัดการกับเรื่องนั้นเร็วๆ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">พวกเราเหลือกันเท่าไหร่เนี่ย? พวกนายยืนไหวกันมั้ย?</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Wouldn’t have mattered… where we die…</BattleDialog>
-      <BattleDialog ID="DEATH_1">All because of that damn hothead…</BattleDialog>
+      <BattleDialog ID="DEATH_0">คงไม่สำคัญแล้วละ... ว่าตายที่ไหน</BattleDialog>
+      <BattleDialog ID="DEATH_1">ทุกอย่างเพราะไอ้บ้าหัวร้อนนั้น..</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Keep fighting to your last moment.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Is this all you could do?</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">Stay sharp if you don’t want to snuff it.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">สู้จนถึงที่สุดซะเถอะ</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">พวกนายทำได้แค่นี้หรอ</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">ตั้งใจไว้ถ้าพวกนายไม่อยากตายกัน</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">…Let’s deal with the rest quickly.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Survival matters the most. Focus.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">…They’re using all kinds of techniques.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">…มารีบจัดการกับส่วนที่เหลือกัน</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">โฟกัสไว้ การอยู่รอดสำคัญที่สุด</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">…พวกมัยกำลังใช้เทคนิคทุกรูปแบบ</BattleDialog>
     </Type>
   </Character>
 
   <Character ID="AwlOfNight">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Not sure if it was such a good idea to come here…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Doubt this’ll make much difference other than where we die.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Why’d we work under that man…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_3">He got us all in serious trouble.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_4">If we find valuable intel, maybe there’ll be room for negotiation…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ไม่รู้เลยว่ามันจะเป็นไอเดียที่ดีจริงๆหรอที่มาที่นี่</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">สงสัยว่านี้ต้องต่างจากที่ๆพวกเราตายกันสุดๆเลยแหละ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ทำไมพวกเราต้องทำงานให้ผู้ชายนั้นด้วย...</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">เขาทำให้พวกเราทุกคนเจอปัญหาที่เซียสเรียสสุดๆแล้วสิ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">ถ้าพวกเรามีข้อมูลสำคัญ อาจจะเจรจาต่อรองกันได้ก็ได้...</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Done packing up here.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Tardiness won’t do us any good, let’s return as soon as possible.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_2">Is this intel… gonna be good enough for a bargain?</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_3">Hopefully they’ll forgive us…</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_4">Nowhere else we can go now…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">เก็บเสร็จแล้ว</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">ช้าอยู่ที่นี้ไม่ได้ช่วยอะไรเราเลย กลับกันเถอะ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">ข้อมูลพวกนี้มันมากพอที่จะต่อรองหรือเปล่านะ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">หวังว่าพวกมันจะให้อภัยพวกเรา..</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">ไม่มีที่ไหนที่พวกเราจะไปได้อีกแล้ว..</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Why do we have to take the fall…</BattleDialog>
-      <BattleDialog ID="DEATH_1">Those freaks… How’d they get so much power…</BattleDialog>
-      <BattleDialog ID="DEATH_2">Either choice was a losing bet…</BattleDialog>
-      <BattleDialog ID="DEATH_3">Maybe I should’ve tried… running away…</BattleDialog>
-      <BattleDialog ID="DEATH_4">…Guess I gotta accept this loss.</BattleDialog>
+      <BattleDialog ID="DEATH_0">ทำไมพวกเราถึงล้มละ..</BattleDialog>
+      <BattleDialog ID="DEATH_1">พวกบ้านั้น...มันมีพลังเยอะขนาดนั้นได้ยังไง..</BattleDialog>
+      <BattleDialog ID="DEATH_2">จะทางไหนที่เลือกคือการเดิมพันที่แพ้...</BattleDialog>
+      <BattleDialog ID="DEATH_3">บางที..ฉันควรลอง...วิ่งหนีไป</BattleDialog>
+      <BattleDialog ID="DEATH_4">คงต้อง..ยอมรับความตายนี่สินะ</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">What a mess we’ve gotten into.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Shouldn’t we just call it quits and cut our losses?</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">Oh now isn’t this just fantastic!</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_3">Gotta press on anyhow…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_3">This is getting worse than I thought.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">พวกเรามายุ่งเรื่องอะไรกันเนี่ย</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">เราควรพอดีมั้ยจะได้ลดความสูญเสียของพวกเรา</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">โอ้ตอนนี้ไม่ใช่แค่ที่จินตนาการไว้แล้ว</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">ยังไงก็ต้องผ่านไปให้ได้</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">นี่มันแย่กว่าที่ฉันคิดซะอีก.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">We should hurry up and get over this.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">They might take us back if we’re fast enough.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">How’d we end up doing this…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_3">It’s too early to let our guard down.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_4">Pierce the right spot… to end it for certain.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">พวกเราควรรีบและจัดการเรื่องทั้งหมดนี่นะ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">พวกมันอาจจะรับเรากลับก็ได้ถ้าเราเร็วพอ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">พวกเรามาทำแบบนี่กันได้ยังไง</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">มันเร็วเกินไปที่จะลดการ์ดของเราลง</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">แทงให้ถูกจุด…ยังไงก็จบแน่นอน</BattleDialog>
     </Type>
   </Character>
   
