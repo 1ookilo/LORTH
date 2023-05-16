@@ -624,27 +624,34 @@
 '[เมื่อโจมตี] ฟื้นฟู 2 HP'</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="sweeperOnlyDice">
-<Desc>[เมื่อโจมตี] ถ้าผลทอยปกติเป็น 3 ใช้ลูกเต๋านี้อีกครั้ง (สูงสุด 6 ครั้ง)</Desc>
+<Desc>[เมื่อโจมตี] ถ้าผลทอยปกติเป็น 3
+ใช้ลูกเต๋านี้อีกครั้ง (สูงสุด 6 ครั้ง)</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="ally2protection1thisRound">
-<Desc>[เมื่อเริ่มการต่อสู้] มอบเกราะ 1 จำนวนให้เพื่อนร่วมทีมสองคนแบบสุ่ม</Desc>
+<Desc>[เมื่อเริ่มการต่อสู้] มอบเกราะ 1 จำนวน
+ให้เพื่อนร่วมทีมสองคนแบบสุ่ม</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="powerDown2thisRound">
-<Desc>[เมื่อเริ่มการต่อสู้] ลูกเต๋าทั้งหมดที่ผู้ใช้เล่นในฉากนี้ เสียพลัง -2</Desc>
+<Desc>[เมื่อเริ่มการต่อสู้] ลูกเต๋าทั้งหมดที่
+ผู้ใช้เล่นในฉากนี้เสียพลัง -2</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="powerUp1highlander">
-<Desc>[เมื่อใช้] ถ้าเป็นหนึ่งเดียว ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +1</Desc>
+<Desc>[เมื่อใช้] ถ้าเป็นหนึ่งเดียว
+ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +1</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="drawCard3highlander">
-<Desc>[เมื่อใช้] ถ้าเป็นหนึ่งเดียว จั่ว Page 3 ใบ</Desc>
+<Desc>[เมื่อใช้] ถ้าเป็นหนึ่งเดียว
+จั่ว Page 3 ใบ</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="powerUp2fullCard">
-<Desc>[เมื่อใช้] ถ้ามี 7 Page หรือมากกว่าในมือ ลูกเต๋าทั้งหมดบน Page ได้รับพลัง +2</Desc>
+<Desc>[เมื่อใช้] ถ้ามี 7 Page หรือมากกว่าในมือ
+ลูกเต๋าทั้งหมดบน Page ได้รับพลัง +2</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="powerDown3thisRound">
-<Desc>[เมื่อเริ่มการต่อสู้] ลูกเต๋าทั้งหมดที่ผู้ใช้เล่นในฉากนี้ เสียพลัง -3</Desc>
+<Desc>[เมื่อเริ่มการต่อสู้] ลูกเต๋าทั้งหมดที่
+ผู้ใช้เล่นในฉากนี้เสียพลัง -3</Desc>
 </BattleCardAbility>
 
 <!--
@@ -658,7 +665,8 @@
 
 <BattleCardAbility ID="fairy_ego">
 <Desc>[เมื่อโจมตี] ฟื้นฟู 3 HP;
-ใช้ลูกเต๋านี้ซ้ำไปเรื่อยๆจนกว่าจะทอยได้ค่าต่ำสุด (สูงสุด 5 ครั้ง)</Desc>
+ใช้ลูกเต๋านี้ซ้ำไปเรื่อยๆจนกว่า
+จะทอยได้ค่าต่ำสุด (สูงสุด 5 ครั้ง)</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="schorchedArea">
@@ -672,7 +680,8 @@
 </BattleCardAbility>
 
 <BattleCardAbility ID="teddyEgo">
-<Desc>[เมื่อปะทะชนะ] ทำลายลูกเต๋าของศัตรูทั้งหมด</Desc>
+<Desc>[เมื่อปะทะชนะ] ทำลายลูกเต๋า
+ของศัตรูทั้งหมด</Desc>
 </BattleCardAbility>
 
 <!-- warp crew -->
@@ -684,14 +693,17 @@
 </BattleCardAbility>
 
 <BattleCardAbility ID="warpSkillDice">
-<Desc>ถ้าถูกใช้ไป 10 ชาร์จในครั้งเดียวนี้ ได้รับเพิ่มอีก +2</Desc>
+<Desc>ถ้าถูกใช้ไป 10 ชาร์จในครั้งเดียวนี้
+ได้รับพลังเพิ่มอีก +2</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="power3costCharge"> <!-- ถ้าno '충전''이 책장의 모든 주사위 위력 +3' is not activated-->
-<Desc>[เมื่อใช้] ใช้ชาร์จ 3 จำนวนเพื่อเพิ่มพลังของลูกเต๋าทั้งหมดบน Page นี้ +3</Desc>
+<Desc>[เมื่อใช้] ใช้ชาร์จ 3 จำนวนเพื่อ
+เพิ่มพลังของลูกเต๋าทั้งหมดบน Page นี้ +3</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="warpOvercharge">
-<Desc>[เมื่อใช้] ได้รับชาร์จ 10 จำนวน และแล้วจะหมดสภาพในฉากถัดไป</Desc>
+<Desc>[เมื่อใช้] ได้รับชาร์จ 10 จำนวน
+และจะหมดสภาพในฉากถัดไป</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="warpCharge3">
@@ -707,7 +719,8 @@
 <Desc>[เมื่อใช้] ได้รับชาร์จ 6 จำนวน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="warpCharge2energy1">
-<Desc>[เมื่อใช้] ได้รับชาร์จ 2 จำนวน และฟื้นฟูแสง 1 หน่วย</Desc>
+<Desc>[เมื่อใช้] ได้รับชาร์จ 2 จำนวน
+และฟื้นฟูแสง 1 หน่วย</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="drawCardWarp">
@@ -754,32 +767,40 @@
 </BattleCardAbility>
 
 <BattleCardAbility ID="energySmoke">
-<Desc>[เมื่อใช้] ได้รับควัน 2 จำนวน ฟื้นฟูแสง 1 หน่วย</Desc>
+<Desc>[เมื่อใช้] ได้รับควัน 2 จำนวน
+ฟื้นฟูแสง 1 หน่วย</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="energySmoke2">
-<Desc>[เมื่อใช้] ได้รับควัน 2 จำนวน ฟื้นฟูแสง 2 หน่วย</Desc>
+<Desc>[เมื่อใช้] ได้รับควัน 2 จำนวน
+ฟื้นฟูแสง 2 หน่วย</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="powerUp2smoke">
-<Desc>[เมื่อใช้] ใช้ควัน 3 จำนวนเพื่อเพิ่มพลังของลูกเต๋าทั้งหมดบน Page นี้ +2</Desc>
+<Desc>[เมื่อใช้] ใช้ควัน 3 จำนวนเพื่อ
+เพิ่มพลังของลูกเต๋าทั้งหมดบน Page นี้ +2</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="bleedingXsmoke">
 <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 
-จำนวนในฉากถัดไป ต่อจำนวนควัน 2 จำนวนของศัตรู</Desc>
+จำนวนในฉากถัดไป ต่อจำนวนควัน
+2 จำนวนของศัตรู</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="bleeding3smoke">
-<Desc>[เมื่อโจมตี] ใช้ควัน 2 จำนวนเพื่อมอบเลือดเลือดไหล 3 จำนวน</Desc>
+<Desc>[เมื่อโจมตี] ใช้ควัน 2 จำนวนเพื่อ
+มอบเลือดเลือดไหล 3 จำนวน</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="debufsSmoke">
-<Desc>[เมื่อโจมตี] หากเป้าหมายมีควัน 7 จำนวนหรือมากกว่า มอบอัมพาต 2 จำนวนandอ่อนแรง 1 จำนวน</Desc>
+<Desc>[เมื่อโจมตี] หากเป้าหมายมีควัน 7 จำนวนหรือมากกว่า
+มอบอัมพาต 2 จำนวนandอ่อนแรง 1 จำนวน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="debufsSmokeRemake">
-<Desc>[เมื่อโจมตี] หากเป้าหมายมีควัน 4 จำนวนหรือมากกว่า มอบอัมพาต 2 จำนวนandอ่อนแรง 1 จำนวน</Desc>
+<Desc>[เมื่อโจมตี] หากเป้าหมายมีควัน 4 จำนวนหรือมากกว่า
+มอบอัมพาต 2 จำนวนandอ่อนแรง 1 จำนวน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="drawSmoke">
-<Desc>[เมื่อโจมตี] หากเป้าหมายมีควัน 3 จำนวนหรือมากกว่า จั่ว Page 2 ใบ</Desc>
+<Desc>[เมื่อโจมตี] หากเป้าหมายมีควัน 3 จำนวนหรือมากกว่า
+จั่ว Page 2 ใบ</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="smokeOnly1">
@@ -794,7 +815,8 @@
 </BattleCardAbility>
 
 <BattleCardAbility ID="butterfly_brkdmg">
-<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 5 ดาเมจใส่เป้าหมาย</Desc>
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 5
+ดาเมจใส่เป้าหมาย</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="weak5atk">
 <Desc>[เมื่อโจมตี] มอบอ่อนแรง 5 จำนวน</Desc>
@@ -806,17 +828,23 @@
 <Desc>[เมื่อโจมตี] มอบ 5 พันธนา</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="yesod_final_butterfly_ego_brk">
-<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 3 ดาเมจใส่เป้าหมาย</Desc>
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 3
+ดาเมจใส่เป้าหมาย</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="yesod_final_butterfly_ego_dmg">
-<Desc>[เมื่อโจมตี] ทำดาเมจ 3 ดาเมจใส่เป้าหมาย</Desc>
+<Desc>[เมื่อโจมตี] ทำดาเมจ 3 ดาเมจ
+ใส่เป้าหมาย</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="murderDice1">
-<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger ดาเมจเป็นจำนวน 10% ของ Stagger Resist ปัจจุบันของเป้าหมาย</Desc>
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger ดาเมจเป็นจำนวน
+10% ของ Stagger Resist ปัจจุบัน
+ของเป้าหมาย</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="murderDice2">
-<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger ดาเมจเป็นจำนวน 50% ของ Stagger Resist ปัจจุบันของเป้าหมาย</Desc>
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger ดาเมจเป็นจำนวน
+50% ของ Stagger Resist ปัจจุบัน
+ของเป้าหมาย</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="helperEgo">
@@ -828,24 +856,27 @@
 </BattleCardAbility>
 
 <BattleCardAbility ID="singingMachineEgo">
-<Desc>ทุกครั้งที่โจมตีสำเร็จ เพื่อนร่วมทีมหนึ่คนจะโดนดาเมจ Stagger 3 ดาเมจ และได้รับกำลัง 1 
+<Desc>ทุกครั้งที่โจมตีสำเร็จ เพื่อนร่วมทีมหนึ่ง
+คนจะโดนดาเมจ Stagger 3 ดาเมจ และได้รับกำลัง 1 
 จำนวนในฉากถัดไป</Desc>
 <Desc>เมื่อฆ่าศัตรูได้ เพื่อนร่วมทีมทั้งหมดได้รับกำลัง 2</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="singingMachineDice">
-<Desc>[เมื่อโจมตี] ใช้ลูกเต๋านี้ซ้ำไปเรื่อยๆจนกว่าจะทอยได้ค่าต่ำสุด (สูงสุด 2 ครั้ง)</Desc>
+<Desc>[เมื่อโจมตี] ใช้ลูกเต๋านี้ซ้ำไปเรื่อยๆ
+จนกว่าจะทอยได้ค่าต่ำสุด (สูงสุด 2 ครั้ง)</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="buterflyEgo">
 <Desc>ลูกเต๋าบน Page นี้จะถูกใช้ 8 ครั้ง</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="buterflyDice">
-<Desc>[เมื่อโจมตี] สุ่มทำดาเมจ 3 ดาเมจ หรือดาเมจ Stagger 3 ดาเมจใส่เป้าหมาย</Desc>
+<Desc>[เมื่อโจมตี] สุ่มทำดาเมจ 3 ดาเมจ
+หรือดาเมจ Stagger 3 ดาเมจใส่เป้าหมาย</Desc>
 </BattleCardAbility>
 
 
 <BattleCardAbility ID="freischutzEgo">
-<Desc>[Synchronize] on equip</Desc>
+<Desc>[ซิงค์โครไนซ์] เมื่อใช้งาน</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="philipEgo">
@@ -853,7 +884,8 @@
 </BattleCardAbility>
 
 <BattleCardAbility ID="cryingChildPenalty">
-<Desc>[เมื่อปะทะแพ้] ความทนทานของเพื่อนร่วมทีมทั้งหมดเปลี่ยนเป็น "ร้ายแรง"</Desc>
+<Desc>[เมื่อปะทะแพ้] ความทนทานของ
+เพื่อนร่วมทีมทั้งหมดเปลี่ยนเป็น "ร้ายแรง"</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="cryingChildArea">
 <Desc> ผู้ใช้จะ Staggered เมื่อจบฉาก</Desc>
@@ -864,13 +896,15 @@
 <!-- 리우 2과 -->
 <!-- card ability -->
 <BattleCardAbility ID="liuUnique">
-<Desc>[เมื่อใช้] ลูกเต๋าบน Page นี้จะได้รับ +1 Power for every 2 ระดับอารมณ์s</Desc>
+<Desc>[เมื่อใช้] ลูกเต๋าบน Page นี้จะได้รับพลัง 1 
+ต่อระดับอารมณ์ 2 ระดับ</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="costDown1emotion3">
-<Desc>Costs 1 less at ระดับอารมณ์ 3 or higher</Desc>
+<Desc>คอสลดลง 1 หากมีระดับอารมณ์
+อยู่ที่ 3 หรือสูงกว่า</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="dmgUp1thisRound">
-<Desc>[เมื่อเริ่มการต่อสู้] Offensive dice deal +1 damage forในฉากนี้</Desc>
+<Desc>[เมื่อเริ่มการต่อสู้] ลูกเต๋าประเภทโจมตีทำดาเมจ +1 ในฉากนี้</Desc>
 </BattleCardAbility>
 
 <!-- dice ability -->
@@ -880,17 +914,17 @@
 
 <!-- card ability -->
 <BattleCardAbility ID="gainPositive1">
-<Desc>[เมื่อใช้] ได้รับ 1 Positive แต้มอารมณ์</Desc>
+<Desc>[เมื่อใช้] ได้รับ 1 แต้มอารมณ์บวก</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="endurance1emotion">
-<Desc>[เมื่อใช้] ได้รับอึดทน 1 จำนวนในฉากถัดไป At ระดับอารมณ์ 3 or higher ได้รับอึดทน 2 จำนวนinstead</Desc>
+<Desc>[เมื่อใช้] ได้รับอึดทน 1 จำนวนในฉากถัดไป หากระดับอารมณ์ 3 หรือสูงกว่า ได้รับอึดทน 2 จำนวนแทน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="lowelonly">
-<Desc>[เมื่อใช้] Remove all dice from this page Add a Mass Attack page to hand that can only be used ในฉากถัดไป</Desc>
+<Desc>[เมื่อใช้] ลบลูกเต๋าบน Page นี้ และเพิ่ม Page โจมตีหมู่ที่จะใช้ได้ในฉากถัดไปเท่านั้น</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="lowelCreated">
-<Desc>Can only be usedในฉากนี้</Desc>
+<Desc>ใช้ได้ในฉากนี้เท่านั้น</Desc>
 </BattleCardAbility>
 
 <!-- dice ability -->

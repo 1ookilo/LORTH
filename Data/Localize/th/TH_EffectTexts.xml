@@ -252,15 +252,15 @@
     </BattleEffectText>
     -->
     <BattleEffectText ID="AreaCard_Keyword">
-      <Name>การโจมตีหมู่</Name>
+      <Name>โจมตีหมู่</Name>
       <Desc>กำหนดเป้าหมายศัตรูทุกตัวโดยสุ่มโจมตีลูกเต๋าหนึ่งลูก</Desc>
     </BattleEffectText>
     <BattleEffectText ID="AreaDiceAll_Keyword">
-      <Name>สรุป</Name>
+      <Name>รวมเต๋า</Name>
       <Desc>หากเป็นการโจมตี &gt; หากผลรวมลูกเต๋าต่อสู้ของเราของมากกว่าเป้าหมาย เป้าหมายได้รับความเสียหายและลูกเต๋าของเป้าหมายถูกทำลาย</Desc>
     </BattleEffectText>
     <BattleEffectText ID="AreaDiceEach_Keyword">
-      <Name>ปัจเจก</Name>
+      <Name>รายเต๋า</Name>
       <Desc>หากทอยลูกเต๋าได้มากกว่าเป้าหมายทำดาเมจแล้วทำลายลูกเต๋า</Desc>
     </BattleEffectText>
 
