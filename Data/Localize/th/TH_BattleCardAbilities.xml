@@ -1,2334 +1,2587 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BattleCardAbility ID="exhaust">
-    <Desc>Page นี้จะสลาย เมื่อถูกใช้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="vulnerable1atk">
-    <Desc>[เมื่อโจมตี] มอบเปราะบาง 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="vulnerable2atk">
-    <Desc>[เมื่อโจมตี] มอบเปราะบาง 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="vulnerable3atk">
-    <Desc>[เมื่อโจมตี] มอบเปราะบาง 3 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="vulnerable4atk">
-    <Desc>[เมื่อโจมตี] มอบเปราะบาง 4 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="vulnerable5atk">
-    <Desc>[เมื่อโจมตี] มอบเปราะบาง 5 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="bleeding1atk">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="bleeding2atk">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 2 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="bleeding3atk">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 3 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="bleeding4atk">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 4 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="bleeding6atk">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 6 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="exhaust">
+<Desc>Page นี้จะสลาย เมื่อถูกใช้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="vulnerable1atk">
+<Desc>[เมื่อโจมตี] มอบเปราะบาง 1
 
-  <BattleCardAbility ID="bleeding2pw">
-    <Desc>[เมื่อปะทะชนะ] มอบเลือดเลือดไหล 2 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="bleeding1atk_pierre">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="bleeding2atk_pierre">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 2 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="vulnerable2atk">
+<Desc>[เมื่อโจมตี] มอบเปราะบาง 2 
 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="vulnerable3atk">
+<Desc>[เมื่อโจมตี] มอบเปราะบาง 3 
 
-  <BattleCardAbility ID="burn1atk">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="burn2atk">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="burn3atk">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 3 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="burn4atk">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 4 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="burn6atk">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 6 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="burn10atk">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 10 จำนวน</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="vulnerable4atk">
+<Desc>[เมื่อโจมตี] มอบเปราะบาง 4 
 
-  <BattleCardAbility ID="burn2pw">
-    <Desc>[เมื่อปะทะชนะ] มอบเผาไหม้ 2 จำนวน</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="vulnerable5atk">
+<Desc>[เมื่อโจมตี] มอบเปราะบาง 5 
 
-  <BattleCardAbility ID="weak1atk">
-    <Desc>[เมื่อโจมตี] มอบอ่อนแรง 1 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="weak2atk">
-    <Desc>[เมื่อโจมตี] มอบอ่อนแรง 2 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="malkuthboss_whitesnow_far2">
-    <Desc>[เมื่อโจมตี] มอบอ่อนแรง 3 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="weak1pw">
-    <Desc>[เมื่อปะทะชนะ] มอบอ่อนแรง 1 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="recoverHp1atk">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู 1 HP</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="recoverHp2atk">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู 2 HP</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="recoverHp3atk">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู 3 HP</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="recoverHp4atk">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู 4 HP</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="recoverHp6atk">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู 6 HP</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="recoverHp1">
-    <Desc>[เมื่อใช้] ฟื้นฟู 1 HP</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="recoverHp2dfn">
-    <Desc>[เมื่อใช้ป้องกัน] ฟื้นฟู 2 HP</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="bleeding1atk">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 
 
-  <BattleCardAbility ID="disarm1atk">
-    <Desc>[เมื่อโจมตี] มอบตัดกำลัง 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="disarm2atk">
-    <Desc>[เมื่อโจมตี] มอบตัดกำลัง 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="disarm3atk">
-    <Desc>[เมื่อโจมตี] มอบตัดกำลัง 3 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="malkuthboss_whitesnow_far3">
-    <Desc>[เมื่อโจมตี] มอบตัดกำลัง 3 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="binding1atk">
-    <Desc>[เมื่อโจมตี] มอบพันธนา 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="binding2atk">
-    <Desc>[เมื่อโจมตี] มอบพันธนา 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="binding3atk">
-    <Desc>[เมื่อโจมตี] มอบพันธนา 3 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="bleeding2atk">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 2 
 
-  <BattleCardAbility ID="paralysis1atk">
-    <Desc>[เมื่อโจมตี] มอบอัมพาต 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="paralysis2atk">
-    <Desc>[เมื่อโจมตี] มอบอัมพาต 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="paralysis3atk">
-    <Desc>[เมื่อโจมตี] มอบอัมพาต 3 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="paralysis4atk">
-    <Desc>[เมื่อโจมตี] มอบอัมพาต 4 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="final_queenbee_paralyze">
-    <Desc>[เมื่อโจมตี] มอบอัมพาต 4 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="bleeding3atk">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 3 
 
-  <BattleCardAbility ID="paralysis1pw">
-    <Desc>[เมื่อปะทะชนะ] มอบอัมพาต 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="paralysis2pw">
-    <Desc>[เมื่อปะทะชนะ] มอบอัมพาต 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="quickness1">
-    <Desc>[เมื่อใช้] ได้รับว่องไว 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="quickness2">
-    <Desc>[เมื่อใช้] ได้รับว่องไว 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="quickness1atk">
-    <Desc>[เมื่อโจมตี] ได้รับว่องไว 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="bleeding4atk">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 4 
 
-  <BattleCardAbility ID="endurance1pw">
-    <Desc>[เมื่อปะทะชนะ] ได้รับอึดทน 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="endurance2pw">
-    <Desc>[เมื่อปะทะชนะ] ได้รับอึดทน 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="bleeding6atk">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 6 
 
-  <BattleCardAbility ID="endurance2">
-    <Desc>[เมื่อใช้] ได้รับอึดทน 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="protection2">
-    <Desc>[เมื่อใช้] ได้รับเกราะ 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="bleeding2pw">
+<Desc>[เมื่อปะทะชนะ] มอบเลือดเลือดไหล 2 
 
-  <BattleCardAbility ID="energy1">
-    <Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="energy2">
-    <Desc>[เมื่อใช้] ฟื้นฟูแสง 2 หน่วย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="energy4">
-    <Desc>[เมื่อใช้] ฟื้นฟูแสง 4 หน่วย</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="energy1atk">
-    <Desc>[เมื่อโจมตี] ฟื้นฟูแสง 1 หน่วย</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="bleeding1atk_pierre">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 
 
-  <BattleCardAbility ID="strength1">
-    <Desc>[เมื่อใช้] ได้รับกำลัง 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="strength2">
-    <Desc>[เมื่อใช้] ได้รับกำลัง 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="strength3">
-    <Desc>[เมื่อใช้] ได้รับกำลัง 3 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="bleeding2atk_pierre">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 2 
 
-  <BattleCardAbility ID="upgradeNext1pw">
-    <Desc>[เมื่อปะทะชนะ] เพื่อค่าสูงสุดของลุกเต๋าถัดไป +3</Desc>
-  </BattleCardAbility>  
-  <BattleCardAbility ID="downgradeNext1pw">
-    <Desc>[เมื่อปะทะชนะ] ลดค่าสูงสุดของลูกเต๋าของศัตรูลง -3</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerUpNext2pw">
-    <Desc>[เมื่อปะทะชนะ] เพิ่มพลังลูกเต๋าถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerUpNext1pl">
-    <Desc>[เมื่อปะทะแพ้] เพิ่มพลังลูกเต๋าถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerUpNext2pl">
-    <Desc>[เมื่อปะทะแพ้] เพิ่มพลังลูกเต๋าถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="protection1friend">
-    <Desc>[เมื่อใช้] มอบเกราะ 1 จำนวนให้กับเพื่อนร่วมทีมทั้งหมดในฉากถัดไป</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="endurance1friend">
-    <Desc>[เมื่อใช้] มอบอึดทน 1 จำนวนให้กับเพื่อนร่วมทีมทั้งหมดในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="endurance2friend">
-    <Desc>[เมื่อใช้] มอบอึดทน 2 จำนวนให้กับเพื่อนร่วมทีมทั้งหมดในฉากถัดไป</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="damage2pw">
-    <Desc>[เมื่อปะทะชนะ] ทำดาเมจ 2 ดาเมจใส่ศัตรู</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="damage3pw">
-    <Desc>[เมื่อปะทะชนะ] ทำดาเมจ 3 ดาเมจใส่ศัตรู</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="damage2atk">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ 2 ดาเมจใส่เป้าหมาย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="damage3atk">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ 3 ดาเมจใส่เป้าหมาย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="damage5atk">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ 5 ดาเมจใส่เป้าหมาย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="discard_lowest">
-    <Desc>[เมื่อใช้] ทิ้ง Page ที่มี Cost ต่ำที่สุด</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="discardall">
-    <Desc>[เมื่อใช้] ทิ้ง Page ทั้งหมด</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="drawDiscard">
-    <Desc>จั่ว Page 1 ใบเมื่อทิ้ง Page นี้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="power_2">
-    <Desc>[เมื่อใช้] ลูกเต๋าทั้งหมดบน Page นี้เสียพลัง -2</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="energy1paralysis1">
-    <Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย; มอบอัมพาต 1 จำนวนให้ตัวเองในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="discardAndEnergy">
-    <Desc>[เมื่อใช้] ทิ้ง Page ที่มี Cost ต่ำที่สุด และฟื้นฟูแสง 2 หน่วย</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="pierre">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู HP ตามจำนวนเลือดไหลของเป้าหมาย</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="ruru1">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน; ทำดาเมจ 3 ดาเมจใส่ตนเอง</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="ruru2">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 3 จำนวน; ทำดาเมจ 3 ดาเมจใส่ตนเอง</Desc>
-  </BattleCardAbility>
-  <!-- 토머리 패치 - 텍스트 변경됨 -->
-  <BattleCardAbility ID="gyeongmi">
-    <Desc>[เมื่อใช้] ลบลูกเต๋าบน Page นี้ และก๊อปปี้ลูกเต๋าของ Page ในมือแบบสุ่ม</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="pinocchio">
-    <Desc>[เมื่อเริ่มการปะทะ] ลบลูกเต๋าบน Page นี้ และก๊อปปี้ลูกเต๋าของ Page ของศัตรู</Desc>
-  </BattleCardAbility>
-
-  <!-- The Carnival -->
-  <BattleCardAbility ID="energy1pw">
-    <Desc>[เมื่อปะทะชนะ] ฟื้นฟูแสง 1 หน่วย</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="carnival">
-    <Desc>เพิ่ม 'Fascinating Fabric' เข้าสู่มือของทั้งคู่</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerPerHand">
-    <Desc>ได้รับพลัง +1 ตามจำนวน Page ในมือ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="limit3">
-    <Desc>มีได้สูงสุด 3 ใบในเวลาเดียวกัน</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="break2atk">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 2 ดาเมจใส่เป้าหมาย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="break3atk">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 3 ดาเมจใส่เป้าหมาย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="break5atk">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 5 ดาเมจใส่เป้าหมาย</Desc>
-  </BattleCardAbility>
-  
-  <!-- 새벽 이후 -->
-  
-  <BattleCardAbility ID="otherAlly2protection2">
-    <Desc>[เมื่อใช้] มอบเกราะ 2 จำนวนให้เพื่อนร่วมทีมสองคนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="gainNegative1">
-    <Desc>[เมื่อใช้] ได้รับ 1 แต้มอารมณ์ลบ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerDownNext2pwTarget">
-    <Desc>[เมื่อปะทะชนะ] ลดพลังของลูกเต๋าถัดไปของศัตรูลง -2</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="powerDown1target">
-    <Desc>ลดพลังของลูกเต๋าของศัตรูลง 1</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="drawCard">
-    <Desc>[เมื่อใช้] จั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="drawCard2">
-    <Desc>[เมื่อใช้] จั่ว Page 2 ใบ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="drawCard1atk">
-    <Desc>[เมื่อโจมตี] จั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="drawCard1pw">
-    <Desc>[เมื่อปะทะชนะ] จั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="drawCard2pw">
-    <Desc>[เมื่อปะทะชนะ] จั่ว Page 2 ใบ</Desc>
-  </BattleCardAbility>
-
-  <!-- Gaze Office -->
-  <!-- card ability -->
-  <BattleCardAbility ID="costDown1self">
-   <Desc>[เมื่อใช้] ลดคอสของ Page นี้ลง 1 (สูงสุด 2 ครั้ง)</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="cardPowerDown1target">
-    <Desc>[เมื่อเริ่มการปะทะ] ลดพลังของลูกเต๋าทั้งหมดของเป้าหมายลง 1</Desc>
-  </BattleCardAbility>
-
-  <!-- dice ability -->
-  <BattleCardAbility ID="powerUp1targetParalysis">
-    <Desc>ได้รับพลัง +1 หากเป้าหมายมีอัมพาต</Desc>
-  </BattleCardAbility>
-
-  <!-- Lovetown Tomerry -->
-  <!-- card ability -->
-  <BattleCardAbility ID="tomerry1">
-    <Desc>[เมื่อใช้] ถ้า HP 25% หรือต่ำกว่า ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +2</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="tomerry2">
-    <Desc>[เมื่อใช้] ทำดาเมจ 7 ดาเมจใส่ตนเอง; ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +2</Desc>
-  </BattleCardAbility>
-
-  <!-- enemy only -->
-  <BattleCardAbility ID="tomerryReady">
-    <Desc>[เมื่อใช้] ได้รับกำลัง 5 จำนวนในฉากถัดไป; เตรียมท่าโจมตีใหญ่ในฉากถัดไป; รับดาเมจ Stagger มากขึ้นระหว่างเตรียมการ</Desc>
-  </BattleCardAbility>
-
-  <!-- dice ability -->
-  <!-- enemy only -->
-  <BattleCardAbility ID="lovetownPower">
-    <Desc>ได้รับพลัง +10 ถ้าโจมตีฝ่ายเดียว</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="lovetownNextPower">
-    <Desc>[เมื่อปะทะแพ้] ลูกเต๋าถัดไปได้รับพลัง +6</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="tomerryBuf">
-    <Desc>[เมื่อโจมตี] มอบกำลัง 3 จำนวนให้กับเพื่อนร่วมทีมทั้งหมดในฉากถัดไป</Desc>
-  </BattleCardAbility>
-
-  <!-- kurokumo -->
-
-  <BattleCardAbility ID="slashUp2thisRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] เพิ่มพลังลูกเต๋าประเภทการฟัน +2 ในฉากนี้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="protection3start">
-    <Desc>[เมื่อเริ่มการต่อสู้] ได้รับเกราะ 3 จำนวน</Desc>
-  </BattleCardAbility>
-  <!-- 주의 -->
-  <BattleCardAbility ID="bleedingSlash1thisRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] ทุกครั้งที่โจมตีด้วยการฟันสำเร็จในฉากนี้ มอบเลือดเลือดไหล 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="protection3">
-    <Desc>[เมื่อใช้] ได้รับเกราะ 3 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-
-  <!-- Bremen -->
-  <!-- card ability -->
-  <BattleCardAbility ID="enemy1weak1thisRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] มอบอ่อนแรง 1 จำนวนให้ศัตรูแบบสุ่ม</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="enemy2weak1thisRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] มอบอ่อนแรง 1 จำนวน ให้ศัตรูสองตัวแบบสุ่ม</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="ally1strength1thisRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] มอบกำลัง 1 จำนวนเพื่อนร่วมทีมแบบสุ่ม</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="ally2strength1thisRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] มอบกำลัง 1 จำนวนเพื่อนร่วมทีมสองตัวแบบสุ่ม</Desc>
-  </BattleCardAbility>
-
-  <!-- dice ability -->
-  <BattleCardAbility ID="ally2strength1atk">
-    <Desc>[เมื่อโจมตี] มอบกำลัง 1 จำนวนให้เพื่อนร่วมทีมสองตัวแบบสุ่มในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="ally2recover3atk">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู 3 HPของเพื่อนร่วมทีมสองตัวแบบสุ่ม</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
 
-  <!-- shi -->
-  <!-- card ability-->
-  <BattleCardAbility ID="powerUp2speed6">
-    <Desc>[เมื่อใช้] ถ้าความเร็ว 6 หรือสูงกว่า ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +2</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerUp2speed7">
-    <Desc>[เมื่อใช้] ถ้าความเร็ว 7 หรือสูงกว่า ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +2</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerUp1Hp">
-    <Desc>[เมื่อใช้] ถ้า HP 25% หรือต่ำกว่า ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +1</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerUp2Hp">
-    <Desc>[เมื่อใช้] ถ้า HP 25% หรือต่ำกว่า ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +2</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="clashPowerUp">
-    <Desc>[เมื่อเริ่มการปะทะ] ทำดาเมจ 5 ดาเมจใส่ตนเอง; ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +2</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="burn1atk">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="burn2atk">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="burn3atk">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 3 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="burn4atk">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 4 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="burn6atk">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 6 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="burn10atk">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 10 จำนวน</Desc>
+</BattleCardAbility>
 
-  <!-- dice ability -->
-  <BattleCardAbility ID="yujin">
-    <Desc>ถ้าผลทอยปกติเป็นสูงสุด และอยู่ที่ 4 หรือมากกว่า ได้รับพลัง +45</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="energy1hp">
-    <Desc>[เมื่อใช้] ถ้า HP 50% หรือต่ำกว่า ฟื้นฟูแสง 1 หน่วย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="energy1atkAndHp">
-    <Desc>[เมื่อโจมตี] ถ้า HP 25% หรือต่ำกว่า ฟื้นฟูแสง 1 หน่วย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="onlypage">
-    <Desc>[เฉพาะตัว]</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="burn2pw">
+<Desc>[เมื่อปะทะชนะ] มอบเผาไหม้ 2 จำนวน</Desc>
+</BattleCardAbility>
 
-  <!-- puppet -->
-  <BattleCardAbility ID="powerDown2targetDfn">
-    <Desc>ลดพลังของลูกเต๋าป้องกันของศัตรูลง -2</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerDown3targetDfn">
-    <Desc>ลดพลังของลูกเต๋าป้องกันของศัตรูลง -3</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="weakDisarmBinding1atk">
-    <Desc>[เมื่อโจมตี] มอบอ่อนแรง 1 ตัดกำลัง และพันธนา ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="weakDisarmBinding2atk">
-    <Desc>[เมื่อโจมตี] มอบอ่อนแรง 2 ตัดกำลัง และพันธนา ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="weak1atk">
+<Desc>[เมื่อโจมตี] มอบอ่อนแรง 1 
 
-  <BattleCardAbility ID="energy1atkMostHp">
-    <Desc>[เมื่อโจมตี] ฟื้นฟูแสง 1 หน่วยให้เพื่อนร่วมทีมที่มี HP สูงที่สุด</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="weak2atk">
+<Desc>[เมื่อโจมตี] มอบอ่อนแรง 2 
 
-  <!-- circus -->
-  <BattleCardAbility ID="strength1atkMostHp">
-    <Desc>[เมื่อโจมตี] มอบกำลัง 1 จำนวนให้เพื่อนร่วมทีมที่มี HP สูงที่สุดในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="protection2atkMostHp">
-    <Desc>[เมื่อโจมตี] มอบเกราะ 2 จำนวนให้เพื่อนร่วมทีมที่มี HP สูงที่สุดในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="recoverBreak3atk">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู 3 Stagger Resist</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="recoverBreak5atk">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู 5 Stagger Resist</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="strength1atkAllFriend">
-    <Desc>[เมื่อโจมตี] มอบกำลัง 1 จำนวนให้กับเพื่อนร่วมทีมทั้งหมด ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="malkuthboss_whitesnow_far2">
+<Desc>[เมื่อโจมตี] มอบอ่อนแรง 3 
 
-  <!-- 성냥불 카드 -->
-  <BattleCardAbility ID="burningGirl">
-    <Desc>[เมื่อใช้] ได้รับ 1 Ember</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="match">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 จำนวน</Desc>
-  </BattleCardAbility>
-  
-  <!-- sweepers -->
-  <BattleCardAbility ID="sweeperUnique">
-    <Desc>[เมื่อใช้] ได้รับ 'Persistence' เป็นเวลา 4 ฉาก</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="sweeperOnly">
-    <Desc>[เมื่อใช้] ลูกเต๋าประเภทโจมตีของ Page นี้ได้รับ '[เมื่อโจมตี] ฟื้นฟู 2 HP'</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="sweeperOnlyDice">
-    <Desc>[เมื่อโจมตี] ถ้าผลทอยปกติเป็น 3 ใช้ลูกเต๋านี้อีกครั้ง (สูงสุด 6 ครั้ง)</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="weak1pw">
+<Desc>[เมื่อปะทะชนะ] มอบอ่อนแรง 1 
 
-  <BattleCardAbility ID="ally2protection1thisRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] มอบเกราะ 1 จำนวนให้เพื่อนร่วมทีมสองคนแบบสุ่ม</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerDown2thisRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] ลูกเต๋าทั้งหมดที่ผู้ใช้เล่นในฉากนี้ เสียพลัง -2</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="powerUp1highlander">
-    <Desc>[เมื่อใช้] ถ้าเป็นหนึ่งเดียว ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +1</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="drawCard3highlander">
-    <Desc>[เมื่อใช้] ถ้าเป็นหนึ่งเดียว จั่ว Page 3 ใบ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerUp2fullCard">
-    <Desc>[เมื่อใช้] ถ้ามี 7 Page หรือมากกว่าในมือ ลูกเต๋าทั้งหมดบน Page ได้รับพลัง +2</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerDown3thisRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] ลูกเต๋าทั้งหมดที่ผู้ใช้เล่นในฉากนี้ เสียพลัง -3</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="recoverHp1atk">
+<Desc>[เมื่อโจมตี] ฟื้นฟู 1 HP</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="recoverHp2atk">
+<Desc>[เมื่อโจมตี] ฟื้นฟู 2 HP</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="recoverHp3atk">
+<Desc>[เมื่อโจมตี] ฟื้นฟู 3 HP</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="recoverHp4atk">
+<Desc>[เมื่อโจมตี] ฟื้นฟู 4 HP</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="recoverHp6atk">
+<Desc>[เมื่อโจมตี] ฟื้นฟู 6 HP</Desc>
+</BattleCardAbility>
 
-  <!--
-  <BattleCardAbility ID="destroyNextHighlander">
-    <Desc>ถ้าthere are no duplicates in the Combat Bookshelf destroy the next ของopponent die</Desc>
-  </BattleCardAbility>
-  -->
-  <BattleCardAbility ID="powerUpDice4highlander">
-    <Desc>ถ้าเป็นหนึ่งเดียว ได้รับพลัง +4</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="recoverHp1">
+<Desc>[เมื่อใช้] ฟื้นฟู 1 HP</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="recoverHp2dfn">
+<Desc>[เมื่อใช้ป้องกัน] ฟื้นฟู 2 HP</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="fairy_ego">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู 3 HP; ใช้ลูกเต๋านี้ซ้ำไปเรื่อยๆจนกว่าจะทอยได้ค่าต่ำสุด (สูงสุด 5 ครั้ง)</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="disarm1atk">
+<Desc>[เมื่อโจมตี] มอบตัดกำลัง 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="disarm2atk">
+<Desc>[เมื่อโจมตี] มอบตัดกำลัง 2 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="disarm3atk">
+<Desc>[เมื่อโจมตี] มอบตัดกำลัง 3 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="malkuthboss_whitesnow_far3">
+<Desc>[เมื่อโจมตี] มอบตัดกำลัง 3 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="schorchedArea">
-  </BattleCardAbility>
-  <BattleCardAbility ID="snowwhiteArea">
-  </BattleCardAbility>
-  <BattleCardAbility ID="schorchedAreaDice">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 5 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="snowwhiteAreaDice">
-  </BattleCardAbility>
+<BattleCardAbility ID="binding1atk">
+<Desc>[เมื่อโจมตี] มอบพันธนา 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="binding2atk">
+<Desc>[เมื่อโจมตี] มอบพันธนา 2 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="binding3atk">
+<Desc>[เมื่อโจมตี] มอบพันธนา 3 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="teddyEgo">
-    <Desc>[เมื่อปะทะชนะ] ทำลายลูกเต๋าของศัตรูทั้งหมด</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="paralysis1atk">
+<Desc>[เมื่อโจมตี] มอบอัมพาต 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="paralysis2atk">
+<Desc>[เมื่อโจมตี] มอบอัมพาต 2 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="paralysis3atk">
+<Desc>[เมื่อโจมตี] มอบอัมพาต 3 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="paralysis4atk">
+<Desc>[เมื่อโจมตี] มอบอัมพาต 4 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="final_queenbee_paralyze">
+<Desc>[เมื่อโจมตี] มอบอัมพาต 4 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <!-- warp crew -->
-  <BattleCardAbility ID="warpSkill">
-    <Desc>[เฉพาะตัว] [เมื่อใช้] ใช้ชาร์จทั้งหมด; มีโอกาส (ชาร์จ x 9.9)% ที่จะสำเร็จ</Desc>
-    <Desc>[สำเร็จ] ลูกเต๋าทั้งหมดบน Page ได้รับพลัง +8;
+<BattleCardAbility ID="paralysis1pw">
+<Desc>[เมื่อปะทะชนะ] มอบอัมพาต 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="paralysis2pw">
+<Desc>[เมื่อปะทะชนะ] มอบอัมพาต 2 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="quickness1">
+<Desc>[เมื่อใช้] ได้รับว่องไว 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="quickness2">
+<Desc>[เมื่อใช้] ได้รับว่องไว 2 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="quickness1atk">
+<Desc>[เมื่อโจมตี] ได้รับว่องไว 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="endurance1pw">
+<Desc>[เมื่อปะทะชนะ] ได้รับอึดทน 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="endurance2pw">
+<Desc>[เมื่อปะทะชนะ] ได้รับอึดทน 2 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="endurance2">
+<Desc>[เมื่อใช้] ได้รับอึดทน 2 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="protection2">
+<Desc>[เมื่อใช้] ได้รับเกราะ 2 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="energy1">
+<Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="energy2">
+<Desc>[เมื่อใช้] ฟื้นฟูแสง 2 หน่วย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="energy4">
+<Desc>[เมื่อใช้] ฟื้นฟูแสง 4 หน่วย</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="energy1atk">
+<Desc>[เมื่อโจมตี] ฟื้นฟูแสง 1 หน่วย</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="strength1">
+<Desc>[เมื่อใช้] ได้รับกำลัง 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="strength2">
+<Desc>[เมื่อใช้] ได้รับกำลัง 2 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="strength3">
+<Desc>[เมื่อใช้] ได้รับกำลัง 3 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="upgradeNext1pw">
+<Desc>[เมื่อปะทะชนะ] เพื่อค่าสูงสุด
+ของลุกเต๋าถัดไป +3</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="downgradeNext1pw">
+<Desc>[เมื่อปะทะชนะ] ลดค่าสูงสุด
+ของลูกเต๋าของศัตรูลง -3</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerUpNext2pw">
+<Desc>[เมื่อปะทะชนะ] เพิ่มพลัง
+ลูกเต๋าถัดไป 2</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerUpNext1pl">
+<Desc>[เมื่อปะทะแพ้] เพิ่มพลัง
+ลูกเต๋าถัดไป 1</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerUpNext2pl">
+<Desc>[เมื่อปะทะแพ้] เพิ่มพลัง
+ลูกเต๋าถัดไป 2</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="protection1friend">
+<Desc>[เมื่อใช้] มอบเกราะ 1 จำนวน
+ให้กับเพื่อนร่วมทีมทั้งหมดในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="endurance1friend">
+<Desc>[เมื่อใช้] มอบอึดทน 1 จำนวน
+ให้กับเพื่อนร่วมทีมทั้งหมดในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="endurance2friend">
+<Desc>[เมื่อใช้] มอบอึดทน 2 จำนวน
+ให้กับเพื่อนร่วมทีมทั้งหมดในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="damage2pw">
+<Desc>[เมื่อปะทะชนะ] ทำดาเมจ 2 
+ดาเมจใส่ศัตรู</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="damage3pw">
+<Desc>[เมื่อปะทะชนะ] ทำดาเมจ 3 
+ดาเมจใส่ศัตรู</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="damage2atk">
+<Desc>[เมื่อโจมตี] ทำดาเมจ 2 
+ดาเมจใส่เป้าหมาย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="damage3atk">
+<Desc>[เมื่อโจมตี] ทำดาเมจ 3 
+ดาเมจใส่เป้าหมาย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="damage5atk">
+<Desc>[เมื่อโจมตี] ทำดาเมจ 5 
+ดาเมจใส่เป้าหมาย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="discard_lowest">
+<Desc>[เมื่อใช้] ทิ้ง Page ที่มี Cost
+ต่ำที่สุด</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="discardall">
+<Desc>[เมื่อใช้] ทิ้ง Page ทั้งหมด</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="drawDiscard">
+<Desc>จั่ว Page 1 ใบเมื่อทิ้ง Page นี้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="power_2">
+<Desc>[เมื่อใช้] ลูกเต๋าทั้งหมด
+บน Page นี้เสียพลัง -2</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="energy1paralysis1">
+<Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย;
+มอบอัมพาต 1 จำนวนให้ตัวเองในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="discardAndEnergy">
+<Desc>[เมื่อใช้] ทิ้ง Page ที่มี Cost
+ต่ำที่สุด และฟื้นฟูแสง 2 หน่วย</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="pierre">
+<Desc>[เมื่อโจมตี] ฟื้นฟู HP ตามจำนวน
+เลือดไหลของเป้าหมาย</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="ruru1">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน;
+ทำดาเมจ 3 ดาเมจใส่ตนเอง</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="ruru2">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 3 จำนวน;
+ทำดาเมจ 3 ดาเมจใส่ตนเอง</Desc>
+</BattleCardAbility>
+<!-- 토머리 패치 - 텍스트 변경됨 -->
+<BattleCardAbility ID="gyeongmi">
+<Desc>[เมื่อใช้] ลบลูกเต๋าบน Page นี้ และก๊อปปี้
+ลูกเต๋าของ Page ในมือแบบสุ่ม</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="pinocchio">
+<Desc>[เมื่อเริ่มการปะทะ] ลบลูกเต๋าบน Page นี้ และก๊อปปี้
+ลูกเต๋าของ Page ของศัตรู</Desc>
+</BattleCardAbility>
+
+<!-- The Carnival -->
+<BattleCardAbility ID="energy1pw">
+<Desc>[เมื่อปะทะชนะ] ฟื้นฟูแสง 1 หน่วย</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="carnival">
+<Desc>เพิ่ม 'Fascinating Fabric' เข้าสู่มือของทั้งคู่</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerPerHand">
+<Desc>ได้รับพลัง +1 ตามจำนวน Page ในมือ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="limit3">
+<Desc>มีได้สูงสุด 3 ใบในเวลาเดียวกัน</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="break2atk">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 2
+ดาเมจใส่เป้าหมาย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="break3atk">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 3
+ดาเมจใส่เป้าหมาย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="break5atk">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 5
+ดาเมจใส่เป้าหมาย</Desc>
+</BattleCardAbility>
+
+<!-- 새벽 이후 -->
+
+<BattleCardAbility ID="otherAlly2protection2">
+<Desc>[เมื่อใช้] มอบเกราะ 2 จำนวนให้
+เพื่อนร่วมทีมสองคนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="gainNegative1">
+<Desc>[เมื่อใช้] ได้รับ 1 แต้มอารมณ์ลบ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerDownNext2pwTarget">
+<Desc>[เมื่อปะทะชนะ] ลดพลังของ
+ลูกเต๋าถัดไปของศัตรูลง -2</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="powerDown1target">
+<Desc>ลดพลังของลูกเต๋าของศัตรูลง 1</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="drawCard">
+<Desc>[เมื่อใช้] จั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="drawCard2">
+<Desc>[เมื่อใช้] จั่ว Page 2 ใบ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="drawCard1atk">
+<Desc>[เมื่อโจมตี] จั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="drawCard1pw">
+<Desc>[เมื่อปะทะชนะ] จั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="drawCard2pw">
+<Desc>[เมื่อปะทะชนะ] จั่ว Page 2 ใบ</Desc>
+</BattleCardAbility>
+
+<!-- Gaze Office -->
+<!-- card ability -->
+<BattleCardAbility ID="costDown1self">
+ <Desc>[เมื่อใช้] ลดคอสของ Page นี้
+ ลง 1 (สูงสุด 2 ครั้ง)</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="cardPowerDown1target">
+<Desc>[เมื่อเริ่มการปะทะ] ลดพลังของ
+ลูกเต๋าทั้งหมดของเป้าหมายลง 1</Desc>
+</BattleCardAbility>
+
+<!-- dice ability -->
+<BattleCardAbility ID="powerUp1targetParalysis">
+<Desc>ได้รับพลัง +1 หากเป้าหมายมีอัมพาต</Desc>
+</BattleCardAbility>
+
+<!-- Lovetown Tomerry -->
+<!-- card ability -->
+<BattleCardAbility ID="tomerry1">
+<Desc>[เมื่อใช้] ถ้า HP 25% หรือต่ำกว่า
+ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +2</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="tomerry2">
+<Desc>[เมื่อใช้] ทำดาเมจ 7 ดาเมจใส่ตนเอง;
+ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +2</Desc>
+</BattleCardAbility>
+
+<!-- enemy only -->
+<BattleCardAbility ID="tomerryReady">
+<Desc>[เมื่อใช้] ได้รับกำลัง 5 จำนวนในฉากถัดไป;
+เตรียมท่าโจมตีใหญ่ในฉากถัดไป;
+รับดาเมจ Stagger มากขึ้นระหว่างเตรียมการ</Desc>
+</BattleCardAbility>
+
+<!-- dice ability -->
+<!-- enemy only -->
+<BattleCardAbility ID="lovetownPower">
+<Desc>ได้รับพลัง +10 ถ้าโจมตีฝ่ายเดียว</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="lovetownNextPower">
+<Desc>[เมื่อปะทะแพ้] ลูกเต๋าถัดไป
+ได้รับพลัง +6</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="tomerryBuf">
+<Desc>[เมื่อโจมตี] มอบกำลัง 3 จำนวน
+ให้กับเพื่อนร่วมทีมทั้งหมดในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<!-- kurokumo -->
+
+<BattleCardAbility ID="slashUp2thisRound">
+<Desc>[เมื่อเริ่มการต่อสู้] เพิ่มพลังลูกเต๋า
+ประเภทการฟัน +2 ในฉากนี้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="protection3start">
+<Desc>[เมื่อเริ่มการต่อสู้] ได้รับเกราะ 3 จำนวน</Desc>
+</BattleCardAbility>
+<!-- 주의 -->
+<BattleCardAbility ID="bleedingSlash1thisRound">
+<Desc>[เมื่อเริ่มการต่อสู้] ทุกครั้งที่โจมตีด้วยการฟัน
+สำเร็จในฉากนี้ มอบเลือดเลือดไหล 1 จำนวน
+ในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="protection3">
+<Desc>[เมื่อใช้] ได้รับเกราะ 3 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<!-- Bremen -->
+<!-- card ability -->
+<BattleCardAbility ID="enemy1weak1thisRound">
+<Desc>[เมื่อเริ่มการต่อสู้] มอบอ่อนแรง 1 จำนวน
+ให้ศัตรูแบบสุ่ม</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="enemy2weak1thisRound">
+<Desc>[เมื่อเริ่มการต่อสู้] มอบอ่อนแรง 1 จำนวน
+ให้ศัตรูสองตัวแบบสุ่ม</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="ally1strength1thisRound">
+<Desc>[เมื่อเริ่มการต่อสู้] มอบกำลัง 1 จำนวน
+ให้เพื่อนร่วมทีมแบบสุ่ม</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="ally2strength1thisRound">
+<Desc>[เมื่อเริ่มการต่อสู้] มอบกำลัง 1 จำนวน
+ให้เพื่อนร่วมทีมสองตัวแบบสุ่ม</Desc>
+</BattleCardAbility>
+
+<!-- dice ability -->
+<BattleCardAbility ID="ally2strength1atk">
+<Desc>[เมื่อโจมตี] มอบกำลัง 1 จำนวน
+ให้เพื่อนร่วมทีมสองตัวแบบสุ่มในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="ally2recover3atk">
+<Desc>[เมื่อโจมตี] ฟื้นฟู 3 HP ให้เพื่อนร่วมทีม
+สองตัวแบบสุ่ม</Desc>
+</BattleCardAbility>
+
+
+<!-- shi -->
+<!-- card ability-->
+<BattleCardAbility ID="powerUp2speed6">
+<Desc>[เมื่อใช้] ถ้าความเร็ว 6 หรือสูงกว่า
+ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +2</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerUp2speed7">
+<Desc>[เมื่อใช้] ถ้าความเร็ว 7 หรือสูงกว่า
+ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +2</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerUp1Hp">
+<Desc>[เมื่อใช้] ถ้า HP 25% หรือต่ำกว่า
+ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +1</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerUp2Hp">
+<Desc>[เมื่อใช้] ถ้า HP 25% หรือต่ำกว่า
+ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +2</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="clashPowerUp">
+<Desc>[เมื่อเริ่มการปะทะ] ทำดาเมจ 5 ดาเมจใส่ตนเอง;
+ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +2</Desc>
+</BattleCardAbility>
+
+<!-- dice ability -->
+<BattleCardAbility ID="yujin">
+<Desc>ถ้าผลทอยปกติเป็นสูงสุด
+และอยู่ที่ 4 หรือมากกว่า ได้รับพลัง +45</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="energy1hp">
+<Desc>[เมื่อใช้] ถ้า HP 50% หรือต่ำกว่า
+ฟื้นฟูแสง 1 หน่วย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="energy1atkAndHp">
+<Desc>[เมื่อโจมตี] ถ้า HP 25% หรือต่ำกว่า
+ฟื้นฟูแสง 1 หน่วย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="onlypage">
+<Desc>[เฉพาะตัว]</Desc>
+</BattleCardAbility>
+
+<!-- puppet -->
+<BattleCardAbility ID="powerDown2targetDfn">
+<Desc>ลดพลังของลูกเต๋า
+ป้องกันของศัตรูลง -2</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerDown3targetDfn">
+<Desc>ลดพลังของลูกเต๋า
+ป้องกันของศัตรูลง -3</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="weakDisarmBinding1atk">
+<Desc>[เมื่อโจมตี] มอบอ่อนแรง 1 ตัดกำลัง
+และพันธนา ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="weakDisarmBinding2atk">
+<Desc>[เมื่อโจมตี] มอบอ่อนแรง 2 ตัดกำลัง
+และพันธนา ในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="energy1atkMostHp">
+<Desc>[เมื่อโจมตี] ฟื้นฟูแสง 1 หน่วย
+ให้เพื่อนร่วมทีมที่มี HP สูงที่สุด</Desc>
+</BattleCardAbility>
+
+<!-- circus -->
+<BattleCardAbility ID="strength1atkMostHp">
+<Desc>[เมื่อโจมตี] มอบกำลัง 1 จำนวน
+ให้เพื่อนร่วมทีมที่มี HP สูงที่สุดในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="protection2atkMostHp">
+<Desc>[เมื่อโจมตี] มอบเกราะ 2 จำนวน
+ให้เพื่อนร่วมทีมที่มี HP สูงที่สุดในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="recoverBreak3atk">
+<Desc>[เมื่อโจมตี] ฟื้นฟู 3 Stagger Resist</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="recoverBreak5atk">
+<Desc>[เมื่อโจมตี] ฟื้นฟู 5 Stagger Resist</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="strength1atkAllFriend">
+<Desc>[เมื่อโจมตี] มอบกำลัง 1 จำนวน
+ให้กับเพื่อนร่วมทีมทั้งหมด ในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+
+<!-- 성냥불 카드 -->
+<BattleCardAbility ID="burningGirl">
+<Desc>[เมื่อใช้] ได้รับ 1 Ember</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="match">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 จำนวน</Desc>
+</BattleCardAbility>
+
+<!-- sweepers -->
+<BattleCardAbility ID="sweeperUnique">
+<Desc>[เมื่อใช้] ได้รับ 'ดื'
+เป็นเวลา 4 ฉาก</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="sweeperOnly">
+<Desc>[เมื่อใช้] ลูกเต๋าประเภทโจมตี
+ของ Page นี้ได้รับ
+'[เมื่อโจมตี] ฟื้นฟู 2 HP'</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="sweeperOnlyDice">
+<Desc>[เมื่อโจมตี] ถ้าผลทอยปกติเป็น 3 ใช้ลูกเต๋านี้อีกครั้ง (สูงสุด 6 ครั้ง)</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="ally2protection1thisRound">
+<Desc>[เมื่อเริ่มการต่อสู้] มอบเกราะ 1 จำนวนให้เพื่อนร่วมทีมสองคนแบบสุ่ม</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerDown2thisRound">
+<Desc>[เมื่อเริ่มการต่อสู้] ลูกเต๋าทั้งหมดที่ผู้ใช้เล่นในฉากนี้ เสียพลัง -2</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="powerUp1highlander">
+<Desc>[เมื่อใช้] ถ้าเป็นหนึ่งเดียว ลูกเต๋าทั้งหมดบน Page นี้ได้รับพลัง +1</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="drawCard3highlander">
+<Desc>[เมื่อใช้] ถ้าเป็นหนึ่งเดียว จั่ว Page 3 ใบ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerUp2fullCard">
+<Desc>[เมื่อใช้] ถ้ามี 7 Page หรือมากกว่าในมือ ลูกเต๋าทั้งหมดบน Page ได้รับพลัง +2</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerDown3thisRound">
+<Desc>[เมื่อเริ่มการต่อสู้] ลูกเต๋าทั้งหมดที่ผู้ใช้เล่นในฉากนี้ เสียพลัง -3</Desc>
+</BattleCardAbility>
+
+<!--
+<BattleCardAbility ID="destroyNextHighlander">
+<Desc>ถ้าthere are no duplicates in the Combat Bookshelf destroy the next ของopponent die</Desc>
+</BattleCardAbility>
+-->
+<BattleCardAbility ID="powerUpDice4highlander">
+<Desc>ถ้าเป็นหนึ่งเดียว ได้รับพลัง +4</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="fairy_ego">
+<Desc>[เมื่อโจมตี] ฟื้นฟู 3 HP;
+ใช้ลูกเต๋านี้ซ้ำไปเรื่อยๆจนกว่าจะทอยได้ค่าต่ำสุด (สูงสุด 5 ครั้ง)</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="schorchedArea">
+</BattleCardAbility>
+<BattleCardAbility ID="snowwhiteArea">
+</BattleCardAbility>
+<BattleCardAbility ID="schorchedAreaDice">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 5 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="snowwhiteAreaDice">
+</BattleCardAbility>
+
+<BattleCardAbility ID="teddyEgo">
+<Desc>[เมื่อปะทะชนะ] ทำลายลูกเต๋าของศัตรูทั้งหมด</Desc>
+</BattleCardAbility>
+
+<!-- warp crew -->
+<BattleCardAbility ID="warpSkill">
+<Desc>[เฉพาะตัว] [เมื่อใช้] ใช้ชาร์จทั้งหมด;
+มีโอกาส (ชาร์จ x 9.9)% ที่จะสำเร็จ</Desc>
+<Desc>[สำเร็จ] ลูกเต๋าทั้งหมดบน Page ได้รับพลัง +8;
 [ล้มเหลว] ทำดาเมจ 20 ดาเมจใส่ตนเอง</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="warpSkillDice">
-    <Desc>ถ้าถูกใช้ไป 10 ชาร์จในครั้งเดียวนี้ ได้รับเพิ่มอีก +2</Desc>
-  </BattleCardAbility>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="power3costCharge"> <!-- ถ้าno '충전'  '이 책장의 모든 주사위 위력 +3' is not activated-->
-    <Desc>[เมื่อใช้] ใช้ชาร์จ 3 จำนวนเพื่อเพิ่มพลังของลูกเต๋าทั้งหมดบน Page นี้ +3</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="warpOvercharge">
-    <Desc>[เมื่อใช้] ได้รับชาร์จ 10 จำนวน และแล้วจะหมดสภาพในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="warpSkillDice">
+<Desc>ถ้าถูกใช้ไป 10 ชาร์จในครั้งเดียวนี้ ได้รับเพิ่มอีก +2</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="warpCharge3">
-    <Desc>[เมื่อใช้] ได้รับชาร์จ 3 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="warpCharge4">
-    <Desc>[เมื่อใช้] ได้รับชาร์จ 4 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="warpCharge5">
-    <Desc>[เมื่อใช้] ได้รับชาร์จ 5 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="warpCharge6">
-    <Desc>[เมื่อใช้] ได้รับชาร์จ 6 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="warpCharge2energy1">
-    <Desc>[เมื่อใช้] ได้รับชาร์จ 2 จำนวน และฟื้นฟูแสง 1 หน่วย</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="power3costCharge"> <!-- ถ้าno '충전''이 책장의 모든 주사위 위력 +3' is not activated-->
+<Desc>[เมื่อใช้] ใช้ชาร์จ 3 จำนวนเพื่อเพิ่มพลังของลูกเต๋าทั้งหมดบน Page นี้ +3</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="warpOvercharge">
+<Desc>[เมื่อใช้] ได้รับชาร์จ 10 จำนวน และแล้วจะหมดสภาพในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="drawCardWarp">
-    <Desc>[เมื่อใช้] ได้รับว่องไว 1 จำนวนในฉากถัดไป; ใช้ชาร์จ 3 จำนวนเพื่อจั่ว Page 2 ใบ</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="warpCharge3">
+<Desc>[เมื่อใช้] ได้รับชาร์จ 3 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="warpCharge4">
+<Desc>[เมื่อใช้] ได้รับชาร์จ 4 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="warpCharge5">
+<Desc>[เมื่อใช้] ได้รับชาร์จ 5 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="warpCharge6">
+<Desc>[เมื่อใช้] ได้รับชาร์จ 6 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="warpCharge2energy1">
+<Desc>[เมื่อใช้] ได้รับชาร์จ 2 จำนวน และฟื้นฟูแสง 1 หน่วย</Desc>
+</BattleCardAbility>
 
-
-  <!-- 웃는 얼굴들 -->
-  <BattleCardAbility ID="smoke1atk">
-    <Desc>[เมื่อโจมตี] มอบควัน 1 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="smoke2atk">
-    <Desc>[เมื่อโจมตี] มอบควัน 2 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="smoke3atk">
-    <Desc>[เมื่อโจมตี] มอบควัน 3 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="smoke4atk">
-    <Desc>[เมื่อโจมตี] มอบควัน 4 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="smoke5atk">
-    <Desc>[เมื่อโจมตี] มอบควัน 5 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="smoke7atk">
-    <Desc>[เมื่อโจมตี] มอบควัน 7 จำนวน</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="smokeSelf4atk">
-    <Desc>[เมื่อโจมตี] ได้รับควัน 4 จำนวน</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="smokeSelf2">
-    <Desc>[เมื่อใช้] ได้รับควัน 2 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="smokeSelf3">
-    <Desc>[เมื่อใช้] ได้รับควัน 3 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="smokeSelf4">
-    <Desc>[เมื่อใช้] ได้รับควัน 4 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="smokeSelf7">
-    <Desc>[เมื่อใช้] ได้รับควัน 7 จำนวน</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="energySmoke">
-    <Desc>[เมื่อใช้] ได้รับควัน 2 จำนวน ฟื้นฟูแสง 1 หน่วย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="energySmoke2">
-    <Desc>[เมื่อใช้] ได้รับควัน 2 จำนวน ฟื้นฟูแสง 2 หน่วย</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="powerUp2smoke">
-    <Desc>[เมื่อใช้] ใช้ควัน 3 จำนวนเพื่อเพิ่มพลังของลูกเต๋าทั้งหมดบน Page นี้ +2</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="bleedingXsmoke">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 จำนวน ในฉากถัดไป ต่อจำนวนควัน 2 จำนวนของศัตรู</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="bleeding3smoke">
-    <Desc>[เมื่อโจมตี] ใช้ควัน 2 จำนวนเพื่อมอบเลือดเลือดไหล 3 จำนวน</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="debufsSmoke">
-    <Desc>[เมื่อโจมตี] หากเป้าหมายมีควัน 7 จำนวนหรือมากกว่า มอบอัมพาต 2 จำนวนandอ่อนแรง 1 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="debufsSmokeRemake">
-    <Desc>[เมื่อโจมตี] หากเป้าหมายมีควัน 4 จำนวนหรือมากกว่า มอบอัมพาต 2 จำนวนandอ่อนแรง 1 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="drawSmoke">
-    <Desc>[เมื่อโจมตี] หากเป้าหมายมีควัน 3 จำนวนหรือมากกว่า จั่ว Page 2 ใบ</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="smokeOnly1">
-    <Desc>[เมื่อใช้] จั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="smokeOnly2">
-    <Desc>[เมื่อใช้] ได้รับควัน 2 จำนวน</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="freischutz">
-    <Desc>เล็งทุกตัวยกเว้นตนเอง</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="butterfly_brkdmg">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 5 ดาเมจใส่เป้าหมาย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="weak5atk">
-    <Desc>[เมื่อโจมตี] มอบอ่อนแรง 5 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="disarm5atk">
-    <Desc>[เมื่อโจมตี] มอบ 5 ตัดกำลัง</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="binding5atk">
-    <Desc>[เมื่อโจมตี] มอบ 5 พันธนา</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="yesod_final_butterfly_ego_brk">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 3 ดาเมจใส่เป้าหมาย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="yesod_final_butterfly_ego_dmg">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ 3 ดาเมจใส่เป้าหมาย</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="murderDice1">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger ดาเมจเป็นจำนวน 10% ของ Stagger Resist ปัจจุบันของเป้าหมาย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="murderDice2">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger ดาเมจเป็นจำนวน 50% ของ Stagger Resist ปัจจุบันของเป้าหมาย</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="helperEgo">
-  </BattleCardAbility>
-  <BattleCardAbility ID="helperDice">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 2 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="singingMachineEgo">
-    <Desc>ทุกครั้งที่โจมตีสำเร็จ เพื่อนร่วมทีมหนึ่คนจะโดนดาเมจ Stagger 3 ดาเมจ และได้รับกำลัง 1 จำนวนในฉากถัดไป</Desc>
-    <Desc>เมื่อฆ่าศัตรูได้ เพื่อนร่วมทีมทั้งหมดได้รับกำลัง 2</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="singingMachineDice">
-    <Desc>[เมื่อโจมตี] ใช้ลูกเต๋านี้ซ้ำไปเรื่อยๆจนกว่าจะทอยได้ค่าต่ำสุด (สูงสุด 2 ครั้ง)</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="buterflyEgo">
-    <Desc>ลูกเต๋าบน Page นี้จะถูกใช้ 8 ครั้ง</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="buterflyDice">
-    <Desc>[เมื่อโจมตี] สุ่มทำดาเมจ 3 ดาเมจ หรือดาเมจ Stagger 3 ดาเมจใส่เป้าหมาย</Desc>
-  </BattleCardAbility>
-
-  
-  <BattleCardAbility ID="freischutzEgo">
-    <Desc>[Synchronize] on equip</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="philipEgo">
-    <Desc>ใช้ได้เมื่อระดับอารมณ์ 3 หรือมากกว่า</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="cryingChildPenalty">
-    <Desc>[เมื่อปะทะแพ้] ความทนทานของเพื่อนร่วมทีมทั้งหมดเปลี่ยนเป็น "ร้ายแรง"</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="cryingChildArea">
-    <Desc> ผู้ใช้จะ Staggered เมื่อจบฉาก</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="cryingChildAreaDice">
-  </BattleCardAbility>
-  
-  <!-- 리우 2과 -->
-  <!-- card ability -->
-  <BattleCardAbility ID="liuUnique">
-    <Desc>[เมื่อใช้] ลูกเต๋าบน Page นี้จะได้รับ +1 Power for every 2 ระดับอารมณ์s</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="costDown1emotion3">
-    <Desc>Costs 1 less at ระดับอารมณ์ 3 or higher</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="dmgUp1thisRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] Offensive dice deal +1 damage forในฉากนี้</Desc>
-  </BattleCardAbility>
-  
-  <!-- dice ability -->
-  <BattleCardAbility ID="gainEmotion1pw">
-    <Desc>[เมื่อปะทะชนะ] ได้รับ 1 แต้มอารมณ์</Desc>
-  </BattleCardAbility>
-
-  <!-- card ability -->
-  <BattleCardAbility ID="gainPositive1">
-    <Desc>[เมื่อใช้] ได้รับ 1 Positive แต้มอารมณ์</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="endurance1emotion">
-    <Desc>[เมื่อใช้] ได้รับอึดทน 1 จำนวนในฉากถัดไป At ระดับอารมณ์ 3 or higher ได้รับอึดทน 2 จำนวนinstead</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="lowelonly">
-    <Desc>[เมื่อใช้] Remove all dice from this page Add a Mass Attack page to hand that can only be used ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="lowelCreated">
-    <Desc>Can only be usedในฉากนี้</Desc>
-  </BattleCardAbility>
-
-  <!-- dice ability -->
-  <BattleCardAbility ID="lowelDice">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 3 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="liuBurnDice">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 1+ (Personal ระดับอารมณ์) จำนวน</Desc>
-  </BattleCardAbility>
-
-  <!-- hod ego -->
-  <BattleCardAbility ID="shyLookEgoDice">
-    <Desc>Deal +10 damage aได้รับst Staggered เป้าหมาย</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="redshoesEgoDice2">
-    <Desc>ได้รับ Power by 2x the Bleed ของtarget</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="spiderBudEgoDice">
-    <Desc>[เมื่อโจมตี] มอบ 3 พันธนา Feeble,ตัดกำลัง และจำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="latitiaAreaEgo">
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="latitiaEgoDice">
-    <Desc>[เมื่อโจมตี] Add a copyของ'Small Gift' to hand ของtarget</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="blackSwanAreaEgo">
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="blackSwanEgoDice1">
-  </BattleCardAbility>
-  <BattleCardAbility ID="blackSwanEgoDice2">
-    <Desc>[เมื่อโจมตี] เป้าหมายloses 3 Light ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-
-  <!-- card ability -->
-  <BattleCardAbility ID="AddBullet1">
-    <Desc>[เมื่อใช้] Add a random Ammunition to hand</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="AddBullet2">
-    <Desc>[เมื่อใช้] Add 2 random Ammunition to hand</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="discard1">
-    <Desc>[เมื่อใช้] Discard a page with the lowest Cost</Desc>
-    <Desc>ถ้าan Ammunition was discarded all Offensive dice on this page ได้รับ +1 Power</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="discard2draw1">
-    <Desc>[เมื่อใช้] Discard 2 pages with the lowest Cost from hand และจั่ว Page a ใบ</Desc>
-    <Desc>ลูกเต๋าบน Page นี้จะได้รับ +1 Power for each Ammunition discarded</Desc>	
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="negatePower">
-    <Desc>Dice on this page และthe page clashing with it are unaffected by Power ได้รับ or loss</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="dmgUpFriend3">
-    <Desc>[เมื่อใช้] Allเพื่อนร่วมทีมdeal +2 damage with their Offensive dice ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="thumbBullet1">
-    <Desc>Exhausts when used or discarded; [On Exhaust] Dice clashing aได้รับst Ranged ของuser Combat Pages lose 1 Power forในฉากนี้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="thumbBullet2">
-    <Desc>Exhausts when used or discarded; [On Exhaust] On hit with Ranged Combat Pagesในฉากนี้ มอบ 1 Paralysisตัดกำลัง และจำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="thumbBullet3">
-    <Desc>Exhausts when used or discarded; [On Exhaust] On hit with Ranged Combat Pagesในฉากนี้ มอบเผาไหม้ 2 จำนวน</Desc>
-  </BattleCardAbility>
-
-  <!-- dice ability -->
-  <BattleCardAbility ID="repeat3">
-    <Desc>This die is rolled 3 times</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="repeat4">
-    <Desc>This die is rolled 4 times</Desc>
-  </BattleCardAbility>
-  
-  <!-- 지팡이 -->
-  <BattleCardAbility ID="badaCard">
-    <Desc>[เมื่อเริ่มการปะทะ] Spend 3 Charge to ลดพลังของall dice on page ของopponent by 2</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="chargeProtection">
-    <Desc>[เมื่อใช้] Spend 2 Charge to มอบเกราะ 1 จำนวนให้กับเพื่อนร่วมทีมทั้งหมดในฉากนี้ และในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="chargeEnergy">
-    <Desc>[เมื่อใช้] Spend 4 Charge to ฟื้นฟูแสง 3 หน่วย</Desc>
-  </BattleCardAbility>
-  <!-- remake -->
-  <BattleCardAbility ID="badaCardRemake">
-    <Desc>[เมื่อใช้] Spend 4 Charge to boost Powerของลูกเต๋าบน Page นี้จะby +2</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="chargeDestroyDesc"> <!-- 'chargeDestroy'의 텍스트가 너무 길어서 분리 -->
-    <Desc>Dice abilities on this page only activate ถ้าthe opponent has Offensive dice</Desc>
-  </BattleCardAbility>
-  <!-- 주사위 능력 -->  
-  <BattleCardAbility ID="chargeDestroy">
-    <Desc>[เมื่อปะทะชนะ] Spend 2 Charge to destroy next ของopponent Offensive die</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="charge2pw">
-    <Desc>[เมื่อปะทะชนะ] ได้รับชาร์จ 2 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="charge1pl">
-    <Desc>[เมื่อปะทะแพ้] ได้รับชาร์จ 1 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="charge2pl">
-    <Desc>[เมื่อปะทะแพ้] ได้รับชาร์จ 1 จำนวน</Desc>
-  </BattleCardAbility>
-  
-  <!-- balance update-->
-  <BattleCardAbility ID="AddBullet1AndDraw">
-    <Desc>[เมื่อใช้] Add a random Ammunition to hand; จั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
-  
-  <!-- 톱니 신도-->
-  <BattleCardAbility ID="smokeSelf4draw">
-    <Desc>[เมื่อใช้] ได้รับควัน 4 จำนวน และจั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="smokePowerUp">
-    <Desc>[เมื่อใช้] หากเป้าหมายมีควัน 2 จำนวนหรือมากกว่า all Offensive dice on this page ได้รับ +1 Power</Desc>
-  </BattleCardAbility>
-
-  <!-- 아르갈리아 -->
-  <BattleCardAbility ID="nullifyPower">
-    <Desc>[เมื่อใช้] dice ของเป้าหมายPower cannot be influenced by any effects ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="argaliaBuf">
-    <Desc>[เมื่อโจมตี] มอบ 1 Strengthอึดทน และจำนวนให้กับเพื่อนร่วมทีมทั้งหมด ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-
-  <!-- 네짜흐 EGO -->
-  <BattleCardAbility ID="areaText">
-  </BattleCardAbility>
-  <BattleCardAbility ID="cardPowerDown2target">
-    <Desc>[เมื่อเริ่มการปะทะ] ลดพลังของall dice ของเป้าหมายby 2</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="cardPowerDown4target">
-    <Desc>[เมื่อเริ่มการปะทะ] ลดพลังของall dice ของเป้าหมายby 4</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="universeDice">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 10 ดาเมจใส่เป้าหมาย</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="galaxyEgoDice">
-    <Desc>[เมื่อโจมตี] Recover HP ของuser by the natural roll value</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="porccubusEgoDice">
-    <Desc>ได้รับ Power equal to ของเป้าหมายระดับอารมณ์</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="porccubusEgoDice2">
-    <Desc>This die is rolled 3 times
-[เมื่อโจมตี] มอบเลือดเลือดไหล 3 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="aliuneEgoDice">
-    <Desc>[เมื่อโจมตี] ถ้าเป้าหมายis Staggered ทำดาเมจ 8 ดาเมจ</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="orchestraEgoDice1">
-    <Desc>[เมื่อโจมตี] เป้าหมายloses 2 Light ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="orchestraEgoDice2">
-    <Desc>[เมื่อโจมตี] ความเร็วของเป้าหมายis fixed at 1 ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="orchestraEgoDice3">
-    <Desc>[เมื่อโจมตี] มอบอ่อนแรง 1 จำนวนตัดกำลัง และจำนวนthis Scene</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="drawCardWarp">
+<Desc>[เมื่อใช้] ได้รับว่องไว 1 จำนวนในฉากถัดไป;
+ใช้ชาร์จ 3 จำนวนเพื่อจั่ว Page 2 ใบ</Desc>
+</BattleCardAbility>
 
 
-  <BattleCardAbility ID="redshoesEgo">
-    <Desc>[เมื่อเริ่มการต่อสู้]ศัตรูdo notเลือดเลือดไหล lose จำนวน stacks after rolling Offensive dice forในฉากนี้</Desc>
-  </BattleCardAbility>
+<!-- 웃는 얼굴들 -->
+<BattleCardAbility ID="smoke1atk">
+<Desc>[เมื่อโจมตี] มอบควัน 1 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="smoke2atk">
+<Desc>[เมื่อโจมตี] มอบควัน 2 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="smoke3atk">
+<Desc>[เมื่อโจมตี] มอบควัน 3 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="smoke4atk">
+<Desc>[เมื่อโจมตี] มอบควัน 4 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="smoke5atk">
+<Desc>[เมื่อโจมตี] มอบควัน 5 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="smoke7atk">
+<Desc>[เมื่อโจมตี] มอบควัน 7 จำนวน</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="breakCharge">
-    <Desc>[เมื่อโจมตี] Spend 2 Charge to ทำดาเมจ Stagger 5 ดาเมจ</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="smokeSelf4atk">
+<Desc>[เมื่อโจมตี] ได้รับควัน 4 จำนวน</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="gloriaCard">
-    <Desc>Only usable in the 'Blade Unlocked' state</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="estherCard">
-    <Desc>Only usable in the 'Blade Unlocked' state</Desc>
-    <Desc>ลดพลังของall dice ของopponent clashing aได้รับst this by 12</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="hubertCard">
-    <Desc>Only usable in the 'Blade Unlocked' state</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="smokeSelf2">
+<Desc>[เมื่อใช้] ได้รับควัน 2 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="smokeSelf3">
+<Desc>[เมื่อใช้] ได้รับควัน 3 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="smokeSelf4">
+<Desc>[เมื่อใช้] ได้รับควัน 4 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="smokeSelf7">
+<Desc>[เมื่อใช้] ได้รับควัน 7 จำนวน</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="gloriaDice">
-    <Desc>[เมื่อโจมตี] มอบอ่อนแรง 1 จำนวนในฉากนี้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="estherDice">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ bonus ดาเมจ และStagger damage by 7x the natural roll</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="hubertDice">
-    <Desc>[เมื่อโจมตี] มอบอ่อนแรง 1 จำนวน andเลือดเลือดไหล 8 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="strength1friendKill">
-    <Desc>On kill มอบกำลัง 1 จำนวนให้กับเพื่อนร่วมทีมทั้งหมด ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerUp1targetHp50">
-    <Desc>Add +1 Power ถ้าHP ของเป้าหมายis at 50% or lower</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="cardPowerDown1targetHighlander">
-    <Desc>[เมื่อเริ่มการปะทะ] ถ้าเป็นหนึ่งเดียว ลดพลังของall dice ของเป้าหมายby 1</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerDownNext2pwTargetHighlander">
-    <Desc>[เมื่อปะทะชนะ] ถ้าเป็นหนึ่งเดียว ลดพลังของnext ของopponent die by 2</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="draw1CardAndHighlanderEnergy">
-    <Desc>[เมื่อใช้] จั่ว Page 1 ใบ ถ้าเป็นหนึ่งเดียว ฟื้นฟูแสง 2 หน่วย as well</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="energySmoke">
+<Desc>[เมื่อใช้] ได้รับควัน 2 จำนวน ฟื้นฟูแสง 1 หน่วย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="energySmoke2">
+<Desc>[เมื่อใช้] ได้รับควัน 2 จำนวน ฟื้นฟูแสง 2 หน่วย</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="indexRelease1">
-    <Desc>[เมื่อใช้] เพิ่ม "Unlock-Ⅱ" เข้าสู่มือ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="indexRelease2">
-    <Desc>[เมื่อใช้] เพิ่ม "Unlock-Ⅲ" เข้าสู่มือ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="drawAndEnergy">
-    <Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย และจั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="powerUp2smoke">
+<Desc>[เมื่อใช้] ใช้ควัน 3 จำนวนเพื่อเพิ่มพลังของลูกเต๋าทั้งหมดบน Page นี้ +2</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="shyaoDice1">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="shyaoDice2">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน; repeat this effect for every ระดับอารมณ์</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="burn1atk2times">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 จำนวน 2 times</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="burn1atk3times">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 จำนวน 3 times</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="burnSpread">
-    <Desc>[เมื่อโจมตี] หากเป้าหมายมี 4 orเลือดเผาไหม้ more จำนวน มอบเผาไหม้ 1 จำนวนให้กับศัตรูทั้งหมด</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="burnPlus">
-    <Desc>[เมื่อเริ่มการต่อสู้] When มอบing Burn using Combat Pagesในฉากนี้ มอบ 1 additional stack</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="punchDraw">
-    <Desc>[เมื่อใช้] At the startของthe ในฉากถัดไป draw all copiesของ'Single-Point Stab' from the deck</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="fireIlsum">
-    <Desc>[เมื่อใช้] ถ้า'Burning Flash' is in hand discard it และจั่ว Page a ใบ then add the Offensive dice on the discarded page to this</Desc>
-    <Desc></Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="discard4bullet">
-    <Desc>[เมื่อใช้] Discard up to four 0-Cost pages from hand</Desc>
-    <Desc>Offensive dice on this page ได้รับ +1 Power for each Ammunition discarded this way</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="breakChargeRemake">
-    <Desc>[เมื่อโจมตี] Spend 2 Charge to ทำดาเมจ Stagger 6 ดาเมจ up to three times</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="bleedingXsmoke">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 
+จำนวนในฉากถัดไป ต่อจำนวนควัน 2 จำนวนของศัตรู</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="bleeding3smoke">
+<Desc>[เมื่อโจมตี] ใช้ควัน 2 จำนวนเพื่อมอบเลือดเลือดไหล 3 จำนวน</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="powerUp1Hp_ver2">
-    <Desc>[เมื่อใช้] ถ้าHP is at 50% or lower ลูกเต๋าบน Page นี้จะได้รับ +1 Power</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="debufsSmoke">
+<Desc>[เมื่อโจมตี] หากเป้าหมายมีควัน 7 จำนวนหรือมากกว่า มอบอัมพาต 2 จำนวนandอ่อนแรง 1 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="debufsSmokeRemake">
+<Desc>[เมื่อโจมตี] หากเป้าหมายมีควัน 4 จำนวนหรือมากกว่า มอบอัมพาต 2 จำนวนandอ่อนแรง 1 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="drawSmoke">
+<Desc>[เมื่อโจมตี] หากเป้าหมายมีควัน 3 จำนวนหรือมากกว่า จั่ว Page 2 ใบ</Desc>
+</BattleCardAbility>
 
-  <!-- tiphereth EGO-->
-  <BattleCardAbility ID="hateEgoDice">
-  </BattleCardAbility>
-  <BattleCardAbility ID="despairEgoDice">
-    <Desc>[เมื่อโจมตี] ผนึกลูกเต๋าความเร็วของเป้าหมายfor the ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="greedEgoDice">
-    <Desc>[เมื่อโจมตี] ฟื้นฟูแสง 1 หน่วย; ได้รับกำลัง 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="wrathEgo">
-    <Desc>เล็งทุกตัวยกเว้นตนเอง</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="voidEgo">
-    <Desc>[เมื่อใช้] ถ้าไม่มี Page อื่นในมือแล้ว มอบอ่อนแรง 4 จำนวน ตัดกำลัง พันธนา และอัมพาต ใส่ศัตรูทั้งหมดในฉากนี้ และในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="voidEgoDice">
-  </BattleCardAbility>
+<BattleCardAbility ID="smokeOnly1">
+<Desc>[เมื่อใช้] จั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="smokeOnly2">
+<Desc>[เมื่อใช้] ได้รับควัน 2 จำนวน</Desc>
+</BattleCardAbility>
 
-  <!-- kali -->
-  <!-- card ability -->
-  <BattleCardAbility ID="kaliNormalAttackJ">
-    <Desc>ถ้าทำดาเมจ 8 ดาเมจด้วย Page นี้ได้ จั่ว Page 1 ใบ และลดคอสของ 'Upstanding Slashes' ลง 1</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="kaliNormalAttackZ">
-    <Desc>ถ้าทำดาเมจ 8 ดาเมจด้วย Page นี้ได้ จั่ว Page 1 ใบ และลดคอสของ 'Spears' ลง 1</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="kaliNormalAttackH">
-    <Desc>ถ้าทำดาเมจ 8 ดาเมจด้วย Page นี้ได้ ฟื้นฟูแสง 2 หน่วย และลดคอสของ 'Level Slashes' ลง 1</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="kali">
-    <Desc>ถ้าเป้าหมายis defeated or Staggered use this page aได้รับ on a randomศัตรู</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="kaliEgoAwaken">
-    <Desc>[เมื่อใช้] ฟื้นฟูแสง 6 หน่วย; fully recover Stagger Resist Manifest the EGOของthe Red Mist ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="kaliSuperAttack">
-    <Desc>[เมื่อโจมตี] Destroy a Combat Page set on another random ลูกเต๋าความเร็วของเป้าหมาย</Desc>
-  </BattleCardAbility>
-  
-  <!-- dice ability -->
-  <BattleCardAbility ID="kaliAreaDice">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 5 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="kaliAttackBuf">
-    <Desc>[เมื่อโจมตี] ได้รับกำลัง 3 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="freischutz">
+<Desc>เล็งทุกตัวยกเว้นตนเอง</Desc>
+</BattleCardAbility>
 
-  <!-- binah -->
-  <BattleCardAbility ID="protection3friendThisRound">
-    <Desc>[เมื่อใช้] มอบเกราะ 3 จำนวนให้กับเพื่อนร่วมทีมทั้งหมดในฉากนี้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="drawUntil4">
-    <Desc>[เมื่อใช้] Draw until there are 4 pages in hand</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="fairy3atkCard">
-    <Desc>[เมื่อโจมตี] มอบแฟรี่ 3 จำนวนให้เป้าหมาย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="fairy5atkCard">
-    <Desc>[เมื่อโจมตี] มอบแฟรี่ 5 จำนวนให้เป้าหมาย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="binahShockwaveDice1">
-  </BattleCardAbility>
-  <BattleCardAbility ID="binahShockwaveDice2">
-    <Desc>[เมื่อโจมตี] มอบอ่อนแรง 1 จำนวนในฉากนี้</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="fairy1atk">
-    <Desc>[เมื่อโจมตี] มอบ 1 Fairy</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="fairy2atk">
-    <Desc>[เมื่อโจมตี] มอบ 2 Fairy</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="fairy3atk">
-    <Desc>[เมื่อโจมตี] มอบ 3 Fairy</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="forbidReuseDice">
-    <Desc>current ของเป้าหมายdie cannot be recycled</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="sealTargetAtk">
-    <Desc>[เมื่อโจมตี] ผนึกลูกเต๋าความเร็วของเป้าหมายfor the ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="forbidCardAtk">
-    <Desc>[เมื่อโจมตี] Increase Costของpages ของเป้าหมายwhose original Cost is 4 or higher by 2 for the ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="butterfly_brkdmg">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 5 ดาเมจใส่เป้าหมาย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="weak5atk">
+<Desc>[เมื่อโจมตี] มอบอ่อนแรง 5 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="disarm5atk">
+<Desc>[เมื่อโจมตี] มอบ 5 ตัดกำลัง</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="binding5atk">
+<Desc>[เมื่อโจมตี] มอบ 5 พันธนา</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="yesod_final_butterfly_ego_brk">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 3 ดาเมจใส่เป้าหมาย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="yesod_final_butterfly_ego_dmg">
+<Desc>[เมื่อโจมตี] ทำดาเมจ 3 ดาเมจใส่เป้าหมาย</Desc>
+</BattleCardAbility>
 
-  <!-- R 사 -->
-  <!-- 네임드 카드 -->
-  <BattleCardAbility ID="myoCard">
-    <Desc>Only usable at 20+ Charge [เมื่อโจมตี] มอบเลือดเลือดไหล 3 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="myoDice1">
-  </BattleCardAbility>
-  <BattleCardAbility ID="myoDice2">
-    <Desc>[เมื่อโจมตี] Deal 15 bonus damage aได้รับst the manually selected target</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="rudolphCard">
-    <Desc>Only usable at 20+ Charge</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="rudolphDice">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 6 ดาเมจ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="maximCard">
-    <Desc>Only usable at 20+ Charge</Desc>
-    <Desc>[เมื่อใช้] Spend 20 Charge to boost Powerของลูกเต๋าบน Page นี้จะby +10</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="maximDice">
-    <Desc>[เมื่อโจมตี] ถ้า20 or more damage was dealt deal 15 bonus damage to target</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="nicolaiDice">
-    <Desc>ถ้าHP ของเป้าหมายis at 50% or lower add +5 Power</Desc>
-  </BattleCardAbility>
-  
-  
-  <BattleCardAbility ID="deerCard">
-    <Desc>[เมื่อใช้] ทำดาเมจ Stagger 4 ดาเมจใส่ตนเอง</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="deerDice">
-    <Desc>[เมื่อโจมตี] Spend 3 Charge to ทำดาเมจ Stagger 8 ดาเมจ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="rhinoCard">
-    <Desc>[เมื่อเริ่มการต่อสู้] ได้รับเกราะ 2 จำนวนthis Scene</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="drawCardWarpOnly">
-    <Desc>[เมื่อใช้] Spend 3 Charge to จั่ว Page 2 ใบ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="power1costCharge">
-    <Desc>[เมื่อใช้] Spend 3 Charge to boost Powerของลูกเต๋าบน Page นี้จะby +1</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="energyAndCharge">
-    <Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย และได้รับชาร์จ 3 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="warpCharge8">
-    <Desc>[เมื่อใช้] ได้รับชาร์จ 8 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="warpCharge10">
-    <Desc>[เมื่อใช้] ได้รับชาร์จ 10 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="charge1atk">
-    <Desc>[เมื่อโจมตี] ได้รับชาร์จ 1 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="charge8atk">
-    <Desc>[เมื่อโจมตี] ได้รับชาร์จ 8 จำนวน</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="otherAlly2strength1thisRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] มอบกำลัง 1 จำนวนto 2 other allies</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="copyMostCost">
-    <Desc>[เมื่อใช้] Copy the most expensive page in hand และadd that to hand</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="costdown">
-    <Desc>This Cost ของpage is lowered by the numberของother 'Rapid Gashes' in hand</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="murderDice1">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger ดาเมจเป็นจำนวน 10% ของ Stagger Resist ปัจจุบันของเป้าหมาย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="murderDice2">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger ดาเมจเป็นจำนวน 50% ของ Stagger Resist ปัจจุบันของเป้าหมาย</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="myoBerserk">
-    <Desc>[เมื่อใช้] Convert all Ranged pages in the deck into Melee pages Add a copyของ'Feral Knives' to hand Starting with the ในฉากถัดไป all dice this character plays ได้รับ +1 Power</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="helperEgo">
+</BattleCardAbility>
+<BattleCardAbility ID="helperDice">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 2 
 
-  <BattleCardAbility ID="gyeongmiRemake">
-    <Desc>[เมื่อใช้] Replace ลูกเต๋าบน Page นี้จะwith ones on a random page in hand whose original Cost is 4 or lower (Excluding Counter dice)</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <!-- added -->
+<BattleCardAbility ID="singingMachineEgo">
+<Desc>ทุกครั้งที่โจมตีสำเร็จ เพื่อนร่วมทีมหนึ่คนจะโดนดาเมจ Stagger 3 ดาเมจ และได้รับกำลัง 1 
+จำนวนในฉากถัดไป</Desc>
+<Desc>เมื่อฆ่าศัตรูได้ เพื่อนร่วมทีมทั้งหมดได้รับกำลัง 2</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="singingMachineDice">
+<Desc>[เมื่อโจมตี] ใช้ลูกเต๋านี้ซ้ำไปเรื่อยๆจนกว่าจะทอยได้ค่าต่ำสุด (สูงสุด 2 ครั้ง)</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="nicolaiCard2">
-    <Desc>Only usable at 20+ Charge Upon defeating anศัตรู with this page add a copyของ'Disposal' to hand และlower its Cost by 1</Desc>
-    <Desc>ถ้าHP ของเป้าหมายis at 50% or lower deal twice as much damage</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="buterflyEgo">
+<Desc>ลูกเต๋าบน Page นี้จะถูกใช้ 8 ครั้ง</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="buterflyDice">
+<Desc>[เมื่อโจมตี] สุ่มทำดาเมจ 3 ดาเมจ หรือดาเมจ Stagger 3 ดาเมจใส่เป้าหมาย</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="nicolaiDice1">
-    <Desc>[เมื่อปะทะชนะ] Destroy allของdice ของopponent
+
+<BattleCardAbility ID="freischutzEgo">
+<Desc>[Synchronize] on equip</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="philipEgo">
+<Desc>ใช้ได้เมื่อระดับอารมณ์ 3 หรือมากกว่า</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="cryingChildPenalty">
+<Desc>[เมื่อปะทะแพ้] ความทนทานของเพื่อนร่วมทีมทั้งหมดเปลี่ยนเป็น "ร้ายแรง"</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="cryingChildArea">
+<Desc> ผู้ใช้จะ Staggered เมื่อจบฉาก</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="cryingChildAreaDice">
+</BattleCardAbility>
+
+<!-- 리우 2과 -->
+<!-- card ability -->
+<BattleCardAbility ID="liuUnique">
+<Desc>[เมื่อใช้] ลูกเต๋าบน Page นี้จะได้รับ +1 Power for every 2 ระดับอารมณ์s</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="costDown1emotion3">
+<Desc>Costs 1 less at ระดับอารมณ์ 3 or higher</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="dmgUp1thisRound">
+<Desc>[เมื่อเริ่มการต่อสู้] Offensive dice deal +1 damage forในฉากนี้</Desc>
+</BattleCardAbility>
+
+<!-- dice ability -->
+<BattleCardAbility ID="gainEmotion1pw">
+<Desc>[เมื่อปะทะชนะ] ได้รับ 1 แต้มอารมณ์</Desc>
+</BattleCardAbility>
+
+<!-- card ability -->
+<BattleCardAbility ID="gainPositive1">
+<Desc>[เมื่อใช้] ได้รับ 1 Positive แต้มอารมณ์</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="endurance1emotion">
+<Desc>[เมื่อใช้] ได้รับอึดทน 1 จำนวนในฉากถัดไป At ระดับอารมณ์ 3 or higher ได้รับอึดทน 2 จำนวนinstead</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="lowelonly">
+<Desc>[เมื่อใช้] Remove all dice from this page Add a Mass Attack page to hand that can only be used ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="lowelCreated">
+<Desc>Can only be usedในฉากนี้</Desc>
+</BattleCardAbility>
+
+<!-- dice ability -->
+<BattleCardAbility ID="lowelDice">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 3 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="liuBurnDice">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 1+ (Personal ระดับอารมณ์) จำนวน</Desc>
+</BattleCardAbility>
+
+<!-- hod ego -->
+<BattleCardAbility ID="shyLookEgoDice">
+<Desc>Deal +10 damage aได้รับst Staggered เป้าหมาย</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="redshoesEgoDice2">
+<Desc>ได้รับ Power by 2x the Bleed ของtarget</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="spiderBudEgoDice">
+<Desc>[เมื่อโจมตี] มอบ 3 พันธนา Feeble,ตัดกำลัง และ
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="latitiaAreaEgo">
+</BattleCardAbility>
+
+<BattleCardAbility ID="latitiaEgoDice">
+<Desc>[เมื่อโจมตี] Add a copyของ'Small Gift' to hand ของtarget</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="blackSwanAreaEgo">
+</BattleCardAbility>
+
+<BattleCardAbility ID="blackSwanEgoDice1">
+</BattleCardAbility>
+<BattleCardAbility ID="blackSwanEgoDice2">
+<Desc>[เมื่อโจมตี] เป้าหมายloses 3 Light ในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<!-- card ability -->
+<BattleCardAbility ID="AddBullet1">
+<Desc>[เมื่อใช้] Add a random Ammunition to hand</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="AddBullet2">
+<Desc>[เมื่อใช้] Add 2 random Ammunition to hand</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="discard1">
+<Desc>[เมื่อใช้] Discard a page with the lowest Cost</Desc>
+<Desc>ถ้าan Ammunition was discarded all Offensive dice on this page ได้รับ +1 Power</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="discard2draw1">
+<Desc>[เมื่อใช้] Discard 2 pages with the lowest Cost from hand และจั่ว Page a ใบ</Desc>
+<Desc>ลูกเต๋าบน Page นี้จะได้รับ +1 Power for each Ammunition discarded</Desc>	
+</BattleCardAbility>
+
+<BattleCardAbility ID="negatePower">
+<Desc>Dice on this page และthe page clashing with it are unaffected by Power ได้รับ or loss</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="dmgUpFriend3">
+<Desc>[เมื่อใช้] Allเพื่อนร่วมทีมdeal +2 damage with their Offensive dice ในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="thumbBullet1">
+<Desc>Exhausts when used or discarded;
+[On Exhaust] Dice clashing aได้รับst Ranged ของuser Combat Pages lose 1 Power forในฉากนี้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="thumbBullet2">
+<Desc>Exhausts when used or discarded;
+[On Exhaust] On hit with Ranged Combat Pagesในฉากนี้ มอบ 1 Paralysisตัดกำลัง และ
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="thumbBullet3">
+<Desc>Exhausts when used or discarded;
+[On Exhaust] On hit with Ranged Combat Pagesในฉากนี้ มอบเผาไหม้ 2 จำนวน</Desc>
+</BattleCardAbility>
+
+<!-- dice ability -->
+<BattleCardAbility ID="repeat3">
+<Desc>This die is rolled 3 times</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="repeat4">
+<Desc>This die is rolled 4 times</Desc>
+</BattleCardAbility>
+
+<!-- 지팡이 -->
+<BattleCardAbility ID="badaCard">
+<Desc>[เมื่อเริ่มการปะทะ] Spend 3 Charge to ลดพลังของall dice on page ของopponent by 2</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="chargeProtection">
+<Desc>[เมื่อใช้] Spend 2 Charge to มอบเกราะ 1 จำนวนให้กับเพื่อนร่วมทีมทั้งหมดในฉากนี้ และในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="chargeEnergy">
+<Desc>[เมื่อใช้] Spend 4 Charge to ฟื้นฟูแสง 3 หน่วย</Desc>
+</BattleCardAbility>
+<!-- remake -->
+<BattleCardAbility ID="badaCardRemake">
+<Desc>[เมื่อใช้] Spend 4 Charge to boost Powerของลูกเต๋าบน Page นี้จะby +2</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="chargeDestroyDesc"> <!-- 'chargeDestroy'의 텍스트가 너무 길어서 분리 -->
+<Desc>Dice abilities on this page only activate ถ้าthe opponent has Offensive dice</Desc>
+</BattleCardAbility>
+<!-- 주사위 능력 -->
+<BattleCardAbility ID="chargeDestroy">
+<Desc>[เมื่อปะทะชนะ] Spend 2 Charge to destroy next ของopponent Offensive die</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="charge2pw">
+<Desc>[เมื่อปะทะชนะ] ได้รับชาร์จ 2 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="charge1pl">
+<Desc>[เมื่อปะทะแพ้] ได้รับชาร์จ 1 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="charge2pl">
+<Desc>[เมื่อปะทะแพ้] ได้รับชาร์จ 1 จำนวน</Desc>
+</BattleCardAbility>
+
+<!-- balance update-->
+<BattleCardAbility ID="AddBullet1AndDraw">
+<Desc>[เมื่อใช้] Add a random Ammunition to hand;
+จั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
+
+<!-- 톱니 신도-->
+<BattleCardAbility ID="smokeSelf4draw">
+<Desc>[เมื่อใช้] ได้รับควัน 4 จำนวน และจั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="smokePowerUp">
+<Desc>[เมื่อใช้] หากเป้าหมายมีควัน 2 จำนวนหรือมากกว่า all Offensive dice on this page ได้รับ +1 Power</Desc>
+</BattleCardAbility>
+
+<!-- 아르갈리아 -->
+<BattleCardAbility ID="nullifyPower">
+<Desc>[เมื่อใช้] dice ของเป้าหมายPower cannot be influenced by any effects ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="argaliaBuf">
+<Desc>[เมื่อโจมตี] มอบ 1 Strengthอึดทน และจำนวนให้กับเพื่อนร่วมทีมทั้งหมด ในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<!-- 네짜흐 EGO -->
+<BattleCardAbility ID="areaText">
+</BattleCardAbility>
+<BattleCardAbility ID="cardPowerDown2target">
+<Desc>[เมื่อเริ่มการปะทะ] ลดพลังของall dice ของเป้าหมายby 2</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="cardPowerDown4target">
+<Desc>[เมื่อเริ่มการปะทะ] ลดพลังของall dice ของเป้าหมายby 4</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="universeDice">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 10 ดาเมจใส่เป้าหมาย</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="galaxyEgoDice">
+<Desc>[เมื่อโจมตี] Recover HP ของuser by the natural roll value</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="porccubusEgoDice">
+<Desc>ได้รับ Power equal to ของเป้าหมายระดับอารมณ์</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="porccubusEgoDice2">
+<Desc>This die is rolled 3 times
+[เมื่อโจมตี] มอบเลือดเลือดไหล 3 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="aliuneEgoDice">
+<Desc>[เมื่อโจมตี] ถ้าเป้าหมายis Staggered ทำดาเมจ 8 ดาเมจ</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="orchestraEgoDice1">
+<Desc>[เมื่อโจมตี] เป้าหมายloses 2 Light ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="orchestraEgoDice2">
+<Desc>[เมื่อโจมตี] ความเร็วของเป้าหมายis fixed at 1 ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="orchestraEgoDice3">
+<Desc>[เมื่อโจมตี] มอบอ่อนแรง 1 จำนวนตัดกำลัง และจำนวนthis Scene</Desc>
+</BattleCardAbility>
+
+
+<BattleCardAbility ID="redshoesEgo">
+<Desc>[เมื่อเริ่มการต่อสู้]ศัตรูdo notเลือดเลือดไหล lose จำนวน stacks after rolling Offensive dice forในฉากนี้</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="breakCharge">
+<Desc>[เมื่อโจมตี] Spend 2 Charge to ทำดาเมจ Stagger 5 ดาเมจ</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="gloriaCard">
+<Desc>Only usable in the 'Blade Unlocked' state</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="estherCard">
+<Desc>Only usable in the 'Blade Unlocked' state</Desc>
+<Desc>ลดพลังของall dice ของopponent clashing aได้รับst this by 12</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="hubertCard">
+<Desc>Only usable in the 'Blade Unlocked' state</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="gloriaDice">
+<Desc>[เมื่อโจมตี] มอบอ่อนแรง 1 จำนวนในฉากนี้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="estherDice">
+<Desc>[เมื่อโจมตี] ทำดาเมจ bonus ดาเมจ และStagger damage by 7x the natural roll</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="hubertDice">
+<Desc>[เมื่อโจมตี] มอบอ่อนแรง 1 จำนวน andเลือดเลือดไหล 8 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="strength1friendKill">
+<Desc>On kill มอบกำลัง 1 จำนวนให้กับเพื่อนร่วมทีมทั้งหมด ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerUp1targetHp50">
+<Desc>Add +1 Power ถ้าHP ของเป้าหมายis at 50% or lower</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="cardPowerDown1targetHighlander">
+<Desc>[เมื่อเริ่มการปะทะ] ถ้าเป็นหนึ่งเดียว ลดพลังของall dice ของเป้าหมายby 1</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerDownNext2pwTargetHighlander">
+<Desc>[เมื่อปะทะชนะ] ถ้าเป็นหนึ่งเดียว ลดพลังของnext ของopponent die by 2</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="draw1CardAndHighlanderEnergy">
+<Desc>[เมื่อใช้] จั่ว Page 1 ใบ ถ้าเป็นหนึ่งเดียว ฟื้นฟูแสง 2 หน่วย as well</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="indexRelease1">
+<Desc>[เมื่อใช้] เพิ่ม "Unlock-Ⅱ" เข้าสู่มือ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="indexRelease2">
+<Desc>[เมื่อใช้] เพิ่ม "Unlock-Ⅲ" เข้าสู่มือ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="drawAndEnergy">
+<Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย และจั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="shyaoDice1">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="shyaoDice2">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน;
+repeat this effect for every ระดับอารมณ์</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="burn1atk2times">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 จำนวน 2 times</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="burn1atk3times">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 จำนวน 3 times</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="burnSpread">
+<Desc>[เมื่อโจมตี] หากเป้าหมายมี 4 orเลือดเผาไหม้ more จำนวน มอบเผาไหม้ 1 จำนวนให้กับศัตรูทั้งหมด</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="burnPlus">
+<Desc>[เมื่อเริ่มการต่อสู้] When มอบing Burn using Combat Pagesในฉากนี้ มอบ 1 additional stack</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="punchDraw">
+<Desc>[เมื่อใช้] At the startของthe ในฉากถัดไป draw all copiesของ'Single-Point Stab' from the deck</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="fireIlsum">
+<Desc>[เมื่อใช้] ถ้า'Burning Flash' is in hand discard it และจั่ว Page a ใบ then add the Offensive dice on the discarded page to this</Desc>
+<Desc></Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="discard4bullet">
+<Desc>[เมื่อใช้] Discard up to four 0-Cost pages from hand</Desc>
+<Desc>Offensive dice on this page ได้รับ +1 Power for each Ammunition discarded this way</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="breakChargeRemake">
+<Desc>[เมื่อโจมตี] Spend 2 Charge to ทำดาเมจ Stagger 6 ดาเมจ up to three times</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="powerUp1Hp_ver2">
+<Desc>[เมื่อใช้] ถ้าHP is at 50% or lower ลูกเต๋าบน Page นี้จะได้รับ +1 Power</Desc>
+</BattleCardAbility>
+
+<!-- tiphereth EGO-->
+<BattleCardAbility ID="hateEgoDice">
+</BattleCardAbility>
+<BattleCardAbility ID="despairEgoDice">
+<Desc>[เมื่อโจมตี] ผนึกลูกเต๋าความเร็วของเป้าหมายfor the ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="greedEgoDice">
+<Desc>[เมื่อโจมตี] ฟื้นฟูแสง 1 หน่วย;
+ได้รับกำลัง 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="wrathEgo">
+<Desc>เล็งทุกตัวยกเว้นตนเอง</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="voidEgo">
+<Desc>[เมื่อใช้] ถ้าไม่มี Page อื่นในมือแล้ว มอบอ่อนแรง 4 จำนวน ตัดกำลัง พันธนา และอัมพาต ใส่ศัตรูทั้งหมดในฉากนี้ และในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="voidEgoDice">
+</BattleCardAbility>
+
+<!-- kali -->
+<!-- card ability -->
+<BattleCardAbility ID="kaliNormalAttackJ">
+<Desc>ถ้าทำดาเมจ 8 ดาเมจด้วย Page นี้ได้ จั่ว Page 1 ใบ และลดคอสของ 'Upstanding Slashes' ลง 1</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="kaliNormalAttackZ">
+<Desc>ถ้าทำดาเมจ 8 ดาเมจด้วย Page นี้ได้ จั่ว Page 1 ใบ และลดคอสของ 'Spears' ลง 1</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="kaliNormalAttackH">
+<Desc>ถ้าทำดาเมจ 8 ดาเมจด้วย Page นี้ได้ ฟื้นฟูแสง 2 หน่วย และลดคอสของ 'Level Slashes' ลง 1</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="kali">
+<Desc>ถ้าเป้าหมายis defeated or Staggered use this page aได้รับ on a randomศัตรู</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="kaliEgoAwaken">
+<Desc>[เมื่อใช้] ฟื้นฟูแสง 6 หน่วย;
+fully recover Stagger Resist Manifest the EGOของthe Red Mist ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="kaliSuperAttack">
+<Desc>[เมื่อโจมตี] Destroy a Combat Page set on another random ลูกเต๋าความเร็วของเป้าหมาย</Desc>
+</BattleCardAbility>
+
+<!-- dice ability -->
+<BattleCardAbility ID="kaliAreaDice">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 5 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="kaliAttackBuf">
+<Desc>[เมื่อโจมตี] ได้รับกำลัง 3 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<!-- binah -->
+<BattleCardAbility ID="protection3friendThisRound">
+<Desc>[เมื่อใช้] มอบเกราะ 3 จำนวนให้กับเพื่อนร่วมทีมทั้งหมดในฉากนี้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="drawUntil4">
+<Desc>[เมื่อใช้] Draw until there are 4 pages in hand</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="fairy3atkCard">
+<Desc>[เมื่อโจมตี] มอบแฟรี่ 3 จำนวนให้เป้าหมาย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="fairy5atkCard">
+<Desc>[เมื่อโจมตี] มอบแฟรี่ 5 จำนวนให้เป้าหมาย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="binahShockwaveDice1">
+</BattleCardAbility>
+<BattleCardAbility ID="binahShockwaveDice2">
+<Desc>[เมื่อโจมตี] มอบอ่อนแรง 1 จำนวนในฉากนี้</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="fairy1atk">
+<Desc>[เมื่อโจมตี] มอบ 1 Fairy</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="fairy2atk">
+<Desc>[เมื่อโจมตี] มอบ 2 Fairy</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="fairy3atk">
+<Desc>[เมื่อโจมตี] มอบ 3 Fairy</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="forbidReuseDice">
+<Desc>current ของเป้าหมายdie cannot be recycled</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="sealTargetAtk">
+<Desc>[เมื่อโจมตี] ผนึกลูกเต๋าความเร็วของเป้าหมายfor the ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="forbidCardAtk">
+<Desc>[เมื่อโจมตี] Increase Costของpages ของเป้าหมายwhose original Cost is 4 or higher by 2 for the ในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<!-- R 사 -->
+<!-- 네임드 카드 -->
+<BattleCardAbility ID="myoCard">
+<Desc>Only usable at 20+ Charge [เมื่อโจมตี] มอบเลือดเลือดไหล 3 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="myoDice1">
+</BattleCardAbility>
+<BattleCardAbility ID="myoDice2">
+<Desc>[เมื่อโจมตี] Deal 15 bonus damage aได้รับst the manually selected target</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="rudolphCard">
+<Desc>Only usable at 20+ Charge</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="rudolphDice">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 6 ดาเมจ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="maximCard">
+<Desc>Only usable at 20+ Charge</Desc>
+<Desc>[เมื่อใช้] Spend 20 Charge to boost Powerของลูกเต๋าบน Page นี้จะby +10</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="maximDice">
+<Desc>[เมื่อโจมตี] ถ้า20 or more damage was dealt deal 15 bonus damage to target</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="nicolaiDice">
+<Desc>ถ้าHP ของเป้าหมายis at 50% or lower add +5 Power</Desc>
+</BattleCardAbility>
+
+
+<BattleCardAbility ID="deerCard">
+<Desc>[เมื่อใช้] ทำดาเมจ Stagger 4 ดาเมจใส่ตนเอง</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="deerDice">
+<Desc>[เมื่อโจมตี] Spend 3 Charge to ทำดาเมจ Stagger 8 ดาเมจ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="rhinoCard">
+<Desc>[เมื่อเริ่มการต่อสู้] ได้รับเกราะ 2 จำนวนthis Scene</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="drawCardWarpOnly">
+<Desc>[เมื่อใช้] Spend 3 Charge to จั่ว Page 2 ใบ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="power1costCharge">
+<Desc>[เมื่อใช้] Spend 3 Charge to boost Powerของลูกเต๋าบน Page นี้จะby +1</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="energyAndCharge">
+<Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย และได้รับชาร์จ 3 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="warpCharge8">
+<Desc>[เมื่อใช้] ได้รับชาร์จ 8 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="warpCharge10">
+<Desc>[เมื่อใช้] ได้รับชาร์จ 10 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="charge1atk">
+<Desc>[เมื่อโจมตี] ได้รับชาร์จ 1 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="charge8atk">
+<Desc>[เมื่อโจมตี] ได้รับชาร์จ 8 จำนวน</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="otherAlly2strength1thisRound">
+<Desc>[เมื่อเริ่มการต่อสู้] มอบกำลัง 1 จำนวนto 2 other allies</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="copyMostCost">
+<Desc>[เมื่อใช้] Copy the most expensive page in hand และadd that to hand</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="costdown">
+<Desc>This Cost ของpage is lowered by the numberของother 'Rapid Gashes' in hand</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="myoBerserk">
+<Desc>[เมื่อใช้] Convert all Ranged pages in the deck into Melee pages Add a copyของ'Feral Knives' to hand Starting with the ในฉากถัดไป all dice this character plays ได้รับ +1 Power</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="gyeongmiRemake">
+<Desc>[เมื่อใช้] Replace ลูกเต๋าบน Page นี้จะwith ones on a random page in hand whose original Cost is 4 or lower (Excluding Counter dice)</Desc>
+</BattleCardAbility>
+
+<!-- added -->
+
+<BattleCardAbility ID="nicolaiCard2">
+<Desc>Only usable at 20+ Charge Upon defeating anศัตรู with this page add a copyของ'Disposal' to hand และlower its Cost by 1</Desc>
+<Desc>ถ้าHP ของเป้าหมายis at 50% or lower deal twice as much damage</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="nicolaiDice1">
+<Desc>[เมื่อปะทะชนะ] Destroy allของdice ของopponent
 [เมื่อปะทะแพ้] Destroy the next die on this page</Desc>
-  </BattleCardAbility>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="nicolaiDice2">
-    <Desc>หากเป้าหมายมี 'Mark' increase damage และStagger damage by the natural roll</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="nicolaiDice2">
+<Desc>หากเป้าหมายมี 'Mark' increase damage และStagger damage by the natural roll</Desc>
+</BattleCardAbility>
 
-  <!-- rabbit added -->
-  <BattleCardAbility ID="powerUp1speed6exhaust">
-    <Desc>[เมื่อใช้] ถ้าความเร็วis 6 or higher ลูกเต๋าบน Page นี้จะได้รับ +1 Power</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerUp2speed6exhaust">
-    <Desc>[เมื่อใช้] ถ้าความเร็วis 6 or higher ลูกเต๋าบน Page นี้จะได้รับ +2 Power</Desc>
-  </BattleCardAbility>
+<!-- rabbit added -->
+<BattleCardAbility ID="powerUp1speed6exhaust">
+<Desc>[เมื่อใช้] ถ้าความเร็วis 6 or higher ลูกเต๋าบน Page นี้จะได้รับ +1 Power</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerUp2speed6exhaust">
+<Desc>[เมื่อใช้] ถ้าความเร็วis 6 or higher ลูกเต๋าบน Page นี้จะได้รับ +2 Power</Desc>
+</BattleCardAbility>
 
-  <!-- geburah ego -->
-  <BattleCardAbility ID="wolfEgo">
-    <Desc>Dice on this page do not deal damage or Stagger damage on hit</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="wolfEgoDice1">
-    <Desc>This die is rolled 4 times</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="wolfEgoDice2">
-    <Desc>[เมื่อโจมตี] Deal damage equal ให้ sumของall valid rolls (won clashes or hits connected) done with ลูกเต๋าทั้งหมดบน Page นี้</Desc>
-  </BattleCardAbility>
+<!-- geburah ego -->
+<BattleCardAbility ID="wolfEgo">
+<Desc>Dice on this page do not deal damage or Stagger damage on hit</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="wolfEgoDice1">
+<Desc>This die is rolled 4 times</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="wolfEgoDice2">
+<Desc>[เมื่อโจมตี] Deal damage equal ให้ sumของall valid rolls (won clashes or hits connected) done with ลูกเต๋าทั้งหมดบน Page นี้</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="mountainEgoDice">
-    <Desc>[เมื่อโจมตี] มอบอ่อนแรง 2 จำนวนตัดกำลัง และจำนวนthis Scene</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="mountainEgoDice">
+<Desc>[เมื่อโจมตี] มอบอ่อนแรง 2 จำนวนตัดกำลัง และจำนวนthis Scene</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="freischutzEgo2">
-    <Desc>[เมื่อใช้] Synchronize with Der Freischütz for the next 3 Scenes</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="redHoodEgo">
-    <Desc>[เมื่อใช้] Synchronize with Little Red Riding Hooded Mercenary for the next 3 Scenes</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="freischutzEgo2">
+<Desc>[เมื่อใช้] Synchronize with Der Freischütz for the next 3 Scenes</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="redHoodEgo">
+<Desc>[เมื่อใช้] Synchronize with Little Red Riding Hooded Mercenary for the next 3 Scenes</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="cancelChangeEgo">
-    <Desc>[เมื่อใช้] Cancel Synchronization at the startของthe ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="cancelChangeEgo">
+<Desc>[เมื่อใช้] Cancel Synchronization at the startของthe ในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="nosferatuEgoDice">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู 5 HP; ได้รับกำลัง 1 จำนวนในฉากถัดไป; เป้าหมายreceivesกำลัง 1 จำนวนandเลือดเลือดไหล 5 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="nosferatuEgoDice">
+<Desc>[เมื่อโจมตี] ฟื้นฟู 5 HP;
+ได้รับกำลัง 1 จำนวนในฉากถัดไป;
+เป้าหมายreceivesกำลัง 1 จำนวนandเลือดเลือดไหล 5 
 
-  <BattleCardAbility ID="nothingEgo">
-    <Desc>On hit recover HP equal ให้ damage dealt</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="matanEgoDice1">
-    <Desc>[เมื่อโจมตี] ผนึกลูกเต๋าความเร็วของเป้าหมายfor the ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="nothingEgo">
+<Desc>On hit recover HP equal ให้ damage dealt</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="nothingEgoDice">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 10 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="matanEgoDice1">
+<Desc>[เมื่อโจมตี] ผนึกลูกเต๋าความเร็วของเป้าหมายfor the ในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <!-- purple tear -->
-  <BattleCardAbility ID="slashUp1thisRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] Boost Slash dice Power by +1 forในฉากนี้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerDouble">
-    <Desc>Power affects this die x2</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="bleeding3atkTwoRound">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 3 จำนวน ในฉากถัดไป และthe Scene after</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="vulnerable1atkTwoRound">
-    <Desc>[เมื่อโจมตี] มอบเปราะบาง 1 จำนวนในฉากถัดไป และthe Scene after</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="breakDmg2thisRoundHit">
-    <Desc>[เมื่อเริ่มการต่อสู้] Deal 2 bonus Stagger damage on Blunt hits forในฉากนี้</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="purpleSpecialDice">
-    <Desc>[เมื่อใช้] TypesของOffensive dice on this page change ให้ types the เป้าหมายis weakest to</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="purpleAreaDice1">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ 5 ดาเมจ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="purpleAreaDice2">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 5 ดาเมจ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="purpleAreaDice3">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 3 จำนวน andเปราะบาง 1 จำนวนthis Scene และในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="slashStance">
-    <Desc>[เมื่อใช้งาน] Change to Slashing Stance และboost Slash dice Power by +1 forในฉากนี้ Stance can be changed every 2 Scenes</Desc>
-    <Desc></Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="penetrateStance">
-    <Desc>[เมื่อใช้งาน] Change to Piercing Stance และboost Pierce dice Power by +1 forในฉากนี้ Stance can be changed every 2 Scenes</Desc>
-    <Desc></Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="hitStance">
-    <Desc>[เมื่อใช้งาน] Change to Blunting Stance และboost Blunt dice Power by +1 Stance can be changed every 2 Scenes</Desc>
-    <Desc></Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="defeneseStance">
-    <Desc>[เมื่อใช้งาน] Change to Guarding Stance และboost Defensive dice Power by +1 Stance can be changed every 2 Scenes</Desc>
-    <Desc></Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="bleedingPlus">
-    <Desc>[เมื่อเริ่มการต่อสู้] When มอบing Bleed using Combat Pagesในฉากนี้ มอบ 1 additional stack</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="nothingEgoDice">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 10 
 
-  <!-- chessed ego -->
-  <BattleCardAbility ID="scarecrowEgoDice">
-    <Desc>ได้รับพลัง +2 ตามจำนวนเพื่อนร่วมทีมที่ยังรอดอยู่</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="lumberjackEgoDice1">
-    <Desc>[เมื่อปะทะชนะ] Last die ได้รับs +2 Power</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="homeEgo">
-    <Desc>ถ้าthe attack hit at least once all otherเพื่อนร่วมทีมฟื้นฟูแสง 2 หน่วย at the end ofในฉากนี้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="ozmaEgoDice">
-    <Desc>ถ้าthe attack hit at least once allเพื่อนร่วมทีมจั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="wizardEgoDice">
-    <Desc>[เมื่อใช้] ในฉากถัดไป resurrect all deadเพื่อนร่วมทีมthat died this Act for one Scene The revivedเพื่อนร่วมทีมhave 4 Light และall statuses other than the ระดับอารมณ์ are reset Characters cannot be revived twice by this effect</Desc>
-  </BattleCardAbility>
-  
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<!-- purple tear -->
+<BattleCardAbility ID="slashUp1thisRound">
+<Desc>[เมื่อเริ่มการต่อสู้] Boost Slash dice Power by +1 forในฉากนี้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerDouble">
+<Desc>Power affects this die x2</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="bleeding3atkTwoRound">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 3 
+จำนวนในฉากถัดไป และthe Scene after</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="vulnerable1atkTwoRound">
+<Desc>[เมื่อโจมตี] มอบเปราะบาง 1 จำนวนในฉากถัดไป และthe Scene after</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="breakDmg2thisRoundHit">
+<Desc>[เมื่อเริ่มการต่อสู้] Deal 2 bonus Stagger damage on Blunt hits forในฉากนี้</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="purpleSpecialDice">
+<Desc>[เมื่อใช้] TypesของOffensive dice on this page change ให้ types the เป้าหมายis weakest to</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="purpleAreaDice1">
+<Desc>[เมื่อโจมตี] ทำดาเมจ 5 ดาเมจ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="purpleAreaDice2">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 5 ดาเมจ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="purpleAreaDice3">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 3 จำนวน andเปราะบาง 1 จำนวนthis Scene และในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="slashStance">
+<Desc>[เมื่อใช้งาน] Change to Slashing Stance และboost Slash dice Power by +1 forในฉากนี้ Stance can be changed every 2 Scenes</Desc>
+<Desc></Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="penetrateStance">
+<Desc>[เมื่อใช้งาน] Change to Piercing Stance และboost Pierce dice Power by +1 forในฉากนี้ Stance can be changed every 2 Scenes</Desc>
+<Desc></Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="hitStance">
+<Desc>[เมื่อใช้งาน] Change to Blunting Stance และboost Blunt dice Power by +1 Stance can be changed every 2 Scenes</Desc>
+<Desc></Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="defeneseStance">
+<Desc>[เมื่อใช้งาน] Change to Guarding Stance และboost Defensive dice Power by +1 Stance can be changed every 2 Scenes</Desc>
+<Desc></Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="bleedingPlus">
+<Desc>[เมื่อเริ่มการต่อสู้] When มอบing Bleed using Combat Pagesในฉากนี้ มอบ 1 additional stack</Desc>
+</BattleCardAbility>
+
+<!-- chessed ego -->
+<BattleCardAbility ID="scarecrowEgoDice">
+<Desc>ได้รับพลัง +2 ตามจำนวนเพื่อนร่วมทีมที่ยังรอดอยู่</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="lumberjackEgoDice1">
+<Desc>[เมื่อปะทะชนะ] Last die ได้รับs +2 Power</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="homeEgo">
+<Desc>ถ้าthe attack hit at least once all otherเพื่อนร่วมทีมฟื้นฟูแสง 2 หน่วย at the end ofในฉากนี้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="ozmaEgoDice">
+<Desc>ถ้าthe attack hit at least once allเพื่อนร่วมทีมจั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="wizardEgoDice">
+<Desc>[เมื่อใช้] ในฉากถัดไป resurrect all deadเพื่อนร่วมทีมthat died this Act for one Scene The revivedเพื่อนร่วมทีมhave 4 Light และall statuses other than the ระดับอารมณ์ are reset Characters cannot be revived twice by this effect</Desc>
+</BattleCardAbility>
+
 <!-- chessed creature -->
-  <BattleCardAbility ID="ozma_forgotten">
-    <Desc>[เมื่อใช้งาน] Immobilized forในฉากนี้; cannot be targeted</Desc>
-    <Desc>At the end ofในฉากนี้ recover 40%ของMax HP และfully restore Light</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oz_emerald">
-    <Desc>คอสของ Page นี้จะไม่สามารถถูกเปลี่ยนแปลงได้</Desc>
-    <Desc>[เมื่อใช้งาน;][เป้าหมายEnemy] Cancel 2 random Combat Pages on the ความเร็วของเป้าหมายdice</Desc>
-    <Desc>Recover 1 Light for each successful hit on the เป้าหมายthis Scene (Up to twice)</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oz_control">
-    <Desc>คอสของ Page นี้จะไม่สามารถถูกเปลี่ยนแปลงได้</Desc>
-    <Desc>[เมื่อใช้งาน] Reduce the Costของall pages in hand to 0</Desc>
-    <Desc>On use their Cost is reset ให้ value before this effect was applied</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="ozma_forgotten">
+<Desc>[เมื่อใช้งาน] Immobilized forในฉากนี้;
+cannot be targeted</Desc>
+<Desc>At the end ofในฉากนี้ recover 40%ของMax HP และfully restore Light</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oz_emerald">
+<Desc>คอสของ Page นี้จะไม่สามารถถูกเปลี่ยนแปลงได้</Desc>
+<Desc>[เมื่อใช้งาน;][เป้าหมายEnemy] Cancel 2 random Combat Pages on the ความเร็วของเป้าหมายdice</Desc>
+<Desc>Recover 1 Light for each successful hit on the เป้าหมายthis Scene (Up to twice)</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oz_control">
+<Desc>คอสของ Page นี้จะไม่สามารถถูกเปลี่ยนแปลงได้</Desc>
+<Desc>[เมื่อใช้งาน] Reduce the Costของall pages in hand to 0</Desc>
+<Desc>On use their Cost is reset ให้ value before this effect was applied</Desc>
+</BattleCardAbility>
 
-  <!-- added -->
-  <BattleCardAbility ID="nodice">
-    <Desc>This page prompts no action because it has no non-Counter dice</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="nodiceAndDraw">
-    <Desc>This page prompts no action because it has no non-Counter dice</Desc>
-    <Desc>[เมื่อเริ่มการต่อสู้] จั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
+<!-- added -->
+<BattleCardAbility ID="nodice">
+<Desc>This page prompts no action because it has no non-Counter dice</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="nodiceAndDraw">
+<Desc>This page prompts no action because it has no non-Counter dice</Desc>
+<Desc>[เมื่อเริ่มการต่อสู้] จั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
 
-  <!-- xiao -->
-  <BattleCardAbility ID="allyBuf">
-    <Desc>[เมื่อเริ่มการต่อสู้] มอบ 1 Strength 2 Protection และ2เกราะ Stagger จำนวนto a random otherเพื่อนร่วมทีม</Desc>
-  </BattleCardAbility>
+<!-- xiao -->
+<BattleCardAbility ID="allyBuf">
+<Desc>[เมื่อเริ่มการต่อสู้] มอบ 1 Strength 2 Protection และ2เกราะ Stagger จำนวนto a random otherเพื่อนร่วมทีม</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="strength1atk">
-    <Desc>[เมื่อโจมตี] ได้รับกำลัง 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="strength2atk">
-    <Desc>[เมื่อโจมตี] ได้รับกำลัง 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="strength1atk">
+<Desc>[เมื่อโจมตี] ได้รับกำลัง 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="strength2atk">
+<Desc>[เมื่อโจมตี] ได้รับกำลัง 2 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="shyaoDebufDice">
-    <Desc>[เมื่อโจมตี] มอบอ่อนแรง 1 จำนวนตัดกำลัง และจำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="shyaoDebufDice">
+<Desc>[เมื่อโจมตี] มอบอ่อนแรง 1 จำนวนตัดกำลัง และ
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="shyaoAreaStrength">
-    <Desc>[เมื่อใช้] ได้รับ 2 Strengthอึดทน และจำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="shyaoSelfBurn">
-    <Desc>[เมื่อเริ่มการต่อสู้] Take 10 less damageเลือดเผาไหม้ from จำนวน forในฉากนี้</Desc>
-    <Desc>[เมื่อใช้] ถ้าuserเลือดเผาไหม้ has จำนวน ฟื้นฟู 4 HP และได้รับเกราะ 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="burnBoth">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 3 จำนวน to each other</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="shyaoAreaStrength">
+<Desc>[เมื่อใช้] ได้รับ 2 Strengthอึดทน และ
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="burnAll">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวนให้กับศัตรูทั้งหมด</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="shyaoSelfBurn">
+<Desc>[เมื่อเริ่มการต่อสู้] Take 10 less damageเลือดเผาไหม้ from จำนวน forในฉากนี้</Desc>
+<Desc>[เมื่อใช้] ถ้าuserเลือดเผาไหม้ has จำนวน ฟื้นฟู 4 HP และได้รับเกราะ 2 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="burnBoth">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 3 จำนวน to each other</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="dragonAnger">
-    <Desc>ถ้าthe die tagged as 'Reverse Scale' loses in a clash ทำดาเมจ Stagger 70 ดาเมจใส่ตนเอง และได้รับ 4 Strengthอึดทน และจำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="dragonAngerDice">
-    <Desc>[Reverse Scale]</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="shyaoBurnAreaDice">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 8 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="burn1AreaEachDice">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="burn2AreaEachDice">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="burnAll">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวนให้กับศัตรูทั้งหมด</Desc>
+</BattleCardAbility>
 
-  <!-- binah ego -->
-  <BattleCardAbility ID="bigBirdEgo">
-    <Desc>[เมื่อเริ่มการต่อสู้]ศัตรูare not influenced by Power ได้รับ or loss for the Scene</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="dragonAnger">
+<Desc>ถ้าthe die tagged as 'Reverse Scale' loses in a clash ทำดาเมจ Stagger 70 ดาเมจใส่ตนเอง และได้รับ 4 Strengthอึดทน และ
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="dragonAngerDice">
+<Desc>[Reverse Scale]</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="longBirdEgo">
-    <Desc>[เมื่อโจมตี] Deal damage equal to 10%ของMax ของtarget HP (Max 50)</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="shyaoBurnAreaDice">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 8 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="burn1AreaEachDice">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="burn2AreaEachDice">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="smallBirdEgo">
-    <Desc>[เมื่อใช้] Reduce the Costของ2 random pages in hand by 1 until they're used (Does not stack)</Desc>
-  </BattleCardAbility>
+<!-- binah ego -->
+<BattleCardAbility ID="bigBirdEgo">
+<Desc>[เมื่อเริ่มการต่อสู้]ศัตรูare not influenced by Power ได้รับ or loss for the Scene</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="bossBirdFirstEgoDice">
-    <Desc>[เมื่อโจมตี] มอบอัมพาต 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="longBirdEgo">
+<Desc>[เมื่อโจมตี] Deal damage equal to 10%ของMax ของtarget HP (Max 50)</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="bossBirdSecondEgo">
-    <Desc>[เมื่อใช้] ถ้าHP ของuser is at 50% or lower ลูกเต๋าบน Page นี้จะได้รับ +8 Power</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="bossBirdSecondEgoDice">
-    <Desc>Deal 50% more damage aได้รับst เป้าหมาย with 50% or less HP</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="emotion_small_beak">
-    <Desc>[เมื่อใช้งาน;][Return to Hand] Take 5%ของMax HP as damage; ฟื้นฟูแสง 1 หน่วย</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="smallBirdEgo">
+<Desc>[เมื่อใช้] Reduce the Costของ2 random pages in hand by 1 until they're used (Does not stack)</Desc>
+</BattleCardAbility>
 
-  <!-- yan -->
-  <BattleCardAbility ID="yanAreaDice">
-    <Desc>[เมื่อโจมตี] มอบ 2 Erosion</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="yanOnly1Dice">
-    <Desc>[เมื่อโจมตี] มอบ 2 Erosion</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="yanOnly2Dice">
-    <Desc>[เมื่อปะทะชนะ] Destroy next ของopponent die</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="yanInstantEnergy">
-    <Desc>[เมื่อใช้งาน] ฟื้นฟูแสง 3 หน่วย; lose as much Light ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="yanSword">
-    <Desc>The Costของthis page equals the Max ของuser Light</Desc>
-    <Desc>[เมื่อใช้] ลูกเต๋าบน Page นี้จะได้รับ Power equal to ระดับอารมณ์; ฟื้นฟูแสง all หน่วย</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="bossBirdFirstEgoDice">
+<Desc>[เมื่อโจมตี] มอบอัมพาต 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="powerDownAndEnergy">
-    <Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย; ลูกเต๋าบน Page นี้จะlose 2 Power</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="energy3AndDraw1">
-    <Desc>[เมื่อใช้] ฟื้นฟูแสง 3 หน่วย; จั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
-  
+<BattleCardAbility ID="bossBirdSecondEgo">
+<Desc>[เมื่อใช้] ถ้าHP ของuser is at 50% or lower ลูกเต๋าบน Page นี้จะได้รับ +8 Power</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="bossBirdSecondEgoDice">
+<Desc>Deal 50% more damage aได้รับst เป้าหมาย with 50% or less HP</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="emotion_small_beak">
+<Desc>[เมื่อใช้งาน;][Return to Hand] Take 5%ของMax HP as damage;
+ฟื้นฟูแสง 1 หน่วย</Desc>
+</BattleCardAbility>
+
+<!-- yan -->
+<BattleCardAbility ID="yanAreaDice">
+<Desc>[เมื่อโจมตี] มอบ 2 Erosion</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="yanOnly1Dice">
+<Desc>[เมื่อโจมตี] มอบ 2 Erosion</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="yanOnly2Dice">
+<Desc>[เมื่อปะทะชนะ] Destroy next ของopponent die</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="yanInstantEnergy">
+<Desc>[เมื่อใช้งาน] ฟื้นฟูแสง 3 หน่วย;
+lose as much Light ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="yanSword">
+<Desc>The Costของthis page equals the Max ของuser Light</Desc>
+<Desc>[เมื่อใช้] ลูกเต๋าบน Page นี้จะได้รับ Power equal to ระดับอารมณ์;
+ฟื้นฟูแสง all หน่วย</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="powerDownAndEnergy">
+<Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย;
+ลูกเต๋าบน Page นี้จะlose 2 Power</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="energy3AndDraw1">
+<Desc>[เมื่อใช้] ฟื้นฟูแสง 3 หน่วย;
+จั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
+
 <!-- yanศัตรู -->
-  <BattleCardAbility ID="yanEnemyBuf1">
-    <Desc>Only used when a ของthere Hand with 31 or more HP</Desc>
-    <Desc>[เมื่อเริ่มการต่อสู้] ถ้าเป้าหมายis a Hand มอบ it 3 Strength</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="yanEnemyBuf2">
-    <Desc>Only used when a ของthere Hand with 31 or more HP</Desc>
-    <Desc>[เมื่อเริ่มการต่อสู้] ถ้าเป้าหมายis a Hand มอบ it 3 Protection</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="yanEnemyBuf3">
-    <Desc>Only used when a ของthere Hand with 31 or more HP</Desc>
-    <Desc>[เมื่อเริ่มการต่อสู้] The เป้าหมายand any dice clashing with them are not influenced by Power ได้รับ/loss forในฉากนี้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="yanEnemyBuf4">
-    <Desc>[เมื่อเริ่มการต่อสู้] ถ้าเป้าหมายis a Hand ฟื้นฟู its HP by 40 Otherwise recover HP ของเป้าหมายby 5</Desc>
-    <Desc></Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="yanEnemyBuf5">
-    <Desc>[เมื่อเริ่มการต่อสู้] Recover HPของall otherเพื่อนร่วมทีมby 80</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="yanEnemyBuf1">
+<Desc>Only used when a ของthere Hand with 31 or more HP</Desc>
+<Desc>[เมื่อเริ่มการต่อสู้] ถ้าเป้าหมายis a Hand มอบ it 3 Strength</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="yanEnemyBuf2">
+<Desc>Only used when a ของthere Hand with 31 or more HP</Desc>
+<Desc>[เมื่อเริ่มการต่อสู้] ถ้าเป้าหมายis a Hand มอบ it 3 Protection</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="yanEnemyBuf3">
+<Desc>Only used when a ของthere Hand with 31 or more HP</Desc>
+<Desc>[เมื่อเริ่มการต่อสู้] The เป้าหมายand any dice clashing with them are not influenced by Power ได้รับ/loss forในฉากนี้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="yanEnemyBuf4">
+<Desc>[เมื่อเริ่มการต่อสู้] ถ้าเป้าหมายis a Hand ฟื้นฟู its HP by 40 Otherwise recover HP ของเป้าหมายby 5</Desc>
+<Desc></Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="yanEnemyBuf5">
+<Desc>[เมื่อเริ่มการต่อสู้] Recover HPของall otherเพื่อนร่วมทีมby 80</Desc>
+</BattleCardAbility>
 
 <!-- yan special card -->
-  <BattleCardAbility ID="yanSpecial1">
-    <Desc>Only 1 Prescript page can be used per Scene</Desc>
-    <Desc>[เมื่อใช้งาน;][เป้าหมายAlly] มอบ 1 Strength</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="yanSpecial2">
-    <Desc>Only 1 Prescript page can be used per Scene</Desc>
-    <Desc>[เมื่อใช้งาน;][เป้าหมายAlly] มอบเกราะ 1 จำนวนand Stagger Protection</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="yanSpecial3">
-    <Desc>Only 1 Prescript page can be used per Scene</Desc>
-    <Desc>[เมื่อใช้งาน;][เป้าหมายAlly] เป้าหมายdraws 1 page</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="yanSpecial4">
-    <Desc>Only 1 Prescript page can be used per Scene</Desc>
-    <Desc>[เมื่อใช้งาน;][เป้าหมายAlly] เป้าหมายrestores 1 Light</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="yanSpecial1">
+<Desc>Only 1 Prescript page can be used per Scene</Desc>
+<Desc>[เมื่อใช้งาน;][เป้าหมายAlly] มอบ 1 Strength</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="yanSpecial2">
+<Desc>Only 1 Prescript page can be used per Scene</Desc>
+<Desc>[เมื่อใช้งาน;][เป้าหมายAlly] มอบเกราะ 1 จำนวนand Stagger Protection</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="yanSpecial3">
+<Desc>Only 1 Prescript page can be used per Scene</Desc>
+<Desc>[เมื่อใช้งาน;][เป้าหมายAlly] เป้าหมายdraws 1 page</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="yanSpecial4">
+<Desc>Only 1 Prescript page can be used per Scene</Desc>
+<Desc>[เมื่อใช้งาน;][เป้าหมายAlly] เป้าหมายrestores 1 Light</Desc>
+</BattleCardAbility>
 
 <!--RustyChainGroup-->
-  <BattleCardAbility ID="selfbleeding1">
-    <Desc>[เมื่อใช้] มอบเลือดเลือดไหล 1 จำนวน to self ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="selfbleeding2">
-    <Desc>[เมื่อใช้] มอบเลือดเลือดไหล 2 จำนวน to self ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="selfbleeding1energy1">
-    <Desc>[เมื่อใช้] มอบเลือดเลือดไหล 1 จำนวน to self ในฉากถัดไป; ฟื้นฟูแสง 1 หน่วย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="selfbleeding3powerup2">
-    <Desc>[เมื่อใช้] มอบเลือดเลือดไหล 3 จำนวน to selfในฉากนี้; ลูกเต๋าบน Page นี้จะได้รับ +2 Power</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="selfbleeding5powerup3">
-    <Desc>[เมื่อใช้] มอบเลือดเลือดไหล 5 จำนวน to selfในฉากนี้; ลูกเต๋าบน Page นี้จะได้รับ +3 Power</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="alliespower1">
-    <Desc>[เมื่อใช้] มอบกำลัง 1 จำนวนtoเพื่อนร่วมทีมในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="selfbleeding1">
+<Desc>[เมื่อใช้] มอบเลือดเลือดไหล 1 จำนวน to self ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="selfbleeding2">
+<Desc>[เมื่อใช้] มอบเลือดเลือดไหล 2 จำนวน to self ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="selfbleeding1energy1">
+<Desc>[เมื่อใช้] มอบเลือดเลือดไหล 1 จำนวน to self ในฉากถัดไป;
+ฟื้นฟูแสง 1 หน่วย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="selfbleeding3powerup2">
+<Desc>[เมื่อใช้] มอบเลือดเลือดไหล 3 จำนวน to selfในฉากนี้;
+ลูกเต๋าบน Page นี้จะได้รับ +2 Power</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="selfbleeding5powerup3">
+<Desc>[เมื่อใช้] มอบเลือดเลือดไหล 5 จำนวน to selfในฉากนี้;
+ลูกเต๋าบน Page นี้จะได้รับ +3 Power</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="alliespower1">
+<Desc>[เมื่อใช้] มอบกำลัง 1 จำนวนtoเพื่อนร่วมทีมในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <!--공방소속 해결사-->
-  <BattleCardAbility ID="penetrateup1recoverplayerpoint1">
-    <Desc>[เมื่อเริ่มการต่อสู้] Boost Pierce dice Power by +1 forในฉากนี้</Desc>
-    <Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย</Desc>
-  </BattleCardAbility>
+<!--공방소속 해결사-->
+<BattleCardAbility ID="penetrateup1recoverplayerpoint1">
+<Desc>[เมื่อเริ่มการต่อสู้] Boost Pierce dice Power by +1 forในฉากนี้</Desc>
+<Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="penetrateUp2thisRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] Boost Pierce dice Power by +2 forในฉากนี้</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="penetrateUp2thisRound">
+<Desc>[เมื่อเริ่มการต่อสู้] Boost Pierce dice Power by +2 forในฉากนี้</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="emotion_martyr">
-    <Desc>[เมื่อใช้งาน] Forในฉากนี้ deal 4-6 bonus Stagger damage with attacks but take 1-3 damage after a successful attack</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="emotion_bless">
-    <Desc>[เมื่อใช้งาน;][เป้าหมายAlly;][Return to Hand] เป้าหมายrecovers 6 HP และได้รับsอึดทน 1 จำนวนthis Scene (Allies only once per Scene)</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="emotion_bless_upgraded">
-    <Desc>[เมื่อใช้งาน;][เป้าหมายAlly;][Return to Hand] เป้าหมายrecovers 12 HP และได้รับsอึดทน 2 จำนวนthis Scene (Allies only once per Scene)</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="emotion_martyr">
+<Desc>[เมื่อใช้งาน] Forในฉากนี้ deal 4-6 bonus Stagger damage with attacks but take 1-3 damage after a successful attack</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="emotion_bless">
+<Desc>[เมื่อใช้งาน;][เป้าหมายAlly;][Return to Hand] เป้าหมายrecovers 6 HP และได้รับsอึดทน 1 จำนวนthis Scene (Allies only once per Scene)</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="emotion_bless_upgraded">
+<Desc>[เมื่อใช้งาน;][เป้าหมายAlly;][Return to Hand] เป้าหมายrecovers 12 HP และได้รับsอึดทน 2 จำนวนthis Scene (Allies only once per Scene)</Desc>
+</BattleCardAbility>
 
-  <!-- hokma ego -->
-  <BattleCardAbility ID="bloodyTreeEgoDice">
-    <Desc>[เมื่อโจมตี] ผนึกลูกเต๋าความเร็วของเป้าหมายในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<!-- hokma ego -->
+<BattleCardAbility ID="bloodyTreeEgoDice">
+<Desc>[เมื่อโจมตี] ผนึกลูกเต๋าความเร็วของเป้าหมายในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="clockEgo">
-    <Desc>[เมื่อใช้] ได้รับ ลูกเต๋าความเร็ว for the ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="clockEgoDice">
-    <Desc>[เมื่อปะทะชนะ] Destroy next ของopponent die</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="blueStarEgoDice">
-    <Desc>[เมื่อโจมตี] Deal damage และStagger damage equal to halfของcurrent ของuser Stagger Resist</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="oneBadManyGoodEgo">
-    <Desc>[เมื่อใช้] Allเพื่อนร่วมทีมฟื้นฟู 15 HP และStagger Resist</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="clockEgo">
+<Desc>[เมื่อใช้] ได้รับ ลูกเต๋าความเร็ว for the ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="clockEgoDice">
+<Desc>[เมื่อปะทะชนะ] Destroy next ของopponent die</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="whiteNightEgo">
-    <Desc>[เมื่อใช้] Synchronize with WhiteNight for the next 3 Scenes All otherเพื่อนร่วมทีมtransform into Apostles while the Synchronization is active</Desc>
-    <Desc>The Apostles cannot be controlled or defeated ถ้าan HP ของApostle falls to 1 they cannot act until the Synchronization is disengaged</Desc>
-    <Desc>The Apostles transform back into librarians once the Synchronization is disengaged</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="blueStarEgoDice">
+<Desc>[เมื่อโจมตี] Deal damage และStagger damage equal to halfของcurrent ของuser Stagger Resist</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="whiteNightCard1">
-    <Desc>[เมื่อเริ่มการต่อสู้] มอบกำลัง 1 จำนวนให้กับ other ทั้งหมด allies</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="whiteNightArea">
-    <Desc>[เมื่อใช้] ฟื้นฟู 8 HP และStagger Resist for everyศัตรู present</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="oneBadManyGoodEgo">
+<Desc>[เมื่อใช้] Allเพื่อนร่วมทีมฟื้นฟู 15 HP และStagger Resist</Desc>
+</BattleCardAbility>
 
-  <!-- added -->
-  <BattleCardAbility ID="whiteNightCard2">
-    <Desc>[เมื่อเริ่มการต่อสู้] Allเพื่อนร่วมทีมฟื้นฟู 6 HP และStagger Resist</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="whiteNightEgo">
+<Desc>[เมื่อใช้] Synchronize with WhiteNight for the next 3 Scenes All otherเพื่อนร่วมทีมtransform into Apostles while the Synchronization is active</Desc>
+<Desc>The Apostles cannot be controlled or defeated ถ้าan HP ของApostle falls to 1 they cannot act until the Synchronization is disengaged</Desc>
+<Desc>The Apostles transform back into librarians once the Synchronization is disengaged</Desc>
+</BattleCardAbility>
 
+<BattleCardAbility ID="whiteNightCard1">
+<Desc>[เมื่อเริ่มการต่อสู้] มอบกำลัง 1 จำนวนให้กับ other ทั้งหมด allies</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="whiteNightArea">
+<Desc>[เมื่อใช้] ฟื้นฟู 8 HP และStagger Resist for everyศัตรู present</Desc>
+</BattleCardAbility>
 
-
-  <!-- added -->
-  <BattleCardAbility ID="blueStarEgo">
-    <Desc>ถ้าthis page defeats any target ฟื้นฟู 30 Stagger Resist</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="blueStarEgoDiceRemake">
-    <Desc>[เมื่อโจมตี] ถ้าStagger ของuser Resist is above 50% ทำดาเมจ 10 ดาเมจ และStagger damage</Desc>
-  </BattleCardAbility>
-
-  <!-- hana -->
-  <BattleCardAbility ID="hanaSpecial">
-    <Desc>ได้รับs additional effects depending on the Four Trigrams page ('Geon' 'Gon' 'Gam' และ'Ri') used during the Scene</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="debufHalf">
-    <Desc>[เมื่อเริ่มการต่อสู้] Halve the amountของstatus ailments on self (Rounded up)</Desc>
-    <!-- ex) 5 -> 3 -->
-  </BattleCardAbility>
-  <BattleCardAbility ID="discardAllAndPower2">
-    <Desc>[เมื่อใช้] ทิ้ง Page ทั้งหมด from hand; ลูกเต๋าบน Page นี้จะได้รับ +2 Power</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="hanaDiscardDraw">
-    <Desc>[เมื่อใช้] Discard a random page; จั่ว Page 2 ใบ at the startของthe ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="hanaQuick">
-    <Desc>[เมื่อใช้] ได้รับว่องไว 1 จำนวนในฉากถัดไป; ถ้าความเร็วis 7 or higher ลูกเต๋าบน Page นี้จะได้รับ +1 Power</Desc>
-  </BattleCardAbility>
-
-  <!-- hana passive -->
-  <BattleCardAbility ID="hanaPassive1">
-    <Desc>Only oneของthe Four Trigrams can be used per Scene Once used it cannot be reused until allของthe Four Trigrams have been used</Desc>
-    <Desc>[เมื่อใช้งาน] ได้รับ 1 Strength และdeal 2 more damage และStagger damage with attacksในฉากนี้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="hanaPassive2">
-    <Desc>Only oneของthe Four Trigrams can be used per Scene Once used it cannot be reused until allของthe Four Trigrams have been used</Desc>
-    <Desc>[เมื่อใช้งาน] ได้รับ 1 Endurance และtake 30% less damage และStagger damage from attacksในฉากนี้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="hanaPassive3">
-    <Desc>Only oneของthe Four Trigrams can be used per Scene Once used it cannot be reused until allของthe Four Trigrams have been used</Desc>
-    <Desc>[เมื่อใช้งาน] ฟื้นฟูแสง 1 หน่วย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="hanaPassive4">
-    <Desc>Only oneของthe Four Trigrams can be used per Scene Once used it cannot be reused until allของthe Four Trigrams have been used</Desc>
-    <Desc>[เมื่อใช้งาน] จั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
+<!-- added -->
+<BattleCardAbility ID="whiteNightCard2">
+<Desc>[เมื่อเริ่มการต่อสู้] Allเพื่อนร่วมทีมฟื้นฟู 6 HP และStagger Resist</Desc>
+</BattleCardAbility>
 
 
-  <!-- black silence -->
-  <BattleCardAbility ID="blackSilenceSpecial">
-    <Desc>This page can be used after using all 9 Combat Pagesของthe Black Silence</Desc>
-    <Desc>On hit มอบเลือดเลือดไหล 5 จำนวน 3 พันธนา andเปราะบาง 3 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="blackSilenceSpecialDice">
-    <Desc>[เมื่อปะทะชนะ] Destroy allของdice ของopponent</Desc>
-  </BattleCardAbility>
 
-  <!-- 세븐 협회에서 추가됨 -->
-  <BattleCardAbility ID="powerUpNext1pw">
-    <Desc>[เมื่อปะทะชนะ] เพิ่มพลังลูกเต๋าถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="Seven_Engagement">
-    <Desc>[เมื่อใช้] Add 'En Garde' to hand ของuser</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="Seven_EnGarde">
-    <Desc>[เมื่อใช้] มอบกำลัง 1 จำนวนto เป้าหมายand self ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="Seven_Fleche">
-    <Desc>[เมื่อปะทะชนะ] ทำดาเมจ Stagger 4 ดาเมจ; มอบเปราะบาง 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="increaseMaxLast2pw">
-    <Desc>[เมื่อปะทะชนะ] Boost max roll valueของlast die by +2</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="vulnerable2pw">
-    <Desc>[เมื่อปะทะชนะ] มอบเปราะบาง 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<!-- added -->
+<BattleCardAbility ID="blueStarEgo">
+<Desc>ถ้าthis page defeats any target ฟื้นฟู 30 Stagger Resist</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="blueStarEgoDiceRemake">
+<Desc>[เมื่อโจมตี] ถ้าStagger ของuser Resist is above 50% ทำดาเมจ 10 ดาเมจ และStagger damage</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="strength1pw">
-    <Desc>[เมื่อปะทะชนะ] ได้รับกำลัง 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  
-  <!-- roland added -->
-  <BattleCardAbility ID="fixedCost">
-    <Desc>คอสของ Page นี้จะไม่สามารถถูกเปลี่ยนแปลงได้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="rolandDrawUtil">
-    <Desc>คอสของ Page นี้จะไม่สามารถถูกเปลี่ยนแปลงได้</Desc>
-    <Desc>[เมื่อใช้] จั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
+<!-- hana -->
+<BattleCardAbility ID="hanaSpecial">
+<Desc>ได้รับs additional effects depending on the Four Trigrams page ('Geon' 'Gon' 'Gam' และ'Ri') used during the Scene</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="debufHalf">
+<Desc>[เมื่อเริ่มการต่อสู้] Halve the amountของstatus ailments on self (Rounded up)</Desc>
+<!-- ex) 5 -> 3 -->
+</BattleCardAbility>
+<BattleCardAbility ID="discardAllAndPower2">
+<Desc>[เมื่อใช้] ทิ้ง Page ทั้งหมด from hand;
+ลูกเต๋าบน Page นี้จะได้รับ +2 Power</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="hanaDiscardDraw">
+<Desc>[เมื่อใช้] Discard a random page;
+จั่ว Page 2 ใบ at the startของthe ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="hanaQuick">
+<Desc>[เมื่อใช้] ได้รับว่องไว 1 จำนวนในฉากถัดไป;
+ถ้าความเร็วis 7 or higher ลูกเต๋าบน Page นี้จะได้รับ +1 Power</Desc>
+</BattleCardAbility>
 
-  <!--검계-->
-  <BattleCardAbility ID="limit1">
-    <Desc>Only one copyของthis page can be held at a time</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="upgradeNext2atk">
-    <Desc>[เมื่อโจมตี] Boost next max ของdie value by +2</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="slashUp3thisRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] Boost Slash dice Power by +3 forในฉากนี้</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="Sword_getbonecuttingcardpl">
-    <Desc>[เมื่อปะทะแพ้] Add 'To Claim Their Bones' to hand ของuser</Desc>
-  </BattleCardAbility>
-
-  <BattleCardAbility ID="paralysis5bleeding3atk">
-    <Desc>[เมื่อโจมตี] มอบอัมพาต 5 จำนวนandเลือดเลือดไหล 3 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<!-- hana passive -->
+<BattleCardAbility ID="hanaPassive1">
+<Desc>Only oneของthe Four Trigrams can be used per Scene Once used it cannot be reused until allของthe Four Trigrams have been used</Desc>
+<Desc>[เมื่อใช้งาน] ได้รับ 1 Strength และdeal 2 more damage และStagger damage with attacksในฉากนี้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="hanaPassive2">
+<Desc>Only oneของthe Four Trigrams can be used per Scene Once used it cannot be reused until allของthe Four Trigrams have been used</Desc>
+<Desc>[เมื่อใช้งาน] ได้รับ 1 Endurance และtake 30% less damage และStagger damage from attacksในฉากนี้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="hanaPassive3">
+<Desc>Only oneของthe Four Trigrams can be used per Scene Once used it cannot be reused until allของthe Four Trigrams have been used</Desc>
+<Desc>[เมื่อใช้งาน] ฟื้นฟูแสง 1 หน่วย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="hanaPassive4">
+<Desc>Only oneของthe Four Trigrams can be used per Scene Once used it cannot be reused until allของthe Four Trigrams have been used</Desc>
+<Desc>[เมื่อใช้งาน] จั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
 
 
-  <!--매우강한1급해결사-->
-  <BattleCardAbility ID="bleeding3pw">
-    <Desc>[เมื่อปะทะชนะ] มอบเลือดเลือดไหล 3 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<!-- black silence -->
+<BattleCardAbility ID="blackSilenceSpecial">
+<Desc>This page can be used after using all 9 Combat Pagesของthe Black Silence</Desc>
+<Desc>On hit มอบเลือดเลือดไหล 5 จำนวน 3 พันธนา andเปราะบาง 3 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="blackSilenceSpecialDice">
+<Desc>[เมื่อปะทะชนะ] Destroy allของdice ของopponent</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="dmgUpbybleedingbuf">
-    <Desc>Damage increases by the amountเลือดเลือดไหลของจำนวน on target</Desc>
-  </BattleCardAbility>
-  
-  <!-- roland added2 -->
+<!-- 세븐 협회에서 추가됨 -->
+<BattleCardAbility ID="powerUpNext1pw">
+<Desc>[เมื่อปะทะชนะ] เพิ่มพลังลูกเต๋าถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="Seven_Engagement">
+<Desc>[เมื่อใช้] Add 'En Garde' to hand ของuser</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="Seven_EnGarde">
+<Desc>[เมื่อใช้] มอบกำลัง 1 จำนวนto เป้าหมายand self ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="Seven_Fleche">
+<Desc>[เมื่อปะทะชนะ] ทำดาเมจ Stagger 4 ดาเมจ;
+มอบเปราะบาง 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="increaseMaxLast2pw">
+<Desc>[เมื่อปะทะชนะ] Boost max roll valueของlast die by +2</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="vulnerable2pw">
+<Desc>[เมื่อปะทะชนะ] มอบเปราะบาง 2 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="rolandSpecialRemake">
-    <Desc>This page can be used after using all 9 Combat Pagesของthe Black Silence; [Power Null]</Desc>
-  </BattleCardAbility> 
-  
-  
-  <!-- 잔향악단 사서 -->
-  <BattleCardAbility ID="bremenCard"> <!-- Chorus (합창) -->
-    <Desc>[เมื่อเริ่มการต่อสู้] มอบกำลัง 1 จำนวนให้กับ other ทั้งหมด allies; the page loses this ability afterwards</Desc>
-    <Desc></Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="reBurnAttackCard"> <!-- Rekindled Strike (다시 타오르는 일격) -->
-    <Desc>[เมื่อใช้] Lower the Costของa random copyของ'Blazing Strike' user has by 1; มอบเผาไหม้ 2 จำนวน to self</Desc>
-    <Desc></Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="strength1pw">
+<Desc>[เมื่อปะทะชนะ] ได้รับกำลัง 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="tanyaOnlyCardDice">
-    <Desc>[เมื่อปะทะชนะ] All dice on page ของเป้าหมายlose 5 Power</Desc>
-  </BattleCardAbility>
+<!-- roland added -->
+<BattleCardAbility ID="fixedCost">
+<Desc>คอสของ Page นี้จะไม่สามารถถูกเปลี่ยนแปลงได้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="rolandDrawUtil">
+<Desc>คอสของ Page นี้จะไม่สามารถถูกเปลี่ยนแปลงได้</Desc>
+<Desc>[เมื่อใช้] จั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="vibrateActivatePlayer">
-    <Desc>[เมื่อใช้] ถ้าความเร็วis equal to Vibration ของtarget ลูกเต๋าบน Page นี้จะได้รับ +4 Power</Desc>
-  </BattleCardAbility>
+<!--검계-->
+<BattleCardAbility ID="limit1">
+<Desc>Only one copyของthis page can be held at a time</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="upgradeNext2atk">
+<Desc>[เมื่อโจมตี] Boost next max ของdie value by +2</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="plutoCard">
-    <Desc>ฟื้นฟูแสง 1 หน่วยเมื่อทิ้ง Page นี้</Desc>
-  </BattleCardAbility>
-  
-  <!-- for passive -->
-  <BattleCardAbility ID="jaeheonPassive">
-    <Desc>[เมื่อใช้งาน;][เป้าหมายAlly] มอบ 'Puppeteer’s Strings' to target</Desc>
-  </BattleCardAbility>
-  <!-- remake -->
-  <BattleCardAbility ID="argaliaDownWithCond">
-    <Desc>[เมื่อโจมตี] หากเป้าหมายมี 6 or more Vibration reduce it by 1</Desc>
-  </BattleCardAbility>
-    
-  <BattleCardAbility ID="argaliaChangeVibrate">
-    <Desc>[เมื่อโจมตี] Vibration ของเป้าหมายis set to 4</Desc>
-  </BattleCardAbility>
-    
-  <BattleCardAbility ID="vibrateAddition">
-    <Desc>ถ้าthis page activates Resonance จั่ว Page 2 ใบ</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="vibrateAdditionEnergy">
-    <Desc>ถ้าthis page activates Resonance จั่ว Page 1 ใบ</Desc>
-    <Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="slashUp3thisRound">
+<Desc>[เมื่อเริ่มการต่อสู้] Boost Slash dice Power by +3 forในฉากนี้</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="contract1">
-    <Desc>[เงื่อนไข] Use a page whose Cost is modified
+<BattleCardAbility ID="Sword_getbonecuttingcardpl">
+<Desc>[เมื่อปะทะแพ้] Add 'To Claim Their Bones' to hand ของuser</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="paralysis5bleeding3atk">
+<Desc>[เมื่อโจมตี] มอบอัมพาต 5 จำนวนandเลือดเลือดไหล 3 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+
+<!--매우강한1급해결사-->
+<BattleCardAbility ID="bleeding3pw">
+<Desc>[เมื่อปะทะชนะ] มอบเลือดเลือดไหล 3 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="dmgUpbybleedingbuf">
+<Desc>Damage increases by the amountเลือดเลือดไหลของจำนวน on target</Desc>
+</BattleCardAbility>
+
+<!-- roland added2 -->
+
+<BattleCardAbility ID="rolandSpecialRemake">
+<Desc>This page can be used after using all 9 Combat Pagesของthe Black Silence;
+[Power Null]</Desc>
+</BattleCardAbility> 
+
+
+<!-- 잔향악단 사서 -->
+<BattleCardAbility ID="bremenCard"> <!-- Chorus (합창) -->
+<Desc>[เมื่อเริ่มการต่อสู้] มอบกำลัง 1 จำนวนให้กับ other ทั้งหมด allies;
+the page loses this ability afterwards</Desc>
+<Desc></Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="reBurnAttackCard"> <!-- Rekindled Strike (다시 타오르는 일격) -->
+<Desc>[เมื่อใช้] Lower the Costของa random copyของ'Blazing Strike' user has by 1;
+มอบเผาไหม้ 2 จำนวน to self</Desc>
+<Desc></Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="tanyaOnlyCardDice">
+<Desc>[เมื่อปะทะชนะ] All dice on page ของเป้าหมายlose 5 Power</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="vibrateActivatePlayer">
+<Desc>[เมื่อใช้] ถ้าความเร็วis equal to Vibration ของtarget ลูกเต๋าบน Page นี้จะได้รับ +4 Power</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="plutoCard">
+<Desc>ฟื้นฟูแสง 1 หน่วยเมื่อทิ้ง Page นี้</Desc>
+</BattleCardAbility>
+
+<!-- for passive -->
+<BattleCardAbility ID="jaeheonPassive">
+<Desc>[เมื่อใช้งาน;][เป้าหมายAlly] มอบ 'Puppeteer’s Strings' to target</Desc>
+</BattleCardAbility>
+<!-- remake -->
+<BattleCardAbility ID="argaliaDownWithCond">
+<Desc>[เมื่อโจมตี] หากเป้าหมายมี 6 or more Vibration reduce it by 1</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="argaliaChangeVibrate">
+<Desc>[เมื่อโจมตี] Vibration ของเป้าหมายis set to 4</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="vibrateAddition">
+<Desc>ถ้าthis page activates Resonance จั่ว Page 2 ใบ</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="vibrateAdditionEnergy">
+<Desc>ถ้าthis page activates Resonance จั่ว Page 1 ใบ</Desc>
+<Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="contract1">
+<Desc>[เงื่อนไข] Use a page whose Cost is modified
 </Desc>
-    <Desc>[สัญญา] Randomize Costsของpages in hand; using pages with a certain Cost has a penalty
+<Desc>[สัญญา] Randomize Costsของpages in hand;
+using pages with a certain Cost has a penalty
 </Desc>
-    <Desc>[เมื่อใช้งาน] เป้าหมายanเพื่อนร่วมทีม who has an Unsigned Contract to exhaust the Contracts from each hands ของother และswap Contracts at the startของthe ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<Desc>[เมื่อใช้งาน] เป้าหมายanเพื่อนร่วมทีม who has an Unsigned Contract to exhaust the Contracts from each hands ของother และswap Contracts at the startของthe ในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="contract2">
-    <Desc>[เงื่อนไข] Have a 1- 2- และ3-Cost page in hand at the endของa Scene
+<BattleCardAbility ID="contract2">
+<Desc>[เงื่อนไข] Have a 1- 2- และ3-Cost page in hand at the endของa Scene
 </Desc>
-    <Desc>[สัญญา] Pagesของa certain Cost ได้รับ Power; others lose Power
+<Desc>[สัญญา] Pagesของa certain Cost ได้รับ Power;
+others lose Power
 </Desc>
-    <Desc>[เมื่อใช้งาน] เป้าหมายanเพื่อนร่วมทีม who has an Unsigned Contract to exhaust the Contracts from each hands ของother และswap Contracts at the startของthe ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<Desc>[เมื่อใช้งาน] เป้าหมายanเพื่อนร่วมทีม who has an Unsigned Contract to exhaust the Contracts from each hands ของother และswap Contracts at the startของthe ในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="contract3">
-    <Desc>[เงื่อนไข] Win 4 clashes using Defensive dice
+<BattleCardAbility ID="contract3">
+<Desc>[เงื่อนไข] Win 4 clashes using Defensive dice
 </Desc>
-    <Desc>[สัญญา] ได้รับ Haste; must engage in clashes
+<Desc>[สัญญา] ได้รับ Haste;
+must engage in clashes
 </Desc>
-    <Desc>[เมื่อใช้งาน] เป้าหมายanเพื่อนร่วมทีม who has an Unsigned Contract to exhaust the Contracts from each hands ของother และswap Contracts at the startของthe ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="contract4">
-    <Desc>[เงื่อนไข] Have any amountกำลังของจำนวนat the endของa Scene
+<Desc>[เมื่อใช้งาน] เป้าหมายanเพื่อนร่วมทีม who has an Unsigned Contract to exhaust the Contracts from each hands ของother และswap Contracts at the startของthe ในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="contract4">
+<Desc>[เงื่อนไข] Have any amountกำลังของจำนวนat the endของa Scene
 </Desc>
-    <Desc>[สัญญา] ได้รับ Strength every Scene; must use pages with one Offensive die
+<Desc>[สัญญา] ได้รับ Strength every Scene;
+must use pages with one Offensive die
 </Desc>
-    <Desc>[เมื่อใช้งาน] เป้าหมายanเพื่อนร่วมทีม who has an Unsigned Contract to exhaust the Contracts from each hands ของother และswap Contracts at the startของthe ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<Desc>[เมื่อใช้งาน] เป้าหมายanเพื่อนร่วมทีม who has an Unsigned Contract to exhaust the Contracts from each hands ของother และswap Contracts at the startของthe ในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="contract5">
-    <Desc>[เงื่อนไข] Be at ระดับอารมณ์ 2 at the endของa Scene
+<BattleCardAbility ID="contract5">
+<Desc>[เงื่อนไข] Be at ระดับอารมณ์ 2 at the endของa Scene
 </Desc>
-    <Desc>[สัญญา] Fully restore Light every Scene; must use allของit
+<Desc>[สัญญา] Fully restore Light every Scene;
+must use allของit
 </Desc>
-    <Desc>[เมื่อใช้งาน] เป้าหมายanเพื่อนร่วมทีม who has an Unsigned Contract to exhaust the Contracts from each hands ของother และswap Contracts at the startของthe ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<Desc>[เมื่อใช้งาน] เป้าหมายanเพื่อนร่วมทีม who has an Unsigned Contract to exhaust the Contracts from each hands ของother และswap Contracts at the startของthe ในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <!--검은침묵 2페이즈 사용--> 
-  <BattleCardAbility ID="heavysmoke1atk">
-    <Desc>[เมื่อโจมตี] มอบ 1 Suffocating Haze ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<!--검은침묵 2페이즈 사용--> 
+<BattleCardAbility ID="heavysmoke1atk">
+<Desc>[เมื่อโจมตี] มอบ 1 Suffocating Haze ในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="heavysmoke3atkarea">
-    <Desc>[เมื่อโจมตี] มอบ 3 Suffocating Haze ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="heavysmoke3atkarea">
+<Desc>[เมื่อโจมตี] มอบ 3 Suffocating Haze ในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="bleeding5atkarea">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 5 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="bleeding5atkarea">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 5 
 
-  <BattleCardAbility ID="addRecoverHp3Atkalldice">
-    <Desc>[เมื่อใช้] All Offensive dice on this page ได้รับ '[เมื่อโจมตี] ฟื้นฟู 3 HP'</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="rolandcontinuousDice">
-    <Desc>[เมื่อโจมตี] ถ้าthe natural roll is 5 recycle this die (Up to 4 times)</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="addRecoverHp3Atkalldice">
+<Desc>[เมื่อใช้] All Offensive dice on this page ได้รับ '[เมื่อโจมตี] ฟื้นฟู 3 HP'</Desc>
+</BattleCardAbility>
 
-  <!-- 뒤틀린 그레타 -->
-  <BattleCardAbility ID="addRecoverHp2Atkalldice">
-    <Desc>[เมื่อใช้] All Offensive dice on this page ได้รับ '[เมื่อโจมตี] ฟื้นฟู 2 HP'</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="rolandcontinuousDice">
+<Desc>[เมื่อโจมตี] ถ้าthe natural roll is 5 recycle this die (Up to 4 times)</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="greta_dmgUpbybleedingbufatk">
-    <Desc>[เมื่อโจมตี] Damage increases by the amountเลือดเลือดไหลของจำนวน on target</Desc>
-  </BattleCardAbility>
+<!-- 뒤틀린 그레타 -->
+<BattleCardAbility ID="addRecoverHp2Atkalldice">
+<Desc>[เมื่อใช้] All Offensive dice on this page ได้รับ '[เมื่อโจมตี] ฟื้นฟู 2 HP'</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="greta_destroyDice">
-    <Desc>[เมื่อปะทะชนะ] Destroy all dice the opponent has
+<BattleCardAbility ID="greta_dmgUpbybleedingbufatk">
+<Desc>[เมื่อโจมตี] Damage increases by the amountเลือดเลือดไหลของจำนวน on target</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="greta_destroyDice">
+<Desc>[เมื่อปะทะชนะ] Destroy all dice the opponent has
 [เมื่อปะทะแพ้] Destroy ลูกเต๋าทั้งหมดบน Page นี้</Desc>
-  </BattleCardAbility>
-  
+</BattleCardAbility>
 
-  <!-- 뒤틀린 브레멘-->
-  <BattleCardAbility ID="bremen_ally2recover5atk">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู 5 HP for two random allies</Desc>
-  </BattleCardAbility>
 
-  <BattleCardAbility ID="bremen_binding2weak1atk">
-    <Desc>[เมื่อโจมตี] มอบพันธนา 2 จำนวนandอ่อนแรง 1 จำนวน</Desc>
-  </BattleCardAbility>
+<!-- 뒤틀린 브레멘-->
+<BattleCardAbility ID="bremen_ally2recover5atk">
+<Desc>[เมื่อโจมตี] ฟื้นฟู 5 HP for two random allies</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="bremen_ally2strength1pw">
-    <Desc>[เมื่อปะทะชนะ] มอบกำลัง 1 จำนวนto 2 randomเพื่อนร่วมทีมในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="bremen_binding2weak1atk">
+<Desc>[เมื่อโจมตี] มอบพันธนา 2 จำนวนandอ่อนแรง 1 จำนวน</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="bremen2_concert">
-    <Desc>[เมื่อเริ่มการต่อสู้;][เป้าหมายAlly] ถ้าเป้าหมายis anเพื่อนร่วมทีม มอบว่องไว 2 จำนวนthis Scene</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="bremen_ally2strength1pw">
+<Desc>[เมื่อปะทะชนะ] มอบกำลัง 1 จำนวนto 2 randomเพื่อนร่วมทีมในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="bremen2_musictherapy">
-    <Desc>[เมื่อเริ่มการต่อสู้;][เป้าหมายAlly] ถ้าเป้าหมายis anเพื่อนร่วมทีม they ฟื้นฟู 20 HP</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="bremen2_concert">
+<Desc>[เมื่อเริ่มการต่อสู้;][เป้าหมายAlly] ถ้าเป้าหมายis anเพื่อนร่วมทีม มอบว่องไว 2 จำนวนthis Scene</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="bremen2_canselectfriend">
-    <Desc>[เมื่อเริ่มการต่อสู้;][เป้าหมายAlly] ถ้าเป้าหมายis anเพื่อนร่วมทีม allเพื่อนร่วมทีมได้รับกำลัง 1 จำนวนand ฟื้นฟู 20 HP</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="bremen2_musictherapy">
+<Desc>[เมื่อเริ่มการต่อสู้;][เป้าหมายAlly] ถ้าเป้าหมายis anเพื่อนร่วมทีม they ฟื้นฟู 20 HP</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="bremen2_ally2protectionpw">
-    <Desc>[เมื่อปะทะชนะ] มอบเกราะ 2 จำนวนให้เพื่อนร่วมทีม with the lowest HP ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="bremen2_canselectfriend">
+<Desc>[เมื่อเริ่มการต่อสู้;][เป้าหมายAlly] ถ้าเป้าหมายis anเพื่อนร่วมทีม allเพื่อนร่วมทีมได้รับกำลัง 1 จำนวนand ฟื้นฟู 20 HP</Desc>
+</BattleCardAbility>
 
-  <!-- 뒤틀린 필립 -->
+<BattleCardAbility ID="bremen2_ally2protectionpw">
+<Desc>[เมื่อปะทะชนะ] มอบเกราะ 2 จำนวนให้เพื่อนร่วมทีม with the lowest HP ในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="philip_weak1binding1disarm1atk">
-    <Desc>[เมื่อโจมตี] มอบอ่อนแรง ตัดกำลัง และพันธนา 1 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<!-- 뒤틀린 필립 -->
 
-  <BattleCardAbility ID="philip_negative1atk">
-    <Desc>[เมื่อใช้] All Offensive dice on this page ได้รับ '[เมื่อโจมตี] ได้รับ 1 Negative แต้มอารมณ์'</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="philip_powerup2bytargetburn8">
-    <Desc>[เมื่อใช้] หากเป้าหมายมี 8 orเลือดเผาไหม้ more จำนวน ได้รับ +2 Power</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="philip_arrest1atk">
-    <Desc>[เมื่อโจมตี] มอบ 1 Restraint</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="philip_areaburn10atk">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 10 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="philip_vigor_atk2">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน to each other</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="philip_weak1binding1disarm1atk">
+<Desc>[เมื่อโจมตี] มอบอ่อนแรง ตัดกำลัง และพันธนา 1 
 
-  <!-- Translation Mistake Correction -->
-    <BattleCardAbility ID="roland2phaseFar">
-    <Desc>[เมื่อปะทะชนะ] Destroy allของdice ของopponent
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="philip_negative1atk">
+<Desc>[เมื่อใช้] All Offensive dice on this page ได้รับ '[เมื่อโจมตี] ได้รับ 1 Negative แต้มอารมณ์'</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="philip_powerup2bytargetburn8">
+<Desc>[เมื่อใช้] หากเป้าหมายมี 8 orเลือดเผาไหม้ more จำนวน ได้รับ +2 Power</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="philip_arrest1atk">
+<Desc>[เมื่อโจมตี] มอบ 1 Restraint</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="philip_areaburn10atk">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 10 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="philip_vigor_atk2">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน to each other</Desc>
+</BattleCardAbility>
+
+<!-- Translation Mistake Correction -->
+<BattleCardAbility ID="roland2phaseFar">
+<Desc>[เมื่อปะทะชนะ] Destroy allของdice ของopponent
 [เมื่อปะทะแพ้] Destroy ลูกเต๋าทั้งหมดบน Page นี้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="roland2phaseenemys1">
-    <Desc>[เมื่อปะทะชนะ] Destroy allของdice ของopponent
+</BattleCardAbility>
+<BattleCardAbility ID="roland2phaseenemys1">
+<Desc>[เมื่อปะทะชนะ] Destroy allของdice ของopponent
 [เมื่อปะทะแพ้] Destroy ลูกเต๋าทั้งหมดบน Page นี้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="roland2phaseenemys2">
-    <Desc>[เมื่อโจมตี] ถ้าthe natural roll is 3 recycle this die (Up to 4 times)</Desc>
-  </BattleCardAbility>
+</BattleCardAbility>
+<BattleCardAbility ID="roland2phaseenemys2">
+<Desc>[เมื่อโจมตี] ถ้าthe natural roll is 3 recycle this die (Up to 4 times)</Desc>
+</BattleCardAbility>
 
-      <!-- The Black Silence phase 3 -->
-  <BattleCardAbility ID="blackbind">
-    <Desc>[เมื่อเริ่มการต่อสู้] ถ้าAngelica เป็นเป้าหมาย มอบ her 1 Strength Endurance และProtection Else มอบ 'Dark Presence'</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="dmg3pw">
-    <Desc>[เมื่อปะทะชนะ] ทำดาเมจ 3 ดาเมจ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="quickness1pw">
-    <Desc>[เมื่อปะทะชนะ] ได้รับว่องไว 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="loselink1plwe">
-    <Desc>[เมื่อปะทะแพ้] ถ้าopponent has Ashen Presence lower 'Soul Link' by 1</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="atkcombo_zelkova">
-    <Desc>[เมื่อเริ่มการต่อสู้] ถ้าtargeting the same character as Angelica all Offensive dice on this page are moved to hers</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="atkcombo_allas">
-    <Desc>[เมื่อเริ่มการต่อสู้] ถ้าtargeting the same character as Angelica all Offensive dice on this page are moved to hers</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="atkcombo_logic">
-    <Desc>[เมื่อเริ่มการต่อสู้] ถ้าtargeting the same character as Angelica all Offensive dice on this page are moved to hers</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="bind1paralysis1atk">
-    <Desc>[เมื่อโจมตี] มอบพันธนา 1 จำนวนand Paralysis ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerup2highspeed">
-    <Desc>[เมื่อใช้] ถ้าความเร็วis higher than ของเป้าหมาย ได้รับ +2 Power</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="vul1bleed1atk">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 จำนวนเปราะบาง และจำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="allstr1endu1atk">
-    <Desc>[เมื่อโจมตี] มอบ 1 Strengthอึดทน และจำนวนให้กับเพื่อนร่วมทีมทั้งหมด ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="whitebind">
-    <Desc>[เมื่อเริ่มการต่อสู้] ถ้าRoland เป็นเป้าหมาย มอบ him 1 Strength Endurance และProtection Else มอบ 'Ashen Presence'</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="loselink1plbe">
-    <Desc>[เมื่อปะทะแพ้] หากเป้าหมายมี Dark Presence lower 'Soul Link' by 1</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="dmg4break4atk">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ 4 ดาเมจ และStagger damage</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="dmg10break10atk">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ 10 ดาเมจ และStagger damage</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="bs3combodestroy">
-    <Desc>[เมื่อโจมตี] [เมื่อปะทะชนะ] Destroy all dice the opponent has
+<!-- The Black Silence phase 3 -->
+<BattleCardAbility ID="blackbind">
+<Desc>[เมื่อเริ่มการต่อสู้] ถ้าAngelica เป็นเป้าหมาย มอบ her 1 Strength Endurance และProtection Else มอบ 'Dark Presence'</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="dmg3pw">
+<Desc>[เมื่อปะทะชนะ] ทำดาเมจ 3 ดาเมจ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="quickness1pw">
+<Desc>[เมื่อปะทะชนะ] ได้รับว่องไว 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="loselink1plwe">
+<Desc>[เมื่อปะทะแพ้] ถ้าopponent has Ashen Presence lower 'Soul Link' by 1</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="atkcombo_zelkova">
+<Desc>[เมื่อเริ่มการต่อสู้] ถ้าtargeting the same character as Angelica all Offensive dice on this page are moved to hers</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="atkcombo_allas">
+<Desc>[เมื่อเริ่มการต่อสู้] ถ้าtargeting the same character as Angelica all Offensive dice on this page are moved to hers</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="atkcombo_logic">
+<Desc>[เมื่อเริ่มการต่อสู้] ถ้าtargeting the same character as Angelica all Offensive dice on this page are moved to hers</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="bind1paralysis1atk">
+<Desc>[เมื่อโจมตี] มอบพันธนา 1 จำนวนand Paralysis ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerup2highspeed">
+<Desc>[เมื่อใช้] ถ้าความเร็วis higher than ของเป้าหมาย ได้รับ +2 Power</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="vul1bleed1atk">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 จำนวนเปราะบาง และ
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="allstr1endu1atk">
+<Desc>[เมื่อโจมตี] มอบ 1 Strengthอึดทน และจำนวนให้กับเพื่อนร่วมทีมทั้งหมด ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="whitebind">
+<Desc>[เมื่อเริ่มการต่อสู้] ถ้าRoland เป็นเป้าหมาย มอบ him 1 Strength Endurance และProtection Else มอบ 'Ashen Presence'</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="loselink1plbe">
+<Desc>[เมื่อปะทะแพ้] หากเป้าหมายมี Dark Presence lower 'Soul Link' by 1</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="dmg4break4atk">
+<Desc>[เมื่อโจมตี] ทำดาเมจ 4 ดาเมจ และStagger damage</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="dmg10break10atk">
+<Desc>[เมื่อโจมตี] ทำดาเมจ 10 ดาเมจ และStagger damage</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="bs3combodestroy">
+<Desc>[เมื่อโจมตี] [เมื่อปะทะชนะ] Destroy all dice the opponent has
 [เมื่อปะทะแพ้] Destroy ลูกเต๋าทั้งหมดบน Page นี้
-    </Desc>
-  </BattleCardAbility>
+</Desc>
+</BattleCardAbility>
 
-  <!--The Black Silence phase 4-->
-  <BattleCardAbility ID="black_4th_hammer_atk">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู 5 Stagger Resist</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_dagger_atk">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 3 จำนวนตัดกำลัง และจำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_gaunlet_atk1">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 3 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_gaunlet_atk2">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_lance_pw">
-    <Desc>[เมื่อปะทะชนะ] ทำดาเมจ Stagger 6 ดาเมจ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_attitude_atk1">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 3 จำนวนอ่อนแรง และจำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_attitude_atk2">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 2 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_attitude_atk3">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_dualblade_atk1">
-    <Desc>[เมื่อโจมตี] มอบพันธนา 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_dualblade_atk2">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 6 ดาเมจ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_bfsword_pw">
-    <Desc>[เมื่อปะทะชนะ] Destroy allของdice ของopponent</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_bfsword_atk">
-    <Desc>[เมื่อโจมตี] มอบพันธนา 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_shotgun_atk">
-    <Desc>[เมื่อโจมตี] มอบพันธนา 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_durandalstrong_atk">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 8 ดาเมจ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_area_atk">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 2 จำนวน 1 พันธนา andเปราะบาง 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_areastrong_atk">
-    <Desc>[เมื่อโจมตี] มอบเปราะบาง 2 จำนวนandอัมพาต 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_lance">
-    <Desc>[เมื่อใช้] ถ้าnot a clash dice ได้รับ +2 Power</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_durandalstrong">
-    <Desc>[เมื่อใช้] หากเป้าหมายมีพันธนา dice ได้รับ +2 Power</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_durandal">
-    <Desc>[เมื่อใช้] หากเป้าหมายมีพันธนา dice ได้รับ +2 Power</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_durandalweak">
-    <Desc>ถ้าthis page fails to deal 15+ damage user takes 15 Stagger damage และได้รับsกำลัง 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_area">
-    <Desc>The third die is recycled for every weapon remaining</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_afterimage">
-    <Desc>[เมื่อใช้งาน] Purge all status ailments from self</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="black_4th_area_atk_Final">
-    <Desc>Attacks with random damage types [เมื่อโจมตี] มอบเลือดเลือดไหล 2 จำนวน 1 พันธนา andเปราะบาง 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<!--The Black Silence phase 4-->
+<BattleCardAbility ID="black_4th_hammer_atk">
+<Desc>[เมื่อโจมตี] ฟื้นฟู 5 Stagger Resist</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_dagger_atk">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 3 จำนวนตัดกำลัง และ
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_gaunlet_atk1">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 3 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_gaunlet_atk2">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_lance_pw">
+<Desc>[เมื่อปะทะชนะ] ทำดาเมจ Stagger 6 ดาเมจ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_attitude_atk1">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 3 จำนวนอ่อนแรง และ
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_attitude_atk2">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 2 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_attitude_atk3">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_dualblade_atk1">
+<Desc>[เมื่อโจมตี] มอบพันธนา 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_dualblade_atk2">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 6 ดาเมจ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_bfsword_pw">
+<Desc>[เมื่อปะทะชนะ] Destroy allของdice ของopponent</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_bfsword_atk">
+<Desc>[เมื่อโจมตี] มอบพันธนา 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_shotgun_atk">
+<Desc>[เมื่อโจมตี] มอบพันธนา 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_durandalstrong_atk">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 8 ดาเมจ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_area_atk">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 2 จำนวน 1 พันธนา andเปราะบาง 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_areastrong_atk">
+<Desc>[เมื่อโจมตี] มอบเปราะบาง 2 จำนวนandอัมพาต 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_lance">
+<Desc>[เมื่อใช้] ถ้าnot a clash dice ได้รับ +2 Power</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_durandalstrong">
+<Desc>[เมื่อใช้] หากเป้าหมายมีพันธนา dice ได้รับ +2 Power</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_durandal">
+<Desc>[เมื่อใช้] หากเป้าหมายมีพันธนา dice ได้รับ +2 Power</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_durandalweak">
+<Desc>ถ้าthis page fails to deal 15+ damage user takes 15 Stagger damage และได้รับsกำลัง 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_area">
+<Desc>The third die is recycled for every weapon remaining</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_afterimage">
+<Desc>[เมื่อใช้งาน] Purge all status ailments from self</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="black_4th_area_atk_Final">
+<Desc>Attacks with random damage types [เมื่อโจมตี] มอบเลือดเลือดไหล 2 จำนวน 1 พันธนา andเปราะบาง 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
 
 <!-- 뒤틀린 오스왈드 -->
-  <BattleCardAbility ID="oswald_summonandhide">
-    <Desc>Spawn Ms Mermaid และMr Knife ในฉากถัดไป Leaves combat for the next 2 Scenes</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_summon">
-    <Desc>[เมื่อเริ่มการต่อสู้] Spawn Mx Bunny ในฉากถัดไป unless Oswald is dead</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_attack_atk">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 4 ดาเมจ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_counter_atk">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_combo_atk1">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_combo_atk2">
-    <Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_distract">
-    <Desc>[เมื่อเริ่มการต่อสู้] ถ้าเป้าหมายis Staggered at the endของthe Scene turn them into anเพื่อนร่วมทีม</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_distract_atk">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 6 ดาเมจ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_vulnerable">
-    <Desc>[เมื่อเริ่มการต่อสู้] resistances ของเป้าหมายchange to "Fatal" forในฉากนี้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_vulnerable_atk">
-    <Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_climax">
-    <Desc>[เมื่อใช้] มอบ oneของthe following statuses to เป้าหมาย at random: 2 Fragile 2 ตัดกำลัง,อ่อนแรง 2 จำนวน 2 Protection 2 Strength 2 Endurance</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_climax_atk">
-    <Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 8 ดาเมจ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_boom">
-    <Desc>[เมื่อเริ่มการต่อสู้] User dies ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_boom_atk">
-    <Desc>[เมื่อโจมตี] Deal damage equal to 50%ของcurrent ของuser HP</Desc>
-  </BattleCardAbility>
-  
-  <!-- 뒤틀린 재헌 -->
-  <BattleCardAbility ID="jaeheon_area_atk">
-    <Desc>[เมื่อโจมตี] มอบ 1 Puppet String ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="jaeheon_string">
-    <Desc>[เมื่อเริ่มการต่อสู้] มอบ 1 Puppet String ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="jaeheon_string_pw">
-    <Desc>[เมื่อปะทะชนะ] มอบอ่อนแรง 1 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="jaeheon_link">
-    <Desc>Cannot be redirected [เมื่อเริ่มการต่อสู้] Add 'Red Strings' pages ให้ handsของเป้าหมายand circus-relatedศัตรู</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="jaeheon_link_pw">
-    <Desc>[เมื่อปะทะชนะ] มอบอ่อนแรง 1 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="jaeheon_guard_pw1">
-    <Desc>[เมื่อปะทะชนะ] มอบอ่อนแรง 1 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="jaeheon_guard_pw2">
-    <Desc>[เมื่อปะทะชนะ] มอบตัดกำลัง 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="jaeheon_attackStrong_pw">
-    <Desc>[เมื่อปะทะชนะ] มอบอ่อนแรง 1 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="jaeheon_bind_atk">
-    <Desc>[เมื่อโจมตี] มอบพันธนา 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="jaeheon_control1_pl">
-    <Desc>[เมื่อปะทะแพ้] ทำดาเมจ Stagger 20 ดาเมจใส่ตนเอง; All librarians lose 1 stackของPuppet Strings ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="jaeheon_control2_pl">
-    <Desc>[เมื่อปะทะแพ้] ทำดาเมจ Stagger 20 ดาเมจใส่ตนเอง; All librarians lose 1 stackของPuppet Strings ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_string">
-    <Desc>While this page is in hand ได้รับ 'Red Strings' status Does not leave hand on use</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="oswald_string_pl">
-    <Desc>[เมื่อปะทะแพ้] Exhaust this page และทำดาเมจ Stagger 10 ดาเมจ to Jae-heon</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="oswald_summonandhide">
+<Desc>Spawn Ms Mermaid และMr Knife ในฉากถัดไป Leaves combat for the next 2 Scenes</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_summon">
+<Desc>[เมื่อเริ่มการต่อสู้] Spawn Mx Bunny ในฉากถัดไป unless Oswald is dead</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_attack_atk">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 4 ดาเมจ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_counter_atk">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_combo_atk1">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_combo_atk2">
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_distract">
+<Desc>[เมื่อเริ่มการต่อสู้] ถ้าเป้าหมายis Staggered at the endของthe Scene turn them into anเพื่อนร่วมทีม</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_distract_atk">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 6 ดาเมจ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_vulnerable">
+<Desc>[เมื่อเริ่มการต่อสู้] resistances ของเป้าหมายchange to "Fatal" forในฉากนี้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_vulnerable_atk">
+<Desc>[เมื่อโจมตี] มอบเลือดเลือดไหล 1 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_climax">
+<Desc>[เมื่อใช้] มอบ oneของthe following statuses to เป้าหมาย at random: 2 Fragile 2 ตัดกำลัง,อ่อนแรง 2 จำนวน 2 Protection 2 Strength 2 Endurance</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_climax_atk">
+<Desc>[เมื่อโจมตี] ทำดาเมจ Stagger 8 ดาเมจ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_boom">
+<Desc>[เมื่อเริ่มการต่อสู้] User dies ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_boom_atk">
+<Desc>[เมื่อโจมตี] Deal damage equal to 50%ของcurrent ของuser HP</Desc>
+</BattleCardAbility>
+
+<!-- 뒤틀린 재헌 -->
+<BattleCardAbility ID="jaeheon_area_atk">
+<Desc>[เมื่อโจมตี] มอบ 1 Puppet String ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="jaeheon_string">
+<Desc>[เมื่อเริ่มการต่อสู้] มอบ 1 Puppet String ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="jaeheon_string_pw">
+<Desc>[เมื่อปะทะชนะ] มอบอ่อนแรง 1 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="jaeheon_link">
+<Desc>Cannot be redirected [เมื่อเริ่มการต่อสู้] Add 'Red Strings' pages ให้ handsของเป้าหมายand circus-relatedศัตรู</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="jaeheon_link_pw">
+<Desc>[เมื่อปะทะชนะ] มอบอ่อนแรง 1 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="jaeheon_guard_pw1">
+<Desc>[เมื่อปะทะชนะ] มอบอ่อนแรง 1 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="jaeheon_guard_pw2">
+<Desc>[เมื่อปะทะชนะ] มอบตัดกำลัง 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="jaeheon_attackStrong_pw">
+<Desc>[เมื่อปะทะชนะ] มอบอ่อนแรง 1 
+
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="jaeheon_bind_atk">
+<Desc>[เมื่อโจมตี] มอบพันธนา 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="jaeheon_control1_pl">
+<Desc>[เมื่อปะทะแพ้] ทำดาเมจ Stagger 20 ดาเมจใส่ตนเอง;
+All librarians lose 1 stackของPuppet Strings ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="jaeheon_control2_pl">
+<Desc>[เมื่อปะทะแพ้] ทำดาเมจ Stagger 20 ดาเมจใส่ตนเอง;
+All librarians lose 1 stackของPuppet Strings ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_string">
+<Desc>While this page is in hand ได้รับ 'Red Strings' status Does not leave hand on use</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="oswald_string_pl">
+<Desc>[เมื่อปะทะแพ้] Exhaust this page และทำดาเมจ Stagger 10 ดาเมจ to Jae-heon</Desc>
+</BattleCardAbility>
 
 
-  <BattleCardAbility ID="recoverNextRound">
-    <Desc>[เมื่อเริ่มการต่อสู้] ฟื้นฟู 50 HP at the startของในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="recoverNextRound">
+<Desc>[เมื่อเริ่มการต่อสู้] ฟื้นฟู 50 HP at the startของในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="immuneDestory">
-    <Desc>This die cannot be destroyed</Desc>
-  </BattleCardAbility>
-
-
-  <!-- added -->
-  <BattleCardAbility ID="binahArea">
-    <Desc>[เมื่อใช้] มอบเกราะ 3 จำนวนandเกราะ Stagger จำนวนให้กับเพื่อนร่วมทีมทั้งหมดในฉากนี้</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="immuneDestory">
+<Desc>This die cannot be destroyed</Desc>
+</BattleCardAbility>
 
 
-  <!-- 케테르 완전 개방 -->
-  <!-- 플레이어블 앤젤라 -->
-  <BattleCardAbility ID="angela_guard">
-    <Desc>คอสของ Page นี้จะไม่สามารถถูกเปลี่ยนแปลงได้ [เมื่อใช้] ฟื้นฟูแสง 3 หน่วย; จั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="break3pw">
-    <Desc>[เมื่อปะทะชนะ] ทำดาเมจ Stagger 3 ดาเมจ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="angela_galaxy">
-    <Desc>[เมื่อใช้] ฟื้นฟู 6 HP และStagger Resist for theเพื่อนร่วมทีม with the lowest current HP</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="angela_heaven">
-    <Desc>คอสของ Page นี้จะไม่สามารถถูกเปลี่ยนแปลงได้</Desc>
-    <Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย; จั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="angela_teddy">
-    <Desc>[เมื่อเริ่มการปะทะ] ลูกเต๋าบน Page นี้จะได้รับ +2 Power</Desc>
-  </BattleCardAbility>
+<!-- added -->
+<BattleCardAbility ID="binahArea">
+<Desc>[เมื่อใช้] มอบเกราะ 3 จำนวนandเกราะ Stagger จำนวนให้กับเพื่อนร่วมทีมทั้งหมดในฉากนี้</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="angela_final_ego">
-    <Desc>Cannot be used
+
+<!-- 케테르 완전 개방 -->
+<!-- 플레이어블 앤젤라 -->
+<BattleCardAbility ID="angela_guard">
+<Desc>คอสของ Page นี้จะไม่สามารถถูกเปลี่ยนแปลงได้ [เมื่อใช้] ฟื้นฟูแสง 3 หน่วย;
+จั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="break3pw">
+<Desc>[เมื่อปะทะชนะ] ทำดาเมจ Stagger 3 ดาเมจ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="angela_galaxy">
+<Desc>[เมื่อใช้] ฟื้นฟู 6 HP และStagger Resist for theเพื่อนร่วมทีม with the lowest current HP</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="angela_heaven">
+<Desc>คอสของ Page นี้จะไม่สามารถถูกเปลี่ยนแปลงได้</Desc>
+<Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย;
+จั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="angela_teddy">
+<Desc>[เมื่อเริ่มการปะทะ] ลูกเต๋าบน Page นี้จะได้รับ +2 Power</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="angela_final_ego">
+<Desc>Cannot be used
 After using 9 unique EGO pages a special page is added to hand when certain conditions are fulfilled</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="angela_final_card">
-    <Desc>[เมื่อใช้] Sacrifice allของHP ของuser</Desc>
-  </BattleCardAbility>
+</BattleCardAbility>
+<BattleCardAbility ID="angela_final_card">
+<Desc>[เมื่อใช้] Sacrifice allของHP ของuser</Desc>
+</BattleCardAbility>
 
 
-  <!-- 심장 -->
-  <BattleCardAbility ID="final_heart_addbreakdmg">
-    <Desc>[เมื่อปะทะชนะ] ทำดาเมจ Stagger bonus ดาเมจ equal to dice roll</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="final_heart_hp20">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู 20 HP</Desc>
-    <Desc>[เมื่อปะทะแพ้] ทำดาเมจ 20 ดาเมจใส่ตนเอง</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="final_heart_hp30bleed10">
-    <Desc>[เมื่อโจมตี] ฟื้นฟู 30 HP; มอบเลือดเลือดไหล 10 จำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="final_heart_eager">
-    <Desc>[เมื่อใช้] ทำดาเมจ 40 ดาเมจใส่ตนเอง; all otherเพื่อนร่วมทีมfully recover HP</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="final_heart_areabuf">
-    <Desc>[เมื่อโจมตี] มอบ 1 Strengthว่องไว และจำนวนให้กับ other ทั้งหมดเพื่อนร่วมทีมในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="final_heart_eager1atk">
-    <Desc>[เมื่อโจมตี] มอบ 1 Hankering to Aspirationในฉากนี้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="final_heart_eager1pw">
-    <Desc>[เมื่อปะทะชนะ] มอบ 1 Hankering to Aspiration ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<!-- 심장 -->
+<BattleCardAbility ID="final_heart_addbreakdmg">
+<Desc>[เมื่อปะทะชนะ] ทำดาเมจ Stagger bonus ดาเมจ equal to dice roll</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="final_heart_hp20">
+<Desc>[เมื่อโจมตี] ฟื้นฟู 20 HP</Desc>
+<Desc>[เมื่อปะทะแพ้] ทำดาเมจ 20 ดาเมจใส่ตนเอง</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="final_heart_hp30bleed10">
+<Desc>[เมื่อโจมตี] ฟื้นฟู 30 HP;
+มอบเลือดเลือดไหล 10 
 
-  <!-- 피노키오 -->
-  <BattleCardAbility ID="final_detection_lie">
-    <Desc>[เมื่อเริ่มการปะทะ] Remove all dice from page และcopy the dice on a page that contains a Lie</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="final_remove_error">
-    <Desc>Dice on this page และthe page clashing with it are unaffected by Power ได้รับ or loss</Desc>
-    <Desc>[เมื่อโจมตี] ถ้าPinocchio เป็นเป้าหมาย kill it then fully recover HP และStagger Resistของallเพื่อนร่วมทีมat the endของthe Scene,</Desc>
-    <Desc>and ได้รับกำลัง 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="final_exhaust_target_card">
-    <Desc>[เมื่อปะทะชนะ] ถ้าa librarian เป็นเป้าหมาย the page that clashed aได้รับst this is exhausted for this phase</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="final_heart_eager">
+<Desc>[เมื่อใช้] ทำดาเมจ 40 ดาเมจใส่ตนเอง;
+all otherเพื่อนร่วมทีมfully recover HP</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="final_heart_areabuf">
+<Desc>[เมื่อโจมตี] มอบ 1 Strengthว่องไว และจำนวนให้กับ other ทั้งหมดเพื่อนร่วมทีมในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="final_heart_eager1atk">
+<Desc>[เมื่อโจมตี] มอบ 1 Hankering to Aspirationในฉากนี้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="final_heart_eager1pw">
+<Desc>[เมื่อปะทะชนะ] มอบ 1 Hankering to Aspiration ในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <!-- keter ego -->
-  <BattleCardAbility ID="bloodEgo">
-    <Desc>[เมื่อโจมตี] Purge Strength Endurance Protection andเกราะ Stagger จำนวนfrom target</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="heartEgo">
-    <Desc>[เมื่อใช้] Lose halfของcurrent HP; มอบกำลัง 1 จำนวนให้กับเพื่อนร่วมทีมทั้งหมด ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<!-- 피노키오 -->
+<BattleCardAbility ID="final_detection_lie">
+<Desc>[เมื่อเริ่มการปะทะ] Remove all dice from page และcopy the dice on a page that contains a Lie</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="final_remove_error">
+<Desc>Dice on this page และthe page clashing with it are unaffected by Power ได้รับ or loss</Desc>
+<Desc>[เมื่อโจมตี] ถ้าPinocchio เป็นเป้าหมาย kill it then fully recover HP และStagger Resistของallเพื่อนร่วมทีมat the endของthe Scene,</Desc>
+<Desc>and ได้รับกำลัง 2 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="final_exhaust_target_card">
+<Desc>[เมื่อปะทะชนะ] ถ้าa librarian เป็นเป้าหมาย the page that clashed aได้รับst this is exhausted for this phase</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="pinochioego">
-    <Desc>[เมื่อใช้] Allของpages ของuser Cost 1 more for the ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<!-- keter ego -->
+<BattleCardAbility ID="bloodEgo">
+<Desc>[เมื่อโจมตี] Purge Strength Endurance Protection andเกราะ Stagger จำนวนfrom target</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="heartEgo">
+<Desc>[เมื่อใช้] Lose halfของcurrent HP;
+มอบกำลัง 1 จำนวนให้กับเพื่อนร่วมทีมทั้งหมด ในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="snowqueenEgoDice">
-    <Desc>[เมื่อโจมตี] มอบ 1 พันธนาอ่อนแรง และจำนวน ในฉากถัดไป</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="pinochioego">
+<Desc>[เมื่อใช้] Allของpages ของuser Cost 1 more for the ในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <BattleCardAbility ID="silentEgo">
-    <Desc>[เมื่อโจมตี] Three randomศัตรูare มอบed with a random status ailment from: 1 Paralysis,อ่อนแรง 1 จำนวน 1 ตัดกำลัง 1 พันธนา,เปราะบาง 1 จำนวน(Individually determined)</Desc>
-    <Desc></Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="snowqueenEgoDice">
+<Desc>[เมื่อโจมตี] มอบ 1 พันธนาอ่อนแรง และ
 
-  <!-- New May 16th adjustments -->
-  <!-- basic Keywords -->
-  <BattleCardAbility ID="exhaustOnUseText">
-    <Desc>[Single-use]</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="areaText_single">
-    <Desc>[Mass-Individual]</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="areaText_summation">
-    <Desc>[Mass-Summation]</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="separator">
-    <Desc> </Desc> <!-- This is used as separator when there are both '광역' และ'일회성' -->
-  </BattleCardAbility>
-  
-  <!-- 밤의 송곳 (Night Awls) -->
-  <BattleCardAbility ID="awlofnight1">
-    <Desc>[เมื่อใช้] Boost damage by sumของHaste ของuser และBind ของtarget</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="binding1pw">
-    <Desc>[เมื่อปะทะชนะ] มอบพันธนา 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="binding2pw">
-    <Desc>[เมื่อปะทะชนะ] มอบพันธนา 2 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
 
-  <!-- 정사무소 (Jeong Office) -->
-  <BattleCardAbility ID="quick1discard">
-    <Desc>When discarded ได้รับ 1 Haste</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="quickall1discard">
-    <Desc>When discarded มอบว่องไว 1 จำนวนให้กับเพื่อนร่วมทีมทั้งหมด ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="discardlowest1draw">
-    <Desc>[เมื่อใช้] Discard a page with the lowest Cost; จั่ว Page 1 ใบ</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="sakura">
-    <Desc>[เมื่อใช้] ถ้า4+ pages are in hand discard 4 random pages และboost the min valueของOffensive dice on this page by +3</Desc>
-  </BattleCardAbility>
+<BattleCardAbility ID="silentEgo">
+<Desc>[เมื่อโจมตี] Three randomศัตรูare มอบed with a random status ailment from: 1 Paralysis,อ่อนแรง 1 จำนวน 1 ตัดกำลัง 1 พันธนา,เปราะบาง 1 จำนวน(Individually determined)</Desc>
+<Desc></Desc>
+</BattleCardAbility>
 
-  <!-- 우제트 (Udjat) -->
-  <BattleCardAbility ID="protect1pw">
-    <Desc>[เมื่อปะทะชนะ] ได้รับเกราะ 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="protect1atk">
-    <Desc>[เมื่อโจมตี] ได้รับเกราะ 1 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="usett_eye">
-    <Desc>[เมื่อโจมตี] มอบเกราะ 2 จำนวนให้กับเพื่อนร่วมทีมทั้งหมด ในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="usett_adddice">
-    <Desc>ถ้าthe natural rollของthe Defensive die is Max add a Pierce die (Roll: 4-5) ให้ dice queue</Desc>
-  </BattleCardAbility>
-  
-  
-  <!-- 미래생명 (Mirae Life Insurance) -->
-  <BattleCardAbility ID="bleeding5pw">
-    <Desc>[เมื่อปะทะชนะ] มอบเลือดเลือดไหล 5 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="handCountDmgUp">
-    <Desc>[เมื่อใช้] Boost damage by +1 for each page in hand; ทิ้ง Page ทั้งหมด from hand</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="discardRandomAndEnergy">
-    <Desc>[เมื่อใช้] Discard a random page from hand; ฟื้นฟูแสง 1 หน่วย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="discardAllEnergy1">
-    <Desc>When discarded all otherเพื่อนร่วมทีมฟื้นฟูแสง 1 หน่วย</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="areaTextExhaust">
-    <Desc>[Mass Attack]</Desc>
-    <Desc>Page นี้จะสลาย เมื่อถูกใช้</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="lifeInsuranceAreaAtk">
-    <Desc>[เมื่อโจมตี] มอบ 2 ตัดกำลัง พันธนา,อ่อนแรง และจำนวน; ฟื้นฟู 2 HP</Desc>
-  </BattleCardAbility>
+<!-- New May 16th adjustments -->
+<!-- basic Keywords -->
+<BattleCardAbility ID="exhaustOnUseText">
+<Desc>[Single-use]</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="areaText_single">
+<Desc>[Mass-Individual]</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="areaText_summation">
+<Desc>[Mass-Summation]</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="separator">
+<Desc> </Desc> <!-- This is used as separator when there are both '광역' และ'일회성' -->
+</BattleCardAbility>
 
-  <!-- 공방 소속 (Leaflet Workshop) -->
-  <BattleCardAbility ID="smokeSelf8">
-    <Desc>[เมื่อใช้] ได้รับควัน 8 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="light1smoke3atk">
-    <Desc>[เมื่อโจมตี] ฟื้นฟูแสง 1 หน่วย; มอบควัน 3 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="smoke2selfsmoke1atk">
-    <Desc>[เมื่อโจมตี] มอบควัน 2 จำนวน; ได้รับควัน 1 จำนวน</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="smoke3atkparalysis3atkbytagetsmoke5">
-    <Desc>[เมื่อโจมตี] มอบควัน 3 จำนวน; หากเป้าหมายมี 5+ Smoke มอบอัมพาต 3 จำนวนในฉากถัดไป</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="powerup2byselfsmoke9">
-    <Desc>[เมื่อใช้] ถ้าuser has 9+ Smoke ลูกเต๋าบน Page นี้จะได้รับ +2 Power</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="costdecrease1allcardExhaust">
-    <Desc>[Single-use;][เมื่อใช้] Lower Costของall pages in hand by 1</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="breakdmgbyselfbreak">
-    <Desc>[เมื่อโจมตี] Spend all Stagger Resist to ทำดาเมจ Stagger ดาเมจ equal to spent ของwhat</Desc>
-  </BattleCardAbility>
+<!-- 밤의 송곳 (Night Awls) -->
+<BattleCardAbility ID="awlofnight1">
+<Desc>[เมื่อใช้] Boost damage by sumของHaste ของuser และBind ของtarget</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="binding1pw">
+<Desc>[เมื่อปะทะชนะ] มอบพันธนา 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="binding2pw">
+<Desc>[เมื่อปะทะชนะ] มอบพันธนา 2 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+
+<!-- 정사무소 (Jeong Office) -->
+<BattleCardAbility ID="quick1discard">
+<Desc>When discarded ได้รับ 1 Haste</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="quickall1discard">
+<Desc>When discarded มอบว่องไว 1 จำนวนให้กับเพื่อนร่วมทีมทั้งหมด ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="discardlowest1draw">
+<Desc>[เมื่อใช้] Discard a page with the lowest Cost;
+จั่ว Page 1 ใบ</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="sakura">
+<Desc>[เมื่อใช้] ถ้า4+ pages are in hand discard 4 random pages และboost the min valueของOffensive dice on this page by +3</Desc>
+</BattleCardAbility>
+
+<!-- 우제트 (Udjat) -->
+<BattleCardAbility ID="protect1pw">
+<Desc>[เมื่อปะทะชนะ] ได้รับเกราะ 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="protect1atk">
+<Desc>[เมื่อโจมตี] ได้รับเกราะ 1 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="usett_eye">
+<Desc>[เมื่อโจมตี] มอบเกราะ 2 จำนวนให้กับเพื่อนร่วมทีมทั้งหมด ในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="usett_adddice">
+<Desc>ถ้าthe natural rollของthe Defensive die is Max add a Pierce die (Roll: 4-5) ให้ dice queue</Desc>
+</BattleCardAbility>
 
 
-  <!-- 베이야드 (Bayard) -->
-  <BattleCardAbility ID="selfstunwithabil">
-    <Desc>[เมื่อใช้งาน] Become Immobilizedในฉากนี้
+<!-- 미래생명 (Mirae Life Insurance) -->
+<BattleCardAbility ID="bleeding5pw">
+<Desc>[เมื่อปะทะชนะ] มอบเลือดเลือดไหล 5 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="handCountDmgUp">
+<Desc>[เมื่อใช้] Boost damage by +1 for each page in hand;
+ทิ้ง Page ทั้งหมด from hand</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="discardRandomAndEnergy">
+<Desc>[เมื่อใช้] Discard a random page from hand;
+ฟื้นฟูแสง 1 หน่วย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="discardAllEnergy1">
+<Desc>When discarded all otherเพื่อนร่วมทีมฟื้นฟูแสง 1 หน่วย</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="areaTextExhaust">
+<Desc>[Mass Attack]</Desc>
+<Desc>Page นี้จะสลาย เมื่อถูกใช้</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="lifeInsuranceAreaAtk">
+<Desc>[เมื่อโจมตี] มอบ 2 ตัดกำลัง พันธนา,อ่อนแรง และจำนวน;
+ฟื้นฟู 2 HP</Desc>
+</BattleCardAbility>
+
+<!-- 공방 소속 (Leaflet Workshop) -->
+<BattleCardAbility ID="smokeSelf8">
+<Desc>[เมื่อใช้] ได้รับควัน 8 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="light1smoke3atk">
+<Desc>[เมื่อโจมตี] ฟื้นฟูแสง 1 หน่วย;
+มอบควัน 3 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="smoke2selfsmoke1atk">
+<Desc>[เมื่อโจมตี] มอบควัน 2 จำนวน;
+ได้รับควัน 1 จำนวน</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="smoke3atkparalysis3atkbytagetsmoke5">
+<Desc>[เมื่อโจมตี] มอบควัน 3 จำนวน;
+หากเป้าหมายมี 5+ Smoke มอบอัมพาต 3 
+จำนวนในฉากถัดไป</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="powerup2byselfsmoke9">
+<Desc>[เมื่อใช้] ถ้าuser has 9+ Smoke ลูกเต๋าบน Page นี้จะได้รับ +2 Power</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="costdecrease1allcardExhaust">
+<Desc>[Single-use;][เมื่อใช้] Lower Costของall pages in hand by 1</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="breakdmgbyselfbreak">
+<Desc>[เมื่อโจมตี] Spend all Stagger Resist to ทำดาเมจ Stagger ดาเมจ equal to spent ของwhat</Desc>
+</BattleCardAbility>
+
+
+<!-- 베이야드 (Bayard) -->
+<BattleCardAbility ID="selfstunwithabil">
+<Desc>[เมื่อใช้งาน] Become Immobilizedในฉากนี้
 ได้รับกำลัง 3 จำนวนในฉากถัดไป
 Add a copyของ'Pinpoint Breakthrough' to hand</Desc>
-  </BattleCardAbility>
+</BattleCardAbility>
 
 
-  <!-- Tiphereth creature -->
-  <BattleCardAbility ID="Wizard_potion">
-    <Desc>[เมื่อใช้งาน;][เป้าหมายAlly] Grant the status 'Liquid Courage'</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="Wizard_poket">
-    <Desc>[เมื่อใช้งาน;][เป้าหมายAlly] Grant the status 'Silk SackของSawdust'</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="Wizard_heart">
-    <Desc>[เมื่อใช้งาน;][เป้าหมายAlly] Grant the status 'HeartของLead'</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="Wizard_home">
-    <Desc>[เมื่อใช้งาน;][เป้าหมายAlly] Grant the status 'Home that Cannot Be Reached'</Desc>
-  </BattleCardAbility>
-  <BattleCardAbility ID="Wizard_change">
-    <Desc>[เมื่อใช้งาน;][เป้าหมายAlly] Grant the status 'Transformation'</Desc>
-  </BattleCardAbility>
-  
-  <BattleCardAbility ID="final_netzach_orchestra2_oneside">
-    <Desc>On a one-sided attack the effect ของpage appliesให้กับศัตรูทั้งหมด</Desc>
-  </BattleCardAbility>
+<!-- Tiphereth creature -->
+<BattleCardAbility ID="Wizard_potion">
+<Desc>[เมื่อใช้งาน;][เป้าหมายAlly] Grant the status 'Liquid Courage'</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="Wizard_poket">
+<Desc>[เมื่อใช้งาน;][เป้าหมายAlly] Grant the status 'Silk SackของSawdust'</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="Wizard_heart">
+<Desc>[เมื่อใช้งาน;][เป้าหมายAlly] Grant the status 'HeartของLead'</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="Wizard_home">
+<Desc>[เมื่อใช้งาน;][เป้าหมายAlly] Grant the status 'Home that Cannot Be Reached'</Desc>
+</BattleCardAbility>
+<BattleCardAbility ID="Wizard_change">
+<Desc>[เมื่อใช้งาน;][เป้าหมายAlly] Grant the status 'Transformation'</Desc>
+</BattleCardAbility>
+
+<BattleCardAbility ID="final_netzach_orchestra2_oneside">
+<Desc>On a one-sided attack the effect ของpage appliesให้กับศัตรูทั้งหมด</Desc>
+</BattleCardAbility>
 
 
 
