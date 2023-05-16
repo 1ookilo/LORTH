@@ -1816,11 +1816,11 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
   <Sephirah SephirahType="Binah">
     <AbnormalityCard ID="Bigbird_Eye">
       <Abnormality>Big Bird</Abnormality>
-      <CardName>Watchful Eyes</CardName>
+      <CardName>ตาสังเกตการณ์</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Fully restore the selected librarian's Light.
-Each Scene, a random ally gains no Light while the selected librarian restores 1 additional Light.</AbilityDesc>
-      <FlaborText>The eyes always shone brilliantly, burning like stars in the night sky. But it gave its eyes to the Big Bird in order to protect the forest.</FlaborText>
+ฟื้นฟูแสงของบรรณารักษ์ที่เลือกจนเต็ม
+แต่ละฉากต่อจากนี้ พันธมิตรแบบสุ่มหนึ่งคนจะไม่ได้รับแสง และบรรณารักษ์ที่เลือกได้แสงเพิ่มเติม 1 หน่วย</AbilityDesc>
+      <FlaborText>ดวงตาพวกนั้นต่างส่องแสงอย่างระยิบระยับ ดั่งดวงดาวในยามราตรี แต่ดวงตาเหล่านี้ถูกใช้โดยBig Bird ในการปกป้องป่าแห่งนี้</FlaborText>
       <Dialogues>
         <Dialogue ID="1">For every creature in the forest I saved, my eyes gained another in number.</Dialogue>
         <Dialogue ID="2">I need eyes that can check the surroundings thoroughly, in order to keep this place safe.</Dialogue>
@@ -1831,10 +1831,10 @@ Each Scene, a random ally gains no Light while the selected librarian restores 1
       
     <AbnormalityCard ID="Bigbird_Lamp">
       <Abnormality>Big Bird</Abnormality>
-      <CardName>Eternally Lit Lamp</CardName>
+      <CardName>ตะเกียงที่ไม่มีวันมอดดับ</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Any enemy this librarian targets will be forced to target the librarian back, regardless of Speed.</AbilityDesc>
-      <FlaborText>“If I kill the creatures first, then no one would be killed by the beast!”</FlaborText>
+ศัตรูที่บรรณารักษ์คนนี้เล็งเป็นเป้าหมาย จะถูกบังคับให้ปะทะกลับมา โดยไม่สนใจความเร็ว</AbilityDesc>
+      <FlaborText>“ถ้าฉันฆ่าทุกคนก่อน ก็จะไม่มีใครต้องถูกอสูรร้ายฆ่า!”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Follow this lamp. I’ll save you all.</Dialogue>
         <Dialogue ID="2">Giving up my feathers… I gained a light that would burn forever.</Dialogue>
@@ -1845,11 +1845,11 @@ Any enemy this librarian targets will be forced to target the librarian back, re
       
     <AbnormalityCard ID="Bigbird_Save">
       <Abnormality>Big Bird</Abnormality>
-      <CardName>Salvation</CardName>
+      <CardName>การไถ่บาป</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-All dice gain +1 Power against enemies with higher Speed.
-If target's HP is at 25% or lower, destroy all of their dice upon winning a clash.</AbilityDesc>
-      <FlaborText>To this bird, death in itself is salvation.</FlaborText>
+เต๋าทุกลูกบวก 1 พลังเมื่อเป้าหมายเป็นศัตรูที่ความเร็วสูงกว่า
+หากเป้าหมายมีHP เป็น25% หรือต่ำกว่า ทำลายลูกเต๋าทั้งหมดของเป้าหมายเมื่อชนะการปะทะ</AbilityDesc>
+      <FlaborText>สำหรับเจ้านกแล้ว ความตายนั้นคือการหลุดพ้น</FlaborText>
       <Dialogues>
         <Dialogue ID="1">If I kill them first, then no one would be killed by the beast!</Dialogue>
         <Dialogue ID="2">A big, scary monster lives in this forest! Be careful.</Dialogue>
@@ -1860,10 +1860,10 @@ If target's HP is at 25% or lower, destroy all of their dice upon winning a clas
       
     <AbnormalityCard ID="SmallBird_Punishment">
       <Abnormality>Punishing Bird</Abnormality>
-      <CardName>Punishment</CardName>
+      <CardName>ลงโทษ</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-After taking damage, the first die of the first page the librarian uses next Scene gains 2-4 Power. (Excludes [On Play] pages)</AbilityDesc>
-      <FlaborText>“It must be because there’s no one to punish people for their misdeeds. If someone takes that role, then no foul act would happen in this world ever again!”</FlaborText>
+เมื่อได้รับดาเมจ ในฉากถัดไป เต๋าแรกของเพจแรกที่ยรรณารักษ์ใช้จะได้รับพลังเพิ่มขึ้น 2-4 หน่วย(ไม่นับเพจประเภท [เมื่อเล่น])</AbilityDesc>
+      <FlaborText>“คงเป็นเพราะว่าไม่มีใครคอยลงโทษผู้กระทำผิดสินะ ถ้ามีคนทำหน้าที่นี้ล่ะก็ โลกใบนี้ก็จะไม่มีใครทำเรื่องไม่ดีอีกไงล่ะ!”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">If I punished them, then there won’t be any more bad people, right?</Dialogue>
         <Dialogue ID="2">There’s no point in forgiving. A misdeed is a misdeed.</Dialogue>
@@ -1873,10 +1873,10 @@ After taking damage, the first die of the first page the librarian uses next Sce
       
     <AbnormalityCard ID="SmallBird_Beak">
       <Abnormality>Punishing Bird</Abnormality>
-      <CardName>Punishing Beak</CardName>
+      <CardName>จะงอยลงทัณฑ์</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-The librarian's attacks deal bonus damage equal to the number of Scenes that pass without the librarian taking damage from attacks. (Max. 10)</AbilityDesc>
-      <FlaborText>People have been committing sins since long ago. “Why do they commit sins, knowing it’s wrong?”</FlaborText>
+บรรณารักษ์ทำดาเมจเพิ่มเติม เท่ากับจำนวนฉากที่บรรณารักษ์นั้นผ่านมาได้โดยไม่ได้รับดาเมจจากการโจมตีเลย (สูงสุด 10)</AbilityDesc>
+      <FlaborText>ผู้คนนั้นทำชั่วกันมาตั้งช้านานแล้ว "ทำไม่ต้องทำชั่วทั้งที่รู้ๆว่ามันไม่ดีล่ะ?”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Why do they commit sins when they know it’s wrong?</Dialogue>
         <Dialogue ID="2">I’ll give them a good scolding, so they won’t even think about doing misdeeds again.</Dialogue>
@@ -1886,11 +1886,11 @@ The librarian's attacks deal bonus damage equal to the number of Scenes that pas
       
     <AbnormalityCard ID="Smallbird_Fly">
       <Abnormality>Punishing Bird</Abnormality>
-      <CardName>Small Flutters</CardName>
+      <CardName>ปีกน้อยกระพือไกล</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Evade dice gain 1-2 Power.
-Upon winning a clash using Evade dice, the next Offensive die gains 1-2 Power.</AbilityDesc>
-      <FlaborText>A small and confident bird that punishes the evil, guilty, and all sorts of irreverent people.</FlaborText>
+เต๋าหลบหลีกได้รับพลังเพิ่ม 1-2 หน่วย
+เมื่อชนะการปะทะด้วยเต๋าหลบหลีก เต๋าโจมตีต่อไปจะได้รับพลังมากขึ้น 1-2 หน่วย</AbilityDesc>
+      <FlaborText>เจ้านกน้อยผู้ใจกล้า คอยลงทัณฑ์ความชั่ว ความผิด และพวกคนที่ดูหมิ่นคนอื่น</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I left the forest, and never went back.</Dialogue>
         <Dialogue ID="2">Let’s fly high. Let’s hope that the world will change for the better.</Dialogue>
@@ -1901,10 +1901,10 @@ Upon winning a clash using Evade dice, the next Offensive die gains 1-2 Power.</
       
     <AbnormalityCard ID="LongBird_Sin">
       <Abnormality>Judgement Bird</Abnormality>
-      <CardName>The Weight of Sin</CardName>
+      <CardName>บาปหนาสาหัส</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Whenever a die this librarian plays rolls the minimum value, take 2-7 damage and gain 1-2 Strength and Endurance next Scene.</AbilityDesc>
-      <FlaborText>Its scale would never neglect the weight of even the smallest sin.</FlaborText>
+เมื่อใดก็ตามที่บรรณารักษ์ทอยเต๋าได้จำนวนน้อยสุด ได้รับดาเมจ 2-7 หน่วย และได้รับ 1-2 กำลังและอึดทนในฉากหน้า</AbilityDesc>
+      <FlaborText>ตราชั่งของมันนั้นไม่ปล่อยแม้กระทั่งบาปที่เล็กที่สุดให้รอดพ้นไป</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Time to weigh your sins.</Dialogue>
         <Dialogue ID="2">I won’t neglect the weight of any sin.</Dialogue>
@@ -1914,10 +1914,10 @@ Whenever a die this librarian plays rolls the minimum value, take 2-7 damage and
       
    <AbnormalityCard ID="LongBird_Scale">
       <Abnormality>Judgement Bird</Abnormality>
-      <CardName>Tilted Scale</CardName>
+      <CardName>ตราชั่งมิตั้งตรง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-After attacking the enemy with the most HP, recover the HP of the ally with the least HP by 2-8. (3 times per Scene, Excludes Mass Attacks)</AbilityDesc>
-      <FlaborText>All that remains is the unjust scale. The long bird continues on, doling out judgement.</FlaborText>
+เมื่อโจมตีศัตรูที่มีHP มากที่สุด ฟื้นฟูHP ของพันธมิตรที่มีHPน้อยที่สุด 2-8 หน่วย (3 ครั้งต่อฉาก, ไม่นับการโจมตีหมู่)</AbilityDesc>
+      <FlaborText>สิ่งที่เหลืออยู่ตอนนี้ เหลือเพียงแต่ตราชั่งที่เอียงเอน เจ้านกตัวยาวก็ยังคงใช้มันพิพากษาต่อไป</FlaborText>
       <Dialogues>
         <Dialogue ID="1">This scale always yields a clear verdict; I can make sound, precise judgement with it.</Dialogue>
         <Dialogue ID="2">My subjective views might affect fair judgement.</Dialogue>
@@ -1928,12 +1928,12 @@ After attacking the enemy with the most HP, recover the HP of the ally with the 
       
     <AbnormalityCard ID="LongBird_Judgement">
       <Abnormality>Judgement Bird</Abnormality>
-      <CardName>Judgement</CardName>
+      <CardName>พิพากษา</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-At the start of the Scene, ตัวละครทั้งหมด gain 1 Sin at a 50% chance.
-If a character has 5+ Sin, they take damage equal to 10% of their Max. HP at the start of the Scene, and all Sin is removed from them.
-Sin can be transferred to another character by attacking and damaging them. (Once per page)</AbilityDesc>
-      <FlaborText>Then somebody said, “But what if the scale doesn’t tip in either direction someday?” Worried, Long Bird made a scale that always tipped to one side. That way every judgement would yield a clear verdict.</FlaborText>
+เมื่อเริ่มฉาก ตัวละครทั้งหมดมีโอกาส50% ได้รับ 1 บาป
+หากตัวละครใดมีบาป 5 หน่วยหรือมากกว่า พวกเขาจะได้รับดาเมจเท่ากับ10% ของMax HPตน ตอนเริ่มฉาก และนำบาปออกจากเขาทั้งหมด
+บาป สามารถถูกส่งไปให้อีกตัวละครนึงได้โดยการโจมตีและทำดาเมจพวกเขา (ส่ง1อัน ต่อหนึ่งเพจ)</AbilityDesc>
+      <FlaborText>จากนั้น ใครบางคนก็ได้พูดขึ้นมา, “ถ้าเกิดว่าวันนึงตราชั่งนี่มันไม่หันไปข้างไหนเลย จะทำยังไงหรอ?” ด้วยความกังวล Long Bird จึงทำตราชั่งที่เอียงไปข้างนึงตลอด ถ้าเป็นอย่างนี้ ทุกๆการตัดสินก็จะได้รับคำวินิจฉัยที่โปร่งใส</FlaborText>
       <Dialogues>
         <Dialogue ID="1">When I lift this scale, I wish for immortality upon the guilty.</Dialogue>
         <Dialogue ID="2">I will pass fair judgement upon all, marking out the misdeeds…</Dialogue>
@@ -1945,12 +1945,12 @@ Sin can be transferred to another character by attacking and damaging them. (Onc
     <!-- Gee Apocalypse Bird, how come Binah lets you have SIX cards? -->
     <AbnormalityCard ID="ApocalypseBird_BigEye">
       <Abnormality>Apocalypse Bird</Abnormality>
-      <CardName>Big Eyes</CardName>
+      <CardName>ตายักษ์</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-At the start of the Scene, inflict 'Enchanted' to all enemies.
-Enchanted enemies prioritize this librarian as a target, and deal +2-4 damage with attacks.
-Gain 1-2 Power in clashes against Enchanted enemies, and recover 2-5 HP and Stagger Resist upon winning a clash.</AbilityDesc>
-      <FlaborText>The Big Bird’s eyes imprisoned light.</FlaborText>
+เมื่อเริ่มฉาก ติด 'หลงเสน่ห์' แก่ศัตรูทั้งหมด
+ศัตรูที่หลงเสน่ห์จะเลือกเล็งบรรณารักษ์ที่เลือกเป็นหลัก และทำดาเมจมากขึ้น 2-4 หน่วย
+คุณได้รับ 1-2 พลังในปะทะกับศัตรูที่หลงเสน่ห์ เมื่อชนะการปะทะกับศัตรูดังกล่าว คุณฟื้นฟู 2-5 HPและStagger Resist</AbilityDesc>
+      <FlaborText>ดวงตา Big Bird ซึ่งพันธนาแสงสว่าง</FlaborText>
       <Dialogues>
         <Dialogue ID="1">The bright light is trapped.</Dialogue>
         <Dialogue ID="2">Let’s be free before we have to face that fear…</Dialogue>
@@ -1960,11 +1960,11 @@ Gain 1-2 Power in clashes against Enchanted enemies, and recover 2-5 HP and Stag
     </AbnormalityCard>
     <AbnormalityCard ID="ApocalypseBird_SmallPeak">
       <Abnormality>Apocalypse Bird</Abnormality>
-      <CardName>Small Beak</CardName>
+      <CardName>จะงอยน้อย</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Add a 'Small Beak' page to hand: ‘Cost 0 - [On Play;] [Return to Hand] Take 5% of Max. HP as damage; restore 1 Light’.
-The page is also included in the deck at the start of subsequent Acts.</AbilityDesc>
-      <FlaborText>And the Small Bird’s beak whispered, endlessly…</FlaborText>
+เพิ่มเพจ 'จะงอยน้อย' เข้าสู่มือ: ‘คอส 0 - [เมื่อเล่น] [กลับขึ้นมือ] ได้รับดาเมจเท่ากับ 5% ของHPผู้ใช้ เพื่อฟื้นฟู 1 แสง’
+เพจนี้จะถูกเพิ่มเข้าไปในสำรับคุณเมื่อเริ่มองก์ถัดไปด้วย</AbilityDesc>
+      <FlaborText>และจะงอยของ Small Bird ที่คอยกระซิบอย่างไม่จบสิ้น</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I whisper, without cessation…</Dialogue>
         <Dialogue ID="2">We are punished for our sins, but it’s clear that yet more will sprout from the roots of sin.</Dialogue>
@@ -1974,10 +1974,10 @@ The page is also included in the deck at the start of subsequent Acts.</AbilityD
     </AbnormalityCard>
         <AbnormalityCard ID="ApocalypseBird_LongArm">
       <Abnormality>Apocalypse Bird</Abnormality>
-      <CardName>Long Arms</CardName>
+      <CardName>มือยาว</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Take no damage from certain status ailments (Burn, Bleed, Fairy, Sin).</AbilityDesc>
-      <FlaborText>The Long Bird’s arms concealed time.</FlaborText>
+ไม่รับดาเมจจากสถานะด้านลบเหล่านี้อย่างสิ้นเชิง(เผาไหม้, เลือดไหล, แฟรี่, บาป).</AbilityDesc>
+      <FlaborText>แขน Long Bird อันบดบังกาลเวลา</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I hide away time.</Dialogue>
         <Dialogue ID="2">I condemn you, but you will still commit more sin without end…</Dialogue>
@@ -1988,12 +1988,12 @@ Take no damage from certain status ailments (Burn, Bleed, Fairy, Sin).</AbilityD
     
     <AbnormalityCard ID="ApocalypseBird_Apocalypse">
       <Abnormality>Apocalypse Bird</Abnormality>
-      <CardName>The Beast</CardName>
+      <CardName>อสูร</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Activates when the selected librarian possesses all of the following Abnormality pages: 'Big Eyes', 'Small Beak', 'Long Arms'.
-All dice of characters targeting or targeted by this character are unaffected by Power gain or loss, and their minimum and maximum values are lowered by 3.
-At the end of the Scene, all other characters take 15 damage, and this character fully restores Light.</AbilityDesc>
-      <FlaborText>The day when Big Bird’s eyes that could see hundreds of kilometers away, Long Bird who could judge any sin, and Small Bird’s mouth that could devour everything united into one, darkness fell upon the forest.</FlaborText>
+ความสามารถจะได้ผล ต่อเมื่อบรรณารักษ์ที่เลือกนั้นมีเพจAbnormality ต่อไปนี้: 'ตายักษ์', 'จะงอยน้อย', 'มือยาว'.
+เต๋าทุกลูกที่ตัวละครนี้กำลังเล็งเป็นเป้าหมาย ไม่ได้รับผลใดๆจากการเพิ่มหรือลดพลังอย่างสิ้นเชิง ค่าสูงสุดและต่ำสุดของพวกมันถูกลดลงไป 3 หน่วย
+เมื่อจบฉาก ตัวละครอื่นๆทุกตัวได้รับดาเมจ 15 หน่วย และตัวละครนี้ฟื้นฟูแสงทั้งหมด</AbilityDesc>
+      <FlaborText>ในวันนั้น ดวงตาของ Big Bird ที่เห็นได้หลายร้อยกิโลเมตร Long Bird ผู้ซึ่งตัดสินได้ทุกบาปบุญ และปากของ Small Bird กลืนกินได้ทุกอย่าง รวมกันเป็นหนึ่ง ความมืดมืดก็ได้ปกคลุมไปทั้งป่า</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I can’t let evil take all these precious things away.</Dialogue>
         <Dialogue ID="2">If I could devour everything around me…</Dialogue>
@@ -2003,11 +2003,11 @@ At the end of the Scene, all other characters take 15 damage, and this character
     </AbnormalityCard>
     <AbnormalityCard ID="ApocalypseBird_Gate">
       <Abnormality>Apocalypse Bird</Abnormality>
-      <CardName>Guardians of the Forest</CardName>
+      <CardName>องครักษ์พิทักษ์พงไพร</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-All librarians gain 1 Haste at the start of each Scene for the duration of the reception.
-If all five librarians each have an Abnormality page, gain 1-2 Strength and Endurance in addition.</AbilityDesc>
-      <FlaborText>That’s when the birds decided to become the guardians of the forest. They loved this forest more than anyone else did, so they wanted to protect the creatures living in the forest and keep the peace.</FlaborText>
+จนจบReception เมื่อเริ่มฉากทุกฉากบรรณารักษ์ทุกคนได้รับ 1 ว่องไว
+หากบรรณารักษ์ทุกคนเป็นเจ้าของเพจAbnormality คนละเพจ ได้รับ 1-2 กำลังและอึดทนแถมไปด้วย</AbilityDesc>
+      <FlaborText>ผู้อย่างนั้นนกทั้ง 3 จึงตัดสินใจเป็นองครักษ์พิทักษ์พงไพร พวกมันรักป่านี้มากกว่าผู้ใด พวกมันจึงอย่างปกป้องเหล่าสรรพชีวิตในป่าและรักษาสันติภาพ</FlaborText>
       <Dialogues>
         <Dialogue ID="1">To protect this place we love more than anyone.</Dialogue>
         <Dialogue ID="2">We hope for a world where pitiful lives can live in comfort.</Dialogue>
@@ -2017,11 +2017,11 @@ If all five librarians each have an Abnormality page, gain 1-2 Strength and Endu
     </AbnormalityCard>
 <AbnormalityCard ID="ApocalypseBird_Atk">
       <Abnormality>Apocalypse Bird</Abnormality>
-      <CardName>Peace</CardName>
+      <CardName>สันติ</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-When there is no 'Intruder' present, the first enemy the selected librarian attacks is marked as an 'Intruder'.(Excludes Mass Attacks)
-All of the Intruder's attacks deal 2-4 less physical and Stagger damage; also, the Intruder takes 1-2 bonus damage from attacks.</AbilityDesc>
-      <FlaborText>The bird began to prowl the forest, looking for the beast. But there was nothing. There were no creatures, no sun and moon, and no beast. All that was left was just a bird and the Black Forest.</FlaborText>
+เมื่อไม่มี 'ผู้บุกรุก' ศัตรูคนแรกที่บรรณารักษ์ที่เลือกโจมตี (ไม่นับการโจมตีหมู่) จะถูกนับว่าเป็น 'ผู้บุกรุก'
+ผู้บุกรุกทำดาเมจและดาเมจStagger น้อยลง 2-4 หน่วย จากทุกๆการโจมตี และผู้บุกรุกได้รับดาเมจเพิ่มเติม 1-2 หน่วยจากการโจมตี</AbilityDesc>
+      <FlaborText>เจ้านกเดินไปมาทั่วทั้งป่า ตามหาอสูรร้าย ทว่ามันกลับว่างเปล่า ไร้ซึ่งสรรพชีวิต ไร้แสงจันทร์แสงตะวัน และไร้อสูร สิ่งที่เหลืออยู่มีเพียงเจ้านก และป่าดำเท่านั้น</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Those who endure the fear will attain peace…</Dialogue>
         <Dialogue ID="2">Nothing will dare harm you.</Dialogue>
@@ -2035,10 +2035,10 @@ All of the Intruder's attacks deal 2-4 less physical and Stagger damage; also, t
   <Sephirah SephirahType="Hokma">
     <AbnormalityCard ID="Bloodytree_Wing">
       <Abnormality>Burrowing Heaven</Abnormality>
-      <CardName>Lean, Bloody Wings</CardName>
+      <CardName>ผงาด, เจ้าปีกโลหิต</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-On a deflect, deal half of the Block dice roll as physical damage to the opponent.</AbilityDesc>
-      <FlaborText>Once it recognizes that it lost your attention and focus… It will spread its wings. Like an angel, its wings will reach the skies and extend toward the ground, eventually blocking the sun out.</FlaborText>
+เมื่อปัดป้องการโจมตี ทำดาเมจกายภาพแก่ฝ่ายตรงข้าม เท่ากับจำนวนครึ่งหนึงของเต๋าป้องกันของบรรณารักษ์</AbilityDesc>
+      <FlaborText>เมื่อมันรู้ตัวว่าคุณนั้นไม่ได้ให้ความสนใจกับมัน... มันจะแพร่กระจายปีกของมัน ดั่งเทวดา ปีกของมันจะไปแตะขอบฟ้าและแผ่กิ่งก้านไปทั่วพื้นดิน บดบังแสงตะวันจนสิ้น</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Basking in everyone’s gaze and attention… It will finally come to fruition and spread its wings.</Dialogue>
         <Dialogue ID="2">The one who spread their wings sacrificed everything they had, and yet…</Dialogue>
@@ -2049,11 +2049,11 @@ On a deflect, deal half of the Block dice roll as physical damage to the opponen
     
     <AbnormalityCard ID="Bloodytree_Gaze">
       <Abnormality>Burrowing Heaven</Abnormality>
-      <CardName>Gaze of Others</CardName>
+      <CardName>ผู้คนจับจ้อง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Deal +2-4 damage in a one-sided attack.
-In a clash, deal 3-6 less damage with attacks, but Block dice gain 1-3 Power.</AbilityDesc>
-      <FlaborText>That’s what a gaze is. Attention. An invisible string that connects us. Sole focus.</FlaborText>
+เมื่อโจมตีข้างเดียว ทำดาเมจเพิ่ม 2-4 หน่วย
+เมื่อปะทะ ทำดาเมจลดลง 3-6 หน่วย แต่เต็าป้องกันบวกพลัง 1-3 หน่วย</AbilityDesc>
+      <FlaborText>ความหมายของการจ้องคือ ให้ความสนใจ มันมีเส้นด้ายล่องหนมากมายเชื่อมเราไว้ จงสนใจแต่ข้</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Just close your eyes. That’s right, you’re doing good…</Dialogue>
         <Dialogue ID="2">If you can’t see it, you can’t reach it.</Dialogue>
@@ -2064,10 +2064,10 @@ In a clash, deal 3-6 less damage with attacks, but Block dice gain 1-3 Power.</A
     
     <AbnormalityCard ID="Bloodytree_Forcus">
       <Abnormality>Burrowing Heaven</Abnormality>
-      <CardName>Attention and Focus</CardName>
+      <CardName>สนใจอย่างใจจดจ่อ</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Deal and take twice as much Stagger damage on a deflect.</AbilityDesc>
-      <FlaborText>Don’t look away, just keep your eyes on it. Contain it in your sight.</FlaborText>
+ทำ และได้รับดาเมจStagger เป็น2เท่า ในการปัดป้องและถูกปัดป้อง.</AbilityDesc>
+      <FlaborText>อย่าหันไปไหน จ้องมันอย่าให้ขาด อย่าให้ละสายตา</FlaborText>
       <Dialogues>
         <Dialogue ID="1">You won’t bat an eye at this breathtaking sight.</Dialogue>
         <Dialogue ID="2">Keep looking at it… Steadily… It’s alive, watching you in return, is it not?</Dialogue>
@@ -2078,11 +2078,11 @@ Deal and take twice as much Stagger damage on a deflect.</AbilityDesc>
     
         <AbnormalityCard ID="Clock_Time">
       <Abnormality>The Price of Silence</Abnormality>
-      <CardName>Time</CardName>
+      <CardName>กาล</CardName>
       <AbilityDesc>[พันธมิตรทุกคน]
-The player has 30 seconds to select Combat Pages before the combat phase begins each Scene.
-Boost the Power of all dice of all librarians by 1-2.</AbilityDesc>
-      <FlaborText>Time flows as life does, and life goes as time does.</FlaborText>
+ในทุกๆฉาก ผู้เล่นมีเวลา 30 วินาทีที่จะจัดการCombat Page ของตนก่อนจะบังคับเขาช่วงต่อสู้ 
+เพิ่มพลังเต๋าทั้งหมดของบรรณารักษ์ทุกคน 1-2 หน่วย</AbilityDesc>
+      <FlaborText>เวลาไหลไปตามชีวิต และชีวิตไหลไปตามเวลา</FlaborText>
       <Dialogues>
         <Dialogue ID="1">That one doesn’t have enough time is a useless complaint.</Dialogue>
         <Dialogue ID="2">Tomorrow may or may not come.</Dialogue>
@@ -2093,11 +2093,11 @@ Boost the Power of all dice of all librarians by 1-2.</AbilityDesc>
     
     <AbnormalityCard ID="Clock_Thirteen">
       <Abnormality>The Price of Silence</Abnormality>
-      <CardName>The Thirteenth Toll</CardName>
+      <CardName>ยามสิบสามนาฬิกา</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Every 13th Combat Page the librarian plays gains 1-2 Power. (Excludes [On Play] pages)
-The dice on the page also gain the following effect: ‘[On Hit] Deal bonus damage equal to (Dice value)% of target's Max HP’.</AbilityDesc>
-      <FlaborText>I know of absolute solitude. I shared my silence, and now I take its price. Once the time comes and the original owner arrives, the price will be paid.</FlaborText>
+ในทุกๆCombat Pageที่13 ที่บรรณารักษ์ใช้ จะได้รับพลังเพิ่ม 1-2 หน่วย (ไม่รวมเพจประเภท [เมื่อเล่น])
+เต๋าทุกลูกในเพจนั้นได้รับพลังต่อไปนี้: ‘[เมื่อโจมตี] ทำดาเมจเพิ่มเติมเท่ากับ (ค่าเต๋าที่ทอยได้)% ของMax HP เป้าหมาย’.</AbilityDesc>
+      <FlaborText>ข้ารู้จักความโดดเดี่ยวอย่างแท้จริง ข้าจะแบ่งปันความเงียบงันนี้ อันมาพร้อมกับค่าตอบแทน เมื่อเจ้าของที่แท้จริงมาถึง ค่าตอบแทนจำจึงจะถูกรับไป</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I heard that disastrous bell yet again.</Dialogue>
         <Dialogue ID="2">As the bell rang, a scream broke the silence at last…</Dialogue>
@@ -2108,12 +2108,12 @@ The dice on the page also gain the following effect: ‘[On Hit] Deal bonus dama
     
     <AbnormalityCard ID="Clock_Kill">
       <Abnormality>The Price of Silence</Abnormality>
-      <CardName>Silence</CardName>
+      <CardName>เงียบงัน</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Add a 'Silence' page to the hand: ‘Cost 0 - [On Play] Take 15% of Max. HP as damage; all other characters lose 5 Speed’. 
-Add an 'Amplify' page to the hand: ‘Cost 0 - [On Play] Take 10% of Max. HP as damage; Gain 5 Speed’.
-The page is also included in the deck at the start of subsequent Acts.</AbilityDesc>
-      <FlaborText>Rarely, I feel as if time has stopped. Fleeting moments of silence sometimes befall me.</FlaborText>
+เพิ่มเพจ 'เงียบงัน' เข้าสู่มือ: ‘คอส 0 - [เมื่อเล่น] ได้รับดาเมจเป็น 15%ของMax HP ผู้ใช้ ตัวละครทุกตัวลดความเร็วไป 5 หน่วย’
+เพิ่มเพจ 'ขยายฤทธิ์' เข้าสู่มือ: ‘คอส 0 - [เมื่อเล่น] ได้รับดาเมจเป็น 10%ของMax HP ผู้ใช้ ได้รับความเร็ว 5 หน่วย'
+เพจนี้จะถูกรวมเข้าไปในเด็คเมื่อเริ่มองก์ถัดไปด้วย</AbilityDesc>
+      <FlaborText>นานๆที ฉันรู้สึกอย่างกับว่าเวลาถูกหยุดลง บางทีความเงียบงันนี้ก็จะเกิดขึ้นกับฉัน</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Silence does not always bring peace.</Dialogue>
         <Dialogue ID="2">An instant of silence, as if time had stopped.</Dialogue>
@@ -2124,11 +2124,11 @@ The page is also included in the deck at the start of subsequent Acts.</AbilityD
     
     <AbnormalityCard ID="BlueStar_martyrdom">
       <Abnormality>Blue Star</Abnormality>
-      <CardName>Martyr</CardName>
+      <CardName>ถวายชีพ</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Add a 'Martyr' page to hand: ‘Cost 0 - [On Play] For this Scene, deal 4-6 bonus Stagger damage with attacks but take 1-3 damage after a successful attack’.
-The page is also included in the deck at the start of subsequent Acts.</AbilityDesc>
-      <FlaborText>Let us meet again as stars.</FlaborText>
+เพิ่มเพจ 'ถวายชีพ' เข้าสู่มือ: ‘คอส 0 - [เมื่อเล่น] เมื่อโจมตีในฉากนี้ ทำดาเมจStaggerมากขึ้น 4-6 แต่เมื่อโจมตีสำเร็จ ได้รับ 1-3 ดาเมจ’.
+เพจนี้จะถูกรวมเข้าไปในเด็คเมื่อเริ่มองก์ถัดไปด้วย</AbilityDesc>
+      <FlaborText>เราจะได้พบกันใหม่ในฐานะดวงดาว</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Let’s relish eternal happiness at the end of this universe together.</Dialogue>
         <Dialogue ID="2">Life cannot resist the instincts; we all go back to that place someday.</Dialogue>
@@ -2138,10 +2138,10 @@ The page is also included in the deck at the start of subsequent Acts.</AbilityD
     
         <AbnormalityCard ID="BlueStar_Atonement">
       <Abnormality>Blue Star</Abnormality>
-      <CardName>Penance</CardName>
+      <CardName>ยัญกรรม</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-If any character is Staggered at the start of the Scene, they take 3-7 damage, and all allies gain 1 Strength for the Scene. (Multiple Staggered characters do not give more Strength)</AbilityDesc>
-      <FlaborText>Our Blue Star is the only sanctuary that accepts us. We will be cleansed of our sins there.</FlaborText>
+เมื่อเริ่มฉาก หากตัวละครใดๆ Stagger ตัวละครนั้นได้รับดาเมจ 3-7 หน่วย และพันธมิตรทุกคนได้รับ 1 กำลังในฉากนี้(ในหนึ่งฉากจะให้ กำลัง เพียงครั้งเดียว)</AbilityDesc>
+      <FlaborText>Blue Star ของเราคือสถานศักดิ์สิทธิ์แห่งสุดท้ายที่ยอมรับพวกเรา ด้วยที่แห่งนี้ เราจะถูกล้างบาปจนสิ้น</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Let us completely take off this filthy husk and shine brightly.</Dialogue>
         <Dialogue ID="2">We shouldn’t let our anxiety fester inside us, busying ourselves trying to forget our wrongdoings by erasing them.</Dialogue>
@@ -2151,10 +2151,10 @@ If any character is Staggered at the start of the Scene, they take 3-7 damage, a
     
         <AbnormalityCard ID="BlueStar_Melody">
       <Abnormality>Blue Star</Abnormality>
-      <CardName>A Nostalgic Sound</CardName>
+      <CardName>เสียงเรียกจากวันวาน</CardName>
       <AbilityDesc>[พันธมิตรทุกคน]
-All allies deal +2-4 Stagger damage for this Scene. The effect of this page activates every 3 Scenes afterwards.</AbilityDesc>
-      <FlaborText>The rise of a star is a brand new beginning. Don’t you hear the everlasting sound of the trumpet?</FlaborText>
+ในฉากนี้ และในอีกทุกๆสามฉากจากนี้ พันธมิตรทุกคนทำดาเมจStagger มากขึ้น 2-4 หน่วย</AbilityDesc>
+      <FlaborText>การที่ดวงดาวเชิดฉาย สื่อถึงการเริ่มต้นใหม่ คุณไม่ได้ยินเสียงแตรแห่งนิรันดร์หรอ?</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Can you hear this sound? The nostalgic echo we’ve been eagerly searching for?</Dialogue>
         <Dialogue ID="2">Aah… At last…! It’s calling for us at last!</Dialogue>
@@ -2164,11 +2164,11 @@ All allies deal +2-4 Stagger damage for this Scene. The effect of this page acti
     
     <AbnormalityCard ID="WhiteNight_Bless">
       <Abnormality>WhiteNight</Abnormality>
-      <CardName>Baptism</CardName>
+      <CardName>ล้างบาป</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-Add a 'Baptism' page to hand: ‘Cost 2 - [On Play;] [Return to Hand] Target recovers 6 HP and gains 1 Endurance this Scene (Once per Scene)’.
-The page is also included in the deck at the start of subsequent Acts.</AbilityDesc>
-      <FlaborText>“I shall heal you, curing you of all disease and injury you possess.”</FlaborText>
+เพิ่มเพจ 'ล้างบาป' เข้าสู่มือ: ‘คอส 2 - [เมื่อเล่น] [กลับขึ้นมือ] เป้าหมายฟื้นฟู 6 HP และได้รับ 1 อึดทน ในฉากนี้ (หนึ่งครั้งต่อฉาก)’.
+เพจนี้จะถูกรวมเข้าไปในเด็คเมื่อเริ่มองก์ถัดไปด้วย</AbilityDesc>
+      <FlaborText>“ข้าจะรักษาเจ้าเอง ไม่ว่าจะโรคภัยหรือบาดแผลใดๆที่เจ้ามีอยู่”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I am here to treat disease.</Dialogue>
         <Dialogue ID="2">Place your trust in me. I am the only one who can help you.</Dialogue>
@@ -2179,11 +2179,11 @@ The page is also included in the deck at the start of subsequent Acts.</AbilityD
     
         <AbnormalityCard ID="WhiteNight_Red">
       <Abnormality>WhiteNight</Abnormality>
-      <CardName>Advent</CardName>
+      <CardName>เทพอวตาร</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-For the duration of the reception, restore 1 additional Light at the start of the Scene.
-If the selected librarian also has the Abnormality page 'Baptism', its effect is enhanced: ‘Target recovers 12 HP and gains 2 Endurance this Scene’.</AbilityDesc>
-      <FlaborText>“I am death and life. Darkness and light.”</FlaborText>
+จนจบReceptionนี้ ฟื้นฟูแสงเพิ่มเติม 1 หน่วย เมื่อเริ่มฉาก
+หากบรรณารักษ์มีAbnormality page ชื่อว่า 'ล้างบาป', พลังของเพจ'ล้างบาป'ถูกทวีคูณ: ‘เป้าหมายฟื้นฟู 12 HP และได้รับ 2 อึดทน ในฉากนี้’.</AbilityDesc>
+      <FlaborText>“ข้าคือชีวันและมรณา เทวัญและอสุรา”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Ye who are drenched in sin. Rise and face me.</Dialogue>
         <Dialogue ID="2">I have not manifested myself in such a form to lay judgement.</Dialogue>
@@ -2194,11 +2194,11 @@ If the selected librarian also has the Abnormality page 'Baptism', its effect is
     
     <AbnormalityCard ID="WhiteNight_Confess">
       <Abnormality>WhiteNight</Abnormality>
-      <CardName>Confession</CardName>
+      <CardName>สารภาพบาป</CardName>
       <AbilityDesc>[พันธมิตรทุกคน]
-Fully recover Stagger Resist, and purge all status ailments. (Also applies to Staggered librarians)
-For the duration of the reception, take 2 less Stagger damage from attacks.</AbilityDesc>
-      <FlaborText>To be willing to bear pain is half the atonement.</FlaborText>
+ฟื้นฟูStagger Resistทั้งหมด และลบล้างสถานะทางลบทั้งหมด (หากบรรณารักษ์Staggerอยู่ ก็ได้รับผลเช่นกัน)
+จนจบReceptionนี้ รับดาเมจStaggerจากการโจมตีลดลง 2 หน่วย</AbilityDesc>
+      <FlaborText>เพียงแค่พร้อมที่จะรับผิด นั่นก็เป็นการครึ่งหนึ่งของทางไถ่บาปแล้ว</FlaborText>
       <Dialogues>
         <Dialogue ID="1">…</Dialogue>
         <Dialogue ID="2">… …</Dialogue>
@@ -2208,11 +2208,11 @@ For the duration of the reception, take 2 less Stagger damage from attacks.</Abi
     
     <AbnormalityCard ID="WhiteNight_Guard">
       <Abnormality>WhiteNight</Abnormality>
-      <CardName>Sentinel</CardName>
+      <CardName>ผู้เฝ้ามอง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-As long as there are other allies whom can be targeted, the selected librarian will not be targeted for attacks.
-If this character is alive at the end of the reception, resolve an additional book for every guest defeated.</AbilityDesc>
-      <FlaborText>“Thou art His Son; thou art the King.”</FlaborText>
+ตราบใดที่ยังมีพันธมิตรอื่นให้เป็นเป้าหมาย บรรณารักษ์คนนี้จะไม่ถูกเล็งเป็นเป้าหมายในการโจมตี
+หากตัวละครนี้อยู่รอดจนจบReception ได้รับหนังสือเพิ่มเติม 1 เล่มต่อหนังสือทุกๆเล่มที่ได้</AbilityDesc>
+      <FlaborText>“พระองค์ทรงเป็นบุตรแห่งเทพ; พระองค์ทรงเป็นราชันย์.”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Ye who are full of blessings, rejoice. For I am with ye.</Dialogue>
         <Dialogue ID="2">I shall guide you to the paradise that welcomes everyone.</Dialogue>
@@ -2223,11 +2223,11 @@ If this character is alive at the end of the reception, resolve an additional bo
     
     <AbnormalityCard ID="WhiteNight_White">
       <Abnormality>WhiteNight</Abnormality>
-      <CardName>Divine Power</CardName>
+      <CardName>ฤทธิ์เทพเทวะ</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-While this character is alive, all other allies gain 2 Protection each Scene.
-If this character has used WhiteNight's E.G.O page, allies also absorb instances of 3 or less damage.</AbilityDesc>
-      <FlaborText>“Be not frightened. I am thy savior and I shall be with thee.”</FlaborText>
+หากตัวละครนี้ยังคงมีชีวิตอยู่ พันธมิตรทุกคนได้รับ 2 เกราะ ในทุกๆเทิร์น
+หากตัวละครนี้ใช้เพจ E.G.O ของWhiteNight พันธมิตรทุกคนจะไม่ได้รับดาเมจที่น้อยกว่า 3 หน่วย</AbilityDesc>
+      <FlaborText>“อย่าได้หวั่นกลัว. ข้าคือผู้กอบกู้ ข้าจะอยู่กับเจ้าเสมอ”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Be at ease. No calamity shall be able to trouble you.</Dialogue>
         <Dialogue ID="2">Ye will gain a body free of such corruption, so how could one deny that this is salvation.</Dialogue>
@@ -2238,11 +2238,11 @@ If this character has used WhiteNight's E.G.O page, allies also absorb instances
     
     <AbnormalityCard ID="WhiteNight_Apostle">
       <Abnormality>WhiteNight</Abnormality>
-      <CardName>Apostles</CardName>
+      <CardName>อัครสาวก</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-While this character is alive, all other allies deal +2-7 damage with attacks.
-If the character has used 'Baptism' 12 or more times this reception, allies also gain +1 Power.</AbilityDesc>
-      <FlaborText>“Have not I chosen you twelve? Now rise, my servants. Rise and serve me.”</FlaborText>
+หากตัวละครนี้ยังคงมีชีวิตอยู่ พันธมิตรทุกคนทำดาเมจจากการโจมตีมากขึ้น 2-7 หน่วย
+ถ้าตัวละครนี้ใช้ 'ล้างบาป' ในReceptionนี้ 12ครั้งหรือมากกว่า พันธมิตรทุกคนได้รับพลังเพิ่ม 1 หน่วย</AbilityDesc>
+      <FlaborText>“ข้าเลือกเจ้าไปแล้วมิใช่รึ อัครองค์ 12? จงตื่นขึ้นมาเสีย ผู้รับใช้แห่งข้า จงปรนนิบัติข้า”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Pursue peace and holiness. Without these, ye shan’t look at me.</Dialogue>
         <Dialogue ID="2">Those who endure until the end will be able to proceed.</Dialogue>
@@ -2257,7 +2257,7 @@ If the character has used 'Baptism' 12 or more times this reception, allies also
     <AbnormalityCard ID="Enemy_Fight">
       <Abnormality></Abnormality>
       <CardName>???</CardName>
-      <AbilityDesc>At the start of the Scene, gain 1 Strength.</AbilityDesc>
+      <AbilityDesc>เมื่อเริ่มฉาก ได้รับ 1 กำลัง.</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
@@ -2267,7 +2267,7 @@ If the character has used 'Baptism' 12 or more times this reception, allies also
     <AbnormalityCard ID="Enemy_Gloom">
       <Abnormality></Abnormality>
       <CardName>???</CardName>
-      <AbilityDesc>At the start of the Scene, gain 1 Feeble and 2 Endurance.</AbilityDesc>
+      <AbilityDesc>เมื่อเริ่มฉาก ได้รับ 1 อ่อนแรง และ 2 อึดทน</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
@@ -2277,7 +2277,7 @@ If the character has used 'Baptism' 12 or more times this reception, allies also
     <AbnormalityCard ID="Enemy_Friend">
       <Abnormality></Abnormality>
       <CardName>? ? ?</CardName>
-      <AbilityDesc>When another ally gets attacked, gain 1 Strength next Scene (Twice per Scene)</AbilityDesc>
+      <AbilityDesc>เมื่อพันธมิตรคนอื่นถูกโจมตี ได้รับ 1 กำลัง ในฉากหน้า(2 ครั้งต่อฉาก)</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
@@ -2287,7 +2287,7 @@ If the character has used 'Baptism' 12 or more times this reception, allies also
     <AbnormalityCard ID="Enemy_Bind">
       <Abnormality></Abnormality>
       <CardName>? ? ?</CardName>
-      <AbilityDesc>At the start of the Scene, gain 1 Endurance.</AbilityDesc>
+      <AbilityDesc>เมื่อเริ่มฉาก ได้รับ 1 อึดทน</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
