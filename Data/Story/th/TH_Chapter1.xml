@@ -2311,7 +2311,7 @@
           <Teller>ยุน</Teller>
           <Title>นายหน้าสำนักงาน</Title>
           <VoiceFile>ch1_Yun_ep3_yun12</VoiceFile>
-          <Content>หุบปาก เราทุกคนล้วนจะถูกใช้ให้ประโยชน์และถูกทอดทิ้งในช่วงหนึ่งของชีวิตอยู่แล้ว</Content>
+          <Content>หุบปาก เราทุกคนล้วนจะถูกใช้ประโยชน์และถูกทอดทิ้งในช่วงหนึ่งของชีวิตกันอยู่แล้ว</Content>
         </Dialog>
         <Dialog ID="33" model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -2324,54 +2324,54 @@
     <Episode>
       <EpisodeName>Episode 3 - Conclusion</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="0" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela10</VoiceFile>
-          <Content>Excellent. This guest named Yun could make an especially valuable book for us.</Content>
+          <Content>ยอดเยี่ยม แขกคนที่ชื่อยุน สามารถกลายเป็นหนังสือที่มีค่าสำหรับเราได้</Content>
         </Dialog>
         <Dialog ID="1" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland4</VoiceFile>
-          <Content>They’re all like moths diving into flames.</Content>
+          <Content>พวกเขาทั้งหมดเหมือนกับแมลงเม่าที่บินเข้ากองไฟเลยนะ</Content>
         </Dialog>
         <Dialog ID="2" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland5</VoiceFile>
-          <Content>That Yun guy seemed like a clever sort, but even he ended up blindly jumping into the fire to get what he wanted.</Content>
+          <Content>คนชื่อยุนคนนั้นดูเหมือนเป็นคนฉลาด แต่เขาก็จบลงด้วยการกระโดดเข้าไปในกองไฟอย่างสุ่มสี่สุ่มห้าเพื่อให้ได้ในสิ่งที่เขาต้องการ</Content>
         </Dialog>
         <Dialog ID="3" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela11</VoiceFile>
-          <Content>“Once you’ve had a taste of desire, it comes in like an unstoppable wave.” It’s a quote I heard a long time ago. </Content>
+          <Content>“เมื่อคุณได้สัมผัสตามความปรารถนาแล้วสักครั้ง มันจะถาโถมเข้ามาเหมือนคลื่นที่ไม่สามารถหยุดได้” มันเป็นคำคมที่ฉันได้ยินมานานแล้ว</Content>
         </Dialog>
         <Dialog ID="4" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela12</VoiceFile>
-          <Content>But is that desire true to one’s heart…?</Content>
+          <Content>แต่ความปรารถนานั้นเป็นความปรารถนาที่แท้จริงในใจของคนหรือเปล่าล่ะ…?</Content>
         </Dialog>
         <Dialog ID="5" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland6</VoiceFile>
-          <Content>Well, aren’t you funny? You said you despise roundabout speech, and now you’re being all poetic.</Content>
+          <Content>นี่ดูฮามากเลยนะ เธอพูดว่าเกลียดการพูดเยอะและวกไปวนมา แต่ตอนนี้เธอเริ่มพูดเป็นเจ้าบทเจ้ากลอนแทนซะหมด</Content>
         </Dialog>
         <Dialog ID="6" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland7</VoiceFile>
-          <Content>Ten out of ten delivery, a certain librarian I know would have taken an arm and a leg off if she heard that.</Content>
+          <Content>ให้ 10 เต็ม 10 บรรณารักษ์บางผู้คนที่ฉันรู้จักอาจจะถอดแขนและขาของฉันได้หากได้ยินสิ่งนั้น</Content>
         </Dialog>
         <Dialog ID="7" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Yun_ep3_angela13</VoiceFile>
-          <Content>Sigh… Get back to sorting books.</Content>
+          <Content>เห้อ… กลับไปจัดหนังสือโน้นเลย</Content>
         </Dialog>
       </Place>
     </Episode>
