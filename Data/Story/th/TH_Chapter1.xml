@@ -2539,118 +2539,118 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland1</VoiceFile>
-          <Content>Even rascals like those can join Offices these days, huh.</Content>
+          <Content>แม้แต่พวกอันธพาลพวกนี้ก็ยังเข้าร่วมสำนักฟิกเซอร์ได้ในทุกวันนี้ แฮะ</Content>
         </Dialog>
         <Dialog ID="26" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland2</VoiceFile>
-          <Content>The whole market’s a red ocean. Everyone wants to be a Fixer.</Content>
+          <Content>ทั่วทั้งตลาดแข่งขันกันรุนแรง ไม่ว่าใครก็อยากเป็นฟิกเซอร์กันน่ะ</Content>
         </Dialog>
         <Dialog ID="27" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela1</VoiceFile>
-          <Content>And that doesn’t count as raking yourself over the coals, because…?</Content>
+          <Content>แล้วนั้นที่ไม่นับตัวเองกับพวกนั้นด้วย นั้นเพราะ…?</Content>
         </Dialog>
         <Dialog ID="28" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland3</VoiceFile>
-          <Content>…Listen, I may not look like it, but I used to be hot stuff, y’know?</Content>
+          <Content>…ฟังนะ อาจจะดูไม่เหมือน แต่ฉันเคยเป็นคนที่ฮอตมากๆเลยนะ รู้ไหม?</Content>
         </Dialog>
         <Dialog ID="29" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland4</VoiceFile>
-          <Content>But then things happened and I fell to rock bottom.</Content>
+          <Content>แต่แล้วก็เกิดเรื่องขึ้นแล้วฉันก็ตกลงมาอยู่จุดต่ำสุดของชีวิต</Content>
         </Dialog>
         <Dialog ID="30" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela2</VoiceFile>
-          <Content>So, what did you do for a living?</Content>
+          <Content>งั้น นายใช้ชีวิตอยู่มาจนป่านนี้ได้ยังไงล่ะ?</Content>
         </Dialog>
         <Dialog ID="31" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland5</VoiceFile>
-          <Content>I did all kinds of stuff, really. Doing things within my ability!</Content>
+          <Content>ฉันก็ทำทุกอย่างจริงๆนะ ทำทุกอย่างที่ความสามารถของฉันพอไหวน่ะ!</Content>
         </Dialog>
         <Dialog ID="32" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela3</VoiceFile>
-          <Content>Hmm. Is that so?</Content>
+          <Content>หืมม เป็นอย่างนั้นเอง?</Content>
         </Dialog>
         <Dialog ID="33" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela4</VoiceFile>
-          <Content>That means you didn’t get to do any proper work, then.</Content>
+          <Content>นั่นหมายความว่านายไม่เคยได้รับงานที่เหมาะสมเลยสินะ</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าห้องสมุด</PlaceName>
         <Dialog ID="34" model="나오키">
           <Teller>นาโอกิ</Teller>
           <Title>ฟิกเซอร์ตะขอ</Title>
           <VoiceFile>ch1_Hook_ep1_naoki11</VoiceFile>
-          <Content>Wow, we really did teleport in the blink of an eye.</Content>
+          <Content>ว้าว เราถูกส่งมาที่นี่ในพริบตาเลย</Content>
         </Dialog>
         <Dialog ID="35" model="태인">
           <Teller>แทอิน</Teller>
           <Title>ฟิกเซอร์ตะขอ</Title>
           <VoiceFile>ch1_Hook_ep1_taein9</VoiceFile>
-          <Content>Is this one of those Singularities?</Content>
+          <Content>นี่เป็นหนึ่งใน Singularities นั้นหรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="36" model="맥컬린">
           <Teller>แมคคัลลิน</Teller>
           <Title>ฟิกเซอร์ตะขอ</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin8</VoiceFile>
-          <Content>Lots of surprises these days.</Content>
+          <Content>วันนี้มีเรื่องให้ประหลาดใจมากมายเลย</Content>
         </Dialog>
         <Dialog ID="37" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela5</VoiceFile>
-          <Content>Greetings, dear guests.</Content>
+          <Content>สวัสดีค่ะ แขกผู้เกียรติ์</Content>
         </Dialog>
         <Dialog ID="38" model="나오키">
           <Teller>นาโอกิ</Teller>
           <Title>ฟิกเซอร์ตะขอ</Title>
           <VoiceFile>ch1_Hook_ep1_naoki12</VoiceFile>
-          <Content>Hi there?</Content>
+          <Content>ดีค่าาา?</Content>
         </Dialog>
         <Dialog ID="39" model="태인">
           <Teller>แทอิน</Teller>
           <Title>ฟิกเซอร์ตะขอ</Title>
           <VoiceFile>ch1_Hook_ep1_taein10</VoiceFile>
-          <Content>What the… She’s pretty damn sturdy. How much did you spend on that bod? </Content>
+          <Content>อะไรเนี้ย… ร่างกายเธอแข็งเป็นบ้า ต้องใช้เงินเท่าไหร่กับร่างกายแบบนั้นกัน? </Content>
         </Dialog>
         <Dialog ID="40" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela6</VoiceFile>
-          <Content>There is no need to needlessly exhaust yourself, dear guest.</Content>
+          <Content>ไม่จำเป็นต้องทำให้ตัวเองเหนื่อยโดยไม่จำเป็นนะค่ะแขก</Content>
         </Dialog>
         <Dialog ID="41" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela7</VoiceFile>
-          <Content>You’ll need to rampage with all you have soon enough.</Content>
+          <Content>คุณจะได้อาละวาดได้เต็มที่ในอีกไม่ช้า</Content>
         </Dialog>
         <Dialog ID="42" model="태인">
           <Teller>แทอิน</Teller>
           <Title>ฟิกเซอร์ตะขอ</Title>
           <VoiceFile>ch1_Hook_ep1_taein11</VoiceFile>
-          <Content>I don’t like your soft tone.</Content>
+          <Content>ฉันไม่ชอบน้ำเสียงอ่อนนุ่มของเธอเลยแฮะ</Content>
         </Dialog>
         <Dialog ID="43" model="나오키">
           <Teller>นาโอกิ</Teller>
           <Title>ฟิกเซอร์ตะขอ</Title>
           <VoiceFile>ch1_Hook_ep1_naoki13</VoiceFile>
-          <Content>You’re not human, are you?</Content>
+          <Content>เธอน่ะไม่ใช่มนุษย์ ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="44" model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -2661,49 +2661,49 @@
           <Teller>แทอิน</Teller>
           <Title>ฟิกเซอร์ตะขอ</Title>
           <VoiceFile>ch1_Hook_ep1_taein12</VoiceFile>
-          <Content>Ooh, look at her face now. Guess she really isn’t?</Content>
+          <Content>โอ้ว ดูหน้าเธอตอนนี้สิ คิดว่าเธอเป็นมนุษย์รึเปล่าล่ะ?</Content>
         </Dialog>
         <Dialog ID="46" model="맥컬린">
           <Teller>แมคคัลลิน</Teller>
           <Title>ฟิกเซอร์ตะขอ</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin9</VoiceFile>
-          <Content>Yet another surprise. It’s so rare to meet a sapient being that isn’t human in this City.</Content>
+          <Content>ยังทำให้แปลกใจได้อีกแฮะ มันหายากมากที่จะเจอกับสิ่งมีชีวิตที่มีสติปัญญาแต่ไม่ใช่มนุษย์ในเมืองนี้</Content>
         </Dialog>
         <Dialog ID="47" model="나오키">
           <Teller>นาโอกิ</Teller>
           <Title>ฟิกเซอร์ตะขอ</Title>
           <VoiceFile>ch1_Hook_ep1_naoki14</VoiceFile>
-          <Content>I know, right? We might get a ton of cash out of this! </Content>
+          <Content>ฉันก็คิดงั้นเหมือนกัน? เราอาจจะโกยเงินได้มากมายจากที่นี่!</Content>
         </Dialog>
         <Dialog ID="48" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela8</VoiceFile>
-          <Content>…May you find your book in this place.</Content>
+          <Content>…ขอให้คุณพบหนังสือที่ต้องการ</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>Episode 1 - Conclusion</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="0" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela9</VoiceFile>
-          <Content>Great work as always. I could learn more about the Offices thanks to these guests.</Content>
+          <Content>ทำได้ดีเช่นเคย ฉันได้เรียนรู้เพิ่มเติมเกี่ยวกับสำนักฟิกเซอร์ ต้องขอบคุณแขกเหล่านั้น</Content>
         </Dialog>
         <Dialog ID="1" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland6</VoiceFile>
-          <Content>I, uh… Don’t get too bothered by what they said about you, alright?</Content>
+          <Content>ฉัน เอ่อ… อย่าใส่ใจเกี่ยวกับคำพูดของพวกนั้นที่ว่าเธอเลยนะ โอเค?</Content>
         </Dialog>
         <Dialog ID="2" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Hook_ep1_angela10</VoiceFile>
-          <Content>Are you trying to console me?</Content>
+          <Content>นี่นายพยายามจะปลอบฉันหรอ?</Content>
         </Dialog>
         <Dialog ID="3" model="롤랑">
           <Teller>โรแลนด์</Teller>
