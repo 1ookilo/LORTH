@@ -3,79 +3,79 @@
   <GroupName>Hook Office</GroupName>
   <Character ID="Naoki">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Let’s see, are you guys also not human? Maybe I’ll find out once I bust up every single one of you?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">I’m gonna crush you all, so get ready!</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Get ready. I am gonna win this for sure.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">เอาล่ะ มาดูกันหน่อย ว่าพวกนายเป็นมนุษย์กันรึเปล่า? บางทีฉันจะค้นพบได้เมื่อฉันได้ทำลายทุกคนทั้งหมดไปแล้ว?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ฉันจะบดขยี้พวกแกทุกคน เตรียมตัวไว้ให้ดี!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">เตรียมตัวไว้ซะเถอะ เพราะฉันต้องชนะแน่นอน</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Haha, this is way too easy! We barely did anything.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">This is our chance to earn the favor of our boss. Time to earn some riches~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ฮ่าๆ นี่มันก็ง่ายเกิ๊น! พวกเรายังไม่ได้เอาจริงเลยนะ จะบอกให้</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">นี่เป็นโอกาสที่เราจะได้โชว์ฝีมือให้บอสได้เห็น ได้เวลาโกยตังแล้ว~</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">What the heck… I was too careless. Lame, lame, lame lame!</BattleDialog>
-      <BattleDialog ID="DEATH_1">These fucks… are strong… Dammit, I thought I could make it through this…!</BattleDialog>
+      <BattleDialog ID="DEATH_0">อะไรกัน… ฉันประมาทเกินไปสินะ แย่แล้ว แย่แล้ว แย่แล้ว!</BattleDialog>
+      <BattleDialog ID="DEATH_1">เจ้าพวกนี้… แข็งแกร่ง… บ้าเอ้ย ฉันคิดว่าฉันจะผ่านมันได้อยู่แล้วเชียว…!</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">It’s not all too pleasing to see my colleague die.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">And you boasted so much about how you’re the strongest. …That’s what ya get.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">You know how lame it is to be a burden till the end, yeah?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">ไม่แฮปปี้เลยแหะ เมื่อเห็นเพื่อนตายเนี้ย</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">ก็เห็นคุยอยู่ตลอดว่าเก่งจัด …นั้นมันสภาพอะไรของนายกัน</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">นายรู้รึเปล่ามันแย่มากที่มีภาระตั้งแต่ต้นจนถึงตอนสุดท้ายน่ะ</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">I wanna slash you some more, but… You’re already a mess, so I’ll hafta move on.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Whoever stands in my way is getting wrecked, that’s all.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">How does it feel to be on the receiving end of my thrilling blade?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ฉันก็อยากฟันแกอีกนะ แต่… แกเละไปแล้ว</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ใครที่ขวางทางของฉัน ต้องถูกทำลาย</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">รู้สึกอย่างไรเมื่อโดนใบมีดของฉันเฉือน ตื่นเต้นดีรึเปล่า?</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT" />
   </Character>
   <Character ID="McCullin">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Sigh… My body’s still feeling sore. A shame I can’t fight in my best condition.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Careful there. This is gonna hurt bad if it hits you in the wrong spot.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">We’re fully prepared for this.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">เฮ้อ… ร่างกายของฉันยังรู้สึกปวดอยู่เลย น่าเสียดายจังที่ฉันสู้ได้ไม่เต็มร้อย</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ระวังหน่อยนะ ถ้าโดนผิดตำแหน่งมันจะเจ็บมากเลย</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">เราเตรียมพร้อมที่สุดแล้ว</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Well, money is one thing, but it’s just a bit too anticlimatic to turn into books right after death.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">I was expecting to have some small fun with your bodies, like tearing them apart and hanging ‘em on a hook. …That’s a bit unfortunate.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">เงินเป็นสิ่งสำคัญนะ แต่มันก็ดูน่าผิดหวังไปหน่อยที่จะกลายเป็นหนังสือทันทีหลังจากตายไป</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">ฉันหวังว่าจะได้สนุกกับร่างกายของแกสักหน่อย อย่างเช่น ฉีกมันเป็นชิ้นๆ แล้วแขวนไว้กับตะขอ  …มันช่างน่าเสียดายจริงๆ</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">It’s… not over yet… I can’t fall to the likes of you, I’m better than that…!</BattleDialog>
-      <BattleDialog ID="DEATH_1">They got me good… This can’t be happening…!</BattleDialog>
+      <BattleDialog ID="DEATH_0">ยัง… มันยังไม่จบ… ฉันแพ้ให้กับพวกแกไม่ได้ ฉันต้องทำได้ดีกว่านี้…!</BattleDialog>
+      <BattleDialog ID="DEATH_1">โดนอย่างจังเลย… มันไม่ควรเป็นแบบนี้เซ่…!</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">A fitting end for a rash idiot like you.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">I’ll avenge your death.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">Should have been a bit more careful.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">ก็เป็นจุดจบที่เหมาะสำหรับคนงี่เง่าอย่างแกดีนะ</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">ฉันจะล้างแค้นให้กับนายแน่เพื่อน</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">ก็ระวังให้มากกว่านี้หน่อยเซ่</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Why’d you bother holding out if you were gonna get wrecked anyway.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">What? Come on, you can’t die so soon, I didn’t even get started with the real fun.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Weaklings, weaklings everywhere.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ทำไมถึงฝืนต่อสู้ต่อล่ะ ไม่ว่ายังไงก็ต้องตายอยู่ดี</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">อะไรกัน? ไม่เอาน่า แกยังตายไม่ได้นะ ฉันยังไม่ได้เริ่มกับความสนุกที่แท้จริงเลย</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">นั้นก็อ่อนแอ นี่ก็อ่อนแอ มีแต่คนอ่อนแอ</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT" />
   </Character>
   <Character ID="Taein">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Let’s get this over with, aight? No point dragging on.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">I could easily dodge all your attacks with my hands in pockets man.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Why don’t you just hand over the goods before we mess you up real bad?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">มาจบเรื่องนี้กันเถอะ โอเคป่ะ? ไม่มีประโยชน์ที่จะยืดเยื้อให้มากกว่านี้</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ฉันหลบการโจมตีของนายได้ง่ายๆ แม้ว่ามือของฉันยังล้วงกระเป๋าอยู่</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ทำไมพวกนายไม่ยอมวางมือดูล่ะ ก่อนที่พวกเราจะอัดพวกนายให้เละจนไม่เหลือซาก?</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Huh, so it was this easy to make a fortune and straighten out my life?</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Don’t you ever tell anyone that you’re guardians of cool treasures or anything. I’m honestly embarrassed for you.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ฮะ วันที่มีโชคและจะได้ใช้ชีวิตสบายๆ มันได้มาง่ายๆขนาดนี้เลยหรอ?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">อย่าไปบอกใครนะว่านายเป็นคนคุ้มกันที่นี่ ฉันละอายแทนว่ะ</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Can’t believe I’ve lost against these suckers… Dammit…</BattleDialog>
-      <BattleDialog ID="DEATH_1">They were predicting my moves…</BattleDialog>
+      <BattleDialog ID="DEATH_0">ไม่อยากเชื่อเลยว่าฉันคนนี้ จะแพ้ให้กับพวกห่วยๆ อย่างพวกนี้… บ้าเอ้ย…</BattleDialog>
+      <BattleDialog ID="DEATH_1">พวกแกอ่านการเคลื่อนไหวของฉันได้ไงกัน…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">That’s what you get for standing around and taking all those hits to the face.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Idiot. You stood still and took it all.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">Well, shoot… Guess you never really know how things will go, huh.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">นั่นคือผลที่ได้เพราะนายเอาแต่ยืนรับการโจมตีอยู่ตรงหน้า</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">เจ้าโง่ มัวแต่เหม่อแล้วโดนทุกดอก</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">นั้นไง… เดาว่านายคงไม่คาดว่ามันจะเป็นแบบนั้น ใช่ไหมล่ะ</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">I’d have crushed your head to bits if we weren’t in this weird place.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Tsk, and I got a brand new weapon, too… You’re too weak to test it on.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">C’mon, try to hold out for longer so I can actually enjoy this!!!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ฉันคงทุบหัวแกเละกว่านี้แน่ ถ้าเราไม่ได้อยู่ในที่แปลกๆแบบนี่</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">จิ๊ ฉันเพิ่งได้อาวุธใหม่มาด้วย… พวกแกอ่อนแอเกินกว่าจะใช้ทดสอบกับมัน</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">มาสิ ช่วยทนอีกหน่อยเพื่อให้ฉันได้สนุกกับมันได้มากกว่านี้!!!</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT" />
   </Character>
