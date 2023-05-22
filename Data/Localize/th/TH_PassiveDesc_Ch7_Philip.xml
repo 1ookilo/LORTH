@@ -1,86 +1,98 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <PassiveDesc ID="1301011">
-    <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
-    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1301012">
-    <Name>ดาบอันเผาไหม้</Name>
-    <Desc>While Overheated: inflict 1 Burn to target on hit, and inflict 1 Burn to attacker when hit.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1301013">
-    <Name>ดาบอันเผาไหม้</Name>
-    <Desc>While Overheated: inflict 1 Burn to target on hit, and inflict 1 Burn to attacker when hit.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1301014">
-    <Name>เพลิงเอ๋ยจงลุกโชน</Name>
-    <Desc>Inflict 1 Burn to target on hit, and inflict 1 Burn to attacker when hit.</Desc>
-  </PassiveDesc>
+<PassiveDesc ID="1301011">
+<Name>ประกายแสง</Name>
+<Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
+เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1301012">
+<Name>ดาบอันเผาไหม้</Name>
+<Desc>ระหว่างที่ร้อนระอุทำงานอยู่:
+เมื่อโจมตีสำเร็จ มอบ 1 เผาไหม้ใส่เป้าหมาย
+และมอบ 1 เผาไหม้ให้ตนเองด้วย</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1301013">
+<Name>ดาบอันเผาไหม้</Name>
+<Desc>ระหว่างที่ร้อนระอุทำงานอยู่:
+เมื่อโจมตีสำเร็จ มอบ 1 เผาไหม้ใส่เป้าหมาย
+และมอบ 1 เผาไหม้ให้ตนเองด้วย</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1301014">
+<Name>เพลิงเอ๋ยจงลุกโชน</Name>
+<Desc>เมื่อโจมตีสำเร็จ มอบ 1 เผาไหม้ใส่เป้าหมาย
+และเมื่อถูกโจมตีมอบ 1 เผาไหม้ผู้ที่โจมตีด้วย</Desc>
+</PassiveDesc>
 
-  <!--공용-->
-  <PassiveDesc ID="1301015">
-    <Name>หัวใจที่เยือกเย็น</Name>
-    <Desc>ไม่รับดาเมจจากเผาไหม้</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1301016">
-    <Name>ดาบแห่งอัคคี</Name>
-    <Desc>When inflicting Burn using Combat Pages, apply +1 additional stack.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1301017">
-    <Name>อารมณ์ระอุเดือด</Name>
-    <Desc>Whenever the Emotion Level rises, inflict 3 Burn to all characters, including self.
-Gain Power by half the current Emotion Level (Rounded down)</Desc>
-  </PassiveDesc>
-    <PassiveDesc ID="1301018">
-    <Name>ร้อนระอุ</Name>
-    <Desc>If the character has 15 or more Burn at the start of the Scene, become Overheated, dealing more damage with attacks but becoming more vulnerable to Stagger damage.</Desc>
-  </PassiveDesc>
+<!--공용-->
+<PassiveDesc ID="1301015">
+<Name>หัวใจที่เยือกเย็น</Name>
+<Desc>ไม่รับดาเมจจากเผาไหม้</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1301016">
+<Name>ดาบแห่งอัคคี</Name>
+<Desc>เมื่อมีการมอบเผาไหม้โดย Combat Pages
+มอบเพิ่มเติมอีก +1</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1301017">
+<Name>อารมณ์ระอุเดือด</Name>
+<Desc>เมื่อระดับอารมณ์เพิ่มขึ้น มอบ 1 เผาไหม้ใส่ทุกคนรวมทั้งตัวเอง
+ได้รับพลังเท่ากับครึ่งหนึ่งของระดับอารมณ์ (ปัดเศษลง)</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1301018">
+<Name>ร้อนระอุ</Name>
+<Desc>เมื่อเริ่มฉาก หากมีสถานะเผาไหม้ 15 จำนวนหรือมากกว่า
+เข้าสู่สถานะร้อนระอุ การโจมตีทำดาเมจมากขึ้น
+แต่รับดาเมจและดาเมจ Stagger ง่ายขึ้นเช่นกัน</Desc>
+</PassiveDesc>
 
-  <!--1페이즈에 나옴-->
-  <PassiveDesc ID="1301019">
-    <Name>หัวใจที่แตกระแหง</Name>
-    <Desc>HP does not go below 60% of Max HP. When Staggered, proceeds to the next phase, change resistances, and purge all status ailments from self.</Desc>
-  </PassiveDesc>
-  <!--2페이즈에 나옴-->
-  <PassiveDesc ID="1301030">
-    <Name>จิตที่สลายสิ้น</Name>
-    <Desc>When an Unspeaking Child is defeated, lose Power by the number of Unspeaking Children that have been put down so far next Scene.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1301032">
-    <Name>หัวใจจักลุกเป็นไฟ</Name>
-    <Desc>HP does not go below 30% of Max HP. When Staggered, proceeds to the next phase, change resistances, and purge all status ailments from self.</Desc>
-  </PassiveDesc>
-  
-  <PassiveDesc ID="1301021">
-    <Name>หัวใจเป็นเชื้อเพลิง</Name>
-    <Desc>Takes half as much damage from Burn. Starting with the Scene after it was spawned, gain 1 Strength and Endurance every Scene.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1301022">
-    <Name>ร้อนระอุ</Name>
-    <Desc>If the character has 15 or more Burn at the start of the Scene, become Overheated, dealing more damage with attacks but becoming more vulnerable to Stagger damage.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1301023">
-    <Name>ไหม้สลาย</Name>
-    <Desc>While Overheated: gain 3 Fragile each scene, and inflict 1 Burn to target on hit. Also, uses a different set of Combat Pages.</Desc>
-  </PassiveDesc>
+<!--1페이즈에 나옴-->
+<PassiveDesc ID="1301019">
+<Name>หัวใจที่แตกระแหง</Name>
+<Desc>HP จะไม่ลดไปต่ำกว่า 60% เมื่อ Staggered
+เข้าสู่ Phase ต่อไป เปลี่ยนระดับความทนทานทั้งหมด
+ลบล้างสถานะผิดปกติจากตนเองทั้งหมด</Desc>
+</PassiveDesc>
+<!--2페이즈에 나옴-->
+<PassiveDesc ID="1301030">
+<Name>จิตที่สลายสิ้น</Name>
+<Desc>เมื่อ Unspeaking Child ตายลง ลูกเต๋าทั้งหมดเสียพลังตามจำนวน Unspeaking Children ที่ตายลงในฉากต่อไป</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1301032">
+<Name>หัวใจจักลุกเป็นไฟ</Name>
+<Desc>HP จะไม่ลดไปต่ำกว่า 30% เมื่อ Staggered
+เข้าสู่ Phase ต่อไป เปลี่ยนระดับความทนทานทั้งหมด
+ลบล้างสถานะผิดปกติจากตนเองทั้งหมด</Desc>
+</PassiveDesc>
 
-  <!--뒤틀림-->
-  <PassiveDesc ID="1401011">
-    <Name>เพลิงที่ถูกส่งไป</Name>
-    <Desc>While alive, the first Offensive die allies play each engagement inflicts 1 Burn on hit.
+<PassiveDesc ID="1301021">
+<Name>หัวใจเป็นเชื้อเพลิง</Name>
+<Desc>Takes half as much damage from Burn. Starting with the Scene after it was spawned, gain 1 Strength and Endurance every Scene.</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1301022">
+<Name>ร้อนระอุ</Name>
+<Desc>If the character has 15 or more Burn at the start of the Scene, become Overheated, dealing more damage with attacks but becoming more vulnerable to Stagger damage.</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1301023">
+<Name>ไหม้สลาย</Name>
+<Desc>ระหว่างที่ร้อนระอุทำงานอยู่: gain 3 Fragile each scene, and inflict 1 Burn to target on hit. Also, uses a different set of Combat Pages.</Desc>
+</PassiveDesc>
+
+<!--뒤틀림-->
+<PassiveDesc ID="1401011">
+<Name>เพลิงที่ถูกส่งไป</Name>
+<Desc>While alive, the first Offensive die allies play each engagement inflicts 1 Burn on hit.
 After death, allies are inflicted with 1 Burn when hit.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1401012">
-    <Name>ร้อนทะลุขีด</Name> <!-- "Supra-" + "Heat" -->
-    <Desc>If the character has 10 or more Burn at the start of the Scene, become Overheated, dealing more damage.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1401014">
-    <Name>Scorching Desperation</Name>
-    <Desc>Every 3 Scenes: 'Scorching Desperation' is added to hand, which will be used the same Scene.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1401017">
-    <Name>Restraints</Name>
-    <Desc>On hit against a target with 3 or more stacks of 'Restraint', Immobilize them for the next Scene.</Desc>
-  </PassiveDesc>
+</PassiveDesc>
+<PassiveDesc ID="1401012">
+<Name>ร้อนทะลุขีด</Name> <!-- "Supra-" + "Heat" -->
+<Desc>If the character has 10 or more Burn at the start of the Scene, become Overheated, dealing more damage.</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1401014">
+<Name>Scorching Desperation</Name>
+<Desc>Every 3 Scenes: 'Scorching Desperation' is added to hand, which will be used the same Scene.</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1401017">
+<Name>Restraints</Name>
+<Desc>On hit against a target with 3 or more stacks of 'Restraint', Immobilize them for the next Scene.</Desc>
+</PassiveDesc>
 </PassiveDescRoot>
