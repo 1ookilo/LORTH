@@ -66,26 +66,36 @@
 
 <PassiveDesc ID="1301021">
 <Name>หัวใจเป็นเชื้อเพลิง</Name>
-<Desc>Takes half as much damage from Burn. Starting with the Scene after it was spawned, gain 1 Strength and Endurance every Scene.</Desc>
+<Desc>รับาเมจจากสถานะเผาไหม้น้อยลงครึ่งหนึ่ง
+เริ่มทำงานหลังจากฉากที่ถูกอัญเชิญขึ้นมา
+ได้รับกำลังและอึดทน 1 จำนวนในทุกๆฉาก</Desc>
 </PassiveDesc>
 <PassiveDesc ID="1301022">
 <Name>ร้อนระอุ</Name>
-<Desc>If the character has 15 or more Burn at the start of the Scene, become Overheated, dealing more damage with attacks but becoming more vulnerable to Stagger damage.</Desc>
+<Desc>เมื่อเริ่มฉาก หากมีสถานะเผาไหม้ 15 จำนวนหรือมากกว่า
+เข้าสู่สถานะร้อนระอุ การโจมตีทำดาเมจมากขึ้น
+แต่รับดาเมจและดาเมจ Stagger ง่ายขึ้นเช่นกัน</Desc>
 </PassiveDesc>
 <PassiveDesc ID="1301023">
 <Name>ไหม้สลาย</Name>
-<Desc>ระหว่างที่ร้อนระอุทำงานอยู่: gain 3 Fragile each scene, and inflict 1 Burn to target on hit. Also, uses a different set of Combat Pages.</Desc>
+<Desc>ระหว่างที่ร้อนระอุทำงานอยู่:
+ในแต่ละฉากจะได้รับเปราะบาง 3 จำนวน
+และการโจมตีจะมอบเผาไหม้ 1 จำนวน
+และใช้ Combat Page ชุดใหม่</Desc>
 </PassiveDesc>
 
 <!--뒤틀림-->
 <PassiveDesc ID="1401011">
 <Name>เพลิงที่ถูกส่งไป</Name>
-<Desc>While alive, the first Offensive die allies play each engagement inflicts 1 Burn on hit.
-After death, allies are inflicted with 1 Burn when hit.</Desc>
+<Desc>ระหว่างที่มีชีวิตอยู่ ลูกเต๋าประเภทโจมตีลูกแรก
+จะมอบเผาไหม้ 1 จำนวนเมื่อโจมตีสำเร็จ
+หลังจากตาย เมื่อเพื่อนร่วมทีมถูกโจมตี
+จะได้รับเผาไหม้ 1 จำนวน</Desc>
 </PassiveDesc>
 <PassiveDesc ID="1401012">
 <Name>ร้อนทะลุขีด</Name> <!-- "Supra-" + "Heat" -->
-<Desc>If the character has 10 or more Burn at the start of the Scene, become Overheated, dealing more damage.</Desc>
+<Desc>เมื่อเริ่มฉาก หากมีสถานะเผาไหม้ 10 จำนวนหรือมากกว่า
+เข้าสู่สถานะร้อนระอุ ทำดาเมจมากขึ้น</Desc>
 </PassiveDesc>
 <PassiveDesc ID="1401014">
 <Name>Scorching Desperation</Name>
