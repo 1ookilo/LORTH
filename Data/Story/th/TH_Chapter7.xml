@@ -8,286 +8,286 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_1</VoiceFile>
-          <Content>You know what, Roland?</Content>
+          <Content>รู้อะไรไหม โรแลนด์?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_2</VoiceFile>
-          <Content>I’ve been feeling ecstatic these days; the memories are fading.</Content>
+          <Content>เดี๋ยวนี้ฉันรู้สึกI’ve been feeling ecstatic these days; ความทรงจำเริ่มจางหายไปแล้ว</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Prol_ep1_Roland_1</VoiceFile>
-          <Content>You mean the harsh memories of working in that awful corporation?</Content>
+          <Content>หมายถึงความทรงจำอันโหดร้ายเดี่ยวกับงานที่บริษัทแย่ๆนั่นใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_3</VoiceFile>
-          <Content>Yes. Those cruel times…</Content>
+          <Content>ใช่แล้ว ช่วงเวลาอันโหดร้ายนั่น…</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_4</VoiceFile>
-          <Content>The things I didn’t want to see are becoming faint; the things I didn’t want to remember are melting away.</Content>
+          <Content>สิ่งที่ฉันไม่อยากเห็นเริ่มจางลง; สิ่งที่ฉันไม่อยากจำกำลังละลายหายไป</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_5</VoiceFile>
-          <Content>When I close my eyes, the moments that come to remembrance are of three or four days ago, not one million years in the past.</Content>
+          <Content>เมื่อฉันหลับตาลง ช่วงเวลาที่จำได้คือของเมื่อสามสี่วันก่อน ไม่ใช่ล้านปีในอดีต</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_6</VoiceFile>
-          <Content>They are the times of my own… claimed through my own choice.</Content>
+          <Content>พวกนั้นเป็นเวลาของฉัน… ได้มาซึ่งตัวเลือกของฉันเอง.</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_7</VoiceFile>
-          <Content>And the flow of time is faster than ever for me.</Content>
+          <Content>และการไหลของเวลาสำหรับฉันก็เริ่มไวมากขึ้น</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_8</VoiceFile>
-          <Content>I’m no longer shackled to the fetter of perceiving the hours 100 times slower than humans do.</Content>
+          <Content>ฉันไม่ถูกผูกกับโซ่ตรวนในการรับรู้เวลาช้าลงกว่ามนุษย์ 100 เท่าอีกต่อไป</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_9</VoiceFile>
-          <Content>I feel happier with each new day, you know?</Content>
+          <Content>ฉันรู้สึกมีความสุขมากขึ้นในแต่ละวัน รู้เปล่า?</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Prol_ep1_Roland_2</VoiceFile>
-          <Content>I’ve never seen you looking so happy before.</Content>
+          <Content>ผมไม่เคยเห็นเธอมีความสุขมาก่อนเลยนะ</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Prol_ep1_Roland_3</VoiceFile>
-          <Content>What do you think of the City and its people that are breaking down because of the Distortion, though?</Content>
+          <Content>แล้วเธอคิดถึงนครและผู้คนที่กำลังแตกหักเพราะการบิดเบือนว่ายังไงล่ะ?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_10</VoiceFile>
-          <Content>…That, I can’t quite receive with a smile.</Content>
+          <Content>…นั่น ฉันคงยิ้มรับไม่ได้ซะทีเดียว</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_11</VoiceFile>
-          <Content>Still, the despicable man who had locked me up for one million years would fall to despair if he saw what’s happening now.</Content>
+          <Content>ทว่า ชายน่ารังเกียจที่ขังฉันไว้หนึ่งล้านปีคงได้สิ้นหวังเป็นแน่ถ้าเขาเห็นสิ่งที่เกิดขึ้นตอนนี้</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_12</VoiceFile>
-          <Content>Yes… He’ll endlessly despair.</Content>
+          <Content>ใช่แล้ว… เขาจะสิ้นหวังไม่รู้จบสิ้น</Content>
         </Dialog>
         <Dialog ID="15" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_13</VoiceFile>
-          <Content>His idiotic and flawed plan caused more people to wallow in agony.</Content>
+          <Content>แผนการอันโง่เขลาและบกพร่องของเขาทำให้ผู้คนมากขึ้นเกลือกกลิ้งอย่างเจ็บปวด</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_14</VoiceFile>
-          <Content>He’s going to pay his price in full soon enough.</Content>
+          <Content>เขาจะได้ชดใช้เต็มราคาในอีกไม่ช้า</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Prol_ep1_Roland_4</VoiceFile>
-          <Content>About this revenge you’re trying to get, are you gonna bring down the whole City at the end of it?</Content>
+          <Content>เรื่องการล้างแค้นที่เธอพยายามทำอยู่ นี่เธอจะถล่มทั้งนครเมื่อจบงานหรือไง?</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_15</VoiceFile>
-          <Content>Bring down? No. I told you my aim before.</Content>
+          <Content>ถล่มเหรอ? ไม่ ฉันบอกเป้าหมายให้นายฟังแล้วนี่</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_16</VoiceFile>
-          <Content>I will become free along with the librarians.</Content>
+          <Content>ฉันจะเป้นอิสระไปพร้อมกับเหล่าบรรณารักษ์</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_17</VoiceFile>
-          <Content>On top of that, the Abnormalities that are wandering inside this Library lacking a physical form will be able to leave.</Content>
+          <Content>ยิ่งไปกว่านั้น เหล่าแอ็บนอมอลิตี้ที่เตร็ดเตร่อยู่ในหอสมุดและไร้ซึ่งกายเนี้อจะสามารถออกไปได้</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_18</VoiceFile>
-          <Content>Garnering strength by devouring powerful individuals, the Abnormalities would roam the City as they like.</Content>
+          <Content>รวบรอมกำลังโดยกลืนกินบุคคลที่แข็งแกร่ง เหล่าแอ็บนอมอลิตี้จะสามารถตระเวนทั่วนครได้ตามใจชอบ</Content>
         </Dialog>
         <Dialog ID="22" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_19</VoiceFile>
-          <Content>That’s what my plan is. I’m setting them free to do whatever they want.</Content>
+          <Content>นั่นคือแผนของฉัน ฉันจะปลดปล่อยให้ทำตามที่พวกนั้นอยาก</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_20</VoiceFile>
-          <Content>And they’ll leave a mark deeper than any Distortion could on the City.</Content>
+          <Content>และพวกมันจะทิ้งรอยลึกกว่าการบืดเบือนใดจะทำแก่นครได้</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_21</VoiceFile>
-          <Content>The one absolute and perfect book shall be the guide to teach me how to do it all.</Content>
+          <Content>สุดยอดหนังสืออันสมบูรณ์แบบเล่มนั้นจะเป็นตัวนำทางเพื่อสอนฉันถึงวิธีทำมันทั้งหมด</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Prol_ep1_Roland_5</VoiceFile>
-          <Content>You’ve got the same ideas as the Blue Sicko out there, huh. The two of you would make wonderful partners in crime.</Content>
+          <Content>เธอก็มีความคิดเกียวกับไอ้ฟ้าเปรตข้างนอกนั่นเลยสินะ เธอสองคนคงร่วมกันได้เป็นปี่เป็นขลุ่ยเลย</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_22</VoiceFile>
-          <Content>You’re wrong. There’s a world of difference. I have no interest in the “beauty” that Distortions or Abnormalities can arouse.</Content>
+          <Content>นายผิดแล้ว มันมีข้อแตกต่างใหญ่อยู่ ฉันไม่สนใจถึง “ความงาม” ที่การบิดเบือนหรือแอ็บนอมอลิตี้ก่อขึ้นมาได้</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_23</VoiceFile>
-          <Content>I simply want them to live as they wish, whether they’re beautiful or unsightly.</Content>
+          <Content>ฉันแค่อยากให้พวกนั้นมีชีวิตตามความต้องการของพวกเขา ไม่ว่าจะสวยงามหรือไม่น่ามอง</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_24</VoiceFile>
-          <Content>Besides, even if the Blue Reverberation’s intentions were similar to mine, I would never give away my precious possession to a man like that.</Content>
+          <Content>อีกอย่าง ถึงแม้เจตนาของเสียงกังวาลสีฟ้าจะคล้ายกับของฉัน ฉันจะไม่มีทางให้ของมีค่าของฉันให้กับคนแบบนั้น</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Prol_ep1_Roland_6</VoiceFile>
-          <Content>So you just wanna feel the joy of vengeance, whatever the consequences of your actions might be.</Content>
+          <Content>งั้นเธอแค่รู้สึกอยากสนุกที่ได้ล้างแค้น ไม่ว่าผลตามมาของการกระทำของเธอจะเป็นไงงั้นเหรอ</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_25</VoiceFile>
-          <Content>That’s what I must do. I was forced to witness countless deaths while reciting a script like a promptress.</Content>
+          <Content>นั่นคือสิ่งที่ฉันต้องทำ ฉันถูกบังคับให้เห็นการตายนับไม่ถ้วนระหว่างที่ท่องบทเหมือนกับต้นบท</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_26</VoiceFile>
-          <Content>Such things… are all I could watch and learn. I have to do what I can do well.</Content>
+          <Content>เรื่องแบบนั้น… เป้นสิ่งเดียวที่ฉันสามารถเห็นและรู้ ฉันต้องทำในสิ่งที่ฉันทำได้ดี</Content>
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_27</VoiceFile>
-          <Content>It’s the only thing I know how to do…</Content>
+          <Content>มันเป็นสิ่งเดียวที่ฉันรู้วิธี…</Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_28</VoiceFile>
           <Content>I have to feel joy as I witness the fall of the plan devised by the man I love yet hate.</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_29</VoiceFile>
           <Content>Even though it’s not… enjoyable to see the City and its people suffer because of me…</Content>
         </Dialog>
         <Dialog ID="35" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_30</VoiceFile>
           <Content>I still have to feel happy. I’m obliged to.</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_31</VoiceFile>
           <Content>It’s what I’ve been waiting for… until now…</Content>
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_32</VoiceFile>
           <Content>If I don’t do this, I won’t be compensated for the million years of lone suffering—nowhere else would I be repaid…</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_33</VoiceFile>
           <Content>…I still long for vengeance. However…</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_34</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_35</VoiceFile>
           <Content>Forget it. I could spend all day thinking it over, but I’d reach the same conclusion regardless.</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_36</VoiceFile>
           <Content>I’ll find the one book at all costs and make my wish come true.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Prol_ep1_Roland_7</VoiceFile>
           <Content>If there is a next time… Then it might be nice to have someone else to think about it together, rather than just grappling with it alone.</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_37</VoiceFile>
           <Content>I suppose that’s not a bad idea.</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_38</VoiceFile>
           <Content>And then… As I previously said, I want to travel around the world. It’ll certainly be fun.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_39</VoiceFile>
           <Content>Once I’ve laid down all the burdens, of course.</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Prol_ep1_Roland_8</VoiceFile>
           <Content>…Alright. Let’s give that plan some good thought after we’re done with everything.</Content>
         </Dialog>
@@ -728,76 +728,76 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="71" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_1</VoiceFile>
           <Content>To become the freest being in the City… It’s not quite sinking in.</Content>
         </Dialog>
         <Dialog ID="72" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_1</VoiceFile>
           <Content>Mhm. Looks like your goal is almost within reach.</Content>
         </Dialog>
         <Dialog ID="73" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_2</VoiceFile>
           <Content>That’s right. I’m almost there… That makes it feel even less real.</Content>
         </Dialog>
         <Dialog ID="74" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_3</VoiceFile>
           <Content>We’ve been through so many things… and now the Hana Association is coming here.</Content>
         </Dialog>
         <Dialog ID="75" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_4</VoiceFile>
           <Content>You said the Hana Association is the largest among the Fixer Associations, right?</Content>
         </Dialog>
         <Dialog ID="76" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_2</VoiceFile>
           <Content>Yep. Like I said some time ago, the Hana Association is the institution that grants permits to Offices and grades Fixers.</Content>
         </Dialog>
         <Dialog ID="77" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_3</VoiceFile>
           <Content>They also adjust the threat levels of incidents in real-time and let everyone know.</Content>
         </Dialog>
         <Dialog ID="78" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_4</VoiceFile>
           <Content>And the Hana Association sometimes takes matters into its own hands to strike down Stars of the City. Just like now.</Content>
         </Dialog>
         <Dialog ID="79" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_5</VoiceFile>
           <Content>You’ll be seeing them often, since they’ll keep sending people here as long as we’re a Star of the City in all likelihood.</Content>
         </Dialog>
         <Dialog ID="80" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_5</VoiceFile>
           <Content>…Strange.</Content>
         </Dialog>
         <Dialog ID="81" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_6</VoiceFile>
           <Content>What is?</Content>
         </Dialog>
         <Dialog ID="82" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_6</VoiceFile>
           <Content>Nothing. We have important guests to greet, so just make sure to be prepared.</Content>
         </Dialog>
@@ -805,8 +805,8 @@
       <Place>
         <PlaceName>Location: Library Entrance</PlaceName>
         <Dialog ID="83" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_7</VoiceFile>
           <Content>Greetings, dear guests.</Content>
         </Dialog>
@@ -817,8 +817,8 @@
           <Content>Did you know? The Library is visible from anywhere in L Corp’s Nest now.</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_8</VoiceFile>
           <Content>What do you mean?</Content>
         </Dialog>
@@ -847,8 +847,8 @@
           <Content>Here, let’s shake hands. I’m Mirinae, Director of Section 3 of the Hana Association, Southern Branch.</Content>
         </Dialog>
         <Dialog ID="90" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_9</VoiceFile>
           <Content>This is my first time shaking hands with a guest.</Content>
         </Dialog>
@@ -883,8 +883,8 @@
           <Content>Olivier, a Fixer from Section 3 of the Hana’s South.</Content>
         </Dialog>
         <Dialog ID="96" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_10</VoiceFile>
           <Content>I hope to be greeting you for a long time.</Content>
         </Dialog>
@@ -907,8 +907,8 @@
           <Content>Got it.</Content>
         </Dialog>
         <Dialog ID="100" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_11</VoiceFile>
           <Content>…What is the meaning of this?</Content>
         </Dialog>
@@ -925,8 +925,8 @@
           <Content>I’ll see myself out, then.</Content>
         </Dialog>
         <Dialog ID="103" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_12</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -955,8 +955,8 @@
           <Content>Prepare yourself. A Star of the City is going down tonight.</Content>
         </Dialog>
         <Dialog ID="108" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_13</VoiceFile>
           <Content>…Understood. May you find your book in this place.</Content>
         </Dialog>
@@ -965,178 +965,178 @@
     <Episode>
       <EpisodeName>Episode 1 Epilogue</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_7</VoiceFile>
           <Content>I thought I’d see him in person… But my expectation was off.</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_14</VoiceFile>
           <Content>Is there someone you know among them?</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_8</VoiceFile>
           <Content>I was thinking I might have to face an old friend of mine. Good thing I didn’t.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_9</VoiceFile>
           <Content>By the way, it looks like the situation out there is worse than I imagined. Even the Hana Association is making a big deal.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_15</VoiceFile>
           <Content>Could the City be breaking down?</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_10</VoiceFile>
           <Content>Nah, I don’t think you have to worry about that. The City carries on somehow.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_11</VoiceFile>
           <Content>As long as the Head stands, the City’s nature won’t change.</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_16</VoiceFile>
           <Content>What does the Head do, exactly?</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_12</VoiceFile>
           <Content>It’s shrouded in layers of secrecy, so no one knows in detail.</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_13</VoiceFile>
           <Content>A Corp—the Wing directly run by the Head—does stuff like managing patents, minting, and authorizing Wings on the surface.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_14</VoiceFile>
           <Content>It’s in control of all the important factors that make the City breathe, basically.</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_15</VoiceFile>
           <Content>And they seek out anyone plotting to overthrow the City and uproot them.</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_17</VoiceFile>
           <Content>That makes the Head one of the Wings, at least ostensibly.</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_16</VoiceFile>
           <Content>The Head, the Eye, and the Claw directly manage and run A Corp, B Corp, and C Corp respectively.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_18</VoiceFile>
           <Content>Through Arbiters and Claws?</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_17</VoiceFile>
           <Content>Huh, how’d you know about that?</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_19</VoiceFile>
           <Content>The research facility the Red Mist used to be part of fell because of the Head.</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_20</VoiceFile>
           <Content>To protect her colleagues, Kali killed the Arbiter and the Claws before succumbing to injuries herself.</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_21</VoiceFile>
           <Content>I can only guess that she fought with all her strength to save those behind her to the last breath, and I suppose that is something that could never be replicated.</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_18</VoiceFile>
           <Content>I can kinda picture how that would’ve looked.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_19</VoiceFile>
           <Content>Well, going back to where I was… When the Head determines something to be an impurity of the City, they’ll send Arbiters, Beholders, and Claws to try and get rid of it.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_22</VoiceFile>
           <Content>Was their research an impurity to the City…</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_20</VoiceFile>
           <Content>Something about that story doesn’t sit well with me, though. I heard it from Hod and asked her the same question…</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_21</VoiceFile>
           <Content>An Arbiter paid a visit to a small laboratory in the Outskirts, not even inside the City? That’s the part I don’t get.</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_23</VoiceFile>
           <Content>As the other librarians likely have said to you, she is telling you the truth. Though I don’t know the reason, either…</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_24</VoiceFile>
           <Content>Is the Head staying quiet at the moment because they deemed the current state of the City to be acceptable?</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_22</VoiceFile>
           <Content>I guess? It’s not like we’ve had a visitor from the Head…</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_25</VoiceFile>
           <Content>The Head coming to the Library… I’m curious how it will turn out.</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_23</VoiceFile>
           <Content>Sure, you’ll want to draw as much attention as possible if you wanna live long.</Content>
         </Dialog>
@@ -1165,8 +1165,8 @@
       <Place>
         <PlaceName>Location: Library Entrance</PlaceName>
         <Dialog ID="2" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_1</VoiceFile>
           <Content>Greetings, dear g—</Content>
         </Dialog>
@@ -1183,8 +1183,8 @@
           <Content>At the same time, the power of the Library which protects you has gotten weaker.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_2</VoiceFile>
           <Content>…What is the meaning of this?</Content>
         </Dialog>
@@ -1201,8 +1201,8 @@
           <Content>But it seems you can’t die from having your head chopped off yet.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_3</VoiceFile>
           <Content>Sigh… I suppose I can’t. I was wondering what you were up to.</Content>
         </Dialog>
@@ -1213,8 +1213,8 @@
           <Content>There’s still an abundance of options that don’t involve killing.</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_4</VoiceFile>
           <Content>Wh… a…</Content>
         </Dialog>
@@ -1243,38 +1243,38 @@
           <Content>First, it paralyzes the target, and when I p—</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_1</VoiceFile>
           <Content>And when you press that button, it activates for a single second. It’s a single-use device… with surefire effects.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_2</VoiceFile>
           <Content>The device overloads the human brain, causing their mind to experience a thousand years of time passing by…</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_3</VoiceFile>
           <Content>Which is more than enough to ruin the average person’s brain. Just like the WARP trains, huh.</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_4</VoiceFile>
           <Content>…Olivier.</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_5</VoiceFile>
           <Content>You went to the lengths of the world to join the Hana Association, and now you resort to this extravagant little gadget of doom.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_6</VoiceFile>
           <Content>Did you blow your entire fortune on this thing or what? And you spoke too much.</Content>
         </Dialog>
@@ -1291,32 +1291,32 @@
           <Content>So you’ve been guarding this monster mimicking a human all along?</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_7</VoiceFile>
           <Content>Whoa now, she’s no monster, y’know? She’s my responsible boss and a good friend.</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_8</VoiceFile>
-          <Content>Angela. I’ll deal with this fella on my own, so please back off for a bit.</Content>
+          <Content>แองเจล่า. I’ll deal with this fella on my own, so please back off for a bit.</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_5</VoiceFile>
           <Content>…Thanks. You don’t need my help?</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_9</VoiceFile>
           <Content>I have to take care of this matter on my own. This is between him and I, so you don’t have to worry.</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_6</VoiceFile>
           <Content>Alright. …You can call me anytime if you need assistance.</Content>
         </Dialog>
@@ -1333,8 +1333,8 @@
           <Content>What you’re doing isn’t any different from all the tragedies we’ve seen and gone through… You’ve been perpetuating it in the Library with that machine.</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_10</VoiceFile>
           <Content>…I won’t expect you to understand me.</Content>
         </Dialog>
@@ -1345,14 +1345,14 @@
           <Content>…Take these. The gloves of the Black Silence. And let’s say we’ve evened the score now.</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_11</VoiceFile>
           <Content>Thanks, as always. I missed the feeling of these.</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_12</VoiceFile>
           <Content>With this, I got all the help I could ask of you.</Content>
         </Dialog>
@@ -1423,8 +1423,8 @@
           <Content>And if that were the case… I thought you might keep going and demolish the City itself out of sheer anger and madness.</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_13</VoiceFile>
           <Content>C’mon, you’re blowing things out of proportion again.</Content>
         </Dialog>
@@ -1435,20 +1435,20 @@
           <Content>Anyone would’ve thought the same thing if they had looked into your eyes behind that dark mask at the time.</Content>
         </Dialog>
         <Dialog ID="47" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_14</VoiceFile>
           <Content>Thanks for worrying, man.</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_15</VoiceFile>
           <Content>I was concerned you might have died an unfortunate death somewhere out there.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_16</VoiceFile>
           <Content>This was a long time ago, but you wouldn’t’ve survived if I hadn’t gotten to where you were after you contacted me back then.</Content>
         </Dialog>
@@ -1459,8 +1459,8 @@
           <Content>I appreciate you coming over to help me along that short call that day… Sorry about… what happened next.</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_17</VoiceFile>
           <Content>Never mind it. I only rushed to save your ass ‘cause you said I might get a Nest Migration permit.</Content>
         </Dialog>
@@ -1471,8 +1471,8 @@
           <Content>I’m sorry for all the trouble.</Content>
         </Dialog>
         <Dialog ID="53" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_18</VoiceFile>
           <Content>How’re the others doing, anyway? Like Ogier or Astolfo.</Content>
         </Dialog>
@@ -1489,14 +1489,14 @@
           <Content>We just aren’t how we used to be. We’ve grown too distant.</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_19</VoiceFile>
           <Content>I see.</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_20</VoiceFile>
           <Content>…Say, ‘member when the two of us handled an Urban Nightmare case for the first time? The uh… What was that case called…</Content>
         </Dialog>
@@ -1507,14 +1507,14 @@
           <Content>The Secret of the Demi-glace Sauce, which occurred in the Backstreets of District 16.</Content>
         </Dialog>
         <Dialog ID="59" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_21</VoiceFile>
           <Content>Yeah, that! We were just about done with it, and then your arm almost got caught in a blender at the last moment.</Content>
         </Dialog>
         <Dialog ID="60" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_22</VoiceFile>
           <Content>Though thanks to me, you saved yourself the need to get a new arm. That was one thrilling job.</Content>
         </Dialog>
@@ -1531,14 +1531,14 @@
           <Content>None of that would have happened if you hadn’t tried to take a sip of the sauce out of the ladle “to see how great its taste must be to cause an incident”.</Content>
         </Dialog>
         <Dialog ID="63" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_23</VoiceFile>
           <Content>C’mon man! Can’t you let me come out on top for once!</Content>
         </Dialog>
         <Dialog ID="64" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_24</VoiceFile>
           <Content>…Those were the days, still. We didn’t have to worry about too many things, and just stuck to the matters at hand.</Content>
         </Dialog>
@@ -1546,7 +1546,7 @@
           <Teller>Olivier</Teller>
           <Title>Hana South Sec. 3 Fixer</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_36</VoiceFile>
-          <Content>Yeah… But you know we can’t go back to those times anymore, Roland.</Content>
+          <Content>Yeah… But you know we can’t go back to those times anymore, โรแลนด์.</Content>
         </Dialog>
         <Dialog ID="66" Model="올리비에">
           <Teller>Olivier</Teller>
@@ -1555,8 +1555,8 @@
           <Content>You swallowed your anger and sadness to work with that machine, so I don’t doubt that you’ve prepared yourself for a lot of things.</Content>
         </Dialog>
         <Dialog ID="67" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_25</VoiceFile>
           <Content>I know. Both of us have gone too far down our roads. It was nice talking to you after a long while though, Olivier.</Content>
         </Dialog>
@@ -1579,8 +1579,8 @@
           <Content>That’s that, and this is this. Isn’t that right?</Content>
         </Dialog>
         <Dialog ID="71" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_26</VoiceFile>
           <Content>…Right you are. That’s that, and this is this.</Content>
         </Dialog>
@@ -1595,94 +1595,94 @@
     <Episode>
       <EpisodeName>Episode 1 Epilogue</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_7</VoiceFile>
           <Content>So you were the Black Silence, and not just any Grade 1 Fixer. You managed to hide that from me for so long.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_27</VoiceFile>
           <Content>That’s well… Umm…</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_28</VoiceFile>
           <Content>A case of… missing the right moment to confess it. I guess?</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_8</VoiceFile>
           <Content>Though I do wonder, how were the Fixers we’ve seen unable to recognize you?</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_29</VoiceFile>
           <Content>I completely concealed my identity behind this mask back when I worked as a Fixer.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_30</VoiceFile>
           <Content>…A tiny bit of personal info being leaked can come back to bite you in the ankle.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_31</VoiceFile>
           <Content>It’s a lesson my gran taught me.</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_9</VoiceFile>
           <Content>If you have any more secrets you’re keeping from me, you’d best find them well-hidden.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_10</VoiceFile>
           <Content>I’m sick of being betrayed; I’ll make anyone who tries to do so pay the price.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_11</VoiceFile>
           <Content>Although…</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_12</VoiceFile>
           <Content>You saved me this time, so I’ll forgive it.</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_13</VoiceFile>
           <Content>I might have suffered serious damage if I was forced to endure a thousand years in my current state.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_32</VoiceFile>
           <Content>Just doing my job, ma’am.</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_14</VoiceFile>
           <Content>…And you just lost your friend, are you feeling okay?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_33</VoiceFile>
           <Content>…That’s that, and this is this.</Content>
         </Dialog>
@@ -1846,14 +1846,14 @@
           <Content>Musta wimped out and hid behind a shelf.</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_1</VoiceFile>
           <Content>…Are you lot insane? You can’t just fling the door open by force.</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_1</VoiceFile>
           <Content>That’s a first, I gotta admit.</Content>
         </Dialog>
@@ -1870,8 +1870,8 @@
           <Content>And we knocked several times, too, mind you.</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_2</VoiceFile>
           <Content>If you rap your dirty fists on a door and no one responds, what you should do is leave, not break in.</Content>
         </Dialog>
@@ -1894,14 +1894,14 @@
           <Content>But of course. I shall see to it that the entrance is repaired in no time.</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_2</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_3</VoiceFile>
           <Content>…Is that a Singularity?</Content>
         </Dialog>
@@ -1924,8 +1924,8 @@
           <Content>We are truth seekers and artists, perched on the boundary as we search for an answer.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_4</VoiceFile>
           <Content>You haven’t been taken over by the Distortion… How is that possible?</Content>
         </Dialog>
@@ -1966,14 +1966,14 @@
           <Content>…The thought is making my mouth water.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_5</VoiceFile>
           <Content>I respect your preferences, but please save discussions about them for private conversation.</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_3</VoiceFile>
           <Content>What’s your business here, anyway? We don’t feel like giving any books to you. Didn’t invite you here, either.</Content>
         </Dialog>
@@ -1993,11 +1993,11 @@
           <Teller>Pluto</Teller>
           <Title>Yesterday’s Promise</Title>
           <VoiceFile>ch7_Blue_ep2_Pluto_7</VoiceFile>
-          <Content>Angela. We are aware that you have nearly completed that volume.</Content>
+          <Content>แองเจล่า. We are aware that you have nearly completed that volume.</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_6</VoiceFile>
           <Content>…Who said anything about giving it away?</Content>
         </Dialog>
@@ -2008,8 +2008,8 @@
           <Content>I never said anything about asking permission, either.</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_4</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -2020,8 +2020,8 @@
           <Content>Ah, right. Roland… It’s been a while since I got to have a chat with you in peace.</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_5</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -2044,8 +2044,8 @@
           <Content>We’ve brought along the person you wanted to meet so dearly, actually.</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_6</VoiceFile>
           <Content>…What?</Content>
         </Dialog>
@@ -2068,8 +2068,8 @@
           <Content>So I decided to take her with us.</Content>
         </Dialog>
         <Dialog ID="62" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_7</VoiceFile>
           <Content>What bullcrap are you…</Content>
         </Dialog>
@@ -2077,11 +2077,11 @@
           <Teller>Jae-heon</Teller>
           <Title>The Puppeteer</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_1</VoiceFile>
-          <Content>It’s been a while, Roland.</Content>
+          <Content>It’s been a while, โรแลนด์.</Content>
         </Dialog>
         <Dialog ID="64" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_8</VoiceFile>
           <Content>…Have we met before?</Content>
         </Dialog>
@@ -2104,8 +2104,8 @@
           <Content>…Oh dear. Was it too much?</Content>
         </Dialog>
         <Dialog ID="68" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_9</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -2116,8 +2116,8 @@
           <Content>What’s wrong…? Are you at a loss for words by the reunion of your dreams?</Content>
         </Dialog>
         <Dialog ID="70" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_10</VoiceFile>
           <Content>What… motherfuckery are you trying to pull?</Content>
         </Dialog>
@@ -2128,8 +2128,8 @@
           <Content>There’s no trickery here. Or are you so mesmerized by her polished up beauty that you can’t stop admiring her?</Content>
         </Dialog>
         <Dialog ID="72" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_11</VoiceFile>
           <Content>…Argalia!!!</Content>
         </Dialog>
@@ -2158,8 +2158,8 @@
           <Content>You don’t deserve Angelica. She deserved better than having her life ruined by the likes of you.</Content>
         </Dialog>
         <Dialog ID="77" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_12</VoiceFile>
           <Content>…Don’t you feel anything when you look at that mess you made out of her?</Content>
         </Dialog>
@@ -2170,8 +2170,8 @@
           <Content>You must be quite bedazzled by her perfected form.</Content>
         </Dialog>
         <Dialog ID="79" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_13</VoiceFile>
           <Content>You’re not gonna croak in peace. I’ll chew you up alive, crunch your bones to dust…</Content>
         </Dialog>
@@ -2179,7 +2179,7 @@
           <Teller>Argalia</Teller>
           <Title>The Blue Reverberation</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_22</VoiceFile>
-          <Content>You’re still bound to the past, blind to the present. Roland, you fool.</Content>
+          <Content>You’re still bound to the past, blind to the present. โรแลนด์, you fool.</Content>
         </Dialog>
         <Dialog ID="81" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -2200,8 +2200,8 @@
           <Content>I went through a fair bit of trouble next to him. I had to extract Angelica’s blood out of the pile of bodies bloated from the heat.</Content>
         </Dialog>
         <Dialog ID="84" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_7</VoiceFile>
           <Content>…The piano?</Content>
         </Dialog>
@@ -2221,7 +2221,7 @@
           <Teller>Argalia</Teller>
           <Title>The Blue Reverberation</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_26</VoiceFile>
-          <Content>Oh, I’m so sorry, Roland.</Content>
+          <Content>Oh, I’m so sorry, โรแลนด์.</Content>
         </Dialog>
         <Dialog ID="88" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -2230,14 +2230,14 @@
           <Content>I didn’t ruin your little… “plan” by accident, did I?</Content>
         </Dialog>
         <Dialog ID="89" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_14</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="90" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_8</VoiceFile>
           <Content>Is this about… the Pianist?</Content>
         </Dialog>
@@ -2305,7 +2305,7 @@
           <Teller>Elena</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_9</VoiceFile>
-          <Content>And you, Angela, are responsible for the White Nights and Dark Days.</Content>
+          <Content>And you, แองเจล่า, are responsible for the White Nights and Dark Days.</Content>
         </Dialog>
         <Dialog ID="102" Model="정장 필립">
           <Teller>Philip</Teller>
@@ -2320,14 +2320,14 @@
           <Content>Poor Miss Angela… How can you be still so blind to the truth…</Content>
         </Dialog>
         <Dialog ID="104" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_9</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="105" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_15</VoiceFile>
           <Content>…Cut it out.</Content>
         </Dialog>
@@ -2350,8 +2350,8 @@
           <Content>And his blind rampage… affected us as well.</Content>
         </Dialog>
         <Dialog ID="109" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_16</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -2359,7 +2359,7 @@
           <Teller>Jae-heon</Teller>
           <Title>The Puppeteer</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_8</VoiceFile>
-          <Content>Roland. I don’t expect you to remember us.</Content>
+          <Content>โรแลนด์. I don’t expect you to remember us.</Content>
         </Dialog>
         <Dialog ID="111" Model="인형사">
           <Teller>Jae-heon</Teller>
@@ -2386,8 +2386,8 @@
           <Content>You were such a merciless being.</Content>
         </Dialog>
         <Dialog ID="115" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_17</VoiceFile>
           <Content>…Right. It was the place with a terrible stench…</Content>
         </Dialog>
@@ -2398,8 +2398,8 @@
           <Content>This was unexpected. You actually remembered it.</Content>
         </Dialog>
         <Dialog ID="117" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_18</VoiceFile>
           <Content>Looking at that puppet… I can’t help but be reminded of it. I guess you got more skillful since then, even though your disgusting method hasn’t changed one bit…</Content>
         </Dialog>
@@ -2434,14 +2434,14 @@
           <Content>But then you had to intervene moments before our touching reunion, and ruin it all.</Content>
         </Dialog>
         <Dialog ID="123" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_19</VoiceFile>
           <Content>…You still insist that thing was your son.</Content>
         </Dialog>
         <Dialog ID="124" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_20</VoiceFile>
           <Content>All it was, was an abomination made with the flesh of random people weaved together.</Content>
         </Dialog>
@@ -2473,7 +2473,7 @@
           <Teller>Jae-heon</Teller>
           <Title>The Puppeteer</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_23</VoiceFile>
-          <Content>…Not yours, Roland!</Content>
+          <Content>…Not yours, โรแลนด์!</Content>
         </Dialog>
         <Dialog ID="130" Model="인형사">
           <Teller>Jae-heon</Teller>
@@ -2518,74 +2518,74 @@
           <Content>That was when the orchestrator here reached out to me, and led me to this exact moment.</Content>
         </Dialog>
         <Dialog ID="137" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_21</VoiceFile>
           <Content>…That’s that, and this is this.</Content>
         </Dialog>
         <Dialog ID="138" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_22</VoiceFile>
           <Content>Whatever you’d gone through…</Content>
         </Dialog>
         <Dialog ID="139" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_23</VoiceFile>
           <Content>You shouldn’t have fucked with my wife!!!</Content>
         </Dialog>
         <Dialog ID="140" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_24</VoiceFile>
           <Content>It doesn’t matter what kind of miserable past you have anymore…</Content>
         </Dialog>
         <Dialog ID="141" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_25</VoiceFile>
           <Content>I don’t even care if I was the reason for your suffering…</Content>
         </Dialog>
         <Dialog ID="142" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_26</VoiceFile>
           <Content>But you… YOU!!!</Content>
         </Dialog>
         <Dialog ID="143" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_10</VoiceFile>
-          <Content>Roland. Calm down.</Content>
+          <Content>โรแลนด์. Calm down.</Content>
         </Dialog>
         <Dialog ID="144" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_27</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="145" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_11</VoiceFile>
           <Content>What’s the matter? This isn’t like you.</Content>
         </Dialog>
         <Dialog ID="146" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_28</VoiceFile>
           <Content>Not like me, huh…?</Content>
         </Dialog>
         <Dialog ID="147" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_29</VoiceFile>
           <Content>You’ve got the wrong impression, then.</Content>
         </Dialog>
         <Dialog ID="148" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_12</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -2599,7 +2599,7 @@
           <Teller>Argalia</Teller>
           <Title>The Blue Reverberation</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_34</VoiceFile>
-          <Content>Don’t get me wrong, Angela.</Content>
+          <Content>Don’t get me wrong, แองเจล่า.</Content>
         </Dialog>
         <Dialog ID="151" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -2675,28 +2675,28 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="163" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_13</VoiceFile>
           <Content>…Roland.</Content>
         </Dialog>
         <Dialog ID="164" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_30</VoiceFile>
           <Content>Don’t say a word.</Content>
         </Dialog>
         <Dialog ID="165" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_31</VoiceFile>
           <Content>We still have a common goal of stopping Argalia…</Content>
         </Dialog>
         <Dialog ID="166" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_14</VoiceFile>
           <Content>…Okay.</Content>
         </Dialog>
@@ -4408,7 +4408,7 @@
           <Teller>Jae-heon</Teller>
           <Title>The Puppeteer</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_12</VoiceFile>
-          <Content>Bitterness, and… a yearning for vengeance toward Roland, the man who rid me of that hope and pushed me to despair.</Content>
+          <Content>Bitterness, and… a yearning for vengeance toward โรแลนด์, the man who rid me of that hope and pushed me to despair.</Content>
         </Dialog>
         <Dialog ID="20" Model="인형사">
           <Teller>Jae-heon</Teller>
@@ -4450,7 +4450,7 @@
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Chesed_10</VoiceFile>
-          <Content>I’m still not very happy about what you did to Roland, though.</Content>
+          <Content>I’m still not very happy about what you did to โรแลนด์, though.</Content>
         </Dialog>
         <Dialog ID="27" Model="인형사">
           <Teller>Jae-heon</Teller>
@@ -4492,7 +4492,7 @@
           <Teller>Jae-heon</Teller>
           <Title>The Puppeteer</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_20</VoiceFile>
-          <Content>Vengeance pointed at Roland was only an intersection we happened to come across on our way to it. It was never at the center of my motive.</Content>
+          <Content>Vengeance pointed at โรแลนด์ was only an intersection we happened to come across on our way to it. It was never at the center of my motive.</Content>
         </Dialog>
         <Dialog ID="34" Model="인형사">
           <Teller>Jae-heon</Teller>
@@ -5121,18 +5121,18 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Roland vs. Argalia</EpisodeName>
+      <EpisodeName>โรแลนด์ vs. Argalia</EpisodeName>
       <Place>
         <PlaceName>Location: The Library – Floor of General Works</PlaceName>
         <Dialog ID="0" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>The Blue Reverberation</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_1</VoiceFile>
-          <Content>Come on, Roland. Are you really going to keep your mouth shut before me?</Content>
+          <Content>Come on, โรแลนด์. Are you really going to keep your mouth shut before me?</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Roland_1</VoiceFile>
           <Content>What do you wanna hear? We both know each other’s goals.</Content>
         </Dialog>
@@ -5149,8 +5149,8 @@
           <Content>Of course you aren’t. You’re just mad because a wrench was thrown into your oh-so perfect plan.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Roland_2</VoiceFile>
           <Content>Rich coming from the man pulling this shit…</Content>
         </Dialog>
@@ -5173,8 +5173,8 @@
           <Content>The “right things” are ingrained into human beings in the name of common sense, hindering their progress and making them live unhappy lives.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Roland_3</VoiceFile>
           <Content>…What horseshit are you spewing this time.</Content>
         </Dialog>
@@ -5221,14 +5221,14 @@
           <Content>I raised these questions, and worked out an answer shortly after. And now… I’m going to announce it to all of the City.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Roland_4</VoiceFile>
           <Content>So let me get this straight; you’re rambling that it’s possible to go back in time and shit if that mold is broken?</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Roland_5</VoiceFile>
           <Content>You’re wasting your life on useless ideas.</Content>
         </Dialog>
@@ -5251,16 +5251,16 @@
           <Content>Having realized that, our ensemble now stands before you like this.</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Roland_6</VoiceFile>
           <Content>You talk big, but you just wanna get rid of the pain you’re carrying in truth, am I wrong?</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Roland_7</VoiceFile>
-          <Content>You want to crush me, the City, and most of all Angela for taking Angelica’s life.</Content>
+          <Content>You want to crush me, the City, and most of all แองเจล่า for taking Angelica’s life.</Content>
         </Dialog>
         <Dialog ID="23" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -5308,11 +5308,11 @@
           <Teller>Argalia</Teller>
           <Title>The Blue Reverberation</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_24</VoiceFile>
-          <Content>Roland, you may still be blinded by wrath, but I made the decision that I will care not about those feelings anymore.</Content>
+          <Content>โรแลนด์, you may still be blinded by wrath, but I made the decision that I will care not about those feelings anymore.</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Roland_8</VoiceFile>
           <Content>As if. You’re clinging onto the justification that it’s for Angelica’s sake even now…</Content>
         </Dialog>
@@ -5335,8 +5335,8 @@
           <Content>That Angelica can justify the pursuit of an ambition tainted by unclean desires is just a dreadful excuse now.</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Roland_9</VoiceFile>
           <Content>If you realized that, why don’t you also drop the excuse about this being her dirge or whatever.</Content>
         </Dialog>
@@ -5359,8 +5359,8 @@
           <Content>Moreover, this dirge will be the last thing I do for Angelica.</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Roland_10</VoiceFile>
           <Content>I still have no idea what you’re saying. I guess your bullshittery levels are off the charts for me, huh?</Content>
         </Dialog>
@@ -5389,8 +5389,8 @@
           <Content>To do that… I’ll have to take the power you’re keeping in your storage into my own two hands, isn’t that right?</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Roland_11</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -5401,8 +5401,8 @@
           <Content>…Let’s end our affectionate conversation here.</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Roland_12</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -5419,8 +5419,8 @@
           <Content>How putrid.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Roland_13</VoiceFile>
           <Content>…Shut up.</Content>
         </Dialog>
@@ -5429,70 +5429,70 @@
     <Episode>
       <EpisodeName>The Blue Reverberation Part 2 - Epilogue</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_End_Roland_1</VoiceFile>
           <Content>We managed to put a stop to that sicko and his gang of nutcases somehow.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_End_Roland_2</VoiceFile>
           <Content>Looks like their books are on another level, too.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_End_Angela_1</VoiceFile>
           <Content>This is the end of the Invitation’s guidance. We’re at our final destination.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_End_Roland_3</VoiceFile>
-          <Content>Congrats, Angela. It’s finally over.</Content>
+          <Content>Congrats, แองเจล่า. It’s finally over.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_End_Roland_4</VoiceFile>
           <Content>You’ve got a human body, so you don’t have to live as a machine anymore, right?</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_End_Angela_2</VoiceFile>
           <Content>Indeed. I am free now. All the Light has been reclaimed.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_End_Angela_3</VoiceFile>
           <Content>I have gained a perfect human body… and freedom. I’ve made it with your help.</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_End_Angela_4</VoiceFile>
-          <Content>Thank you… Roland.</Content>
+          <Content>Thank you… โรแลนด์.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_End_Angela_5</VoiceFile>
           <Content>…All I need to do now is take my book from the Light.</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_End_Roland_5</VoiceFile>
           <Content>Alright, guess it’s time for me to finish this, too.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑_2">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_End_Roland_6</VoiceFile>
           <Content>…Angela. You can guess what I’m about to do now, yeah?</Content>
         </Dialog>
@@ -5506,349 +5506,349 @@
       <Place>
         <PlaceName>Location: Library Entrance</PlaceName>
         <Dialog ID="0" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_1</VoiceFile>
-          <Content>So it was no coincidence that you came to the Library, Roland.</Content>
+          <Content>So it was no coincidence that you came to the Library, โรแลนด์.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_1</VoiceFile>
           <Content>You bet. The series of events leading up to this moment was the biggest gamble of my life.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_2</VoiceFile>
           <Content>I see. You helped me attain my freedom, but it wasn’t for my sake…</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_3</VoiceFile>
           <Content>You just used me like a tool.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_2</VoiceFile>
           <Content>C’mon, don’t talk like you got nothing out of me. I never slacked off, y’know?</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_3</VoiceFile>
           <Content>I gave it my all to support you until you reached your goal. It’s mutual exploitation, at the very least.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_4</VoiceFile>
           <Content>Did you get the result you wanted?</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_4</VoiceFile>
           <Content>Well, I got enough. The reason I’d come to the Library was to figure out the cause of the phenomenon that created Distortions like the Pianist.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_5</VoiceFile>
           <Content>And to find out who was responsible for it.</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_6</VoiceFile>
-          <Content>As such, all obvious signs… point to you, Angela.</Content>
+          <Content>As such, all obvious signs… point to you, แองเจล่า.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_7</VoiceFile>
           <Content>None of this would’ve happened if you hadn’t thrown a tantrum in your last moment.</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_5</VoiceFile>
           <Content>Why didn’t you try to stop me or kill me right away, then?</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_8</VoiceFile>
           <Content>…First off, you were simply unkillable when I first met you.</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_9</VoiceFile>
           <Content>Second, I wanted to know why you made the choice you did.</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_10</VoiceFile>
           <Content>Third, I thought that maybe you could make a different decision that I couldn’t.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_11</VoiceFile>
           <Content>And fourth, to bring you the greatest loss—the greatest suffering… at the very end of it all.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_12</VoiceFile>
           <Content>Right now, you’re completely human. You can feel pain as its whole, and experience death.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_13</VoiceFile>
           <Content>I learned here that you went through your own fair share of torment, frustration, and loss.</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_14</VoiceFile>
           <Content>I can understand why you made the choices you made.</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_15</VoiceFile>
           <Content>And seeing you start to contemplate your aim as time went by… I thought that maybe there was room for another option.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_16</VoiceFile>
           <Content>That maybe, just maybe, you might choose a different answer…</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_17</VoiceFile>
           <Content>And if you somehow did by that smallest chance… Then I might have been able to find a different solution myself.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_18</VoiceFile>
           <Content>But in the end, you didn’t.</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_19</VoiceFile>
           <Content>Sure, the pain I went through may be a speck of dust compared to your million years of despair… But so what?</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_20</VoiceFile>
           <Content>That day, I swore to myself before that damned piano.</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_21</VoiceFile>
           <Content>I swore that I’d make the City experience the same sorrow of loss—of the frustration that I felt when it took my world away from me.</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_22</VoiceFile>
           <Content>…The same as you.</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_6</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_7</VoiceFile>
           <Content>Then… Who will pay for the misery I went through?</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_8</VoiceFile>
           <Content>There was nothing else I could do; all I knew was to make them suffer the same pain…</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_23</VoiceFile>
           <Content>You’re asking me for an answer?</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_24</VoiceFile>
           <Content>If I knew the way… and if I could choose it, I wouldn’t have done this drivel.</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_25</VoiceFile>
           <Content>I do know one thing for sure: This is what happens when you try to wash blood with blood.</Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_9</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="34" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_26</VoiceFile>
-          <Content>Angela, you have to feel the same sorrow as mine…</Content>
+          <Content>แองเจล่า, you have to feel the same sorrow as mine…</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_27</VoiceFile>
           <Content>No. You have to feel even worse than that. You took Angelica from me—she meant the world to me.</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_28</VoiceFile>
           <Content>I sat on my hands as I watched the people I knew die, and I even killed my old friend with these shadowed gloves, just for this moment.</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_29</VoiceFile>
           <Content>All for this very moment… I’ve been suppressing my emotions, forcing a pained smile.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_10</VoiceFile>
           <Content>…Seeing you shed tears is an unfamiliar sight.</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_30</VoiceFile>
           <Content>I’m done with the façade now.</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_31</VoiceFile>
           <Content>I’ll do everything I can—in ways beyond your imagination—to give you the most painful death possible.</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_32</VoiceFile>
           <Content>And I’ll do it right before you take the final step to your freedom. I’ll rob you of everything.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_33</VoiceFile>
           <Content>You’ll reap the whirlwind for what you’ve sown…</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_11</VoiceFile>
           <Content>…I only want to be compensated for my suffering.</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_34</VoiceFile>
           <Content>…What’s this now? You’re acting weak all of a sudden?</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_35</VoiceFile>
           <Content>Are you finally starting to hesitate when it’s almost over?</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_36</VoiceFile>
           <Content>Nah… can’t be.</Content>
         </Dialog>
         <Dialog ID="47" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_37</VoiceFile>
           <Content>You’ve got power and knowledge, and now a proper life as a living being on top of it… You just don’t wanna give up what you finally took hold of.</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_12</VoiceFile>
           <Content>At least I used a method that isn’t forcef—</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_38</VoiceFile>
           <Content>You used the same logic as when you’d stolen the Light. You used it to kill those who came to the Library in the name of fair price.</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_39</VoiceFile>
           <Content>You didn’t even stop to think about the consequences of your actions.</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_40</VoiceFile>
           <Content>That’s how you’ve always been. You don’t give two shits about anyone other than yourself.</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_41</VoiceFile>
           <Content>I don’t blame you, though. I just can’t.</Content>
         </Dialog>
         <Dialog ID="53" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_42</VoiceFile>
           <Content>It’s how the City works… That’s that, and this is this.</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_43</VoiceFile>
           <Content>That’s why I’m going to kill you strictly with the mindset of the City folk.</Content>
         </Dialog>
         <Dialog ID="55" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_44</VoiceFile>
           <Content>What I need to do is kill you and take my revenge; what you need to do is kill me and get the freedom you want.</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_45</VoiceFile>
           <Content>We just need to have a simple, raw state of mind as we fight each other.</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_46</VoiceFile>
           <Content>So I want you to stop getting any funny little ideas and stick to your desire for freedom and vengeance.</Content>
@@ -5949,417 +5949,417 @@ The sad fireside corner of my poor black heart.</Content>
     <Episode>
       <EpisodeName>Episode 1 Post-battle</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_62</VoiceFile>
           <Content>A dimwitted egoist whose sight is limited by their own selfishness… A proper fool chasing after immediate results…</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_63</VoiceFile>
           <Content>That’s what you are. And who I am…</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_64</VoiceFile>
           <Content>The same logic that dictates us was bound to be our downfall one day…</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_65</VoiceFile>
           <Content>If we really cared for ourselves… Neither of us should have made this choice.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_66</VoiceFile>
           <Content>It won’t last long that way… Being selfish isn’t about keeping an eye on yourself and nothing else.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_67</VoiceFile>
           <Content>We had to take a good look at the things around us and engrave them in our hearts.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_68</VoiceFile>
           <Content>Everything is interlinked, after all…</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_13</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_69</VoiceFile>
           <Content>Just kill me already. Hesitating at the end is a bad habit that’ll get you offed out there.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_14</VoiceFile>
           <Content>……</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Choice - Angela forgives Roland</EpisodeName>
+      <EpisodeName>Choice - แองเจล่า forgives โรแลนด์</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_70</VoiceFile>
           <Content>…Alright. Why don’t you hesitate a little longer, then. I’ll take your head as soon as you let your guard down…</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_15</VoiceFile>
           <Content>…Roland, I’m going to let go. Someone has to break this cycle, ultimately…</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_16</VoiceFile>
           <Content>After all, even I couldn’t escape the treadwheel turning for this City.</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_17</VoiceFile>
           <Content>And if I have to be entrapped in more of such cycles, perpetrating deeds similar to what I’ve done… I…</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_18</VoiceFile>
           <Content>I don’t think I could live that life further…</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_19</VoiceFile>
           <Content>I would continue to be crushed under the everturning wheel; the only difference would be how harshly it smothers me…</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_20</VoiceFile>
           <Content>Achieving freedom was meaningless in a world like this.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_71</VoiceFile>
           <Content>…What? After all the mess you’ve caused… You’re gonna let go? Now?</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_72</VoiceFile>
           <Content>Were you struck by some huge revelation or something?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_73</VoiceFile>
           <Content>What about all the people who faced an unavoidable death in this damned Library…</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_74</VoiceFile>
           <Content>All those people I’ve killed… What’ll become of them?!</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_75</VoiceFile>
           <Content>What was my determination and my despair for… these sacrifices I’ve made…</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_76</VoiceFile>
           <Content>You HAVE to want something, dammit!!!</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_77</VoiceFile>
           <Content>You can’t break it off so easily…</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_78</VoiceFile>
           <Content>You’ve come too far for that…</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_79</VoiceFile>
           <Content>Someone who doesn’t even have a full-fledged desire… has no right to take so much blood and power…</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_21</VoiceFile>
           <Content>I… feel their weight now, and it’s too much for me to bear… I thought this would be the last time.</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_22</VoiceFile>
           <Content>I sincerely mean it… If I shut my eyes again and shed blood one last time… I thought I would be free to live as I want.</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_23</VoiceFile>
           <Content>Alas, I could never be truly free as long as I was chained to the bonds of the City.</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_24</VoiceFile>
           <Content>You, I, and this Library are soaked in the blood of many.</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_25</VoiceFile>
           <Content>All the actions I took in pursuit of freedom only sped the treadwheel.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_26</VoiceFile>
           <Content>I convinced myself that it was an inevitable sacrifice I had to put up with, for the sake of my freedom and amends for my agony…</Content>
         </Dialog>
         <Dialog ID="22" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_27</VoiceFile>
           <Content>And once this was over… I wanted to stop taking precious things from anyone.</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_28</VoiceFile>
           <Content>I know what loss and pain are, how they feel…</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_29</VoiceFile>
           <Content>However, the wheel that is this City is powered by those, crushing everything in its path.</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_30</VoiceFile>
           <Content>If I have to snuff out what belongs to me with my own hand in the end…</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_31</VoiceFile>
           <Content>And if life requires me to spill the blood of others, or lets my own blood so that I may live on…</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_32</VoiceFile>
           <Content>I’d much rather remove my grip on this goal…</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_33</VoiceFile>
           <Content>At the very least, I refuse to die under the wheel.</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_80</VoiceFile>
           <Content>…You can’t just undo what you’ve done.</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_81</VoiceFile>
           <Content>You extort from others once, and you have to keep doing it… What were you gonna do if you lack the resolve to commit even that…</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_34</VoiceFile>
           <Content>The books, the librarians, the Library… and finally, my own freedom.</Content>
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_35</VoiceFile>
           <Content>I’ll let go of them all first.</Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_36</VoiceFile>
           <Content>I will no longer cling to them. I won’t try to keep them in my clutch anymore.</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_37</VoiceFile>
           <Content>If I give it all up… then I can reverse this…</Content>
         </Dialog>
         <Dialog ID="35" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_38</VoiceFile>
           <Content>At least, those who died in the Library can be brought back.</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_82</VoiceFile>
           <Content>…Is that the answer you chose?</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_83</VoiceFile>
           <Content>When you can just walk out of this place and go wherever you wanna go? When the exit from this prison is finally open?</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_84</VoiceFile>
           <Content>For one million years, you’ve been waiting for the day when you could exact your revenge… And still, you can make that choice?</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_85</VoiceFile>
           <Content>Even when the thing you’ve desperately wished for is just ahead of you?</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_39</VoiceFile>
           <Content>Yes… I made this decision by dint of my own will entirely.</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_40</VoiceFile>
           <Content>This will be the first wish and the last choice I make… since I’ve become free from all restraints for the first time.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_86</VoiceFile>
           <Content>That still won’t make me forgive you… I’m not supposed to forgive you.</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_87</VoiceFile>
           <Content>You can’t just let go of stuff on your own, that’s not how it works in the City…</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_88</VoiceFile>
           <Content>…It’s selfish to do that.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_41</VoiceFile>
           <Content>Let me ask you one last favor.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_42</VoiceFile>
           <Content>I am going to leave myself vulnerable for a short while.</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_43</VoiceFile>
           <Content>Expelling everything I’ve absorbed until now won’t be a simple feat.</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_44</VoiceFile>
           <Content>Could you leave me be while I do that?</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_89</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_45</VoiceFile>
           <Content>I’m asking you as a dear friend.</Content>
         </Dialog>
         <Dialog ID="51" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_46</VoiceFile>
           <Content>…If you still consider me a friend, that is.</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_90</VoiceFile>
           <Content>…You do know I can just kill you in the meantime instead, right?</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_47</VoiceFile>
           <Content>I won’t stop you, but don’t worry.</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_48</VoiceFile>
           <Content>When I’m done, everything will go back to the way it was; I’ll disappear without a trace.</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_49</VoiceFile>
           <Content>…There isn’t much time, so I’ll get started right away.</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_91</VoiceFile>
           <Content>…How could you lay down your own goals?</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_92</VoiceFile>
           <Content>How can you… cut it off before anyone else?</Content>
@@ -6367,41 +6367,41 @@ The sad fireside corner of my poor black heart.</Content>
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Choice - Angela kills Roland</EpisodeName>
+      <EpisodeName>Choice - แองเจล่า kills โรแลนด์</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_50</VoiceFile>
-          <Content>This is the end of the line, Roland. I suppose this is another sorrow I must overcome.</Content>
+          <Content>This is the end of the line, โรแลนด์. I suppose this is another sorrow I must overcome.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile />
           <Content>Yup. We all just have to look at our own agonies and nothing else…</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_93</VoiceFile>
-          <Content>Congrats, Angela.</Content>
+          <Content>Congrats, แองเจล่า.</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_52</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_53</VoiceFile>
           <Content>Thank you so much. I’ll move onwards to the next stage of my life.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_94</VoiceFile>
           <Content>Hey, seeing you cry is a rare enough sight.</Content>
@@ -6455,16 +6455,16 @@ The sad fireside corner of my poor black heart.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="14" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_61</VoiceFile>
           <Content>It’s time you accepted your fate and returned to books.</Content>
         </Dialog>
         <Dialog ID="15" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_62</VoiceFile>
           <Content>You know better than anyone else that it’s pointless to oppose me in the Library, don’t you?</Content>
         </Dialog>
@@ -6487,20 +6487,20 @@ The sad fireside corner of my poor black heart.</Content>
           <Content>What a shameless person you are, Angela…</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_63</VoiceFile>
           <Content>Maybe this is what I should have done sooner.</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_64</VoiceFile>
           <Content>It was silly of me to make a deal with you…</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_65</VoiceFile>
           <Content>I wouldn’t have to feel this heartache, had I not made the offer that day and lived by myself.</Content>
         </Dialog>
@@ -6517,20 +6517,20 @@ The sad fireside corner of my poor black heart.</Content>
           <Content>Furthermore, you are regretting your own decisions…</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_66</VoiceFile>
           <Content>You tried to interrupt me, so I did what I had to do.</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_67</VoiceFile>
           <Content>After all, you chose to stand against me with the flesh and freedom you’ve gained.</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_68</VoiceFile>
           <Content>You could’ve walked away and disappeared from my sight, and I wouldn’t have harmed you.</Content>
         </Dialog>
@@ -6547,8 +6547,8 @@ The sad fireside corner of my poor black heart.</Content>
           <Content>You have earned a human body and the freedom for which you sought so earnestly, yet you will not take a single step onto the soil outside the Library.</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_69</VoiceFile>
           <Content>…That’s how fickle the human mind can be. Wouldn’t you agree?</Content>
         </Dialog>
@@ -6565,8 +6565,8 @@ The sad fireside corner of my poor black heart.</Content>
           <Content>…Let us dance our last dance together.</Content>
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_70</VoiceFile>
           <Content>I want this to be your final and permanent slumber.</Content>
         </Dialog>
@@ -6638,7 +6638,7 @@ The sad fireside corner of my poor black heart.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="44" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
@@ -6646,8 +6646,8 @@ The sad fireside corner of my poor black heart.</Content>
           <Content>That was one grand job you did with all these dangerous monsters you’ve gathered, Miss Librarian of Death.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_82</VoiceFile>
           <Content>…Good work.</Content>
         </Dialog>
@@ -6664,8 +6664,8 @@ The sad fireside corner of my poor black heart.</Content>
           <Content>I trusted and followed you, knowing nothing.</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_83</VoiceFile>
           <Content>How many colleagues of yours… the so-called ‘Bookhunters’ have you killed?</Content>
         </Dialog>
@@ -6676,14 +6676,14 @@ The sad fireside corner of my poor black heart.</Content>
           <Content>I’ve lost count.</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_84</VoiceFile>
           <Content>And countless more people will die in the future.</Content>
         </Dialog>
         <Dialog ID="51" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_85</VoiceFile>
           <Content>I know humans. I learned the secrets of mankind that the City had been hiding from them.</Content>
         </Dialog>
@@ -6700,8 +6700,8 @@ The sad fireside corner of my poor black heart.</Content>
           <Content>Thank you for all your hard work. Please die once and for all.</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Black_ep1_Angela_86</VoiceFile>
           <Content>Thank you for putting me to rest, o child who had no name.</Content>
         </Dialog>
@@ -6727,35 +6727,35 @@ are brushed by the wind.</Content>
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Choice - Roland kills Angela</EpisodeName>
+      <EpisodeName>Choice - โรแลนด์ kills แองเจล่า</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_95</VoiceFile>
-          <Content>…You can’t just put an end to it, Angela.</Content>
+          <Content>…You can’t just put an end to it, แองเจล่า.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_96</VoiceFile>
           <Content>It’s not something you could decide on your own like this!!!</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_97</VoiceFile>
           <Content>…Angela. The reason I give you a painless death, as opposed to my initial plan…</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_98</VoiceFile>
           <Content>…Well, let’s call it a last bit of consideration for you—as my friend. Alright?</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑_3">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Black_ep1_Roland_99</VoiceFile>
           <Content>It’s all over… Angelica…</Content>
@@ -6803,7 +6803,7 @@ are brushed by the wind.</Content>
           <Teller>Naimon</Teller>
           <Title>???</Title>
           <VoiceFile>ch7_Black_ep1_Namo_1</VoiceFile>
-          <Content>Roland? Really, after all those years of creating mayhem…</Content>
+          <Content>โรแลนด์? Really, after all those years of creating mayhem…</Content>
         </Dialog>
         <Dialog ID="12" Model="나모">
           <Teller>Naimon</Teller>
@@ -6933,7 +6933,7 @@ are brushed by the wind.</Content>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="D_에일린">
           <Teller>Eileen</Teller>
           <Title>The Reverberation Ensemble</Title>
@@ -6974,7 +6974,7 @@ are brushed by the wind.</Content>
           <Teller>Argalia</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_2</VoiceFile>
-          <Content>Thank you, Angela… and Roland.</Content>
+          <Content>Thank you, Angela… and โรแลนด์.</Content>
         </Dialog>
         <Dialog ID="7" Model="D_아르갈리아">
           <Teller>Argalia</Teller>
@@ -7001,13 +7001,13 @@ are brushed by the wind.</Content>
           <Content>I feel like I can make the best taste mankind’s ever known right now!!!</Content>
         </Dialog>
         <Dialog ID="11" Model="D_롤랑">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_1</VoiceFile>
-          <Content>Look, Angela didn’t make this choice for your sake, you know?</Content>
+          <Content>Look, แองเจล่า didn’t make this choice for your sake, you know?</Content>
         </Dialog>
         <Dialog ID="12" Model="D_롤랑">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_2</VoiceFile>
           <Content>She just chose what she actually wants for the first time.</Content>
@@ -7067,10 +7067,10 @@ are brushed by the wind.</Content>
           <Content>Aight. With this strength… Let’s go for ‘nother round.</Content>
         </Dialog>
         <Dialog ID="22" Model="D_롤랑">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_3</VoiceFile>
-          <Content>There’s no way in hell I’m letting you lay a finger on Angela.</Content>
+          <Content>There’s no way in hell I’m letting you lay a finger on แองเจล่า.</Content>
         </Dialog>
         <Dialog ID="23" Model="D_필립">
           <Teller>Philip</Teller>
@@ -7085,19 +7085,19 @@ are brushed by the wind.</Content>
           <Content>If only you could have protected Angelica with the same resolution.</Content>
         </Dialog>
         <Dialog ID="25" Model="D_롤랑">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_4</VoiceFile>
           <Content>Yeah, yeah~ Keep running your mouth, see if I care.</Content>
         </Dialog>
         <Dialog ID="26" Model="D_롤랑">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_5</VoiceFile>
           <Content>I’m thinking of following my good pal along the path taken as she pleases.</Content>
         </Dialog>
         <Dialog ID="27" Model="D_롤랑">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_6</VoiceFile>
           <Content>Making sure to take a good and long look at the things around me this time.</Content>
@@ -7109,7 +7109,7 @@ are brushed by the wind.</Content>
           <Content>So you accepted it in your own way.</Content>
         </Dialog>
         <Dialog ID="29" Model="D_롤랑">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_7</VoiceFile>
           <Content>Definitely not your way.</Content>
@@ -7139,7 +7139,7 @@ are brushed by the wind.</Content>
           <Content>Would you please allow me to conduct this finale?</Content>
         </Dialog>
         <Dialog ID="34" Model="D_롤랑">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_8</VoiceFile>
           <Content>Boy, you’re still the same nutjob even when you’re a freak.</Content>
@@ -7149,172 +7149,172 @@ are brushed by the wind.</Content>
     <Episode>
       <EpisodeName>Episode 1 Epilogue</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_16</VoiceFile>
           <Content>Whew, I guess that wraps things up…</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_17</VoiceFile>
           <Content>What are you gonna do now?</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_5</VoiceFile>
           <Content>What to do…</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_18</VoiceFile>
           <Content>Looks like your body did turn back into a machine.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_6</VoiceFile>
           <Content>Yeah… It was nice to be able to forget the things I should forget, if for a brief while.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_19</VoiceFile>
           <Content>You said the people who’ve turned into books in the Library are gonna come back, right?</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_20</VoiceFile>
           <Content>But so far, the only ones to revive were the Blue Reverb and his cronies.</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_7</VoiceFile>
           <Content>They’ll regain consciousness to find themselves lying somewhere in the City, as if waking up from a long slumber.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_8</VoiceFile>
           <Content>There wouldn’t have been any uncertainty, had you not intervened at the last moment.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_9</VoiceFile>
           <Content>Thanks to you, I have no idea when or where the people will reawake.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_21</VoiceFile>
           <Content>So they’re still coming back anyway, yeah? That’s a relief. I had a feeling this would work out.</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_10</VoiceFile>
           <Content>Why did you do such a thing if you weren’t even certain?</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_22</VoiceFile>
           <Content>Doesn’t hurt to do something I actually want for the sake of myself.</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_23</VoiceFile>
           <Content>I got sick of weighing profits my whole life.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_11</VoiceFile>
           <Content>You still have something you’re hiding from me, don’t you?</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_24</VoiceFile>
           <Content>…The Purple Tear told me one thing before I made the jump here.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_25</VoiceFile>
           <Content>“When you get in there, it’ll be nice in several ways to do what you want without letting anything hold you back at the end, kid.”</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_26</VoiceFile>
           <Content>Seeing you slowly vanish in the light, her words hit me.</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_12</VoiceFile>
           <Content>It sounds as if she anticipated everything.</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_13</VoiceFile>
           <Content>Was it by the Purple Tear’s assistance that you could intrude into the Library?</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_27</VoiceFile>
           <Content>Yup. You read in her book that she can jump between dimensions or whatever, yeah? I was honestly doubtful about her whole deal, but I eventually decided to get some help from her.</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_28</VoiceFile>
           <Content>And… Here, you dropped this.</Content>
         </Dialog>
         <Dialog ID="22" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_14</VoiceFile>
           <Content>…It’s the list of wishes I wrote.</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_15</VoiceFile>
           <Content>I don’t think I can accomplish half of the things written here with a body like this, though?</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_29</VoiceFile>
           <Content>Well, that’s something we gotta start figuring out from now on.</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_30</VoiceFile>
           <Content>There probably won’t be one absolute answer or whatever.</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_31</VoiceFile>
           <Content>There are as many people as there are stars out there, all intertwined with one another.</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_16</VoiceFile>
           <Content>And every one of them has a different story, a different answer to tell.</Content>
         </Dialog>
@@ -7326,21 +7326,21 @@ are brushed by the wind.</Content>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_2</VoiceFile>
           <Content>By the by, I thought this Library fell to bits for the most part… But it looks like its power is still there, right?</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_3</VoiceFile>
           <Content>There’s gotta be a horde of people watching for the chance to raid this place out there, but no one has broken in so far.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_2</VoiceFile>
           <Content>I find that peculiar as well.</Content>
@@ -7349,7 +7349,7 @@ are brushed by the wind.</Content>
           <Teller>Zena</Teller>
           <Title>???</Title>
           <VoiceFile>ch7_End_ep1_Zena_1</VoiceFile>
-          <Content>…That, Angela, is because this Library is the shell of your mind and consciousness…</Content>
+          <Content>…That, แองเจล่า, is because this Library is the shell of your mind and consciousness…</Content>
         </Dialog>
         <Dialog ID="4" Model="제나">
           <Teller>Zena</Teller>
@@ -7370,13 +7370,13 @@ are brushed by the wind.</Content>
           <Content>One that couldn’t be further from what a resident of the City would choose.</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_3</VoiceFile>
           <Content>…How long have you been here?</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_4</VoiceFile>
           <Content>A visitor from the Head, huh… The Eye and the Claw, too…</Content>
@@ -7394,7 +7394,7 @@ are brushed by the wind.</Content>
           <Content>Remember. Even you of all cityfolk can be ripped to shreds in your current state.</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_5</VoiceFile>
           <Content>Damn…</Content>
@@ -7412,7 +7412,7 @@ are brushed by the wind.</Content>
           <Content>That new color has permeated the City much too profoundly.</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_6</VoiceFile>
           <Content>…So now the Head is gonna hold us accountable for the phenomenon, is that it?</Content>
@@ -7430,7 +7430,7 @@ are brushed by the wind.</Content>
           <Content>It breaks my heart to think that it might shift the ecology of the City we had cultivated with care.</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_4</VoiceFile>
           <Content>If so, what brings an agent of the Head here? And why so late?</Content>
@@ -7448,7 +7448,7 @@ are brushed by the wind.</Content>
           <Content>And to retrieve a certain… degraded colleague of ours.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_7</VoiceFile>
           <Content>You mean…</Content>
@@ -7466,7 +7466,7 @@ are brushed by the wind.</Content>
           <Content>The Library has already become an Impurity of the City. We couldn’t stand by any longer.</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_5</VoiceFile>
           <Content>Are you disturbed by its powers?</Content>
@@ -7481,7 +7481,7 @@ are brushed by the wind.</Content>
           <Teller>Zena</Teller>
           <Title>Arbiter of the Head</Title>
           <VoiceFile>ch7_End_ep1_Zena_15</VoiceFile>
-          <Content>The sole reason is you: Angela.</Content>
+          <Content>The sole reason is you: แองเจล่า.</Content>
         </Dialog>
         <Dialog ID="26" Model="제나">
           <Teller>Zena</Teller>
@@ -7508,7 +7508,7 @@ are brushed by the wind.</Content>
           <Content>Had you fully become a human at the culmination of the ordeal, the City would have been more willing to accept you, alas.</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_6</VoiceFile>
           <Content>I don’t care if I have to stay as a machine.</Content>
@@ -7526,7 +7526,7 @@ are brushed by the wind.</Content>
           <Content>You cannot break free from your origin which defines you.</Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_7</VoiceFile>
           <Content>Why does that matter? I’m the only one who has a say in defining MY identity. I don’t need any flimsy husk to do it for me.</Content>
@@ -7544,7 +7544,7 @@ are brushed by the wind.</Content>
           <Content>You’re further demonstrating why we cannot let you be.</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_8</VoiceFile>
           <Content>For someone who loves to preach humanity, you sure seemed fine with letting Distortions cause many a scene in your precious backyard, hm?</Content>
@@ -7568,7 +7568,7 @@ are brushed by the wind.</Content>
           <Content>Are they not more bearable than a meager machine putting up the charade of being human?</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_9</VoiceFile>
           <Content>…</Content>
@@ -7580,7 +7580,7 @@ are brushed by the wind.</Content>
           <Content>So do yourself a favor and throw away that crumpled piece of paper. You’ve done something so cute so nervelessly.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_8</VoiceFile>
           <Content>And what if we made you kick the bucket here?</Content>
@@ -7598,13 +7598,13 @@ are brushed by the wind.</Content>
           <Content>This matter goes beyond you and the Library; L Corp. itself was a stain and a blemish to the Head.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_10</VoiceFile>
           <Content>No wonder it is. To trounce over L Corp’s Singularity and its end goal, you dispatched an Arbiter by the name of Binah…</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_11</VoiceFile>
           <Content>No, it was Garion, wasn’t it—regardless, it ended in utter failure, did it not?</Content>
@@ -7628,7 +7628,7 @@ are brushed by the wind.</Content>
           <Content>The door mustn’t be closed because of something like you.</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_12</VoiceFile>
           <Content>If I’m understanding this right, you wish to put me to death and kick the Library out into the Outskirts, is that correct?</Content>
@@ -7640,19 +7640,19 @@ are brushed by the wind.</Content>
           <Content>You’ve guessed right.</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_13</VoiceFile>
           <Content>I exist in this place as myself, standing on my two feet with my own strength. I have no problem brushing off the bullshit you’re spewing on my doorstep.</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_14</VoiceFile>
           <Content>And… You sure are verbose company, just like Binah.</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_15</VoiceFile>
           <Content>You always add needless comments as if you just can’t help it.</Content>
@@ -7670,43 +7670,43 @@ are brushed by the wind.</Content>
           <Content>…!</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_10</VoiceFile>
           <Content>I thought the Library ceased pretty much all of its functions?</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_16</VoiceFile>
           <Content>As that Arbiter said, the Library is my E.G.O.</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_17</VoiceFile>
           <Content>In that case, I can perform such feats without breaking a sweat.</Content>
         </Dialog>
         <Dialog ID="60" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_18</VoiceFile>
           <Content>Although this is only a temporary retreat, similar to how guests are greeted.</Content>
         </Dialog>
         <Dialog ID="61" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_11</VoiceFile>
           <Content>We’re finally receiving guests from the Head itself, huh… I guess these are the last ones we’ll get to greet from here.</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_19</VoiceFile>
           <Content>It seems they are. I don’t have to stay in this Nest, anyway.</Content>
         </Dialog>
         <Dialog ID="63" Model="롤랑_4">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_12</VoiceFile>
           <Content>Good for us, saves the trouble of packing stuff up to move!</Content>
@@ -7733,286 +7733,286 @@ are brushed by the wind.</Content>
       <Place>
         <PlaceName>Location: Somewhere in the Outskirts</PlaceName>
         <Dialog ID="2" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_20</VoiceFile>
           <Content>The Outskirts look much more barren than I had imagined.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_13</VoiceFile>
           <Content>I guess that’s how it is here. Now what to do…</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_21</VoiceFile>
           <Content>I plan to live on. And I plan to change.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_14</VoiceFile>
           <Content>Change what?</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_22</VoiceFile>
           <Content>Well, my vengeance… hasn’t ceased entirely. I’m still eager to see it through.</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_23</VoiceFile>
           <Content>I’ll continue to write books, and reopen the Library at some point.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_24</VoiceFile>
           <Content>It likely won’t resume immediately, though.</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_15</VoiceFile>
           <Content>…Really?</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_25</VoiceFile>
           <Content>Before anything else, I’ve decided to change course.</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_26</VoiceFile>
           <Content>From now on, I’ll properly face who I should direct my anger at.</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_27</VoiceFile>
           <Content>Tragedy and suffering not unlike what we went through would keep happening on a daily basis in the City.</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_28</VoiceFile>
           <Content>Thus if that’s the case, I want to know why such pain is perpetuated.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_29</VoiceFile>
           <Content>I don’t think I’ll ever be able to part with my resentment and wrath otherwise.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_16</VoiceFile>
           <Content>Oh yeah, like the whole treadwheel thing you mentioned…</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_17</VoiceFile>
           <Content>A word of advice as former cityfolk: It won’t be an easy road to take.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_18</VoiceFile>
           <Content>You’d have no idea where to even start.</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_19</VoiceFile>
           <Content>If you ask me, it’s as natural as water flowing… In a City full of humans—tragedy, violence, and loss follow as a matter of course.</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_30</VoiceFile>
           <Content>I’m still going to give it a shot. Even though the journey will be quite long…</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_30_1</VoiceFile>
           <Content>Perhaps this is one of the ways I can repent for what I’ve done.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_31</VoiceFile>
           <Content>Of course, the Library will be run in a different way from how it was up to now.</Content>
         </Dialog>
         <Dialog ID="22" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_32</VoiceFile>
           <Content>That is this, and this is that.</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_20</VoiceFile>
           <Content>…Hmm, that is this… and this is that, huh.</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_21</VoiceFile>
           <Content>What about your list then?</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_33</VoiceFile>
           <Content>Since the circumstances have changed, I’ll have to rethink my wishes.</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_34</VoiceFile>
           <Content>Sadly, I won’t be able to taste that “sick” meat stew with this body.</Content>
         </Dialog>
         <Dialog ID="27" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_22</VoiceFile>
           <Content>That’s a huge shame…</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_35</VoiceFile>
           <Content>Putting that aside, isn’t it time you let me in on your secret now?</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_23</VoiceFile>
           <Content>What do you mean?</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_36</VoiceFile>
           <Content>The biggest surprise you’ve had here.</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_24</VoiceFile>
           <Content>Oh, that… You somehow remembered it.</Content>
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_37</VoiceFile>
           <Content>I can remember anything, you know.</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_25</VoiceFile>
           <Content>Sigh… This one’s really personal.</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_38</VoiceFile>
           <Content>We have all the time in the world. I can wait years for your answer.</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_26</VoiceFile>
           <Content>Alright, fine!</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_27</VoiceFile>
           <Content>…Mmh. I actually wanted to write a book.</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_28</VoiceFile>
           <Content>About what I’d seen of the City, and its people.</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_29</VoiceFile>
           <Content>Though I gave up ‘cause I had no talent in writing whatsoever…</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_30</VoiceFile>
           <Content>My writing was just too crude. I couldn’t show it to anyone.</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_39</VoiceFile>
           <Content>I’d love to give it a read.</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_31</VoiceFile>
           <Content>…Laugh at me if you want. A grown man like me, wanting to write books. I’d laugh at myself, too.</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_40</VoiceFile>
           <Content>It’s not laughable at all. Though I do find it surprising…</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
-          <Teller>Angela</Teller>
+          <Teller>แองเจล่า</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Angela_40_1</VoiceFile>
           <Content>…Recording the City and the lives of its people, huh?</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title />
           <VoiceFile>ch7_End_ep1_Roland_32</VoiceFile>
           <Content>Don’t tell the other librarians! This stays between you and me, alright? Keep it zipped!</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_End_ep1_Angela_41</VoiceFile>
-          <Content>…Alright. Shall we write a book together this time, Roland?</Content>
+          <Content>…Alright. Shall we write a book together this time, โรแลนด์?</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title>Friend</Title>
           <VoiceFile>ch7_End_ep1_Roland_33</VoiceFile>
           <Content>It would be my honor, Miss Director.</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_End_ep1_Angela_42</VoiceFile>
           <Content>Wrong, try again. You should know by now that’s not the right way to address me, don’t you?</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑_2">
-          <Teller>Roland</Teller>
+          <Teller>โรแลนด์</Teller>
           <Title>Friend</Title>
           <VoiceFile>ch7_End_ep1_Roland_34</VoiceFile>
-          <Content>Sounds good to me, Angela.</Content>
+          <Content>Sounds good to me, แองเจล่า.</Content>
         </Dialog>
       </Place>
     </Episode>
