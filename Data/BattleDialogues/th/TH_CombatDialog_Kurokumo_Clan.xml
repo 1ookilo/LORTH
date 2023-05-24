@@ -3,50 +3,50 @@
   <GroupName>Kurokumo Clan</GroupName>
   <Character ID="Sayo">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">What a cute cluster of adorable little squirts~</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Let us end this at a breath.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">If you insist on beating us so badly… Everyone, let us prepare ourselves.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">อาระ อาร~ เด็กๆเหล่านี้มาจากไหนกันนะ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">มาจบเรื่องนี้ภายในทันทีกันเถอะ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">หากเธอยืนกรานเช่นนั้นแล้วละก็… เอาล่ะทุกคน เตรียมตัวกันให้พร้อม</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I hope this taught you a good lesson.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">This wouldn’t have happened had you just tucked your tails and surrendered… Sigh, what a pity.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ฉันหวังว่าสิ่งนี้จะสอนบทเรียนที่ดีแก่เธอนะ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">สิ่งนี้จะไม่เกิดขึ้นหากเธอก้มหัวและยอมจำนน… เห้อ ช่างน่าเสียดายนัก</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">If only that bitchhead didn’t interfere with our business…</BattleDialog>
+      <BattleDialog ID="DEATH_0">ถ้าอีนังนั่นไม่ยุ่งกับธุรกิจของเรา…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Tsk. This is the strength of a nebbish who swore to protect me?</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">This won’t do… You haven’t fully served your role yet.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">It seems the situation is headed to a rather worrying direction.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">จิ๊ เนี้ยน่ะรึความแข็งแกร่งของคนอ่อนแอทีสาบานว่าจะปกป้องฉันน่ะ?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">เนี้ยไม่ดีเลยนะ… เธอยังไม่ได้ทำหน้าที่ของเธออย่างเต็มที่เลย</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">ดูเหมือนว่าสถานการณ์กำลังดำเนินไปในทิศทางที่ค่อนข้างน่าเป็นห่วง</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">You should’ve packed up and quit this occupation if you were so inept.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">You looked rather impatient~ Were you unnerved, perhaps?</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">That was quite underwhelming for such a notorious faction.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ถ้าเธอไม่สามารถทำงานนี้ได้ดีเท่าที่ควรแล้วละก็ ควรจะเก็บข้าวเก็ฐของและลาออกจากอาชีพนี้ไปซะ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ดูเหมือนเธอรีบร้อนไปนะ~ กังวลใจอยู่หรือเปล่า?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">มันไม่น่าพอใจสำหรับกลุ่มที่มีชื่อเสียงเช่นนี้</BattleDialog>
     </Type>
   </Character>
   <Character ID="Gin">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">I’ll handle that one.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">They don’t appear to be easy opponents.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Even if we’re evenly matched, we should stay alert till the end.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ฉันจะจัดการเรื่องนั้นเอง</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">พวกเขาดูเหมือนจะไม่ใช่คู่ต่อสู้ที่รับมือได้ง่ายๆนะ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">แม้ว่าเราจะจำนวนเท่ากัน เราก็ควรระมัดระวังจนถึงที่สุด</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I’m drained of all my energy after getting into two tough fights in a day.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Let’s head back now. It seems we’ve taken care of them all.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ฉันละหมดแรงจริงๆหลังจากต้องสู้สองครั้งในหนึ่งวันแบบนี้</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">กลับกันเถอะ เหมือนว่าเราได้จัดการพวกเขาหมดแล้ว</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">…My ineptitude is to blame. I’m sorry about this.</BattleDialog>
+      <BattleDialog ID="DEATH_0">…ความไร้ฝีมือของฉันสมควรถูกตำหนิ ฉันขอโทษกับเรื่องที่เกิด</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">We could’ve avoided dying a dog’s death like this.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">We’ve lost some vigor dealing with that ordeal outside… I suppose we had too little left to handle this one.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">I don’t want to see anyone else fall behind.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">เราควรหลีกเลี่ยงการตายเยี่ยงสุนัขเช่นนี้</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">พวกเราหมดเรี่ยวแรงในการจัดการกับบททดสอบข้างนอกแล้ว… ฉันคิดว่าเราเหลือเวลาน้อยเกินไปที่จะรับมือกับเรื่องนี้</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">ฉันไม่อยากเห็นใครสักคนต้องล้มลงอีกแล้ว</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">You tried to stop me with such little strength?</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">You should’ve known your place.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">It’s unfortunate, but it’s time you gave up.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">แกพยายามจะหยุดฉันด้วยพลังอันน้อยนิดอย่างงั้นหรอ?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">แกควรรู้จักสถานที่ของตัวเองบ้างนะ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">น่าเสียดาย แต่หมดเวลาที่จะให้แกยอมแพ้แล้ว</BattleDialog>
     </Type>
   </Character>
   <Character ID="Yang">
