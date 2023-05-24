@@ -301,428 +301,428 @@
       <Place>
         <PlaceName>Location: Hana Association Southern Branch, Section 3 Meeting Room</PlaceName>
         <Dialog ID="0" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_1</VoiceFile>
-          <Content>I trust that you’ve read the report in advance?</Content>
+          <Content>ฉันเชื่อว่าพวกเธอได้อ่านรายงานมาก่อนแล้วสินะ?</Content>
         </Dialog>
         <Dialog ID="1" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_2</VoiceFile>
-          <Content>Hana Association will officially be in full charge of the matters regarding the Library from now on.</Content>
+          <Content>สมาพันธ์ฮานะจะรับหน้าที่ในเรื่องที่เกี่ยวกับหอสมุดอย่างเป็นทางการนับแต่นี้ไป</Content>
         </Dialog>
         <Dialog ID="2" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_1</VoiceFile>
-          <Content>To think that the Library would become a Star of the City… and become the Hana’s target.</Content>
+          <Content>ใครจะคิดว่าหอสมุดจะกลายเป็นดาวประจำเมือง… และตกเป็นเป้าของฮานะ</Content>
         </Dialog>
         <Dialog ID="3" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_2</VoiceFile>
-          <Content>Your predictions were right, Director Mirinae.</Content>
+          <Content>การคาดคะเนของคุณถูกต้องเลยค่ะ ผู้กำกับมิริเนะ.</Content>
         </Dialog>
         <Dialog ID="4" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_3</VoiceFile>
-          <Content>Harold, you won’t survive here for long if you can’t figure this much.</Content>
+          <Content>ฮาโรลด์ เธอเองก็รอดที่นี่ได้ไม่นานแน่ถ้าเธอเองก็ไม่รู้ขนาดนี้</Content>
         </Dialog>
         <Dialog ID="5" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_4</VoiceFile>
-          <Content>…Your thoughts must be complicated right now, Olivier.</Content>
+          <Content>…ความคิดของเธอคงซํบซ้อนมากเลยสินะ โอลิเวียร์</Content>
         </Dialog>
         <Dialog ID="6" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_1</VoiceFile>
-          <Content>Who could’ve known that my old friend would be found in the Library after going missing?</Content>
+          <Content>ใครจะไปรู้ว่าเพื่อนเก่าผมจะถูกพบในหอสมุดหลังจากที่หายตัวไปล่ะ?</Content>
         </Dialog>
         <Dialog ID="7" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_5</VoiceFile>
-          <Content>You won’t botch your job because of that, right?</Content>
+          <Content>เธอคงไม่ทิ้งงานเพราะเรื่องนั้น ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="8" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_2</VoiceFile>
           <Content>That’s that, and this is this.</Content>
         </Dialog>
         <Dialog ID="9" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_3</VoiceFile>
-          <Content>It’s what he used to say all the time.</Content>
+          <Content>นั่นคือสิ่งที่เขาเคยพูดตลอดเวลา</Content>
         </Dialog>
         <Dialog ID="10" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_6</VoiceFile>
-          <Content>Good. We have one purpose.</Content>
+          <Content>ดี เรามีจุดมุ่งหมายเดียว</Content>
         </Dialog>
         <Dialog ID="11" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_7</VoiceFile>
-          <Content>To thoroughly examine the relationship between the Distortion phenomenon and the Library. All conflicts are allowed in the process.</Content>
+          <Content>เพื่อการตรวจสอบความสัมพันธ์ระหว่างปรากฎการณ์บิดเบือนและหอสมุดอย่างละเอียด จะอนุญาตให้ปะทะกันได้ทุกรูปแบบ</Content>
         </Dialog>
         <Dialog ID="12" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_8</VoiceFile>
-          <Content>The Library is a Star of the City that shines over us now.</Content>
+          <Content>หอสมุดนั้นเป็นดาวประจำเมืองที่ฉายแสงเหนือเราแล้ว</Content>
         </Dialog>
         <Dialog ID="13" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_3</VoiceFile>
-          <Content>There are still many ambiguous points in their connection… Someone’s got to observe the causality, and that someone’s us.</Content>
+          <Content>มันยังมีส่วนคลุมเครือในจุดเชื่อมต่อนั้นอยู่หลายจุด… ต้องมีคนจับตาดูจุดชนวนนั้น และคนๆนั้นก็คือเรา</Content>
         </Dialog>
         <Dialog ID="14" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_9</VoiceFile>
-          <Content>The Library continues to grow in strength, devouring pretty much anything and everything that enters.</Content>
+          <Content>หอสมุดนั้นยังคงเติบโตอยู่ต่อเนื่อง กลืนกินทุกสิ่งทุกอย่างที่เข้าไป</Content>
         </Dialog>
         <Dialog ID="15" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_10</VoiceFile>
-          <Content>It’s so fierce, it could consume our City at this rate… That’s why we should figure out how the Library functions as well.</Content>
+          <Content>มันอำมหิตมาก เป็นแบบนี้คงสามารถกลืนนครของเราได้… นั่นคือทำไมว่าเราควรหาว่าหอสมุดทำงานอย่างไรด้วย</Content>
         </Dialog>
         <Dialog ID="16" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_11</VoiceFile>
-          <Content>To start off, let’s recap the current circumstances.</Content>
+          <Content>อย่างแรกสุด เรามาสรุปสถานการณปัจจุบันกัน</Content>
         </Dialog>
         <Dialog ID="17" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_4</VoiceFile>
-          <Content>The southern branch of the Liu Association seems to be reeling from the shock of losing its most prominent Fixers to the Library. Its voice in the general assembly will be small for a while.</Content>
+          <Content>แผนกใต้ของสมาพันธ์ลู่เหมือนว่าจะยังเคว้งจากการที่เสียฟิกเซอร์ตัวสำคัญให้กับหอสมุด เสียงในที่ประชุมคงจะเล็กไปสักพัก</Content>
         </Dialog>
         <Dialog ID="18" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_12</VoiceFile>
-          <Content>Then I suppose the southern branch of the Liu is being extremely passive at the moment, trying to avoid retaliation from the Thumb?</Content>
+          <Content>แบบนั้นฉันคิดว่าแผนกใต้ของลู่คงทำตัวสงบสุดๆเลยในตอนนี้ คงพยายามเลื่ยงการตอบโต้จากพวกทัมป์สินะ?</Content>
         </Dialog>
         <Dialog ID="19" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_5</VoiceFile>
-          <Content>Not exactly. The Thumb is suffering from the same problem. They lost their Underboss who was stationed in L Corp’s Nest as well as a number of competent Capos, so it’s likely that they got knocked out of this strife too.</Content>
+          <Content>ก็ไม่ใช่ทีเดียว พวกทัมป์นั้นก็มีปัญหาแบบเดียวกัน พวกนั้นเสียรองหัวหน้าใหญ่ที่ประจำการในรังของ L Corp รวมไปถึงหัวหน้าหน่วยมือดีไปหลายคน ฉะนั้นก็มีแนวโน้มว่าพวกนั้นจะโดนน็อคจากความขัดแย้งนี้ด้วย</Content>
         </Dialog>
         <Dialog ID="20" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_4</VoiceFile>
-          <Content>Which means, the only sizable threat remaining in L Corp’s Nest is…</Content>
+          <Content>ซึ่งหมายถึง ภัยขนาดใหญ่เดียวที่เหลืออยู่ในรังของ L Corp คือ…</Content>
         </Dialog>
         <Dialog ID="21" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_6</VoiceFile>
-          <Content>Yes, it’s them.</Content>
+          <Content>ครับ พวกนั้นล่ะ</Content>
         </Dialog>
         <Dialog ID="22" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_13</VoiceFile>
-          <Content>When the Library unveiled itself as the fog surrounding L Corp’s Nest cleared away…</Content>
+          <Content>เมื่อหอสมุดเปิดเผยตัวตนออกมาทันทีที่หมอกที่ปกคลุมรังของ L Corp หายไปทั้งหมด…</Content>
         </Dialog>
         <Dialog ID="23" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_14</VoiceFile>
-          <Content>The Blue Reverberation… No, the Reverberation Ensemble set up camp around it, preventing anyone else from approaching.</Content>
+          <Content>เสียงกังวาลอินทนิล… ไม่สิ คณะเสียงกังวาลได้ตั้งแคมป์รอบมันไว้ หยุดไม่ให้ใครเข้าไป</Content>
         </Dialog>
         <Dialog ID="24" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_7</VoiceFile>
           <Content>And they’re generating a concerning number of Distortions from there. Who knows what they’re up to in that base of theirs…</Content>
         </Dialog>
         <Dialog ID="25" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_15</VoiceFile>
           <Content>The Blue Reverberation… Judging by his recent actions, he can no longer be considered a Fixer… He’s leading a dangerous Syndicate, at least on the level of a Star of the City.</Content>
         </Dialog>
         <Dialog ID="26" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_8</VoiceFile>
           <Content>…He’s gone mad ever since he lost his sister.</Content>
         </Dialog>
         <Dialog ID="27" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_16</VoiceFile>
           <Content>Not that I can’t understand how he must’ve felt. The Pianist left an indelible, twisted mark on the City that day.</Content>
         </Dialog>
         <Dialog ID="28" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_5</VoiceFile>
           <Content>So, how is the workforce going to be distributed?</Content>
         </Dialog>
         <Dialog ID="29" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_17</VoiceFile>
           <Content>For starters, us at Section 3 will be focusing on the Library.</Content>
         </Dialog>
         <Dialog ID="30" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_18</VoiceFile>
           <Content>The objective is to retrieve as many books as possible from the Library itself, and secure Distortions from the Nest.</Content>
         </Dialog>
         <Dialog ID="31" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_19</VoiceFile>
           <Content>And I’d like you to send an official request to all Grade 1 Offices for chasing down the Blue Reverberation.</Content>
         </Dialog>
         <Dialog ID="32" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_9</VoiceFile>
           <Content>Sections 1 and 2 have other things to do, I assume?</Content>
         </Dialog>
         <Dialog ID="33" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_6</VoiceFile>
           <Content>You said Section 1 was dealing with the Blue Reverb, and Section 2 was after the Eight Chefs, right?</Content>
         </Dialog>
         <Dialog ID="34" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_20</VoiceFile>
           <Content>You’ve got it. Furthermore…</Content>
         </Dialog>
         <Dialog ID="35" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_21</VoiceFile>
           <Content>I received news that Section 1 was annihilated while pursuing the Blue Reverberation. They had dispatched the Vermilion Cross—a Color—to join the operation, too…</Content>
         </Dialog>
         <Dialog ID="36" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_10</VoiceFile>
           <Content>That can’t be. All of them are gone?</Content>
         </Dialog>
         <Dialog ID="37" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_7</VoiceFile>
           <Content>I can’t fathom the strength the Blue Reverberation has…</Content>
         </Dialog>
         <Dialog ID="38" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_22</VoiceFile>
           <Content>And Section 2 sent a report saying that the Eight Chefs have already disbanded.</Content>
         </Dialog>
         <Dialog ID="39" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_23</VoiceFile>
           <Content>Seven of the chefs were found cooked when they arrived at the site, to be exact.</Content>
         </Dialog>
         <Dialog ID="40" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_24</VoiceFile>
           <Content>The chefs were all mutilated badly; it was nigh impossible to recognize them.</Content>
         </Dialog>
         <Dialog ID="41" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_11</VoiceFile>
           <Content>What about the last one?</Content>
         </Dialog>
         <Dialog ID="42" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_25</VoiceFile>
           <Content>Gone missing.</Content>
         </Dialog>
         <Dialog ID="43" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_8</VoiceFile>
           <Content>Did they betray their peers… and cook them…?</Content>
         </Dialog>
         <Dialog ID="44" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_26</VoiceFile>
           <Content>That probably isn’t the case. While what happened does appear to be something the Eight Chefs would do, their favored type of table service was full-course meals, not a buffet.</Content>
         </Dialog>
         <Dialog ID="45" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_27</VoiceFile>
           <Content>Based on this evidence which suggests interference from outside, the Association HQ is considering to make an official announcement that the Star has fallen.</Content>
         </Dialog>
         <Dialog ID="46" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_9</VoiceFile>
           <Content>The prime question would be who was behind the dissolution of the Eight Chefs.</Content>
         </Dialog>
         <Dialog ID="47" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_12</VoiceFile>
           <Content>Could it be…?</Content>
         </Dialog>
         <Dialog ID="48" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_28</VoiceFile>
           <Content>Indeed. Section 2 speculates that the Reverberation Ensemble might be the culprit.</Content>
         </Dialog>
         <Dialog ID="49" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_13</VoiceFile>
           <Content>The Blue Reverb might be plotting schemes beyond the Association’s assumptions…</Content>
         </Dialog>
         <Dialog ID="50" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_29</VoiceFile>
           <Content>Multiple incidents of abnormal scale are happening across the southern quarter of the City.</Content>
         </Dialog>
         <Dialog ID="51" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_30</VoiceFile>
           <Content>There have been worse events in the past, but the frequency and convolution of this situation is unprecedented.</Content>
         </Dialog>
         <Dialog ID="52" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_31</VoiceFile>
           <Content>Every Association is in a state of emergency, including ours.</Content>
         </Dialog>
         <Dialog ID="53" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_32</VoiceFile>
           <Content>According to the Seven Association, the southern branches of Tres Association and Cinq Association also suffered losses of important members due to Distortions.</Content>
         </Dialog>
         <Dialog ID="54" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_14</VoiceFile>
           <Content>Over there… The Blood-red Night and L’heure du Loup must have been responsible for those.</Content>
         </Dialog>
         <Dialog ID="55" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_10</VoiceFile>
           <Content>Both of which have risen in threat level significantly. Not to mention the Puppeteer.</Content>
         </Dialog>
         <Dialog ID="56" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_11</VoiceFile>
           <Content>Moreover, Yesterday’s Promise is apparently capable of teleportation with such ease that it puts W Corp’s Singularity to shame…</Content>
         </Dialog>
         <Dialog ID="57" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_33</VoiceFile>
           <Content>None of those are powers that an individual should be allowed to possess.</Content>
         </Dialog>
         <Dialog ID="58" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_34</VoiceFile>
           <Content>The Distortion is defying what the City had stood for until now. It’s changing the atmosphere of the City.</Content>
         </Dialog>
         <Dialog ID="59" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_15</VoiceFile>
           <Content>Is the Head doing nothing about it despite that?</Content>
         </Dialog>
         <Dialog ID="60" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_35</VoiceFile>
           <Content>They’ve been eerily quiet—or rather, our higher-ups could be intentionally withholding information on the Head’s activity.</Content>
         </Dialog>
         <Dialog ID="61" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_12</VoiceFile>
           <Content>Director Mirinae… Is it possible that we might take our hands off the Library depending on the circumstances?</Content>
         </Dialog>
         <Dialog ID="62" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_36</VoiceFile>
           <Content>No. We’ve been ordered to go to the Library, in fact.</Content>
         </Dialog>
         <Dialog ID="63" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_37</VoiceFile>
           <Content>In order to control this situation, we need unambiguous information about the powers of the Library and its intentions.</Content>
         </Dialog>
         <Dialog ID="64" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_38</VoiceFile>
           <Content>We have Section 4 to help us place a lockdown on Nest L. We can’t let the Distortions created by the Reverberation Ensemble leave the area.</Content>
         </Dialog>
         <Dialog ID="65" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_16</VoiceFile>
           <Content>Did the powers that be determine that us Section 3 should be enough to take care of the Library?</Content>
         </Dialog>
         <Dialog ID="66" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_39</VoiceFile>
           <Content>If it doesn’t work out, then that’s the end of the line for us. It also means there’s nothing more we can do about it.</Content>
         </Dialog>
         <Dialog ID="67" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_40</VoiceFile>
           <Content>And if that happens, the Library will mark its presence on the sky next to the other Stars as one of the freest beings of the City.</Content>
         </Dialog>
         <Dialog ID="68" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_41</VoiceFile>
           <Content>While the everyman is working overnight, restrained to the office desk.</Content>
         </Dialog>
         <Dialog ID="69" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_42</VoiceFile>
           <Content>Anyway, get ready to move, everybody.</Content>
         </Dialog>
         <Dialog ID="70" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_17</VoiceFile>
           <Content>…Director. Can we talk for a moment after the meeting is over?</Content>
         </Dialog>
@@ -811,8 +811,8 @@
           <Content>Greetings, dear guests.</Content>
         </Dialog>
         <Dialog ID="84" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_43</VoiceFile>
           <Content>Did you know? The Library is visible from anywhere in L Corp’s Nest now.</Content>
         </Dialog>
@@ -823,28 +823,28 @@
           <Content>What do you mean?</Content>
         </Dialog>
         <Dialog ID="86" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_13</VoiceFile>
           <Content>The mist that protects the Library is almost gone.</Content>
         </Dialog>
         <Dialog ID="87" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_14</VoiceFile>
           <Content>Which means it’ll become possible to demolish the whole Library from the outside soon.</Content>
         </Dialog>
         <Dialog ID="88" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_44</VoiceFile>
           <Content>So you’d better start making backup plans.</Content>
         </Dialog>
         <Dialog ID="89" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_45</VoiceFile>
-          <Content>Here, let’s shake hands. I’m Mirinae, Director of Section 3 of the Hana Association, Southern Branch.</Content>
+          <Content>Here, let’s shake hands. I’m มิริเนะ, Director of Section 3 of the Hana Association, Southern Branch.</Content>
         </Dialog>
         <Dialog ID="90" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -853,34 +853,34 @@
           <Content>This is my first time shaking hands with a guest.</Content>
         </Dialog>
         <Dialog ID="91" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_46</VoiceFile>
           <Content>You’ve become a Star of the City, which means you’ll be seeing our Association frequently from now on.</Content>
         </Dialog>
         <Dialog ID="92" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_47</VoiceFile>
           <Content>Please don’t fall too easily for us, now.</Content>
         </Dialog>
         <Dialog ID="93" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_48</VoiceFile>
           <Content>Go ahead and shake her hand, everyone.</Content>
         </Dialog>
         <Dialog ID="94" Model="해롤드">
-          <Teller>Harold</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>ฮาโรลด์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Harold_15</VoiceFile>
-          <Content>I am Harold, a Fixer from Section 3 of Hana Association’s Southern Branch.</Content>
+          <Content>I am ฮาโรลด์, a Fixer from Section 3 of Hana Association’s Southern Branch.</Content>
         </Dialog>
         <Dialog ID="95" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_18</VoiceFile>
-          <Content>Olivier, a Fixer from Section 3 of the Hana’s South.</Content>
+          <Content>โอลิเวียร์, a Fixer from Section 3 of the Hana’s South.</Content>
         </Dialog>
         <Dialog ID="96" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -889,20 +889,20 @@
           <Content>I hope to be greeting you for a long time.</Content>
         </Dialog>
         <Dialog ID="97" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_49</VoiceFile>
-          <Content>Olivier, you can go back now, seeing as you’ve met the owner of the Library face to face.</Content>
+          <Content>โอลิเวียร์, you can go back now, seeing as you’ve met the owner of the Library face to face.</Content>
         </Dialog>
         <Dialog ID="98" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_50</VoiceFile>
           <Content>The people at Section 2 are expecting you.</Content>
         </Dialog>
         <Dialog ID="99" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_19</VoiceFile>
           <Content>Got it.</Content>
         </Dialog>
@@ -913,14 +913,14 @@
           <Content>…What is the meaning of this?</Content>
         </Dialog>
         <Dialog ID="101" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_51</VoiceFile>
-          <Content>No need to be sensitive. I brought Olivier here so he could get a handshake from you.</Content>
+          <Content>No need to be sensitive. I brought โอลิเวียร์ here so he could get a handshake from you.</Content>
         </Dialog>
         <Dialog ID="102" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_20</VoiceFile>
           <Content>I’ll see myself out, then.</Content>
         </Dialog>
@@ -931,26 +931,26 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="104" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_52</VoiceFile>
           <Content>You think we’ve come here with a carefree attitude?</Content>
         </Dialog>
         <Dialog ID="105" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_53</VoiceFile>
           <Content>No need to worry about us underestimating you. We didn’t come here without a countermeasure, you see.</Content>
         </Dialog>
         <Dialog ID="106" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_54</VoiceFile>
           <Content>Since you’re a Star of the City, and we’re Fixers of Hana Association… We should treat you with due respect.</Content>
         </Dialog>
         <Dialog ID="107" Model="미리내">
-          <Teller>Mirinae</Teller>
-          <Title>Hana South Sec. 3 Director</Title>
+          <Teller>มิริเนะ</Teller>
+          <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_55</VoiceFile>
           <Content>Prepare yourself. A Star of the City is going down tonight.</Content>
         </Dialog>
@@ -1144,20 +1144,20 @@
     </Episode>
   </Group>
   <Group>
-    <GroupName>Olivier</GroupName>
+    <GroupName>โอลิเวียร์</GroupName>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
         <PlaceName>Location: ???</PlaceName>
         <Dialog ID="0" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_1</VoiceFile>
           <Content>…Purple Tear. I have done as you instructed me.</Content>
         </Dialog>
         <Dialog ID="1" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_2</VoiceFile>
           <Content>All that’s left is to settle this my way.</Content>
         </Dialog>
@@ -1171,14 +1171,14 @@
           <Content>Greetings, dear g—</Content>
         </Dialog>
         <Dialog ID="3" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_3</VoiceFile>
           <Content>The Purple Tear was right, you are nearly indistinguishable from a human now.</Content>
         </Dialog>
         <Dialog ID="4" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_4</VoiceFile>
           <Content>At the same time, the power of the Library which protects you has gotten weaker.</Content>
         </Dialog>
@@ -1189,14 +1189,14 @@
           <Content>…What is the meaning of this?</Content>
         </Dialog>
         <Dialog ID="6" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_5</VoiceFile>
           <Content>You should be more careful when your body is made of flesh rather than metal.</Content>
         </Dialog>
         <Dialog ID="7" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_6</VoiceFile>
           <Content>But it seems you can’t die from having your head chopped off yet.</Content>
         </Dialog>
@@ -1207,8 +1207,8 @@
           <Content>Sigh… I suppose I can’t. I was wondering what you were up to.</Content>
         </Dialog>
         <Dialog ID="9" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_7</VoiceFile>
           <Content>There’s still an abundance of options that don’t involve killing.</Content>
         </Dialog>
@@ -1219,26 +1219,26 @@
           <Content>Wh… a…</Content>
         </Dialog>
         <Dialog ID="11" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_8</VoiceFile>
           <Content>A workshop-crafted assassination device with T Corp’s Singularity applied to it, bought just for you.</Content>
         </Dialog>
         <Dialog ID="12" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_9</VoiceFile>
           <Content>You may have power, but you’re certainly gullible.</Content>
         </Dialog>
         <Dialog ID="13" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_10</VoiceFile>
           <Content>That’s what happens when you accept handshakes from those who oppose you without having a hint of doubt.</Content>
         </Dialog>
         <Dialog ID="14" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_11</VoiceFile>
           <Content>First, it paralyzes the target, and when I p—</Content>
         </Dialog>
@@ -1279,14 +1279,14 @@
           <Content>Did you blow your entire fortune on this thing or what? And you spoke too much.</Content>
         </Dialog>
         <Dialog ID="21" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_12</VoiceFile>
           <Content>It’s been a while, Roland… I was waiting for you to show up.</Content>
         </Dialog>
         <Dialog ID="22" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_13</VoiceFile>
           <Content>So you’ve been guarding this monster mimicking a human all along?</Content>
         </Dialog>
@@ -1321,14 +1321,14 @@
           <Content>Alright. …You can call me anytime if you need assistance.</Content>
         </Dialog>
         <Dialog ID="28" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_14</VoiceFile>
           <Content>Roland… Is this what your big plan was all about? Is this really worth it?</Content>
         </Dialog>
         <Dialog ID="29" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_15</VoiceFile>
           <Content>What you’re doing isn’t any different from all the tragedies we’ve seen and gone through… You’ve been perpetuating it in the Library with that machine.</Content>
         </Dialog>
@@ -1339,8 +1339,8 @@
           <Content>…I won’t expect you to understand me.</Content>
         </Dialog>
         <Dialog ID="31" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_16</VoiceFile>
           <Content>…Take these. The gloves of the Black Silence. And let’s say we’ve evened the score now.</Content>
         </Dialog>
@@ -1357,68 +1357,68 @@
           <Content>With this, I got all the help I could ask of you.</Content>
         </Dialog>
         <Dialog ID="34" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_17</VoiceFile>
           <Content>I’m partly responsible for what happened to you, which led you here…</Content>
         </Dialog>
         <Dialog ID="35" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_18</VoiceFile>
           <Content>You have no idea the mess I had to clean up after you went missing.</Content>
         </Dialog>
         <Dialog ID="36" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_19</VoiceFile>
           <Content>Neither of us had parents or any real family, so you probably thought no one would be concerned about you.</Content>
         </Dialog>
         <Dialog ID="37" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_20</VoiceFile>
           <Content>And you were wrong. I was actually pretty worried for you, unlike some others in Charles’ Office.</Content>
         </Dialog>
         <Dialog ID="38" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_21</VoiceFile>
           <Content>A bunch of thoughts came to my mind when you left after making a lengthy ramble.</Content>
         </Dialog>
         <Dialog ID="39" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_22</VoiceFile>
           <Content>Not long after that… I heard news that a person who appeared to be the Black Silence was on a crazed rampage across the City.</Content>
         </Dialog>
         <Dialog ID="40" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_23</VoiceFile>
           <Content>Said he was slaughtering Syndicates that were doing suspicious experiments left and right.</Content>
         </Dialog>
         <Dialog ID="41" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_24</VoiceFile>
           <Content>His wave of destruction didn’t discriminate. Even Fingers and Fixer Offices were caught in its wake…</Content>
         </Dialog>
         <Dialog ID="42" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_25</VoiceFile>
           <Content>I almost had to question myself for a moment when I heard that you crushed a good half of the Middle in the south.</Content>
         </Dialog>
         <Dialog ID="43" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_26</VoiceFile>
           <Content>It was as if you were venting out all of your frustrations and resentment on the City.</Content>
         </Dialog>
         <Dialog ID="44" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_27</VoiceFile>
           <Content>And if that were the case… I thought you might keep going and demolish the City itself out of sheer anger and madness.</Content>
         </Dialog>
@@ -1429,8 +1429,8 @@
           <Content>C’mon, you’re blowing things out of proportion again.</Content>
         </Dialog>
         <Dialog ID="46" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_28</VoiceFile>
           <Content>Anyone would’ve thought the same thing if they had looked into your eyes behind that dark mask at the time.</Content>
         </Dialog>
@@ -1453,8 +1453,8 @@
           <Content>This was a long time ago, but you wouldn’t’ve survived if I hadn’t gotten to where you were after you contacted me back then.</Content>
         </Dialog>
         <Dialog ID="50" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_29</VoiceFile>
           <Content>I appreciate you coming over to help me along that short call that day… Sorry about… what happened next.</Content>
         </Dialog>
@@ -1465,8 +1465,8 @@
           <Content>Never mind it. I only rushed to save your ass ‘cause you said I might get a Nest Migration permit.</Content>
         </Dialog>
         <Dialog ID="52" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_30</VoiceFile>
           <Content>I’m sorry for all the trouble.</Content>
         </Dialog>
@@ -1477,14 +1477,14 @@
           <Content>How’re the others doing, anyway? Like Ogier or Astolfo.</Content>
         </Dialog>
         <Dialog ID="54" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_31</VoiceFile>
           <Content>Joining Wings, exploring the Ruins… They’ve found their ways to make a living for themselves.</Content>
         </Dialog>
         <Dialog ID="55" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_32</VoiceFile>
           <Content>We just aren’t how we used to be. We’ve grown too distant.</Content>
         </Dialog>
@@ -1501,8 +1501,8 @@
           <Content>…Say, ‘member when the two of us handled an Urban Nightmare case for the first time? The uh… What was that case called…</Content>
         </Dialog>
         <Dialog ID="58" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_33</VoiceFile>
           <Content>The Secret of the Demi-glace Sauce, which occurred in the Backstreets of District 16.</Content>
         </Dialog>
@@ -1519,14 +1519,14 @@
           <Content>Though thanks to me, you saved yourself the need to get a new arm. That was one thrilling job.</Content>
         </Dialog>
         <Dialog ID="61" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_34</VoiceFile>
           <Content>Huff… Let’s set the record straight.</Content>
         </Dialog>
         <Dialog ID="62" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_35</VoiceFile>
           <Content>None of that would have happened if you hadn’t tried to take a sip of the sauce out of the ladle “to see how great its taste must be to cause an incident”.</Content>
         </Dialog>
@@ -1543,14 +1543,14 @@
           <Content>…Those were the days, still. We didn’t have to worry about too many things, and just stuck to the matters at hand.</Content>
         </Dialog>
         <Dialog ID="65" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_36</VoiceFile>
           <Content>Yeah… But you know we can’t go back to those times anymore, โรแลนด์.</Content>
         </Dialog>
         <Dialog ID="66" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_37</VoiceFile>
           <Content>You swallowed your anger and sadness to work with that machine, so I don’t doubt that you’ve prepared yourself for a lot of things.</Content>
         </Dialog>
@@ -1558,23 +1558,23 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep2_Roland_25</VoiceFile>
-          <Content>I know. Both of us have gone too far down our roads. It was nice talking to you after a long while though, Olivier.</Content>
+          <Content>I know. Both of us have gone too far down our roads. It was nice talking to you after a long while though, โอลิเวียร์.</Content>
         </Dialog>
         <Dialog ID="68" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_38</VoiceFile>
           <Content>I’m only doing my job as a Fixer of the Hana Association now.</Content>
         </Dialog>
         <Dialog ID="69" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_39</VoiceFile>
           <Content>To retrieve the books of my colleagues, and dispatch threats.</Content>
         </Dialog>
         <Dialog ID="70" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_40</VoiceFile>
           <Content>That’s that, and this is this. Isn’t that right?</Content>
         </Dialog>
@@ -1585,8 +1585,8 @@
           <Content>…Right you are. That’s that, and this is this.</Content>
         </Dialog>
         <Dialog ID="72" Model="올리비에">
-          <Teller>Olivier</Teller>
-          <Title>Hana South Sec. 3 Fixer</Title>
+          <Teller>โอลิเวียร์</Teller>
+          <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_41</VoiceFile>
           <Content>…Let us begin.</Content>
         </Dialog>
