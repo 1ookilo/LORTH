@@ -922,7 +922,7 @@
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san5</VoiceFile>
-          <Content>ใช่ เธอคนนั้นล่ะ สมาพันธ์ฮานะยังไม่ประเมินว่าคำขอนี้เป็นหัวข้อที่ต้องแจ้งอย่างเป็นทางการ</Content>
+          <Content>ใช่ เธอคนนั้นล่ะ สมาพันธ์ฮานะยังไม่ประเมินว่าคำร้องนี้เป็นหัวข้อที่ต้องแจ้งอย่างเป็นทางการ</Content>
         </Dialog>
         <Dialog ID="24" Model="산">
           <Teller>ซาน</Teller>
@@ -952,7 +952,7 @@
           <Teller>มาร์ส</Teller>
           <Title>ฟิกเซอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars8</VoiceFile>
-          <Content>แต่เราอาจไม่ได้ค่าจ้างมากจากคำขอนี้ถ้ามันเป็นงานนอกบัญชีน่ะสิ</Content>
+          <Content>แต่เราอาจไม่ได้ค่าจ้างมากจากคำร้องนี้ถ้ามันเป็นงานนอกบัญชีน่ะสิ</Content>
         </Dialog>
         <Dialog ID="29" Model="루루">
           <Teller>ลูลู่</Teller>
@@ -976,7 +976,7 @@
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch2_Streetlight_ep1_san9</VoiceFile>
-          <Content>เธอคนนั้นเองก็สัญญาว่าจะหาทางตอบแทนเราด้วยค่าจ้างเทียบเท่ากับคำขอระดับตำนานเมืองถ้าทุกอย่างไปได้สวยนะ…</Content>
+          <Content>เธอคนนั้นเองก็สัญญาว่าจะหาทางตอบแทนเราด้วยค่าจ้างเทียบเท่ากับคำร้องระดับตำนานเมืองถ้าทุกอย่างไปได้สวยนะ…</Content>
         </Dialog>
         <Dialog ID="33" Model="마스">
           <Teller>มาร์ส</Teller>
@@ -1039,7 +1039,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland3</VoiceFile>
-          <Content>เคสและคำขอนั้นถูกจัดตามประเภทและถูกส่งไปตามสมาพันธ์พวกนี้</Content>
+          <Content>เคสและคำร้องนั้นถูกจัดตามประเภทและถูกส่งไปตามสมาพันธ์พวกนี้</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1069,7 +1069,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland6</VoiceFile>
-          <Content>จำเป็นเลยล่ะ คำขอที่ถูกส่งโดยสมาพันธ์ก็ถูกจัดเกรดด้วยเช่นกัน</Content>
+          <Content>จำเป็นเลยล่ะ คำร้องที่ถูกส่งโดยสมาพันธ์ก็ถูกจัดเกรดด้วยเช่นกัน</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
