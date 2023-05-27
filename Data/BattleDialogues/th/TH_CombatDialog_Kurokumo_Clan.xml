@@ -20,7 +20,7 @@
       <BattleDialog ID="COLLEAGUE_DEATH_2">ดูเหมือนว่าสถานการณ์กำลังดำเนินไปในทิศทางที่ค่อนข้างน่าเป็นห่วง</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">ถ้าเธอไม่สามารถทำงานนี้ได้ดีเท่าที่ควรแล้วละก็ ควรจะเก็บข้าวเก็ฐของและลาออกจากอาชีพนี้ไปซะ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ถ้าเธอไม่สามารถทำงานนี้ได้ดีเท่าที่ควรแล้วละก็ ควรจะเก็บข้าวเก็บของและลาออกจากอาชีพนี้ไปซะ</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_1">ดูเหมือนเธอรีบร้อนไปนะ~ กังวลใจอยู่หรือเปล่า?</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_2">มันไม่น่าพอใจสำหรับกลุ่มที่มีชื่อเสียงเช่นนี้</BattleDialog>
     </Type>
@@ -51,50 +51,50 @@
   </Character>
   <Character ID="Yang">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Hooh~ Man, I’m tired.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">When will I get to stop covering myself in dirty bloodstains?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">No good can come from getting flustered like that~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ฮู่~ เพื่อน ฉันเหนื่อยแล้วนะเว้ย</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">เมื่อไรฉันจะได้หยุดทำงานเปื้อนคราบเลือดสักที?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">รีบร้อนไปก็ไม่มีผลดีหรอกน่า~</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Now I get why that whelp sent us here. Saw a lot of weird things.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">You’re so frail, I can’t stand to watch it.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ตอนนี้เข้าใจแล้วแฮะว่าทำไมเด็กนั้นถึงส่งเรามาท่นี่ ได้เห็นอะไรประหลาดๆเข้าจนได้</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">แกอ่อนแอมากจนฉันแทบดูไม่ได้ว่ะ</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Blast… Do you even know what happens if you treat Kurokumo like this…?</BattleDialog>
+      <BattleDialog ID="DEATH_0">แกรู้รึเปล่าถ้ามาจัดการกับตระกูลคุโรคุโมะแบบนี้แล้วจะเกิดอะไรขึ้น…?</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">That… was pretty sharp. I’d better watch out for it.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">No way. We’re being overpowered by those scumbags?</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">No good can come from losing our forces one by one…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">อูยยย นั้น…ก็รุนแรงเลยทีเดียว ฉันคงต้องระวังมั้งแล้ว</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">ไม่มีทางน่า เราโดนพวกสวะเล่นเข้าให้แล้วหรอเนี้ย?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">ไม่ได้การละเดี้ยงกันไปทีละหน่อเลย…</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Hah, I left myself open more often than I wanted, too.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">We aren’t doing this as a joke, y’know.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Wasn’t even worth dodging.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ฮะห่าว ฉันก็ให้โอกาสหลายครั้งแล้วนะ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">รู้ไว้ซะ เรื่องนี้เราไม่ได้ทำกันเล่นๆหรอกนะ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">เสียเวลาหลบเปล่าๆ ฮะฮ่า</BattleDialog>
     </Type>
   </Character>
   <Character ID="Normal Enemies">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">I won’t let them lay a blade on Madame Sayo.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Start a fight against us Kurokumo… You’re pretty gutsy, I’ll give you that.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">We’ll be moving first. Be prepared, everyone…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ฉันจะไม่ปล่อยให้พวกมันทำอะไรนายหญิงซาโยะได้หรอกนะ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">เลือกที่จะต่อต้านพวกเราตระกูลคุโรคุโมะ พวกแกช่างกล้าหาญดีนะ ฉันละยอมใจจริงๆ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">เราจะเริ่มก่อน เตรียมตัวให้กดีละ…</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I think we can consider it a success.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Can’t wait to wash off all this blood in a nice hot bath.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ฉันคิดว่าน่าจะจบแล้วล่ะ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">แทบจะรอไม่ไหวแล้ว ที่จะได้ไปแช่ตัวในอ่างน้ำร้อน</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I never thought… I’d make such a mistake…</BattleDialog>
+      <BattleDialog ID="DEATH_0">ฉันไม่คิดเลยว่า… ฉันจะทำพลาด…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">R—Run, dame. Something’s not right about this place…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Another one fell… This isn’t good.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">That sent chills down my spine. Dammit… This is scaring me.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">ว—วิ่ง นายหญิง ที่นี่มันแปลกๆนะครับ…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">เดี้ยงไปอีกหนึ่ง… เริ่มซะไม่ดีแล้ว</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">นั้นมันทำให้เสียวสันหลังวาบเลยเว้ย แม่งเอ้ย… ฉันเริ่มเยี่ยวเล็ดแล้วว่ะ</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">We could use a bit more caution as we proceed.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">You were rather skilled… But you were rash at the last moment.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">I won’t let all of you get away.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">เราต้องระวังให้มากขึ้นแล้วไปกันต่อ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">แกค่อนข้างมีฝีมือนะ… แต่แกพลาดในวินาทีสุดท้าย</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ฉันจะไม่ปล่อยให้พวกแกรอดไปได้แม้แต่สักตัว</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>

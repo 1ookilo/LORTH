@@ -497,7 +497,8 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <Abnormality>Today’s Shy Look</Abnormality>
       <CardName>ความเขินอาย</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-เมื่อเล่นเต๋าป้องกันทุกลูกในเพจนั้นได้รับพลังเท่ากับจำนวนเต๋าตั้งรับทุกลูกในเพจดังกล่าง</AbilityDesc>
+เมื่อเล่นเต๋าป้องกันทุกลูกในเพจนั้น
+ได้รับพลังเท่ากับจำนวนเต๋าตั้งรับทุกลูกในเพจดังกล่าว</AbilityDesc>
       <FlaborText>การที่ใครสักคนไม่กล้าเปิดหน้าก็คงเป็นความเขินรูปแบบหนึ่ง เมื่ออารมณ์เกิดความสั่นทอนเป็นเวลานานๆ การปิดหน้าจึงเป็นตัวเลือกที่ง่ายกว่า</FlaborText>
       <Dialogues>
         <Dialogue ID="1">I’m just shy, that’s all. Just shy…</Dialogue>
@@ -1031,7 +1032,8 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <Abnormality>Pinocchio</Abnormality>
       <CardName>โกหกตดเหม็น</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-เมื่อเริ่มฉาก ทำการสุ่มค่าคอสของเพจทุกใบที่มีค่าคอสเดิมน้อยกว่า 4.</AbilityDesc>
+เมื่อเริ่มฉากทำการสุ่มค่าคอสของเพจทุกใบ
+ที่มีค่าคอสเดิมน้อยกว่า 4</AbilityDesc>
       <FlaborText>ใครๆเขาก็โกหกกัน มันจะแย่ได้ยังไงจริงไหม?</FlaborText>
       <Dialogues>
         <Dialogue ID="1">People love to say things the other way round.</Dialogue>
