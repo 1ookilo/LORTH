@@ -706,13 +706,13 @@
           <Teller>มิริเนะ</Teller>
           <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_40</VoiceFile>
-          <Content>และถ้าเกิดขึ้นจริง หอสมุดจะประทับตัวตนของมันบนฟากฟ้าเคียงข้างดาวดวงอื่นในฐานะสิ่งที่อิสระที่สุดในนคร</Content>
+          <Content>และถ้ามันเกิดขึ้นจริง หอสมุดจะประทับตัวตนของมันบนฟากฟ้าเคียงข้างดาวดวงอื่นในฐานะสิ่งที่อิสระที่สุดในนคร</Content>
         </Dialog>
         <Dialog ID="68" Model="미리내">
           <Teller>มิริเนะ</Teller>
           <Title>ผู้กำกับฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Mirinae_41</VoiceFile>
-          <Content>ขณะที่ทุกคนต่างกำลังทำงานล่วงคืน ถูกผูกไว้กับโต้ะออฟฟิศ</Content>
+          <Content>ขณะที่ทุกคนต่างกำลังทำงานล่วงคืน ถูกตรวนไว้กับโต้ะออฟฟิศ</Content>
         </Dialog>
         <Dialog ID="69" Model="미리내">
           <Teller>มิริเนะ</Teller>
@@ -724,7 +724,7 @@
           <Teller>โอลิเวียร์</Teller>
           <Title>ฟิกเซอร์ฮานะใต้หน่วย 3</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_17</VoiceFile>
-          <Content>…ผู้กำกับครับ เราขอคุยด้วยสักครู่หลังจบประชุมได้ไหม?</Content>
+          <Content>…ผู้กำกับครับ ผมขอคุยด้วยสักครู่หลังจบประชุมได้ไหม?</Content>
         </Dialog>
       </Place>
       <Place>
@@ -733,55 +733,55 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_1</VoiceFile>
-          <Content>To become the freest being in the City… It’s not quite sinking in.</Content>
+          <Content>การกลายเป็นสิ่งที่อิสระที่สุดในนคร… มันไม่ค่อยเข้ากันแฮะ</Content>
         </Dialog>
         <Dialog ID="72" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_1</VoiceFile>
-          <Content>Mhm. Looks like your goal is almost within reach.</Content>
+          <Content>อืม ดูเหมือนว่าเป้าหมายของเธอจะใกล้เอื้อมแล้วสินะ</Content>
         </Dialog>
         <Dialog ID="73" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_2</VoiceFile>
-          <Content>That’s right. I’m almost there… That makes it feel even less real.</Content>
+          <Content>ใช่แล้ว ฉันใกล้ได้แล้ว… มันทำให้รู้สึกไม่จริงยิ่งกว่าเก่าอีก</Content>
         </Dialog>
         <Dialog ID="74" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_3</VoiceFile>
-          <Content>We’ve been through so many things… and now the Hana Association is coming here.</Content>
+          <Content>เราผ่านอะไรมาหลายอย่าง… แล้วตอนนี้สมาพันธ์ฮานะก็กำลังมาที่นี่</Content>
         </Dialog>
         <Dialog ID="75" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep1_Angela_4</VoiceFile>
-          <Content>You said the Hana Association is the largest among the Fixer Associations, right?</Content>
+          <Content>นายบอกเองนี่ว่าสมาพันธ์ฮานะนั้นใหญ่ที่สุดในหมู่สมาพันธ์ฟิกเซอร์น่ะ ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="76" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_2</VoiceFile>
-          <Content>Yep. Like I said some time ago, the Hana Association is the institution that grants permits to Offices and grades Fixers.</Content>
+          <Content>ใช่ เหมือนที่ผมพูดไปเมื่อก่อน สมาพันธ์ฮานะนั้นเป็นสถาบันที่ให้ใบอนุญาตกับออฟฟิศและให้เกรดฟิกเซอร์</Content>
         </Dialog>
         <Dialog ID="77" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_3</VoiceFile>
-          <Content>They also adjust the threat levels of incidents in real-time and let everyone know.</Content>
+          <Content>พวกนั้นก็ปรับระดับภัยของอุบัติการณ์ต่างๆแบบเรียลไทม์และให้ทุกคนรู้ด้วย</Content>
         </Dialog>
         <Dialog ID="78" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_4</VoiceFile>
-          <Content>And the Hana Association sometimes takes matters into its own hands to strike down Stars of the City. Just like now.</Content>
+          <Content>และสมาพันธ์ฮานะบางครั้งก็รับมือเองและจัดการกับดาวประจำเมือง เหมือนกับตอนนี้</Content>
         </Dialog>
         <Dialog ID="79" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Hana_ep1_Roland_5</VoiceFile>
-          <Content>You’ll be seeing them often, since they’ll keep sending people here as long as we’re a Star of the City in all likelihood.</Content>
+          <Content>เธอได้เห็นพวกนั้นบ่อยแน่ เพราะว่าพวกนั้นจะส่งคนมาเรื่อยๆ ตราบใดที่เรายังคงสถานะดาวประจำเมืองอยู่</Content>
         </Dialog>
         <Dialog ID="80" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
