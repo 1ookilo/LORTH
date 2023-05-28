@@ -31,7 +31,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo2</VoiceFile>
-          <Content>เธอพูดถูก พวกนิ้วกลาง, พวกนิ้วนาง, และพวกพิ้งกี้ ดูเหมือนว่าพวกมันจะยุ่งกับเรื่องภายในของตัวเองมากเกินไปจนไม่สนใจที่จะเข้าร่วมศึกในครั้งนี้ ทำให้เบาใจได้เปราะหนึ่ง</Content>
+          <Content>เธอพูดถูก พวกนิ้วกลาง, พวกนิ้วนาง, และพวกนิ้วก้อย ดูเหมือนว่าพวกมันจะยุ่งกับเรื่องภายในมากเกินไปจนไม่สนใจที่จะเข้าร่วมกับศึกในครั้งนี้ ทำให้เบาใจได้เปราะหนึ่ง</Content>
         </Dialog>
         <Dialog ID="4" Model="카트리엘">
           <Teller>???</Teller>
@@ -58,103 +58,103 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland1</VoiceFile>
-          <Content>Looks like we’re about to ride a real big wave!</Content>
+          <Content>ดูเหมือนว่าพวกเรากำลังจะเจอกับคลื่นยักษ์ของจริงแล้ว!</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela1</VoiceFile>
-          <Content>What wave?</Content>
+          <Content>คลื่นอะไร?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland2</VoiceFile>
-          <Content>At this rate, the Library will soon be exalted to being an Urban Legend from its status as an Urban Myth.</Content>
+          <Content>ตามเรทอีท่านี้ ห้องสมุดแห่งนี้จะได้รับการกล่าวขานจากเรื่องเล่าประจำเมืองเป็นตำนานของเมืองในไม่ช้า</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland3</VoiceFile>
-          <Content>The City is brimming with cheap Urban Myths. It’s really hard to tell which are real and which are all made up.</Content>
+          <Content>เมืองนี้น่ะนะเต็มไปด้วยตำนานเรื่องเล่าประจำเมืองราคาถูกเยอะแยะไปหมด มันยากมากที่จะบอกว่าเรื่องไหนเป็นแต่งเรื่องไหนเป็นเรื่องจริง</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland4</VoiceFile>
-          <Content>What’s more, a lot of those Urban Myths turn out to be pretty plain and boring when you get down to the root of it all.</Content>
+          <Content>ยิ่งไปกว่านั้น เรื่องเล่าประจำเมืองเหล่านั้นส่วนใหญ่ค่อนข้างธรรมดาและน่าเบื่อเมื่อเธอรู้ถึงต้นตอของเรื่องราวเหล่านั้นจริงๆ</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland5</VoiceFile>
-          <Content>The real fun begins when an Urban Myth gets recognized as an Urban Legend.</Content>
+          <Content>ความสนุกของมันจริงๆเริ่มต้นเมื่อเรื่องเล่าประจำเมืองได้รับการกล่าวขานเป็นตำนานเมืองเนี้ยแหละน้า</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela2</VoiceFile>
-          <Content>You’re being too roundabout.</Content>
+          <Content>นายกำลังพูดวกวนเกินไปแล้วนะ</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela3</VoiceFile>
-          <Content>If the Associations designate us with a higher grade, we can expect to attract guests of higher classes with more valuable information, is that what you’re trying to say?</Content>
+          <Content>หากสมาพันธ์หมายหัวกับพวกเราไว้ยิ่งสูง ก็ยิ่งจะคาดหวังให้ดึงดูดแขกระดับสูงได้มากขึ้น นั้นคือสิ่งที่นายพยายามจะบอกฉันใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland6</VoiceFile>
-          <Content>You got it! Urban Legends get talked about; people will begin to acknowledge us as an actual phenomenon in the City that’s worth their attention.</Content>
+          <Content>นั้นแหละเธอเข้าใจถูกแล้ว! เมื่อเรื่องนี้ได้พูดคุยกันเป็นเรื่องระดับตำนานเมืองแล้ว; ผู้คนก็จะเริ่มยอมรับว่าพวกเราเป็นปรากฏการณ์ที่มีอยู่จริงในเมืองที่ควรให้ความสนใจ</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland7</VoiceFile>
-          <Content>You see, when I was a kid, my grandma used to tell me tales about all sorts of Urban Legends. They would always send a chill down my spine.</Content>
+          <Content>เธอรู้ม่ะ เมื่อตอนที่ฉันยังเป็นเด้ก คุณย่าของฉันเคยเล่านิทานเกี่ยวกับตำนานเมืองแทบทุกประเภทให้ฉันฟัง เรื่องพวกนั้นชอบทำให้ฉันเย็นสันหลังวาบตลอด</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland8</VoiceFile>
-          <Content>Ah, bugger. Didn’t want to be reminded of the old days.</Content>
+          <Content>อ่า บ้าเอ้ย ไม่อยากนึกถึงวันเก่าๆนั้นเลยแฮะ</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela4</VoiceFile>
-          <Content>Family…?</Content>
+          <Content>ครอบครัวหรอ…?</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland9</VoiceFile>
-          <Content>Yeah, a family. I lost them all, though.</Content>
+          <Content>ใช่ ครอบครัว แม้ว่าพวกเขาจะเสียกันไปหมดแล้ว</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela5</VoiceFile>
-          <Content>So you’re without a family now?</Content>
+          <Content>งั้นตอนนี้นายก็ไม่มีครอบครัวอยู่เลยน่ะสิ?</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland10</VoiceFile>
-          <Content>No one’s with me anymore. I was raised by my grandma.</Content>
+          <Content>ไม่มีใครอยู่แล้วละ ฉันถูกเลี้ยงดูโดยคุณย่าของฉันน่ะ</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland11</VoiceFile>
-          <Content>Dunno how my parents passed away, n’ grandma disappeared without notice one day.</Content>
+          <Content>ไม่รู้ว่าพ่อแม่ท่านเสียไปได้อย่างไรหรอกนะ แล้ววันหนึ่งคุณย่าก็หายไปโดยไม่ได้ข่าวใดๆอีกเลย</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland12</VoiceFile>
-          <Content>And then… Nevermind. It’s nothing special.</Content>
+          <Content>แล้วจากนั้น… ก็ไม่มีอะไรเป็นพิเศษหรอกนะ ฮาฮะๆ</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
