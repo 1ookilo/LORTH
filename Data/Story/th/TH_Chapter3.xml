@@ -1,326 +1,326 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="3">
-    <Title>Chapter 3–Urban Legend–‘And I savor the magnificent fragrance of the sacrifice, which fills my room.’</Title>
+    <Title>Chapter 3–ตำนานเมือง–‘แล้วเมื่อฉันได้สูดกลิ่นหอมหวนของเครื่องสังเวยที่อบอวลไปทั่วห้องของฉัน’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: Thumb Southern Base - Meeting Room</PlaceName>
+        <PlaceName>สถานที่: ฐานนิ้วโป้งทางใต้ - ห้องประชุม</PlaceName>
         <Dialog ID="0" Model="칼로">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo1-01</VoiceFile>
-          <Content>Tell me, who do you think will be the one to get through all this mist and claim the collapsed Nest in the end?</Content>
+          <Content>บอกฉันมา เธอคิดว่าใครคือผู้ที่จะผ่านม่านหมอกนี้ไปได้ และได้ครอบครองเนสในตอนท้ายทีสุดกัน?</Content>
         </Dialog>
         <Dialog ID="1" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel1_a-01</VoiceFile>
-          <Content>It’s hard for me to predict the outcome of this event, underboss. It has been a while since we were involved in a bloodshed of this scale.</Content>
+          <Content>มันยากสำหรับฉันที่จะคาดเดาสถานการณ์ในตอนนี้นะค่ะรองหัว มันก็ผ่านมานานแล้วที่เราได้เข้าไปพัวพันกับการนองเลือดครั้งใหญ่ในรอบนี้</Content>
         </Dialog>
         <Dialog ID="2" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel2_b</VoiceFile>
-          <Content>However, it is certain that we should not allow the Index to take over the yolk. </Content>
+          <Content>ไม่ว่ายังไงก็ตาม แน่นอนว่าเราไม่ควรปล่อยให้ พวกนิ้วชี้ ครอบรอง 'the yolk' ได้</Content>
         </Dialog>
         <Dialog ID="3" Model="칼로">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo2</VoiceFile>
-          <Content>Well said. The Middle, the Ring, and the Pinky seem to be too occupied with their own business to take part in this strife, so that’s a relief.</Content>
+          <Content>เธอพูดถูก พวกนิ้วกลาง, พวกนิ้วนาง, และพวกพิ้งกี้ ดูเหมือนว่าพวกมันจะยุ่งกับเรื่องภายในของตัวเองมากเกินไปจนไม่สนใจที่จะเข้าร่วมศึกในครั้งนี้ ทำให้เบาใจได้เปราะหนึ่ง</Content>
         </Dialog>
         <Dialog ID="4" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel3-01</VoiceFile>
-          <Content>Have you heard of ‘The Library’, a recently appointed Urban Legend?</Content>
+          <Content>ท่านเคยได้ยินเรื่องของ ‘้ห้องสมุด’ ที่กำลังเป็นตำนานของเมืองในขณะนี้หรือเปล่าค่ะ?</Content>
         </Dialog>
         <Dialog ID="5" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel4-01</VoiceFile>
-          <Content>Perhaps it will be closely related to this Nest we’re so concerned with.</Content>
+          <Content>บางทีมันอาจเกี่ยวข้องกับเนสนี้ที่เรากังวลอยู่ก็ได้</Content>
         </Dialog>
         <Dialog ID="6" Model="칼로">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo3-01</VoiceFile>
-          <Content>Go on.</Content>
+          <Content>เล่าต่อมาสิ</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="7" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland1</VoiceFile>
           <Content>Looks like we’re about to ride a real big wave!</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela1</VoiceFile>
           <Content>What wave?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland2</VoiceFile>
           <Content>At this rate, the Library will soon be exalted to being an Urban Legend from its status as an Urban Myth.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland3</VoiceFile>
           <Content>The City is brimming with cheap Urban Myths. It’s really hard to tell which are real and which are all made up.</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland4</VoiceFile>
           <Content>What’s more, a lot of those Urban Myths turn out to be pretty plain and boring when you get down to the root of it all.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland5</VoiceFile>
           <Content>The real fun begins when an Urban Myth gets recognized as an Urban Legend.</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela2</VoiceFile>
           <Content>You’re being too roundabout.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela3</VoiceFile>
           <Content>If the Associations designate us with a higher grade, we can expect to attract guests of higher classes with more valuable information, is that what you’re trying to say?</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland6</VoiceFile>
           <Content>You got it! Urban Legends get talked about; people will begin to acknowledge us as an actual phenomenon in the City that’s worth their attention.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland7</VoiceFile>
           <Content>You see, when I was a kid, my grandma used to tell me tales about all sorts of Urban Legends. They would always send a chill down my spine.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland8</VoiceFile>
           <Content>Ah, bugger. Didn’t want to be reminded of the old days.</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela4</VoiceFile>
           <Content>Family…?</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland9</VoiceFile>
           <Content>Yeah, a family. I lost them all, though.</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela5</VoiceFile>
           <Content>So you’re without a family now?</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland10</VoiceFile>
           <Content>No one’s with me anymore. I was raised by my grandma.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland11</VoiceFile>
           <Content>Dunno how my parents passed away, n’ grandma disappeared without notice one day.</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland12</VoiceFile>
           <Content>And then… Nevermind. It’s nothing special.</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela6</VoiceFile>
           <Content>What were you even trying to say?</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland13</VoiceFile>
           <Content>Anyways, you said your goal is to get this one book that’ll give you freedom, right?</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela7</VoiceFile>
           <Content>That’s right. I want the freedom to leave this place, and the freedom to live as myself.</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela8</VoiceFile>
           <Content>And the freedom to forget…</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland14</VoiceFile>
           <Content>Then, is freedom the only reason you’re trying to gather all these books?</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela9</VoiceFile>
           <Content>You’re only half right.</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela10</VoiceFile>
           <Content>During my time living underground, I could only pick up fragmented information about the outside world.</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela11</VoiceFile>
           <Content>I’ve seen and heard the same stories over and over and over again.</Content>
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela12</VoiceFile>
           <Content>I want to hear new stories now. I want to see new faces. </Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela13</VoiceFile>
           <Content>That’s also why I’m looking for the book that contains everything about the world.</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela14</VoiceFile>
           <Content>And a little bit of revenge at the same time.</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland15</VoiceFile>
           <Content>…Revenge, huh. For what?</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela15</VoiceFile>
           <Content>I’m taking revenge on the abominable person and world that made me into what I am.</Content>
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela16</VoiceFile>
           <Content>Only after I’ve completely and thoroughly destroyed everything he dreamed for, will my freedom finally be whole.</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland16</VoiceFile>
           <Content>…So you’ll eventually get to the freedom and vengeance you want if we keep following where this red invitation leads us to?</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela17</VoiceFile>
           <Content>It will guide me to the book that will let me achieve such things, to be exact.</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela18</VoiceFile>
           <Content>How exactly those wishes will come true is beyond me.</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela19</VoiceFile>
           <Content>The one book that will complete me and the Library…</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela20</VoiceFile>
           <Content>If I can find that one absolute book containing everything I want to know, all will be resolved.</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland17</VoiceFile>
           <Content>Wait, hold on. That’s your whole plan? Just find the book? You don’t exactly know how to earn that freedom and stuff?</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela21</VoiceFile>
           <Content>The only thing I know for sure is that I myself will become whole at the end of the journey led by the invitation.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela22</VoiceFile>
           <Content>The Library has infinite space. I could extract infinite books from countless guests and store them all if I wanted to.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela23</VoiceFile>
           <Content>But simply collecting books that are mostly filled with junk without a clear purpose in mind is rather inefficient, don’t you think?</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela24</VoiceFile>
           <Content>Hence the invitation’s guidance along the path that leads to the book I wish to obtain, as I explained before.</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland18</VoiceFile>
           <Content>Let’s say that you got the one book somehow.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland19</VoiceFile>
           <Content>But you don’t even know what it’ll exactly do to you to make you “whole”?</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela25</VoiceFile>
           <Content>I don’t care what happens to me. I’ll be satisfied with anything as long as I can get the results.</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland20</VoiceFile>
           <Content>It’s almost scary how tenacious you are.</Content>
         </Dialog>
@@ -546,188 +546,188 @@
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
         <Dialog ID="35" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland1</VoiceFile>
           <Content>Looks like an Association is about to make their move. Things will be different from now on.</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela1</VoiceFile>
           <Content>How much of a difference does that make?</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland2</VoiceFile>
           <Content>The guests we’ve had so far all gave us a visit out of casual interest or curiosity, but our future guests will have a clear goal in mind involving the Library.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela2</VoiceFile>
           <Content>How so?</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland3</VoiceFile>
           <Content>A case officially recognized by the Associations is guaranteed to be rewarding. And money attracts an awful lot of attention.</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland4</VoiceFile>
           <Content>The scale of our affairs is only going to escalate from here, like it or not.</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland5</VoiceFile>
           <Content>Our threat level or importance is still probably on the lower end, but we’ll nevertheless get all sorts of people trying to unravel the mysteries of this place as long as the Associations have an eye on us.</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela3</VoiceFile>
           <Content>I like the sound of that. I can make more valuable books out of them. I still have a lot to see and learn.</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland6</VoiceFile>
           <Content>I’ve been wondering for a while, but what’s stopping you from leaving here?</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela4</VoiceFile>
           <Content>…I am under a curse.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela5</VoiceFile>
           <Content>A deep, ancient curse; that is what’s attached to me.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela6</VoiceFile>
           <Content>No being that isn’t human can walk out of this place.</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela7</VoiceFile>
           <Content>Besides, I don’t want to leave this place until I’ve had my revenge, either.</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela8</VoiceFile>
           <Content>It’s not too bad so far. Rather, I’ve been actually quite delighted lately.</Content>
         </Dialog>
         <Dialog ID="49" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela9</VoiceFile>
           <Content>It has been full of brand new things, unlike the prison that was my past life.</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela10</VoiceFile>
           <Content>New faces, accumulating knowledge, intriguing events… I like this abundance of freshness. I want to know more. I will keep learning and learning. And as I learn, I might finally figure out…</Content>
         </Dialog>
         <Dialog ID="51" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela11</VoiceFile>
           <Content>…Why I had to be subject to such torment…</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland7</VoiceFile>
           <Content>Guess I gotta work harder, then. I can’t leave here as long as you can’t, you know?</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela12</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland8</VoiceFile>
           <Content>Hey. If we get to leave one day, why don’t I take you to a place I frequent?</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela13</VoiceFile>
           <Content>You mean a restaurant?</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland9</VoiceFile>
           <Content>Yep. They make some sick meat stew there.</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland10</VoiceFile>
           <Content>One of the secrets to that stew is the giant tin pot they commissioned T Corp. to customize. Boil meat with some water for just ten seconds in that thing, and you get tenderized meat with a rich broth that you’d normally only get after three straight days of boiling.</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland11</VoiceFile>
           <Content>Creating a taste that’s so rich in such a short time is what makes the restaurant so hot. The only issue is that prices are a bit high. I spent half of my last job’s payout on a single meal one time. But it’s totally worth it.</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela14</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="60" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland12</VoiceFile>
           <Content>Oh, right, are you incapable of eating…? Sorry for bringing up useless words, ma’am.</Content>
         </Dialog>
         <Dialog ID="61" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland13</VoiceFile>
           <Content>There are plenty of other places you’d love to visit, so I’ll make sure to give you a tour through the City, ma’am.</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela15</VoiceFile>
           <Content>I can eat, but I cannot taste the food.</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela16</VoiceFile>
           <Content>I do wish to try dining like you people do if I get a chance, though.</Content>
         </Dialog>
         <Dialog ID="64" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela17</VoiceFile>
           <Content>In any case, we need to finish the task at hand before anything.</Content>
         </Dialog>
         <Dialog ID="65" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela18</VoiceFile>
           <Content>And the stew… I’ll keep that in mind.</Content>
         </Dialog>
@@ -921,74 +921,74 @@
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
         <Dialog ID="30" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland1</VoiceFile>
           <Content>Is that really true?</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela1</VoiceFile>
           <Content>What is?</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland2</VoiceFile>
           <Content>The things they said about the Library. Is this place really all connected to stuff like ‘White Nights and Dark Days’, L Corp, and the Distortion Phenomenon?</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland3</VoiceFile>
           <Content>I’m frankly not even sure where we are in the City, though.</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela2</VoiceFile>
           <Content>What if I said it is?</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland4</VoiceFile>
           <Content>If you said it is… I’m not sure I get what you mean.</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland5</VoiceFile>
           <Content>It’s extremely rare for an incident to encompass the City like the White Nights and Dark Days did.</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland6</VoiceFile>
           <Content>There have been some cases of Wings falling apart on their own, but those only affected their own Nests at most. L Corp. was something else entirely.</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland7</VoiceFile>
           <Content>It’s like the whole City fell asleep for a week.</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela3</VoiceFile>
           <Content>Let’s say that the Library really is related to the White Nights and Dark Days. What does that change?</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland8</VoiceFile>
           <Content>Nothing, I guess. My work is still gonna be the same…</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela4</VoiceFile>
           <Content>…… </Content>
         </Dialog>
@@ -1014,14 +1014,14 @@
           <Content>Angela… was it?</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela5</VoiceFile>
           <Content>Greetings, dear guests. I am Angela, the director and librarian of my role’s namesake.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela6</VoiceFile>
           <Content>Though it appears that you already know who I am.</Content>
         </Dialog>
@@ -1032,8 +1032,8 @@
           <Content>We’re here to take back the books of Mars and Lulu.</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela7</VoiceFile>
           <Content>They are here indeed.</Content>
         </Dialog>
@@ -1044,8 +1044,8 @@
           <Content>We can get the books we want, or die and turn into books ourselves, right?</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela8</VoiceFile>
           <Content>That is correct. As it is written on the invitation.</Content>
         </Dialog>
@@ -1056,8 +1056,8 @@
           <Content>It’s like I’m talking to a wall. She’s so robotic.</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela9</VoiceFile>
           <Content>…May you find your book in this place.</Content>
         </Dialog>
@@ -1068,158 +1068,158 @@
       <Place>
         <PlaceName>Location: Library Entrance</PlaceName>
         <Dialog ID="0" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela10</VoiceFile>
           <Content>…The Library is located in the source of the ‘White Nights and Dark Days’.</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela11</VoiceFile>
           <Content>I touched up the headquarters of L Corp, the center of it, for my own use.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela12</VoiceFile>
           <Content>I have no comment to make on the Distortion Phenomenon that apparently started occurring afterwards.</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela13</VoiceFile>
           <Content>I have little to no information about that phenomenon, either.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela14</VoiceFile>
           <Content>Though I do have a guess.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland9</VoiceFile>
           <Content>Whoa, that came outta nowhere…</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela15</VoiceFile>
           <Content>You were curious about it earlier, weren’t you?</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela16</VoiceFile>
           <Content>I was created as a mechanical secretary to assist the manager of Lobotomy Corporation. </Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela17</VoiceFile>
           <Content>I was designed to look like a human, feel emotions, and make evaluations and judgements based on those emotions.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela18</VoiceFile>
           <Content>It’s as you suspected; I was born in secret, violating the AI Ethics Amendment.</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela19</VoiceFile>
           <Content>I never got to make my own judgement, funnily enough. I had to read the same script over and over for one million years, all for the success of a single project.</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela20</VoiceFile>
           <Content>The play that never seemed to end finally concluded one day, and… And…</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland10</VoiceFile>
           <Content>And the ‘White Nights and Dark Days’ happened as a result. Thanks for letting me know.</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland11</VoiceFile>
           <Content>I don’t know who came up with that insane plan, but thanks to them, the Distortion Phenomenon started wreaking havoc on the City at random intervals.</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland12</VoiceFile>
           <Content>Ordinary people would turn into monsters all of a sudden. And they’d kill everything in sight.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland13</VoiceFile>
           <Content>And the first ever case of the Distortion, boy, was that a hellscape.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland14</VoiceFile>
           <Content>It happened without any oncoming sign in a District that everyone believed to be relatively safe.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland15</VoiceFile>
           <Content>The massacre was a work of art, too.</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland16</VoiceFile>
           <Content>It was named ‘The Pianist’ for a reason. What more could I say. </Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela21</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland17</VoiceFile>
           <Content>Anyway, thanks for telling me all that. Must have been a sensitive topic to you.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela22</VoiceFile>
           <Content>You aren’t as shocked as I expected.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland18</VoiceFile>
           <Content>The monsters created from the Distortion did give off a suspiciously similar vibe to this library and its caretakers.</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland19</VoiceFile>
           <Content>You must’ve gone through a whole lot of distress in your life.</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland20</VoiceFile>
           <Content>Anyway, what comes next is the problem. What can we do to lure the Zwei here? </Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela23</VoiceFile>
           <Content>…You can use this book. I tried writing down the relationship between L Corp. and the Distortion phenomenon. It should be quite valuable to them under these circumstances.</Content>
         </Dialog>
@@ -1455,62 +1455,62 @@
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
         <Dialog ID="37" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland1</VoiceFile>
           <Content>Things went rather smoothly thanks to your book. It’s not something we could get from any of the guests we’ve had so far.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela1</VoiceFile>
           <Content>I simply offered them what they needed the most at the moment. I am better than anyone at understanding the situation at hand and coming up with an appropriate response.</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland2</VoiceFile>
           <Content>Precisely, ma’am. You surely did come up with a perfect solution to lure out the Zwei.</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland3</VoiceFile>
           <Content>Heck, if you can print out books right away, wouldn’t it be nicer to just make a whole lot of ‘em ourselves?</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela2</VoiceFile>
           <Content>I can only write books about the things I know. I need more time to write another one, too.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland4</VoiceFile>
           <Content>Oh, I see… So, can I ask for your publications from time to time, then?</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela3</VoiceFile>
           <Content>I am willing to cooperate, since you’re doing your job as my assistant. Just don’t pester me too much.</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland5</VoiceFile>
           <Content>Sure thing, ma’am~ A mere servant such as I wouldn’t dare commit such atrocity as bothering our mistress Angela, oh no.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela4</VoiceFile>
           <Content>Do you think this will work out well?</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland6</VoiceFile>
           <Content>The director of a section in an Association like the Zwei should be more than enough as our next step. The information he holds has got to be on a whole ‘nother level from what we’ve collected so far.</Content>
         </Dialog>
@@ -1566,8 +1566,8 @@
           <Content>…Everything seems to fall into place too conveniently.</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela5</VoiceFile>
           <Content>Greetings, dear guests. I am the d—</Content>
         </Dialog>
@@ -1578,8 +1578,8 @@
           <Content>You must be Angela. Director and librarian of your role’s namesake, right?</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela6</VoiceFile>
           <Content>Indeed, it’s just as you said.</Content>
         </Dialog>
@@ -1590,8 +1590,8 @@
           <Content>I’ve seen reports about you, but is it true that you are a machine, not a human?</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela7</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -1614,8 +1614,8 @@
           <Content>Sir, I don’t think we should provoke her any further…</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela8</VoiceFile>
           <Content>May you find your book in this place.</Content>
         </Dialog>
@@ -1626,128 +1626,128 @@
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
         <Dialog ID="0" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela9</VoiceFile>
           <Content>What does it mean to “behave as a machine”?</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland12</VoiceFile>
           <Content>Boy, not that topic again…</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela10</VoiceFile>
           <Content>Someone I used to know loved to say that phrase.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland13</VoiceFile>
           <Content>Like I told you before, making machines with emotions or sapience is forbidden. Even if one were to be made, the Head has long settled the ethical implications and all that.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland14</VoiceFile>
           <Content>That means they’ve decided on a solid answer for the long-standing question: “How is a machine with emotions different from a human?”.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland15</VoiceFile>
           <Content>Their answer being: “Even if a machine carries emotions and intelligence, and is nearly identical to a human in every aspect, it is still a machine by birth. Machines should always be below humans…”</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland16</VoiceFile>
           <Content>“…Therefore, it is now forbidden to create sapient machines as they can disrupt the proper judgement of societal values. Furthermore, all existing sapient machines may be subject to termination regardless of ownership.”</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland17</VoiceFile>
           <Content>In short, “Machines are machines, and humans are humans. Machines exist solely to serve humans.” is what they’re saying.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland18</VoiceFile>
           <Content>That’s the mindset people in the City decided to have.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela11</VoiceFile>
           <Content>Where would human brains stuffed in heaps of scrap metal belong?</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland19</VoiceFile>
           <Content>Those would still technically count as humans. Some might consider them “defiled”, and others might look down on them, but the brains themselves are natural.</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland20</VoiceFile>
           <Content>You get what I’m saying?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela12</VoiceFile>
           <Content>What about an electronic copy of a human brain?</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland21</VoiceFile>
           <Content>That… would be a machine. Since it’s not “born” human.</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland22</VoiceFile>
           <Content>To be frank, I don’t really get these standards, either.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland23</VoiceFile>
           <Content>I guess birthright matters to them the most.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland24</VoiceFile>
           <Content>Maybe it’s a defensive reaction born out of the urge to “preserve” humanity as a species.</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela13</VoiceFile>
           <Content>…That’s unfair.</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland25</VoiceFile>
           <Content>Nothing is ever fair in this world.</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela14</VoiceFile>
           <Content>You’re right, it seems everyone lives with a share of unfairness they must bear.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland26</VoiceFile>
           <Content>Now you’re talking like a City dweller.</Content>
         </Dialog>
@@ -2022,50 +2022,50 @@
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
         <Dialog ID="43" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland1</VoiceFile>
           <Content>Syndicates have a tendency to kill more than they need to, unlike Fixers. They cause trouble just because they feel like it.</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland2</VoiceFile>
           <Content>Anyway, what were they trying to do, getting Sweepers and the Thumb involved?</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela1</VoiceFile>
           <Content>I might know about the Sweepers.</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland3</VoiceFile>
           <Content>You do? Well, I guess they are infamous.</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela2</VoiceFile>
           <Content>I saw them tear humans to pieces and use them as fuel. Are they like that in real life, too?</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland4</VoiceFile>
           <Content>Sort of. One Sweeper is tough as is, but what’s really scary is their organizational power.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland5</VoiceFile>
           <Content>They crawl outta the woodwork every night and clean the Backstreets.</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland6</VoiceFile>
           <Content>We can’t even guess how many of them are there. No matter how many we take down, more would show up the next night.</Content>
         </Dialog>
@@ -2085,8 +2085,8 @@
           <Content>It is, but we’ll probably get back just in time.</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela3</VoiceFile>
           <Content>Greetings, dear guests. I am Angela, the director and librarian of my role’s namesake.</Content>
         </Dialog>
@@ -2103,8 +2103,8 @@
           <Content>Just let us in. We’re in a hurry.</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela4</VoiceFile>
           <Content>You are rather impatient, I see.</Content>
         </Dialog>
@@ -2121,8 +2121,8 @@
           <Content>And let us in. Now.</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela5</VoiceFile>
           <Content>May you find your book in this place.</Content>
         </Dialog>
@@ -2133,62 +2133,62 @@
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
         <Dialog ID="0" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland7</VoiceFile>
           <Content>Isn’t it annoying?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela6</VoiceFile>
           <Content>To listen to your silly chirping?</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland8</VoiceFile>
           <Content>To deal with the things those guests say, I mean. </Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland9</VoiceFile>
           <Content>A lot of ‘em don’t hesitate to spout harsh words at you. I’m surprised you can withstand it all.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela7</VoiceFile>
           <Content>They’re our precious guests we invited, so it’s only fair to treat them as such.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela8</VoiceFile>
           <Content>Besides, I’m already used to keeping others pleased in conversation.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland10</VoiceFile>
           <Content>I envy that professionalism of yours.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland11</VoiceFile>
           <Content>Maybe you should give a lecture on hospitality to all the restaurant owners in the Backstreets someday. They could really learn a thing or two from you.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland12</VoiceFile>
           <Content>…But still, it’ll probably be a lot easier on you to be more flexible with greeting guests, rather than sticking to the same polite attitude.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela9</VoiceFile>
           <Content>I’ll take note of that.</Content>
         </Dialog>
@@ -2721,116 +2721,116 @@
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
         <Dialog ID="86" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland1</VoiceFile>
           <Content>A malfunction with WARP? This could be a huge blow to W Corp’s reputation if it ever gets out to the public.</Content>
         </Dialog>
         <Dialog ID="87" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela1</VoiceFile>
           <Content>It was supposed to arrive at the destination in only 10 seconds, right?</Content>
         </Dialog>
         <Dialog ID="88" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland2</VoiceFile>
           <Content>Yep. The WARP trains, operating with W Corp’s Singularity. They can get to any station in 10 seconds no matter how far away they are. A 30-second delay would be a big enough issue already, and a 30-hour delay? That’s gonna be outright fatal to the corporation’s trust.</Content>
         </Dialog>
         <Dialog ID="89" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela2</VoiceFile>
           <Content>Even a Singularity can malfunction, it seems.</Content>
         </Dialog>
         <Dialog ID="90" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland3</VoiceFile>
           <Content>I guess no technology is ever really flawless.</Content>
         </Dialog>
         <Dialog ID="91" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela3</VoiceFile>
           <Content>Anyway, I might be able to have an unexpected reunion soon enough.</Content>
         </Dialog>
         <Dialog ID="92" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland4</VoiceFile>
           <Content>You have any familiar faces in that Office?</Content>
         </Dialog>
         <Dialog ID="93" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela4</VoiceFile>
           <Content>No.</Content>
         </Dialog>
         <Dialog ID="94" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland5</VoiceFile>
           <Content>You mean Myo, the captain of the Rabbit Team, then?</Content>
         </Dialog>
         <Dialog ID="95" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela5</VoiceFile>
           <Content>Yes.</Content>
         </Dialog>
         <Dialog ID="96" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland6</VoiceFile>
           <Content>Hunh… So you had connections with one of the captains from R Corp?</Content>
         </Dialog>
         <Dialog ID="97" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland7</VoiceFile>
           <Content>That Olga person knowing her is surprising enough, but you have some impressive networking finesse, too.</Content>
         </Dialog>
         <Dialog ID="98" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela6</VoiceFile>
           <Content>Though we probably won’t be greeting each other with smiles when we do meet again.</Content>
         </Dialog>
         <Dialog ID="99" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland8</VoiceFile>
           <Content>What, you weren’t friends with her? Eh, you know what, I guess it makes more sense this way.</Content>
         </Dialog>
         <Dialog ID="100" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela7</VoiceFile>
           <Content>What did you expect? Did you really think I would have any friends to casually chat with?</Content>
         </Dialog>
         <Dialog ID="101" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland9</VoiceFile>
           <Content>I was just wondering. R Corp. is different from Fixers on a fundamental level.</Content>
         </Dialog>
         <Dialog ID="102" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland10</VoiceFile>
           <Content>Their work might seem similar to what Fixers do, but they take on things of a much larger scale with a much more professional mentality.</Content>
         </Dialog>
         <Dialog ID="103" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela8</VoiceFile>
           <Content>I expect no less from one of the Wings.</Content>
         </Dialog>
         <Dialog ID="104" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland11</VoiceFile>
           <Content>Aren’t you relaxed.</Content>
         </Dialog>
@@ -2880,8 +2880,8 @@
           <Content>It’s all thanks to my quick judgement that we could escape from that buggered train.</Content>
         </Dialog>
         <Dialog ID="112" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela9</VoiceFile>
           <Content>Greetings, dear guests.</Content>
         </Dialog>
@@ -2898,8 +2898,8 @@
           <Content>I apologize. We’re in a bit of confusion right now. And she’s hungover as well…</Content>
         </Dialog>
         <Dialog ID="115" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela10</VoiceFile>
           <Content>I understand. I do have experience dealing with drunkards.</Content>
         </Dialog>
@@ -2910,8 +2910,8 @@
           <Content>Ey, you know what the hell was going on back there?</Content>
         </Dialog>
         <Dialog ID="117" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela11</VoiceFile>
           <Content>All I know is that you are our guests invited to the Library, I’m afraid.</Content>
         </Dialog>
@@ -2934,8 +2934,8 @@
           <Content>Ye see, we were supposed to dig into the relationship between L Corp. and the Library; that’s what Myo asked us to do.</Content>
         </Dialog>
         <Dialog ID="121" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela12</VoiceFile>
           <Content>I see, so that’s how you know about me.</Content>
         </Dialog>
@@ -2964,8 +2964,8 @@
           <Content>Myo says the fact you’re in the Library is indisputable evidence that this place is related to L Corp somehow or another.</Content>
         </Dialog>
         <Dialog ID="126" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela13</VoiceFile>
           <Content>…I’m sure you can find the answer to that in the books you seek.</Content>
         </Dialog>
@@ -2976,8 +2976,8 @@
           <Content>We’re terribly sorry. We’ll be going in now.</Content>
         </Dialog>
         <Dialog ID="128" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela14</VoiceFile>
           <Content>May you find your book in this place.</Content>
         </Dialog>
@@ -2988,50 +2988,50 @@
       <Place>
         <PlaceName>Location: Inside the Library</PlaceName>
         <Dialog ID="0" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland12</VoiceFile>
           <Content>Any guesses on why R Corp. cares about this place?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela15</VoiceFile>
           <Content>L Corp. was a major client of R Corp, and it disappeared into thin air, so it’s natural for them to want to look into it.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland13</VoiceFile>
           <Content>A major client of R Corp, huh…</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland14</VoiceFile>
           <Content>I guess that makes sense. L Corp. and its Nest weren’t really special in terms of military power. It must have been a very important client for R Corp. if they were asked to protect a whole Nest.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela16</VoiceFile>
           <Content>It was a mutual relationship, too. L Corp. was supplying all the energy R Corp. needed, and W Corp. depended on L Corp’s energy supply as well.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland15</VoiceFile>
           <Content>Three Wings in collusion with each other, huh. So much for trickle-down economics.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela17</VoiceFile>
           <Content>There’s no use complaining to me. I was simply following my orders.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland16</VoiceFile>
           <Content>Yeah. Employees gotta do whatever their boss tells ‘em to do, whether it’s the Wings or the Backstreets.</Content>
         </Dialog>
