@@ -276,7 +276,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
     
     <AbnormalityCard ID="LittleHelper_Rest">
       <Abnormality>All-Around Helper</Abnormality>
-      <CardName>ชาร์จพลัง</CardName>
+      <CardName>เติมพลัง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
 หากเริ่มฉากแล้วบรรณารักษ์มีแสงเต็ม ได้รับ 1-2 ว่องไว และทำดาเมจมากขึ้น 2-7 หน่วยเมื่อโจมตีในฉากนี้</AbilityDesc>
       <FlaborText>ยังไงก็ตาม แขนขาของมันกับเป็นอุปกรณ์แหลมคม แทนที่จะเป็นของทำความสะอาด</FlaborText>
@@ -1062,7 +1062,7 @@ Combat Pageที่มีคอสเยอะที่สุดจะถูก
       <Abnormality>The Snow Queen</Abnormality>
       <CardName>ดาบเยือกแข็ง</CardName>
       <AbilityDesc>[พันธมิตรเดี่ยว]
-เมื่อชนะการปะทะ มีโอกาส50% ติด 1-3 พันธนาแก่อีกฝ่ายฉากหน้าUpon winning a clash, inflict 1-3 Bind next Scene at a 50% chance.
+เมื่อชนะการปะทะ มีโอกาส50% ติด 1-3 พันธนาแก่อีกฝ่ายฉากหน้า
 ทำดาเมจStaggerบวก2-5 หน่วยแก่เป้าหมายที่ติดพนธนาainst targets with Bind.</AbilityDesc>
       <FlaborText>ราชินีอาศัยอยู่อย่างเดียวดายในป่าเหมันต์.</FlaborText>
       <Dialogues>
