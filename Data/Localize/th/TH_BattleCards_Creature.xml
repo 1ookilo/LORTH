@@ -1129,5 +1129,29 @@
       <Ability></Ability>
       <Behaviour ID="0">[On Hit] This character dies. Change target's Stagger resistances to "Fatal" for the next Scene</Behaviour>
     </BattleCardDesc>
+
+    <BattleCardDesc ID="980211">
+      <LocalizedName>Peck</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="980212">
+      <LocalizedName>Punishment!</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="980221">
+      <LocalizedName>Smack</LocalizedName>
+      <Behaviour ID="0">[On Hit] Break all dice on target's page and Stagger target</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="980222">
+      <LocalizedName>Ring</LocalizedName>
+      <Behaviour ID="0">[On Hit] Inflict 1 Paralysis and Bind next Scene</Behaviour>
+      <Behaviour ID="1">[On Hit] Inflict 1 Paralysis and Bind next Scene</Behaviour>
+      <Behaviour ID="2">[On Hit] Inflict 1 Paralysis and Bind next Scene</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="980223">
+      <LocalizedName>Cuckoo</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="980224">
+      <LocalizedName>Forest Keeper’s Lock</LocalizedName>
+      <Ability>A chain breaks upon clashing against 'Punishment!'</Ability>
+    </BattleCardDesc>    
   </cardDescList>
 </BattleCardDescRoot>
