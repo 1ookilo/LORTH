@@ -98,11 +98,13 @@
 เข้าสู่สถานะร้อนระอุ ทำดาเมจมากขึ้น</Desc>
 </PassiveDesc>
 <PassiveDesc ID="1401014">
-<Name>Scorching Desperation</Name>
-<Desc>Every 3 Scenes: 'Scorching Desperation' is added to hand, which will be used the same Scene.</Desc>
+<Name>ความสิ้นหวังอันแผดเผา</Name>
+<Desc>ทุกๆ 3 ฉาก: เพิ่ม "ความสิ้นหวังอันแผดเผา" สู่มือ
+และจะถูกใช้ในฉากนั้น</Desc>
 </PassiveDesc>
 <PassiveDesc ID="1401017">
-<Name>Restraints</Name>
-<Desc>On hit against a target with 3 or more stacks of 'Restraint', Immobilize them for the next Scene.</Desc>
+<Name>ยับยั้ง</Name>
+<Desc>เมื่อโจมตีใ่สเป้าหมายที่มี "ยับยั้ง" 3 จำนวนหรือมากกว่า
+จะทำให้พวกเขาหมดสภาพในฉากถัดไป</Desc>
 </PassiveDesc>
 </PassiveDescRoot>

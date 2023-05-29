@@ -656,7 +656,7 @@
 
 <!--
 <BattleCardAbility ID="destroyNextHighlander">
-<Desc>ถ้าthere are no duplicates in the Combat Bookshelf destroy the next ของopponent die</Desc>
+<Desc>ถ้าthere are no duplicates in the Combat Bookshelf destroy the next ของฝ่ายตรงข้ามdie</Desc>
 </BattleCardAbility>
 -->
 <BattleCardAbility ID="powerUpDice4highlander">
@@ -932,20 +932,20 @@
 <Desc>[เมื่อโจมตี] มอบเผาไหม้ 3 จำนวน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="liuBurnDice">
-<Desc>[เมื่อโจมตี] มอบเผาไหม้ 1+ (Personal ระดับอารมณ์) จำนวน</Desc>
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 +(ระดับอารมณ์ของตัวเอง) จำนวน</Desc>
 </BattleCardAbility>
 
 <!-- hod ego -->
 <BattleCardAbility ID="shyLookEgoDice">
-<Desc>Deal +10 damage aได้รับst Staggered เป้าหมาย</Desc>
+<Desc>ทำดาเมจเพิ่ม +10 ดาเมจใส่เป้าหมายที่ Staggered</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="redshoesEgoDice2">
-<Desc>ได้รับ Power by 2x the Bleed ของtarget</Desc>
+<Desc>ได้รับพลังเพิ่มเป็นจำนวน 2x เลือดไหลของเป้าหมาย</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="spiderBudEgoDice">
-<Desc>[เมื่อโจมตี] มอบ 3 พันธนา Feeble,ตัดกำลัง และ
+<Desc>[เมื่อโจมตี] มอบ 3 พันธนา, อ่อนแรง, และตัดกำลัง
 จำนวนในฉากถัดไป</Desc>
 </BattleCardAbility>
 
@@ -953,7 +953,8 @@
 </BattleCardAbility>
 
 <BattleCardAbility ID="latitiaEgoDice">
-<Desc>[เมื่อโจมตี] Add a copyของ'Small Gift' to hand ของtarget</Desc>
+<Desc>[เมื่อโจมตี] เพิ่มแบบคัดลอกของ "Small Gift"
+เข้ามือของเป้าหมาย</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="blackSwanAreaEgo">
@@ -962,77 +963,80 @@
 <BattleCardAbility ID="blackSwanEgoDice1">
 </BattleCardAbility>
 <BattleCardAbility ID="blackSwanEgoDice2">
-<Desc>[เมื่อโจมตี] เป้าหมายloses 3 Light ในฉากถัดไป</Desc>
+<Desc>[เมื่อโจมตี] เป้าหมายเสีย 3 แสงในฉากถัดไป</Desc>
 </BattleCardAbility>
 
 <!-- card ability -->
 <BattleCardAbility ID="AddBullet1">
-<Desc>[เมื่อใช้] Add a random Ammunition to hand</Desc>
+<Desc>[เมื่อใช้] เพิ่มกระสุนแบบสุ่มเข้าสู่มือ</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="AddBullet2">
-<Desc>[เมื่อใช้] Add 2 random Ammunition to hand</Desc>
+<Desc>[เมื่อใช้] เพิ่ม 2 กระสุนแบบสุ่มเข้าสู่มือ</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="discard1">
-<Desc>[เมื่อใช้] Discard a page with the lowest Cost</Desc>
-<Desc>ถ้าan Ammunition was discarded all Offensive dice on this page ได้รับ +1 Power</Desc>
+<Desc>[เมื่อใช้] ทิ้ง Page ที่มีคอสต่ำที่สุด</Desc>
+<Desc>ถ้ากระสุนถูกทิ้ง ลูกเต๋าประเภทโจมตีบน Page ได้รับพลัง +1</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="discard2draw1">
-<Desc>[เมื่อใช้] Discard 2 pages with the lowest Cost from hand และจั่ว Page a ใบ</Desc>
-<Desc>ลูกเต๋าบน Page นี้จะได้รับ +1 Power for each Ammunition discarded</Desc>	
+<Desc>[เมื่อใช้] ทิ้ง Page ที่มีคอสต่ำที่สุด 2 ใบ และจั่ว Page 1 ใบ</Desc>
+<Desc>ลูกเต๋าบน Page นี้จะได้รับพลัง +1 ตามจำนวนกระสุนที่ถูกทิ้ง</Desc>	
 </BattleCardAbility>
 
 <BattleCardAbility ID="negatePower">
-<Desc>Dice on this page และthe page clashing with it are unaffected by Power ได้รับ or loss</Desc>
+<Desc>ลูกเต๋าบน Page นี้และ Page ที่ปะทะ
+จะไม่ได้รับผลใดๆ จากการเพิ่มหรือลดพลัง</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="dmgUpFriend3">
-<Desc>[เมื่อใช้] Allเพื่อนร่วมทีมdeal +2 damage with their Offensive dice ในฉากถัดไป</Desc>
+<Desc>[เมื่อใช้] เพื่อนร่วมทีมทั้งหมดทำดาเมจ +2 ดาเมจ
+จากการใช้ลูกเต๋าประเภทโจมตีในฉากถัดไป</Desc>เมื่อสลาย
 </BattleCardAbility>
 
 <BattleCardAbility ID="thumbBullet1">
-<Desc>Exhausts when used or discarded;
-[On Exhaust] Dice clashing aได้รับst Ranged ของuser Combat Pages lose 1 Power forในฉากนี้</Desc>
+<Desc>สลายเมื่อถูกใช้หรือถูกทิ้ง;
+[เมื่อสลาย] Dice clashing against Ranged ของuser Combat Pages lose 1 Power forในฉากนี้</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="thumbBullet2">
 <Desc>Exhausts when used or discarded;
-[On Exhaust] On hit with Ranged Combat Pagesในฉากนี้ มอบ 1 Paralysisตัดกำลัง และ
+[เมื่อสลาย] On hit with Ranged Combat Pagesในฉากนี้ มอบ 1 Paralysisตัดกำลัง และ
 จำนวนในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="thumbBullet3">
 <Desc>Exhausts when used or discarded;
-[On Exhaust] On hit with Ranged Combat Pagesในฉากนี้ มอบเผาไหม้ 2 จำนวน</Desc>
+[เมื่อสลาย] On hit with Ranged Combat Pagesในฉากนี้ มอบเผาไหม้ 2 จำนวน</Desc>
 </BattleCardAbility>
 
 <!-- dice ability -->
 <BattleCardAbility ID="repeat3">
-<Desc>This die is rolled 3 times</Desc>
+<Desc>ลูกเต๋านี้ทอย 3 ครั้ง</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="repeat4">
-<Desc>This die is rolled 4 times</Desc>
+<Desc>ลูกเต๋านี้ทอย 4 ครั้ง</Desc>
 </BattleCardAbility>
 
 <!-- 지팡이 -->
 <BattleCardAbility ID="badaCard">
-<Desc>[เมื่อเริ่มการปะทะ] Spend 3 Charge to ลดพลังของall dice on page ของopponent by 2</Desc>
+<Desc>[เมื่อเริ่มการปะทะ] ใช้ 3 ชาร์จเพื่อ ลดพลังของลูกเต๋าทั้งหมด
+บน Page ของฝ่ายตรงข้ามลง 2</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="chargeProtection">
-<Desc>[เมื่อใช้] Spend 2 Charge to มอบเกราะ 1 จำนวนให้กับเพื่อนร่วมทีมทั้งหมดในฉากนี้ และในฉากถัดไป</Desc>
+<Desc>[เมื่อใช้] ใช้ 2 ชาร์จเพื่อ มอบเกราะ 1 จำนวนให้กับเพื่อนร่วมทีมทั้งหมดในฉากนี้ และในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="chargeEnergy">
-<Desc>[เมื่อใช้] Spend 4 Charge to ฟื้นฟูแสง 3 หน่วย</Desc>
+<Desc>[เมื่อใช้] ใช้ 4 ชาร์จเพื่อ ฟื้นฟูแสง 3 หน่วย</Desc>
 </BattleCardAbility>
 <!-- remake -->
 <BattleCardAbility ID="badaCardRemake">
-<Desc>[เมื่อใช้] Spend 4 Charge to boost Powerของลูกเต๋าบน Page นี้จะby +2</Desc>
+<Desc>[เมื่อใช้] ใช้ 4 ชาร์จเพื่อ boost Powerของลูกเต๋าบน Page นี้จะby +2</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="chargeDestroyDesc"> <!-- 'chargeDestroy'의 텍스트가 너무 길어서 분리 -->
-<Desc>Dice abilities on this page only activate ถ้าthe opponent has Offensive dice</Desc>
+<Desc>Dice abilities on this page only activate ถ้าthe ฝ่ายตรงข้ามhas Offensive dice</Desc>
 </BattleCardAbility>
 <!-- 주사위 능력 -->
 <BattleCardAbility ID="chargeDestroy">
-<Desc>[เมื่อปะทะชนะ] Spend 2 Charge to destroy next ของopponent Offensive die</Desc>
+<Desc>[เมื่อปะทะชนะ] ใช้ 2 ชาร์จเพื่อ destroy next ของฝ่ายตรงข้ามOffensive die</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="charge2pw">
 <Desc>[เมื่อปะทะชนะ] ได้รับชาร์จ 2 จำนวน</Desc>
@@ -1086,7 +1090,7 @@
 <Desc>ได้รับ Power equal to ของเป้าหมายระดับอารมณ์</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="porccubusEgoDice2">
-<Desc>This die is rolled 3 times
+<Desc>ลูกเต๋านี้ทอย 3 ครั้ง
 [เมื่อโจมตี] มอบเลือดเลือดไหล 3 
 
 จำนวนในฉากถัดไป</Desc>
@@ -1111,7 +1115,7 @@
 </BattleCardAbility>
 
 <BattleCardAbility ID="breakCharge">
-<Desc>[เมื่อโจมตี] Spend 2 Charge to ทำดาเมจ Stagger 5 ดาเมจ</Desc>
+<Desc>[เมื่อโจมตี] ใช้ 2 ชาร์จเพื่อ ทำดาเมจ Stagger 5 ดาเมจ</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="gloriaCard">
@@ -1119,7 +1123,7 @@
 </BattleCardAbility>
 <BattleCardAbility ID="estherCard">
 <Desc>Only usable in the 'Blade Unlocked' state</Desc>
-<Desc>ลดพลังของall dice ของopponent clashing aได้รับst this by 12</Desc>
+<Desc>ลดพลังของall dice ของฝ่ายตรงข้ามclashing against this by 12</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="hubertCard">
 <Desc>Only usable in the 'Blade Unlocked' state</Desc>
@@ -1149,7 +1153,7 @@
 <Desc>[เมื่อเริ่มการปะทะ] ถ้าเป็นหนึ่งเดียว ลดพลังของall dice ของเป้าหมายby 1</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="powerDownNext2pwTargetHighlander">
-<Desc>[เมื่อปะทะชนะ] ถ้าเป็นหนึ่งเดียว ลดพลังของnext ของopponent die by 2</Desc>
+<Desc>[เมื่อปะทะชนะ] ถ้าเป็นหนึ่งเดียว ลดพลังของnext ของฝ่ายตรงข้ามdie by 2</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="draw1CardAndHighlanderEnergy">
@@ -1200,7 +1204,7 @@ repeat this effect for every ระดับอารมณ์</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="breakChargeRemake">
-<Desc>[เมื่อโจมตี] Spend 2 Charge to ทำดาเมจ Stagger 6 ดาเมจ up to three times</Desc>
+<Desc>[เมื่อโจมตี] ใช้ 2 ชาร์จเพื่อ ทำดาเมจ Stagger 6 ดาเมจ up to three times</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="powerUp1Hp_ver2">
@@ -1309,7 +1313,7 @@ fully recover Stagger Resist Manifest the EGOของthe Red Mist ในฉา�
 <BattleCardAbility ID="myoDice1">
 </BattleCardAbility>
 <BattleCardAbility ID="myoDice2">
-<Desc>[เมื่อโจมตี] Deal 15 bonus damage aได้รับst the manually selected target</Desc>
+<Desc>[เมื่อโจมตี] Deal 15 bonus damage against the manually selected target</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="rudolphCard">
 <Desc>Only usable at 20+ Charge</Desc>
@@ -1333,16 +1337,16 @@ fully recover Stagger Resist Manifest the EGOของthe Red Mist ในฉา�
 <Desc>[เมื่อใช้] ทำดาเมจ Stagger 4 ดาเมจใส่ตนเอง</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="deerDice">
-<Desc>[เมื่อโจมตี] Spend 3 Charge to ทำดาเมจ Stagger 8 ดาเมจ</Desc>
+<Desc>[เมื่อโจมตี] ใช้ 3 ชาร์จเพื่อ ทำดาเมจ Stagger 8 ดาเมจ</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="rhinoCard">
 <Desc>[เมื่อเริ่มการต่อสู้] ได้รับเกราะ 2 จำนวนthis Scene</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="drawCardWarpOnly">
-<Desc>[เมื่อใช้] Spend 3 Charge to จั่ว Page 2 ใบ</Desc>
+<Desc>[เมื่อใช้] ใช้ 3 ชาร์จเพื่อ จั่ว Page 2 ใบ</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="power1costCharge">
-<Desc>[เมื่อใช้] Spend 3 Charge to boost Powerของลูกเต๋าบน Page นี้จะby +1</Desc>
+<Desc>[เมื่อใช้] ใช้ 3 ชาร์จเพื่อ boost Powerของลูกเต๋าบน Page นี้จะby +1</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="energyAndCharge">
 <Desc>[เมื่อใช้] ฟื้นฟูแสง 1 หน่วย และได้รับชาร์จ 3 จำนวน</Desc>
@@ -1407,7 +1411,7 @@ fully recover Stagger Resist Manifest the EGOของthe Red Mist ในฉา�
 <Desc>Dice on this page do not deal damage or Stagger damage on hit</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="wolfEgoDice1">
-<Desc>This die is rolled 4 times</Desc>
+<Desc>ลูกเต๋านี้ทอย 4 ครั้ง</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="wolfEgoDice2">
 <Desc>[เมื่อโจมตี] Deal damage equal ให้ sumของall valid rolls (won clashes or hits connected) done with ลูกเต๋าทั้งหมดบน Page นี้</Desc>
@@ -1608,7 +1612,7 @@ cannot be targeted</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="longBirdEgo">
-<Desc>[เมื่อโจมตี] Deal damage equal to 10%ของMax ของtarget HP (Max 50)</Desc>
+<Desc>[เมื่อโจมตี] Deal damage equal to 10%ของMax ของเป้าหมาย HP (Max 50)</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="smallBirdEgo">
@@ -1624,7 +1628,7 @@ cannot be targeted</Desc>
 <Desc>[เมื่อใช้] ถ้าHP ของuser is at 50% or lower ลูกเต๋าบน Page นี้จะได้รับ +8 Power</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="bossBirdSecondEgoDice">
-<Desc>Deal 50% more damage aได้รับst เป้าหมาย with 50% or less HP</Desc>
+<Desc>Deal 50% more damage against เป้าหมาย with 50% or less HP</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="emotion_small_beak">
@@ -1641,7 +1645,7 @@ cannot be targeted</Desc>
 <Desc>[เมื่อโจมตี] มอบ 2 Erosion</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="yanOnly2Dice">
-<Desc>[เมื่อปะทะชนะ] Destroy next ของopponent die</Desc>
+<Desc>[เมื่อปะทะชนะ] Destroy next ของฝ่ายตรงข้ามdie</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="yanInstantEnergy">
@@ -1754,7 +1758,7 @@ lose as much Light ในฉากถัดไป</Desc>
 <Desc>[เมื่อใช้] ได้รับ ลูกเต๋าความเร็ว for the ในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="clockEgoDice">
-<Desc>[เมื่อปะทะชนะ] Destroy next ของopponent die</Desc>
+<Desc>[เมื่อปะทะชนะ] Destroy next ของฝ่ายตรงข้ามdie</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="blueStarEgoDice">
@@ -1940,7 +1944,7 @@ the page loses this ability afterwards</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="vibrateActivatePlayer">
-<Desc>[เมื่อใช้] ถ้าความเร็วis equal to Vibration ของtarget ลูกเต๋าบน Page นี้จะได้รับ +4 Power</Desc>
+<Desc>[เมื่อใช้] ถ้าความเร็วis equal to Vibration ของเป้าหมาย ลูกเต๋าบน Page นี้จะได้รับ +4 Power</Desc>
 </BattleCardAbility>
 
 <BattleCardAbility ID="plutoCard">
@@ -2047,7 +2051,7 @@ must use allของit
 </BattleCardAbility>
 
 <BattleCardAbility ID="greta_destroyDice">
-<Desc>[เมื่อปะทะชนะ] Destroy all dice the opponent has
+<Desc>[เมื่อปะทะชนะ] Destroy all dice the ฝ่ายตรงข้ามhas
 [เมื่อปะทะแพ้] Destroy ลูกเต๋าทั้งหมดบน Page นี้</Desc>
 </BattleCardAbility>
 
@@ -2130,7 +2134,7 @@ must use allของit
 จำนวนในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="loselink1plwe">
-<Desc>[เมื่อปะทะแพ้] ถ้าopponent has Ashen Presence lower 'Soul Link' by 1</Desc>
+<Desc>[เมื่อปะทะแพ้] ถ้าฝ่ายตรงข้ามhas Ashen Presence lower 'Soul Link' by 1</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="atkcombo_zelkova">
 <Desc>[เมื่อเริ่มการต่อสู้] ถ้าtargeting the same character as Angelica all Offensive dice on this page are moved to hers</Desc>
@@ -2167,7 +2171,7 @@ must use allของit
 <Desc>[เมื่อโจมตี] ทำดาเมจ 10 ดาเมจ และStagger damage</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="bs3combodestroy">
-<Desc>[เมื่อโจมตี] [เมื่อปะทะชนะ] Destroy all dice the opponent has
+<Desc>[เมื่อโจมตี] [เมื่อปะทะชนะ] Destroy all dice the ฝ่ายตรงข้ามhas
 [เมื่อปะทะแพ้] Destroy ลูกเต๋าทั้งหมดบน Page นี้
 </Desc>
 </BattleCardAbility>
@@ -2448,7 +2452,7 @@ all otherเพื่อนร่วมทีมfully recover HP</Desc>
 จำนวนในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="final_exhaust_target_card">
-<Desc>[เมื่อปะทะชนะ] ถ้าa librarian เป็นเป้าหมาย the page that clashed aได้รับst this is exhausted for this phase</Desc>
+<Desc>[เมื่อปะทะชนะ] ถ้าa librarian เป็นเป้าหมาย the page that clashed against this is exhausted for this phase</Desc>
 </BattleCardAbility>
 
 <!-- keter ego -->
@@ -2492,7 +2496,7 @@ all otherเพื่อนร่วมทีมfully recover HP</Desc>
 
 <!-- 밤의 송곳 (Night Awls) -->
 <BattleCardAbility ID="awlofnight1">
-<Desc>[เมื่อใช้] Boost damage by sumของHaste ของuser และBind ของtarget</Desc>
+<Desc>[เมื่อใช้] Boost damage by sumของHaste ของuser และBind ของเป้าหมาย</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="binding1pw">
 <Desc>[เมื่อปะทะชนะ] มอบพันธนา 1 
