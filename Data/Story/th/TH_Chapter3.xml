@@ -37,7 +37,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel3-01</VoiceFile>
-          <Content>ท่านเคยได้ยินเรื่องของ ‘้ห้องสมุด’ ที่กำลังเป็นตำนานของเมืองในขณะนี้หรือเปล่าค่ะ?</Content>
+          <Content>ท่านเคยได้ยินเรื่องของ ‘ห้องสมุด’ ที่กำลังเป็นตำนานของเมืองในขณะนี้หรือเปล่าค่ะ?</Content>
         </Dialog>
         <Dialog ID="5" Model="카트리엘">
           <Teller>???</Teller>
@@ -70,7 +70,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland2</VoiceFile>
-          <Content>ตามเรทอีท่านี้ ห้องสมุดแห่งนี้จะได้รับการกล่าวขานจากเรื่องเล่าประจำเมืองเป็นตำนานของเมืองในไม่ช้า</Content>
+          <Content>ตามเรทอีท่านี้นะ ห้องสมุดแห่งนี้จะได้รับการกล่าวขาน จากเรื่องเล่าประจำเมืองเป็นตำนานของเมืองในไม่ช้า</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -82,13 +82,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland4</VoiceFile>
-          <Content>ยิ่งไปกว่านั้น เรื่องเล่าประจำเมืองเหล่านั้นส่วนใหญ่ค่อนข้างธรรมดาและน่าเบื่อเมื่อเธอรู้ถึงต้นตอของเรื่องราวเหล่านั้นจริงๆ</Content>
+          <Content>ยิ่งไปกว่านั้น เรื่องเล่าประจำเมืองเหล่านั้นส่วนใหญ่ค่อนข้างธรรมดา และน่าเบื่อเมื่อเธอรู้ถึงต้นตอของเรื่องราวเหล่านั้นจริงๆ</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland5</VoiceFile>
-          <Content>ความสนุกของมันจริงๆเริ่มต้นเมื่อเรื่องเล่าประจำเมืองได้รับการกล่าวขานเป็นตำนานเมืองเนี้ยแหละน้า</Content>
+          <Content>ความสนุกของมันจริงๆ เริ่มต้นเมื่อเรื่องเล่าประจำเมือง ได้รับการกล่าวขานเป็นตำนานเมืองเนี้ยแหละน้า</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -112,7 +112,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland7</VoiceFile>
-          <Content>เธอรู้ม่ะ เมื่อตอนที่ฉันยังเป็นเด้ก คุณย่าของฉันเคยเล่านิทานเกี่ยวกับตำนานเมืองแทบทุกประเภทให้ฉันฟัง เรื่องพวกนั้นชอบทำให้ฉันเย็นสันหลังวาบตลอด</Content>
+          <Content>เธอรู้ม่ะ เมื่อตอนที่ฉันยังเป็นเด็ก คุณย่าของฉันเคยเล่านิทานเกี่ยวกับตำนานเมืองแทบทุกประเภทให้ฉันฟัง เรื่องพวกนั้นชอบทำให้ฉันเย็นสันหลังวาบตลอด</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -160,169 +160,169 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela6</VoiceFile>
-          <Content>What were you even trying to say?</Content>
+          <Content>นายพยายามอยากจะพูดอะไรกันแน่?</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland13</VoiceFile>
-          <Content>Anyways, you said your goal is to get this one book that’ll give you freedom, right?</Content>
+          <Content>ยังไงก็เหอะ เธอบอกว่าเป้าหมายของเธอคือการได้รับหนังสือเล่มนึง แล้วเธอจะมอบอิสรภาพให้กับฉันถูกไหม?</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela7</VoiceFile>
-          <Content>That’s right. I want the freedom to leave this place, and the freedom to live as myself.</Content>
+          <Content>ถูกแล้ว ฉันต้องการได้รับการปลดปล่อยออกจากที่นี่ ได้ใช้ชีวิตของตัวเองได้อย่างอิสระ</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela8</VoiceFile>
-          <Content>And the freedom to forget…</Content>
+          <Content>และมีอิสระที่จะลืม…</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland14</VoiceFile>
-          <Content>Then, is freedom the only reason you’re trying to gather all these books?</Content>
+          <Content>ถ้าอย่างงั้น อิสรภาาพคือเหตุผลเดียวที่เธอพยายาม จะรวบรวมพวกหนังสือเหล่านั้นทั้งหมดสินะ?</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela9</VoiceFile>
-          <Content>You’re only half right.</Content>
+          <Content>ที่นายพูดมาก็ถูกแค่ครึ่งเดียว</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela10</VoiceFile>
-          <Content>During my time living underground, I could only pick up fragmented information about the outside world.</Content>
+          <Content>ในช่วงที่ฉันอาศัยอยู่ที่นี่ ฉันก็ได้ข้อมูลเพียงเล็กน้อยจากโลกภายนอกเท่านั้น</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela11</VoiceFile>
-          <Content>I’ve seen and heard the same stories over and over and over again.</Content>
+          <Content>ได้ยินได้เห็นแต่เรื่องราวเดิมๆซ้ำไปซ้ำมามาโดยตลอด</Content>
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela12</VoiceFile>
-          <Content>I want to hear new stories now. I want to see new faces. </Content>
+          <Content>ตอนนี้ฉันอยากจะได้ยินเรื่องราวใหม่ๆ อยากจะเห็นสิ่งใหม่ๆ</Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela13</VoiceFile>
-          <Content>That’s also why I’m looking for the book that contains everything about the world.</Content>
+          <Content>นั่นก็เป็นเหตุผลว่าทำไมที่ฉันพยายามตามหาหนังสือ ที่เก็บรวบรวมข้อมูลทุกสิ่งบนโลกเอาไว้</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela14</VoiceFile>
-          <Content>And a little bit of revenge at the same time.</Content>
+          <Content>และในขณะเดียวกันอีกส่วนหนึ่งก็เป็นการแก้แค้นไปด้วย</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland15</VoiceFile>
-          <Content>…Revenge, huh. For what?</Content>
+          <Content>…การแก้แค้น ห้ะ เรื่องอะไรล่ะ?</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela15</VoiceFile>
-          <Content>I’m taking revenge on the abominable person and world that made me into what I am.</Content>
+          <Content>ฉันพูดถึงการแก้แค้นคนที่น่ารังเกียจและโลก ที่ทำให้ฉันกลายเป็นสิ่งที่ฉันเป็นอยู่เหมือนตอนนี้</Content>
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela16</VoiceFile>
-          <Content>Only after I’ve completely and thoroughly destroyed everything he dreamed for, will my freedom finally be whole.</Content>
+          <Content>เมื่อฉันได้ทำลายทุกสิ่งที่เขาปรารถนาจนหมดสิ้นแล้ว อิสรภาพที่แท้จริงของฉันก็จะเสร็จสมบูรณ์ลงในที่สุด</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland16</VoiceFile>
-          <Content>…So you’ll eventually get to the freedom and vengeance you want if we keep following where this red invitation leads us to?</Content>
+          <Content>…งั้น ถ้าเรายังคงตามส่งคำเชิญสีแดงนี้ต่อมันจะนำเราไปสู่ อิสรภาพและการล้างแค้นที่เธอต้องการได้ในท้ายที่สุดใช่ไหมล่ะ?</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela17</VoiceFile>
-          <Content>It will guide me to the book that will let me achieve such things, to be exact.</Content>
+          <Content>มันจะนำพาฉันไปสู่หนังสือที่จะช่วยให้บรรลุเป้าหมายได้อย่างแน่นอน</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela18</VoiceFile>
-          <Content>How exactly those wishes will come true is beyond me.</Content>
+          <Content>ความปรารถนาเหล่านั้นจะเป็นจริงได้อย่างไรนั้น มันอยู่นอกเหนือจากที่ฉันเข้าใจน่ะ</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela19</VoiceFile>
-          <Content>The one book that will complete me and the Library…</Content>
+          <Content>หนังสือเพียงเล่มเดียวเล่มนั้นจะทำให้ฉัน และห้องสมุดสมบูรณ์เป็นอย่างที่ต้องการ…</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela20</VoiceFile>
-          <Content>If I can find that one absolute book containing everything I want to know, all will be resolved.</Content>
+          <Content>หากฉันพบหนังสือที่สมบูรณ์ที่รวมทุกสิ่งเอาไว้ในนั้น รวมทุกสิ่งที่ฉันที่ต้องการอยากรู้ แล้วทุกสิ่งก็จะได้รับการแก้ไข</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland17</VoiceFile>
-          <Content>Wait, hold on. That’s your whole plan? Just find the book? You don’t exactly know how to earn that freedom and stuff?</Content>
+          <Content>หยุดก่อน แปปนึงนะ นั้นคือแผนทั้งหมดของเธอแล้วหรอ? เพียงแค่หาหนังสือเท่านั้นเองนะ? เธอยังไม่แน่ใจเลยว่าจะได้อิสรภาพเหล่านั้นได้ยังไงเลยนะ?</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela21</VoiceFile>
-          <Content>The only thing I know for sure is that I myself will become whole at the end of the journey led by the invitation.</Content>
+          <Content>สิ่งเดียวที่ฉันรู้แน่นอนคือ ตัวฉันเองจะถูกเติมเต็มที่จุดสิ้นสุดของการเดินทาง โดยจะถูกนำพาด้วยการเชิญชวน</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela22</VoiceFile>
-          <Content>The Library has infinite space. I could extract infinite books from countless guests and store them all if I wanted to.</Content>
+          <Content>ห้องสมุดแห่งนี้มีพื้นที่มากมาย แล้วฉันก็เก็บหนังสือได้ไม่จำกัดจากแขกจำนวนนับไม่ถ้วน และเก็บรวบรวมทั้งหมดได้หากว่าฉันต้องการ</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela23</VoiceFile>
-          <Content>But simply collecting books that are mostly filled with junk without a clear purpose in mind is rather inefficient, don’t you think?</Content>
+          <Content>แต่การรวบรวมหนังสือส่วนใหญ่ที่ได้เต็มไปด้วยพวกขยะๆ ที่จิตใจไม่มีจุดมุ่งหมายที่ชัดเจนไม่เป็นไปตามที่คาดหวังเลย นายก็คิดแบบนั้นหรือเปล่าล่ะ?</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela24</VoiceFile>
-          <Content>Hence the invitation’s guidance along the path that leads to the book I wish to obtain, as I explained before.</Content>
+          <Content>ดังนั้น คำเชิญจึงเป็นการนำไปสู่เส้นทางสู่หนังสือที่ฉันต้องการได้ เหมือนที่ฉันเคยอธิบายไว้ก่อนหน้านี้ไง</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland18</VoiceFile>
-          <Content>Let’s say that you got the one book somehow.</Content>
+          <Content>งั้นสมมติว่าเธอได้หนังสือเล่มนั้นมาให้แล้วกัน</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland19</VoiceFile>
-          <Content>But you don’t even know what it’ll exactly do to you to make you “whole”?</Content>
+          <Content>แต่เธอก็ไม่รู้ด้วยซ้ำว่าอะไรมันจะทำให้เธอถูก "เติมเต็ม" ใช่หรือเปล่าล่า?</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela25</VoiceFile>
-          <Content>I don’t care what happens to me. I’ll be satisfied with anything as long as I can get the results.</Content>
+          <Content>ฉันไม่แคร์หรอกนะว่าจะเกิดอะไรขึ้นกับฉัน เพียงแต่ฉันพอใจกับสิ่งใดก็ตามที่เป็นผลลัพธ์ที่ต้องการ</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland20</VoiceFile>
-          <Content>It’s almost scary how tenacious you are.</Content>
+          <Content>ความดื้นรั้นของเธอมันค่อนข้างน่ากลัวเลยนะ</Content>
         </Dialog>
       </Place>
     </Episode>
