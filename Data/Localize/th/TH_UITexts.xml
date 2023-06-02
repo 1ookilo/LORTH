@@ -16,7 +16,7 @@
 	<text id="ui_hod">โฮด</text>
 	<text id="ui_netzach">เน็ตซัค</text>
 	<text id="ui_tiphereth">ทีฟฟีรีท</text>
-	<text id="ui_gebura">เกอบูรา</text>
+	<text id="ui_gebura">เกบูรา</text>
 	<text id="ui_chesed">เคเซ็ด</text>
 	<text id="ui_binah">บีนา</text>
 	<text id="ui_hokma">ฮ็อคมา</text>
@@ -58,7 +58,7 @@
 	<text id="ui_card_maintitle">Combat Bookshelf</text>
 	<text id="ui_card_title_soulshelf">Soul Pages</text>
 	<text id="ui_card_title_battleshelf">Combat Pages</text>
-	<text id="ui_cardfilter_cost">ค่าใช้จ่าย</text>
+	<text id="ui_cardfilter_cost">คอส</text>
 	<text id="ui_cardfilter_dicenumber">จำนวนเต๋า</text>
 	<text id="ui_gift_title_battlesymbol">Battle Symbol</text>
 	<text id="ui_gift_eye">ตา</text>
@@ -548,7 +548,7 @@ The Combat bookshelf will be reset.</text>
   <text id="ui_color_s">ความเข้มสี</text>
   <text id="ui_color_v">ความสว่าง</text>
   <text id="ui_resultemotionlevelrewardtitle">พิเศษจากระดับอารมณ์</text>
-  <text id ="ui_resultgetbookincreasepertitle">{0} Rate Up</text>
+  <text id ="ui_resultgetbookincreasepertitle">โอกาสดรอป {0}</text>
   <!--20201113-->
   <text id="ui_selectgendertype">ชนิดร่างกาย</text>
   <!--20201113-->
@@ -656,7 +656,7 @@ The Combat bookshelf will be reset.</text>
 
   
   <!--20210311 -->
-  <text id ="ui_alarm_blueprimaryreward">รางวัลที่ได้รับจากการต้อนรับ คณะเสียงกังวาล สามารถรับได้เพียงครั้งเดียวเท่านั้น</text>
+  <text id ="ui_alarm_blueprimaryreward">รางวัลที่ได้รับจากการต้อนรับ "คณะเสียงกังวาล" สามารถรับได้เพียงครั้งเดียวเท่านั้น</text>
 
 
   <text id="ui_alarm_startthebluereverberationprimary">หลังจากนี้คุณจะไม่สามารถส่งบัตรเชิญ เผาหนังสือ ต่อสู้กับ Abnormalities หรือ realize ชั้นได้อีกต้อไป
@@ -715,12 +715,12 @@ The Combat bookshelf will be reset.</text>
   <text id="ui_credit_skipalarm">ข้าม</text>
 
 <!--20210423-->
-  <text id="ui_alarm_endcontentsrewardcantuse">ความคืบหน้าของคุณได้ถูกส่งมา ณ จุดที่หลังจากคุณได้ทำการต้อนรับ ทมิฬเงียบสงัด
-รางวัลที่คุณได้รับหลังจากเสร็จสิ้นการต้อนรับ ทมิฬเงียบสงัด และ คณะก้องกังวาลบิดเบี้ยวได้ถูกล็อคชั่วคราว</text>
+  <text id="ui_alarm_endcontentsrewardcantuse">ความคืบหน้าของคุณได้ถูกส่งมา ณ จุดที่หลังจากคุณได้ทำการต้อนรับ "ทมิฬเงียบสงัด"
+รางวัลที่คุณได้รับหลังจากเสร็จสิ้นการต้อนรับ "ทมิฬเงียบสงัด" และ "คณะก้องกังวาลบิดเบี้ยว" ได้ถูกล็อคชั่วคราว</text>
 
   <!--20210506-->
   <text id="ui_alarm_ensurestoryselection">ทางเลือกนี้อาจมีผลต่อคุณในอนาคต
-คุณแน่ใจใช่ไหมว่าต้องเลือกเช่นนี้?</text>
+คุณแน่ใจใช่ไหมว่าต้องการเลือกทางนี้?</text>
 
 <text id="ui_alarm_isrunningtutorial">คุณแน่ใจว่าต้องการข้ามการฝึกสอนใช่หรือไม่?</text>
 
