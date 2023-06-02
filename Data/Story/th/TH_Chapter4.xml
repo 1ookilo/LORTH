@@ -49,7 +49,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia3</VoiceFile>
-          <Content>ให้ฉันเดา, เซค'เชิน 2?</Content>
+          <Content>ให้ฉันเดา, เซคเชิน 2?</Content>
         </Dialog>
         <Dialog ID="7" Model="???">
           <Teller>???</Teller>
@@ -166,7 +166,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland8</VoiceFile>
-          <Content>ฮุน… เธอคงคิดว่าคนอย่างฉันไม่สามารถแต่งงานได้หรอกใช่ไหม? เธอดูรู้สึกทึ่งกับแนวคิดทั้งหมดของการปฏิบัติที่ไม่มีประสิทธิภาพในหมู่มนุษย์ที่เรียกว่าการแต่งงานนะ? </Content>
+          <Content>ฮุน… เธอคงคิดว่าคนอย่างฉันไม่สามารถแต่งงานได้หรอกใช่ไหม? เธอดูรู้สึกสนใจกับการแต่งงานที่ดูไร้สาระของมนุษย์นะ? </Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -208,13 +208,13 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_prol_ep1_angela12</VoiceFile>
-          <Content>ลองนึกภาพว่าอ่านหนังสือเล่มเดียวเป็นเวลาล้านปีดูสิ นายจะต้องไม่พอใจอย่างแน่นอน</Content>
+          <Content>ลองนึกภาพว่าอ่านหนังสือเล่มเดียวเป็นเวลาล้านปีดูสิ นายจะต้องไม่ถูกใจอย่างแน่นอน</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland11</VoiceFile>
-          <Content>ฉันคงสำลักตั้งแต่ครั้งที่ห้าแล้ว ถ้าฉันถูกบังคับให้อ่านหนังสือที่น่าเบื่อเดิมๆแบบนั้น…</Content>
+          <Content>ฉันคงสำลักตั้งแต่ครั้งที่ห้าแล้ว ถ้าฉันถูกบังคับให้อ่านหนังสือเดิมๆน่าเบื่อแบบนั้น…</Content>
         </Dialog>
         <Dialog ID="34" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -226,7 +226,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland13</VoiceFile>
-          <Content>ฉันไม่เหมาะกับงาน  ฟิกเซอร์ เพราะมาจากพื้นฐานที่หยาบกระด้างและทั้งหมด ในขณะที่ฉันยังคงทำงานเหมือนผึ้งงาน ฉันจึงได้บ้านในจุดที่เหมาะสมและได้พบกับสิ่งที่เรียกว่า "คู่ชีวิต"</Content>
+          <Content>ฉันไม่เหมาะกับงาน  ฟิกเซอร์ เพราะมาจากพื้นฐานที่หยาบกระด้างและโดยรวม ในขณะที่ฉันยังคงทำงานเหมือนผึ้งงาน ฉันจึงได้บ้านในจุดที่เหมาะสมและได้พบกับสิ่งที่เรียกว่า "คู่ชีวิต"</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -334,13 +334,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland30</VoiceFile>
-          <Content>ฉันร้องไห้แล้วสาปแช่งโลกนี้และเมืองนี้เป็นเวลานาน</Content>
+          <Content>ฉันร้องไห้แล้วสาปแช่งโลกนี้และเมืองนี้</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland31</VoiceFile>
-          <Content>ฉันดิ้นทุรนทุรายเพื่อให้ได้มาซึ่งความสุขนี้ แต่แล้วทำไมมันถึงหลุดมือฉันไปง่ายๆเลย…</Content>
+          <Content>ฉันดิ้นทุรนทุรายเพื่อให้ได้มาซึ่งความสุขนี้ แต่แล้วทำไมมันถึงหลุดมือฉันไปได้ง่ายๆเลย…</Content>
         </Dialog>
         <Dialog ID="55" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -404,208 +404,208 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: ถ้ำของสวี'เพอะ</PlaceName>
+        <PlaceName>สถานที่: ถ้ำของสวีปเปอร์</PlaceName>
         <Dialog ID="0" Model="베타">
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta1 (2)</VoiceFile>
-          <Content>Taste of Sweepers never cease to surprise?</Content>
+          <Content>รสชาติของพวก สวีปเปอร์ ไม่เคยทำให้เบื่อเลยว่าไหม?</Content>
         </Dialog>
         <Dialog ID="1" Model="감마">
-          <Teller>Gamma</Teller>
+          <Teller>แกมม่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_gamma1</VoiceFile>
-          <Content>Always disgusting in new ways? Never realized there could be so many flavors of filth.</Content>
+          <Content>น่าขยะแขยงในรูปแบบใหม่เสมอสินะ? ยังไงก็แล้วแต่ความโสโครกก็ยังอร่อยอยู่ดี</Content>
         </Dialog>
         <Dialog ID="2" Model="베타">
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta2</VoiceFile>
-          <Content>Reminded of taste of Fixer we ate. Was soft? Was happy.</Content>
+          <Content>ทำให้นึกถึงรสชาติของ ฟิกเซอร์ ที่พวกเรากินกันมันนุ่มใช้ไหม? ดีใจนะ</Content>
         </Dialog>
         <Dialog ID="3" Model="감마">
-          <Teller>Gamma</Teller>
+          <Teller>แกมม่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_gamma2</VoiceFile>
-          <Content>Hard to eat, but tasty? Produced good silk. Was satisfied. </Content>
+          <Content>กินยากแต่อร่อยงั้นหรอ? เพียงผลิตเนื้อผ้าที่ดีได้ก็พอใจแล้ว </Content>
         </Dialog>
         <Dialog ID="4" Model="알파">
-          <Teller>Alpha</Teller>
+          <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha1</VoiceFile>
-          <Content>Must feed on Sweepers for another week.</Content>
+          <Content>คงต้องกินพวกสวีปเปอร์ไปอีกอาทิตย์หนึ่ง</Content>
         </Dialog>
         <Dialog ID="5" Model="베타">
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta3 (2)</VoiceFile>
-          <Content>Because we must spin more silk?</Content>
+          <Content>เพราะพวกมันผลิตเส้นใยได้มากงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="6" Model="알파">
-          <Teller>Alpha</Teller>
+          <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha2</VoiceFile>
-          <Content>Index gave such Prescript.</Content>
+          <Content>อินเด็กซ์ ได้มอบหมายข้อตกลงมาให้เราไง</Content>
         </Dialog>
         <Dialog ID="7" Model="감마">
-          <Teller>Gamma</Teller>
+          <Teller>แกมม่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_gamma3</VoiceFile>
-          <Content>What if Mother of Sweepers move before we finish.</Content>
+          <Content>จะเกิดอะไรขึ้นถ้า สวีปเปอร์ตัวแม่ เคลื่อนไหวก่อนที่เราจะทำเสร็จละ</Content>
         </Dialog>
         <Dialog ID="8" Model="알파">
-          <Teller>Alpha</Teller>
+          <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha3</VoiceFile>
-          <Content>We hunt. And feast? Must weave cloth.</Content>
+          <Content>เราก็ล่าและก็กินไง? ยังไงเราต้องทำชุดนะ.</Content>
         </Dialog>
         <Dialog ID="9" Model="감마">
-          <Teller>Gamma</Teller>
+          <Teller>แกมม่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_gamma4-01</VoiceFile>
-          <Content>Know? Wondered if we have plans once Sweepers start retaliation.</Content>
+          <Content>ถามหน่อย? ถ้าพวก สวีปเปอร์ เริ่มตอบโต้พวกเราจะทำไง</Content>
         </Dialog>
         <Dialog ID="10" Model="감마">
-          <Teller>Gamma</Teller>
+          <Teller>แกมม่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_gamma5-01</VoiceFile>
-          <Content>If they all seriously try to eat us, we must have limits?</Content>
+          <Content>ถ้าพวกมันจะเล่นงานเราจริงๆละก็ พวกเราได้จบเหตุแน่?พวกเรามีกันนิดเดียวเอง</Content>
         </Dialog>
         <Dialog ID="11" Model="베타">
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta4</VoiceFile>
-          <Content>Sweepers are quiet for now? Reasons unknown.</Content>
+          <Content>ช่วงนี้พวกสวีปเปอร์ก็ดูเงียบๆด้วย? ไม่รู้เหตุผลเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="12" Model="알파">
-          <Teller>Alpha</Teller>
+          <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha4</VoiceFile>
-          <Content>Index has its gaze on us. We only make fabric as Prescript pointed?</Content>
+          <Content>อินเด็กซ์มันก็จับตามาที่เราอยู่นะ เราก็ทำเส้นไหมตามที่ข้อตกลงกันไวใช้ไหม?</Content>
         </Dialog>
         <Dialog ID="13" Model="베타">
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta5 (2)</VoiceFile>
-          <Content>No other Prescript from Index?</Content>
+          <Content>ไม่มีข้อตกลงอื่นจากอินเด็กซ์อีกหรอ?</Content>
         </Dialog>
         <Dialog ID="14" Model="알파">
-          <Teller>Alpha</Teller>
+          <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha5</VoiceFile>
-          <Content>None? No need for worry. Index is good friend?</Content>
+          <Content>ไม่มี? ไม่ต้องกังวลอินเด็กซ์เป็นเพื่อนที่ดี?</Content>
         </Dialog>
         <Dialog ID="15" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>อินเด็กซ์ ผู้ส่งสาร</Title>
           <VoiceFile>ch4_Carnival_ep1_yan1 (2)</VoiceFile>
-          <Content>Hello, everyone.</Content>
+          <Content>สวัสดีครับทุกคน.</Content>
         </Dialog>
         <Dialog ID="16" Model="알파">
-          <Teller>Alpha</Teller>
+          <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha6</VoiceFile>
-          <Content>Greetings?</Content>
+          <Content>สวัสดี?</Content>
         </Dialog>
         <Dialog ID="17" Model="베타">
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta6 (2)</VoiceFile>
-          <Content>Greetings.</Content>
+          <Content>สวัสดี</Content>
         </Dialog>
         <Dialog ID="18" Model="감마">
-          <Teller>Gamma</Teller>
+          <Teller>แกมม่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_gamma6</VoiceFile>
-          <Content>Messenger? Greetings.</Content>
+          <Content>สวัสดีผู้ส่งสาร?</Content>
         </Dialog>
         <Dialog ID="19" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>อินเด็กซ์ ผู้ส่งสาร</Title>
           <VoiceFile>ch4_Carnival_ep1_yan2 (2)</VoiceFile>
-          <Content>Yes~ Thanks for the greetings.</Content>
+          <Content>ครับ~ ขอบคุณสำหรับคำทักทายครับ</Content>
         </Dialog>
         <Dialog ID="20" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>อินเด็กซ์ ผู้ส่งสาร</Title>
           <VoiceFile>ch4_Carnival_ep1_yan3 (2)</VoiceFile>
-          <Content>I’m here to give you guys a new Prescript.</Content>
+          <Content>ผมเอาข้อกำหนดใหม่มาให้นะครับ</Content>
         </Dialog>
         <Dialog ID="21" Model="베타">
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta7 (2)</VoiceFile>
-          <Content>Head to Library?</Content>
+          <Content>ไปที่ห้องสมุดงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="22" Model="알파">
-          <Teller>Alpha</Teller>
+          <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha7</VoiceFile>
-          <Content>Have other paper with you? This is no Prescript.</Content>
+          <Content>มีเอกสารอื่นอยู่กับคุณไหม นี่ไม่เห็นข้อตกลงอะไรเลย</Content>
         </Dialog>
         <Dialog ID="23" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>อินเด็กซ์ ผู้ส่งสาร</Title>
           <VoiceFile>ch4_Carnival_ep1_yan4 (2)</VoiceFile>
-          <Content>You’re right, this is an invitation to the Library. It’s needed according to the Prescript.</Content>
+          <Content>คุณพูดถูกแล้วละนี่คือคำเชิญไปยังห้องสมุดเลยอะไรต่างๆก็เขียนไวในนั่นละ</Content>
         </Dialog>
         <Dialog ID="24" Model="감마">
-          <Teller>Gamma</Teller>
+          <Teller>แกมม่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_gamma7</VoiceFile>
-          <Content>Must go to Library?</Content>
+          <Content>ต้องไปห้องสมุดงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="25" Model="알파">
-          <Teller>Alpha</Teller>
+          <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha8</VoiceFile>
-          <Content>We must eat Sweepers and weave fabric.</Content>
+          <Content>เราต้องกินสวีปเปอร์และทอผ้านะ</Content>
         </Dialog>
         <Dialog ID="26" Model="감마">
-          <Teller>Gamma</Teller>
+          <Teller>แกมม่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_gamma8</VoiceFile>
-          <Content>Can we eat messenger?</Content>
+          <Content>แล้วเรากินผู้ส่งสารได้ไหม?</Content>
         </Dialog>
         <Dialog ID="27" Model="베타">
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta8</VoiceFile>
-          <Content>Will be tasty? Would produce good silk.</Content>
+          <Content>จะอร่อยไหมนะ? อาจจะเนื้อผ้าดีๆก็ได้.</Content>
         </Dialog>
         <Dialog ID="28" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>อินเด็กซ์ ผู้ส่งสาร</Title>
           <VoiceFile>ch4_Carnival_ep1_yan5 (2)</VoiceFile>
-          <Content>…No, I’m afraid not. You guys must obey the Prescripts, remember?</Content>
+          <Content>…ไม่ ผมเกรงว่าจะไม่ พวกคุณต้องทำตามข้อบัญญัติ ลืมแล้วหรอ?</Content>
         </Dialog>
         <Dialog ID="29" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>อินเด็กซ์ ผู้ส่งสาร</Title>
           <VoiceFile>ch4_Carnival_ep1_yan6 (2)</VoiceFile>
-          <Content>You want to continue your silk-making business, no?</Content>
+          <Content>พวกคุณต้องการทำธุรกิจขายผ้าต่อไปไม่ใช้หรอ?</Content>
         </Dialog>
         <Dialog ID="30" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>อินเด็กซ์ ผู้ส่งสาร</Title>
           <VoiceFile>ch4_Carnival_ep1_yan7 (2)</VoiceFile>
-          <Content>If you don’t follow your Prescripts, the Proxies will visit you.</Content>
+          <Content>หากพวกคุณไม่ปฏิบัติตามข้อตกลงกัน ผู้รับมอบหมายจะมาหาพวกคุณนะ</Content>
         </Dialog>
         <Dialog ID="31" Model="알파">
-          <Teller>Alpha</Teller>
+          <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha9</VoiceFile>
-          <Content>Prescript come first for us?</Content>
+          <Content>ข้อตกลงต้องมาก่อนสินะ?</Content>
         </Dialog>
         <Dialog ID="32" Model="감마">
-          <Teller>Gamma</Teller>
+          <Teller>แกมม่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_gamma9</VoiceFile>
-          <Content>If we break order, Prescript will not forgive?</Content>
+          <Content>ถ้าเราทำผิดสัญญาจะไม่ยกโทษให้สินะ?</Content>
         </Dialog>
         <Dialog ID="33" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>อินเด็กซ์ ผู้ส่งสาร</Title>
           <VoiceFile>ch4_Carnival_ep1_yan8 (2)</VoiceFile>
           <Content>……</Content>
         </Dialog>
@@ -613,97 +613,97 @@
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta9 (2)</VoiceFile>
-          <Content>Perhaps Library have new ingredient to make new silk with?</Content>
+          <Content>บางทีห้องสมุดอาจมีส่วนผสมใหม่สำหรับทำเส้นใยใหม่ด้วยก็ได้?</Content>
         </Dialog>
         <Dialog ID="35" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>อินเด็กซ์ ผู้ส่งสาร</Title>
           <VoiceFile>ch4_Carnival_ep1_yan9 (2)</VoiceFile>
-          <Content>Since I’m done delivering the Prescript, I’ll be on my way.</Content>
+          <Content>เนื่องจากผมส่งข้อตกลงเสร็จแล้ว ผมขอตัวก่อนนะ</Content>
         </Dialog>
         <Dialog ID="36" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>อินเด็กซ์ ผู้ส่งสาร</Title>
           <VoiceFile>ch4_Carnival_ep1_yan10 (2)</VoiceFile>
-          <Content>…I’m sure you guys are already aware, but don’t forget what happens if you fail to carry out any Prescript.</Content>
+          <Content>…ผมมั่นใจว่าพวกคุณทราบดีอยู่แล้ว แต่อย่าลืมว่าจะเกิดอะไรขึ้นหากคุณไม่ปฏิบัติตามข้อตกลงกันไว</Content>
         </Dialog>
         <Dialog ID="37" Model="긴">
-          <Teller>Gin</Teller>
-          <Title>Kurokumo Clan</Title>
+          <Teller>จิน</Teller>
+          <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Carnival_ep1_gin1-01</VoiceFile>
-          <Content>…Sorry to interrupt, but we’re here to retrieve our fabric.</Content>
+          <Content>…ขออภัยที่ต้องมาขัดจังหวะนะครับ แต่เรามาที่นี่เพื่อรับผ้าของเรานะครับ</Content>
         </Dialog>
         <Dialog ID="38" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>อินเด็กซ์ ผู้ส่งสาร</Title>
           <VoiceFile>ch4_Carnival_ep1_yan11 (2)</VoiceFile>
-          <Content>Hello there~ It’s the Kurokumo Clan, a Thumb subsidiary, right?</Content>
+          <Content>สวัสดีครับ ตระกูลคุโรคุโมะ จากในเครือของธัมสินะครับ</Content>
         </Dialog>
         <Dialog ID="39" Model="알파">
-          <Teller>Alpha</Teller>
+          <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha10</VoiceFile>
-          <Content>Greetings, Kurokumo Clan?</Content>
+          <Content>สวัสดี ตระกูลคุโรคุโมะ?</Content>
         </Dialog>
         <Dialog ID="40" Model="사요">
-          <Teller>Sayo</Teller>
-          <Title>Kurokumo Clan</Title>
+          <Teller>ซาโย</Teller>
+          <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Carnival_ep1_sayo1</VoiceFile>
-          <Content>We’ll take the ‘Nuovo Fabric’ requested by the Thumb. The payment is in that briefcase.</Content>
+          <Content>เรามารับ ‘ผ้านูโว’ ที่ร้องขอโดย ธัม ส่วนค่าใช้จ่ายอยู่ในกระเป๋าเอกสารนี่.</Content>
         </Dialog>
         <Dialog ID="41" Model="사요">
-          <Teller>Sayo</Teller>
-          <Title>Kurokumo Clan</Title>
+          <Teller>ซาโย</Teller>
+          <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Carnival_ep1_sayo2-01</VoiceFile>
-          <Content>By the by… I’m certain a Finger Bow-Bell is about to begin, and this is a rather frivolous behavior from the Index.</Content>
+          <Content>จะว่าไป... ฉันแน่ใจว่า Finger Bow-Bell กำลังจะเริ่มขึ้น และนี่คือการกระทำที่ค่อนข้างไร้สาระจากอินเด็กซ์.</Content>
         </Dialog>
         <Dialog ID="42" Model="긴">
-          <Teller>Gin</Teller>
-          <Title>Kurokumo Clan</Title>
+          <Teller>จิน</Teller>
+          <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Carnival_ep1_gin2</VoiceFile>
-          <Content>What should we do, dame?</Content>
+          <Content>แล้วเราควรจะเอายังไงดีครับมาดาม?</Content>
         </Dialog>
         <Dialog ID="43" Model="사요">
-          <Teller>Sayo</Teller>
-          <Title>Kurokumo Clan</Title>
+          <Teller>ซาโย</Teller>
+          <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Carnival_ep1_sayo3-01</VoiceFile>
-          <Content>He may be a simple messenger, but he’s still an executive member of the Index… It will be difficult to take him on by our own.</Content>
+          <Content>ต่อให้เขาเป็นแค่ผู้ส่งสาร แต่เขาก็เป็นถึงสมาชิกระดับพิเศษของอินเด็กซ์มันไม่ใช้เรื่องง่ายที่จะจัดการเขาต่อให้มีเพียงคนเดียว</Content>
         </Dialog>
         <Dialog ID="44" Model="사요">
-          <Teller>Sayo</Teller>
-          <Title>Kurokumo Clan</Title>
+          <Teller>ซาโย</Teller>
+          <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Carnival_ep1_sayo4</VoiceFile>
-          <Content>It is a valuable opportunity nonetheless, especially since the messenger is alone right now.</Content>
+          <Content>แต่ก็นับเป็นโอกาสที่ดีมากการที่ผู้ส่งสารอยู่คนเดียวตอนนี้ก็ตาม</Content>
         </Dialog>
         <Dialog ID="45" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>อินเด็กซ์ ผู้ส่งสาร</Title>
           <VoiceFile>ch4_Carnival_ep1_yan12 (2)</VoiceFile>
-          <Content>…Sure. All I do is deliver words from above.</Content>
+          <Content>…แน่นอน. ทั้งหมดที่ผมทำก็แค่ส่งสารจากเบื้องบนครับ</Content>
         </Dialog>
         <Dialog ID="46" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Clan</Title>
+          <Teller>ยัน</Teller>
+          <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Carnival_ep1_yang1</VoiceFile>
-          <Content>The Index is the same as always.</Content>
+          <Content>พวกอินเด็กซ์ก็ยังเหมือนเดิมเสมอเลย</Content>
         </Dialog>
         <Dialog ID="47" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>อินเด็กซ์ ผู้ส่งสาร</Title>
           <VoiceFile>ch4_Carnival_ep1_yan13 (2)</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="48" Model="사요">
-          <Teller>Sayo</Teller>
-          <Title>Kurokumo Clan</Title>
+          <Teller>ซาโย</Teller>
+          <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Carnival_ep1_sayo5</VoiceFile>
-          <Content>…Now then, why don’t we go our own ways if we’re done with all business here?</Content>
+          <Content>…นี้ทำไมเราไม่ไปตามทางของตัวเองถ้าทุกคนทำธุระทั้งหมดกันที่นี่เสร็จแล้ว?</Content>
         </Dialog>
         <Dialog ID="49" Model="사요">
-          <Teller>Sayo</Teller>
-          <Title>Kurokumo Clan</Title>
+          <Teller>ซาโย</Teller>
+          <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Carnival_ep1_sayo6</VoiceFile>
-          <Content>คาร์นิวัล can visit the Library, we can take our fabric, and mister messenger… probably has places to be.</Content>
+          <Content>พวกคาร์นิวัลก็จะไปห้องสมุด, พวกเราก็ได้ผ้าที่ต้องการแล้ว, ส่วนพ่อหนุ่ม ผู้ส่งสาร… คงจะต้องกลับเมือนกัน.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -712,268 +712,268 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela1</VoiceFile>
-          <Content>Is that an organization producing fabric?</Content>
+          <Content>พวกนั่นเป็นองค์กรที่ผลิตใยผ้างั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland1</VoiceFile>
-          <Content>Yep. Quality fabric is a rarity. Tailors are just as important as Syndicates and Fixers.</Content>
+          <Content>ใช่แล้ว. เส้นใยนั้นมีคุณภาพแถมหายากด้วย ช่างทำเสื้อพวกนั้นมีความสำคัญมากกับซินดิเคทและฟิกเซอร์</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland2</VoiceFile>
-          <Content>Those guys seem to be operating underground. Looks like they’re eating people to make silk…</Content>
+          <Content>เจ้าพวกนั้นดูเหมือนจะทำงานใต้ดินและเหมือนว่าพวกมันก็กำลังกินคนเพื่อทำเส้นใยด้วย…</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela2</VoiceFile>
-          <Content>What’s so special about it? Isn’t it just the same old piece of cloth?</Content>
+          <Content>ผ้านั้นมีอะไรพิเศษงั้นหรอ? ดูยังไงก็ผ้าธรรมดา?</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland3</VoiceFile>
-          <Content>Nuh-uh, that’s not your ordinary textile, ma’am. You still have a lot to learn.</Content>
+          <Content>คุณหนูแองเจล่าครับ นั่นไม่ใช่ผ้าที่ทอมาจากใยธรรมดา ยังมีอะไรอีกมากให้เธอเรียนรู้เลยนะเนี่ย</Content>
         </Dialog>
         <Dialog ID="55" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland4</VoiceFile>
-          <Content>There’s a good reason a lot of hotshots in the City are dressed in normal-looking attire and not plate armor.</Content>
+          <Content>มันเป็นเหตุผลที่ว่าทำไหมพวกระดับสูงในเมือถึงแต่งกายด้วยชุดที่ดูธรรมดาแทนชุดเกราะไง</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland5</VoiceFile>
-          <Content>You’ve probably seen it from some guests, but those aren’t just regular clothes.</Content>
+          <Content>เธออาจเคยเห็นจากแขกบางคนแล้ว ที่เขาใส่นั่นไม่ใช่แค่เสื้อผ้าธรรมดา</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland6</VoiceFile>
-          <Content>A high-quality fabric can provide just as much protection as an augmentation procedure.</Content>
+          <Content>ผ้าคุณภาพสูงสามารถให้การปกป้องได้มากเท่ากับการใส่เกราะเสริมเลย</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland7</VoiceFile>
-          <Content>Not even money could buy top-of-the-line fabrics sometimes.</Content>
+          <Content>บางครั้งแม้แต่เงินก็ซื้อผ้าชั้นยอดไม่ได้ด้วยซ้ำ</Content>
         </Dialog>
         <Dialog ID="59" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland8</VoiceFile>
-          <Content>Some can only be earned by joining memberships of workshops or tailors. Some things in this world are entangled in a complex web of interests like fame and stuff, which can’t be cleared with money alone.</Content>
+          <Content>บางอย่างสามารถได้รับจากการเข้าร่วมเป็นสมาชิกของเวิร์กช็อปหรือช่างตัดเสื้อเท่านั้น การจะได้รับมันมาจะเกียวกับผลประโยชน์ที่ซับซ้อน เช่น ชื่อเสียงและสิ่งต่างๆซึ่งไม่สามารถแก้ไขได้ด้วยเงินเพียงอย่างเดียวได้</Content>
         </Dialog>
         <Dialog ID="60" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela3-01</VoiceFile>
-          <Content>I’m starting to feel dazed from all this information.</Content>
+          <Content>แค่ฟังก็รู้สึกงงแล้ว</Content>
         </Dialog>
         <Dialog ID="61" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland9</VoiceFile>
-          <Content>Well, that’s enough of that… Why don’t we close our eyes for a moment and make a wish?</Content>
+          <Content>แค่นั้นก็พอแล้วกัน… ทำไมเราไม่หลับตาสักครู่แล้วอธิษฐานล่ะ?</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela4</VoiceFile>
-          <Content>And you aren’t helping at all.</Content>
+          <Content>ทำไปก็ไม่ได้ช่วยอะไรอยู่ดี</Content>
         </Dialog>
         <Dialog ID="63" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland10</VoiceFile>
-          <Content>We gotta pray that the Prescripts don’t target the Library.</Content>
+          <Content>เราต้องภาวนาให้ข้อบัญญัติไม่เล็งเป้าหมายมาที่ห้องสมุดสิ</Content>
         </Dialog>
         <Dialog ID="64" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela5</VoiceFile>
-          <Content>Okay… I can close my eyes, and make a wish.</Content>
+          <Content>โอเค… ฉันจะหลับตาและขอพรก็ได้</Content>
         </Dialog>
         <Dialog ID="65" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland11</VoiceFile>
-          <Content>…Uh, are you actually playing along?</Content>
+          <Content>…เอ่อ เธอล้อเล่นใช้ไหม?</Content>
         </Dialog>
         <Dialog ID="66" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela6</VoiceFile>
-          <Content>I wished for you to stop babbling nonsense.</Content>
+          <Content>ฉันขอให้นายหยุดพูดพล่ามไร้สาระสักที</Content>
         </Dialog>
         <Dialog ID="67" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland12</VoiceFile>
-          <Content>Hunh… Anyway, things could get real messy once a Prescript points at the Library.</Content>
+          <Content>โอ้… อย่างไรก็ตามสิ่งต่างๆอาจยุ่งเหยิงก็ได้เมื่อข้อบัญญัติเล็งมาที่ห้องสมุด</Content>
         </Dialog>
         <Dialog ID="68" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland13</VoiceFile>
-          <Content>The Index, one of the Five Fingers, is gonna be after us. They’ll do anything to keep coming for our asses.</Content>
+          <Content>อินเด็กซ์, หนึ่งใน Five Fingers จะตามมาล่าเราแน่ พวกเขาจะทำทุกอย่างเพื่อมาหาเรา</Content>
         </Dialog>
         <Dialog ID="69" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela7</VoiceFile>
-          <Content>The Index?</Content>
+          <Content>อินเด็กซ์?</Content>
         </Dialog>
         <Dialog ID="70" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland14</VoiceFile>
-          <Content>That’s one of the five giant Syndicates that rule over the Backstreets.</Content>
+          <Content>นั่นเป็นหนึ่งในห้าซินดิเคทยักษ์ใหญ่ที่ปกครองแบ็คสตรีท</Content>
         </Dialog>
         <Dialog ID="71" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland15</VoiceFile>
-          <Content>They’re called as such because they literally have all of the Backstreets in their hands. It’s simple, really.</Content>
+          <Content>เพราะพวกเขาเหมือนมีทุกอย่างในแบ็คสตรีทอยู่ในมือแล้วว่างั้น</Content>
         </Dialog>
         <Dialog ID="72" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland16</VoiceFile>
-          <Content>Anyway, the Five Fingers have enough power and influence to rival the Wings, so nothing good will come out of opposing them.</Content>
+          <Content>อย่างไรก็ตาม Five Fingers มีพลังและอิทธิพลมากพอที่จะเป็นคู่แข่งกับปีกได้เลย ดังนั้นการเป็นศัตรูกับพวกเขาคงไม่ใช้เรื่องดี</Content>
         </Dialog>
         <Dialog ID="73" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland17</VoiceFile>
-          <Content>And the Index is like a group of zealots. They obsess over the orders they call ‘Prescripts’. For them, Prescripts are…</Content>
+          <Content>และพวกอินเด็กซ์ เป็นเหมือนกับลัทธิพวกเขาหมกมุ่นอยู่กับคำสั่งที่พวกเขาเรียกว่า 'ข้อบัญญัติ' สำหรับพวกเขาข้อบัญญัติคือ…</Content>
         </Dialog>
         <Dialog ID="74" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela8</VoiceFile>
-          <Content>Something they must follow?</Content>
+          <Content>สิ่งที่พวกเขาต้องทำตาม?</Content>
         </Dialog>
         <Dialog ID="75" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland18</VoiceFile>
-          <Content>Yep. Prescripts must be carried out, as they say…</Content>
+          <Content>ใช่. ต้องทำตามข้อบัญญัติทุกอย่างเลย…</Content>
         </Dialog>
         <Dialog ID="76" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland19</VoiceFile>
-          <Content>And we have a subsidiary of the Thumb butting in, too. I just hope things don’t escalate too much.</Content>
+          <Content>และยังมีคนในเครือของ ธัม ด้วยเช่นกัน ฉันแค่หวังว่าสิ่งต่างๆจะไม่บานปลายมากเกินไป</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela9</VoiceFile>
-          <Content>Whoever may visit, we simply do our best to receive them.</Content>
+          <Content>ใครก็ตามที่จะมา เราเพียงพยายามอย่างเต็มที่เพื่อรับแขกพวกเขาก็พอ</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="78" Model="감마">
-          <Teller>Gamma</Teller>
+          <Teller>แกมม่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_gamma10</VoiceFile>
-          <Content>Hungry. Want?</Content>
+          <Content>หิวอยากกินไรเปล่า?</Content>
         </Dialog>
         <Dialog ID="79" Model="알파">
-          <Teller>Alpha</Teller>
+          <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha11</VoiceFile>
-          <Content>Can spin new kind of thread. Excited?</Content>
+          <Content>จะสามารถปั่นด้ายชนิดใหม่ได้แล้ว ตื่นเต้นไหม?</Content>
         </Dialog>
         <Dialog ID="80" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela10</VoiceFile>
-          <Content>…Greetings, guests.</Content>
+          <Content>…สวัสดีแขก.</Content>
         </Dialog>
         <Dialog ID="81" Model="알파">
-          <Teller>Alpha</Teller>
+          <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha12</VoiceFile>
-          <Content>Greetings.</Content>
+          <Content>สวัสดี.</Content>
         </Dialog>
         <Dialog ID="82" Model="감마">
-          <Teller>Gamma</Teller>
+          <Teller>แกมม่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_gamma11</VoiceFile>
-          <Content>Greetings?</Content>
+          <Content>สวัสดี?</Content>
         </Dialog>
         <Dialog ID="83" Model="베타">
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta10 (2)</VoiceFile>
-          <Content>Greetings.</Content>
+          <Content>สวัสดี.</Content>
         </Dialog>
         <Dialog ID="84" Model="베타">
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta11</VoiceFile>
-          <Content>Okay to eat. Could produce wonderful silk?</Content>
+          <Content>โอเคกินกันเลย จะสามารถผลิตผ้าที่สวยงามได้ไหม?</Content>
         </Dialog>
         <Dialog ID="85" Model="감마">
-          <Teller>Gamma</Teller>
+          <Teller>แกมม่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_gamma12</VoiceFile>
-          <Content>Will make pretty, blue silk?</Content>
+          <Content>จะทำให้ผ้าไหมสีน้ำเงินสวยสวยหรอเนี่ย?</Content>
         </Dialog>
         <Dialog ID="86" Model="알파">
-          <Teller>Alpha</Teller>
+          <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha13</VoiceFile>
-          <Content>Seems she would taste even worse than Sweepers?</Content>
+          <Content>ดูเหมือนเธอจะรสชาติแย่กว่าพวกสวีปเปอร์อีกนะ?</Content>
         </Dialog>
         <Dialog ID="87" Model="감마">
-          <Teller>Gamma</Teller>
+          <Teller>แกมม่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_gamma13</VoiceFile>
-          <Content>True? Does not seem human.</Content>
+          <Content>เธอดูไม่เหมือนมนุษย์เลย.</Content>
         </Dialog>
         <Dialog ID="88" Model="베타">
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta12 (2)</VoiceFile>
-          <Content>Want to eat something tasty now? Tired of disgusting food.</Content>
+          <Content>อยากกินอะไรอร่อยๆตอนนี้ไหม? ต้องกินอาหารที่น่าขยะแขยงดู</Content>
         </Dialog>
         <Dialog ID="89" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela11</VoiceFile>
-          <Content>Sigh…</Content>
+          <Content>ถอนหายใจ…</Content>
         </Dialog>
         <Dialog ID="90" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela12</VoiceFile>
-          <Content>I’m Angela, director and librarian, may you find your book…</Content>
+          <Content>ฉันชื่อแองเจลา ผู้อำนวยการและบรรณารักษ์ ขอให้คุณหาหนังสือของคุณเจอนะ…</Content>
         </Dialog>
         <Dialog ID="91" Model="알파">
-          <Teller>Alpha</Teller>
+          <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha14</VoiceFile>
-          <Content>Such short greeting.</Content>
+          <Content>คำทักทายสั้นจัง.</Content>
         </Dialog>
         <Dialog ID="92" Model="감마">
-          <Teller>Gamma</Teller>
+          <Teller>แกมม่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_gamma14</VoiceFile>
-          <Content>So insincere, too?</Content>
+          <Content>ไม่จริงใจนี่?</Content>
         </Dialog>
         <Dialog ID="93" Model="베타">
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta13 (2)</VoiceFile>
-          <Content>Disappeared.</Content>
+          <Content>หายไปแล้ว</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -1015,7 +1015,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland23</VoiceFile>
-          <Content>We’ve already heard the Thumb, and the Index… Any one of ‘em is gonna be a huge pain in the ass.</Content>
+          <Content>We’ve already heard the Thumb, and the อินเด็กซ์… Any one of ‘em is gonna be a huge pain in the ass.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -4935,13 +4935,13 @@
     </Episode>
   </Group>
   <Group>
-    <GroupName>Kurokumo Clan</GroupName>
+    <GroupName>ตระกูลคุโรคุโมะ</GroupName>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
         <PlaceName>สถานที่: An Apartment in L Corp’s Nest</PlaceName>
         <Dialog ID="0" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo1</VoiceFile>
           <Content>Oh no. This won’t do.</Content>
@@ -4953,7 +4953,7 @@
           <Content>But ma’am, we don’t have any cash left to offer you…</Content>
         </Dialog>
         <Dialog ID="2" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo2</VoiceFile>
           <Content>If you’re out of money, then you shouldn’t have asked for more protection from us, no?</Content>
@@ -4983,19 +4983,19 @@
           <Content>I thought maybe we could expect better from the household with the highest income around here.</Content>
         </Dialog>
         <Dialog ID="7" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin1</VoiceFile>
           <Content>Sayo, shall we cut one off?</Content>
         </Dialog>
         <Dialog ID="8" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo3-01</VoiceFile>
           <Content>Please do. These people will have to become accustomed to the rules of the Backstreets soon enough.</Content>
         </Dialog>
         <Dialog ID="9" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin3-02</VoiceFile>
           <Content>Hey, consider this a free lesson for you.</Content>
@@ -5021,13 +5021,13 @@
           <Content>Please have mercy on us… You can’t be such heartless people…</Content>
         </Dialog>
         <Dialog ID="13" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo4-01</VoiceFile>
           <Content>And did you spare any mercy for us while we struggled in the Backstreets, covered in filth and blood? No, you simply spectated our suffering from the comfort of the Nest, did you not?</Content>
         </Dialog>
         <Dialog ID="14" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo5</VoiceFile>
           <Content>It’s rather infuriating now that I think about it. Yang, let us take an eye from them as well.</Content>
@@ -5039,7 +5039,7 @@
           <Content>Yes, dame~</Content>
         </Dialog>
         <Dialog ID="16" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin3-01</VoiceFile>
           <Content>Got your arms first.</Content>
@@ -5075,37 +5075,37 @@
           <Content>The Nest fell so suddenly…</Content>
         </Dialog>
         <Dialog ID="22" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin4</VoiceFile>
           <Content>What a bunch of crybabies. We’re being quite generous as Backstreets businesses go.</Content>
         </Dialog>
         <Dialog ID="23" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo6-01</VoiceFile>
           <Content>Now, now~ We’ll be going then. Please don’t forget today’s lesson:</Content>
         </Dialog>
         <Dialog ID="24" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo7-01</VoiceFile>
           <Content>If you receive something, you should return that favor accordingly. Imagine if it was the Ring protecting this area, not us…</Content>
         </Dialog>
         <Dialog ID="25" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo8</VoiceFile>
           <Content>Dear, the thought alone is terrifying.</Content>
         </Dialog>
         <Dialog ID="26" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo9-01</VoiceFile>
           <Content>Oh, and please leave this house by tomorrow.</Content>
         </Dialog>
         <Dialog ID="27" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo10</VoiceFile>
           <Content>Gin, confiscate the apartment deed from these people, will you?</Content>
@@ -5117,31 +5117,31 @@
           <Content>You’ll be visited by much less pleasant fellows next time, so you’d better move out as soon as possible~</Content>
         </Dialog>
         <Dialog ID="29" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo11-01</VoiceFile>
           <Content>Now then, we’ve collected the protection money and got our fabric… Shall we go back and pay our due credit?</Content>
         </Dialog>
         <Dialog ID="30" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo12</VoiceFile>
           <Content>Ah, by the way, Gin. How is the current situation with L Corp’s Nest?</Content>
         </Dialog>
         <Dialog ID="31" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin5</VoiceFile>
-          <Content>It’s fierce. This is the first time in a long while the Thumb and the Index got in a turf war over an area.</Content>
+          <Content>It’s fierce. This is the first time in a long while the Thumb and the อินเด็กซ์ got in a turf war over an area.</Content>
         </Dialog>
         <Dialog ID="32" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin6</VoiceFile>
           <Content>Everyone must be thinking this is the promised estate or something.</Content>
         </Dialog>
         <Dialog ID="33" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo13</VoiceFile>
           <Content>The same can be said for us, no?</Content>
@@ -5153,7 +5153,7 @@
           <Content>On another note, the ‘Rusted Chains’ already proved to be an issue, but we’ve been colliding with ‘Blade Lineage’ more often these days.</Content>
         </Dialog>
         <Dialog ID="35" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo14</VoiceFile>
           <Content>Perhaps we should have a friendly conversation with them before the tension overheats.</Content>
@@ -5163,18 +5163,18 @@
         <PlaceName>สถานที่: L Corp’s Nest - Residential Area</PlaceName>
         <Dialog ID="36" Model="흑운회 조직원1">
           <Teller>Hencher 1</Teller>
-          <Title>Kurokumo Clan</Title>
+          <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_underling1-2-01</VoiceFile>
           <Content>Khurf…</Content>
         </Dialog>
         <Dialog ID="37" Model="흑운회 조직원 2">
           <Teller>Hencher 2</Teller>
-          <Title>Kurokumo Clan</Title>
+          <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_underling2</VoiceFile>
           <Content>Run, dame…</Content>
         </Dialog>
         <Dialog ID="38" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin7-01</VoiceFile>
           <Content>What are you.</Content>
@@ -5192,13 +5192,13 @@
           <Content>Got some gains with your business?</Content>
         </Dialog>
         <Dialog ID="41" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo15-01</VoiceFile>
           <Content>She has the head of a dog? A dog in black coat?</Content>
         </Dialog>
         <Dialog ID="42" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo16-01</VoiceFile>
           <Content>Are those kinds of surgeries hip with the kids these days?</Content>
@@ -5210,7 +5210,7 @@
           <Content>Captain, that appears to be the one recently dubbed as ‘L'heure du Loup’.</Content>
         </Dialog>
         <Dialog ID="44" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo17</VoiceFile>
           <Content>Oh? So she’s a wolf, not a dog? Still appears to be a little bitch to me.</Content>
@@ -5228,7 +5228,7 @@
           <Content>Let’s see, we have around a hundred Kurokumo punks ‘ere.</Content>
         </Dialog>
         <Dialog ID="47" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin8</VoiceFile>
           <Content>You speak as if you can take us all on.</Content>
@@ -5240,7 +5240,7 @@
           <Content>That’s the plan, yeah.</Content>
         </Dialog>
         <Dialog ID="49" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo18-01</VoiceFile>
           <Content>Let us teach that pup a lesson.</Content>
@@ -5275,7 +5275,7 @@
           <Content>The dead… Welp, they can’t be helped.</Content>
         </Dialog>
         <Dialog ID="55" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo19-01</VoiceFile>
           <Content>…What is it that you want?</Content>
@@ -5306,7 +5306,7 @@
         </Dialog>
         <Dialog ID="60" Model="흑운회 조직원 1">
           <Teller>Hencher 1</Teller>
-          <Title>Kurokumo Clan</Title>
+          <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_underling1-1</VoiceFile>
           <Content>Fucking hell… Shut your yap already…</Content>
         </Dialog>
@@ -5317,7 +5317,7 @@
           <Content>Whoa~ Look at their skull go. Flew right outta the park, homerun.</Content>
         </Dialog>
         <Dialog ID="62" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin9</VoiceFile>
           <Content>Tell us what you demand from us.</Content>
@@ -5341,7 +5341,7 @@
           <Content>First off, the piece of cloth you’re carrying? Gimme that.</Content>
         </Dialog>
         <Dialog ID="66" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo20</VoiceFile>
           <Content>…This Nuovo Fabric is for the Thumb, though?</Content>
@@ -5359,7 +5359,7 @@
           <Content>Guess he wants us to suit up before the performance.</Content>
         </Dialog>
         <Dialog ID="69" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin10</VoiceFile>
           <Content>You must know the consequences of making an enemy of the Thumb.</Content>
@@ -5377,7 +5377,7 @@
           <Content>Oh, and take your goons to the Library, will ya?</Content>
         </Dialog>
         <Dialog ID="72" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo21</VoiceFile>
           <Content>The Library…? The building that is rumored to be at the center of this Nest?</Content>
@@ -5389,7 +5389,7 @@
           <Content>Yep, that thing.</Content>
         </Dialog>
         <Dialog ID="74" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo22</VoiceFile>
           <Content>So you are after the wealth this land can bring, after all.</Content>
@@ -5422,7 +5422,7 @@
           <Teller>Tanya</Teller>
           <Title>L’heure du Loup</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya26</VoiceFile>
-          <Content>No, I mean the orchestrator of our ensemble wants us to get rid of all those noisy Syndicates like the Thumb or the Index so that we can make some music.</Content>
+          <Content>No, I mean the orchestrator of our ensemble wants us to get rid of all those noisy Syndicates like the Thumb or the อินเด็กซ์ so that we can make some music.</Content>
         </Dialog>
         <Dialog ID="80" Model="타냐">
           <Teller>Tanya</Teller>
@@ -5437,7 +5437,7 @@
           <Content>And help out the Library while we’re at it.</Content>
         </Dialog>
         <Dialog ID="82" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo23</VoiceFile>
           <Content>Help out the Library?</Content>
@@ -5449,7 +5449,7 @@
           <Content>Shush, gal. Keep your eyes low if you don’t wanna get dead.</Content>
         </Dialog>
         <Dialog ID="84" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo24-01</VoiceFile>
           <Content>……</Content>
@@ -5479,7 +5479,7 @@
           <Content>If you don’t use that invitation right now, I’ll kindly remove all the bones from your flesh.</Content>
         </Dialog>
         <Dialog ID="89" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo25</VoiceFile>
           <Content>…Let us prepare to go, everyone.</Content>
@@ -5491,7 +5491,7 @@
           <Content>Your hands are shaking, galie. You sure you’re alright? Are ya mad at me by any chance?</Content>
         </Dialog>
         <Dialog ID="91" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo26</VoiceFile>
           <Content>…No, it’s nothing.</Content>
@@ -5635,25 +5635,25 @@
           <Content>Sigh… This was not meant to be.</Content>
         </Dialog>
         <Dialog ID="114" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo27</VoiceFile>
           <Content>Where the hell did that bitchhead come from?!</Content>
         </Dialog>
         <Dialog ID="115" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo28</VoiceFile>
           <Content>How dare an impudent whelp like her bite at us superior beings!</Content>
         </Dialog>
         <Dialog ID="116" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin11-01</VoiceFile>
           <Content>Calm down, Captain. Let’s report this to the Thumb right after we take care of this.</Content>
         </Dialog>
         <Dialog ID="117" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo29</VoiceFile>
           <Content>Huu… Yes, let us do that.</Content>
@@ -5662,16 +5662,16 @@
           <Teller>Yang</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang12-01</VoiceFile>
-          <Content>It’s ridiculous that someone could treat us Kurokumo Clan, a Thumb subsidiary, with such disrespect.</Content>
+          <Content>It’s ridiculous that someone could treat us ตระกูลคุโรคุโมะ, a Thumb subsidiary, with such disrespect.</Content>
         </Dialog>
         <Dialog ID="119" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo30</VoiceFile>
           <Content>Hear, hear.</Content>
         </Dialog>
         <Dialog ID="120" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo31</VoiceFile>
           <Content>Although we’re in a bad situation… The books listed on this invitation are tempting offers for sure.</Content>
@@ -5683,7 +5683,7 @@
           <Content>It seems that คาร์นิวัล have ended up turning into books.</Content>
         </Dialog>
         <Dialog ID="122" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin12-01</VoiceFile>
           <Content>And this book… is related to the Nest of L Corp, too.</Content>
@@ -5695,7 +5695,7 @@
           <Content>Greetings, dear guests.</Content>
         </Dialog>
         <Dialog ID="124" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo32</VoiceFile>
           <Content>How did you manage to collect the books we need the most?</Content>
@@ -5707,7 +5707,7 @@
           <Content>Such is the role of the Library.</Content>
         </Dialog>
         <Dialog ID="126" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin13</VoiceFile>
           <Content>This place exudes the smell of blood.</Content>
@@ -5719,7 +5719,7 @@
           <Content>And you reek of blood as well, dear guests.</Content>
         </Dialog>
         <Dialog ID="128" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo33</VoiceFile>
           <Content>Oh my, do we?</Content>
@@ -5731,25 +5731,25 @@
           <Content>Let’s hit up a bathhouse for a warm one once we finish this.</Content>
         </Dialog>
         <Dialog ID="130" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo34</VoiceFile>
           <Content>Good idea. There’s nothing like a good bath to blow off some steam on a bad day.</Content>
         </Dialog>
         <Dialog ID="131" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin14</VoiceFile>
           <Content>Drinks are on me.</Content>
         </Dialog>
         <Dialog ID="132" Model="긴">
-          <Teller>Gin</Teller>
+          <Teller>จิน</Teller>
           <Title>Kurokumo Henchman</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin15-01</VoiceFile>
           <Content>Are there even any bathhouses or pubs left in L Corp’s Nest, anyway?</Content>
         </Dialog>
         <Dialog ID="133" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo35-01</VoiceFile>
           <Content>That’s a fair point. We have so much to report and take care of, so much to think about…</Content>
@@ -5761,7 +5761,7 @@
           <Content>Are you done with your chitchats now?</Content>
         </Dialog>
         <Dialog ID="135" Model="사요">
-          <Teller>Sayo</Teller>
+          <Teller>ซาโย</Teller>
           <Title>Kurokumo Captain</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo36</VoiceFile>
           <Content>How pushy… Now then, shall we head inside?</Content>
@@ -5794,7 +5794,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland14</VoiceFile>
-          <Content>You heard what that doghead said? Now we have the Thumb, the Index, and whatever third party she belongs to.</Content>
+          <Content>You heard what that doghead said? Now we have the Thumb, the อินเด็กซ์, and whatever third party she belongs to.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -5824,7 +5824,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland18</VoiceFile>
-          <Content>The Thumb or the Index probably won’t take direct action for now, but their subordinates are nothing to sneeze at.</Content>
+          <Content>The Thumb or the อินเด็กซ์ probably won’t take direct action for now, but their subordinates are nothing to sneeze at.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
