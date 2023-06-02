@@ -322,7 +322,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland20</VoiceFile>
-          <Content>ความดื้นรั้นของเธอมันค่อนข้างน่ากลัวเลยแฮะ</Content>
+          <Content>ความดื้นรั้นของเธอมันเข้าขั้นน่ากลัวเลยแฮะ</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -332,213 +332,213 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: Zwei Association - Southern Branch, Section 6</PlaceName>
+        <PlaceName>สถานที่: สมาพันธ์ สไว - สาขาตอนใต้ หน่วย 6</PlaceName>
         <Dialog ID="0" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora1</VoiceFile>
-          <Content>You can’t kneel forever you know.</Content>
+          <Content>นายจะเอาแต่ขอร้องตลอดไม่ได้หรอกนะ รู้มั้ย</Content>
         </Dialog>
         <Dialog ID="1" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san1</VoiceFile>
-          <Content>I beg you. My juniors… They’re all dead.</Content>
+          <Content>ฉันขอร้องล่ะ รุ่นน้องของฉัน พวกเขาตายกันหมดแล้ว</Content>
         </Dialog>
         <Dialog ID="2" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora2</VoiceFile>
-          <Content>You’ve said that a million times by now. It’s gonna ring in my ears for days.</Content>
+          <Content>นายพูดมาเป็นล้านรอบแล้ว มันดังก้องอยู่ในหูของฉันมาหลายวันแล้วเนี้ย</Content>
         </Dialog>
         <Dialog ID="3" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora3</VoiceFile>
-          <Content>Look, I know what happened. Your crew all died on a trip to a place called ‘The Library’.</Content>
+          <Content>ฟังนะ ฉันรู้แล้วว่าเกิดอะไรขึ้นกับลูกน้องของนาย ที่พากันไปตายทั้งหมเพราะไปยังสถานที่ที่เรียกว่า ‘ห้องสมุด’ นั้น</Content>
         </Dialog>
         <Dialog ID="4" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>ซาน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san2</VoiceFile>
-          <Content>I’d like to request the Zwei for support. I want to retrieve their books at least.</Content>
+          <Content>ฉันขอร้องขอการสนับสนุนจากสไวล่ะ อย่างน้อยที่สุดฉันก็อยากเอาหนังสือของพวกเขากลับมาให้ได้</Content>
         </Dialog>
         <Dialog ID="5" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora4</VoiceFile>
-          <Content>And barging into Zwei HQ to beg like this is not the right way to do it. Come on, you know better than that.</Content>
+          <Content>แล้วไอ้การบุกเข้าไปในสำนักใหญ่ของสไว เพื่อมาขอร้องแบบนี้น่ะมันไม่ใช่วิธีที่ถูกต้องตามขั้นตอนเลยนะ ไม่ไหวเลย นายก็น่าจะทำตามวิธีที่ดีกว่านั้นนะ</Content>
         </Dialog>
         <Dialog ID="6" Model="줄리아">
-          <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>จูเลีย</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia1</VoiceFile>
-          <Content>Isadora, please… Let’s help him out just once. Could we at least request our superiors for a review of this case?</Content>
+          <Content>อิซาดอราซัง ได้โปรด… ช่วยเขาสักครั้งเถอะนะ อย่างน้อยเราก็ขอให้ผู้กำกับช่วยตรวจสอบเรื่องนี้ได้ไหม?</Content>
         </Dialog>
         <Dialog ID="7" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora5</VoiceFile>
-          <Content>Julia. I know you’re friends with this idiot, but even then, we should not act upon friendship or attachment. The whole system could collapse otherwise.</Content>
+          <Content>จูเลีย ฉันเข้าใจอยู่นะว่าเธอเป็นเพื่อนกับเจ้าโง่นี่ แต่ถึงยังไงก็ตามแต่เราก็ไม่ควรดำเนินการเอาเองเพราะความเป็นเพื่อนหรือความความผูกพันใดๆได้ ไม่งั้นระบบทั้งหมดที่นี่จะพังเอานะ</Content>
         </Dialog>
         <Dialog ID="8" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora6</VoiceFile>
-          <Content>The lobby will be filled with all kinds of miserable folks, begging and pleading for help.</Content>
+          <Content>ที่ล็อบบี้น่ะจะเต็มไปด้วยคนน่าสังเวทที่อ้อนวอนและร้องขอความช่วยเหลืออยู่ทุกประเภทนั้นแหละ</Content>
         </Dialog>
         <Dialog ID="9" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora7</VoiceFile>
-          <Content>You may be a low-grade pipsqueak, but you’re still Zwei’s Associate Fixer nonetheless. You’d better remember what you learned today.</Content>
+          <Content>เธออาจจะเป็นคนระดับล่างที่ไม่สระสำคัญอะไร อย่างไรก็ตามแต่เธอก็ยังเป็นฟิกเซอร์ของสมาพันธ์สไว เธอควรจดจำและเรียนรู้อะไรที่เกิดขึ้นของวันนี้ให้ดีนะ</Content>
         </Dialog>
         <Dialog ID="10" Model="줄리아">
-          <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>จูเลีย</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia2</VoiceFile>
-          <Content>But I’m responsible for this case, and…</Content>
+          <Content>แต่ส่วนที่ฉันต้องรับผิดชอบสำหรับเรื่องนี้ แล้ว เอ่อ…</Content>
         </Dialog>
         <Dialog ID="11" Model="줄리아">
-          <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>จูเลีย</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia3</VoiceFile>
-          <Content>And the association is responsible for it, too.</Content>
+          <Content>แล้วสมาพันธ์ก็มีส่วนต้องรับผิดชอบกับมันด้วยนะ</Content>
         </Dialog>
         <Dialog ID="12" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora8</VoiceFile>
-          <Content>Nowhere in our records does it say that Zwei is involved in this case, though? I have no idea what you’re talking about, miss.</Content>
+          <Content>ไม่มีในบันทึกที่ไหนของสไวที่บอกว่า เราต้องมีส่วนเกี่ยวข้องในเรื่องนี้เลยนะ? ฉันไม่รู้เลยว่าเธอกำลังพูดเรื่องอะไรกัน</Content>
         </Dialog>
         <Dialog ID="13" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>แซน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san3</VoiceFile>
           <Content>So that’s how it is… You use us as you please, then turn your back on us so easily…</Content>
         </Dialog>
         <Dialog ID="14" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora9</VoiceFile>
           <Content>Hello, you’re putting the blame on the wrong people here.</Content>
         </Dialog>
         <Dialog ID="15" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora10</VoiceFile>
           <Content>Even if such a deal did take place like you said, you must have demanded or at least expected a corresponding reward. That’s what a deal is after all.</Content>
         </Dialog>
         <Dialog ID="16" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora11</VoiceFile>
           <Content>You used the association as much as the association used you. You don’t get to talk like it was one-sided extortion. </Content>
         </Dialog>
         <Dialog ID="17" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora12</VoiceFile>
           <Content>Come on, let’s not act like rookies now. You’ve been in this business for 8 years, you should know how things work by now.</Content>
         </Dialog>
         <Dialog ID="18" Model="줄리아">
-          <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>จูเลีย</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia4</VoiceFile>
           <Content>Isadora! You don’t have to be so harsh. We all started out as Office-mates…</Content>
         </Dialog>
         <Dialog ID="19" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora13</VoiceFile>
           <Content>I’m just frustrated. I don’t want to see him in such a wretched state, either.</Content>
         </Dialog>
         <Dialog ID="20" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>แซน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san4</VoiceFile>
           <Content>Sorry. I understand what you’re trying to say.</Content>
         </Dialog>
         <Dialog ID="21" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>แซน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san5</VoiceFile>
           <Content>You’re right, that’s how it’s always been… I’ll go look for another way now.</Content>
         </Dialog>
         <Dialog ID="22" Model="줄리아">
-          <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>จูเลีย</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia5</VoiceFile>
           <Content>San… I’m so sorry… I never thought it would turn out this way…</Content>
         </Dialog>
         <Dialog ID="23" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="24" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora14</VoiceFile>
           <Content>Well would you look at that. Now this is the proper procedure I’m talking about.</Content>
         </Dialog>
         <Dialog ID="25" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora15</VoiceFile>
           <Content>The Hana Association just elevated ‘The Library’ from Urban Myth to Urban Legend.</Content>
         </Dialog>
         <Dialog ID="26" Model="줄리아">
-          <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>จูเลีย</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia6</VoiceFile>
           <Content>That means…! Our association can now officially act on this case, right?</Content>
         </Dialog>
         <Dialog ID="27" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora16</VoiceFile>
           <Content>W-well, yeah, but we still don’t know Zwei’s stance on it yet, so, don’t get your hopes up, alright?</Content>
         </Dialog>
         <Dialog ID="28" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>แซน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san6</VoiceFile>
           <Content>Thank you, Isadora… I really owe you one.</Content>
         </Dialog>
         <Dialog ID="29" Model="산">
-          <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Teller>แซน</Teller>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san7</VoiceFile>
           <Content>And apologies for laying my burden on you. </Content>
         </Dialog>
         <Dialog ID="30" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora17</VoiceFile>
           <Content>I-it’s nothing, all I did was compile information following procedure and send it to the higher ups.</Content>
         </Dialog>
         <Dialog ID="31" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora18</VoiceFile>
           <Content>There certainly have been reports that several other Syndicates and Offices fell victim to ‘The Library’, although they were mostly insignificant fledglings.</Content>
         </Dialog>
         <Dialog ID="32" Model="줄리아">
-          <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>จูเลีย</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia7</VoiceFile>
           <Content>But it’s all thanks to the masterful data analysis by our lovely Isadora from Section 6 that it could be handled so quickly, right? That’s my girl!</Content>
         </Dialog>
         <Dialog ID="33" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora19</VoiceFile>
           <Content>Fine, believe in whatever you want!</Content>
         </Dialog>
         <Dialog ID="34" Model="이사도라">
-          <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Teller>อิซาดอรา</Teller>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora20</VoiceFile>
           <Content>Anyway, do you still have that invitation with you?</Content>
         </Dialog>
@@ -739,181 +739,181 @@
         <PlaceName>Location: Zwei Association - Southern Branch, Section 6</PlaceName>
         <Dialog ID="0" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora1</VoiceFile>
           <Content>We have a lineup of the search team. And you two are in, San, Julia.</Content>
         </Dialog>
         <Dialog ID="1" Model="산">
           <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san1</VoiceFile>
           <Content>I’m finally heading back to the Library.</Content>
         </Dialog>
         <Dialog ID="2" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia1</VoiceFile>
           <Content>Yeah. Let’s go retrieve the books of Mars and Lulu, and come back safely.</Content>
         </Dialog>
         <Dialog ID="3" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora2</VoiceFile>
           <Content>Don’t forget. While our main objective has been decided as retrieving the books of Mars and Lulu thanks to the coincidence of interests between San and the Association, we should still try to secure as much information as possible. Meaning we should collect as many books as we can.</Content>
         </Dialog>
         <Dialog ID="4" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia2</VoiceFile>
           <Content>Okay. I’ll keep that in mind.</Content>
         </Dialog>
         <Dialog ID="5" Model="산">
           <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san2</VoiceFile>
           <Content>I know it’s a silly question to ask, but why is Zwei, an Association specializing in peacekeeping and security, deciding to set up a search team of all things to enter the Library?</Content>
         </Dialog>
         <Dialog ID="6" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora3</VoiceFile>
           <Content>Why did you come begging to us in the first place if you knew all that?</Content>
         </Dialog>
         <Dialog ID="7" Model="산">
           <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san3</VoiceFile>
           <Content>That’s… That’s because this was the only place I could count on.</Content>
         </Dialog>
         <Dialog ID="8" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora4</VoiceFile>
           <Content>What about your younger brother?</Content>
         </Dialog>
         <Dialog ID="9" Model="산">
           <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san4</VoiceFile>
           <Content>My brother is… Never mind. Once again, I’m sorry for the trouble, and thanks again for the help.</Content>
         </Dialog>
         <Dialog ID="10" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia3</VoiceFile>
           <Content>San…</Content>
         </Dialog>
         <Dialog ID="11" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora5</VoiceFile>
           <Content>Hm hmm. Anyway, since you’re running an affiliate Office, I suppose it’s okay to tell you this.</Content>
         </Dialog>
         <Dialog ID="12" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora6</VoiceFile>
           <Content>The Distortion Phenomenon, classified as an Urban Nightmare. I’m sure you’ve at least heard of it even if you haven’t seen it yourself, right?</Content>
         </Dialog>
         <Dialog ID="13" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora7</VoiceFile>
           <Content>It’s an anomaly that has been happening throughout the City ever since the White Nights and Dark Days.</Content>
         </Dialog>
         <Dialog ID="14" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora8</VoiceFile>
           <Content>The frequency may be low, but people are turning into monsters at random, and each individual occurrence is a huge pain to deal with.</Content>
         </Dialog>
         <Dialog ID="15" Model="산">
           <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san5</VoiceFile>
           <Content>Yeah, I know. ‘The Pianist’, the first reported case of this phenomenon… It ended up killing 80% of District 9’s population.</Content>
         </Dialog>
         <Dialog ID="16" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia4</VoiceFile>
           <Content>I heard that it was so sudden, the Hana Association had to dispatch one of the ‘Colors’ immediately after realizing the severity of the situation.</Content>
         </Dialog>
         <Dialog ID="17" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora9</VoiceFile>
           <Content>That’s right. Yet we still don’t have any clues to track down the cause of this phenomenon.</Content>
         </Dialog>
         <Dialog ID="18" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora10</VoiceFile>
           <Content>The most we have is the sudden disappearance of L Corp, and the ‘White Nights and Dark Days’ whose starting point was in the corporation’s Nest.</Content>
         </Dialog>
         <Dialog ID="19" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora11</VoiceFile>
           <Content>Zwei suspects that the Library may be one of the keys to understanding the Distortion Phenomenon. </Content>
         </Dialog>
         <Dialog ID="20" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia5</VoiceFile>
           <Content>A coworker told me a similar story. Said a resident in the area they were peacekeeping was suddenly distorted and transformed into a four-legged beast, even though there weren’t any signs of danger or anomaly nearby.</Content>
         </Dialog>
         <Dialog ID="21" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia6</VoiceFile>
           <Content>Thankfully, they managed to take care of that creature before the death toll could hit two digits.</Content>
         </Dialog>
         <Dialog ID="22" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia7</VoiceFile>
           <Content>And I also heard that a restaurant clerk turned into a… man-eating sandwich monster? Something like that one time.</Content>
         </Dialog>
         <Dialog ID="23" Model="산">
           <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san6</VoiceFile>
           <Content>I think I understand now. So the Distortion Phenomenon is a clear and apparent threat to Zwei’s peacekeeping activities, and they expect the Library to hold a clue for resolving it.</Content>
         </Dialog>
         <Dialog ID="24" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora12</VoiceFile>
           <Content>You got that right. Fortunately, there haven’t been any cases of the phenomenon that’s nearly as devastating as ‘The Pianist’ so far.</Content>
         </Dialog>
         <Dialog ID="25" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora13</VoiceFile>
           <Content>It looks like Zwei is going to keep an eye out for the Library for a while. Though there are several other suspects they need to investigate as well, so we won’t be getting any high-grade Fixers.</Content>
         </Dialog>
         <Dialog ID="26" Model="산">
           <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san7</VoiceFile>
           <Content>This is more than enough help. Thanks, Isadora.</Content>
         </Dialog>
         <Dialog ID="27" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora14</VoiceFile>
           <Content>I-I said I’m just doing my job. It’s not like I’m doing you a favor or anything. </Content>
         </Dialog>
         <Dialog ID="28" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia8</VoiceFile>
           <Content>Sure you are! You have my thanks as well, Isadora.</Content>
         </Dialog>
         <Dialog ID="29" Model="산">
           <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san8</VoiceFile>
           <Content>Let’s get to it.</Content>
         </Dialog>
@@ -997,19 +997,19 @@
         <PlaceName>Location: Library Entrance</PlaceName>
         <Dialog ID="42" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia9</VoiceFile>
           <Content>So this is the Library. The transportation method is almost like a Singularity.</Content>
         </Dialog>
         <Dialog ID="43" Model="산">
           <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san9</VoiceFile>
           <Content>…Yeah. The director of the Library will soon come and greet us.</Content>
         </Dialog>
         <Dialog ID="44" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia10</VoiceFile>
           <Content>Angela… was it?</Content>
         </Dialog>
@@ -1027,7 +1027,7 @@
         </Dialog>
         <Dialog ID="47" Model="산">
           <Teller>San</Teller>
-          <Title>Streetlight Operator</Title>
+          <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san10</VoiceFile>
           <Content>We’re here to take back the books of Mars and Lulu.</Content>
         </Dialog>
@@ -1039,7 +1039,7 @@
         </Dialog>
         <Dialog ID="49" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia11</VoiceFile>
           <Content>We can get the books we want, or die and turn into books ourselves, right?</Content>
         </Dialog>
@@ -1051,7 +1051,7 @@
         </Dialog>
         <Dialog ID="51" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia12</VoiceFile>
           <Content>It’s like I’m talking to a wall. She’s so robotic.</Content>
         </Dialog>
@@ -1231,7 +1231,7 @@
         <PlaceName>Location: Zwei Association - Southern Branch, Section 6</PlaceName>
         <Dialog ID="0" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora1</VoiceFile>
           <Content>Yes, sir. I’m afraid San and Julia couldn’t make it back. …Requesting additional support.</Content>
         </Dialog>
@@ -1243,7 +1243,7 @@
         </Dialog>
         <Dialog ID="2" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora2</VoiceFile>
           <Content>From the information we’ve gathered so far, it’s the accumulation of knowledge.</Content>
         </Dialog>
@@ -1255,13 +1255,13 @@
         </Dialog>
         <Dialog ID="4" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora3</VoiceFile>
           <Content>The Library simply offers a deal. It has no influence on the outside world; it only rewards or punishes those who have entered.</Content>
         </Dialog>
         <Dialog ID="5" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora4</VoiceFile>
           <Content>The winner can get the books they want, and the loser becomes a book that the Library wants…</Content>
         </Dialog>
@@ -1273,13 +1273,13 @@
         </Dialog>
         <Dialog ID="7" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora5</VoiceFile>
           <Content>That… is unclear, sir.</Content>
         </Dialog>
         <Dialog ID="8" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora6</VoiceFile>
           <Content>But my instincts suggest that it has to be related to the phenomenon somehow.</Content>
         </Dialog>
@@ -1291,19 +1291,19 @@
         </Dialog>
         <Dialog ID="10" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora7</VoiceFile>
           <Content>The invitation to the Library, its books, and the beings called librarians that reside there. All elements of the Library are similar to what we’ve seen of the Distortion.</Content>
         </Dialog>
         <Dialog ID="11" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora8</VoiceFile>
           <Content>A common feature is that it’s impossible to observe them for an analysis of their constituents or components.</Content>
         </Dialog>
         <Dialog ID="12" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora9</VoiceFile>
           <Content>We cannot carry out a comparative analysis because of this, but this inability to observe itself can be considered a common trait.</Content>
         </Dialog>
@@ -1333,7 +1333,7 @@
         </Dialog>
         <Dialog ID="17" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora10</VoiceFile>
           <Content>I am aware, sir.</Content>
         </Dialog>
@@ -1351,7 +1351,7 @@
         </Dialog>
         <Dialog ID="20" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora11</VoiceFile>
           <Content>…… </Content>
         </Dialog>
@@ -1369,7 +1369,7 @@
         </Dialog>
         <Dialog ID="23" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora12</VoiceFile>
           <Content>…You’re right, sir.</Content>
         </Dialog>
@@ -1381,7 +1381,7 @@
         </Dialog>
         <Dialog ID="25" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora13</VoiceFile>
           <Content>"Your shield", sir.</Content>
         </Dialog>
@@ -1399,7 +1399,7 @@
         </Dialog>
         <Dialog ID="28" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora14</VoiceFile>
           <Content>…Will do.</Content>
         </Dialog>
@@ -1411,7 +1411,7 @@
         </Dialog>
         <Dialog ID="30" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora15</VoiceFile>
           <Content>Yes?</Content>
         </Dialog>
@@ -1423,7 +1423,7 @@
         </Dialog>
         <Dialog ID="32" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora16</VoiceFile>
           <Content>No, sir. I haven’t received any new invitations yet.</Content>
         </Dialog>
@@ -1435,7 +1435,7 @@
         </Dialog>
         <Dialog ID="34" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora17</VoiceFile>
           <Content>It’s currently resting at the Urban Legend-class, but it has been slowly rising with every new report.</Content>
         </Dialog>
@@ -1525,7 +1525,7 @@
         </Dialog>
         <Dialog ID="48" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora18</VoiceFile>
           <Content>You’re right, sir.</Content>
         </Dialog>
@@ -1549,7 +1549,7 @@
         </Dialog>
         <Dialog ID="52" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora19</VoiceFile>
           <Content>Yes…</Content>
         </Dialog>
@@ -1561,7 +1561,7 @@
         </Dialog>
         <Dialog ID="54" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora20</VoiceFile>
           <Content>…Everything seems to fall into place too conveniently.</Content>
         </Dialog>
@@ -1609,7 +1609,7 @@
         </Dialog>
         <Dialog ID="62" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Zwei S. Section 6 Fixer</Title>
+          <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora21</VoiceFile>
           <Content>Sir, I don’t think we should provoke her any further…</Content>
         </Dialog>
