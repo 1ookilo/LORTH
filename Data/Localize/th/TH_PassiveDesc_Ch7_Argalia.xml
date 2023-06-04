@@ -3,8 +3,8 @@
 
   <!-- 잔향 악단 공통 -->
   <PassiveDesc ID="1300001">
-    <Name>Nuovo Fabric</Name>
-    <Desc>Take 1-2 less damage and Stagger damage from attacks.</Desc>
+    <Name>ผ้าไหม Nuovo</Name>
+    <Desc>รับดาเมจและดาเมจ Stagger น้อยลง 1-2 ดาเมจจากการโจมตีทั้งหมด</Desc>
   </PassiveDesc>
   
   <!-- 아르갈리아 -->
@@ -14,20 +14,20 @@
     เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1310012">
-    <Name>Resonance</Name>
-    <Desc>Uses 'Resonate', a Combat Page that becomes stronger if Argalia's Speed equals his target's Vibration.</Desc>
+    <Name>สั่นพ้อง</Name>
+    <Desc>ใช้งาน "สั่นพ้อง" ได้; Combat Page จะแข็งแกร่งขึ้นถ้าความเร็วของ Argalia เท่ากับค่าสั่นไหวของเป้าหมาย</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1310013">
-    <Name>Final Impromptu</Name>
-    <Desc>When HP falls to 25, purge all status ailments and fully recover Stagger Resist. Afterwards, uses the Combat Page 'Final Impromptu'.
-HP does not fall below 25 until this happens.</Desc>
+    <Name>ปัจฉิมชี้ชะตา</Name>
+    <Desc>เมื่อ HP เหลือ 25 ล้างสถานะผิดปกติทั้งหมด และฟื้นฟู Stagger Resist ทั้งหมด หลังจากนั้นใช้ Combat Page "ปัจฉิมชี้ชะตา"
+HP จะไม่ลดไปต่ำกว่า 25 จนกว่าเอฟเฟคนี้จะทำงาน</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1310014">
-    <Name>Full Commitment</Name>
-    <Desc>Immune to Immobilization. Opponent's Max HP and Stagger Resist increase. 
-Opponent's number of dice, pages drawn per Scene, and Light recovery increase by 2.
+    <Name>มุ่งมั่นแน่วแน่เต็มพิกัด</Name>
+    <Desc>ต้านทานการหมดสภาพ HP สูงสุด และ Stagger Resist ของฝ่ายตรงข้ามเพิ่มขึ้น 
+จำนวนลูกเต๋าความเร็ว จำนวน Page ที่จั่ว และอัตราการฟื้นฟูแสงของฝ่ายตรงข้ามเพิ่มขึ้น 2
 
-If no other allies are present at the end of the Scene, gain 3 Strength next Scene.</Desc>
+เมื่อจบฉาก หากไม่มีเพื่อนร่วมทีมเหลืออยู่ ในฉากถัดไป จะได้รับกำลัง 3 จำนวน</Desc>
   </PassiveDesc>
  
 </PassiveDescRoot>
