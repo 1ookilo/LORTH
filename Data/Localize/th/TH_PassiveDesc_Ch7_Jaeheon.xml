@@ -1,40 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <PassiveDesc ID="1307011">
-    <Name>Shimmering</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
-    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1307012">
-    <Name>The Puppeteer</Name>
-    <Desc>Gives 'Puppet Strings' to his puppets over the first four Scenes.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1307013">
-    <Name>Snapped Strings</Name>
-    <Desc>If a Puppet has no Puppet Strings or is dead, will not use pages to control said Puppet.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1307014">
-    <Name>Protective Puppetry</Name>
-    <Desc>At the start of the Scene, gain Protection and Stagger Protection by the number of Puppets that are alive plus the number of Puppets that have died while under 'Puppet Strings'.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1307001">
-    <Name>Manipulated Flesh</Name>
-    <Desc>Does not gain additional Speed dice from Emotion Level bonuses. If defeated while having 'Puppet Strings', will revive after 2 Scenes with half of its Max HP.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1307021">
-    <Name>Gigigigigig</Name>
-    <Desc>If the character has 'Puppet Strings', deal +2 additional Stagger damage with attacks.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1307031">
-    <Name>Creeeeak…</Name>
-    <Desc>If the character has 'Puppet Strings', gain 1 Haste at the start of the Scene.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1307041">
-    <Name>Ghghgh. Ghgh.</Name>
-    <Desc>If the character has 'Puppet Strings', gain 1 Strength at the start of the Scene.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1307051">
-    <Name>Ghghghghghghghgh…</Name>
-    <Desc>If the character has 'Puppet Strings', gain 1 Strength, Endurance, and Haste at the start of the Scene.</Desc>
-  </PassiveDesc>
+<PassiveDesc ID="1307011">
+<Name>Shimmering</Name>
+<Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
+เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1307012">
+<Name>นักเชิดหุ่น</Name>
+<Desc>มอบ "Puppet Strings" ให้หุ่นเชิดของเขาในสี่ฉากแรก</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1307013">
+<Name>เส้นด้ายที่ขาดสะบั้น</Name>
+<Desc>หากหุ่นเชิดไม่มี "Puppet String" จะไม่ใช้ Page
+เพื่อควบคุมหุ่นเชิดตัวดังกล่าวอีก</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1307014">
+<Name>การปกป้องของหุ่นเชิด</Name>
+<Desc>เมื่อเริ่มฉาก ได้รับเกราะและเกราะ Stagger ตามจำนวนของ
+หุ่นเชิดที่ยังมีชีวิตบวกกับหุ่นเชิดที่ตายระหว่างมีสถานะ "Puppet Strings"</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1307001">
+<Name>คุมบัญชาร่างเนื้อ</Name>
+<Desc>จะไม่ได้รับลูกเต๋าความเร็วเพิ่มเติมจากโบนัสระดับอารมณ์
+หากตายระหว่างที่มีสถานะ "Puppet Strings" จะฟื้นกลับมา
+ใน 2 ฉากโดยมี HP ครึ่งหนึ่ง</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1307021">
+<Name>กุกกรุกกิกกิกิกิก</Name>
+<Desc>หากมี "Puppet String" อยู่ การโจมตีจะทำดาเมจ
+Stagger เพิ่ม +2 ดาเมจ</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1307031">
+<Name>เอี้ยดดดดด~~~</Name>
+<Desc>หากมี "Puppet String" อยู่ เมื่อเริ่มฉากจะได้รับ
+ว่องไว 1 จำนวน</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1307041">
+<Name>กรึกกึก กึก</Name>
+<Desc>หากมี "Puppet String" อยู่ เมื่อเริ่มฉากจะได้รับ
+กำลัง 1 จำนวน</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1307051">
+<Name>กุกุกกึกกักกิกัก กรักกิก</Name>
+<Desc>หากมี "Puppet String" อยู่ เมื่อเริ่มฉากจะได้รับ
+กำลัง อึดทน และว่องไวอย่างละ 1 จำนวน</Desc>
+</PassiveDesc>
 </PassiveDescRoot>
