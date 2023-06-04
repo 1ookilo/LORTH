@@ -1198,7 +1198,8 @@ repeat this effect for every ระดับอารมณ์</Desc>
 <Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 จำนวน 3 ครั้ง</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="burnSpread">
-<Desc>[เมื่อโจมตี] หากเป้าหมายมี 4 orเลือดเผาไหม้ more จำนวน มอบเผาไหม้ 1 จำนวนให้กับศัตรูทั้งหมด</Desc>
+<Desc>[เมื่อโจมตี] หากเป้าหมายมีเผาไหม้ 4 จำนวนหรือมากกว่า
+มอบเผาไหม้ 1 จำนวนให้กับศัตรูทั้งหมด</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="burnPlus">
 <Desc>[เมื่อเริ่มการต่อสู้] When มอบing Burn using Combat Pagesในฉากนี้ มอบ 1 additional stack</Desc>

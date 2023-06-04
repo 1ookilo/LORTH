@@ -1,105 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <cardDescList>
-    <BattleCardDesc ID="703901">
-      <LocalizedName>สัญญาแห่งเสรีภาพ</LocalizedName>
-      <Ability>[เริ่มการต่อสู้] ทำการเพิ่มเพจ 'คู่สัญญา - เสรีภาพ' ใส่มือเป้าหมาย (เสรีภาพ: สุ่มค่าคอส; ต้องใช้เพจที่ค่าคอสนั้นตรงตามกำหนด)</Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703902">
-      <LocalizedName>สัญญาแห่งการขยายฤทธิ์</LocalizedName>
-      <Ability>[เริ่มการต่อสู้] ทำการเพิ่มเพจ 'คู่สัญญา - ขยายฤทธิ์' ใส่มือเป้าหมาย (ขยายฤทธิ์: เพจที่มีคอสตามกำหนดจะได้รับพลังมากขึ้น; เพจอื่นๆจะถูกลดพลัง)</Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703903">
-      <LocalizedName>สัญญาแห่งความว่องไว</LocalizedName>
-      <Ability>[เริ่มการต่อสู้] ทำการเพิ่มเพจ 'คู่สัญญา - ความว่องไว' ใส่มือเป้าหมาย (ความว่องไว: ได้รับ ว่องไว; ต้องเข้าร่วมการปะทะอย่างน้อยหนึ่งครั้ง)</Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703904">
-      <LocalizedName>สัญญาแห่งความองอาจ</LocalizedName>
-      <Ability>[เริ่มการต่อสู้] ทำการเพิ่มเพจ 'คู่สัญญา - ความองอาจ' ใส่มือเป้าหมาย (ความองอาจ: ได้รับ กำลัง; ต้องใช้เพจที่มีเต๋าโจมตีอย่างน้อยหนึ่งเต๋า)</Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703905">
-      <LocalizedName>สัญญาแห่งแสง</LocalizedName>
-      <Ability>[เริ่มการต่อสู้] ทำการเพิ่มเพจ 'คู่สัญญา - แสง' ใส่มือเป้าหมาย (แสง: ฟื้นฟูแสงทั้งหมด; ต้องใช้แสงที่มีให้หมด)</Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703906">
-      <LocalizedName>คู่สัญญา - เสรีภาพ</LocalizedName>
-      <Ability>[อยู่บนมือ] หากเพจนี้อยู่บนมือ ได้รับเอฟเฟค 'สนธิสัญญาผูกมัด: เสรีภาพ'</Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703907">
-      <LocalizedName>คู่สัญญา - ขยายฤทธิ์</LocalizedName>
-      <Ability>[อยู่บนมือ] หากเพจนี้อยู่บนมือ ได้รับเอฟเฟค 'สนธิสัญญาผูกมัด: ขยายฤทธิ์'</Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703908">
-      <LocalizedName>คู่สัญญา - ความว่องไว</LocalizedName>
-      <Ability>[อยู่บนมือ] หากเพจนี้อยู่บนมือ ได้รับเอฟเฟค 'สนธิสัญญาผูกมัด: ความว่องไว'</Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703909">
-      <LocalizedName>คู่สัญญา - ความองอาจ</LocalizedName>
-      <Ability>[อยู่บนมือ] หากเพจนี้อยู่บนมือ ได้รับเอฟเฟค 'สนธิสัญญาผูกมัด: ความองอาจ'</Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703910">
-      <LocalizedName>คู่สัญญา - แสง</LocalizedName>
-      <Ability>หากเพจนี้อยู่บนมือ ได้รับเอฟเฟค 'สนธิสัญญาผูกมัด: แสง'</Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703911">
-      <LocalizedName>คาถาเวท: ปัดป้อง</LocalizedName>
-      <Ability></Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703912">
-      <LocalizedName>คาถาเวท: ศาสตราวุธ</LocalizedName>
-      <Ability></Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703913">
-      <LocalizedName>คาถาเวท: จู่โจม</LocalizedName>
-      <Ability></Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703914">
-      <LocalizedName>คาถาเวท: ป้องกันภัย</LocalizedName>
-      <Ability></Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703915">
-      <LocalizedName>มนตรา: ผนึก</LocalizedName>
-      <Ability>[เมื่อใช้] กักขังเป้าหมายในฉากถัดไป</Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703916">
-      <LocalizedName>มนตรา: อัญเชิญ</LocalizedName>
-      <Ability>[เริ่มการต่อสู้] อัญเชิญร่างเงาของบรรณารักษ์ที่ถูกกักขังอยู่ มาในเทิร์นหน้า</Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703917">
-      <LocalizedName>มนตรา: แลกเปลี่ยน</LocalizedName>
-      <Ability>เมื่อจบฉากนี้ ทำการสลับHPของบรรณารักษ์ที่ถูกกักขัง กับร่างเงาAt the end of the Scene, switch the HP of the librarian trapped in the barrier with a Shade's</Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703918">
-      <LocalizedName>มหามนตรา โครงอนูกรสังหาร</LocalizedName>
-      <Ability>เมื่อจบฉากนี้ รับความเสียหายStaggerแก่ตนเองเป็น5เท่าของจำนวนครั้งที่เต๋าแต่ละลูกไม่สามารถกระทำความเสียหายได้</Ability>
-    </BattleCardDesc>
+<cardDescList>
+<BattleCardDesc ID="703901">
+<LocalizedName>สัญญาแห่งเสรีภาพ</LocalizedName>
+<Ability>[เริ่มการต่อสู้] ทำการเพิ่ม Page 'คู่สัญญา - เสรีภาพ' ใส่มือเป้าหมาย (เสรีภาพ: สุ่มค่าคอส; ต้องใช้ Page ที่ค่าคอสนั้นตรงตามกำหนด)</Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703902">
+<LocalizedName>สัญญาแห่งการขยายฤทธิ์</LocalizedName>
+<Ability>[เริ่มการต่อสู้] ทำการเพิ่ม Page 'คู่สัญญา - ขยายฤทธิ์' ใส่มือเป้าหมาย (ขยายฤทธิ์: Page ที่มีคอสตามกำหนดจะได้รับพลังมากขึ้น; Page อื่นๆจะถูกลดพลัง)</Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703903">
+<LocalizedName>สัญญาแห่งความว่องไว</LocalizedName>
+<Ability>[เริ่มการต่อสู้] ทำการเพิ่ม Page 'คู่สัญญา - ความว่องไว' ใส่มือเป้าหมาย (ความว่องไว: ได้รับ ว่องไว; ต้องเข้าร่วมการปะทะอย่างน้อยหนึ่งครั้ง)</Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703904">
+<LocalizedName>สัญญาแห่งความองอาจ</LocalizedName>
+<Ability>[เริ่มการต่อสู้] ทำการเพิ่ม Page 'คู่สัญญา - ความองอาจ' ใส่มือเป้าหมาย (ความองอาจ: ได้รับ กำลัง; ต้องใช้ Page ที่มีเต๋าโจมตีอย่างน้อยหนึ่งเต๋า)</Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703905">
+<LocalizedName>สัญญาแห่งแสง</LocalizedName>
+<Ability>[เริ่มการต่อสู้] ทำการเพิ่ม Page 'คู่สัญญา - แสง' ใส่มือเป้าหมาย (แสง: ฟื้นฟูแสงทั้งหมด; ต้องใช้แสงที่มีให้หมด)</Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703906">
+<LocalizedName>คู่สัญญา - เสรีภาพ</LocalizedName>
+<Ability>[อยู่บนมือ] หาก Page นี้อยู่บนมือ ได้รับเอฟเฟค 'สนธิสัญญาผูกมัด: เสรีภาพ'</Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703907">
+<LocalizedName>คู่สัญญา - ขยายฤทธิ์</LocalizedName>
+<Ability>[อยู่บนมือ] หาก Page นี้อยู่บนมือ ได้รับเอฟเฟค 'สนธิสัญญาผูกมัด: ขยายฤทธิ์'</Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703908">
+<LocalizedName>คู่สัญญา - ความว่องไว</LocalizedName>
+<Ability>[อยู่บนมือ] หาก Page นี้อยู่บนมือ ได้รับเอฟเฟค 'สนธิสัญญาผูกมัด: ความว่องไว'</Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703909">
+<LocalizedName>คู่สัญญา - ความองอาจ</LocalizedName>
+<Ability>[อยู่บนมือ] หาก Page นี้อยู่บนมือ ได้รับเอฟเฟค 'สนธิสัญญาผูกมัด: ความองอาจ'</Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703910">
+<LocalizedName>คู่สัญญา - แสง</LocalizedName>
+<Ability>หาก Page นี้อยู่บนมือ ได้รับเอฟเฟค 'สนธิสัญญาผูกมัด: แสง'</Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703911">
+<LocalizedName>คาถาเวท: ปัดป้อง</LocalizedName>
+<Ability></Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703912">
+<LocalizedName>คาถาเวท: ศาสตราวุธ</LocalizedName>
+<Ability></Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703913">
+<LocalizedName>คาถาเวท: จู่โจม</LocalizedName>
+<Ability></Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703914">
+<LocalizedName>คาถาเวท: ป้องกันภัย</LocalizedName>
+<Ability></Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703915">
+<LocalizedName>มนตรา: ผนึก</LocalizedName>
+<Ability>[เมื่อใช้] กักขังเป้าหมายในฉากถัดไป</Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703916">
+<LocalizedName>มนตรา: อัญเชิญ</LocalizedName>
+<Ability>[เริ่มการต่อสู้] อัญเชิญร่างเงาของบรรณารักษ์ที่ถูกกักขังอยู่ขึ้นมาในฉากถัดไป</Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703917">
+<LocalizedName>มนตรา: แลกเปลี่ยน</LocalizedName>
+<Ability>เมื่อจบฉากนี้ ทำการสลับ HP ของบรรณารักษ์ที่ถูกกักขังกับร่างเงา</Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703918">
+<LocalizedName>มหามนตรา โครงอนูกรสังหาร</LocalizedName>
+<Ability>เมื่อจบฉากนี้ ทำดาเมจ Stagger แก่ตนเอง 5 เท่าของจำนวนครั้งที่เต๋าแต่ละลูกไม่สามารถทำดาเมจได้</Ability>
+</BattleCardDesc>
 
-    <BattleCardDesc ID="703921">
-      <LocalizedName>ร่างทมิฬ</LocalizedName>
-      <Ability></Ability>
-      <Behaviour ID="1">[เมื่อแพ้การปะทะ] ตัวละคนนี้จะใช้เพจของศัตรูที่ได้ปะทะกันครั้งนี้ในฉากหน้า</Behaviour>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703922">
-      <LocalizedName>ฉันต่างหากตัวจริง!!!</LocalizedName>
-      <Ability></Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703923">
-      <LocalizedName>เงาชิวเฉียด</LocalizedName>
-      <Ability></Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703924">
-      <LocalizedName>ความมืดจู่โจม</LocalizedName>
-      <Ability></Ability>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703925">
-      <LocalizedName>ร่างทมิฬ</LocalizedName>
-      <Ability></Ability>
-      <Behaviour ID="0">[เมื่อแพ้การปะทะ] ตัวละคนนี้จะใช้เพจของศัตรูที่ได้ปะทะกันครั้งนี้ในฉากหน้า</Behaviour>
-    </BattleCardDesc>
-    <BattleCardDesc ID="703926">
-      <LocalizedName>ร่างทมิฬ</LocalizedName>
-      <Ability></Ability>
-      <Behaviour ID="2">[เมื่อแพ้การปะทะ] ตัวละคนนี้จะใช้เพจของศัตรูที่ได้ปะทะกันครั้งนี้ในฉากหน้า</Behaviour>
-    </BattleCardDesc>
-  </cardDescList>
+<BattleCardDesc ID="703921">
+<LocalizedName>ร่างทมิฬ</LocalizedName>
+<Ability></Ability>
+<Behaviour ID="1">[เมื่อแพ้การปะทะ] ตัวละครนี้จะใช้ Page ของศัตรูที่ได้ปะทะกันครั้งนี้ในฉากหน้า</Behaviour>
+</BattleCardDesc>
+<BattleCardDesc ID="703922">
+<LocalizedName>ฉันต่างหากตัวจริง!!!</LocalizedName>
+<Ability></Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703923">
+<LocalizedName>เงาชิวเฉียด</LocalizedName>
+<Ability></Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703924">
+<LocalizedName>ความมืดจู่โจม</LocalizedName>
+<Ability></Ability>
+</BattleCardDesc>
+<BattleCardDesc ID="703925">
+<LocalizedName>ร่างทมิฬ</LocalizedName>
+<Ability></Ability>
+<Behaviour ID="0">[เมื่อแพ้การปะทะ] ตัวละคนนี้จะใช้ Page ของศัตรูที่ได้ปะทะกันครั้งนี้ในฉากหน้า</Behaviour>
+</BattleCardDesc>
+<BattleCardDesc ID="703926">
+<LocalizedName>ร่างทมิฬ</LocalizedName>
+<Ability></Ability>
+<Behaviour ID="2">[เมื่อแพ้การปะทะ] ตัวละคนนี้จะใช้ Page ของศัตรูที่ได้ปะทะกันครั้งนี้ในฉากหน้า</Behaviour>
+</BattleCardDesc>
+</cardDescList>
 </BattleCardDescRoot>

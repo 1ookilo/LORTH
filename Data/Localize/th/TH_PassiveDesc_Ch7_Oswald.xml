@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <PassiveDesc ID="1305011">
-    <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
-    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1305012">
-    <Name>There’s No Time for Staggering Struts!</Name>
-    <Desc>Takes half as much Stagger damage from attacks and deflects.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1305013">
-    <Name>We Could Use a Helping Hand, Actually~?</Name>
-    <Desc>On the second Scene, uses a Combat Page that Stupefies the librarian with the highest HP.
-Once a librarian snaps out of Stupefaction, the page will be used in 2 Scenes.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1305014">
-    <Name>Collaborative Performance</Name>
-    <Desc>At the start of the Scene: give 1 Strength, 1 Endurance, and 3 Protection to the Stupefied librarian. When the librarian is Staggered: take 60 Stagger damage at the end of the Scene.
-After librarians are freed from Stupefaction 2 times, uses a Mass Attack page on the following Scene.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1305021">
-    <Name>Twas a Joy to Perform by Your Side…!</Name>
-    <Desc>When this character is defeated, Oswald takes 40 Stagger damage at the end of the Scene.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1305022">
-    <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
-    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1305031">
-    <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
-    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
-  </PassiveDesc>
+<PassiveDesc ID="1305011">
+<Name>ประกายแสง</Name>
+<Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
+เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1305012">
+<Name>จะมัวชักช้ารีรอไม่ได้แล้ว!</Name>
+<Desc>รับดาเมจ Stagger จากการโจมตีและป้องกันลดลงครึ่งหนึ่ง</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1305013">
+<Name>เรายื่นมือไปช่วยได้นะ? แบบมือเลยอ่ะ?</Name>
+<Desc>ในฉากที่สอง ใช้ Combat Page ที่จะชักชวนบรรณารักษ์ที่มี HP สูงที่สุด
+เมื่อบรรณารักษ์หลุดจากการชักชวนนี้ จะใช้ใหม่ใน 2 ฉาก</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1305014">
+<Name>ยินดีที่ได้ร่วมกันแสดงในครั้งนี้</Name>
+<Desc>เมื่อเริ่มฉาก: มอบกำลัง 1 จำนวน, อึดทน 1 จำนวน, เกราะ 3 จำนวน ให้บรรณารักษ์ที่ถูกชักชวน
+เมื่อบรรณารักษ์ถูก Staggered: เมื่อจบฉาก จะได้รับดาเมจ Stagger 60 ดาเมจ
+หลังจากบรรณารักษ์หลุดจากการชักชวน 2 ครั้ง ใช้ Page โจมตีหมู่ในฉากต่อจากนั้น</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1305021">
+<Name>เป็นเกียรติที่ได้แสดงในครั้งนี้ข้างคุณ...!</Name>
+<Desc>เมื่อตัวละครนี้ถูกฆ่า, Oswald จะได้รับดาเมจ Stagger 40 ดาเมจเมื่อจบฉาก</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1305022">
+<Name>ประกายแสง</Name>
+<Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
+เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1305031">
+<Name>ประกายแสง</Name>
+<Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
+เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+</PassiveDesc>
 </PassiveDescRoot>
