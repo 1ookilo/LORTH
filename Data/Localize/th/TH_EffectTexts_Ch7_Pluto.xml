@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <effectTextList>
-    <BattleEffectText ID="Pluto_Contracted_1">
-      <Name>ภาระผูกพันตามสัญญา: อิสรภาพ</Name>
-      <Desc>ในช่วงเริ่มต้นของฉาก, สุ่มต้นทุนของการ์ดต่อสู้ทั้งหมดที่มีค่าใช้จ่ายดั้งเดิม 3 หรือน้อยกว่า หากตัวละครใช้การ์ดที่มีค่าร่าย {0} เสีย HP 25% เมื่อจบฉาก</Desc>
-    </BattleEffectText>
-    <BattleEffectText ID="Pluto_Contracted_2">
-      <Name>ภาระผูกพันตามสัญญา: การขยาย</Name>
-      <Desc>เมื่อใช้การ์ดที่มีค่าร่าย {0} (สุ่มระหว่าง 0 ถึง 3 ในแต่ละฉาก) ​​ลูกเต๋าของพวกเขาได้รับพลัง +3 แต่การ์ดอื่นๆ เสียพลัง -3 </Desc>
-    </BattleEffectText>
-    <BattleEffectText ID="Pluto_Contracted_3">
-      <Name>ภาระผูกพันตามสัญญา: ความรวดเร็ว</Name>
-      <Desc>ในช่วงเริ่มต้นของฉาก, ได้รับ 3 วงองไว สำหรับการโจมตีฝ่ายเดียวในฉาก แต่จะได้รับ 1 อ่อนแรงและพันธนา ในฉากถัดไป</Desc>
-    </BattleEffectText>
-    <BattleEffectText ID="Pluto_Contracted_4">
-      <Name>ภาระผูกพันตามสัญญา: คงอยู่</Name>
-      <Desc>ในช่วงเริ่มต้นของฉาก, ได้รับ 2 ความแข็งแกร่ง หากตัวละครใช้การ์ดต่อสู้ที่มีลูกเต๋าที่ไม่ใช่ ลูกเต๋าเคาน์เตอร์ 2 ลูกขึ้นไป จะกลายเป็นฉากถัดไปที่สลับฉาก</Desc>
-    </BattleEffectText>
-    <BattleEffectText ID="Pluto_Contracted_5">
-      <Name>ภาระผูกพันตามสัญญา: แสง</Name>
-      <Desc>ในช่วงเริ่มต้นของฉาก, ฟื้นฟูแสงจนเต็ม ในตอนท้ายของฉากรับความเสียหายเท่ากับ 10% ของ HP สูงสุดสำหรับทุก ๆ จุดของแสงที่เหลืออยู่</Desc>
-    </BattleEffectText> 
-    <BattleEffectText ID="Pluto_Barrier">
-      <Name>Sealing Barrier</Name>
-      <Desc>ไม่สามารถดำเนินการได้. กำหนดเป้าหมายโดยบรรณารักษ์. เมื่อ Staggered ที่คั่นก็จะสลายไป.</Desc>
-    </BattleEffectText>   
-  </effectTextList>
+<effectTextList>
+<BattleEffectText ID="Pluto_Contracted_1">
+<Name>ภาระผูกพันตามสัญญา: อิสรภาพ</Name>
+<Desc>เมื่อเริ่มฉาก สุ่มคอสของ Page ทั้งหมดที่มีคอส 3 หรือต่ำกว่า หากตัวละครใช้ Page ที่มีคอส {0} เมื่อจบฉาก จะเสีย HP 25%</Desc>
+</BattleEffectText>
+<BattleEffectText ID="Pluto_Contracted_2">
+<Name>ภาระผูกพันตามสัญญา: ขยายฤทธิ์</Name>
+<Desc>เมื่อใช้ Page ที่มีคอส {0} (สุ่มระหว่าง 0 ถึง 3 ในแต่ละฉาก) ​​ลูกเต๋าบน Page ดังกล่าวจะได้พลัง +3 Page อื่นๆ จะเสียพลัง -3</Desc>
+</BattleEffectText>
+<BattleEffectText ID="Pluto_Contracted_3">
+<Name>ภาระผูกพันตามสัญญา: ความว่องไว</Name>
+<Desc>เมื่อเริ่มฉาก ได้รับว่องไว 3 จำนวน ทุกครั้งที่โจมตีฝ่ายเดียวในฉากนั้น ในฉากถัดไปจะได้รับอ่อนแรงและตัดกำลังอย่างละ 1 จำนวน</Desc>
+</BattleEffectText>
+<BattleEffectText ID="Pluto_Contracted_4">
+<Name>ภาระผูกพันตามสัญญา: ความองอาจ</Name>
+<Desc>เมื่อเริ่มฉาก ได้รับกำลัง 2 จำนวน หากตัวละครใช้ Page ที่มีลูกเต๋าที่ไม่ใช่ลูกเต๋าโจมตี 2 ลูกขึ้นไป(ยกเว้นเคาเตอร์) จะ Staggered ในฉากถัดไป</Desc>
+</BattleEffectText>
+<BattleEffectText ID="Pluto_Contracted_5">
+<Name>ภาระผูกพันตามสัญญา: แสง</Name>
+<Desc>เมื่อเริ่มฉาก ฟื้นฟูแสงจนเต็ม เมื่อจบฉากรับดาเมจ 10% ของ HP สูงสุดตามจำนวนแสงที่เหลืออยู่</Desc>
+</BattleEffectText> 
+<BattleEffectText ID="Pluto_Barrier">
+<Name>บาเรียกักขัง</Name>
+<Desc>ไม่สามารถดำเนินการใดๆได้ ถูกเล็งโดยบรรณารักษ์ได้
+เมื่อ Staggered บาเรียจะสลายไป</Desc>
+</BattleEffectText> 
+</effectTextList>
 </BattleEffectTextRoot>
