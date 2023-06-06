@@ -42,7 +42,7 @@
 	<text id="ui_floormain_questalarm_floorperfection">สถานะการ Realization ของชั้น</text>
 	<text id="ui_floormain_questalarm_questclear">สะสางงานทั้งหมดเรียบร้อยแล้ว</text>
 	<text id="ui_librarianmain_title_callbookfeedphase">Realize Page</text>
-	<text id="ui_librarianmain_title_callcustomizephase">แต่งตัว บรรณารักษ์</text>
+	<text id="ui_librarianmain_title_callcustomizephase">แต่งตัวบรรณารักษ์</text>
 	<text id="ui_book_maintitle">หนังสือ</text>
 	<text id="ui_book_bookname_emptybook">ไม่มี</text>
 	<text id="ui_book_bookname_unequip">ถอด</text>
@@ -474,7 +474,7 @@ The Combat bookshelf will be reset.</text>
   <text id ="ui_bookinfo_attachedbookalarm">อยู่ใน Key Page อื่น</text>
 
   <text id ="ui_bookinventory_equipbook">สวมใส่</text>
-  <text id ="ui_bookinventory_givepassiverelease">ถอดความสามารถ</text>
+  <text id ="ui_bookinventory_givepassiverelease">ถอดคสม.</text>
   <text id ="ui_bookinventory_receivepassiverelease">รีเซ็ทความสามารถทุกอย่าง</text>
 
   <text id="ui_popup_release_all">นำ Key Pages ที่สวมใส่ทั้งหมดออก</text>
@@ -547,7 +547,7 @@ The Combat bookshelf will be reset.</text>
   <text id="ui_color_h">สี</text>
   <text id="ui_color_s">ความเข้มสี</text>
   <text id="ui_color_v">ความสว่าง</text>
-  <text id="ui_resultemotionlevelrewardtitle">พิเศษจากระดับอารมณ์</text>
+  <text id="ui_resultemotionlevelrewardtitle">โบนัสจากระดับอารมณ์</text>
   <text id ="ui_resultgetbookincreasepertitle">โอกาสดรอป {0}</text>
   <!--20201113-->
   <text id="ui_selectgendertype">ชนิดร่างกาย</text>
