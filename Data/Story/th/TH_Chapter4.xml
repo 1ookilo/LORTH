@@ -571,13 +571,13 @@
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta8</VoiceFile>
-          <Content>จะอร่อยไหมนะ? อาจจะเนื้อผ้าดีๆก็ได้.</Content>
+          <Content>จะอร่อยไหมนะ? อาจจะได้เนื้อผ้าดีๆก็ได้.</Content>
         </Dialog>
         <Dialog ID="28" Model="얀">
           <Teller>ยัน</Teller>
           <Title>อินเด็กซ์ ผู้ส่งสาร</Title>
           <VoiceFile>ch4_Carnival_ep1_yan5 (2)</VoiceFile>
-          <Content>…ไม่ ผมเกรงว่าจะไม่ พวกคุณต้องทำตามข้อบัญญัติ ลืมแล้วหรอ?</Content>
+          <Content>…ไม่ ผมเกรงว่าจะไม่ พวกคุณต้องทำตามข้อบัญญัติลืมแล้วหรอ?</Content>
         </Dialog>
         <Dialog ID="29" Model="얀">
           <Teller>ยัน</Teller>
@@ -736,7 +736,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland3</VoiceFile>
-          <Content>คุณหนูแองเจล่าครับ นั่นไม่ใช่ผ้าที่ทอมาจากใยธรรมดา ยังมีอะไรอีกมากให้เธอเรียนรู้เลยนะเนี่ย</Content>
+          <Content>โอ้ นั่นไม่ใช่ผ้าที่ทอมาจากใยธรรมนะคุณหนู ยังมีอะไรอีกมากให้เธอเรียนรู้เลยนะเนี่ย</Content>
         </Dialog>
         <Dialog ID="55" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -985,61 +985,61 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland20</VoiceFile>
-          <Content>Exhausted? Tired. Want rest? Hungry. Want out?</Content>
+          <Content>เหนื่อยไหม ต้องการพักไหม? หิวไหม? พอหรือยัง?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela13</VoiceFile>
-          <Content>Want amputated? Bones melt. Flesh explode? Won’t die.</Content>
+          <Content>ต้องการอยากละลายกระดูกหรือระเบิดดีหรือไม่อยากตายว่ามา?</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland21</VoiceFile>
-          <Content>Sorry, ma’am. I’ll stop here.</Content>
+          <Content>ขอโทษครับหยุดบ่นก็ได้</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela14</VoiceFile>
-          <Content>So, what do you think will happen next?</Content>
+          <Content>นายคิดว่าจะเกิดอะไรขึ้นต่อจากนี่?</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland22</VoiceFile>
-          <Content>Looking at how things are going, we’re pretty much guaranteed to confront at least one of the Fingers.</Content>
+          <Content>เมื่อดูจากสิ่งที่เกิดขึ้น รับประกันได้เลยจะต้องเผชิญหน้ากับ Fingers อย่างน้อยหนึ่งละ</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland23</VoiceFile>
-          <Content>We’ve already heard the Thumb, and the อินเด็กซ์… Any one of ‘em is gonna be a huge pain in the ass.</Content>
+          <Content>เรารู้ได้เลยว่า ธัม และ อินเด็กซ์… จับตาดูมาที่เราแน่ๆไม่ว่าตัวไหนก็หน้าปวดหัวอยู่ดี</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela15</VoiceFile>
-          <Content>I look forward to it.</Content>
+          <Content>ฉันจะรอดูล่ะกัน</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland24</VoiceFile>
-          <Content>Oh, of course you do~ I’m the one doing all the fighting and bleeding for you.</Content>
+          <Content>โอ้ แน่นอน~ ก็ผมเป็นคนทำการต่อสู้และเสียเลือดเสียเนื้อไม่ใช้เธอนี่</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Carnival_ep1_angela16</VoiceFile>
-          <Content>I know this goes without saying, but I am thankful for what you do.</Content>
+          <Content>ฉันรู้ว่าสิ่งที่ให้นายทำโดยไม่พูดอะไรก่อนหน้านี้ แต่ฉันรู้สึกขอบคุณสำหรับสิ่งที่นายทำจริงๆ</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland25</VoiceFile>
-          <Content>Sure you are, ma’am~ In any case, let’s give it our best shot!</Content>
+          <Content>แม๊ๆๆๆครับผมครับ~ ยังไงก็ตามเรามาทำให้ดีที่สุดกันเถอะ!</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -1049,993 +1049,993 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: The Church of Gears Oratory</PlaceName>
+        <PlaceName>สถานที่: โบสถ์แห่งฟันเฟือง</PlaceName>
         <Dialog ID="0" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen1</VoiceFile>
-          <Content>Salutations, everyone. Let us begin with today’s worship session.</Content>
+          <Content>สวัสดีทุกท่าน วันนี้พวกเราจะมาเริ่มพิธีกัน</Content>
         </Dialog>
         <Dialog ID="1" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen2</VoiceFile>
-          <Content>It appears that we have a new worshipper.</Content>
+          <Content>วันนี้พวกเรามีสมาชิกใหม่ด้วย</Content>
         </Dialog>
         <Dialog ID="2" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen3</VoiceFile>
-          <Content>What concerns have brought you here to our oratory?</Content>
+          <Content>ความกังวลใดที่ทำให้คุณมาที่แห่งนี่ค่ะ</Content>
         </Dialog>
         <Dialog ID="3" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson1</VoiceFile>
-          <Content>…I don’t think I can continue living in this city anymore. It’s too much for me.</Content>
+          <Content>…ผมคิดว่าผมคงอยู่ในเมืองนี้ต่อไปไม่ได้อีกแล้ว ทุกอย่างมันเกินไปสำหรับผม</Content>
         </Dialog>
         <Dialog ID="4" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen4-01</VoiceFile>
-          <Content>What could have overwhelmed you so much?</Content>
+          <Content>อะไรทำให้คุณรู้สึกมากขนาดนั้นค่ะ?</Content>
         </Dialog>
         <Dialog ID="5" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson2</VoiceFile>
-          <Content>Everything is so dreary. And so is my life.</Content>
+          <Content>ทุกอย่างช่างน่าหดหู่ยิ่งนัก และชีวิตฉันก็เช่นกัน</Content>
         </Dialog>
         <Dialog ID="6" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson3</VoiceFile>
-          <Content>I wake up at 6 in the morning, go to work by 8, and do the same work with the same face every single day.</Content>
+          <Content>ผมตื่นนอนตอน 6 โมงเช้า ไปทำงานตอน 8 โมงเช้า และทำงานเดิมๆ ด้วยใบหน้าเดิมๆ ทุกวัน</Content>
         </Dialog>
         <Dialog ID="7" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson4</VoiceFile>
-          <Content>By the time I leave work, it’s already 10 in the evening…</Content>
+          <Content>กว่าจะเลิกงานก็สี่ทุ่มแล้ว…</Content>
         </Dialog>
         <Dialog ID="8" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson5</VoiceFile>
-          <Content>I’m not sure what I’m doing anymore.</Content>
+          <Content>ผมไม่แน่ใจด้วยซ้ำว่าผมกำลังทำอะไรอยู่กันแน่</Content>
         </Dialog>
         <Dialog ID="9" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson6</VoiceFile>
-          <Content>I have so many expenses to cover every single month, I can’t seem to get any richer.</Content>
+          <Content>ผมมีค่าใช้จ่ายมากมายที่ต้องจ่ายทุกเดือน ผมไม่สามารถร่ำรวยไปกว่านี้ได้อีกแล้ว</Content>
         </Dialog>
         <Dialog ID="10" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson7</VoiceFile>
-          <Content>Everyone I see during my commute has the same face.</Content>
+          <Content>ทุกคนที่ฉันเห็นระหว่างการเดินทางมีใบหน้าเหมือนกันทุกคน</Content>
         </Dialog>
         <Dialog ID="11" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson8</VoiceFile>
-          <Content>I don’t see why we work, why we earn money, or why we live… I feel like I’ve lost my goal… my purpose.</Content>
+          <Content>ผมไม่เข้าใจว่าทำไมเราถึงทำงาน ทำไมเราถึงได้รับเงิน หรือทำไมเราถึงมีชีวิตอยู่… ผมรู้สึกเหมือนผมสูญเสียเป้าหมาย… ที่เป็นเป้าหมายของผมจริงๆ</Content>
         </Dialog>
         <Dialog ID="12" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson9</VoiceFile>
-          <Content>I’m just like a cogwheel…</Content>
+          <Content>ผมเหมือนกับฟันเฟืองเลย…</Content>
         </Dialog>
         <Dialog ID="13" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson10</VoiceFile>
-          <Content>Yeah… I really am… I’m living like a cog in the machine.</Content>
+          <Content>ใช่… ผมเป็น… ผมใช้ชีวิตเหมือนฟันเฟืองในเครื่องจักรเลย</Content>
         </Dialog>
         <Dialog ID="14" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson11</VoiceFile>
-          <Content>Even if I were gone, this City would soon find another cog to replace me…</Content>
+          <Content>แม้ว่าผมจะจากไป เมืองนี้ก็จะหาฟันเฟืองอื่นมาแทนที่ผมอยู่ดี…</Content>
         </Dialog>
         <Dialog ID="15" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson12</VoiceFile>
-          <Content>What am I… Where does my worth lie?</Content>
+          <Content>ผมเป็นอะไรกันแน่… คุณค่าของผมอยู่ที่ไหนกัน?</Content>
         </Dialog>
         <Dialog ID="16" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen5</VoiceFile>
-          <Content>I understand that feeling.</Content>
+          <Content>ฉันเข้าใจความรู้สึกนั้นของคุณค่ะ.</Content>
         </Dialog>
         <Dialog ID="17" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen6</VoiceFile>
-          <Content>Everyone in the City is like a gear spinning along without a purpose…</Content>
+          <Content>ทุกคนในเมืองล้วนเหมือนฟันเฟืองที่หมุนไปโดยไม่มีจุดหมาย…</Content>
         </Dialog>
         <Dialog ID="18" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen7</VoiceFile>
-          <Content>Staying in the middle of it wears you out, slowly…</Content>
+          <Content>การอยู่ท่ามกลางฟันเฟืองอาจจะทำให้คุณเหนื่อยช้าลง…</Content>
         </Dialog>
         <Dialog ID="19" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson13</VoiceFile>
-          <Content>You’re right…! I really feel like that…</Content>
+          <Content>คุณพูดถูก…! ผมรู้สึกอย่างนั้นจริงๆ…</Content>
         </Dialog>
         <Dialog ID="20" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen8-01</VoiceFile>
-          <Content>However…</Content>
+          <Content>อย่างไรก็ตาม…</Content>
         </Dialog>
         <Dialog ID="21" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen9-01</VoiceFile>
-          <Content>Is it necessarily a bad thing to be a gear?</Content>
+          <Content>มันเป็นการไม่ดีที่จะเป็นฟันเฟืองนะคะ?</Content>
         </Dialog>
         <Dialog ID="22" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson14</VoiceFile>
-          <Content>Huh?</Content>
+          <Content>ฮะ?</Content>
         </Dialog>
         <Dialog ID="23" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen10</VoiceFile>
-          <Content>All problems stem from the refusal to admit to the fact that we are indeed gears ourselves.</Content>
+          <Content>ปัญหาทั้งหมดเกิดจากการที่คุณไม่ยอมรับความจริงว่าแท้จริงแล้วคุณเป็นฟันเฟืองค่ะ</Content>
         </Dialog>
         <Dialog ID="24" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen11</VoiceFile>
-          <Content>I did too once.</Content>
+          <Content>มีครั้งหนึ่ง</Content>
         </Dialog>
         <Dialog ID="25" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen12</VoiceFile>
-          <Content>After my father passed away, I lost my way for a while.</Content>
+          <Content>หลังจากพ่อจากไป ฉันก็หลงทางไปพักหนึ่ง</Content>
         </Dialog>
         <Dialog ID="26" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen13-02</VoiceFile>
-          <Content>You see, my father lived his life akin to a gearwheel.</Content>
+          <Content>คุณจะเห็นได้ว่าพ่อของฉันก็ใช้ชีวิตเหมือนฟันเฟือง.</Content>
         </Dialog>
         <Dialog ID="27" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen14</VoiceFile>
-          <Content>He’d always wake up at the same hour, go to the same place, and come home at the same time with the same face…</Content>
+          <Content>เขามักจะตื่นเวลาเดิม ไปที่เดิม และกลับบ้านเวลาเดิมด้วยใบหน้าเดิมๆ…</Content>
         </Dialog>
         <Dialog ID="28" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen15</VoiceFile>
-          <Content>My father did research on gears.</Content>
+          <Content>พ่อของฉันค้นคว้าเกี่ยวกับฟันเฟือง</Content>
         </Dialog>
         <Dialog ID="29" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen16</VoiceFile>
-          <Content>His goal was to solve the same type of problems you’re going through.</Content>
+          <Content>เป้าหมายของเขาคือการแก้ปัญหาเดียวกันกับที่คุณกำลังประสบอยู่ค่ะ</Content>
         </Dialog>
         <Dialog ID="30" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen17</VoiceFile>
-          <Content>Perhaps he unknowingly grew to resemble the single object he studied for so long.</Content>
+          <Content>บางทีเขาอาจเริ่มคล้ายกับสิ่งที่เขาศึกษาโดยไม่รู้ตัวมานานแล้ว</Content>
         </Dialog>
         <Dialog ID="31" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen18</VoiceFile>
-          <Content>The wrinkles on his forehead deepened as he worked. They resembled the teeth of a gear…</Content>
+          <Content>รอยย่นบนใบหน้าของเขาเริ่มมากขึ้นในขณะที่เขาทำงาน มีลักษณะคล้ายฟันเฟือง…</Content>
         </Dialog>
         <Dialog ID="32" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen19-01</VoiceFile>
-          <Content>My father lived out his whole life as a rusted gear of the City, until he was murdered by someone else.</Content>
+          <Content>พ่อของฉันใช้ชีวิตทั้งชีวิตในฐานะฟันเฟืองที่ขึ้นสนิมในเมืองนี้ จนกระทั่งเขาถูกฆ่าโดยคนบางคน</Content>
         </Dialog>
         <Dialog ID="33" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson15</VoiceFile>
-          <Content>Oh…</Content>
+          <Content>โอ้…</Content>
         </Dialog>
         <Dialog ID="34" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen20</VoiceFile>
-          <Content>Then one day, I came across a thought.</Content>
+          <Content>แล้ววันหนึ่งฉันก็เกิดความคิดขึ้นว่า.</Content>
         </Dialog>
         <Dialog ID="35" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen21</VoiceFile>
-          <Content>Maybe we really are gears that constitute the City…</Content>
+          <Content>บางทีเราอาจจะเป็นฟันเฟืองที่ถูกเมืองสร้างขึ้นมาก็ได้…</Content>
         </Dialog>
         <Dialog ID="36" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen22</VoiceFile>
-          <Content>Maybe our suffering comes from trying to deny our own identity…</Content>
+          <Content>บางทีความทุกข์ของพวกเราอาจมาจากการพยายามปฏิเสธตัวตนของพวกเราค่ะ…</Content>
         </Dialog>
         <Dialog ID="37" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson16</VoiceFile>
-          <Content>But that kind of life is pointless! I’m tired of being a purposeless cog that keeps running day by day…</Content>
+          <Content>แล้วชีวิตแบบนั้นจะไปมีความหมายอะไร! ผมเบื่อที่จะเป็นฟันเฟืองที่หมุนไปวันๆไร้จุดหมายแล้ว…</Content>
         </Dialog>
         <Dialog ID="38" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen23</VoiceFile>
-          <Content>Exactly.</Content>
+          <Content>นั่นสิค่ะ.</Content>
         </Dialog>
         <Dialog ID="39" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen24</VoiceFile>
-          <Content>The problem is that you see yourself as an aimless gear.</Content>
+          <Content>ปัญหาคือคุณมองว่าตัวเองเป็นฟันเฟืองที่ไร้จุดมุ่งหมาย</Content>
         </Dialog>
         <Dialog ID="40" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson17</VoiceFile>
-          <Content>You mean gears can have a purpose?</Content>
+          <Content>คุณจะบอกว่าฟันเฟืองสามารถมีจุดมุ่งหมายได้หรอ?</Content>
         </Dialog>
         <Dialog ID="41" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen25</VoiceFile>
-          <Content>Yes. Of course they can.</Content>
+          <Content>ใช่ค่ะ. แน่นอนสามารถทำได้.</Content>
         </Dialog>
         <Dialog ID="42" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen26</VoiceFile>
-          <Content>All we need to do is find the purpose we were born to mesh with.</Content>
+          <Content>สิ่งที่เราต้องทำคือค้นหาจุดมุ่งหมายที่เราเกิดมาเพื่อเชื่อมโยงกัน</Content>
         </Dialog>
         <Dialog ID="43" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen27</VoiceFile>
-          <Content>You shall become a unique gear that cannot be replaced by any other.</Content>
+          <Content>จะทำให้คุณกลายเป็นฟันเฟืองที่พิเศษที่ไม่สามารถหาสิ่งอื่นมาแทนที่ได้</Content>
         </Dialog>
         <Dialog ID="44" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen28</VoiceFile>
-          <Content>We are all gears.</Content>
+          <Content>พวกเราทุกคนคือฟันเฟือง</Content>
         </Dialog>
         <Dialog ID="45" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen29</VoiceFile>
-          <Content>There are simply so many gears in this world wallowing in sadness, for they have yet to know where and how to be.</Content>
+          <Content>มีฟันเฟืองมากมายในโลกนี้ที่มุ่นอยู่กับความเศร้าโศก เพราะพวกเขายังไม่รู้ว่าจะต้องอยู่ที่ไหนและทำอะไรกันแน่</Content>
         </Dialog>
         <Dialog ID="46" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson18</VoiceFile>
-          <Content>…That’s…</Content>
+          <Content>…นั่นคือ…</Content>
         </Dialog>
         <Dialog ID="47" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson19</VoiceFile>
-          <Content>It’s still hard to believe that…</Content>
+          <Content>ไม่อยากจะเชื่อ…</Content>
         </Dialog>
         <Dialog ID="48" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen30</VoiceFile>
-          <Content>Take a look at all the people gathered here.</Content>
+          <Content>ดูเหล่าผู้คนทั้งหมดที่มารวมตัวกันที่นี่สิ</Content>
         </Dialog>
         <Dialog ID="49" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen31</VoiceFile>
-          <Content>Do they have the same faces as the ones you’ve seen in your everyday life?</Content>
+          <Content>พวกเขาล้วนเคยมีใบหน้าเหมือนกับที่คุณเห็นในชีวิตประจำวันใช้ไหม?</Content>
         </Dialog>
         <Dialog ID="50" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson20</VoiceFile>
-          <Content>No… They all look happy…</Content>
+          <Content>ไม่… พวกเขาทั้งหมดดูมีความสุข…</Content>
         </Dialog>
         <Dialog ID="51" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen32-01</VoiceFile>
-          <Content>Please, trust in me.</Content>
+          <Content>โปรดวางใจในตัวฉันเถอะน่า</Content>
         </Dialog>
         <Dialog ID="52" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson21</VoiceFile>
-          <Content>Yes… This is the only way I have…</Content>
+          <Content>ครับ… นี่เป็นวิธีเดียวที่ผมมี…</Content>
         </Dialog>
         <Dialog ID="53" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen33-01</VoiceFile>
-          <Content>Now, come up here. I will give you the purpose in life you’re looking for.</Content>
+          <Content>เอาล่ะ ขึ้นมาที่นี่ฉันจะให้จุดมุ่งหมายในชีวิตให้แก่คุณ</Content>
         </Dialog>
         <Dialog ID="54" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson22</VoiceFile>
-          <Content>Do I sit on this chair?</Content>
+          <Content>ผมต้องนั่งบนเก้าอี้ตัวนี้ใช้ไหมครับ?</Content>
         </Dialog>
         <Dialog ID="55" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen34</VoiceFile>
-          <Content>Yes, take a seat and relax. This chair will tell you what kind of gear you are.</Content>
+          <Content>ค่ะ นั่งลงและผ่อนคลาย เก้าอี้ตัวนี้จะบอกว่าคุณควรเป็นฟันเฟืองแบบไหน</Content>
         </Dialog>
         <Dialog ID="56" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson23</VoiceFile>
-          <Content>Is this really safe…?</Content>
+          <Content>มันปลอดภัยจริงใช้ไหม…?</Content>
         </Dialog>
         <Dialog ID="57" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen35</VoiceFile>
-          <Content>Of course it is.</Content>
+          <Content>แน่นอน</Content>
         </Dialog>
         <Dialog ID="58" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen36</VoiceFile>
-          <Content>Oh my, you turned out to be a ‘Thought Gear’.</Content>
+          <Content>โอ้คุณจะกลายเป็น ‘ฟันเฟืองความคิด’.</Content>
         </Dialog>
         <Dialog ID="59" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson24</VoiceFile>
-          <Content>A thought gear…?</Content>
+          <Content>ฟันเฟืองความคิด…?</Content>
         </Dialog>
         <Dialog ID="60" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen37</VoiceFile>
-          <Content>It is exceedingly rare for one to be bestowed with the purpose of a Thought Gear, you see?</Content>
+          <Content>เป็นเรื่องหายากมากที่คนๆหนึ่งจะได้รับการมอบหมายให้มีเป้าหมายเป็นฟันเฟืองความคิด นะค่ะ?</Content>
         </Dialog>
         <Dialog ID="61" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen38</VoiceFile>
-          <Content>They are helping me even now.</Content>
+          <Content>พวกเขากำลังช่วยฉันอยู่ตอนนี้</Content>
         </Dialog>
         <Dialog ID="62" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen39</VoiceFile>
-          <Content>For your information, my father was also a Thought Gear.</Content>
+          <Content>คุณไม่ต้องห่วง พ่อของฉันก็เป็นฟันเฟืองความคิดเหมือนกัน.</Content>
         </Dialog>
         <Dialog ID="63" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson25</VoiceFile>
-          <Content>That means those gears on the back of your head are…?</Content>
+          <Content>อย่าบอกนะว่าฟันเฟืองที่อยู่ด้านหลังศีรษะของคุณคือ…?</Content>
         </Dialog>
         <Dialog ID="64" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen40-01</VoiceFile>
-          <Content>This one is my father… He always provides me with his wisdom about life.</Content>
+          <Content>ใช้นี้คือพ่อของฉัน… เขาให้ความรู้เกี่ยวกับชีวิตให้แก่ฉันเสมอเลย</Content>
         </Dialog>
         <Dialog ID="65" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen41-01</VoiceFile>
-          <Content>Besides, Meat Gears need to keep company with at least one Thought Gear.</Content>
+          <Content>ยังไงก็ตามฟันเฟืองก็ต้องต่อกันน้อยหนึ่งอันขึ้นไป</Content>
         </Dialog>
         <Dialog ID="66" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson26</VoiceFile>
-          <Content>W-wait, am I really gonna turn into a gear…?</Content>
+          <Content>เดี๋ยวๆ คุณจะเปลี่ยนผมให้เป็นฟันเฟืองจริงๆ เหรอ…?</Content>
         </Dialog>
         <Dialog ID="67" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen42-01</VoiceFile>
-          <Content>The pain is only temporary. It will soon be followed with pure fulfillment.</Content>
+          <Content>ความเจ็บปวดเป็นเพียงอาการชั่วคราว ในไม่ช้ามันก็จะตามมาด้วยความสุขและสมหวังอย่างแท้จริงค่ะ.</Content>
         </Dialog>
         <Dialog ID="68" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen43</VoiceFile>
-          <Content>Everyone, let us welcome the honorable and invaluable arrival of a new Thought Gear.</Content>
+          <Content>ทุกคน เรามาให้การต้อนรับการมาถึงอย่างมีเกียรติและล้ำค่าของฟันเฟืองความคิดอันใหม่กัน</Content>
         </Dialog>
         <Dialog ID="69" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson27</VoiceFile>
-          <Content>Wait… Wait!</Content>
+          <Content>เดี๋ยวๆ!</Content>
         </Dialog>
         <Dialog ID="70" Model="신도1">
-          <Teller>Worshipper 1</Teller>
+          <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson28</VoiceFile>
-          <Content>I didn’t know this would happen!</Content>
+          <Content>ผมไม่คิดว่ามันจะอย่างนี้!</Content>
         </Dialog>
         <Dialog ID="71" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen44</VoiceFile>
-          <Content>As the gears turn.</Content>
+          <Content>เมื่อเปลี่ยนเป็นฟันเฟืองแล้ว</Content>
         </Dialog>
         <Dialog ID="72" Model="신도들">
-          <Teller>Worshippers</Teller>
+          <Teller>อัครสาวก</Teller>
           <Title>Church of Gears Laity</Title>
           <VoiceFile>ch4_Fullstop_ep1_religiouspersons1</VoiceFile>
-          <Content>So too does life fulfill its cycle.</Content>
+          <Content>ชีวิตก็จะถูกเติมเต็มในวงจร</Content>
         </Dialog>
         <Dialog ID="73" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki1-01</VoiceFile>
-          <Content>So that’s Eileen, cult leader of the ‘Church of Gears’…</Content>
+          <Content>นั่นคือไอลีน ผู้นำลัทธิของ ‘โบสถ์แห่งฟันเฟือง’…</Content>
         </Dialog>
         <Dialog ID="74" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan1-01</VoiceFile>
-          <Content>I’ve seen all kinds of gears in my life, but “thought gears” are new to me.</Content>
+          <Content>ฉันเคยเห็นฟันเฟืองทุกประเภทในชีวิตของฉัน แต่ "ฟันเฟืองความคิด" เป็นเรื่องใหม่สำหรับฉันเลย</Content>
         </Dialog>
         <Dialog ID="75" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei1</VoiceFile>
-          <Content>This must be the rumored ritual of theirs.</Content>
+          <Content>นี่ต้องเป็นพิธีกรรมที่ร่ำลือกันของพวกเขาแน่ๆ</Content>
         </Dialog>
         <Dialog ID="76" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki2</VoiceFile>
-          <Content>They get smarter by plugging gears on the back of their heads, apparently?</Content>
+          <Content>พวกเขาจะฉลาดขึ้นด้วยการเสียบฟันเฟืองที่หลังศีรษะงั้นเหรอ?</Content>
         </Dialog>
         <Dialog ID="77" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan2-01</VoiceFile>
-          <Content>That’s a load of horseshit.</Content>
+          <Content>ดูไร้สาระจริงๆ</Content>
         </Dialog>
         <Dialog ID="78" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan3-01</VoiceFile>
-          <Content>Alright, let’s see. Director Yujin from the Shi Association asked us to…</Content>
+          <Content>เอาล่ะมาดูกันว่าผู้กำกับ ยูจิน จาก สมาคมชิ ขอให้เราทำอะไรกัน…</Content>
         </Dialog>
         <Dialog ID="79" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki3-01</VoiceFile>
-          <Content>Kill ten worshippers of the Church, neutralize its leader and secure her.</Content>
+          <Content>ให้ฆ่าอัครสาวกสิบคนและเก็บผู้นำลัทธิไปในตัวด้วย</Content>
         </Dialog>
         <Dialog ID="80" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei2</VoiceFile>
-          <Content>I didn’t quite expect the director of Shi Association’s Section 2 to personally give our Office a request. Something strange might be up.</Content>
+          <Content>ฉันไม่คิดเลยว่าผู้กำกับเซคเชิน 2 ของสมาคมชิ จะให้คำขอแก่สำนักงานของเราเป็นการส่วนตัวอาจมีบางอย่างแปลกๆ เกิดขึ้นก็ได้</Content>
         </Dialog>
         <Dialog ID="81" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan4</VoiceFile>
-          <Content>How long are we gonna sit and watch that? Can’t we start shooting now?</Content>
+          <Content>เราจะนั่งดูพวกนี้อีกนานแค่ไหน? เราเริ่มยิงกันเลยได้ไหม?</Content>
         </Dialog>
         <Dialog ID="82" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei3</VoiceFile>
-          <Content>Wait for my sign…</Content>
+          <Content>รอสัญญาณจากฉันนะ…</Content>
         </Dialog>
         <Dialog ID="83" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen45</VoiceFile>
-          <Content>Ah… What a beautiful Thought Gear you have become.</Content>
+          <Content>อา... ช่างเป็นฟังเฟือนความคิดที่สวยงามเสียนี่กระไร</Content>
         </Dialog>
         <Dialog ID="84" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen46-01</VoiceFile>
-          <Content>I will give you the honor of accompanying me.</Content>
+          <Content>ฉันจะให้เกียรติคุณมารับใช้ฉัน</Content>
         </Dialog>
         <Dialog ID="85" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen47</VoiceFile>
-          <Content>You shall soon understand how happy it is to be a gear with a purpose.</Content>
+          <Content>ในไม่ช้าคุณจะเข้าใจว่าการเป็นฟันเฟืองที่มีจุดมุ่งหมายนั้นมีความสุขเพียงใด</Content>
         </Dialog>
         <Dialog ID="86" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen48-01</VoiceFile>
-          <Content>Yes. It may take some time to adjust.</Content>
+          <Content>ใช่. คงต้องใช้เวลาสักพักในการปรับตัว</Content>
         </Dialog>
         <Dialog ID="87" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen49</VoiceFile>
-          <Content>Let us start with turning bit by bit.</Content>
+          <Content>ให้เริ่มหมุนทีละนิด</Content>
         </Dialog>
         <Dialog ID="88" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen50</VoiceFile>
-          <Content>Good, along with the others, gently rotate… One cycle at a time…</Content>
+          <Content>ดีหมุนพร้อมกับคนอื่นๆ หมุนเบาๆ... ทีละรอบ…</Content>
         </Dialog>
         <Dialog ID="89" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen51</VoiceFile>
-          <Content>My father will gladly help you out.</Content>
+          <Content>พ่อของฉันยินดีที่จะช่วยคุณเอง.</Content>
         </Dialog>
         <Dialog ID="90" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen52</VoiceFile>
-          <Content>See? It does make you feel happy, doesn’t it?</Content>
+          <Content>ดูสิ? มันทำให้คุณรู้สึกมีความสุขใช่ไหมล่ะ?</Content>
         </Dialog>
         <Dialog ID="91" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen53</VoiceFile>
-          <Content>I am very glad to know you are happy.</Content>
+          <Content>ฉันดีใจนะที่รู้ว่าคุณมีความสุข</Content>
         </Dialog>
         <Dialog ID="92" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen54</VoiceFile>
-          <Content>My dear followers! Today, another lost gear has found its way to happiness!</Content>
+          <Content>สาวกที่รัก! วันนี้ฟังเฟือนที่หลงทางได้พบกับหนทางสู่ความสุขแล้ว!</Content>
         </Dialog>
         <Dialog ID="93" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen55</VoiceFile>
-          <Content>Praise be to father!</Content>
+          <Content>ขอสรรเสริญแก่พ่อของฉัน!</Content>
         </Dialog>
         <Dialog ID="94" Model="신도들">
-          <Teller>Worshippers</Teller>
+          <Teller>อัครสาวก</Teller>
           <Title>Church of Gears Laity</Title>
           <VoiceFile>ch4_Fullstop_ep1_religiouspersons2</VoiceFile>
-          <Content>Praise be!</Content>
+          <Content>สรรเสริญ!</Content>
         </Dialog>
         <Dialog ID="95" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen56-01</VoiceFile>
-          <Content>…Huh? What do you mean, “be careful”…?</Content>
+          <Content>…ฮะ? คุณหมายความว่าไง, “ระวังตัว”…?</Content>
         </Dialog>
         <Dialog ID="96" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei4</VoiceFile>
-          <Content>Now.</Content>
+          <Content>ตอนนี้แหละ</Content>
         </Dialog>
         <Dialog ID="97" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen57-01</VoiceFile>
-          <Content>Wha… What is going on…?</Content>
+          <Content>วะ… เกิดอะไรขึ้น…?</Content>
         </Dialog>
         <Dialog ID="98" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen58-01</VoiceFile>
-          <Content>The Gears… The poor Gears…</Content>
+          <Content>ฟันเฟือง…ฟันเฟืองผู้น่าสงสารของฉัน…</Content>
         </Dialog>
         <Dialog ID="99" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen59-01</VoiceFile>
-          <Content>Please don’t do this… Whoever you are, please leave us alone…</Content>
+          <Content>ได้โปรดอย่าทำแบบนี้… ไม่ว่าคุณจะเป็นใครได้โปรดอย่ายุ่งกับพวกเราเลย…</Content>
         </Dialog>
         <Dialog ID="100" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen60-01</VoiceFile>
-          <Content>We simply wanted to live a happy life following our destined purposes…</Content>
+          <Content>เราเพียงต้องการมีชีวิตที่มีความสุขตามเป้าหมายที่ลิขิตไว้เอง…</Content>
         </Dialog>
         <Dialog ID="101" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan5</VoiceFile>
-          <Content>Gah, why is their slippery leader so hard to hit?</Content>
+          <Content>โธ่ ทำไมหัวหน้าของพวกมันถึงยิงยากจังวะ?</Content>
         </Dialog>
         <Dialog ID="102" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei5-01</VoiceFile>
-          <Content>She doesn’t seem to be dodging the bullets with her own reflexes.</Content>
+          <Content>ดูเหมือนว่าเธอจะไม่ได้หลบกระสุนด้วยปฏิกิริยาตอบสนองของเธอเองนะ</Content>
         </Dialog>
         <Dialog ID="103" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei6</VoiceFile>
-          <Content>It’s as if something else is predicting the trajectories for her.</Content>
+          <Content>ราวกับว่ามีบางอย่างทำนายวิถีกระสุนให้เธอก่อนเลย</Content>
         </Dialog>
         <Dialog ID="104" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki4</VoiceFile>
-          <Content>Those “thought gears” on her head are spinning like crazy.</Content>
+          <Content>"ฟันเฟืองความคิด" บนหัวของเธอกำลังหมุนอย่างบ้าคลั่งเลย</Content>
         </Dialog>
         <Dialog ID="105" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan6</VoiceFile>
-          <Content>Dammit, this sucks. We paid an arm and a leg for these bullets…</Content>
+          <Content>ให้ตายเถอะ นี่มันแย่มากเราสามารถจ่ายแขนและขาให้กับกระสุนเหล่านี้ได้เลยนะ…</Content>
         </Dialog>
         <Dialog ID="106" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei7</VoiceFile>
-          <Content>Tamaki. Think we can read the movement pattern of those gears?</Content>
+          <Content>ทามากิ คิดว่าเราสามารถอ่านรูปแบบการเคลื่อนของฟันเฟืองเหล่านั้นได้ไหม?</Content>
         </Dialog>
         <Dialog ID="107" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki5</VoiceFile>
-          <Content>Can do.</Content>
+          <Content>ทำได้</Content>
         </Dialog>
         <Dialog ID="108" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen61</VoiceFile>
-          <Content>Kuh…</Content>
+          <Content>เฮย…</Content>
         </Dialog>
         <Dialog ID="109" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki6-02</VoiceFile>
-          <Content>Grazed her shoulder.</Content>
+          <Content>ฉันเล็งไปที่ไหล่ของเธอ.</Content>
         </Dialog>
         <Dialog ID="110" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei8</VoiceFile>
-          <Content>I’ll finish her off.</Content>
+          <Content>ฉันจะจัดการที่เหลือเอง</Content>
         </Dialog>
         <Dialog ID="111" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia1</VoiceFile>
-          <Content>A bullet crafted by Atelier Logic…</Content>
+          <Content>กระสุนที่สร้างขึ้นโดย Atelier Logic…</Content>
         </Dialog>
         <Dialog ID="112" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia2</VoiceFile>
-          <Content>Why, those are some expensive bullets you have there, don’t you friends?</Content>
+          <Content>ทำไมกัน นั่นเป็นกระสุนราคาแพงพวกคุณได้มายังไงกันสหาย?</Content>
         </Dialog>
         <Dialog ID="113" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei9</VoiceFile>
-          <Content>The Blue Reverberation!</Content>
+          <Content>เสียงกังวาลสีคราม!</Content>
         </Dialog>
         <Dialog ID="114" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen62</VoiceFile>
-          <Content>You are…</Content>
+          <Content>คุณคือ…</Content>
         </Dialog>
         <Dialog ID="115" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen63-01</VoiceFile>
-          <Content>Ah, could you be the person my father always talked about…?</Content>
+          <Content>อา คุณเป็นคนที่พ่อของฉันพูดถึงอยู่เสมอสินะ…?</Content>
         </Dialog>
         <Dialog ID="116" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia3</VoiceFile>
-          <Content>Mmm… I guess.</Content>
+          <Content>อืมม… คิดว่านะ.</Content>
         </Dialog>
         <Dialog ID="117" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia4-02</VoiceFile>
-          <Content>Say, I need you right now… Would you like to come with me?</Content>
+          <Content>ฉันต้องการคุณตอนนี้... คุณช่วยมากับฉันหน่อยได้ไหม?</Content>
         </Dialog>
         <Dialog ID="118" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำแห่งฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen64</VoiceFile>
-          <Content>Yes… Of course! I’ve been waiting for you for my whole life, a perfect fit with the gear that is me…</Content>
+          <Content>แน่นอน! ฉันรอคุณมาทั้งชีวิตแล้ว มันช่างลงตัวกับฟันเฟืองของฉัน…</Content>
         </Dialog>
         <Dialog ID="119" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia5-02</VoiceFile>
-          <Content>Why thank you.</Content>
+          <Content>งั้นขอบคุณนะ</Content>
         </Dialog>
         <Dialog ID="120" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki7-02</VoiceFile>
-          <Content>No you don’t.</Content>
+          <Content>ไม่แกอย่า.</Content>
         </Dialog>
         <Dialog ID="121" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia6-02</VoiceFile>
-          <Content>But first, these friends need some attention…</Content>
+          <Content>แต่ก่อนอื่นเลย ต้องสนใจสหายเหล่านี้ก่อน…</Content>
         </Dialog>
         <Dialog ID="122" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia7</VoiceFile>
-          <Content>Pluto. Could you look after Eileen in the meantime?</Content>
+          <Content>พลูโต คุณช่วยดูแลไอลีนในระหว่างนี้ได้ไหม?</Content>
         </Dialog>
         <Dialog ID="123" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei10</VoiceFile>
-          <Content>Run!</Content>
+          <Content>หนีเร็ว!</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>สถานที่: An Underground Passage</PlaceName>
+        <PlaceName>สถานที่: ทางใต้ดิน</PlaceName>
         <Dialog ID="124" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan7-01</VoiceFile>
-          <Content>The hell is going on? Why would the Blue Reverberation be here?</Content>
+          <Content>นรกอะไรกันวะเนี่ยทำไมเสียงกังวาลสีครามถึงมาอยู่ที่นี่ได้?</Content>
         </Dialog>
         <Dialog ID="125" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei11</VoiceFile>
-          <Content>No idea. Dammit, it looks like he’s trying to kill us.</Content>
+          <Content>ไม่มีเวลาคิดแล้ว ให้ตายเถอะดูเหมือนว่าเขาพยายามจะฆ่าเรานะ</Content>
         </Dialog>
         <Dialog ID="126" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan8</VoiceFile>
-          <Content>If we screw this job up, we’re gonna be bankrupt from all the bullets we’ve wasted!</Content>
+          <Content>ถ้าเราพลาดงานนี้ เราจะล้มละลายจากกระสุนทั้งหมดที่เราเสียไปเลยนะ!</Content>
         </Dialog>
         <Dialog ID="127" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki8-01</VoiceFile>
-          <Content>You literally just saw the Blue Reverberation deflect our bullets.</Content>
+          <Content>คุณเพิ่งเห็นนี่ว่าเสียงกังวาลสีครามปัดกระสุนของเราได้แบบง่ายๆเลย</Content>
         </Dialog>
         <Dialog ID="128" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei12-01</VoiceFile>
-          <Content>We’re no match for him in any way. Forget about anything else, we should run away and survive for now.</Content>
+          <Content>เราไม่ใช้คู่ต่อสู้ของเขาลืมเรื่องอื่นไปซะ เราควรวิ่งหนีและเอาชีวิตรอดให้ได้ก่อน</Content>
         </Dialog>
         <Dialog ID="129" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki9</VoiceFile>
-          <Content>We’re almost to the exit.</Content>
+          <Content>เราเกือบจะถึงทางออกแล้ว</Content>
         </Dialog>
         <Dialog ID="130" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia8</VoiceFile>
-          <Content>Hiya, friends.</Content>
+          <Content>สวัสดีสหาย</Content>
         </Dialog>
         <Dialog ID="131" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia9-01</VoiceFile>
-          <Content>Who could’ve made such an adorable little request, I wonder?</Content>
+          <Content>ใครเป็นคนให้คำขอเล็กๆน้อยๆ ที่น่ารักแบบนี้แก่พวกคุณหรอครับ?</Content>
         </Dialog>
         <Dialog ID="132" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei13</VoiceFile>
-          <Content>Aw hell, to the left!</Content>
+          <Content>อ๊ะ ไปทางซ้าย!</Content>
         </Dialog>
         <Dialog ID="133" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan9</VoiceFile>
-          <Content>Pant, pant…</Content>
+          <Content>เหนื่อยหอบ…</Content>
         </Dialog>
         <Dialog ID="134" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia10-01</VoiceFile>
-          <Content>Ah~ You’re not getting anywhere with your sluggish feet, don’t you see?</Content>
+          <Content>อา~ ความเร็วแค่นี้ของพวกคุณหนีไม่พ้นหรอก?</Content>
         </Dialog>
         <Dialog ID="135" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia11-01</VoiceFile>
-          <Content>Unless a lifeline were to come down from the heavens that is, no…?</Content>
+          <Content>เว้นแต่จะมีปาฏิหาริย์นะ แต่ไม่มีนี่สิ…?</Content>
         </Dialog>
         <Dialog ID="136" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei14</VoiceFile>
-          <Content>Dammit! Maybe we should drop our guns…</Content>
+          <Content>ไอ้เวรเอ๊ย! บางทีเราควรทิ้งปืนนะ…</Content>
         </Dialog>
         <Dialog ID="137" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan10-01</VoiceFile>
-          <Content>Are you nuts? These were hella expensive!</Content>
+          <Content>มีสมองมั้ย? สิ่งเหล่านี้มีราคาแพงมากเลยนะ!</Content>
         </Dialog>
         <Dialog ID="138" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki10</VoiceFile>
-          <Content>We’re never throwing them away.</Content>
+          <Content>เราไม่ควรทิ้งนะเว้ย</Content>
         </Dialog>
         <Dialog ID="139" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei15-01</VoiceFile>
-          <Content>But we can’t hide forever, either.</Content>
+          <Content>แต่เราก๊ไม่สามารถซ่อนตลอดไปได้เหมือนกัน</Content>
         </Dialog>
         <Dialog ID="140" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki11-01</VoiceFile>
-          <Content>Liwei, this is…</Content>
+          <Content>ลี่เหว่ย นี่แหละ…</Content>
         </Dialog>
         <Dialog ID="141" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei16</VoiceFile>
-          <Content>What’s that, an invitation?</Content>
+          <Content>นี้คือคำเชิญ?</Content>
         </Dialog>
         <Dialog ID="142" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan11-01</VoiceFile>
-          <Content>From ‘The Library’ or whatever? Heard that the Hana designated it as an Urban Plague now.</Content>
+          <Content>จาก 'ห้องสมุด' หรืออะไรก็ตามได้ยินว่า ฮานา กำหนดให้มันเป็นภัยประจำเมืองในเมืองในขณะนี้</Content>
         </Dialog>
         <Dialog ID="143" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia12-01</VoiceFile>
-          <Content>Aw, look at you, all clustered together in the corner…</Content>
+          <Content>อ๊ะ ดูสิดูทุกคนกระจุกตัวอยู่ที่มุมห้องนั้นสิ…</Content>
         </Dialog>
         <Dialog ID="144" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia13-01</VoiceFile>
-          <Content>You’re like a flock of cute little chicks gathered round in the cold.</Content>
+          <Content>พวกคุณเป็นเหมือนฝูงลูกไก่ตัวน้อยน่ารักรวมตัวกันท่ามกลางความหนาวเย็นเลย</Content>
         </Dialog>
         <Dialog ID="145" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei17</VoiceFile>
-          <Content>Blue Reverberation, we apologize if we interrupted your business.</Content>
+          <Content>คุณเสียงกังวาลสีคราม เราต้องขออภัยหากเรามาขัดจังหวะธุรกิจของคุณด้วยนะครับ.</Content>
         </Dialog>
         <Dialog ID="146" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei18</VoiceFile>
-          <Content>We promise to forget about anything we’ve seen and heard here, so could you let us go?</Content>
+          <Content>พวกเราสัญญาเลยว่าจะลืมทุกสิ่งที่เราได้เห็นและได้ยินที่นี่ ดังนั้นคุณช่วยปล่อยเราไปได้ไหมครับ?</Content>
         </Dialog>
         <Dialog ID="147" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia14</VoiceFile>
-          <Content>What…? Hahaha…</Content>
+          <Content>อะไรนะ…? ฮ่าๆๆๆ…</Content>
         </Dialog>
         <Dialog ID="148" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia15-01</VoiceFile>
-          <Content>Okay, under one condition: Can you tell me who gave you this request?</Content>
+          <Content>ตกลง แต่บอกฉันได้ไหมว่าใครให้คำขอนี้กับพวกคุณ?</Content>
         </Dialog>
         <Dialog ID="149" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki12</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="150" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia16-01</VoiceFile>
-          <Content>I’ll give you ten seconds.</Content>
+          <Content>ฉันจะให้เวลาคุณสิบวินาทีนะ</Content>
         </Dialog>
         <Dialog ID="151" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei19</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="152" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia17</VoiceFile>
-          <Content>Nine…</Content>
+          <Content>เก้า…</Content>
         </Dialog>
         <Dialog ID="153" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan12-01</VoiceFile>
-          <Content>Gah, whatevs! Liwei! Do something with that invitation thing!</Content>
+          <Content>ลี่เหว่ย! ช่วยทำอะไรบางอย่างกับคำเชิญนั้นที!</Content>
         </Dialog>
         <Dialog ID="154" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia18</VoiceFile>
-          <Content>Six…</Content>
+          <Content>หก…</Content>
         </Dialog>
         <Dialog ID="155" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei20</VoiceFile>
-          <Content>Anyone got a pen? We need something to sign the paper wi—</Content>
+          <Content>ใครมีปากกาบ้าง? เราต้องการบางอย่างเพื่อเซ็นชื่อในกระดาษ—</Content>
         </Dialog>
         <Dialog ID="156" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia19-01</VoiceFile>
-          <Content>Ah, you can use mine.</Content>
+          <Content>อา คุณสามารถใช้ของผมได้นะ</Content>
         </Dialog>
         <Dialog ID="157" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia20-01</VoiceFile>
-          <Content>Take your time now.</Content>
+          <Content>ใช้เวลาของคุณตอนนี้ให้เต็มที่เลย</Content>
         </Dialog>
         <Dialog ID="158" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia21-01</VoiceFile>
-          <Content>Four…</Content>
+          <Content>สี่…</Content>
         </Dialog>
         <Dialog ID="159" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki13</VoiceFile>
-          <Content>Crazy bastard…</Content>
+          <Content>ไอ้บ้าเอ๊ย…</Content>
         </Dialog>
         <Dialog ID="160" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei21-01</VoiceFile>
-          <Content>Quick, sign your names here!</Content>
+          <Content>รีบเซ็นชื่อเร็ว!</Content>
         </Dialog>
         <Dialog ID="161" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia22</VoiceFile>
-          <Content>Three…</Content>
+          <Content>สาม…</Content>
         </Dialog>
         <Dialog ID="162" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch4_Fullstop_ep1_argalia23</VoiceFile>
-          <Content>Now~ The real show is only beginning, wouldn’t you agree?</Content>
+          <Content>ตอนนี้~ การแสดงที่แท้จริงเพิ่งจะเริ่มต้นเท่านั้น คุณเห็นด้วยใช้ไหม?</Content>
         </Dialog>
         <Dialog ID="163" Model="플루토">
           <Teller>Pluto</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Fullstop_ep1_pluto1-01</VoiceFile>
-          <Content>But of course.</Content>
+          <Content>แน่นอน</Content>
         </Dialog>
       </Place>
       <Place>
@@ -2044,334 +2044,334 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland1</VoiceFile>
-          <Content>The Blue Reverberation…</Content>
+          <Content>เสียงกังวาลสีคราม…</Content>
         </Dialog>
         <Dialog ID="165" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela1</VoiceFile>
-          <Content>That name sounds similar to ‘The Red Mist’.</Content>
+          <Content>ชื่อนั้นฟังดูคล้ายกับ ‘หมอกแดง’.</Content>
         </Dialog>
         <Dialog ID="166" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland2</VoiceFile>
-          <Content>You got that right. Both of them are top-grade Fixers that received a color from the Hana Association.</Content>
+          <Content>เธอเข้าใจถูกต้องแล้ว ทั้งสองคนเป็นฟิกเซอร์ระดับแนวหน้าที่ได้รับตำแหน่งเกรดสีจาก สมาคมฮานา</Content>
         </Dialog>
         <Dialog ID="167" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland3</VoiceFile>
-          <Content>They’re a cut above Grade 1.</Content>
+          <Content>พวกเขาเก่งกว่าเกรด 1 อีก</Content>
         </Dialog>
         <Dialog ID="168" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela2</VoiceFile>
-          <Content>It’s curious that such a capable Fixer showed up so early.</Content>
+          <Content>น่าแปลกใจที่ ฟิกเซอร์ ที่มีความสามารถขนาดนี้ปรากฏตัวเร็วกว่าที่คิด</Content>
         </Dialog>
         <Dialog ID="169" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland4</VoiceFile>
-          <Content>There are lots of nutcases among Fixers, but the Blue Reverberation is on whole ‘nother level; he’s a certified lunatic.</Content>
+          <Content>มีงานที่ยากมากในหมู่ ฟิกเซอร์ แต่เสียงกังวาลสีครามนั้นอยู่ในอีกระดับหนึ่งเลยจากทั้งหมด เขาไม่ต่างจากไอ้บ้าที่ผ่านการรับรองแล้ว</Content>
         </Dialog>
         <Dialog ID="170" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela3</VoiceFile>
-          <Content>Is he famous?</Content>
+          <Content>เขามีชื่อเสียงขนาดนั้นเลย?</Content>
         </Dialog>
         <Dialog ID="171" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland5</VoiceFile>
-          <Content>Oh, he is. He’s certainly got skills, even if he’s bonkers.</Content>
+          <Content>โอ้ แน่นอนว่าเขามีทักษะแม้ว่าเขาจะเป็นไอบ้าก็ตาม</Content>
         </Dialog>
         <Dialog ID="172" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela4</VoiceFile>
-          <Content>He does appear to be skilled, seeing how he blocked those gunshots.</Content>
+          <Content>ดูเหมือนว่าเขาจะเก่งนะ เมื่อเห็นว่าเขาป้องกันกระสุนปืนเหล่านั้นได้ง่ายๆเลย</Content>
         </Dialog>
         <Dialog ID="173" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland6</VoiceFile>
-          <Content>That’s why guns aren’t used too often. They’re not very effective against actually competent opponents.</Content>
+          <Content>นั่นเป็นสาเหตุที่คนไม่นิยมใช้ปืนกันมาก พวกมันไม่ได้มีประสิทธิภาพมากกับคู่ต่อสู้ที่มีความสามารถสูงจริงๆ</Content>
         </Dialog>
         <Dialog ID="174" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela5</VoiceFile>
-          <Content>Now that you mention it, the majority of guests we’ve had so far didn’t carry firearms. Is there any other reason guns aren’t used?</Content>
+          <Content>เมื่อคุณพูดถึงมันแล้ว แขกส่วนใหญ่ที่เรามีจนถึงตอนนี้ไม่ได้พกอาวุธปืนมีเหตุผลอื่นอีกไหมที่พวกเขาไม่ได้ใช้ปืนกันเลย?</Content>
         </Dialog>
         <Dialog ID="175" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland7</VoiceFile>
-          <Content>It’s the cost. They’re awfully expensive. It’s just not worth it most of the time.</Content>
+          <Content>มันมีค่าใช้จ่ายที่แพง มันไม่คุ้มที่จะใช้กับเวลาส่วนใหญ่</Content>
         </Dialog>
         <Dialog ID="176" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland8</VoiceFile>
-          <Content>Guns are pricey on their own, but bullets are plain ridiculous, like those poor folks said.</Content>
+          <Content>ปืนมีราคาแพงด้วยตัวของมันเอง แต่กระสุนนั้นแพงแบบไร้สาระเลยอย่างที่คนพวกนั้นพูดกัน</Content>
         </Dialog>
         <Dialog ID="177" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela6</VoiceFile>
-          <Content>Manufacturing bullets must be quite costly.</Content>
+          <Content>การผลิตกระสุนต้องเสียเงินเยอะเลยสินะ</Content>
         </Dialog>
         <Dialog ID="178" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland9</VoiceFile>
-          <Content>That’s true of course. The biggest factor, though, is the tax the Head levied on firearms.</Content>
+          <Content>แน่นอนว่าเป็นเรื่องจริง ปัจจัยที่ใหญ่ที่สุดคือภาษีที่ถูกเก็บจากอาวุธปืน</Content>
         </Dialog>
         <Dialog ID="179" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland10</VoiceFile>
-          <Content>It depends on the gun, but two full magazines worth of bullets cost almost the same as a decent gun.</Content>
+          <Content>มันขึ้นอยู่กับแต่ละปืนด้วย แต่กระสุนเต็มแม็กกาซีนสองนัดมีราคาเกือบเท่ากับปืนที่ดีเลย</Content>
         </Dialog>
         <Dialog ID="180" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland11</VoiceFile>
-          <Content>Heck, giving your entire Office crew augmentation procedures is probably cheaper than keeping enough bullets in stock for them to use.</Content>
+          <Content>การให้เสริมศักยภาพทีมงานของสำนักงาน น่าจะถูกกว่าการเก็บกระสุนให้เพียงพอสำหรับใช้อีก</Content>
         </Dialog>
         <Dialog ID="181" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland12</VoiceFile>
-          <Content>The cost is so high, it outweighs the benefit by a metric ton. And it’s hard to find a workshop that treats guns or bullets.</Content>
+          <Content>ราคาสูงมาก มันไม่เป็นประโยชน์ในการทำธุรกิจและเป็นการยากที่จะหาเวิร์คช็อปที่ซื้อขายปืนหรือกระสุนด้วย</Content>
         </Dialog>
         <Dialog ID="182" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland13</VoiceFile>
-          <Content>What’s more, workshops aren’t even allowed to craft those without a firearms manufacturing license, which is apparently very tricky to get.</Content>
+          <Content>ยิ่งไปกว่านั้นเวิร์กช็อปไม่ได้รับอนุญาตให้ประดิษฐ์ปืนโดยไม่มีใบอนุญาตด้วย ซึ่งดูเหมือนจะเป็นเรื่องยากมากที่จะได้มันมา</Content>
         </Dialog>
         <Dialog ID="183" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela7</VoiceFile>
-          <Content>What do you think is the reason firearms are made so inaccessible?</Content>
+          <Content>นายคิดว่าอะไรคือสาเหตุที่ทำให้ปืนไม่สามารถเข้าถึงได้?</Content>
         </Dialog>
         <Dialog ID="184" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland14</VoiceFile>
-          <Content>This is just my hunch, but I think they don’t want killings to happen too easily.</Content>
+          <Content>สังหรณ์ของฉันบอกว่า พวกเขาไม่ต้องการให้การฆ่าเกิดขึ้นง่ายเกินไป</Content>
         </Dialog>
         <Dialog ID="185" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela8</VoiceFile>
-          <Content>Killing what?</Content>
+          <Content>ฆ่าง่ายเนี่ยนะ?</Content>
         </Dialog>
         <Dialog ID="186" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland15</VoiceFile>
-          <Content>People in general.</Content>
+          <Content>คนทั่วไปเลย</Content>
         </Dialog>
         <Dialog ID="187" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela9</VoiceFile>
-          <Content>I didn’t quite expect the rulers of this City to be humanitarians.</Content>
+          <Content>ฉันไม่ได้คาดหวังว่าผู้ปกครองของเมืองนี้จะเป็นนักมนุษยธรรมหรอกนะ</Content>
         </Dialog>
         <Dialog ID="188" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland16</VoiceFile>
-          <Content>Oh, not because the Head and the City value human life or anything, obviously.</Content>
+          <Content>เห็นได้ชัดว่าผู้ปกครองและเมืองไม่ได้ให้ความสำคัญกับชีวิตมนุษย์อะไรหรอก</Content>
         </Dialog>
         <Dialog ID="189" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland17</VoiceFile>
-          <Content>It seems like they have this weird… philosophy that the process of a human killing another shouldn’t be trivial or insignificant.</Content>
+          <Content>ดูเหมือนว่าพวกเขามี... ปรัชญาแปลกๆ ที่ว่ากระบวนการของมนุษย์ที่จะฆ่าผู้อื่นไม่ควรเป็นเรื่องเล็กน้อยหรือไม่มีนัยสำคัญ</Content>
         </Dialog>
         <Dialog ID="190" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela10-01</VoiceFile>
-          <Content>How funny. Death can be plenty insignificant, even without guns.</Content>
+          <Content>ตลกดี ความตายก็มาหาอยู่แล้วต่อให้ไม่มีปืนก็ตาม</Content>
         </Dialog>
         <Dialog ID="191" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland18</VoiceFile>
-          <Content>Well, you aren’t wrong there.</Content>
+          <Content>เธอก็พูดไม่ผิดหรอกนะ</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="192" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan13-01</VoiceFile>
-          <Content>Phew… He’s not following us all the way here.</Content>
+          <Content>วุ้ย… เขาไม่ได้ตามเรามาจนถึงที่นี่ใช้ไหม</Content>
         </Dialog>
         <Dialog ID="193" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei22</VoiceFile>
-          <Content>It’s as if some omniscient person is toying with us.</Content>
+          <Content>ราวกับว่ามีคนทีเหนือกว่าพวกเราเล่นกับเราอย่างงั้นแล</Content>
         </Dialog>
         <Dialog ID="194" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki14</VoiceFile>
-          <Content>The Blue Reverberation seemed like he knew everything.</Content>
+          <Content>เสียงกังวาลสีครามเหมือนรู้ทุกอย่างเลย</Content>
         </Dialog>
         <Dialog ID="195" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei23</VoiceFile>
-          <Content>We should be thankful that we survived him somehow.</Content>
+          <Content>เราควรขอบคุณที่เรารอดชีวิตจากเขาด้วยวิธีนี่นะ</Content>
         </Dialog>
         <Dialog ID="196" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan14-01</VoiceFile>
-          <Content>Sigh…</Content>
+          <Content>ถอนหายใจ…</Content>
         </Dialog>
         <Dialog ID="197" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki15-01</VoiceFile>
-          <Content>Don’t get too nervous, Stephan.</Content>
+          <Content>อย่ากังวลเกินไปสเตฟาน</Content>
         </Dialog>
         <Dialog ID="198" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan15-01</VoiceFile>
-          <Content>How can I not be nervous~ We ended up in the Library we know almost nothing about.</Content>
+          <Content>จะไม่กังวลได้ยังไง~ เราลงเอยในห้องสมุดที่เราแทบไม่รู้อะไรเลย</Content>
         </Dialog>
         <Dialog ID="199" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan16-01</VoiceFile>
-          <Content>You know we’re almost outta bullets, right?</Content>
+          <Content>คุณรู้ใช้ไหมว่าเรากระสุนใกล้หมดแล้ว?</Content>
         </Dialog>
         <Dialog ID="200" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan17-01</VoiceFile>
-          <Content>Sigh… What was the point of running away from the Blue Reverb if we’re gonna die here anyway.</Content>
+          <Content>เฮ้อ… จะหนีจากกังวาลสีครามไปทำไม ถ้ายังไงเราก็ต้องตายที่นี้อยู่ดี</Content>
         </Dialog>
         <Dialog ID="201" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki16-01</VoiceFile>
-          <Content>Then we should at least try to die a bit later, obviously.</Content>
+          <Content>อยางน้อยไปตายดาบหน้าก็ดีอยู่แล้วนี้จะไปตายอะไรตรงนั้น</Content>
         </Dialog>
         <Dialog ID="202" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei24-01</VoiceFile>
-          <Content>Humans all die eventually. There’s little use in delaying the inevitable.</Content>
+          <Content>มนุษย์ทุกคนก็ตายในท้ายที่สุดอยู่แล้ว มีเพียงช้าเร็วก็เท่านั้น</Content>
         </Dialog>
         <Dialog ID="203" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan18-01</VoiceFile>
-          <Content>See, he’s got a point.</Content>
+          <Content>ดูสิ เขามีประเด็น</Content>
         </Dialog>
         <Dialog ID="204" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki17-01</VoiceFile>
-          <Content>Don’t worry. I’ll work it out.</Content>
+          <Content>ไม่ต้องกังวลเราจะออกจากที่นี้</Content>
         </Dialog>
         <Dialog ID="205" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela11</VoiceFile>
-          <Content>Greetings, dear guests.</Content>
+          <Content>สวัสดีค่ะแขกที่รัก</Content>
         </Dialog>
         <Dialog ID="206" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan19-01</VoiceFile>
-          <Content>Hellooooooo~~ I’m Stephan, soon to be dead and shelved into your bookcases…</Content>
+          <Content>สวัสดี~~ ฉันชื่อสเตฟาน อีกไม่นานก็ตายและจะเข้าไปอยู่ในตู้หนังสือของคุณใช้หรือเปล่า…</Content>
         </Dialog>
         <Dialog ID="207" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela12</VoiceFile>
-          <Content>You don’t quite appear to be spirited, dear guest. It’s ultimately up to you whether you’ll become a book or return triumphantly with the ones you need.</Content>
+          <Content>คุณดูไม่ค่อยมีความสุขเลยค่ะแขก ท้ายที่สุดแล้วมันขึ้นอยู่กับคุณว่าคุณจะกลายเป็นหนังสือหรือกลับออกไปอย่างมีชัยด้วยตัวคุณเองค่ะ</Content>
         </Dialog>
         <Dialog ID="208" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan20-01</VoiceFile>
-          <Content>Yeah~ Thanks for the kind words…</Content>
+          <Content>จ้าๆ~ ขอบคุณสำหรับคำพูดดีๆ…</Content>
         </Dialog>
         <Dialog ID="209" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki18-01</VoiceFile>
-          <Content>You’re ruining our mood.</Content>
+          <Content>เธอทำเอาเราหมดมูดเลย</Content>
         </Dialog>
         <Dialog ID="210" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei25</VoiceFile>
-          <Content>…Don’t mind him. We’re in a bit of a hurry right now.</Content>
+          <Content>…อย่าสนใจพวกเขาเลย เรากำลังรีบอยู่ในตอนนี้</Content>
         </Dialog>
         <Dialog ID="211" Model="리웨이">
-          <Teller>Liwei</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ลี่เหว่ย</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei26-01</VoiceFile>
-          <Content>We’ll just take care of the business here and go back.</Content>
+          <Content>เราจะทำธุระที่นี่ให้เสร็จแล้วกลับกัน</Content>
         </Dialog>
         <Dialog ID="212" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela13-01</VoiceFile>
-          <Content>I understand. Various guests visit here with their own reasons and purpose.</Content>
+          <Content>ฉันเข้าใจค่ะ แขกหลายคนมาที่นี่ด้วยเหตุผลและจุดประสงค์ที่ต่างกันที่เป็นของตนเอง</Content>
         </Dialog>
         <Dialog ID="213" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela14</VoiceFile>
-          <Content>There have been much more impolite guests, so please do not worry about your attitude.</Content>
+          <Content>ก็มีแขกที่ไม่สุภาพเมือนกัน ดังนั้นโปรดอย่ากังวลเกี่ยวกับทัศนคติของพวกคุณเลย</Content>
         </Dialog>
         <Dialog ID="214" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan21-01</VoiceFile>
-          <Content>I’m getting a bad feeling about this lady, she seems just as eerie as the Blue Reverb…</Content>
+          <Content>ฉันรู้สึกไม่ดีเกี่ยวกับผู้หญิงคนนี้เลย เธอดูน่าขนลุกพอๆกับกังวาลสีคราม…</Content>
         </Dialog>
         <Dialog ID="215" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan22-01</VoiceFile>
-          <Content>Maybe just dying to the Blue Reverb was a better idea than this…</Content>
+          <Content>บางทีการตายทีพี่กังวาลสีครามอาจเป็นความคิดที่ดีกว่านี้ก็ได้…</Content>
         </Dialog>
         <Dialog ID="216" Model="타마키">
-          <Teller>Tamaki</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>ทามากิ</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki19-01</VoiceFile>
-          <Content>Tweet, tweet, tweet… What are you, a parrot? Get inside already.</Content>
+          <Content>เอาแต่บ่นเป็นนกแก้วนกขุนทองอยู่ได้? เข้าไปข้างในได้แล้ว.</Content>
         </Dialog>
         <Dialog ID="217" Model="스테판">
-          <Teller>Stephan</Teller>
-          <Title>Full-Stop Fixer</Title>
+          <Teller>สเตฟาน</Teller>
+          <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan23-01</VoiceFile>
-          <Content>Fine, hothead…</Content>
+          <Content>ก็ได้ยัยหัวร้อน…</Content>
         </Dialog>
         <Dialog ID="218" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela15</VoiceFile>
-          <Content>May you find your book in this place.</Content>
+          <Content>ขอให้คุณพบหนังสือของคุณใน ณ ที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -2383,43 +2383,43 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland19</VoiceFile>
-          <Content>That Stephan fellow turned into a book just as he expected.</Content>
+          <Content>คนที่ชื่อสเตฟานคนนั้นกลายเป็นหนังสืออย่างสมใจละ</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland20</VoiceFile>
-          <Content>It’s kinda sorry to see him keep railing at the world till the end.</Content>
+          <Content>มันค่อนข้างหน้าเห็นใจที่เห็นเขาเอาแต่ด่าทอโลกจนถึงสุดท้าย</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela16</VoiceFile>
-          <Content>Do you think it’s wrong to blame the world?</Content>
+          <Content>นายคิดว่ามันผิดไหมที่จะโทษโลกนะ?</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland21</VoiceFile>
-          <Content>Oh no, nothing wrong with that. It’s not like I think he was weak-willed for putting the blame on this world for his miseries.</Content>
+          <Content>โอ้ ไม่ ไม่มีอะไรผิดเลยกับเรื่องนี้ ไม่ใช่ว่าฉันคิดว่าเขาอ่อนแอแล้วเอาแต่โทษโลกนี้กับการตายของตัวเองหรอกนะ</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland22</VoiceFile>
-          <Content>It’s just that I pity myself for living in that same world. I’m sorry that I keep trying not to fault this world.</Content>
+          <Content>แค่สงสารว่าตัวเองที่ต้องอยู่ในโลกใบนี้กับพวกเขา ฉันจะพยายามไม่โทษโลกนี้ละกัน</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Fullstop_ep1_angela17</VoiceFile>
-          <Content>I curse this world.</Content>
+          <Content>แต่ฉันขอสาปแช่งโลกนี้นะ</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland23</VoiceFile>
-          <Content>Same, to be honest.</Content>
+          <Content>เหมือนกันเลย</Content>
         </Dialog>
       </Place>
     </Episode>
