@@ -16,43 +16,43 @@
   </PassiveDesc>
 
   <PassiveDesc ID="1302014">
-    <Name>Meat Gear: Demise</Name>
+    <Name>กายาฟันเฟือง: มรณะ</Name>
     <Desc>On the Scene after which a Gear Worshipper dies, uses the Combat Page 'Thought Gear: Brainwash'.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="1302015">
-    <Name>Zeal of the Believers</Name>
+    <Name>แรงใจผู้ศรัทธา</Name>
     <Desc>Worshippers that are alive by the end of a phase fully recover HP and Stagger Resist.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="1302016">
-    <Name>Meat Gear: Role</Name>
+    <Name>กายาฟันเฟือง: บทบาท</Name>
     <Desc>Whenever a Gear Worshipper is defeated, Eileen takes 125 Stagger damage.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="1302017">
-    <Name>Faith of the Believers</Name>
+    <Name>แรงศรัทธาของผู้ยึดมั่น</Name>
     <Desc>When Eileen's HP reaches 350, it will not drop below that threshold until the phase shifts; the same occurs at 150 HP. After Eileen's HP reaches a threshold, the battle will progress to the next phase.</Desc>
   </PassiveDesc>
 
   <!--뒤틀림-->
   <PassiveDesc ID="1402011">
-    <Name>Fumigating Smoke</Name>
+    <Name>รมควัน</Name>
     <Desc>Every Scene, all allies gain Smoke equal to the amount of Smoke this character has.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="1402012">
-    <Name>Aerosol Diffusion</Name>
+    <Name>ละอองควันแผ่ซ่าน</Name>
     <Desc>While alive, allies gain the effect of 'Puffy Brume'.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="1402013">
-    <Name>Oxide Overload</Name>
+    <Name>ออกไซด์กัดกร่อน</Name>
     <Desc>Upon death, allies are inflicted with 10 Smoke and lose the effect of 'Puffy Brume'.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="1402014">
-    <Name>Prognosis</Name>
+    <Name>ลางบอกเหตุ</Name>
     <Desc>Every 5 Scenes: a copy of 'Thought Gear: Advent' is added to hand, which will be used the same Scene.</Desc>
   </PassiveDesc>
  

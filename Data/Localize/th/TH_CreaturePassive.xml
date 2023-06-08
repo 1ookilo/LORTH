@@ -22,46 +22,46 @@
     <Desc>Plays a page that contains a Lie every 2~3 Scenes which shows false information.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003014">
-    <Name>Caught Long-nosed</Name>
+    <Name>คนโกหกจมูกจะยืด</Name>
     <Desc>When clashing against 'Lying is Bad!' while lying, all dice lose 4 Power.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003015">
-    <Name>Joyous Fible-fable</Name>
+    <Name>โป้ปด จับไม่ได้~~~</Name>
     <Desc>While lying, all dice gain +4 Power if the character doesn't clash against 'Lying is Bad!'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003016">
-    <Name>Why is it Bad?</Name>
+    <Name>โกหกมันแย่ตรงไหน?</Name>
     <Desc>After the Lie has been sniffed out, all Pinocchios gain 2 Feeble and 2 Disarm next Scene and all Stagger damage resistances change to "Weak".</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003018">
-    <Name>Lalala~</Name>
+    <Name>ลั้ลลัลลา~</Name>
     <Desc>If the Lie isn't busted, all Pinocchios gain 4 Strength and 4 Endurance next Scene.</Desc>
   </PassiveDesc>
   <!-- 피노키오 : 호기심쟁이 -->
   <PassiveDesc ID="1003021">
-    <Name>Take After</Name>
+    <Name>ฉันก็มี</Name>
     <Desc>Copies the first Assistant Librarian's Combat Bookshelf (deck).</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003023">
-    <Name>A Song in Backward</Name>
+    <Name>บทเพลงย้อนกลับ</Name>
     <Desc>While this character is alive, the Cost of pages in the hands of all librarians is randomized each Scene. (4-Cost pages excluded)</Desc>
   </PassiveDesc>
   <!-- 피노키오 : 따라쟁이 -->
   <PassiveDesc ID="1003031">
-    <Name>Rip Off</Name>
+    <Name>เลียนแบบเสมือน</Name>
     <Desc>Copies the second Assistant Librarian's Combat Bookshelf (deck).</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003033">
-    <Name>A Song for All</Name>
+    <Name>บทเพลงแด่ทุกคน</Name>
     <Desc>While this character is alive, all Pinocchios gain either 2 Strength or 2 Endurance at the start of each Scene.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="101011">
-    <Name>Dying Flame</Name>
+    <Name>เพลิงมรนัยสิ้น</Name>
     <Desc>Lose 50% of Max HP and become Staggered when an ally dies.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="101012">
-    <Name>Ashes</Name>
+    <Name>ธุลี</Name>
     <Desc>Lose all Light upon becoming Staggered.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="102011">
@@ -69,11 +69,11 @@
     <Desc>Reduce the cost of 'Nostalgic Embrace of the Old Days' by 1 after engaging in a clash.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="201011">
-    <Name>Wrath</Name>
+    <Name>โทสะ</Name>
     <Desc>Deal double Stagger damage on successful attacks.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="201012">
-    <Name>Fear</Name>
+    <Name>หวาดกลัว</Name>
     <Desc>All dice lose 4 Power when the character has status effects.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="202011">
@@ -85,7 +85,7 @@
     <Desc>Dice gain different amounts of Power depending on the current face.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="302021">
-    <Name>Attracted</Name>
+    <Name>ถูกดึงดูด</Name>
     <Desc>Prioritizes targets with Bleed.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="401011">
@@ -97,47 +97,47 @@
     <Desc>Restore 10% HP at the start of the Scene. Does not activate if the current HP is 1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="402012">
-    <Name>Don't Leave Me</Name>
+    <Name>อย่าทิ้งฉันไป~</Name>
     <Desc>HP does not go below 1; becomes Staggered upon taking lethal damage. After two Scenes, recover HP equal to the current HP of another ally. If all allies have 1 HP at the start of the Scene, die.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="402013">
-    <Name>Parting Tears</Name>
+    <Name>น้ำตาแห่งกรแยกจาก</Name>
     <Desc>At the start of the Scene, if there is an ally with 1 HP (including self), all characters lose 10% of their Max HP.</Desc>
   </PassiveDesc>
 
   <!-- 요정 -->
   <PassiveDesc ID="103011">
-    <Name>Momentary Satiation</Name>
+    <Name>ท้องแน่นครู่หนึ่ง</Name>
     <Desc>If an ally with Prepared Meat status has 1 HP, consume it at the start of the Scene and gain 10 Fragile, Feeble, Disarm for the duration of that Scene.</Desc>  
   </PassiveDesc>
   <!-- 요정 -->
   <PassiveDesc ID="103012">
-    <Name>Ravenousness</Name>
+    <Name>กระหายคลั่ง</Name>
     <Desc>If HP goes down to 25% or lower, kill all allies and gain 30 Strength at the end of the Scene if no other allies are present.</Desc>
   </PassiveDesc>
   <!-- 요정 -->
   <PassiveDesc ID="103021">
-    <Name>Hunger</Name>
+    <Name>หิวโหย</Name>
     <Desc>At the end of each Scene, lose 6 HP and gain 2 Strength if HP is 50% or lower.</Desc>
   </PassiveDesc>
   <!-- 요정 -->
   <PassiveDesc ID="103022">
-    <Name>Care</Name>
+    <Name>ปกปักษ์</Name>
     <Desc>At the start of each Scene, restore 10 HP. HP does not drop below 1 until the Queen dies.</Desc>
   </PassiveDesc>
 
   <!-- 거미봉오리 -->
   <PassiveDesc ID="303011">
-    <Name>Track</Name>
+    <Name>ล่าหัว</Name>
     <Desc>Target foes that have killed an ally.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="303012">
-    <Name>The Hunt Begins</Name>
+    <Name>ได้เวลาออกล่า</Name>
     <Desc>Become active and target foes for two Scenes after an ally dies.</Desc>
   </PassiveDesc>
   <!-- 거미봉오리 -->
   <PassiveDesc ID="303021">
-    <Name>Dinnertime!</Name>
+    <Name>ถึงเวลามื้อเย็น!</Name>
     <Desc>Targets foes with the 'Cocoon' status effect.</Desc>
   </PassiveDesc>
 
@@ -152,13 +152,13 @@
     <Desc>Take no damage from Ranged pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="403013">
-    <Name>Unbearable Pleasure</Name>
+    <Name>ความสุขที่เกินต้าน</Name>
     <Desc>At the start of each Scene, characters restore 1 Light for each page of 'Pleasure' in their hand. On hit, if the target has three pages of 'Pleasure', deal 20 damage and exhaust those pages.</Desc>
   </PassiveDesc>
 
 	<!-- 노래하는 기계 -->
 	<PassiveDesc ID="203011">
-		<Name>The Machine that Sings</Name>
+		<Name>เครื่องจักร์ที่ร้องเพลงได้</Name>
 		<Desc>Cannot be targeted. Does not act. Takes no damage.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="203012">
@@ -172,12 +172,12 @@
 
   <!-- 증오의 여왕 -->
   <PassiveDesc ID="501011">
-    <Name>Adverse Change</Name>
+    <Name>เปลี่ยนผันที่เงาร้าย</Name>
     <Desc>When the Hysteria gauge is filled, transform. The Hysteria gauge rises upon losing clashes or being attacked by marked characters, and decreases upon winning clashes or attacking marked characters. The screen pinkens from left to right as the gauge fills.
 At the end of the Scene, restore all Light and draw 2 pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="501012">
-    <Name>In the Name of Hate</Name>
+    <Name>ในนามของความเกลียดชัง</Name>
     <Desc>Uses a page that leaves a "mark" on the target every 2 Scenes. All resistances on the marked character change to "Weak", and the character will be primarily targeted by the Abnormality.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="501013">
@@ -187,15 +187,15 @@ At the end of the Scene, restore all Light and draw 2 pages.</Desc>
 
   <!-- 절망의 기사 본체-->
   <PassiveDesc ID="502011">
-    <Name>Loyal Protection</Name>
+    <Name>ภักดัพิทักษ์ตน</Name>
     <Desc>Cannot be targeted. Does not act.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="502012">
-    <Name>Sorrow</Name>
+    <Name>ความโศกเศร้า</Name>
     <Desc>Give Tears to a random sword every 3 Scenes. If the character is Staggered, activates the Scene after.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="502013">
-    <Name>Despair</Name>
+    <Name>ความสิ้นหวัง</Name>
     <Desc>When a sword with Tears takes lethal damage, falls into Despair next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="502014">
@@ -203,74 +203,74 @@ At the end of the Scene, restore all Light and draw 2 pages.</Desc>
     <Desc>When the Abnormality falls into Despair, all swords fully recover HP and Stagger Resist, and use special Combat Pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="502015">
-    <Name>A Broken Heart</Name>
+    <Name>หัวใจแตกสลาย</Name>
     <Desc>If all swords impale the Abnormality in Despair state, become Staggered and targetable next Scene.</Desc>
   </PassiveDesc>
   <!-- 절망의 기사 칼 -->
   <PassiveDesc ID="502021">
-    <Name>Tears</Name>
+    <Name>น้ำตา</Name>
     <Desc>Gain a Speed die, use special pages, and change resistances while under the effect of Tears.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="502022">
-    <Name>Respite</Name>
+    <Name>พักผ่อน</Name>
     <Desc>Enter a state of suspension upon taking lethal damage. Revives after two Scenes.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="502023">
-    <Name>Sword that Pierces Despair</Name>
+    <Name>ดาบทะลวงความสิ้นหวัง</Name>
     <Desc>If this fails to deal any damage to its target while in Despair state, the sword will impale the Knight of Despair, dealing damage to her.</Desc>
   </PassiveDesc>
 
   <!-- 여왕벌 -->
   <PassiveDesc ID="104011">
-    <Name>Spores</Name>
+    <Name>สปอร์</Name>
     <Desc>If the character was attacked, inflict 1 Spores on all librarians at the start of the next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="104012">
-    <Name>Pronatalism</Name>
+    <Name>ชูชันสร้างแรงงาน</Name>
     <Desc>If there are 2 or fewer Worker Bees alive at the start of the Scene, inflict 2 Spores on all librarians.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="104013">
-    <Name>Metamorphosis</Name>
+    <Name>แปลงสภาพ</Name>
     <Desc>If a librarian dies while under the influence of Spores, spawn a Worker Bee next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="104014">
-    <Name>Pheromones</Name>
+    <Name>ฟีโรโมน</Name>
     <Desc>Uses pages that boost the aggression and loyalty of Worker Bees every 3 Scenes.</Desc>
   </PassiveDesc>
   <!-- 일벌-->
   <PassiveDesc ID="104021">
-    <Name>Loyalty</Name>
+    <Name>ความภักดี</Name>
     <Desc>Target the last foe that attacked the Queen Bee in the previous Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="104022">
-    <Name>Balling Embrace of Death</Name>
+    <Name>ความกล้าสู่การเผชิญความตาย</Name>
     <Desc>If the Queen Bee's HP falls to 20% or below, attacks her.</Desc>
   </PassiveDesc>
 
   <!-- 붉은 두건의 용병 : 용병-->
   <PassiveDesc ID="601011">
-    <Name>End of the Nightmare</Name>
+    <Name>จุดจบของฝันร้าย</Name>
     <Desc>The battle is won if the Mercenary finishes off the Wolf; the battle is lost if the Mercenary dies before the Wolf does.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="601012">
-    <Name>No Hesitation</Name>
+    <Name>ไม่รีรอ</Name>
     <Desc>Uses 'Strike Without Hesitation' every 2-3 Scenes, targeting all characters.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="601013">
-    <Name>Rage</Name>
+    <Name>แรงโกรธ</Name>
     <Desc>When the Rage meter is filled, enters a state of rage. The Rage meter rises upon taking damage from the Wolf, and decreases upon dealing damage to the Wolf. The screen becomes redder as the Rage meter fills. Rage: Lasts 2 Scenes. Gain +2 Strength each Scene, and use Mass Attack pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="601014">
-    <Name>Fury with No Outlet</Name>
+    <Name>โทสะไร้ที่ลง</Name>
     <Desc>If a librarian lands a killing blow on the Wolf, the Abnormality enters an 'Fury with No Outlet' state, and gains additional Max HP and Stagger Resist. Afterwards, recover 50% of Max HP and fully recover Stagger Resist. Fury with No Outlet: Permanently persists. Gain +5 Strength and Haste each Scene, and use Mass Attack pages.</Desc>
   </PassiveDesc>
   <!-- 붉은 두건의 용병 : 늑대 -->
   <PassiveDesc ID="601021">
-    <Name>Roaring Wolf</Name>
+    <Name>หมาป่าคำราม</Name>
     <Desc>Uses 'Howl' every 3~4 Scenes, targeting all characters.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="601022">
-    <Name>Howling Nightmare</Name>
+    <Name>ฝันร้ายคำรามก้อง</Name>
     <Desc>When HP falls to 50% or lower, gain a Speed die and use Howl every Scene.</Desc>
   </PassiveDesc>
 
