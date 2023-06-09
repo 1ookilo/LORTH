@@ -49,7 +49,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia3</VoiceFile>
-          <Content>ให้ฉันเดา, เซคเชิน 2?</Content>
+          <Content>ให้ฉันเดา, สาขา 2?</Content>
         </Dialog>
         <Dialog ID="7" Model="???">
           <Teller>???</Teller>
@@ -1052,19 +1052,19 @@
         <PlaceName>สถานที่: โบสถ์แห่งฟันเฟือง</PlaceName>
         <Dialog ID="0" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen1</VoiceFile>
           <Content>สวัสดีทุกท่าน วันนี้พวกเราจะมาเริ่มพิธีกัน</Content>
         </Dialog>
         <Dialog ID="1" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen2</VoiceFile>
           <Content>วันนี้พวกเรามีสมาชิกใหม่ด้วย</Content>
         </Dialog>
         <Dialog ID="2" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen3</VoiceFile>
           <Content>ความกังวลใดที่ทำให้คุณมาที่แห่งนี่ค่ะ</Content>
         </Dialog>
@@ -1076,7 +1076,7 @@
         </Dialog>
         <Dialog ID="4" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen4-01</VoiceFile>
           <Content>อะไรทำให้คุณรู้สึกมากขนาดนั้นค่ะ?</Content>
         </Dialog>
@@ -1148,19 +1148,19 @@
         </Dialog>
         <Dialog ID="16" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen5</VoiceFile>
           <Content>ฉันเข้าใจความรู้สึกนั้นของคุณค่ะ.</Content>
         </Dialog>
         <Dialog ID="17" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen6</VoiceFile>
           <Content>ทุกคนในเมืองล้วนเหมือนฟันเฟืองที่หมุนไปโดยไม่มีจุดหมาย…</Content>
         </Dialog>
         <Dialog ID="18" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen7</VoiceFile>
           <Content>การอยู่ท่ามกลางฟันเฟืองอาจจะทำให้คุณเหนื่อยช้าลง…</Content>
         </Dialog>
@@ -1172,13 +1172,13 @@
         </Dialog>
         <Dialog ID="20" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen8-01</VoiceFile>
           <Content>อย่างไรก็ตาม…</Content>
         </Dialog>
         <Dialog ID="21" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen9-01</VoiceFile>
           <Content>มันเป็นการไม่ดีที่จะเป็นฟันเฟืองนะคะ?</Content>
         </Dialog>
@@ -1190,61 +1190,61 @@
         </Dialog>
         <Dialog ID="23" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen10</VoiceFile>
           <Content>ปัญหาทั้งหมดเกิดจากการที่คุณไม่ยอมรับความจริงว่าแท้จริงแล้วคุณเป็นฟันเฟืองค่ะ</Content>
         </Dialog>
         <Dialog ID="24" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen11</VoiceFile>
           <Content>มีครั้งหนึ่ง</Content>
         </Dialog>
         <Dialog ID="25" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen12</VoiceFile>
           <Content>หลังจากพ่อจากไป ฉันก็หลงทางไปพักหนึ่ง</Content>
         </Dialog>
         <Dialog ID="26" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen13-02</VoiceFile>
           <Content>คุณจะเห็นได้ว่าพ่อของฉันก็ใช้ชีวิตเหมือนฟันเฟือง.</Content>
         </Dialog>
         <Dialog ID="27" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen14</VoiceFile>
           <Content>เขามักจะตื่นเวลาเดิม ไปที่เดิม และกลับบ้านเวลาเดิมด้วยใบหน้าเดิมๆ…</Content>
         </Dialog>
         <Dialog ID="28" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen15</VoiceFile>
           <Content>พ่อของฉันค้นคว้าเกี่ยวกับฟันเฟือง</Content>
         </Dialog>
         <Dialog ID="29" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen16</VoiceFile>
           <Content>เป้าหมายของเขาคือการแก้ปัญหาเดียวกันกับที่คุณกำลังประสบอยู่ค่ะ</Content>
         </Dialog>
         <Dialog ID="30" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen17</VoiceFile>
           <Content>บางทีเขาอาจเริ่มคล้ายกับสิ่งที่เขาศึกษาโดยไม่รู้ตัวมานานแล้ว</Content>
         </Dialog>
         <Dialog ID="31" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen18</VoiceFile>
           <Content>รอยย่นบนใบหน้าของเขาเริ่มมากขึ้นในขณะที่เขาทำงาน มีลักษณะคล้ายฟันเฟือง…</Content>
         </Dialog>
         <Dialog ID="32" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen19-01</VoiceFile>
           <Content>พ่อของฉันใช้ชีวิตทั้งชีวิตในฐานะฟันเฟืองที่ขึ้นสนิมในเมืองนี้ จนกระทั่งเขาถูกฆ่าโดยคนบางคน</Content>
         </Dialog>
@@ -1256,19 +1256,19 @@
         </Dialog>
         <Dialog ID="34" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen20</VoiceFile>
           <Content>แล้ววันหนึ่งฉันก็เกิดความคิดขึ้นว่า.</Content>
         </Dialog>
         <Dialog ID="35" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen21</VoiceFile>
           <Content>บางทีเราอาจจะเป็นฟันเฟืองที่ถูกเมืองสร้างขึ้นมาก็ได้…</Content>
         </Dialog>
         <Dialog ID="36" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen22</VoiceFile>
           <Content>บางทีความทุกข์ของพวกเราอาจมาจากการพยายามปฏิเสธตัวตนของพวกเราค่ะ…</Content>
         </Dialog>
@@ -1280,13 +1280,13 @@
         </Dialog>
         <Dialog ID="38" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen23</VoiceFile>
           <Content>นั่นสิค่ะ.</Content>
         </Dialog>
         <Dialog ID="39" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen24</VoiceFile>
           <Content>ปัญหาคือคุณมองว่าตัวเองเป็นฟันเฟืองที่ไร้จุดมุ่งหมาย</Content>
         </Dialog>
@@ -1298,31 +1298,31 @@
         </Dialog>
         <Dialog ID="41" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen25</VoiceFile>
           <Content>ใช่ค่ะ. แน่นอนสามารถทำได้.</Content>
         </Dialog>
         <Dialog ID="42" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen26</VoiceFile>
           <Content>สิ่งที่เราต้องทำคือค้นหาจุดมุ่งหมายที่เราเกิดมาเพื่อเชื่อมโยงกัน</Content>
         </Dialog>
         <Dialog ID="43" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen27</VoiceFile>
           <Content>จะทำให้คุณกลายเป็นฟันเฟืองที่พิเศษที่ไม่สามารถหาสิ่งอื่นมาแทนที่ได้</Content>
         </Dialog>
         <Dialog ID="44" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen28</VoiceFile>
           <Content>พวกเราทุกคนคือฟันเฟือง</Content>
         </Dialog>
         <Dialog ID="45" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen29</VoiceFile>
           <Content>มีฟันเฟืองมากมายในโลกนี้ที่มุ่นอยู่กับความเศร้าโศก เพราะพวกเขายังไม่รู้ว่าจะต้องอยู่ที่ไหนและทำอะไรกันแน่</Content>
         </Dialog>
@@ -1340,13 +1340,13 @@
         </Dialog>
         <Dialog ID="48" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen30</VoiceFile>
           <Content>ดูเหล่าผู้คนทั้งหมดที่มารวมตัวกันที่นี่สิ</Content>
         </Dialog>
         <Dialog ID="49" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen31</VoiceFile>
           <Content>พวกเขาล้วนเคยมีใบหน้าเหมือนกับที่คุณเห็นในชีวิตประจำวันใช้ไหม?</Content>
         </Dialog>
@@ -1358,7 +1358,7 @@
         </Dialog>
         <Dialog ID="51" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen32-01</VoiceFile>
           <Content>โปรดวางใจในตัวฉันเถอะน่า</Content>
         </Dialog>
@@ -1370,7 +1370,7 @@
         </Dialog>
         <Dialog ID="53" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen33-01</VoiceFile>
           <Content>เอาล่ะ ขึ้นมาที่นี่ฉันจะให้จุดมุ่งหมายในชีวิตให้แก่คุณ</Content>
         </Dialog>
@@ -1382,7 +1382,7 @@
         </Dialog>
         <Dialog ID="55" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen34</VoiceFile>
           <Content>ค่ะ นั่งลงและผ่อนคลาย เก้าอี้ตัวนี้จะบอกว่าคุณควรเป็นฟันเฟืองแบบไหน</Content>
         </Dialog>
@@ -1394,13 +1394,13 @@
         </Dialog>
         <Dialog ID="57" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen35</VoiceFile>
           <Content>แน่นอน</Content>
         </Dialog>
         <Dialog ID="58" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen36</VoiceFile>
           <Content>โอ้คุณจะกลายเป็น ‘ฟันเฟืองความคิด’.</Content>
         </Dialog>
@@ -1412,19 +1412,19 @@
         </Dialog>
         <Dialog ID="60" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen37</VoiceFile>
           <Content>เป็นเรื่องหายากมากที่คนๆหนึ่งจะได้รับการมอบหมายให้มีเป้าหมายเป็นฟันเฟืองความคิด นะค่ะ?</Content>
         </Dialog>
         <Dialog ID="61" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen38</VoiceFile>
           <Content>พวกเขากำลังช่วยฉันอยู่ตอนนี้</Content>
         </Dialog>
         <Dialog ID="62" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen39</VoiceFile>
           <Content>คุณไม่ต้องห่วง พ่อของฉันก็เป็นฟันเฟืองความคิดเหมือนกัน.</Content>
         </Dialog>
@@ -1436,13 +1436,13 @@
         </Dialog>
         <Dialog ID="64" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen40-01</VoiceFile>
           <Content>ใช้นี้คือพ่อของฉัน… เขาให้ความรู้เกี่ยวกับชีวิตให้แก่ฉันเสมอเลย</Content>
         </Dialog>
         <Dialog ID="65" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen41-01</VoiceFile>
           <Content>ยังไงก็ตามฟันเฟืองก็ต้องต่อกันน้อยหนึ่งอันขึ้นไป</Content>
         </Dialog>
@@ -1454,13 +1454,13 @@
         </Dialog>
         <Dialog ID="67" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen42-01</VoiceFile>
           <Content>ความเจ็บปวดเป็นเพียงอาการชั่วคราว ในไม่ช้ามันก็จะตามมาด้วยความสุขและสมหวังอย่างแท้จริงค่ะ.</Content>
         </Dialog>
         <Dialog ID="68" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen43</VoiceFile>
           <Content>ทุกคน เรามาให้การต้อนรับการมาถึงอย่างมีเกียรติและล้ำค่าของฟันเฟืองความคิดอันใหม่กัน</Content>
         </Dialog>
@@ -1478,7 +1478,7 @@
         </Dialog>
         <Dialog ID="71" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen44</VoiceFile>
           <Content>เมื่อเปลี่ยนเป็นฟันเฟืองแล้ว</Content>
         </Dialog>
@@ -1534,7 +1534,7 @@
           <Teller>ลี่เหว่ย</Teller>
           <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei2</VoiceFile>
-          <Content>ฉันไม่คิดเลยว่าผู้กำกับเซคเชิน 2 ของสมาคมชิ จะให้คำขอแก่สำนักงานของเราเป็นการส่วนตัวอาจมีบางอย่างแปลกๆ เกิดขึ้นก็ได้</Content>
+          <Content>ฉันไม่คิดเลยว่าผู้กำกับสาขา 2 ของสมาคมชิ จะให้คำขอแก่สำนักงานของเราเป็นการส่วนตัวอาจมีบางอย่างแปลกๆ เกิดขึ้นก็ได้</Content>
         </Dialog>
         <Dialog ID="81" Model="스테판">
           <Teller>สเตฟาน</Teller>
@@ -1550,67 +1550,67 @@
         </Dialog>
         <Dialog ID="83" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen45</VoiceFile>
           <Content>อา... ช่างเป็นฟังเฟือนความคิดที่สวยงามเสียนี่กระไร</Content>
         </Dialog>
         <Dialog ID="84" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen46-01</VoiceFile>
           <Content>ฉันจะให้เกียรติคุณมารับใช้ฉัน</Content>
         </Dialog>
         <Dialog ID="85" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen47</VoiceFile>
           <Content>ในไม่ช้าคุณจะเข้าใจว่าการเป็นฟันเฟืองที่มีจุดมุ่งหมายนั้นมีความสุขเพียงใด</Content>
         </Dialog>
         <Dialog ID="86" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen48-01</VoiceFile>
           <Content>ใช่. คงต้องใช้เวลาสักพักในการปรับตัว</Content>
         </Dialog>
         <Dialog ID="87" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen49</VoiceFile>
           <Content>ให้เริ่มหมุนทีละนิด</Content>
         </Dialog>
         <Dialog ID="88" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen50</VoiceFile>
           <Content>ดีหมุนพร้อมกับคนอื่นๆ หมุนเบาๆ... ทีละรอบ…</Content>
         </Dialog>
         <Dialog ID="89" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen51</VoiceFile>
           <Content>พ่อของฉันยินดีที่จะช่วยคุณเอง.</Content>
         </Dialog>
         <Dialog ID="90" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen52</VoiceFile>
           <Content>ดูสิ? มันทำให้คุณรู้สึกมีความสุขใช่ไหมล่ะ?</Content>
         </Dialog>
         <Dialog ID="91" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen53</VoiceFile>
           <Content>ฉันดีใจนะที่รู้ว่าคุณมีความสุข</Content>
         </Dialog>
         <Dialog ID="92" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen54</VoiceFile>
           <Content>สาวกที่รัก! วันนี้ฟังเฟือนที่หลงทางได้พบกับหนทางสู่ความสุขแล้ว!</Content>
         </Dialog>
         <Dialog ID="93" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen55</VoiceFile>
           <Content>ขอสรรเสริญแก่พ่อของฉัน!</Content>
         </Dialog>
@@ -1622,7 +1622,7 @@
         </Dialog>
         <Dialog ID="95" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen56-01</VoiceFile>
           <Content>…ฮะ? คุณหมายความว่าไง, “ระวังตัว”…?</Content>
         </Dialog>
@@ -1634,25 +1634,25 @@
         </Dialog>
         <Dialog ID="97" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen57-01</VoiceFile>
           <Content>วะ… เกิดอะไรขึ้น…?</Content>
         </Dialog>
         <Dialog ID="98" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen58-01</VoiceFile>
           <Content>ฟันเฟือง…ฟันเฟืองผู้น่าสงสารของฉัน…</Content>
         </Dialog>
         <Dialog ID="99" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen59-01</VoiceFile>
           <Content>ได้โปรดอย่าทำแบบนี้… ไม่ว่าคุณจะเป็นใครได้โปรดอย่ายุ่งกับพวกเราเลย…</Content>
         </Dialog>
         <Dialog ID="100" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen60-01</VoiceFile>
           <Content>เราเพียงต้องการมีชีวิตที่มีความสุขตามเป้าหมายที่ลิขิตไว้เอง…</Content>
         </Dialog>
@@ -1700,7 +1700,7 @@
         </Dialog>
         <Dialog ID="108" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen61</VoiceFile>
           <Content>เฮย…</Content>
         </Dialog>
@@ -1736,13 +1736,13 @@
         </Dialog>
         <Dialog ID="114" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen62</VoiceFile>
           <Content>คุณคือ…</Content>
         </Dialog>
         <Dialog ID="115" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen63-01</VoiceFile>
           <Content>อา คุณเป็นคนที่พ่อของฉันพูดถึงอยู่เสมอสินะ…?</Content>
         </Dialog>
@@ -1760,7 +1760,7 @@
         </Dialog>
         <Dialog ID="118" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำแห่งฟันเฟือง</Title>
+          <Title>ผู้นำนิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen64</VoiceFile>
           <Content>แน่นอน! ฉันรอคุณมาทั้งชีวิตแล้ว มันช่างลงตัวกับฟันเฟืองของฉัน…</Content>
         </Dialog>
@@ -2134,7 +2134,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland10</VoiceFile>
-          <Content>มันขึ้นอยู่กับแต่ละปืนด้วย แต่กระสุนเต็มแม็กกาซีนสองนัดมีราคาเกือบเท่ากับปืนที่ดีเลย</Content>
+          <Content>มันขึ้นอยู่กับแต่ละปืนด้วย แต่กระสุนเต็มแม็กกาซีนสองแม็กกาซีนมีราคาเกือบเท่ากับปืนที่ดีเลย</Content>
         </Dialog>
         <Dialog ID="180" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -2188,7 +2188,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland16</VoiceFile>
-          <Content>เห็นได้ชัดว่าผู้ปกครองและเมืองไม่ได้ให้ความสำคัญกับชีวิตมนุษย์อะไรหรอก</Content>
+          <Content>เห็นได้ชัดว่าผู้ปกครองและเมืองไม่ได้ให้ความสำคัญกับชีวิตมนุษย์อยู่แล้ว</Content>
         </Dialog>
         <Dialog ID="189" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -2429,426 +2429,426 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: Dawn Office</PlaceName>
+        <PlaceName>สถานที่: สำนักงานแห่งรุ่งอรุณ</PlaceName>
         <Dialog ID="0" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip1-01</VoiceFile>
-          <Content>I’ve prepared your usual tea, master.</Content>
+          <Content>ผมได้เตรียมชาตามที่คุณขอแล้วครับ มาสเตอร์</Content>
         </Dialog>
         <Dialog ID="1" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador1</VoiceFile>
-          <Content>Thank you, Philip.</Content>
+          <Content>ขอบคุณมากฟิลิป</Content>
         </Dialog>
         <Dialog ID="2" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip2-02</VoiceFile>
-          <Content>Um, master…</Content>
+          <Content>อืม มาสเตอร์…</Content>
         </Dialog>
         <Dialog ID="3" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador2</VoiceFile>
-          <Content>Good grief, this is what I must hear from my old friend…</Content>
+          <Content>ความเศร้าโศกเป็นสิ่งที่ฉันได้ยินจากเพื่อนเก่าของฉัน…</Content>
         </Dialog>
         <Dialog ID="4" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador3</VoiceFile>
-          <Content>This tea has a strong aroma and taste today. I like it.</Content>
+          <Content>ชานี้มีกลิ่นหอมและรสชาติเข้มข้นดี ฉันชอบมัน.</Content>
         </Dialog>
         <Dialog ID="5" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip3-01</VoiceFile>
-          <Content>Thank you for the compliment, sir.</Content>
+          <Content>ขอบคุณสำหรับคำชมครับท่าน</Content>
         </Dialog>
         <Dialog ID="6" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip4</VoiceFile>
-          <Content>What is the news you received from your old friend, if I may ask?</Content>
+          <Content>แล้วข่าวที่คุณได้รับจากเพื่อนเก่าของคุณคืออะไรครับ?</Content>
         </Dialog>
         <Dialog ID="7" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador4</VoiceFile>
-          <Content>Philip, have you heard of ‘The Library’?</Content>
+          <Content>ฟิลิป นายเคยได้ยินเรื่อง 'ห้องสมุด' ไหม?</Content>
         </Dialog>
         <Dialog ID="8" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip5-02</VoiceFile>
-          <Content>Yes, although I know little about it other than that it’s an Urban Legend.</Content>
+          <Content>เคยครับ ถึงผมจะรู้เพียงเล็กน้อยก็ตาม ได้ยินมาว่าเป็นตำนานเมืองนะครับ</Content>
         </Dialog>
         <Dialog ID="9" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador5</VoiceFile>
-          <Content>It has recently been exalted to an Urban Plague, and it appears that the Zwei’s Section 6 fell victim to it.</Content>
+          <Content>เมื่อเร็ว ๆ นี้ได้รับการเลื่อนขั้นให้เป็นภัยประจำเมืองและดูเหมือนสาขา 6 ของซเวจะตกเป็นเหยื่อของมันไปแล้ว</Content>
         </Dialog>
         <Dialog ID="10" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip6</VoiceFile>
-          <Content>Then the old friend of yours is…</Content>
+          <Content>แล้วเพื่อนเก่าของคุณคือ…</Content>
         </Dialog>
         <Dialog ID="11" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador6-01</VoiceFile>
-          <Content>Yes, it’s Walter. He seems to have fallen in the Library.</Content>
+          <Content>ใช่ เขาคือวอลเตอร์ ดูเหมือนว่าเขาจะไปที่ห้องสมุด</Content>
         </Dialog>
         <Dialog ID="12" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador7</VoiceFile>
-          <Content>Foolish old pal… He struggled so much trying to rise up the ranks, and yet this is how he ends.</Content>
+          <Content>เพื่อนเก่าผู้โง่เขลาที่พยายามโบยบินให้สูงขึ้น แต่นั้นก็เป็นจุดจบของเขาเช่นกัน</Content>
         </Dialog>
         <Dialog ID="13" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip7-01</VoiceFile>
-          <Content>I’m sorry for your loss. I heard he was your colleague back in the Zwei. It must be heartbreaking.</Content>
+          <Content>คือผมขอแสดงความเสียใจกับการสูญเสียของคุณด้วยครับ ผมเคยได้ยินมาว่าเขาคือเพื่อนร่วมงานของคุณตอนที่อยู่ซเว คุณคงจะปวดใจน่าดู</Content>
         </Dialog>
         <Dialog ID="14" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador8</VoiceFile>
-          <Content>My heart is unscathed, boy. I never was fond of Walter.</Content>
+          <Content>หัวใจของฉันไม่ได้รับบาดเจ็บอะไรหรอกพ่อหนุ่ม ฉันไม่ชอบวอลเตอร์ด้วยซ้ำ</Content>
         </Dialog>
         <Dialog ID="15" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip8</VoiceFile>
-          <Content>…Pardon?</Content>
+          <Content>…ขอโทษครับ?</Content>
         </Dialog>
         <Dialog ID="16" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador9</VoiceFile>
-          <Content>He didn’t quite have the potential to be a capable man. He seemed clever, but his thoughts were one-dimensional.</Content>
+          <Content>เขาไม่มีศักยภาพพอที่จะไปได้ไกลกว่านี้ เขาดูเหมือนคนฉลาดแต่มุมมองของเขากับมีเพียงด้านเดียว</Content>
         </Dialog>
         <Dialog ID="17" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador10</VoiceFile>
-          <Content>And his habit of making rhetorical questions… Goodness, was that annoying.</Content>
+          <Content>แล้วนิสัยชอบตั้งคำถามเชิงโวหารของเขาเกียวกับความดีก็น่ารำคาญมากด้วย</Content>
         </Dialog>
         <Dialog ID="18" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador11</VoiceFile>
-          <Content>Although I suppose he did have some talent, seeing as he managed to stay in Section 6 without getting demoted further. Perhaps it was savoir-faire, or mere luck.</Content>
+          <Content>แม้ว่าเขามีความสามารถบางอย่างอยู่ก็ตาม แต่การที่เขาอยู่ในสาขา 6 โดยไม่ถูกลดระดับลงไปอีกบางทีมันอาจจะเป็นโชคชะตาหรือแค่โชคช่วยก็เท่านั้น</Content>
         </Dialog>
         <Dialog ID="19" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna1</VoiceFile>
-          <Content>Eugh, I’m sick of this smell of ssanghwa-cha… It’s even stronger today?</Content>
+          <Content>เออ ฉันเบื่อกลิ่นซังฮวาชะแล้ว… วันนี้กลิ่นมันแรงกว่าทุกทีอีก?</Content>
         </Dialog>
         <Dialog ID="20" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip9</VoiceFile>
-          <Content>Hello, seonbae.</Content>
+          <Content>สวัสดีครับ คุณซอนเบ</Content>
         </Dialog>
         <Dialog ID="21" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna2</VoiceFile>
-          <Content>Hey, Philip. Looks like you’re getting better at making tea day by day, huh?</Content>
+          <Content>เฮ้ ฟิลิป ดูเหมือนว่านายจะชงชาเก่งขึ้นทุกวันเลยนะ ฮะ?</Content>
         </Dialog>
         <Dialog ID="22" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador12</VoiceFile>
-          <Content>He certainly is. Philip is an expert when it comes to brewing ssanghwa-cha.</Content>
+          <Content>แน่นอน ฟิลิปเป็นผู้เชี่ยวชาญในการต้มเหล้าซันฮวาชาเลยนะ</Content>
         </Dialog>
         <Dialog ID="23" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador13</VoiceFile>
-          <Content>Maybe I should learn from him so that I can make some for my wife.</Content>
+          <Content>บางทีฉันควรจะเรียนรู้จากเขาเพื่อที่ฉันจะได้ทำให้ภรรยาของฉันกินบ้าง</Content>
         </Dialog>
         <Dialog ID="24" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip10</VoiceFile>
-          <Content>…Thank you.</Content>
+          <Content>…ขอบคุณครับ</Content>
         </Dialog>
         <Dialog ID="25" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna3</VoiceFile>
-          <Content>Cut it out with that awkward smile. You didn’t join our Office to make tea all day.</Content>
+          <Content>เอารอยยิ้มที่น่าอึดอัดใจนั้นออกไปเลย นายไม่ได้เข้าร่วมสำนักงานของเราเพื่อชงชาทั้งวันนะ</Content>
         </Dialog>
         <Dialog ID="26" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador14</VoiceFile>
-          <Content>Now, Yuna. Philip has shown excellent results in the field as well. He’s become a proud Grade 5 Fixer now.</Content>
+          <Content>เดี๋ยวสิ ยูนา ฟิลิปแสดงผลงานในสนามได้อย่างยอดเยี่ยมเลยนะ ตอนนี้เขากลายเป็นฟิกเซอร์เกรด 5 ที่น่าภาคภูมิใจแล้วด้วย</Content>
         </Dialog>
         <Dialog ID="27" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador15</VoiceFile>
-          <Content>If his ssanghwa-cha expertise counted toward grade evaluations, he would have easily become a Grade 1 and gotten a color, too.</Content>
+          <Content>หากความเชี่ยวชาญในสังฮวาชาของเขานับรวมในการประเมินเกรดด้วยเขาคงได้เกรด 1 อย่างง่ายดายไปแล้ว</Content>
         </Dialog>
         <Dialog ID="28" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador16</VoiceFile>
-          <Content>Yes, if he were to receive a color… Perhaps it would be bright yellow, much like the hue of this egg yolk floating atop the tea.</Content>
+          <Content>ใช่ ถ้าเขาจะได้รับสี… บางทีมันอาจจะเป็นสีเหลืองสดใสเหมือนกับสีของใบชาที่ลอยอยู่บนยอดชาก็ได้</Content>
         </Dialog>
         <Dialog ID="29" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador17</VoiceFile>
-          <Content>Hoho, it’s also the color of forsythia, my favorite flower…</Content>
+          <Content>โฮ่โฮ่ เป็นสีของฟอร์ซิเทีย ดอกไม้โปรดของฉันด้วย…</Content>
         </Dialog>
         <Dialog ID="30" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna4</VoiceFile>
-          <Content>Please stop with the silly jokes, master. Philip needs a trusty role model.</Content>
+          <Content>กรุณาหยุดกับเรื่องตลกไร้สาระด้วย มาสเตอร์ ฟิลิปต้องการแบบอย่างที่หน้าเชื่อถือนะ</Content>
         </Dialog>
         <Dialog ID="31" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna5</VoiceFile>
-          <Content>Anyway, I’ve taken care of the request regarding the ‘Thousand Needles’.</Content>
+          <Content>อย่างไรก็ตามฉันต้องไปดูคำขอเกี่ยวกับ 'เข็มพันเล่ม' แล้ว</Content>
         </Dialog>
         <Dialog ID="32" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip11-01</VoiceFile>
-          <Content>Wow, you’re impressive, seonbae. Solving an Urban Legend-class request on your own.</Content>
+          <Content>ว้าว คุณน่าประทับใจมากคุณซอนเบ คุณแก้คำขอระดับตำนานเมืองด้วยตัวคนเดียวเลย</Content>
         </Dialog>
         <Dialog ID="33" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna6</VoiceFile>
-          <Content>It was kinda dangerous at the end. I don’t know where they got it, but they started merging into one using a brainstem focus resonator.</Content>
+          <Content>มันค่อนข้างอันตรายในตอนท้าย ฉันไม่รู้ว่าพวกมันมาจากไหนแต่พวกมันเริ่มรวมเป็นหนึ่งเดียวโดยใช้คลื่นเสียงไปรวมที่จุดเดียว</Content>
         </Dialog>
         <Dialog ID="34" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna7</VoiceFile>
-          <Content>The building started melting, needles kept pouring out of that lump like crazy, people struck by those needles started exploding and creating chaos… It was awful.</Content>
+          <Content>อาคารเริ่มพังทลาย เข็มหลายเล่มกระจายออกมาจากก้อนนั้นอย่างบ้าคลั่ง ผู้คนที่ถูกเข็มเหล่านั้นเริ่มระเบิดและสร้างความโกลาหล… มันแย่มากมาก</Content>
         </Dialog>
         <Dialog ID="35" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna8</VoiceFile>
-          <Content>And the culprit behind that was…</Content>
+          <Content>และตัวการที่อยู่เบื้องหลังก็คือ…</Content>
         </Dialog>
         <Dialog ID="36" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador18</VoiceFile>
-          <Content>Was it Yesterday’s Promise as expected?</Content>
+          <Content>คำขอของเมื่อวานเป็นไปตามที่คาดไว้ไหม?</Content>
         </Dialog>
         <Dialog ID="37" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna9</VoiceFile>
-          <Content>Yeah, that seemed to be the case?</Content>
+          <Content>ใช่ดูเหมือนจะเป็นแบบนั้น?</Content>
         </Dialog>
         <Dialog ID="38" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna10</VoiceFile>
-          <Content>I honestly didn’t want to believe it, but it looks like magic really does exist.</Content>
+          <Content>ฉันไม่อยากเชื่อเลยจริงๆ แต่ดูเหมือนว่าเวทมนตร์จะมีอยู่จริง</Content>
         </Dialog>
         <Dialog ID="39" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna11</VoiceFile>
-          <Content>Strange symbols and stuff were carved on every needle.</Content>
+          <Content>สัญลักษณ์อะไรแปลกๆ ถูกแกะสลักไว้บนเข็มทุกเล่ม</Content>
         </Dialog>
         <Dialog ID="40" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna12</VoiceFile>
-          <Content>I haven’t even heard of any other amplification device that can do that. Not from my knowledge, at least.</Content>
+          <Content>ฉันไม่เคยได้ยินด้วยซ้ำว่ามีอุปกรณ์ขยายเสียงที่สามารถทำแบบนั้นได้ ฉันไม่มีความรู้เกียวกับมันเลย</Content>
         </Dialog>
         <Dialog ID="41" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador19</VoiceFile>
-          <Content>Still, you’ve dealt with it and came back alive. You are the pride of our Office, Yuna.</Content>
+          <Content>ยังไง คุณก็ได้จัดการกับมันและกลับมามีชีวิตอีกครั้ง คุณคือความภาคภูมิใจของสำนักงานของเรานะยูนา</Content>
         </Dialog>
         <Dialog ID="42" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna13</VoiceFile>
-          <Content>It feels like I’m the only working member, though.</Content>
+          <Content>รู้สึกเหมือนฉันเป็นสมาชิกที่ทำงานคนเดียวเลย</Content>
         </Dialog>
         <Dialog ID="43" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna14</VoiceFile>
-          <Content>And monthly rent is rather intimidating since our Office is in the Nest… You know the request I just did won’t be enough to cover it, right?</Content>
+          <Content>และค่าเช่ารายเดือนก็ค่อนข้างน่ากลัวเนื่องจากสำนักงานของเราอยู่ในรัง… คุณก็รู้ว่าคำขอที่ฉันเพิ่งทำไปนั้นไม่เพียงพอที่จะใช้งานครอบคลุมทังหมดน่ะ?</Content>
         </Dialog>
         <Dialog ID="44" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador20</VoiceFile>
-          <Content>Ah, no need to worry about our financial situation. I received a request that could keep us afloat for three months.</Content>
+          <Content>อา ไม่ต้องกังวลเกี่ยวกับสถานะการเงินของเรา ฉันได้รับคำขอที่ทำให้เราสามารถอยู่ได้สบายเป็นเวลาสามเดือนเลย</Content>
         </Dialog>
         <Dialog ID="45" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna15</VoiceFile>
-          <Content>Is that an Urban Plague-class job or something?</Content>
+          <Content>นั่นคืองานระดับ ภัยประจำเมือง หรืออะไรทำนองนั้น?</Content>
         </Dialog>
         <Dialog ID="46" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador21-01</VoiceFile>
-          <Content>It is indeed.</Content>
+          <Content>อื่มแน่นอน</Content>
         </Dialog>
         <Dialog ID="47" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip12</VoiceFile>
-          <Content>An… Urban Plague?</Content>
+          <Content>อ่า... ภัยประจำเมือง?</Content>
         </Dialog>
         <Dialog ID="48" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna16</VoiceFile>
-          <Content>What is it about? Is our Office going alone?</Content>
+          <Content>มันเกี่ยวกับอะไร? สำนักงานของเราจะให้ไปทำงานนี้สำนักงานเดียวหรอ?</Content>
         </Dialog>
         <Dialog ID="49" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador22</VoiceFile>
-          <Content>It’s ‘The Library’. I tried contacting the Wedge Office, but they seemed to be busy with their own work.</Content>
+          <Content>มันคือ 'ห้องสมุด' ฉันพยายามติดต่อสำนักงาน Wedge แต่ดูเหมือนว่าพวกเขาจะยุ่งกับงานของตัวเองอยู่</Content>
         </Dialog>
         <Dialog ID="50" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador23</VoiceFile>
-          <Content>Thus, we will be taking care of it by ourselves for now.</Content>
+          <Content>ดังนั้นพวกเราจะดูแลมันด้วยตัวเองในตอนนี้</Content>
         </Dialog>
         <Dialog ID="51" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador24</VoiceFile>
-          <Content>Besides, this request was directly assigned to us by the Zwei Association.</Content>
+          <Content>นอกจากนี้ คำขอนี้ได้รับมอบหมายโดยตรงจากสมาคมซเว</Content>
         </Dialog>
         <Dialog ID="52" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador25</VoiceFile>
-          <Content>Perhaps they deemed that they need an Office proficient in combat for this job.</Content>
+          <Content>บางทีพวกเขาคิดว่าพวกเขาต้องการสำนักงานที่เชี่ยวชาญในการต่อสู้สำหรับงานนี้</Content>
         </Dialog>
         <Dialog ID="53" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna18</VoiceFile>
-          <Content>Got it. I’ll make some calls, then.</Content>
+          <Content>เข้าใจแล้วเดี๋นวฉันจะติดต่อไปบ้าง</Content>
         </Dialog>
         <Dialog ID="54" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador26</VoiceFile>
-          <Content>Please do, Yuna.</Content>
+          <Content>ได้โปรด ยูนา</Content>
         </Dialog>
         <Dialog ID="55" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip13</VoiceFile>
-          <Content>…This is gonna be my first time handling an Urban Plague-class case.</Content>
+          <Content>…นี่เป็นครั้งแรกที่ผมจะจัดการกับคดีระดับ ภัยประจำเมือง</Content>
         </Dialog>
         <Dialog ID="56" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador27</VoiceFile>
-          <Content>That is true, Philip.</Content>
+          <Content>นั่นเป็นเรื่องจริง ฟิลิป</Content>
         </Dialog>
         <Dialog ID="57" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador28</VoiceFile>
-          <Content>I know this is your first time with an Urban Plague-class request, but try to loosen up a bit.</Content>
+          <Content>ฉันรู้ว่านี่เป็นครั้งแรกของคุณกับคำขอระดับ ภัยประจำเมือง แต่พยายามผ่อนคลายสักหน่อย</Content>
         </Dialog>
         <Dialog ID="58" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador29</VoiceFile>
-          <Content>Think of it as a learning experience. Watch how I or Yuna act on the field.</Content>
+          <Content>คิดสักว่าเป็นประสบการณ์การเรียนรู้จากการดูการกระทำของฉันหรือยูน่าในสนามก็ได้</Content>
         </Dialog>
         <Dialog ID="59" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna19</VoiceFile>
-          <Content>If we get this job done, why don’t we throw a party at your house like the last time, gramps?</Content>
+          <Content>ถ้าเราทำงานนี้เสร็จ ทำไมเราไม่จัดปาร์ตี้ที่บ้านคุณเหมือนคราวที่แล้วล่ะคุณปู่?</Content>
         </Dialog>
         <Dialog ID="60" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador30</VoiceFile>
-          <Content>You surely have ways to get yourself fed, Yuna.</Content>
+          <Content>คุณมีวิธีที่ทำให้ตัวเองท้องอิ่มเหลือเกินนะ ยูน่า</Content>
         </Dialog>
         <Dialog ID="61" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna20</VoiceFile>
-          <Content>You know how much I love to eat, don’t you gramps? And your cooking is awesome, too.</Content>
+          <Content>คุณรู้ใช้ไหมว่าฉันชอบกินมากแค่ไหน และการทำอาหารของคุณก็ยอดเยี่ยมเช่นกัน</Content>
         </Dialog>
         <Dialog ID="62" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip14</VoiceFile>
-          <Content>House party, huh…</Content>
+          <Content>ปาร์ตี้ที่บ้านเหรอครับ…</Content>
         </Dialog>
         <Dialog ID="63" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna21</VoiceFile>
-          <Content>Why the long face, Philip? Got too nervous to take on an Urban Plague?</Content>
+          <Content>ทำหน้าซึมทำไม ฟิลิป? ประหม่าเกินไปที่จะรับมือกับภัยประจำเมืองเหรอ?</Content>
         </Dialog>
         <Dialog ID="64" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip15</VoiceFile>
-          <Content>…It’s nothing.</Content>
+          <Content>…ไม่เป็นไรครับ</Content>
         </Dialog>
         <Dialog ID="65" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna22</VoiceFile>
-          <Content>Well, alright then. I’ll be preparing first.</Content>
+          <Content>ดีแล้ว ฉันจะไปเตรียมตัวก่อน</Content>
         </Dialog>
         <Dialog ID="66" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador31</VoiceFile>
-          <Content>…Philip. How about a small conversation between the two of us once this job is done?</Content>
+          <Content>…ฟิลิป มีเรื่องคุยเล็กน้อยระหว่างเราสองคนเมื่องานนี้เสร็จนะ?</Content>
         </Dialog>
         <Dialog ID="67" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip16</VoiceFile>
-          <Content>Sure?</Content>
+          <Content>ครับ?</Content>
         </Dialog>
         <Dialog ID="68" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador32</VoiceFile>
-          <Content>It seemed as if you had concerns in your mind.</Content>
+          <Content>ดูเหมือนว่านายมีเรื่องกังวลอยู่ในใจนะ</Content>
         </Dialog>
         <Dialog ID="69" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip17-01</VoiceFile>
-          <Content>…Understood, sir.</Content>
+          <Content>…เข้าใจแล้วครับท่าน</Content>
         </Dialog>
       </Place>
       <Place>
@@ -2857,160 +2857,160 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland1</VoiceFile>
-          <Content>Huh, that gramps is still doing Fixer work.</Content>
+          <Content>ฮืม ปู่นั่นยังทำงานเป็นฟิกเซอร์อยู่อีก</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Dawn_ep1_angela1</VoiceFile>
-          <Content>You know him?</Content>
+          <Content>นายรู้จักเขางั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="72" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland2</VoiceFile>
-          <Content>Hmm… It’s nothing huge, I came across him a few times in the past and owed him some favors.</Content>
+          <Content>อืม… มันไม่ใช้เรื่องใหญ่โตอะไร ฉันเคยเจอเขาสองสามครั้งในอดีตและเป็นหนี้บุญคุณเขา</Content>
         </Dialog>
         <Dialog ID="73" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland3</VoiceFile>
-          <Content>And he’s one of the veterans, too.</Content>
+          <Content>และเขาก็เป็นหนึ่งในทหารผ่านศึกด้วยเช่นกันด้วย</Content>
         </Dialog>
         <Dialog ID="74" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland4</VoiceFile>
-          <Content>He made his bones to a degree in the Smoke War when he was younger.</Content>
+          <Content>เขาสร้างชื่อในระดับหนึ่งในสงครามควันเมื่อตอนที่เขายังหนุ่ม</Content>
         </Dialog>
         <Dialog ID="75" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Dawn_ep1_angela2</VoiceFile>
-          <Content>He did seem to have many connections.</Content>
+          <Content>ดูเหมือนว่าเขาจะมีคอนเนคชั่นมากมายเลย</Content>
         </Dialog>
         <Dialog ID="76" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland5</VoiceFile>
-          <Content>Although he’s washed up now, just like me.</Content>
+          <Content>แม้ว่าตอนนี้เขาจล้างมือไปแล้วแบบเดียวกับฉัน</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Dawn_ep1_angela3</VoiceFile>
-          <Content>He seems to be faring much better than you, though?</Content>
+          <Content>แต่ว่าเขาดูดีกว่านายมากเลยนะ?</Content>
         </Dialog>
         <Dialog ID="78" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland6</VoiceFile>
-          <Content>Oh did you really have to stab me with those facts!</Content>
+          <Content>โอ้ เธอไม่ต้องพูดทิ่มแทงฉันด้วยคำเหล่านั้นจริงๆก็ได้!</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="79" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna23</VoiceFile>
-          <Content>The interior is pretty slick.</Content>
+          <Content>ภายในเนียนสวยดี</Content>
         </Dialog>
         <Dialog ID="80" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip18-01</VoiceFile>
-          <Content>Reminds me of the factory we raided as part of the ‘Midnight Pancreas Burgers’ request.</Content>
+          <Content>ทำให้ฉันนึกถึงโรงงานที่เราบุกเข้าไป ที่เราเป็นส่วนหนึ่งของคำขอ 'Midnight Pancreas Burgers'</Content>
         </Dialog>
         <Dialog ID="81" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna24</VoiceFile>
-          <Content>Ugh, please! I don’t even want to be reminded of that case. And I’m not seeing any similarities here.</Content>
+          <Content>ฮึ ได้โปรด! ฉันไม่อยากได้ยินถึงกรณีนั้นด้วยซ้ำและฉันไม่เห็นความคล้ายคลึงกันที่นี่เลย</Content>
         </Dialog>
         <Dialog ID="82" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip19-01</VoiceFile>
-          <Content>I mean, that factory was also pretty clean and moody for a place where terrible things…</Content>
+          <Content>ผมหมายความว่า โรงงานนั้นค่อนข้างสะอาดมากแต่จนเรื่องร้ายๆเกิดขึ้น…</Content>
         </Dialog>
         <Dialog ID="83" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador33</VoiceFile>
-          <Content>Hohoho… Philip?</Content>
+          <Content>โฮะโฮะโฮะ… ฟิลิป?</Content>
         </Dialog>
         <Dialog ID="84" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador34-01</VoiceFile>
-          <Content>I almost got to retaste the ssanghwa-cha I drank a bit ago.</Content>
+          <Content>ฉันเกือบจะเอาชาที่ฉันดื่มไปเมื่อสักครู่ออกมาเลย</Content>
         </Dialog>
         <Dialog ID="85" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip20-01</VoiceFile>
-          <Content>…Sorry sir!</Content>
+          <Content>…ขอโทษครับ!</Content>
         </Dialog>
         <Dialog ID="86" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Dawn_ep1_angela4</VoiceFile>
-          <Content>Greetings, dear guests.</Content>
+          <Content>สวัสดีค่ะแขก</Content>
         </Dialog>
         <Dialog ID="87" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador35</VoiceFile>
-          <Content>A pleasure to meet you. You must be Angela.</Content>
+          <Content>ยินดีที่ได้พบ เธอคงคือแองเจล่าสินะ</Content>
         </Dialog>
         <Dialog ID="88" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Dawn_ep1_angela5</VoiceFile>
-          <Content>Yes. I am the director and librarian of my role’s namesake.</Content>
+          <Content>ใช่ ฉันเป็นผู้อำนวยการและบรรณารักษ์</Content>
         </Dialog>
         <Dialog ID="89" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador36</VoiceFile>
-          <Content>Tell me, what should we do to kill you?</Content>
+          <Content>บอกฉันได้ไหมว่า เราทำยังไงถึงจะฆ่าคุณได้?</Content>
         </Dialog>
         <Dialog ID="90" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Dawn_ep1_angela6</VoiceFile>
-          <Content>I’d like to know that as well, hm?</Content>
+          <Content>ฉันเองก็อยากจะรู้เหมือนกัน หืม?</Content>
         </Dialog>
         <Dialog ID="91" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador37</VoiceFile>
-          <Content>I see, I see. You have the capability for casual banter, hmm.</Content>
+          <Content>งั้นเหรอ งั้นเหรอ เธอก็มีอารมณ์ขันเหมือนกันนะ</Content>
         </Dialog>
         <Dialog ID="92" Model="유나">
-          <Teller>Yuna</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ยูนา</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna25-01</VoiceFile>
-          <Content>Let’s cut the chat short, shall we, master?</Content>
+          <Content>มาตัดบทสนทนาให้สั้นลงกันเถอะ มาสเตอร์?</Content>
         </Dialog>
         <Dialog ID="93" Model="살바도르">
-          <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Teller>ซัลวาดอร์</Teller>
+          <Title>หัวหน้าแห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador38</VoiceFile>
-          <Content>Now, Angela, do not hope to meet a peaceful end after imbruing your hands in so much blood.</Content>
+          <Content>แองเจล่า อย่าหวังว่าเธอจะพบกับจุดจบอย่างสงบหลังจากมือของเธอเปื้อนเลือดมากมาย</Content>
         </Dialog>
         <Dialog ID="94" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Dawn_ep1_angela7</VoiceFile>
-          <Content>I believe the same can be said of you.</Content>
+          <Content>ฉันเชื่อว่าสามารถพูดแบบเดียวกันกับคุณได้</Content>
         </Dialog>
         <Dialog ID="95" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Dawn_ep1_angela8</VoiceFile>
-          <Content>May you find your book in this place, then.</Content>
+          <Content>ขอให้คุณพบหนังสือของคุณในที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -3022,79 +3022,79 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland7</VoiceFile>
-          <Content>That gramps still hasn’t changed after so many years.</Content>
+          <Content>ตาแก่นั้นยังคงไม่เปลี่ยนไปเลยหลังจากผ่านมาหลายปี</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Dawn_ep1_angela9</VoiceFile>
-          <Content>He didn’t seem to recognize you, though.</Content>
+          <Content>ดูเหมือนว่าเขาจะจำนายไม่ได้ด้วย</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland8</VoiceFile>
-          <Content>Fixers meet so many people in their lives; it’s pretty much impossible to remember them all.</Content>
+          <Content>ฟิกเซอร์พบผู้คนมากมายในชีวิต มันแทบจะเป็นไปไม่ได้เลยที่จะจำได้ทั้งหมด</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland9</VoiceFile>
-          <Content>And gramps knows even more people than most Fixers, so there’s no way he can recount everyone he’d met.</Content>
+          <Content>และตาแก่นั้นรู้จักผู้คนมากกว่าฟิกเซอร์ด้วย ดังนั้นจึงไม่มีทางที่เขาจะสามารถจำให้ได้ทุกคนได้หรอก</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland10</VoiceFile>
-          <Content>Not like he needs to, though…</Content>
+          <Content>เขาไม่จำเป็นต้องมาจำด้วย…</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland11</VoiceFile>
-          <Content>And he’s old, so his memory probably got shaky.</Content>
+          <Content>และเขาแก่แล้ว ดังนั้นความทรงจำของเขาคงเลือนลางแล้วละ</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Dawn_ep1_angela10</VoiceFile>
-          <Content>Why didn’t you say to him that you knew him, then?</Content>
+          <Content>ทำไมนายไม่บอกเขาว่านายรู้จักเขาล่ะ?</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland12</VoiceFile>
-          <Content>I just didn’t wanna make a scene. Giving him the time of day would only make both of us uncomfortable.</Content>
+          <Content>ฉันแค่ไม่อยากสร้างดราม่า การบอกไปมีแต่จะทำให้เราทั้งคู่ไม่สบายใจ</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland13</VoiceFile>
-          <Content>Imagine walking up to your enemy in battle and saying “Hi there, we were friends three years ago… Remember?” It’d be awkward for sure. And bothersome, too.</Content>
+          <Content>ลองจินตนาการว่าเดินเข้าไปหาศัตรูในสนามรบแล้วพูดว่า “สวัสดี เราเป็นเพื่อนกันเมื่อสามปีก่อน… จำได้ไหม” มันคงอึดอัดแน่ๆและน่ารำคาญอีกด้วย</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Dawn_ep1_angela11</VoiceFile>
-          <Content>I don’t dislike how you try not to leave any loose ends in relationships.</Content>
+          <Content>ฉันก็ไม่ได้ชอบหรอกนะที่นายพยายามปล่อยให้ความสัมพันธ์จบลงแบบหลวมๆแบบนี้นะ</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland14</VoiceFile>
-          <Content>I guess so. I gave up caring about bonds long ago…</Content>
+          <Content>ฉันเดาว่าอย่างนั้น ฉันเลิกสนใจเรื่องความสัมพันธ์ไปนานแล้ว…</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland15</VoiceFile>
-          <Content>And as I say from time to time, you never know when anyone will backstab you in this world, even those who you casually joke with.</Content>
+          <Content>และอย่างที่ฉันพูดเป็นครั้งคราว เธอไม่มีทางรู้หรอกว่าจะมีใครแทงข้างหลังเธอในโลกนี้ แม้กระทั่งคนที่เธอล้อเล่นด้วย</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Dawn_ep1_roland17</VoiceFile>
-          <Content>Gramps knew that better than anyone, I’m sure.</Content>
+          <Content>ตาแก่นั้นรู้เรื่องนั้นดีกว่าใคร ฉันแน่ใจ</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -6438,8 +6438,8 @@
           <Content>Help yourself. You’re gonna starve to death if you don’t eat anything.</Content>
         </Dialog>
         <Dialog ID="1" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip1</VoiceFile>
           <Content>Thanks for the meal, but… I don’t feel like eating yet…</Content>
         </Dialog>
@@ -6450,7 +6450,7 @@
           <Content>No wonder, your Office got wiped out. You should harden your heart, still.</Content>
         </Dialog>
         <Dialog ID="3" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip2</VoiceFile>
           <Content>……</Content>
@@ -6462,19 +6462,19 @@
           <Content>Do you think it was your fault?</Content>
         </Dialog>
         <Dialog ID="5" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip3-01</VoiceFile>
           <Content>Yes… Had I stopped them…</Content>
         </Dialog>
         <Dialog ID="6" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip4</VoiceFile>
           <Content>Had I been stronger and more mature…</Content>
         </Dialog>
         <Dialog ID="7" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip5</VoiceFile>
           <Content>Had I… stayed there and not run away…</Content>
@@ -6486,7 +6486,7 @@
           <Content>Then it’s your fault.</Content>
         </Dialog>
         <Dialog ID="9" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip6-01</VoiceFile>
           <Content>…Huh?</Content>
@@ -6498,7 +6498,7 @@
           <Content>You were too daft and weak to keep the others safe. It’s your fault that everyone died.</Content>
         </Dialog>
         <Dialog ID="11" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip7-01</VoiceFile>
           <Content>……</Content>
@@ -6540,7 +6540,7 @@
           <Content>Alright, Philip. Feeling well enough to talk now?</Content>
         </Dialog>
         <Dialog ID="18" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip8</VoiceFile>
           <Content>Yes. Thank you for your kindness.</Content>
@@ -6576,7 +6576,7 @@
           <Content>I had to get my body replaced, too. This one’s seriously not my style…</Content>
         </Dialog>
         <Dialog ID="24" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip9-01</VoiceFile>
           <Content>…Is that a robotic body? Doesn’t that shape infringe the Ethics Amendment, though?</Content>
@@ -6606,7 +6606,7 @@
           <Content>Speaking of, doesn’t your Office have any insurance?</Content>
         </Dialog>
         <Dialog ID="29" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip10-01</VoiceFile>
           <Content>I was a relatively new member at that Office, so I didn’t know that much…</Content>
@@ -6666,7 +6666,7 @@
           <Content>…You certainly are masterful at making ssanghwa-cha as Salvador said.</Content>
         </Dialog>
         <Dialog ID="39" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip11-01</VoiceFile>
           <Content>You flatter me, sir…</Content>
@@ -6678,19 +6678,19 @@
           <Content>A penny for your thoughts, Philip. Did ‘The Library’ appear to be related to the Distortion Phenomenon in any way?</Content>
         </Dialog>
         <Dialog ID="41" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip12-01</VoiceFile>
           <Content>I’m not sure. I haven’t experienced the Distortion myself.</Content>
         </Dialog>
         <Dialog ID="42" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip13-01</VoiceFile>
           <Content>But that place looked more alien than anything I’ve ever seen.</Content>
         </Dialog>
         <Dialog ID="43" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip14-01</VoiceFile>
           <Content>And master and seonbae… They got turned into books there…</Content>
@@ -6714,7 +6714,7 @@
           <Content>It’s not just the Associations; even the Wings and the Fingers are clueless about what to make of the Distortion.</Content>
         </Dialog>
         <Dialog ID="47" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip15-01</VoiceFile>
           <Content>Alright…</Content>
@@ -6732,13 +6732,13 @@
           <Content>You must want to forget all this fuss about the Distortion and head right back to the Library and retrieve the books of your colleagues.</Content>
         </Dialog>
         <Dialog ID="50" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip16-01</VoiceFile>
           <Content>…I wish I could do just that.</Content>
         </Dialog>
         <Dialog ID="51" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip17-01</VoiceFile>
           <Content>But my master said to me in his note that I shouldn’t act hastily and instead depend on your aid.</Content>
@@ -6762,7 +6762,7 @@
           <Content>Have you met them?</Content>
         </Dialog>
         <Dialog ID="55" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip18</VoiceFile>
           <Content>No… I couldn’t visit them yet.</Content>
@@ -6774,7 +6774,7 @@
           <Content>Why is that?</Content>
         </Dialog>
         <Dialog ID="57" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip19</VoiceFile>
           <Content>…I’m too ashamed to face them.</Content>
@@ -6786,7 +6786,7 @@
           <Content>Our next stop will be the Library. Ready your gear.</Content>
         </Dialog>
         <Dialog ID="59" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip20</VoiceFile>
           <Content>…Thank you, sir.</Content>
@@ -6810,19 +6810,19 @@
           <Content>Personally, I’d never let a Fixer like you join my Office. It would give us a bad name.</Content>
         </Dialog>
         <Dialog ID="63" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip21</VoiceFile>
           <Content>…Is it wrong… Is it so pathetic for me to want to repay the favors of my colleagues, for their sake…?</Content>
         </Dialog>
         <Dialog ID="64" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip22</VoiceFile>
           <Content>Everyone says not to act upon attachment, that it’s an unclassy and naive thing to do…</Content>
         </Dialog>
         <Dialog ID="65" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip23-01</VoiceFile>
           <Content>Can’t we as Fixers… no, as people living in the City, do anything on the behalf of others!!!</Content>
@@ -6894,7 +6894,7 @@
           <Content>A very dangerous kind of selfishness, one that slowly eats away at your peers and leads them to damnation…</Content>
         </Dialog>
         <Dialog ID="77" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip24-01</VoiceFile>
           <Content>I…!</Content>
@@ -6906,7 +6906,7 @@
           <Content>You gave a fine speech, but I must wonder if you’re truly upset for the sake of Salvador and your other late colleagues.</Content>
         </Dialog>
         <Dialog ID="79" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip25-01</VoiceFile>
           <Content>…I’ll go prepare myself.</Content>
@@ -6984,7 +6984,7 @@
           <Content>Tiny things like this can still affect my psyche.</Content>
         </Dialog>
         <Dialog ID="91" Model="필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลิป</Teller>
           <Title>Ex-Dawn Fixer</Title>
           <VoiceFile>ch4_Wedge_ep1_philip26</VoiceFile>
           <Content>…Nevermind. You don’t need to care about me. I’ll try not to be a hindrance.</Content>
