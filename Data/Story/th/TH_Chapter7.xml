@@ -803,7 +803,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าหอสมุด</PlaceName>
         <Dialog ID="83" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
@@ -1163,7 +1163,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าหอสมุด</PlaceName>
         <Dialog ID="2" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
@@ -1694,7 +1694,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าหอสมุด</PlaceName>
         <Dialog ID="0" Model="독백">
           <Teller>Monologue</Teller>
           <Title>Narration</Title>
@@ -1720,118 +1720,118 @@
           <Content>Neiiigh~ Bawk, cluck cluck!!! Arf~!! Bow-wow, woof!!!</Content>
         </Dialog>
         <Dialog ID="4" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_Pluto_1</VoiceFile>
-          <Content>Knock, and the door shall open!</Content>
+          <VoiceFile>ch7_Blue_ep2_พลูโต_1</VoiceFile>
+          <Content>เคาะ และประตูเอ๋ยจงเปิดออก!</Content>
         </Dialog>
         <Dialog ID="5" Model="정장 엘레나">
           <Teller>Elena</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_1</VoiceFile>
-          <Content>Talk about stupid-strong.</Content>
+          <Content>แข็งแกร่งจนเหลือเชื่อเลย</Content>
         </Dialog>
         <Dialog ID="6" Model="그레타">
           <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_Greta_1</VoiceFile>
-          <Content>Hawhaw! Cooking is a test of endurance, after all.</Content>
+          <Content>ฮ่าฮ่า! ก็การทำอาหารคือการทดสอบความอึดนี่นา</Content>
         </Dialog>
         <Dialog ID="7" Model="정장 엘레나">
           <Teller>Elena</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_2</VoiceFile>
-          <Content>Whatever you say sister.</Content>
+          <Content>ตามที่พูดเลย น้องสาว</Content>
         </Dialog>
         <Dialog ID="8" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>The Blue Reverberation</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_1</VoiceFile>
-          <Content>Now, friends? You’re going to frighten the residents of this place—they might end up hiding…</Content>
+          <Content>เอาน่า เพื่อนเอ๋ย? เดี๋ยวพวกเธอได้ทำผู้อาศัยที่นี่ขวัญอ่อนนะ—พวกนั้นอาจหนีไปซ่อนก็ได้นะ…</Content>
         </Dialog>
         <Dialog ID="9" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>The Blue Reverberation</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_2</VoiceFile>
-          <Content>We’re introducing our whole group to them for the first time, so we should be polite about it, no?</Content>
+          <Content>เราจะแนะนำทั้งกลุ่มให้พวกเขาเป็นครั้งแรก เพราะงั้นเราควรที่จะสุภาพเข้าไว้ ไม่ใช่หรือ?</Content>
         </Dialog>
         <Dialog ID="10" Model="정장 필립">
           <Teller>Philip</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_Phillip_1</VoiceFile>
-          <Content>They might turn us away if we’re too noisy.</Content>
+          <Content>พวกเขาอาจไล่เราออกไปถ้าเราเสียงดังเกินไป</Content>
         </Dialog>
         <Dialog ID="11" Model="정장 타냐">
           <Teller>Tanya</Teller>
           <Title>L’heure du Loup</Title>
           <VoiceFile>ch7_Blue_ep2_Tanya_1</VoiceFile>
-          <Content>If they do, then we’ll just hafta break in and wreck ‘em.</Content>
+          <Content>ถ้าทำงั้น เราก็แค่บุกถล่มพวกแม่งซะ.</Content>
         </Dialog>
         <Dialog ID="12" Model="정장 오스왈드">
           <Teller>Oswald</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_Oswald_1</VoiceFile>
-          <Content>So this is the famed Library~! I’ve heard many things about it, but to see it myself!</Content>
+          <Content>นี่สิน้าหอสุมดที่เลื่องลือ~! ฉันได้ยินมาหลายเรื่องเลย แต่ไม่คิดว่าจะได้เห็นกับตา!</Content>
         </Dialog>
         <Dialog ID="13" Model="에일린">
           <Teller>Eileen</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_Eilin_1</VoiceFile>
-          <Content>You used to lead a circus in a humble tent for such a long time…</Content>
+          <Content>นายเคยนำละครสัตวในเต็นท์เล็กๆ นั่นมานาน…</Content>
         </Dialog>
         <Dialog ID="14" Model="정장 오스왈드">
           <Teller>Oswald</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_Oswald_2</VoiceFile>
-          <Content>And I thank you for changing that!</Content>
+          <Content>และฉันขอบคุณเธอที่เปลื่ยนให้!</Content>
         </Dialog>
         <Dialog ID="15" Model="정장 오스왈드">
           <Teller>Oswald</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_Oswald_3</VoiceFile>
-          <Content>With your help, I could finally step out of that tent filled with the musty scent of flowers~!</Content>
+          <Content>ด้วยการช่วยเหลือของเธอ ฉันสามารถออกจากเต็นท์คลุ้งกลิ่นดอกไม้อับๆ นั่นได้~!</Content>
         </Dialog>
         <Dialog ID="16" Model="정장 타냐">
           <Teller>Tanya</Teller>
           <Title>L’heure du Loup</Title>
           <VoiceFile>ch7_Blue_ep2_Tanya_2</VoiceFile>
-          <Content>Y’know how tiring it was to deal with your antsy antics? Ya almost got one of us pulped.</Content>
+          <Content>รู้ไหมมันเหนื่อยขนาดไหนในการจัดการกับลูกเล่นชวนโมโหของมึงอ่ะ? มึงเกือบทำพวกเราไปคนนึงนะ</Content>
         </Dialog>
         <Dialog ID="17" Model="정장 오스왈드">
           <Teller>Oswald</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_Oswald_4</VoiceFile>
-          <Content>I was not in my right mind at that time. Why, I thought you were simply trying to perform with me…</Content>
+          <Content>ตอนนั้นสติฉันมันไม่ค่อยสมประกอบ แหม ฉันนึกว่าเธอจะแสดงร่วมกับฉันเท่านั้น…</Content>
         </Dialog>
         <Dialog ID="18" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_Pluto_2</VoiceFile>
-          <Content>Still, I think it’s truly serendipitous that we could walk the same path in the end.</Content>
+          <VoiceFile>ch7_Blue_ep2_พลูโต_2</VoiceFile>
+          <Content>แต่ว่า ผมคิดว่ามันช่างน่าบังเอิญที่ท้ายสุดเราสามารถเดินทางเดียวกันได้</Content>
         </Dialog>
         <Dialog ID="19" Model="에일린">
           <Teller>Eileen</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_Eilin_2</VoiceFile>
-          <Content>I feel the same… Sir Argalia gave us true salvation.</Content>
+          <Content>ฉันก็รู้สึกแบบเดียวกัน… ท่านอาร์กาเลียได้ให้การหลุดพ้นแก่เรา</Content>
         </Dialog>
         <Dialog ID="20" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>The Blue Reverberation</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_3</VoiceFile>
-          <Content>Haha, no… Don’t mention it, friends.</Content>
+          <Content>ฮะฮะ ไม่… ไม่ต้องพูดก็ได้ เพื่อนเอ๋ย</Content>
         </Dialog>
         <Dialog ID="21" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>The Blue Reverberation</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_4</VoiceFile>
-          <Content>I couldn’t have done this alone. I should be thanking you all.</Content>
+          <Content>ฉันทำแบบนี้คนเดียวไม่ได้แน่ ฉันควรขอบคุณพวกเธอทุกคน</Content>
         </Dialog>
         <Dialog ID="22" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>The Blue Reverberation</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_5</VoiceFile>
-          <Content>By the by… It seems no one is here to greet us today?</Content>
+          <Content>ไงก็ตาม… ดูเหมือนว่าจะไม่มีใครมาต้อนรับเราวันนี้นะ?</Content>
         </Dialog>
         <Dialog ID="23" Model="브레멘">
           <Teller>Bremen</Teller>
@@ -1843,55 +1843,55 @@
           <Teller>Tanya</Teller>
           <Title>L’heure du Loup</Title>
           <VoiceFile>ch7_Blue_ep2_Tanya_3</VoiceFile>
-          <Content>Musta wimped out and hid behind a shelf.</Content>
+          <Content>คงปอดแหกแล้วหนีไปหลบหลังตู้แหง</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_1</VoiceFile>
-          <Content>…Are you lot insane? You can’t just fling the door open by force.</Content>
+          <Content>…พวกเธอบ้าไปแล้วเหรอ? จะมางัดประตูเปิดไม่ได้นะ</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_1</VoiceFile>
-          <Content>That’s a first, I gotta admit.</Content>
+          <Content>นั่นครั้งแรกแฮะ พูดเลย</Content>
         </Dialog>
         <Dialog ID="27" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_Pluto_3</VoiceFile>
-          <Content>Perhaps this is an indication that the Library has grown close enough to the physical realm that it can be interacted with from the outside?</Content>
+          <VoiceFile>ch7_Blue_ep2_พลูโต_3</VoiceFile>
+          <Content>บางทีนี่อาจบ่งบอกว่าหอสมุดนั้นเริ่มใกล้ภพกายภาพจนสามารถมีปฏิสัมพันธ์จากภายนอกก็ได้นะ?</Content>
         </Dialog>
         <Dialog ID="28" Model="정장 엘레나">
           <Teller>Elena</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_3</VoiceFile>
-          <Content>And we knocked several times, too, mind you.</Content>
+          <Content>แถมเราก็เคาะหลายครั้งด้วยนะ</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_2</VoiceFile>
-          <Content>If you rap your dirty fists on a door and no one responds, what you should do is leave, not break in.</Content>
+          <Content>ถ้าเธอใช้มือสกปรกเคาะประตูแล้วไม่มีใครตอบรับ สิ่งที่พวกเธอควรทำคือออกไป ไม่ใช่งัดเข้ามา</Content>
         </Dialog>
         <Dialog ID="30" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>The Blue Reverberation</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_6</VoiceFile>
-          <Content>Don’t get your skirt in a twist. We were in a bit of a… hurry, so to speak.</Content>
+          <Content>Don’t get your skirt in a twist. พอดีว่าเรากำลัง… รีบน่ะ</Content>
         </Dialog>
         <Dialog ID="31" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>The Blue Reverberation</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_7</VoiceFile>
-          <Content>Pluto? Do your job.</Content>
+          <Content>พลูโต? ทำงานหน่อยสิ</Content>
         </Dialog>
         <Dialog ID="32" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_Pluto_4</VoiceFile>
-          <Content>But of course. I shall see to it that the entrance is repaired in no time.</Content>
+          <VoiceFile>ch7_Blue_ep2_พลูโต_4</VoiceFile>
+          <Content>ได้แน่นอน ผมจะจัดการซอมแซมทางเข้าให้เสร็จในไมช้า</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
@@ -1903,24 +1903,24 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_3</VoiceFile>
-          <Content>…Is that a Singularity?</Content>
+          <Content>…นั่นมันซิงกุลาริติ้หรือ?</Content>
         </Dialog>
         <Dialog ID="35" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_Pluto_5</VoiceFile>
-          <Content>Singularity? Such a preposterous claim…</Content>
+          <VoiceFile>ch7_Blue_ep2_พลูโต_5</VoiceFile>
+          <Content>ซิงกุลาริติ้? ช่างกล่าวอ้างได้น่าขันสิ้น…</Content>
         </Dialog>
         <Dialog ID="36" Model="정장 오스왈드">
           <Teller>Oswald</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_Oswald_5</VoiceFile>
-          <Content>It’s magic!</Content>
+          <Content>มันคือเวทย์มนต์!</Content>
         </Dialog>
         <Dialog ID="37" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_Pluto_6</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_พลูโต_6</VoiceFile>
           <Content>We are truth seekers and artists, perched on the boundary as we search for an answer.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
@@ -1990,9 +1990,9 @@
           <Content>And we’ve come to snatch that book with our forky tongue!</Content>
         </Dialog>
         <Dialog ID="49" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_Pluto_7</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_พลูโต_7</VoiceFile>
           <Content>แองเจล่า. We are aware that you have nearly completed that volume.</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
@@ -2290,9 +2290,9 @@
           <Content>Angela… You’re the one who killed that black-hearted bastard’s undeserved better half, do you see it now? You’re the one who killed my sister…</Content>
         </Dialog>
         <Dialog ID="99" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_Pluto_8</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_พลูโต_8</VoiceFile>
           <Content>Quite a scene, indeed… Even I cannot help but laugh at this.</Content>
         </Dialog>
         <Dialog ID="100" Model="정장 타냐">
@@ -4869,7 +4869,7 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Hokma vs. Pluto</EpisodeName>
+      <EpisodeName>Hokma vs. พลูโต</EpisodeName>
       <Place>
         <PlaceName>Location: Library – Floor of Religion</PlaceName>
         <Dialog ID="0" Model="호크마">
@@ -4879,27 +4879,27 @@
           <Content>Greetings. I am Hokma… I am the librarian who guards this floor.</Content>
         </Dialog>
         <Dialog ID="1" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_1</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_1</VoiceFile>
           <Content>You are quite the polite gentleman. This was unexpected from the Library that was rumored to be brutal.</Content>
         </Dialog>
         <Dialog ID="2" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_2</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_2</VoiceFile>
           <Content>Not to mention, this place also has a… rather quiet and moody atmosphere. Not bad.</Content>
         </Dialog>
         <Dialog ID="3" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_3</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_3</VoiceFile>
           <Content>The silence and emptiness makes it hard for one to believe that the macabre atrocity of turning people into books has taken place here on multiple occasions.</Content>
         </Dialog>
         <Dialog ID="4" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_4</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_4</VoiceFile>
           <Content>…May I ask who the people behind you are?</Content>
         </Dialog>
         <Dialog ID="5" Model="호크마">
@@ -4909,15 +4909,15 @@
           <Content>They’re the assistant librarians who shall aid me in receiving you warmly. You may introduce yourselves to each other.</Content>
         </Dialog>
         <Dialog ID="6" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_5</VoiceFile>
-          <Content>But of course. My name is Pluto.</Content>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_5</VoiceFile>
+          <Content>But of course. My name is พลูโต.</Content>
         </Dialog>
         <Dialog ID="7" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_6</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_6</VoiceFile>
           <Content>…I believe this was a floor dedicated to the topic of religion. What is religion in your view, if I may ask?</Content>
         </Dialog>
         <Dialog ID="8" Model="호크마">
@@ -4927,33 +4927,33 @@
           <Content>What could it be. I would say that it is what one firmly believes in, and a state of mind that gives motivation and significance to their deeds.</Content>
         </Dialog>
         <Dialog ID="9" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_7</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_7</VoiceFile>
           <Content>Is the power of a belief really limited to endowing one with such a mindset?</Content>
         </Dialog>
         <Dialog ID="10" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_8</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_8</VoiceFile>
           <Content>Doing deeds for the good of this world doesn’t inherently make one a good person, and neither does committing a bad deed make one evil.</Content>
         </Dialog>
         <Dialog ID="11" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_9</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_9</VoiceFile>
           <Content>Even if one performs misdeeds, they can be a virtuous person, and can be forgiven for anything…</Content>
         </Dialog>
         <Dialog ID="12" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_10</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_10</VoiceFile>
           <Content>I’d argue that belief and religion are what enables one to think that everything they conceive and accept is right.</Content>
         </Dialog>
         <Dialog ID="13" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_11</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_11</VoiceFile>
           <Content>In that context, faith in religion has to be a truly selfish and cruel concept.</Content>
         </Dialog>
         <Dialog ID="14" Model="호크마">
@@ -4963,9 +4963,9 @@
           <Content>I suppose your statement isn’t entirely incorrect.</Content>
         </Dialog>
         <Dialog ID="15" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_12</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_12</VoiceFile>
           <Content>Do you agree with it?</Content>
         </Dialog>
         <Dialog ID="16" Model="호크마">
@@ -4975,9 +4975,9 @@
           <Content>I could say it is true that an unsteady and crumbled mind is prone to absorb improper beliefs.</Content>
         </Dialog>
         <Dialog ID="17" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_13</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_13</VoiceFile>
           <Content>Unsteady, you say…</Content>
         </Dialog>
         <Dialog ID="18" Model="호크마">
@@ -4987,39 +4987,39 @@
           <Content>…Do you have anyone or anything you believe in?</Content>
         </Dialog>
         <Dialog ID="19" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_14</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_14</VoiceFile>
           <Content>I cannot say for sure. I tend not to place faith in what I cannot see.</Content>
         </Dialog>
         <Dialog ID="20" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_15</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_15</VoiceFile>
           <Content>In fact, I cannot be entirely certain of if I am here in reality or in a dream, or if I am actually looking at you or not.</Content>
         </Dialog>
         <Dialog ID="21" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_16</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_16</VoiceFile>
           <Content>I even question the fact that I am here, standing on my own two feet. After all, it may be a mere product of an illusion.</Content>
         </Dialog>
         <Dialog ID="22" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_17</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_17</VoiceFile>
           <Content>Humans can fool their own senses; how can I believe in what does not exist, let alone worship it?</Content>
         </Dialog>
         <Dialog ID="23" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_18</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_18</VoiceFile>
           <Content>That would be akin to sensing coldness upon touching a hot object, and vice versa.</Content>
         </Dialog>
         <Dialog ID="24" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_19</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_19</VoiceFile>
           <Content>For instance, what if… there was a deceptive entity that masks one’s perception of the world with falsehood?</Content>
         </Dialog>
         <Dialog ID="25" Model="호크마">
@@ -5041,33 +5041,33 @@
           <Content>To believe in something, one must believe in themselves and their view on it.</Content>
         </Dialog>
         <Dialog ID="28" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_20</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_20</VoiceFile>
           <Content>You’re speaking specious words.</Content>
         </Dialog>
         <Dialog ID="29" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_21</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_21</VoiceFile>
           <Content>I only realized that day that I cannot blindly trust what my eyes show me.</Content>
         </Dialog>
         <Dialog ID="30" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_22</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_22</VoiceFile>
           <Content>In that moment of the past, I was made a fool.</Content>
         </Dialog>
         <Dialog ID="31" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_23</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_23</VoiceFile>
           <Content>The shallow promise that our safety would be secured… The thin piece of contract is what cost me everything.</Content>
         </Dialog>
         <Dialog ID="32" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_24</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_24</VoiceFile>
           <Content>Had he not saved me, I might have drowned myself in resentment toward the whole world… and met my end.</Content>
         </Dialog>
         <Dialog ID="33" Model="호크마">
@@ -5077,15 +5077,15 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="34" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_25</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_25</VoiceFile>
           <Content>And now, I plan to take the path he intends to open.</Content>
         </Dialog>
         <Dialog ID="35" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_26</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_26</VoiceFile>
           <Content>If I had to state one thing I believe in… It would be Sir Argalia and the new world he shall create.</Content>
         </Dialog>
         <Dialog ID="36" Model="호크마">
@@ -5095,15 +5095,15 @@
           <Content>Let me ask you what makes you put faith in him.</Content>
         </Dialog>
         <Dialog ID="37" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_27</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_27</VoiceFile>
           <Content>If I can close my eyes and open them again to a new world forever devoid of lies… I will readily believe in him.</Content>
         </Dialog>
         <Dialog ID="38" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_28</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_28</VoiceFile>
           <Content>And I hope you will come to appreciate the City when it becomes such a place.</Content>
         </Dialog>
         <Dialog ID="39" Model="호크마">
@@ -5113,9 +5113,9 @@
           <Content>I will refrain from stating my assessments. My opinion matters little to you, after all.</Content>
         </Dialog>
         <Dialog ID="40" Model="플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_Pluto_29</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_29</VoiceFile>
           <Content>Well, if you say so. In that case… be prepared.</Content>
         </Dialog>
       </Place>
@@ -5504,7 +5504,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าหอสมุด</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
@@ -7013,21 +7013,21 @@ are brushed by the wind.</Content>
           <Content>She just chose what she actually wants for the first time.</Content>
         </Dialog>
         <Dialog ID="13" Model="D_플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>The Reverberation Ensemble</Title>
-          <VoiceFile>ch7_Blue_ep3_Pluto_1</VoiceFile>
+          <VoiceFile>ch7_Blue_ep3_พลูโต_1</VoiceFile>
           <Content>You appear to be invigorated, much more so than the last time we saw you.</Content>
         </Dialog>
         <Dialog ID="14" Model="D_플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>The Reverberation Ensemble</Title>
-          <VoiceFile>ch7_Blue_ep3_Pluto_2</VoiceFile>
+          <VoiceFile>ch7_Blue_ep3_พลูโต_2</VoiceFile>
           <Content>It seems we all are brimming with a similar vigor. I can sense a noble power seeping into my body.</Content>
         </Dialog>
         <Dialog ID="15" Model="D_플루토">
-          <Teller>Pluto</Teller>
+          <Teller>พลูโต</Teller>
           <Title>The Reverberation Ensemble</Title>
-          <VoiceFile>ch7_Blue_ep3_Pluto_3</VoiceFile>
+          <VoiceFile>ch7_Blue_ep3_พลูโต_3</VoiceFile>
           <Content>In this light, we shall achieve perfection.</Content>
         </Dialog>
         <Dialog ID="16" Model="D_엘레나">

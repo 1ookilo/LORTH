@@ -373,7 +373,7 @@
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia1</VoiceFile>
-          <Content>อิซาดอราซัง ได้โปรด… ช่วยเขาสักครั้งเถอะนะ อย่างน้อยเราก็ขอให้ผู้กำกับช่วยตรวจสอบเรื่องนี้ได้ไหม?</Content>
+          <Content>อิซาดอรา ได้โปรด… ช่วยเขาสักครั้งเถอะนะ อย่างน้อยเราก็ขอให้ผู้กำกับช่วยตรวจสอบเรื่องนี้ได้ไหม?</Content>
         </Dialog>
         <Dialog ID="7" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -412,64 +412,64 @@
           <Content>ไม่มีในบันทึกที่ไหนของสไวที่บอกว่า เราต้องมีส่วนเกี่ยวข้องในเรื่องนี้เลยนะ? ฉันไม่รู้เลยว่าเธอกำลังพูดเรื่องอะไรกัน</Content>
         </Dialog>
         <Dialog ID="13" Model="산">
-          <Teller>แซน</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san3</VoiceFile>
-          <Content>So that’s how it is… You use us as you please, then turn your back on us so easily…</Content>
+          <Content>มันเป็นงี้เองสินะ… พวกคุณอยากใช้เราก็ใช้ แล้วพอจะทิ้งก็หันหลังทิ้งลงอย่างง่ายดาย…</Content>
         </Dialog>
         <Dialog ID="14" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora9</VoiceFile>
-          <Content>Hello, you’re putting the blame on the wrong people here.</Content>
+          <Content>เด๋วนะ นายกำลังมาโทษผิดคนแล้ว</Content>
         </Dialog>
         <Dialog ID="15" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora10</VoiceFile>
-          <Content>Even if such a deal did take place like you said, you must have demanded or at least expected a corresponding reward. That’s what a deal is after all.</Content>
+          <Content>แม้ว่าข้อตกลงเป็นอย่างที่นายว่า นายก็จะต้องการหรืออย่างน้อยก็คาดหวัง ได้รับในส่วนของรางวัลจากสมาพันธ์อยู่แล้ว นั้นแหละคือข้อตกลงที่ว่าทั้งหมด</Content>
         </Dialog>
         <Dialog ID="16" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora11</VoiceFile>
-          <Content>You used the association as much as the association used you. You don’t get to talk like it was one-sided extortion. </Content>
+          <Content>นายก็ใช้สมาพันธ์มากเท่าที่สมาพันธ์ใช้นายนั้นแหละ อย่ามาพูดเอาเองฝ่ายเดียวเหมือนถูกบีบบังคับสิ</Content>
         </Dialog>
         <Dialog ID="17" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora12</VoiceFile>
-          <Content>Come on, let’s not act like rookies now. You’ve been in this business for 8 years, you should know how things work by now.</Content>
+          <Content>ให้ตายเหอะ อย่าทำตัวเหมือนพวกมือใหม่ได้มั้ย นายเองก็อยู่ในวงการนี้มาตั้ง 8 ปีแล้วนะ ควรรู้สิ่งต่างๆของการทำงานได้แล้ว</Content>
         </Dialog>
         <Dialog ID="18" Model="줄리아">
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia4</VoiceFile>
-          <Content>Isadora! You don’t have to be so harsh. We all started out as Office-mates…</Content>
+          <Content>อิซาดอรา! ไม่เห็นต้องพูดรุนแรงเลย พวกเราทั้งหมดก็เป็นเพื่อนร่วมงาน เริ่มต้นจากสำนักงานเดียวกันนะ…</Content>
         </Dialog>
         <Dialog ID="19" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora13</VoiceFile>
-          <Content>I’m just frustrated. I don’t want to see him in such a wretched state, either.</Content>
+          <Content>ฉันก็แค่หงุดหงิดน่ะ ไม่อยากเห็นเขาในสภาพที่น่าสมเพชแบบนี้ก็เท่านั้น</Content>
         </Dialog>
         <Dialog ID="20" Model="산">
-          <Teller>แซน</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san4</VoiceFile>
-          <Content>Sorry. I understand what you’re trying to say.</Content>
+          <Content>ขอโทษด้วยนะ ฉันเข้าใจสิ่งที่เธอพยายามจะบอกแล้ว</Content>
         </Dialog>
         <Dialog ID="21" Model="산">
-          <Teller>แซน</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san5</VoiceFile>
-          <Content>You’re right, that’s how it’s always been… I’ll go look for another way now.</Content>
+          <Content>เธอพูดถูก มันเป็นแบบนั้นมาตลอด… ฉันจะลองไปหาวิธีอื่นดู</Content>
         </Dialog>
         <Dialog ID="22" Model="줄리아">
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia5</VoiceFile>
-          <Content>San… I’m so sorry… I never thought it would turn out this way…</Content>
+          <Content>ซาน… ฉันขอโทษจริงๆนะ… ฉันไม่คิดเลยว่ามันจะกลายเป็นแบบนี้…</Content>
         </Dialog>
         <Dialog ID="23" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -480,67 +480,67 @@
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora14</VoiceFile>
-          <Content>Well would you look at that. Now this is the proper procedure I’m talking about.</Content>
+          <Content>เอาละๆ ดูนั้นสิ นี่คือขั้นตอนที่เหมาะสมที่ฉันพยายามจะบอก</Content>
         </Dialog>
         <Dialog ID="25" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora15</VoiceFile>
-          <Content>The Hana Association just elevated ‘The Library’ from Urban Myth to Urban Legend.</Content>
+          <Content>สมาพันธ์ฮานะได้เลื่อน 'ห้องสมุด' ที่ว่านั้นจากเรื่องเล่าประจำเมือง เป็นตำนานเมืองแล้วนะ</Content>
         </Dialog>
         <Dialog ID="26" Model="줄리아">
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia6</VoiceFile>
-          <Content>That means…! Our association can now officially act on this case, right?</Content>
+          <Content>นั้นหมายความว่า…! สมาพันธ์ของเราก็เคลื่อนไหวอย่าง เป็นทางการกับเรื่องนี้ได้แล้วถูกไหม?</Content>
         </Dialog>
         <Dialog ID="27" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora16</VoiceFile>
-          <Content>W-well, yeah, but we still don’t know Zwei’s stance on it yet, so, don’t get your hopes up, alright?</Content>
+          <Content>อ-อือ ถูกแล้ว แต่เรายังไม่รู้ท่าทีของสมาพันธ์สไวเกี่ยวกับเรื่องนี้ เพราะงั้นอย่าเพิ่งหวังไปเองล่ะ โอเคมั้ย?</Content>
         </Dialog>
         <Dialog ID="28" Model="산">
-          <Teller>แซน</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san6</VoiceFile>
-          <Content>Thank you, Isadora… I really owe you one.</Content>
+          <Content>ขอบคุณอิซาดอรา… ฉันเป็นหนี้เธอแล้ว</Content>
         </Dialog>
         <Dialog ID="29" Model="산">
-          <Teller>แซน</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san7</VoiceFile>
-          <Content>And apologies for laying my burden on you. </Content>
+          <Content>และขอโทษที่เป็นภาระให้กับเธอนะ</Content>
         </Dialog>
         <Dialog ID="30" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora17</VoiceFile>
-          <Content>I-it’s nothing, all I did was compile information following procedure and send it to the higher ups.</Content>
+          <Content>ฉ-ฉันก็แค่รวบรวมข้อมูลตามขั้นตอน แล้วก็ส่งมันให้กับเบื้องบน</Content>
         </Dialog>
         <Dialog ID="31" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora18</VoiceFile>
-          <Content>There certainly have been reports that several other Syndicates and Offices fell victim to ‘The Library’, although they were mostly insignificant fledglings.</Content>
+          <Content>มีรายงานแล้วว่า องค์กรและสำนักงานหลายแห่งตกเป็นเหยื่อของ 'ห้องสมุด' แม้ว่าพวกเขาจะเป็นเพียงกลุ่มเล็กๆ และไม่สำคัญก็ตาม</Content>
         </Dialog>
         <Dialog ID="32" Model="줄리아">
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia7</VoiceFile>
-          <Content>But it’s all thanks to the masterful data analysis by our lovely Isadora from Section 6 that it could be handled so quickly, right? That’s my girl!</Content>
+          <Content>แต่ทั้งหมดต้องขอบคุณการวิเคราะห์ข้อมูลระดับมืออาชีพ ของอิซาดอราซึเดเระผู้น่ารักของเราจากหน่วย 6 ที่ทำให้จัดการได้อย่างรวดเร็วถูกไหม? สมแล้วที่เป็นเพื่อนฉัน</Content>
         </Dialog>
         <Dialog ID="33" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora19</VoiceFile>
-          <Content>Fine, believe in whatever you want!</Content>
+          <Content>เอาเถอะ อยากเชื่อแบบนั้นก็ตามใจ!</Content>
         </Dialog>
         <Dialog ID="34" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora20</VoiceFile>
-          <Content>Anyway, do you still have that invitation with you?</Content>
+          <Content>ยังไงก็แล้วแต่ บัตรเชิญยังอยู่กับนายอยู่ไหม?</Content>
         </Dialog>
       </Place>
       <Place>
