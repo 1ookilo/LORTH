@@ -8,7 +8,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: ฐานนิ้วโป้งทางใต้ - ห้องประชุม</PlaceName>
+        <PlaceName>สถานที่: ฐานทางตอนใต้ของธัมห - ห้องประชุม</PlaceName>
         <Dialog ID="0" Model="칼로">
           <Teller>???</Teller>
           <Title>???</Title>
@@ -25,13 +25,13 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel2_b</VoiceFile>
-          <Content>ไม่ว่ายังไงก็ตาม แน่นอนว่าเราไม่ควรปล่อยให้ พวกนิ้วชี้ ครอบรอง 'the yolk' ได้</Content>
+          <Content>ไม่ว่ายังไงก็ตาม แน่นอนว่าเราไม่ควรปล่อยให้อินเดกซ์ ครอบรองส่วนกลางได้</Content>
         </Dialog>
         <Dialog ID="3" Model="칼로">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo2</VoiceFile>
-          <Content>เธอพูดถูก พวกนิ้วกลาง, พวกนิ้วนาง, และพวกนิ้วก้อย ดูเหมือนว่าพวกมันจะยุ่งกับเรื่องภายในมากเกินไปจนไม่สนใจที่จะเข้าร่วมกับศึกในครั้งนี้ ทำให้เบาใจได้เปราะหนึ่ง</Content>
+          <Content>เธอพูดถูก มิดเดิล, ริง, และพิ้งกี้ ดูเหมือนว่าพวกมันจะยุ่งกับเรื่องภายในมากเกินไปจนไม่สนใจที่จะเข้าร่วมกับศึกในครั้งนี้ ทำให้เบาใจได้เปราะหนึ่ง</Content>
         </Dialog>
         <Dialog ID="4" Model="카트리엘">
           <Teller>???</Teller>
@@ -534,13 +534,13 @@
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora19</VoiceFile>
-          <Content>เอาเถอะ อยากเชื่อแบบนั้นก็ตามใจ!</Content>
+          <Content>เออ อยากเชื่อแบบนั้นก็ตามใจเลย!</Content>
         </Dialog>
         <Dialog ID="34" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora20</VoiceFile>
-          <Content>ยังไงก็แล้วแต่ บัตรเชิญยังอยู่กับนายอยู่ไหม?</Content>
+          <Content>ช่างยัยนั้นเถอะ นายยังมีบัตรเชิญนั้นอยู่รึเปล่า?</Content>
         </Dialog>
       </Place>
       <Place>
@@ -597,7 +597,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland6</VoiceFile>
-          <Content>ฉันก็สงสัยมาซักพักแล้วนะ ว่าอะไรหยุดเธอให้ไม่ออกจากที่นี่?</Content>
+          <Content>ฉันสงสัยมาสักพักแล้ว ว่าแต่อะไรกันล่ะที่หยุดเธอไว้ไม่ให้ออกไปจากที่นี่?</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -609,7 +609,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela5</VoiceFile>
-          <Content>>คำสาปที่โบราณและลึกล้ำ นั่นคือสิ่งที่ตรึงติดอยู่กับฉัน</Content>
+          <Content>คำสาปโบราณนั้นฝั่งลึกผูกติดกับตัวฉันไว้</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -621,7 +621,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela7</VoiceFile>
-          <Content>นอกจากนั้น ฉันเองก็ยังไม่อยากออกจากที่นี่จนกว่าฉันจะได้แก้แค้น</Content>
+          <Content>นอกจากนั้น ฉันเองก็ยังไม่อยากออกจากที่นี่ จนกว่าฉันจะได้แก้แค้น</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -633,19 +633,19 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela9</VoiceFile>
-          <Content>มีสิ่งใหม่ๆอยู่เต็มไปหมด ไม่เหมือนกับคุกในอดีตของฉัน</Content>
+          <Content>มีสิ่งใหม่ๆอยู่เต็มไปหมด ไม่เหมือนอย่างคุกในอดีตที่เคยผ่านมา</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela10</VoiceFile>
-          <Content>ทั้งผู้คนหน้าใหม่ๆ สะสมความรู้ใหม่ๆ เหตุการณ์ที่น่าสนใจ… ฉันชอบความสดใหม่ทั้งหมดนี้ ฉันอยากรู้มากกว่านี้ ฉันจะเรียนรู้และเรียนรู้ไปเรื่อยๆ และในขณะเรียนรู้อยู่ ฉันอาจจะรู้ได้ว่า…</Content>
+          <Content>ได้พบเจอกับหน้าใหม่ๆ ได้สะสมความรู้ใหม่ๆ ได้เห็นเหตุการณ์ที่น่าสนใจใหม่ๆ… ฉันชื่นชอบความสดใหม่เหล่านี้ ฉันอยากรู้มากขึ้นจะเรียนรู้ขึ้นอีกและเรียนรู้ต่อไป แล้วเมื่อฉันได้เรียนรู้ก็อาจจะค้นพบคำตอบได้ในที่สุด ว่า…</Content>
         </Dialog>
         <Dialog ID="51" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela11</VoiceFile>
-          <Content>…ทำไมฉันต้องตกเป็นเหยื่อให้กับความทรมาณขนาดนั้นด้วย…</Content>
+          <Content>…ทำไมฉันถึงต้องถูกทรมานอย่างเช่นตอนนี้…</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -681,7 +681,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland10</VoiceFile>
-          <Content>หนึ่งในความลับความอร่อยของสตูนั้นก็คือ หม้อดีบุกขนาดใหญ่ที่ถูกสั่งตรงมาจาก T corp เพียงแค่ต้มเนื้อด้วยน้ำเปล่าซัก 10 วินาที ก็จะได้เนื้อแสนนุ่มพร้อมกับน้ำซุปแสนเข้มข้นที่ปกติต้องใช้เวลาต้มถึง 3 วันเชียวนะ</Content>
+          <Content>หนึ่งในความลับความอร่อยของสตูนั้นก็คือ หม้อดีบุกขนาดใหญ่ที่ถูกสั่งตรงมาจากทีคอร์ป เพียงแค่ต้มเนื้อด้วยน้ำเปล่าซัก 10 วินาที ก็จะได้เนื้อแสนนุ่มพร้อมกับน้ำซุปแสนเข้มข้นที่ปกติต้องใช้เวลาต้มถึง 3 วันเชียวนะ</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -699,13 +699,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland12</VoiceFile>
-          <Content>โอ้ะ ใช่ เธอกินข้าวไม่ได้ใช่ไหม…? ขอโทษที่พูดจาไร้สาระไปนะครับ คุณนาย</Content>
+          <Content>โอ้ลืมเลย เธอกินไม่ได้นิ? โทษทีๆที่พูดอะไรที่ไร้ประโยชน์นะคุณผู้หญิง</Content>
         </Dialog>
         <Dialog ID="61" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland13</VoiceFile>
-          <Content>แต่ก็ยังมีอีกหลายสถานที่ที่น่าไปเยี่ยมชมอยู่ เพราะงั้นผมมั่นใจเลยว่าจะพาคุณนายไปทัวร์รอบเมืองเองนะครับ คุณนาย</Content>
+          <Content>แต่ก็ยังมีอีกหลายสถานที่ที่น่าไปเยี่ยมชมอยู่ เพราะงั้นผมมั่นใจเลยว่าจะพาเธอไปทัวร์รอบเมืองเองนะครับ คุณผู้หญิง</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
