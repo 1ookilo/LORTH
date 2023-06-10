@@ -2,32 +2,32 @@
 <PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <PassiveDesc ID="1001011">
     <Name>Scars</Name>
-    <Desc>Take 1-5 less damage from Slash attacks.</Desc>
+    <Desc>รับดาเมจจากการฟันน้อยลง 1-5 ดาเมจ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1001012">
     <Name>Blood</Name>
-    <Desc>Lose 3 Speed. Boost the max value of Block dice by +3.</Desc>
+    <Desc>เสียความเร็ว 3 หน่วย เพิ่มค่าสูงสุดของลูกเต๋าป้องกัน +3.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1002021">
     <Name>Aspiration</Name>
-    <Desc>Lose 4 HP if the character did not deal any damage for a Scene.</Desc>
+    <Desc>หากไม่สามารถทำดาเมจได้ในฉากนี้ เสีย 4 HP</Desc>
   </PassiveDesc>
   <!-- 피노키오 : 거짓말쟁이 -->
   <PassiveDesc ID="1003011">
     <Name>Impersonate</Name>
-    <Desc>Copies the Patron Librarian's Combat Bookshelf (deck). Light is restored to max each Scene.</Desc>
+    <Desc>เลียนแบบเด็คของหัวหน้าบรรณารักษ์ ในแต่ละฉากจะฟื้นแสงจนเต็ม</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003012">
     <Name>Lies</Name>
-    <Desc>Plays a page that contains a Lie every 2~3 Scenes which shows false information.</Desc>
+    <Desc>ใช้ Page ที่จะมีการโกหกทุกๆ 2-3 ฉากโดยจะมีข้อมูลที่ผิดปกติ</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003014">
     <Name>คนโกหกจมูกจะยืด</Name>
-    <Desc>When clashing against 'Lying is Bad!' while lying, all dice lose 4 Power.</Desc>
+    <Desc>เมื่อปะทะกับ "อย่าโม้ครับน้อง!" ขณะที่โกหกอยู่ ลูกเต๋าทั้งหมดจะเสีย 4 พลัง</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003015">
     <Name>โป้ปด จับไม่ได้~~~</Name>
-    <Desc>While lying, all dice gain +4 Power if the character doesn't clash against 'Lying is Bad!'.</Desc>
+    <Desc>ขณะที่โกหกอยู่ ลูกเต๋าทั้งหมดได้พลัง +4 หากไม่ได้ปะทะกับ "อย่าโม้ครับน้อง!"</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003016">
     <Name>โกหกมันแย่ตรงไหน?</Name>
@@ -94,21 +94,21 @@
   </PassiveDesc>
   <PassiveDesc ID="402011">
     <Name>Pebble</Name>
-    <Desc>Restore 10% HP at the start of the Scene. Does not activate if the current HP is 1.</Desc>
+    <Desc>Restore 10% HP เมื่อเริ่มฉาก. Does not activate if the current HP is 1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="402012">
     <Name>อย่าทิ้งฉันไป~</Name>
-    <Desc>HP does not go below 1; becomes Staggered upon taking lethal damage. After two Scenes, recover HP equal to the current HP of another ally. If all allies have 1 HP at the start of the Scene, die.</Desc>
+    <Desc>HP does not go below 1; becomes Staggered upon taking lethal damage. After two Scenes, recover HP equal to the current HP of another ally. If all allies have 1 HP เมื่อเริ่มฉาก, die.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="402013">
     <Name>น้ำตาแห่งกรแยกจาก</Name>
-    <Desc>At the start of the Scene, if there is an ally with 1 HP (including self), all characters lose 10% of their Max HP.</Desc>
+    <Desc>เมื่อเริ่มฉาก, if there is an ally with 1 HP (including self), all characters lose 10% of their Max HP.</Desc>
   </PassiveDesc>
 
   <!-- 요정 -->
   <PassiveDesc ID="103011">
     <Name>ท้องแน่นครู่หนึ่ง</Name>
-    <Desc>If an ally with Prepared Meat status has 1 HP, consume it at the start of the Scene and gain 10 Fragile, Feeble, Disarm for the duration of that Scene.</Desc>  
+    <Desc>If an ally with Prepared Meat status has 1 HP, consume it เมื่อเริ่มฉาก and gain 10 Fragile, Feeble, Disarm for the duration of that Scene.</Desc>  
   </PassiveDesc>
   <!-- 요정 -->
   <PassiveDesc ID="103012">
@@ -227,7 +227,7 @@ At the end of the Scene, restore all Light and draw 2 pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="104012">
     <Name>ชูชันสร้างแรงงาน</Name>
-    <Desc>If there are 2 or fewer Worker Bees alive at the start of the Scene, inflict 2 Spores on all librarians.</Desc>
+    <Desc>If there are 2 or fewer Worker Bees alive เมื่อเริ่มฉาก, inflict 2 Spores on all librarians.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="104013">
     <Name>แปลงสภาพ</Name>
@@ -289,13 +289,13 @@ At the end of the Scene, restore all Light and draw 2 pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="701014">
     <Name>Straw for Brains</Name>
-    <Desc>At the start of the Scene, all librarians who own no pages become Staggered.</Desc>
+    <Desc>เมื่อเริ่มฉาก, all librarians who own no pages become Staggered.</Desc>
   </PassiveDesc>
 
   <!-- 나무꾼 -->
   <PassiveDesc ID="702011">
     <Name>Dense Forest</Name>
-    <Desc>If the character has Warm Heart at the start of the Scene, all librarians restore Light to max.</Desc>
+    <Desc>If the character has Warm Heart เมื่อเริ่มฉาก, all librarians restore Light to max.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="702012">
     <Name>Still Not Enough</Name>
@@ -311,11 +311,11 @@ At the end of the Scene, restore all Light and draw 2 pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="702015">
     <Name>Empty Chest</Name>
-    <Desc>If the character has no Warm Heart at the start of the Scene, become Staggered.</Desc>
+    <Desc>If the character has no Warm Heart เมื่อเริ่มฉาก, become Staggered.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="702021">
     <Name>Heart-Haver</Name>
-    <Desc>At the start of the Scene, if the amount of Warm Heart(s) is 0, the Woodsman culls this character.</Desc>
+    <Desc>เมื่อเริ่มฉาก, if the amount of Warm Heart(s) is 0, the Woodsman culls this character.</Desc>
   </PassiveDesc>
 
   <!-- 죽나장 -->
@@ -329,7 +329,7 @@ At the end of the Scene, restore all Light and draw 2 pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="204013">
     <Name>Lamentation</Name>
-    <Desc>If there's a Staggered enemy at the start of the Scene, uses a Mass Attack page.</Desc>
+    <Desc>If there's a Staggered enemy เมื่อเริ่มฉาก, uses a Mass Attack page.</Desc>
   </PassiveDesc>
   <!-- 죽나장 나비-->
   <PassiveDesc ID="204021">
@@ -497,7 +497,7 @@ At the end of the Scene, restore all Light and draw 2 pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="901012">
     <Name>Wings for an Old God</Name>
-    <Desc>While this character is active, all librarians are inflicted with 10 Feeble at the start of the Scene.</Desc>
+    <Desc>While this character is active, all librarians are inflicted with 10 Feeble เมื่อเริ่มฉาก.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="901013">
     <Name>In Your Sight</Name>
@@ -522,7 +522,7 @@ At the end of the Scene, restore all Light and draw 2 pages.</Desc>
 
   <PassiveDesc ID="1004011">
     <Name>Biting Wind</Name>
-    <Desc>At the start of the Scene, all librarians lose HP equal to 5% of their Max HP.</Desc>
+    <Desc>เมื่อเริ่มฉาก, all librarians lose HP equal to 5% of their Max HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1004012">
     <Name>Reticent Frigidity</Name>
@@ -563,7 +563,7 @@ At the end of the Scene, restore all Light and draw 2 pages.</Desc>
   </PassiveDesc>  
   <PassiveDesc ID="603212">
     <Name>Terrifying Laughter</Name>
-    <Desc>At the start of the Scene, gain 1 Strength. Uses 'Horrid Screech' every 2 Scenes.</Desc>
+    <Desc>เมื่อเริ่มฉาก, gain 1 Strength. Uses 'Horrid Screech' every 2 Scenes.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="603311">
     <Name>Division</Name>
@@ -571,7 +571,7 @@ At the end of the Scene, restore all Light and draw 2 pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="603312">
     <Name>Putrid Vomit</Name>
-    <Desc>At the start of the Scene, gain 2 Strength. Uses 'Vomit' every 2 Scenes.</Desc>
+    <Desc>เมื่อเริ่มฉาก, gain 2 Strength. Uses 'Vomit' every 2 Scenes.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="603021">
     <Name>Rot</Name>
@@ -642,11 +642,11 @@ After attacking the Servant of Wrath again on the second Scene, uses a Mass Atta
 
   <PassiveDesc ID="902011">
     <Name>Time Flowing</Name>
-    <Desc>Cannot be targeted. Every Scene, the player is given 30 seconds to select Combat Pages before the combat phase starts. At the start of the Scene, give other allies one of the following: 'Gain +3 Power in a clash' or 'Gain +3 Power in a one-sided attack'.</Desc>
+    <Desc>Cannot be targeted. Every Scene, the player is given 30 seconds to select Combat Pages before the combat phase starts. เมื่อเริ่มฉาก, give other allies one of the following: 'Gain +3 Power in a clash' or 'Gain +3 Power in a one-sided attack'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="902012">
     <Name>Time Cumulating</Name>
-    <Desc>At the start of the Scene, spawns a 'Remnant of Time'. If 4 Remnants of Time are already present, the one with the lowest HP is replaced and all librarians take damage equal to its HP.</Desc>
+    <Desc>เมื่อเริ่มฉาก, spawns a 'Remnant of Time'. If 4 Remnants of Time are already present, the one with the lowest HP is replaced and all librarians take damage equal to its HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="902013">
     <Name>Time Unstopping</Name>
@@ -654,7 +654,7 @@ After attacking the Servant of Wrath again on the second Scene, uses a Mass Atta
   </PassiveDesc>
   <PassiveDesc ID="902014">
     <Name>The Price of Silence</Name>
-    <Desc>At the start of the Scene, add a copy of 'Silence' to the hands of all librarians.</Desc>
+    <Desc>เมื่อเริ่มฉาก, add a copy of 'Silence' to the hands of all librarians.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="902021">
     <Name>Your Betiding</Name>
@@ -685,7 +685,7 @@ After attacking the Servant of Wrath again on the second Scene, uses a Mass Atta
 
   <PassiveDesc ID="803011">
     <Name>Unjust Scale</Name>
-    <Desc>Starting with Scene 1, all characters excluding Judgement Bird gain 1 Sin at the start of the Scene. Sin can be transferred to an ally by attacking and damaging them. (Once per page)</Desc>
+    <Desc>Starting with Scene 1, all characters excluding Judgement Bird gain 1 Sin เมื่อเริ่มฉาก. Sin can be transferred to an ally by attacking and damaging them. (Once per page)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="803012">
     <Name>The Weight of Sin</Name>
@@ -693,11 +693,11 @@ After attacking the Servant of Wrath again on the second Scene, uses a Mass Atta
   </PassiveDesc>
   <PassiveDesc ID="803013">
     <Name>Judgement</Name>
-    <Desc>If a character has 5 or more Sin at the start of the Scene, uses the special Combat Page ‘Judgement’ on them.</Desc>
+    <Desc>If a character has 5 or more Sin เมื่อเริ่มฉาก, uses the special Combat Page ‘Judgement’ on them.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="803014">
     <Name>Ceaseless Judgement</Name>
-    <Desc>If three or more characters have 3+ Sin at the start of the Scene, uses a Mass attack page: ‘Ceaseless Judgement’.</Desc>
+    <Desc>If three or more characters have 3+ Sin เมื่อเริ่มฉาก, uses a Mass attack page: ‘Ceaseless Judgement’.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="803015">
     <Name>Overflowing Misdeeds</Name>
@@ -736,7 +736,7 @@ If the character did not use the page for the first 4 Scenes of the battle, it w
   </PassiveDesc>
   <PassiveDesc ID="604032">
     <Name>Flowing Blood</Name>
-    <Desc>At the start of the Scene, lose 1 Blood.</Desc>
+    <Desc>เมื่อเริ่มฉาก, lose 1 Blood.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="604033">
     <Name>Unbearable Drought</Name>
@@ -844,6 +844,6 @@ Afterwards, the real Jack transforms into 'Jack Revived', and permanently uses t
   </PassiveDesc>
   <PassiveDesc ID="903022">
     <Name>Martyrs</Name>
-    <Desc>If there are less than 4 Worshippers present at the start of the Scene, a Worshipper is spawned.</Desc>
+    <Desc>If there are less than 4 Worshippers present เมื่อเริ่มฉาก, a Worshipper is spawned.</Desc>
   </PassiveDesc>
 </PassiveDescRoot>
