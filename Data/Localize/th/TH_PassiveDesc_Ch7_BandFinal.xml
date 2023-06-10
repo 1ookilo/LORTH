@@ -17,7 +17,7 @@
 At the end of the Scene, all characters' Emotion Levels rise by 2.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1410014">
-    <Name>The Grand Finale</Name>
+    <Name>มหรสพส่งท้าย</Name>
     <Desc>If no other Reverberation Ensemble members are present, fully recover Stagger Resist, and use a different set of Combat Pages.</Desc>
   </PassiveDesc>
 
@@ -28,7 +28,7 @@ At the end of the Scene, all characters' Emotion Levels rise by 2.</Desc>
     เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1408012">
-    <Name>Speed</Name>
+    <Name>ความเร็ว</Name>
     <Desc>Speed Dice Slot +1. Gain a Speed die on the fourth Scene. Gain an additional one if there's an enemy whose Emotion Level is 4 or higher.
 Does not gain Speed dice from Emotion Level bonuses.</Desc>
   </PassiveDesc>
@@ -40,11 +40,11 @@ Does not gain Speed dice from Emotion Level bonuses.</Desc>
     เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1409012">
-    <Name>Unconscionable</Name>
+    <Name>ไร้สติ ไร้เหตุผล</Name>
     <Desc>Every Scene, uses an 'Unjust Contract' Combat Page.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1409013">
-    <Name>Stygian Shade</Name>
+    <Name>เงาทมิฬ</Name>
     <Desc>Spawns a Shade on the second Scene. The Shade gets a copy of the Patron Librarian's hand and deck (Excluding [On Play] pages). If the Patron Librarian is not present, a random other librarian's deck will be copied instead.</Desc>
   </PassiveDesc>
   
