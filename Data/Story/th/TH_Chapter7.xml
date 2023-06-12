@@ -1720,43 +1720,43 @@
           <Content>Neiiigh~ Bawk, cluck cluck!!! Arf~!! Bow-wow, woof!!!</Content>
         </Dialog>
         <Dialog ID="4" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_พลูโต_1</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_Pluto_1</VoiceFile>
           <Content>เคาะ และประตูเอ๋ยจงเปิดออก!</Content>
         </Dialog>
         <Dialog ID="5" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_1</VoiceFile>
           <Content>แข็งแกร่งจนเหลือเชื่อเลย</Content>
         </Dialog>
         <Dialog ID="6" Model="그레타">
-          <Teller>Greta</Teller>
+          <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_Greta_1</VoiceFile>
           <Content>ฮ่าฮ่า! ก็การทำอาหารคือการทดสอบความอึดนี่นา</Content>
         </Dialog>
         <Dialog ID="7" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_2</VoiceFile>
           <Content>ตามที่พูดเลย น้องสาว</Content>
         </Dialog>
         <Dialog ID="8" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_1</VoiceFile>
           <Content>เอาน่า เพื่อนเอ๋ย? เดี๋ยวพวกเธอได้ทำผู้อาศัยที่นี่ขวัญอ่อนนะ—พวกนั้นอาจหนีไปซ่อนก็ได้นะ…</Content>
         </Dialog>
         <Dialog ID="9" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_2</VoiceFile>
           <Content>เราจะแนะนำทั้งกลุ่มให้พวกเขาเป็นครั้งแรก เพราะงั้นเราควรที่จะสุภาพเข้าไว้ ไม่ใช่หรือ?</Content>
         </Dialog>
         <Dialog ID="10" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_Phillip_1</VoiceFile>
           <Content>พวกเขาอาจไล่เราออกไปถ้าเราเสียงดังเกินไป</Content>
@@ -1768,7 +1768,7 @@
           <Content>ถ้าทำงั้น เราก็แค่บุกถล่มพวกแม่งซะ.</Content>
         </Dialog>
         <Dialog ID="12" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_Oswald_1</VoiceFile>
           <Content>นี่สิน้าหอสุมดที่เลื่องลือ~! ฉันได้ยินมาหลายเรื่องเลย แต่ไม่คิดว่าจะได้เห็นกับตา!</Content>
@@ -1780,13 +1780,13 @@
           <Content>นายเคยนำละครสัตวในเต็นท์เล็กๆ นั่นมานาน…</Content>
         </Dialog>
         <Dialog ID="14" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_Oswald_2</VoiceFile>
           <Content>และฉันขอบคุณเธอที่เปลื่ยนให้!</Content>
         </Dialog>
         <Dialog ID="15" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_Oswald_3</VoiceFile>
           <Content>ด้วยการช่วยเหลือของเธอ ฉันสามารถออกจากเต็นท์คลุ้งกลิ่นดอกไม้อับๆ นั่นได้~!</Content>
@@ -1798,15 +1798,15 @@
           <Content>รู้ไหมมันเหนื่อยขนาดไหนในการจัดการกับลูกเล่นชวนโมโหของมึงอ่ะ? มึงเกือบทำพวกเราไปคนนึงนะ</Content>
         </Dialog>
         <Dialog ID="17" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_Oswald_4</VoiceFile>
           <Content>ตอนนั้นสติฉันมันไม่ค่อยสมประกอบ แหม ฉันนึกว่าเธอจะแสดงร่วมกับฉันเท่านั้น…</Content>
         </Dialog>
         <Dialog ID="18" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_พลูโต_2</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_Pluto_2</VoiceFile>
           <Content>แต่ว่า ผมคิดว่ามันช่างน่าบังเอิญที่ท้ายสุดเราสามารถเดินทางเดียวกันได้</Content>
         </Dialog>
         <Dialog ID="19" Model="에일린">
@@ -1816,20 +1816,20 @@
           <Content>ฉันก็รู้สึกแบบเดียวกัน… ท่านอาร์กาเลียได้ให้การหลุดพ้นแก่เรา</Content>
         </Dialog>
         <Dialog ID="20" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_3</VoiceFile>
           <Content>ฮะฮะ ไม่… ไม่ต้องพูดก็ได้ เพื่อนเอ๋ย</Content>
         </Dialog>
         <Dialog ID="21" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_4</VoiceFile>
           <Content>ฉันทำแบบนี้คนเดียวไม่ได้แน่ ฉันควรขอบคุณพวกเธอทุกคน</Content>
         </Dialog>
         <Dialog ID="22" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_5</VoiceFile>
           <Content>ไงก็ตาม… ดูเหมือนว่าจะไม่มีใครมาต้อนรับเราวันนี้นะ?</Content>
         </Dialog>
@@ -1855,16 +1855,16 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_1</VoiceFile>
-          <Content>นั่นครั้งแรกแฮะ พูดเลย</Content>
+          <Content>นั่นครั้งแรกเลยแฮะ ผมพูดเลย</Content>
         </Dialog>
         <Dialog ID="27" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_พลูโต_3</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_Pluto_3</VoiceFile>
           <Content>บางทีนี่อาจบ่งบอกว่าหอสมุดนั้นเริ่มใกล้ภพกายภาพจนสามารถมีปฏิสัมพันธ์จากภายนอกก็ได้นะ?</Content>
         </Dialog>
         <Dialog ID="28" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_3</VoiceFile>
           <Content>แถมเราก็เคาะหลายครั้งด้วยนะ</Content>
@@ -1876,22 +1876,22 @@
           <Content>ถ้าเธอใช้มือสกปรกเคาะประตูแล้วไม่มีใครตอบรับ สิ่งที่พวกเธอควรทำคือออกไป ไม่ใช่งัดเข้ามา</Content>
         </Dialog>
         <Dialog ID="30" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_6</VoiceFile>
-          <Content>Don’t get your skirt in a twist. พอดีว่าเรากำลัง… รีบน่ะ</Content>
+          <Content>อย่าร้อนตัวไปสิ พอดีว่าเรากำลัง… รีบน่ะ</Content>
         </Dialog>
         <Dialog ID="31" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_7</VoiceFile>
-          <Content>พลูโต? ทำงานหน่อยสิ</Content>
+          <Content>พูลโต? ทำงานหน่อย</Content>
         </Dialog>
         <Dialog ID="32" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_พลูโต_4</VoiceFile>
-          <Content>ได้แน่นอน ผมจะจัดการซอมแซมทางเข้าให้เสร็จในไมช้า</Content>
+          <VoiceFile>ch7_Blue_ep2_Pluto_4</VoiceFile>
+          <Content>ได้แน่นอน ผมจะจัดการซอมแซมทางเข้าให้เสร็จในไม่ช้า</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
@@ -1906,106 +1906,106 @@
           <Content>…นั่นมันซิงกุลาริติ้หรือ?</Content>
         </Dialog>
         <Dialog ID="35" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_พลูโต_5</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_Pluto_5</VoiceFile>
           <Content>ซิงกุลาริติ้? ช่างกล่าวอ้างได้น่าขันสิ้น…</Content>
         </Dialog>
         <Dialog ID="36" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_Oswald_5</VoiceFile>
           <Content>มันคือเวทย์มนต์!</Content>
         </Dialog>
         <Dialog ID="37" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_พลูโต_6</VoiceFile>
-          <Content>We are truth seekers and artists, perched on the boundary as we search for an answer.</Content>
+          <VoiceFile>ch7_Blue_ep2_Pluto_6</VoiceFile>
+          <Content>เราคือผู้แสวงความจริงและศิลปิน ผู้นั่งอยู่บนชายแดนระหว่างที่เราตามหาคำตอบ</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_4</VoiceFile>
-          <Content>You haven’t been taken over by the Distortion… How is that possible?</Content>
+          <Content>พวกเธอยังไม่โดนการบิดเบือนครอบงำ… เป็นไปได้ยังไงกัน?</Content>
         </Dialog>
         <Dialog ID="39" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_Greta_2</VoiceFile>
-          <Content>To eat! Or be eaten! We’re walking a fine line at the crossroads!</Content>
+          <Content>เพื่อกิน! หรือถูกกิน! เรากำลังเดินอยู่บนเส้นด้าย ณ ทางแยก!</Content>
         </Dialog>
         <Dialog ID="40" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_4</VoiceFile>
-          <Content>The so-called Pale Librarian has fully become a human, huh… I can’t even call her pale anymore.</Content>
+          <Content>บรรณารักษ์สีซีดตามที่เรียกกันได้กลายเป็นมนุษย์อย่างสมบูรณ์แล้วสินะ… ฉันเรียกเธอว่าผิวซีดไม่ได้อีกแล้ว</Content>
         </Dialog>
         <Dialog ID="41" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_5</VoiceFile>
-          <Content>She now has red blood coursing beneath her soft flesh.</Content>
+          <Content>ตอนนี้เธอมีเลือดแดงไหลเวียนทั่วเนื้อหนังอันละมุนของเธอ</Content>
         </Dialog>
         <Dialog ID="42" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_6</VoiceFile>
-          <Content>I want to rip out every little blood vessel in your body and eat it. The veins of a machine turned human… How will they taste, I wonder?</Content>
+          <Content>ฉันอยากจะกระชากเส้นเลือดทุกเส้นในร่างกายเธอและกินมันจริง เส้นเลือดของเครื่องจักรที่กลายเป็นมนุษย์… อยากรู้จังว่าจะมีรสชาติแบบไหนกัน?</Content>
         </Dialog>
         <Dialog ID="43" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_Greta_3</VoiceFile>
-          <Content>Easy there, Elena! That stuff tastes better cooked than raw!</Content>
+          <Content>เย็นไว้ก่อน เอเลน่า! ไอ้นั่นปรุงสุกอร่อยกว่ากินดิบนะ!</Content>
         </Dialog>
         <Dialog ID="44" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_7</VoiceFile>
-          <Content>…The thought is making my mouth water.</Content>
+          <Content>…แค่คิดน้ำลายก็ไหลแล้ว</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_5</VoiceFile>
-          <Content>I respect your preferences, but please save discussions about them for private conversation.</Content>
+          <Content>ฉันเคารพความชอบส่วนตัวนะ แต่โปรดมันหัวข้อแบบนั้นไว้คุยส่วนตัวจะดีกว่า</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_3</VoiceFile>
-          <Content>What’s your business here, anyway? We don’t feel like giving any books to you. Didn’t invite you here, either.</Content>
+          <Content>แล้วพวกแกมีธุระอะไรที่นี่ล่ะ? เรายังไม่อยากให้หนังสือพวกแกสักเล่ม แถมไม่ได้เชิญพวกแกมาด้วย</Content>
         </Dialog>
         <Dialog ID="47" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_Phillip_2</VoiceFile>
-          <Content>I heard that the answer we seek lies at the Library. At its very core…</Content>
+          <Content>ผมได้ยินมาว่าคำตอบที่เราตามหาอยู่ในหอสมุด ในใจกลางของมัน…</Content>
         </Dialog>
         <Dialog ID="48" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_Oswald_6</VoiceFile>
-          <Content>And we’ve come to snatch that book with our forky tongue!</Content>
+          <Content>และเรามาเพื่อฉกหนังสือนั่นด้วยลิ้นแฉกๆของเรา!</Content>
         </Dialog>
         <Dialog ID="49" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_พลูโต_7</VoiceFile>
-          <Content>แองเจล่า. We are aware that you have nearly completed that volume.</Content>
+          <VoiceFile>ch7_Blue_ep2_Pluto_7</VoiceFile>
+          <Content>แองเจล่า เรารู้ดีว่าเธอใกล้ทำเล่มนั้นเสร็จแล้ว</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_6</VoiceFile>
-          <Content>…Who said anything about giving it away?</Content>
+          <Content>…ใครบอกว่าฉันจะให้มันไปล่ะ?</Content>
         </Dialog>
         <Dialog ID="51" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_8</VoiceFile>
-          <Content>I never said anything about asking permission, either.</Content>
+          <Content>ฉันไม่เคยพูดว่าจะขออนุญาตนี่</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
@@ -2014,10 +2014,10 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="53" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_9</VoiceFile>
-          <Content>Ah, right. Roland… It’s been a while since I got to have a chat with you in peace.</Content>
+          <Content>อา ใช่ โรแลนด์… นานแล้วนะที่ฉันได้คุยกับนายอย่างสงบน่ะ</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
@@ -2026,82 +2026,82 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="55" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_10</VoiceFile>
-          <Content>You won’t talk to me?</Content>
+          <Content>นายจะไม่คุยกับฉันเหรอ?</Content>
         </Dialog>
         <Dialog ID="56" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_11</VoiceFile>
-          <Content>That’s heartless of you. And I had good news for you, too…</Content>
+          <Content>ไร้หัวใจชะมัด แถมฉันมีข่าวดีให้นายด้วยนะ…</Content>
         </Dialog>
         <Dialog ID="57" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_12</VoiceFile>
-          <Content>We’ve brought along the person you wanted to meet so dearly, actually.</Content>
+          <Content>ที่จริงแล้ว เราได้พาคนที่นายอยากพบแทบตายมาด้วยล่ะ</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_6</VoiceFile>
-          <Content>…What?</Content>
+          <Content>…ห้ะ?</Content>
         </Dialog>
         <Dialog ID="59" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_13</VoiceFile>
-          <Content>Truth be told, I didn’t want her to meet you again. The two of you were comparable to a marriage between a beautiful rose and a rabid beast…</Content>
+          <Content>เอาตามตรง ฉันไม่อยากให้เธอเจอนายอีก เธอสองคนนั้นเทียบได้กับการแต่งงานระหว่างดอกฟ้ากับหมาบ้า…</Content>
         </Dialog>
         <Dialog ID="60" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_14</VoiceFile>
-          <Content>Though, a love story that ends with the lovers never getting to see each other again would be… too tragic, wouldn’t you say?</Content>
+          <Content>แต่ว่า เรื่องรักที่จบลงที่คนรักไม่ได้เจอหน้ากันอีกคงจะ… อนาถเกินไป นายเห็นด้วยไหม?</Content>
         </Dialog>
         <Dialog ID="61" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_15</VoiceFile>
-          <Content>So I decided to take her with us.</Content>
+          <Content>ฉันเลยตัดสินใจพาเธอมากับเราด้วย.</Content>
         </Dialog>
         <Dialog ID="62" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_7</VoiceFile>
-          <Content>What bullcrap are you…</Content>
+          <Content>นี่มึงพูดบ้าอะไร…</Content>
         </Dialog>
         <Dialog ID="63" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_1</VoiceFile>
-          <Content>It’s been a while, โรแลนด์.</Content>
+          <Content>นานแล้วนะ โรแลนด์.</Content>
         </Dialog>
         <Dialog ID="64" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_8</VoiceFile>
-          <Content>…Have we met before?</Content>
+          <Content>…เราเคยเจอกันมาก่อนเหรอ?</Content>
         </Dialog>
         <Dialog ID="65" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_2</VoiceFile>
-          <Content>How could I forget. She wouldn’t shut up about you.</Content>
+          <Content>ฉันจะลืมได้ไง เธอไม่ยอมหุบปากเรื่องแกเลย</Content>
         </Dialog>
         <Dialog ID="66" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_3</VoiceFile>
-          <Content>That’s right, Angelica had much to say.</Content>
+          <Content>ใช่แล้ว แองแจลิก้านั้นมีอะไรให้พูดเยอะมาก</Content>
         </Dialog>
         <Dialog ID="67" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_4</VoiceFile>
-          <Content>…Oh dear. Was it too much?</Content>
+          <Content>…อุ๊ย ตาย เกินไปหรือเปล่านะ?</Content>
         </Dialog>
         <Dialog ID="68" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
@@ -2110,124 +2110,124 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="69" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_16</VoiceFile>
-          <Content>What’s wrong…? Are you at a loss for words by the reunion of your dreams?</Content>
+          <Content>เป็นไรไป…? ไม่มีคำจะพูดตอนได้เจอคนในฝันอีกครั้งเหรอ?</Content>
         </Dialog>
         <Dialog ID="70" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_10</VoiceFile>
-          <Content>What… motherfuckery are you trying to pull?</Content>
+          <Content>นี่… มึงเล่นเหี้ยอะไรของมึง?</Content>
         </Dialog>
         <Dialog ID="71" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_5</VoiceFile>
-          <Content>There’s no trickery here. Or are you so mesmerized by her polished up beauty that you can’t stop admiring her?</Content>
+          <Content>ไม่ได้เล่นอะไรทั้งนั้น หรือแกตราตรึงที่เห็นความงดงามของเธอจนแกหยุดชื่นชมเธอไม่ได้ล่ะ?</Content>
         </Dialog>
         <Dialog ID="72" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_11</VoiceFile>
-          <Content>…Argalia!!!</Content>
+          <Content>…อาร์กาเลีย!!!</Content>
         </Dialog>
         <Dialog ID="73" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_17</VoiceFile>
-          <Content>How intimidating… What’s the problem? You’ve finally met your beloved Angelica once more.</Content>
+          <Content>ทำหน้าน่ากลัวเหลือเกิน… เป็นไรไปล่ะ? นายได้เจอแองแจลิก้าที่นายรักอีกครั้งแล้ว</Content>
         </Dialog>
         <Dialog ID="74" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_18</VoiceFile>
-          <Content>Oh, don’t tell me… Fell in love at first sight for the second time? Want to steal away Angelica from me yet again?</Content>
+          <Content>อ้อ อย่าบอกนะ… ตกหลุมรักครั้งแรกรอบสองน่ะ? อยากขดมยแองแจลิก้าไปจากฉันอีกครั้งงั้นเหรอ?</Content>
         </Dialog>
         <Dialog ID="75" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_19</VoiceFile>
-          <Content>No, you won’t. I won’t let that happen this time.</Content>
+          <Content>ไม่มีทางหรอก ฉันจะไม่ปล่อยให้เกิดขึ้นอีกคราวนี้</Content>
         </Dialog>
         <Dialog ID="76" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_20</VoiceFile>
-          <Content>You don’t deserve Angelica. She deserved better than having her life ruined by the likes of you.</Content>
+          <Content>นายไม่สมควรได้แองแจลิก้า เธอสมควรได้สิ่งที่ดีกว่าปล่อยให้ชีวิตเธอสูญเปล่าจากคนอย่างนาย</Content>
         </Dialog>
         <Dialog ID="77" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_12</VoiceFile>
-          <Content>…Don’t you feel anything when you look at that mess you made out of her?</Content>
+          <Content>…นี่มึงไม่รู้สึกอะไรกับสารรูปที่มึงทำกับเธอรึไง?</Content>
         </Dialog>
         <Dialog ID="78" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_21</VoiceFile>
-          <Content>You must be quite bedazzled by her perfected form.</Content>
+          <Content>นายคงตื่นตาจากร่างอันสมบูรณ์แบบของเธอสิท่า</Content>
         </Dialog>
         <Dialog ID="79" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_13</VoiceFile>
-          <Content>You’re not gonna croak in peace. I’ll chew you up alive, crunch your bones to dust…</Content>
+          <Content>มึงไม่ตายสงบแน่ กูจะเคี้ยวมึงทั้งเป็น ขยี้กระดูกมึงให้เป็นผงt…</Content>
         </Dialog>
         <Dialog ID="80" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_22</VoiceFile>
-          <Content>You’re still bound to the past, blind to the present. โรแลนด์, you fool.</Content>
+          <Content>นายยังยึดติดกับอดีต มืดบอดต่อปัจจุบันอยู่ โรแลนด์ เจ้าโง่เอ๊ย</Content>
         </Dialog>
         <Dialog ID="81" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_23</VoiceFile>
-          <Content>Try looking into the future like I do. Do you know how hard Jae-heon worked for this?</Content>
+          <Content>พยายามมองไปยังอนาคตเหมือนที่ฉันทำสิ นายรู้ไหมว่าแจฮยอนเขาทำนี่หนักขนาดไหน?</Content>
         </Dialog>
         <Dialog ID="82" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_6</VoiceFile>
-          <Content>Sorting out the corpses clustered within the piano was an arduous task, even for me.</Content>
+          <Content>การแยกศพที่กระจุกในเปียโนมันเป็นงานที่ลำบาก ถึงแม้จะเป็นผมก็ตาม</Content>
         </Dialog>
         <Dialog ID="83" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_8</VoiceFile>
-          <Content>I went through a fair bit of trouble next to him. I had to extract Angelica’s blood out of the pile of bodies bloated from the heat.</Content>
+          <Content>ฉันเองก็ลำบากต่อจากเขา ฉันต้องสกัดเลือดของแองแจลิก้าจากกองศพที่ขึ้นอึดจากความร้อน</Content>
         </Dialog>
         <Dialog ID="84" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_7</VoiceFile>
-          <Content>…The piano?</Content>
+          <Content>…เปียโนเหรอ?</Content>
         </Dialog>
         <Dialog ID="85" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_24</VoiceFile>
-          <Content>What? Hahaha…</Content>
+          <Content>ห้ะ? ฮะฮะฮะ…</Content>
         </Dialog>
         <Dialog ID="86" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_25</VoiceFile>
-          <Content>Ah… My oh my. Was it too early to reveal this…?</Content>
+          <Content>อ่า… ตายแล้วสิ นี่ฉันเผยเรื่องนี้เร็วไปสินะ…?</Content>
         </Dialog>
         <Dialog ID="87" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_26</VoiceFile>
-          <Content>Oh, I’m so sorry, โรแลนด์.</Content>
+          <Content>โอ้ ฉันขอโทษด้วยนะโรแลนด์</Content>
         </Dialog>
         <Dialog ID="88" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_27</VoiceFile>
-          <Content>I didn’t ruin your little… “plan” by accident, did I?</Content>
+          <Content>นี่ฉันไม่ได้ทำลาย… “แผน” เล็กๆของนายโดยบังเอิญ ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="89" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
@@ -2239,11 +2239,11 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_8</VoiceFile>
-          <Content>Is this about… the Pianist?</Content>
+          <Content>นี่มันเกี่ยวกับ… นักเปียโนงั้นเหรอ?</Content>
         </Dialog>
         <Dialog ID="91" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_28</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -2254,45 +2254,45 @@
           <Content>Neeighhhghh!!! Arf arf, ruff ruff ruff!!!</Content>
         </Dialog>
         <Dialog ID="93" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_Greta_4</VoiceFile>
-          <Content>HAWHAWHAW!!! Even I know that fact! All your smarts were good for nothing, heh?</Content>
+          <Content>ฮ่าฮ่าฮ่า!!! แม้แต่ฉันยังรู้เลย! เธอนี่ฉลาดเสียเปล่าเรอะเนี่ย?</Content>
         </Dialog>
         <Dialog ID="94" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_Oswald_7</VoiceFile>
-          <Content>This show is getting spicier than I thought~!</Content>
+          <Content>โชว์นี้ชักจะเผ็ดร้อนกว่าที่คิดไว้แล้วสิเนี่ย~!</Content>
         </Dialog>
         <Dialog ID="95" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_29</VoiceFile>
-          <Content>Hahaha!!! Ah~ I was trying to hold it in, I really was…</Content>
+          <Content>ฮะฮะฮะ!!! อ่า~ ฉันพยายามกลั้นเอาไว้แล้ว จริงๆ นะ…</Content>
         </Dialog>
         <Dialog ID="96" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_30</VoiceFile>
-          <Content>But this is too hysterical, I can’t hold back my tears…</Content>
+          <Content>แต่นี่มันน่าขันเกินไป ฉันกลั้นน้ำตาไว้ไม่ได้จริงๆ…</Content>
         </Dialog>
         <Dialog ID="97" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_31</VoiceFile>
-          <Content>You naive, moronic heap of scrap…</Content>
+          <Content>ยัยเศษเหล็กปัญญาอ่อนไร้เดียงสาเอ๊ย…</Content>
         </Dialog>
         <Dialog ID="98" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_32</VoiceFile>
-          <Content>Angela… You’re the one who killed that black-hearted bastard’s undeserved better half, do you see it now? You’re the one who killed my sister…</Content>
+          <Content>แองแจล่า… เธอเป้นคนฆ่าอีกครึ่งที่ไม่สมควรได้ของไอ้เวรใจดำนั่น เธอเห็นหรือยัง? เธอเป็นคนฆ่าน้องสาวฉัน…</Content>
         </Dialog>
         <Dialog ID="99" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_พลูโต_8</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_Pluto_8</VoiceFile>
           <Content>Quite a scene, indeed… Even I cannot help but laugh at this.</Content>
         </Dialog>
         <Dialog ID="100" Model="정장 타냐">
@@ -2302,13 +2302,13 @@
           <Content>The White Nights and Dark Days caused the Distortion phenomenon… which made the Pianist.</Content>
         </Dialog>
         <Dialog ID="101" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_9</VoiceFile>
           <Content>And you, แองเจล่า, are responsible for the White Nights and Dark Days.</Content>
         </Dialog>
         <Dialog ID="102" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_Phillip_3</VoiceFile>
           <Content>The relation couldn’t be any clearer.</Content>
@@ -2332,8 +2332,8 @@
           <Content>…Cut it out.</Content>
         </Dialog>
         <Dialog ID="106" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_7</VoiceFile>
           <Content>You’re being calmer than I expected this time. Rather than, you know, throwing a furious fit.</Content>
         </Dialog>
@@ -2356,32 +2356,32 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="110" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_8</VoiceFile>
           <Content>โรแลนด์. I don’t expect you to remember us.</Content>
         </Dialog>
         <Dialog ID="111" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_9</VoiceFile>
           <Content>All I wanted… was to bring back my son, who had died in an unfortunate incident.</Content>
         </Dialog>
         <Dialog ID="112" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_10</VoiceFile>
           <Content>There was no way for me to have anything to do with the death of your wife.</Content>
         </Dialog>
         <Dialog ID="113" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_11</VoiceFile>
           <Content>I explained it all to you, and yet… You killed my son in cold blood, in that workroom.</Content>
         </Dialog>
         <Dialog ID="114" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_12</VoiceFile>
           <Content>You were such a merciless being.</Content>
         </Dialog>
@@ -2392,8 +2392,8 @@
           <Content>…Right. It was the place with a terrible stench…</Content>
         </Dialog>
         <Dialog ID="116" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_13</VoiceFile>
           <Content>This was unexpected. You actually remembered it.</Content>
         </Dialog>
@@ -2404,32 +2404,32 @@
           <Content>Looking at that puppet… I can’t help but be reminded of it. I guess you got more skillful since then, even though your disgusting method hasn’t changed one bit…</Content>
         </Dialog>
         <Dialog ID="118" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_14</VoiceFile>
           <Content>…No Singularity could save my son when he was found. He was in an abysmal state.</Content>
         </Dialog>
         <Dialog ID="119" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_15</VoiceFile>
           <Content>He was playing in a spot that was out of my sight… when he unfortunately got in the way of a road roller which was making way for gentrification in a Backstreets redevelopment site.</Content>
         </Dialog>
         <Dialog ID="120" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_16</VoiceFile>
           <Content>I shouldn’t have been at work that day. But I still wanted to undo what happened… even if it cost everything I had…</Content>
         </Dialog>
         <Dialog ID="121" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_17</VoiceFile>
           <Content>What’s more… The revival of my son was nearly complete.</Content>
         </Dialog>
         <Dialog ID="122" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_18</VoiceFile>
           <Content>But then you had to intervene moments before our touching reunion, and ruin it all.</Content>
         </Dialog>
@@ -2446,74 +2446,74 @@
           <Content>All it was, was an abomination made with the flesh of random people weaved together.</Content>
         </Dialog>
         <Dialog ID="125" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_19</VoiceFile>
           <Content>You don’t get to decide the worth of my method. Or the ways of anyone else here for that matter.</Content>
         </Dialog>
         <Dialog ID="126" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_20</VoiceFile>
           <Content>I… never did any harm to you.</Content>
         </Dialog>
         <Dialog ID="127" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_21</VoiceFile>
           <Content>The worst thing I did was use the bodies of children who’d already gone astray and lost their lives during the night.</Content>
         </Dialog>
         <Dialog ID="128" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_22</VoiceFile>
           <Content>Even so, if the parents of those kids wanted to hold me accountable… I was ready to accept their judgement.</Content>
         </Dialog>
         <Dialog ID="129" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_23</VoiceFile>
           <Content>…Not yours, โรแลนด์!</Content>
         </Dialog>
         <Dialog ID="130" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_24</VoiceFile>
           <Content>You had no right to kill my son who was just about to be given new life, or judge me for my actions!</Content>
         </Dialog>
         <Dialog ID="131" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_25</VoiceFile>
           <Content>That day, staring at the fire which engulfed all I had, I swore to myself…</Content>
         </Dialog>
         <Dialog ID="132" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_26</VoiceFile>
           <Content>That I’d do everything… to make you suffer the same. And to make this damned world suffer as well.</Content>
         </Dialog>
         <Dialog ID="133" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_27</VoiceFile>
           <Content>There was no justification for a maniac who was lashing out at blameless people to kill my son…</Content>
         </Dialog>
         <Dialog ID="134" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_28</VoiceFile>
           <Content>Then I came across another chance. I could awaken to this power…</Content>
         </Dialog>
         <Dialog ID="135" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_29</VoiceFile>
           <Content>But I was confused, and lost my way for a good while. My head was brimming with all kinds of thoughts.</Content>
         </Dialog>
         <Dialog ID="136" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_30</VoiceFile>
           <Content>That was when the orchestrator here reached out to me, and led me to this exact moment.</Content>
         </Dialog>
@@ -2590,32 +2590,32 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="149" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_33</VoiceFile>
           <Content>Ahh… This is taking such an amusing turn.</Content>
         </Dialog>
         <Dialog ID="150" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_34</VoiceFile>
           <Content>Don’t get me wrong, แองเจล่า.</Content>
         </Dialog>
         <Dialog ID="151" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_35</VoiceFile>
           <Content>I’m not here to get my revenge like that man with a heart of coal is.</Content>
         </Dialog>
         <Dialog ID="152" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_36</VoiceFile>
           <Content>It’s the opposite, rather… I’m thankful for you, you see?</Content>
         </Dialog>
         <Dialog ID="153" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_Greta_5</VoiceFile>
           <Content>You gave us the power to reach here, sister!!</Content>
         </Dialog>
@@ -2626,44 +2626,44 @@
           <Content>Thank you… for opening up a path through which we can reach salvation…</Content>
         </Dialog>
         <Dialog ID="155" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_37</VoiceFile>
           <Content>Here, we’ll take the light of the Library, and illuminate the City with beauty that exceeds the Pianist’s.</Content>
         </Dialog>
         <Dialog ID="156" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_38</VoiceFile>
           <Content>So that no one will ever be able to forget us!</Content>
         </Dialog>
         <Dialog ID="157" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_39</VoiceFile>
           <Content>That’s why, Angela… you have my deepest gratitude.</Content>
         </Dialog>
         <Dialog ID="158" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_31</VoiceFile>
           <Content>Let me express my appreciation as well. I could shake him up as I desired thanks to your ignorance.</Content>
         </Dialog>
         <Dialog ID="159" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_Oswald_8</VoiceFile>
           <Content>As eager as I am to see what happens next with googly eyes, we’ll have to miss out on it, sadly.</Content>
         </Dialog>
         <Dialog ID="160" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_40</VoiceFile>
           <Content>Now! Get ready, then.</Content>
         </Dialog>
         <Dialog ID="161" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_41</VoiceFile>
           <Content>The song of this City is approaching its coda… And you have your stories to keep, don’t you?</Content>
         </Dialog>
@@ -2703,11 +2703,11 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Malkuth vs. Philip</EpisodeName>
+      <EpisodeName>Malkuth vs. ฟิลลิป</EpisodeName>
       <Place>
         <PlaceName>Location: The Library - Floor of History</PlaceName>
         <Dialog ID="0" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile />
           <Content>…</Content>
@@ -2719,7 +2719,7 @@
           <Content>Welcome! I’m the Patron Librarian of the Floor of History and your opponent… Malkuth!</Content>
         </Dialog>
         <Dialog ID="2" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile />
           <Content>…</Content>
@@ -2731,7 +2731,7 @@
           <Content>Mm, are you going to say anything?</Content>
         </Dialog>
         <Dialog ID="4" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_3</VoiceFile>
           <Content>What more do I have to say to you.</Content>
@@ -2743,7 +2743,7 @@
           <Content>Are you holding some sorta grudge because you think we took everything from you?</Content>
         </Dialog>
         <Dialog ID="6" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_4</VoiceFile>
           <Content>Maybe so.</Content>
@@ -2755,25 +2755,25 @@
           <Content>You don’t sound all that certain about it.</Content>
         </Dialog>
         <Dialog ID="8" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_5</VoiceFile>
           <Content>There are remnants of memories and feelings inside me. I’m not sure if I forgot them or lost them, though. Those feelings only become more dull over time.</Content>
         </Dialog>
         <Dialog ID="9" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_6</VoiceFile>
           <Content>I imagine myself in the past would’ve gotten upset and sad over those, unable to let go of them all.</Content>
         </Dialog>
         <Dialog ID="10" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_7</VoiceFile>
           <Content>Right now, I’m simply standing here for the performance that will awaken the people of this City like everyone else.</Content>
         </Dialog>
         <Dialog ID="11" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_8</VoiceFile>
           <Content>I have no hard feelings, other than the desire for the Light you’ve kept hidden.</Content>
@@ -2785,25 +2785,25 @@
           <Content>Don’t you feel that you’ve lost something important to you?</Content>
         </Dialog>
         <Dialog ID="13" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_9</VoiceFile>
           <Content>Having my happiness taken away doesn’t always mean that sadness has to fill that space.</Content>
         </Dialog>
         <Dialog ID="14" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_10</VoiceFile>
           <Content>I haven’t become intrinsically unhappier.</Content>
         </Dialog>
         <Dialog ID="15" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_11</VoiceFile>
           <Content>I’ve simply returned to a past state, back when I hadn’t realized such emotions… back before I met them.</Content>
         </Dialog>
         <Dialog ID="16" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_12</VoiceFile>
           <Content>I’m sure I wasn’t a miserable man at that time.</Content>
@@ -2815,49 +2815,49 @@
           <Content>If you have to part with such emotions and memories… what’ll be left for you?</Content>
         </Dialog>
         <Dialog ID="18" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_13</VoiceFile>
           <Content>Nothing. I don’t feel sad about it, though.</Content>
         </Dialog>
         <Dialog ID="19" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_14</VoiceFile>
           <Content>Why are people taught that they must earn things? Jobs, assets, friends, family, knowledge, wealth…</Content>
         </Dialog>
         <Dialog ID="20" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_15</VoiceFile>
           <Content>They tell us that our lives are made successful and content by acquiring them, whatever they may be.</Content>
         </Dialog>
         <Dialog ID="21" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_16</VoiceFile>
           <Content>Even though nothing in this world lasts forever. What we get is destined to depart from us one day.</Content>
         </Dialog>
         <Dialog ID="22" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_17</VoiceFile>
           <Content>Eventually, when people try and fail to latch on to them in an unsightly struggle, they despair and lament. I did, too.</Content>
         </Dialog>
         <Dialog ID="23" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_18</VoiceFile>
           <Content>Do relationships between people really matter? They’ll all break in the end, sooner or later.</Content>
         </Dialog>
         <Dialog ID="24" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_19</VoiceFile>
           <Content>Can’t a person be himself and walk down a path he chose purely on his own, without anyone else’s intervention?</Content>
         </Dialog>
         <Dialog ID="25" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_20</VoiceFile>
           <Content>He may seem like a nobody, but he’ll ultimately gain more.</Content>
@@ -2881,13 +2881,13 @@
           <Content>There might be difficult and trying times, but there’s still a lesson to be learned from that pain.</Content>
         </Dialog>
         <Dialog ID="29" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_21</VoiceFile>
           <Content>I don’t know. Even if that were true, you’re not one to lecture me about it.</Content>
         </Dialog>
         <Dialog ID="30" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_22</VoiceFile>
           <Content>Such a bold thing to say, after taking the lives of the people around me…</Content>
@@ -2899,19 +2899,19 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="32" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_23</VoiceFile>
           <Content>I haven’t come here to take revenge, though. Most would say the same.</Content>
         </Dialog>
         <Dialog ID="33" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_24</VoiceFile>
           <Content>All I want is a free life, one where I’m not chained to anything.</Content>
         </Dialog>
         <Dialog ID="34" Model="정장 필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_25</VoiceFile>
           <Content>I’m tired of having to worry about taking flak for anything I do.</Content>
@@ -3166,7 +3166,7 @@
           <Teller>Eileen</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_26</VoiceFile>
-          <Content>Praise be to Argalia!!</Content>
+          <Content>Praise be to อาร์กาเลีย!!</Content>
         </Dialog>
         <Dialog ID="38" Model="예소드">
           <Teller>Yesod</Teller>
@@ -3303,12 +3303,12 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Hod vs. Greta</EpisodeName>
+      <EpisodeName>Hod vs. เกรต้า</EpisodeName>
       <Place>
         <PlaceName>Location: The Library - Floor of Literature</PlaceName>
         <Dialog ID="0" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_1</VoiceFile>
           <Content>I’m picking up a quirky smell here… It’s the scent of a nice sauce!</Content>
         </Dialog>
@@ -3319,8 +3319,8 @@
           <Content>Greetings. I’m Hod, the Patron Librarian in charge of this floor.</Content>
         </Dialog>
         <Dialog ID="2" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_2</VoiceFile>
           <Content>Patron Librarian? Are you one of the chefs here?</Content>
         </Dialog>
@@ -3331,10 +3331,10 @@
           <Content>This isn’t a restaurant or anything… But I guess it’s an equivalent if I had to make a comparison.</Content>
         </Dialog>
         <Dialog ID="4" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_3</VoiceFile>
-          <Content>Name’s Greta! I got an order from our conductor!</Content>
+          <Content>Name’s เกรต้า! I got an order from our conductor!</Content>
         </Dialog>
         <Dialog ID="5" Model="호드">
           <Teller>Hod</Teller>
@@ -3349,14 +3349,14 @@
           <Content>I heard what happened to your former colleagues. The Eight Chefs have disbanded…</Content>
         </Dialog>
         <Dialog ID="7" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_4</VoiceFile>
           <Content>Oh, you’re talking about those cretins?</Content>
         </Dialog>
         <Dialog ID="8" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_5</VoiceFile>
           <Content>They were a buncha morons. They declared that they got sick of ordinary cuisine and started cooking their own bodies.</Content>
         </Dialog>
@@ -3367,26 +3367,26 @@
           <Content>Their own bodies?</Content>
         </Dialog>
         <Dialog ID="10" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_6</VoiceFile>
           <Content>Cooking, tasting, rating it, making notes… then back to preparing another part for cooking…</Content>
         </Dialog>
         <Dialog ID="11" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_7</VoiceFile>
           <Content>They kept going until their teeth and tongues were all that’s left.</Content>
         </Dialog>
         <Dialog ID="12" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_8</VoiceFile>
           <Content>Ain’t it sad? They got the teeth to chew the dishes, but their digestive tracts were boiled in a stew…</Content>
         </Dialog>
         <Dialog ID="13" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_9</VoiceFile>
           <Content>They had the tongues to taste the dishes, but their brains turned into steaks!</Content>
         </Dialog>
@@ -3397,20 +3397,20 @@
           <Content>…I’m sorry to hear that you were the only survivor.</Content>
         </Dialog>
         <Dialog ID="15" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_10</VoiceFile>
           <Content>Eh, it’s no biggie. If they were satisfied, who am I to mourn ‘em?</Content>
         </Dialog>
         <Dialog ID="16" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_11</VoiceFile>
           <Content>How you cook doesn’t matter! So long as the end result is a treat!!!</Content>
         </Dialog>
         <Dialog ID="17" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_12</VoiceFile>
           <Content>Nobody gives a rat’s buttered buns about what kinda ingredients are in their food. It’s the taste that matters!</Content>
         </Dialog>
@@ -3421,8 +3421,8 @@
           <Content>It may not be easy to remember an ingredient’s name, but its taste would leave a strong impression that’s hard to forget.</Content>
         </Dialog>
         <Dialog ID="19" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_13</VoiceFile>
           <Content>I can’t with the snobs who are picky about ingredients. A lot of ‘em are too inflexible.</Content>
         </Dialog>
@@ -3433,14 +3433,14 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="21" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_14</VoiceFile>
           <Content>Hm?</Content>
         </Dialog>
         <Dialog ID="22" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_15</VoiceFile>
           <Content>Ah, so you were one of ‘em!</Content>
         </Dialog>
@@ -3457,20 +3457,20 @@
           <Content>Still… I don’t think I can be at peace with the idea of eating my fellow human being.</Content>
         </Dialog>
         <Dialog ID="25" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_16</VoiceFile>
           <Content>Why think of ‘em as the same kind as you? You get wind of something savory, an’ ya find and eat it. What more is there to think about?</Content>
         </Dialog>
         <Dialog ID="26" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_17</VoiceFile>
           <Content>The smell in the air tells me that there’s a fresh ingredient out there. How could a predator ignore the scent of blood in the ocean current!</Content>
         </Dialog>
         <Dialog ID="27" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_18</VoiceFile>
           <Content>But let me tell ya, sister, ingredients these days are too filthy or frail. Delicious ones are hard to come by nowatimes.</Content>
         </Dialog>
@@ -3481,50 +3481,50 @@
           <Content>What do you mean by that?</Content>
         </Dialog>
         <Dialog ID="29" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_19</VoiceFile>
           <Content>I’m being literal! There’s more than enough food for everyone to feast on, but people always feel that there’s not enough ‘cause some of ‘em like their meals luxurious.</Content>
         </Dialog>
         <Dialog ID="30" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_20</VoiceFile>
           <Content>When somebody who can live with three meals a day decides to take four, someone else is left with two!</Content>
         </Dialog>
         <Dialog ID="31" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_21</VoiceFile>
           <Content>Then the poor sods who only get two meals a day fight over what little food they’ve got left to sate their hunger.</Content>
         </Dialog>
         <Dialog ID="32" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_22</VoiceFile>
           <Content>If you lose that competition, you live the life of a rat feeding on scraps!</Content>
         </Dialog>
         <Dialog ID="33" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_23</VoiceFile>
           <Content>The ingredients we get today are either greasy fatsos who ate too much or skinny twigs with barely any meat… Neither are any good!</Content>
         </Dialog>
         <Dialog ID="34" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_24</VoiceFile>
           <Content>Now the filthy flavor is seeping into the dishes we cook!!!</Content>
         </Dialog>
         <Dialog ID="35" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_25</VoiceFile>
           <Content>Our conductor will be the one to fix that! He’ll take me to a world where there are pure and clean ingredients aplenty!</Content>
         </Dialog>
         <Dialog ID="36" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_26</VoiceFile>
           <Content>That day can’t come soon enough! I’ve been filling my stomach with trash for too long.</Content>
         </Dialog>
@@ -3553,8 +3553,8 @@
           <Content>And that’s why… I’ll do my best to stop you here.</Content>
         </Dialog>
         <Dialog ID="41" Model="그레타">
-          <Teller>Greta</Teller>
-          <Title>The Eighth Chef</Title>
+          <Teller>เกรต้า</Teller>
+          <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_27</VoiceFile>
           <Content>I wonder what sauce will go well with this display… Want a little taste test? HAWHAW!!!</Content>
         </Dialog>
@@ -3777,35 +3777,35 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Tiphereth vs. Oswald</EpisodeName>
+      <EpisodeName>Tiphereth vs. ออซวอลด์</EpisodeName>
       <Place>
         <PlaceName>Location: The Library – Floor of Natural Sciences</PlaceName>
         <Dialog ID="0" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_1</VoiceFile>
           <Content>Sniff, sniff… This place has an unfamiliar scent in the air, hmm?</Content>
         </Dialog>
         <Dialog ID="1" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_2</VoiceFile>
           <Content>Ah! Down there is… a river that looks like a very large stream containing blueberries and juiced mountain snake berries…</Content>
         </Dialog>
         <Dialog ID="2" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_3</VoiceFile>
           <Content>An olfactory mixture of mint and clove… would make a stingy scent like this!</Content>
         </Dialog>
         <Dialog ID="3" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_4</VoiceFile>
           <Content>This stage has a blindingly sparkly rust, a stark contrast from ours! Splendid!</Content>
         </Dialog>
         <Dialog ID="4" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_5</VoiceFile>
           <Content>I couldn’t ask for a better place to prepare for a grandiose performance. Don’t you think so, Mr. Knife?!</Content>
@@ -3817,19 +3817,19 @@
           <Content>What a noisy guest.</Content>
         </Dialog>
         <Dialog ID="6" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_6</VoiceFile>
           <Content>Oh, two yikeses and a half! My heart almost popped out of my eyehole!</Content>
         </Dialog>
         <Dialog ID="7" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_7</VoiceFile>
           <Content>Are you an audience? Just a guest? Or maybe a fellow clown to help out with the show?! I’m taking a second look, and there’s more of you! Are you guys a matryoshka doll in secret? Mm, let’s see~ One, two… Eee, too many to count!</Content>
         </Dialog>
         <Dialog ID="8" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_8</VoiceFile>
           <Content>Ah, now just one moment! Take a look at this! Ms. Mermaid is lifting her microphone high in excitement~</Content>
@@ -3841,7 +3841,7 @@
           <Content>You’re getting nowhere with your frantic speech, so could you please stick to one topic at a time? And you’d be the guest here if we’re being pedantic.</Content>
         </Dialog>
         <Dialog ID="10" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_9</VoiceFile>
           <Content>A clown can’t be in charge of producing his own show, you know? Hahaha! That’s showbiz to you, miss!</Content>
@@ -3853,7 +3853,7 @@
           <Content>I don’t get what’s so funny…</Content>
         </Dialog>
         <Dialog ID="12" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_10</VoiceFile>
           <Content>Now, now~ Why don’t we sniff each other’s wrists in a true fashion of clown-to-clown communication ritual? I wore a whiff of peppery scent today!</Content>
@@ -3871,19 +3871,19 @@
           <Content>It’s rude to stick your face into others without asking… Do you understand?</Content>
         </Dialog>
         <Dialog ID="15" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_11</VoiceFile>
           <Content>Nyeh… How cold! People these days are waaay too stuck up!</Content>
         </Dialog>
         <Dialog ID="16" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_12</VoiceFile>
           <Content>We’re entering a moist era where laughter runs dry! People get so easily upset over tiny things.</Content>
         </Dialog>
         <Dialog ID="17" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_13</VoiceFile>
           <Content>Sob, sob, woe is me… If a clown can’t be filled with laughter, they’ll flop like a deflated balloon…</Content>
@@ -3895,43 +3895,43 @@
           <Content>Anger is a natural human emotion, though.</Content>
         </Dialog>
         <Dialog ID="19" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_14</VoiceFile>
           <Content>IT’S NOT NATURAL!!!</Content>
         </Dialog>
         <Dialog ID="20" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_15</VoiceFile>
           <Content>Only those who carry some kind of hopes and dreams make such stinky candies~</Content>
         </Dialog>
         <Dialog ID="21" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_16</VoiceFile>
           <Content>Expectations for a bar of chocolate, a hamster, objects, the weather, other people… and for themselves.</Content>
         </Dialog>
         <Dialog ID="22" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_17</VoiceFile>
           <Content>They arbitrarily entertain the expectations and make the candies without even getting a nod from the one they have their hopes on, and won’t even eat their candies themselves!</Content>
         </Dialog>
         <Dialog ID="23" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_18</VoiceFile>
           <Content>Because they know that their own candies taste awful.</Content>
         </Dialog>
         <Dialog ID="24" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_19</VoiceFile>
           <Content>So iiiiinstead! They put them in the mouths of others.</Content>
         </Dialog>
         <Dialog ID="25" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_20</VoiceFile>
           <Content>More expectations means more foul-smelling candies~ They hold those balls of stench in their arms, looking to shove them in someone else’s stomach!</Content>
@@ -3943,43 +3943,43 @@
           <Content>Then… How is one supposed to live a life without any expectations?</Content>
         </Dialog>
         <Dialog ID="27" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_21</VoiceFile>
           <Content>Did a blade of grass ask for you to have them? Did the gentle sun allow you to have them?</Content>
         </Dialog>
         <Dialog ID="28" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_22</VoiceFile>
           <Content>Who in the world told you that it’s right to hold expectations? Hahaha! That tingles my mouth almost as much as a celery leaf does! Oh, how hilarious!!!</Content>
         </Dialog>
         <Dialog ID="29" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_23</VoiceFile>
           <Content>When you don’t hold expectations~ You get to see more eyesores!</Content>
         </Dialog>
         <Dialog ID="30" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_24</VoiceFile>
           <Content>When you don’t have anger, you get to enjoy zestier and bitterer flavors~</Content>
         </Dialog>
         <Dialog ID="31" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_25</VoiceFile>
           <Content>Treat everything like a rolling ball! You cheer for it wherever the sphere decides to go!</Content>
         </Dialog>
         <Dialog ID="32" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_26</VoiceFile>
           <Content>If you truly wish for the good of other people, why don’t you stop holding expectations… and just laugh with them at their side?</Content>
         </Dialog>
         <Dialog ID="33" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_27</VoiceFile>
           <Content>Everyone who lives here is a clown! Clowns can’t survive without feeding on each other’s smiles, you see?</Content>
@@ -4003,13 +4003,13 @@
           <Content>While I can’t fully agree with your opinions, I admit that there are parts that I can’t completely disregard.</Content>
         </Dialog>
         <Dialog ID="37" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_28</VoiceFile>
           <Content>Ohohoh! I just want to make a world full of laughter! One where everybody can laugh without a care!!!</Content>
         </Dialog>
         <Dialog ID="38" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_29</VoiceFile>
           <Content>Frowny faces are just too scary~</Content>
@@ -4027,37 +4027,37 @@
           <Content>You’re simply running from the fear of failing to meet the expectations of others.</Content>
         </Dialog>
         <Dialog ID="41" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_30</VoiceFile>
           <Content>Haha! Hahaha! Am I? Is it a crime to wish for happiness?!</Content>
         </Dialog>
         <Dialog ID="42" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_31</VoiceFile>
           <Content>Since when was it a bad thing to wish for a world where all people can laugh?</Content>
         </Dialog>
         <Dialog ID="43" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_32</VoiceFile>
           <Content>Hmph, whatever! I guess we have different kinds of laughters we want to display in our shows as performers!</Content>
         </Dialog>
         <Dialog ID="44" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_33</VoiceFile>
           <Content>You’re no different from us folks in that you run a show hoping to make people smile the smile you want to see!</Content>
         </Dialog>
         <Dialog ID="45" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_34</VoiceFile>
           <Content>Let’s begin the performance to make another clown laugh!!!</Content>
         </Dialog>
         <Dialog ID="46" Model="정장 오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_35</VoiceFile>
           <Content>That’s enough introduction… Shall we begin playing on the tongue now? Hahaha!</Content>
@@ -4287,12 +4287,12 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Chesed vs. Jae-heon</EpisodeName>
+      <EpisodeName>Chesed vs. แจฮยอน</EpisodeName>
       <Place>
         <PlaceName>Location: The Library – Floor of Social Sciences</PlaceName>
         <Dialog ID="0" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_1</VoiceFile>
           <Content>What a marvelous sight. This looks like a perfect place to get sentimental over.</Content>
         </Dialog>
@@ -4303,8 +4303,8 @@
           <Content>Hello there~ As much as I’d like to treat you to a cup of coffee, the circumstances say otherwise… What a shame~</Content>
         </Dialog>
         <Dialog ID="2" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_2</VoiceFile>
           <Content>I don’t believe said circumstances are relaxed enough for such jokes, either… You’re being quite tender. Do you always tend to be that soft?</Content>
         </Dialog>
@@ -4315,8 +4315,8 @@
           <Content>If we can’t avoid facing each other, there’s no need to make it more tense than necessary, now is there? Though I do often hear that I’m carefree~</Content>
         </Dialog>
         <Dialog ID="4" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_3</VoiceFile>
           <Content>Don’t make me laugh. Is that supposed to be a humble brag?</Content>
         </Dialog>
@@ -4333,8 +4333,8 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="7" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_4</VoiceFile>
           <Content>Would you like me to introduce her?</Content>
         </Dialog>
@@ -4351,8 +4351,8 @@
           <Content>…This puppet was made after that person, wasn’t it~?</Content>
         </Dialog>
         <Dialog ID="10" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_5</VoiceFile>
           <Content>It’s a gorgeous piece of work, if I do say so myself. I’d even dare say that it’s my magnum opus.</Content>
         </Dialog>
@@ -4363,20 +4363,20 @@
           <Content>In terms of appearance?</Content>
         </Dialog>
         <Dialog ID="12" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_6</VoiceFile>
           <Content>If I had to pick, that wouldn’t be it. I’m not the sort of man that finds beauty in shapes put together in an arbitrary fashion.</Content>
         </Dialog>
         <Dialog ID="13" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_7</VoiceFile>
           <Content>Even if a puppet were as beautiful as a master’s sculpture, I wouldn’t love its look in itself.</Content>
         </Dialog>
         <Dialog ID="14" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_8</VoiceFile>
           <Content>They’re neither disgusting… nor attractive to me. They simply are. I have no particular feelings about how they look.</Content>
         </Dialog>
@@ -4387,50 +4387,50 @@
           <Content>What do you make your puppets for, then?</Content>
         </Dialog>
         <Dialog ID="16" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_9</VoiceFile>
           <Content>The thoughts and emotions I hold when I craft them…</Content>
         </Dialog>
         <Dialog ID="17" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_10</VoiceFile>
           <Content>A resentment towards the City for driving me to this desperation, and a blind anger for the rich.</Content>
         </Dialog>
         <Dialog ID="18" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_11</VoiceFile>
           <Content>A glimpse of hope that I can bring back my precious son whose life they took.</Content>
         </Dialog>
         <Dialog ID="19" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_12</VoiceFile>
           <Content>Bitterness, and… a yearning for vengeance toward โรแลนด์, the man who rid me of that hope and pushed me to despair.</Content>
         </Dialog>
         <Dialog ID="20" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_13</VoiceFile>
           <Content>I wrap the emotions I couldn’t outwardly express in a human string and shape them.</Content>
         </Dialog>
         <Dialog ID="21" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_14</VoiceFile>
           <Content>I take out the useless chunks of meat… and fill their insides with the emotional baggage I’m carrying.</Content>
         </Dialog>
         <Dialog ID="22" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_15</VoiceFile>
           <Content>I can breathe easy after I indulge in my craft… That’s when I feel alive at last.</Content>
         </Dialog>
         <Dialog ID="23" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_16</VoiceFile>
           <Content>Do you see how dear the puppets are to me now?</Content>
         </Dialog>
@@ -4453,8 +4453,8 @@
           <Content>I’m still not very happy about what you did to โรแลนด์, though.</Content>
         </Dialog>
         <Dialog ID="27" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_17</VoiceFile>
           <Content>He robbed me of a person I cherish… so I gave him the same treatment.</Content>
         </Dialog>
@@ -4465,8 +4465,8 @@
           <Content>You said he burned down your whole lab, yeah?</Content>
         </Dialog>
         <Dialog ID="29" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_18</VoiceFile>
           <Content>Yes. My son was lost in that fire, not a piece of him left to salvage. …Are you trying to express sympathy for me?</Content>
         </Dialog>
@@ -4483,20 +4483,20 @@
           <Content>I was just curious~ I wanted to know if vengeance was your only goal in coming here.</Content>
         </Dialog>
         <Dialog ID="32" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_19</VoiceFile>
           <Content>Although we have minor differences, all the members of our ensemble strive to reach the same place.</Content>
         </Dialog>
         <Dialog ID="33" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_20</VoiceFile>
           <Content>Vengeance pointed at โรแลนด์ was only an intersection we happened to come across on our way to it. It was never at the center of my motive.</Content>
         </Dialog>
         <Dialog ID="34" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_21</VoiceFile>
           <Content>Well, thanks to him, I won’t have any regrets making my way through.</Content>
         </Dialog>
@@ -4513,8 +4513,8 @@
           <Content>We can’t be free of guilt no matter what we do.</Content>
         </Dialog>
         <Dialog ID="37" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_22</VoiceFile>
           <Content>That’s precisely why one has to focus solely on what they want to do.</Content>
         </Dialog>
@@ -4531,38 +4531,38 @@
           <Content>But, is that freedom really the kind that frees one from all responsibility of what they do?</Content>
         </Dialog>
         <Dialog ID="40" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_23</VoiceFile>
           <Content>People who want to live for others can’t take a step forward themselves.</Content>
         </Dialog>
         <Dialog ID="41" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_24</VoiceFile>
           <Content>There’s a limitless range of dreams individuals want to bring out.</Content>
         </Dialog>
         <Dialog ID="42" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_25</VoiceFile>
           <Content>And you must know that the possibility of pursuing your own freedom while you consider everyone else is nothing short of a myth.</Content>
         </Dialog>
         <Dialog ID="43" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_26</VoiceFile>
           <Content>If one were to take into consideration the width of the potential each person has…</Content>
         </Dialog>
         <Dialog ID="44" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_27</VoiceFile>
           <Content>…Never mind, that’s for you to think about. After all, that’s not the kind of world I want to see.</Content>
         </Dialog>
         <Dialog ID="45" Model="인형사">
-          <Teller>Jae-heon</Teller>
-          <Title>The Puppeteer</Title>
+          <Teller>แจฮยอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_CJ_Jaeheon_28</VoiceFile>
           <Content>I’m not here for a leisurely debate, so let’s get to business now.</Content>
         </Dialog>
@@ -4581,11 +4581,11 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Binah vs. Elena</EpisodeName>
+      <EpisodeName>Binah vs. เอเลน่า</EpisodeName>
       <Place>
         <PlaceName>Location: The Library – Floor of Philosophy</PlaceName>
         <Dialog ID="0" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_1</VoiceFile>
           <Content>This place feels like a whole ‘nother world.</Content>
@@ -4597,19 +4597,19 @@
           <Content>I bid you welcome, unfamiliar child.</Content>
         </Dialog>
         <Dialog ID="2" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_2</VoiceFile>
           <Content>Ah, you can skip the introductions. I heard enough about your kind and what you do here.</Content>
         </Dialog>
         <Dialog ID="3" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_3</VoiceFile>
           <Content>The power to manifest a physical space… I’d almost believe it if someone said this was a Singularity.</Content>
         </Dialog>
         <Dialog ID="4" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_4</VoiceFile>
           <Content>A space full of stars… Like the ones shining over the City, huh…</Content>
@@ -4645,19 +4645,19 @@
           <Content>Are these stars shining over the City, or is the City reflected in them…?</Content>
         </Dialog>
         <Dialog ID="10" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_5</VoiceFile>
           <Content>Does that matter? They’re forced interpretations attached to them either way.</Content>
         </Dialog>
         <Dialog ID="11" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_6</VoiceFile>
           <Content>To me, a star is nothing more than a dot on the sky.</Content>
         </Dialog>
         <Dialog ID="12" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_7</VoiceFile>
           <Content>And they give off a forbidding impression like they’re looking down upon us from the highest post…</Content>
@@ -4669,13 +4669,13 @@
           <Content>That’s what a star means to you, I see.</Content>
         </Dialog>
         <Dialog ID="14" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_8</VoiceFile>
           <Content>Many alluring tales are told of stars, but when you observe one up close, you’re setting yourself up for disappointment. Isn’t that what a star is?</Content>
         </Dialog>
         <Dialog ID="15" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_9</VoiceFile>
           <Content>I have no interest in such pathetic things. I didn’t rise to a Star because I wanted to.</Content>
@@ -4687,25 +4687,25 @@
           <Content>Perhaps most beings who have become stars did so simply by following their wants, much like you did.</Content>
         </Dialog>
         <Dialog ID="17" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_10</VoiceFile>
           <Content>You’re right. I only did what I wanted to do, walking along a dry trail.</Content>
         </Dialog>
         <Dialog ID="18" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_11</VoiceFile>
           <Content>We simply quenched our desires just like your kind always do, yet they feared us to an unreasonable degree.</Content>
         </Dialog>
         <Dialog ID="19" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_12</VoiceFile>
           <Content>“Bloodfiends”. “Blood-red Night”… Those names plainly show how they perceive us. Even though they know that we’re fundamentally humans like them.</Content>
         </Dialog>
         <Dialog ID="20" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_13</VoiceFile>
           <Content>But I suppose there’s no use in complaining about it at this point.</Content>
@@ -4717,67 +4717,67 @@
           <Content>Then, I must wonder how you felt when you craved for human blood if you still consider yourself one.</Content>
         </Dialog>
         <Dialog ID="22" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_14</VoiceFile>
           <Content>Feelings? I just kill and be done with it. I’ve got to do something to slake this searing desire that gradually grows stronger.</Content>
         </Dialog>
         <Dialog ID="23" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_15</VoiceFile>
           <Content>Ah, I guess I wasn’t always like this.</Content>
         </Dialog>
         <Dialog ID="24" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_16</VoiceFile>
           <Content>At first, for myself… I bit into the flesh of other humans and drank their blood for my own sake.</Content>
         </Dialog>
         <Dialog ID="25" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_17</VoiceFile>
           <Content>The severe thirst was one thing, but there was also something I wanted to know.</Content>
         </Dialog>
         <Dialog ID="26" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_18</VoiceFile>
           <Content>Have I become a beast that must feed on human blood like the others… Or am I just being a pathetic runaway, escaping from reality?</Content>
         </Dialog>
         <Dialog ID="27" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_19</VoiceFile>
           <Content>Or, am I a mere human who has gone insane from the fiendish circumstances and twisted desires?</Content>
         </Dialog>
         <Dialog ID="28" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_20</VoiceFile>
           <Content>I would continually ask myself that question as I chewed on their flesh. What could be the reason?</Content>
         </Dialog>
         <Dialog ID="29" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_21</VoiceFile>
           <Content>Maybe I was desperate to convince myself. I used to be an ordinary human being living an ordinary life, after all.</Content>
         </Dialog>
         <Dialog ID="30" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_22</VoiceFile>
           <Content>Eventually, I found myself looking for a conclusion for a matter that won’t have one.</Content>
         </Dialog>
         <Dialog ID="31" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_23</VoiceFile>
           <Content>I guess I still had a grip on my sanity at that time. Even as I shoved bits of flesh in my mouth from the irresistible thirst, I constantly questioned myself, telling myself that this was wrong.</Content>
         </Dialog>
         <Dialog ID="32" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_24</VoiceFile>
           <Content>Well, it’s all a story of the past. It’s funny to look back on those times.</Content>
@@ -4789,49 +4789,49 @@
           <Content>Are you amused by the image of your past self seeking an answer for a question that has none?</Content>
         </Dialog>
         <Dialog ID="34" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_25</VoiceFile>
           <Content>I doubt your kind would’ve viewed us any differently even if I continued to think about it.</Content>
         </Dialog>
         <Dialog ID="35" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_26</VoiceFile>
           <Content>I don’t expect your kind to take a sudden shift and change your views on us or anything.</Content>
         </Dialog>
         <Dialog ID="36" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_27</VoiceFile>
           <Content>If they want to live their lives as they see fit, then they won’t stop me from doing the same.</Content>
         </Dialog>
         <Dialog ID="37" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_28</VoiceFile>
           <Content>Think about it. We can’t roam the street in peace; we’re forced to live in the darkness. What sins have we committed to deserve this treatment?</Content>
         </Dialog>
         <Dialog ID="38" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_29</VoiceFile>
           <Content>Why must we suffer to ensure that your kind lives a painless life?</Content>
         </Dialog>
         <Dialog ID="39" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_30</VoiceFile>
           <Content>We’re humans just like you. We just look a bit different.</Content>
         </Dialog>
         <Dialog ID="40" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_31</VoiceFile>
           <Content>Seeing your kind lavishly pursue your desires while we’re left in the dark… It’s only natural for me to feel indignant, isn’t it?</Content>
         </Dialog>
         <Dialog ID="41" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_32</VoiceFile>
           <Content>If they won’t reconsider how they see us no matter what we do, we’ll gladly stop holding back and live as we like.</Content>
@@ -4843,13 +4843,13 @@
           <Content>That is an intriguing tale.</Content>
         </Dialog>
         <Dialog ID="43" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_33</VoiceFile>
           <Content>Intriguing? Ah, whatever… If that’s how you wanna take it.</Content>
         </Dialog>
         <Dialog ID="44" Model="정장 엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_BE_Elena_34</VoiceFile>
           <Content>What you think or what kind of world you want to make are all irrelevant to me anyway, no?</Content>
@@ -4869,7 +4869,7 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Hokma vs. พลูโต</EpisodeName>
+      <EpisodeName>Hokma vs. พูลโต</EpisodeName>
       <Place>
         <PlaceName>Location: Library – Floor of Religion</PlaceName>
         <Dialog ID="0" Model="호크마">
@@ -4879,27 +4879,27 @@
           <Content>Greetings. I am Hokma… I am the librarian who guards this floor.</Content>
         </Dialog>
         <Dialog ID="1" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_1</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_1</VoiceFile>
           <Content>You are quite the polite gentleman. This was unexpected from the Library that was rumored to be brutal.</Content>
         </Dialog>
         <Dialog ID="2" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_2</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_2</VoiceFile>
           <Content>Not to mention, this place also has a… rather quiet and moody atmosphere. Not bad.</Content>
         </Dialog>
         <Dialog ID="3" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_3</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_3</VoiceFile>
           <Content>The silence and emptiness makes it hard for one to believe that the macabre atrocity of turning people into books has taken place here on multiple occasions.</Content>
         </Dialog>
         <Dialog ID="4" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_4</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_4</VoiceFile>
           <Content>…May I ask who the people behind you are?</Content>
         </Dialog>
         <Dialog ID="5" Model="호크마">
@@ -4909,15 +4909,15 @@
           <Content>They’re the assistant librarians who shall aid me in receiving you warmly. You may introduce yourselves to each other.</Content>
         </Dialog>
         <Dialog ID="6" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_5</VoiceFile>
-          <Content>But of course. My name is พลูโต.</Content>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_5</VoiceFile>
+          <Content>But of course. My name is พูลโต.</Content>
         </Dialog>
         <Dialog ID="7" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_6</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_6</VoiceFile>
           <Content>…I believe this was a floor dedicated to the topic of religion. What is religion in your view, if I may ask?</Content>
         </Dialog>
         <Dialog ID="8" Model="호크마">
@@ -4927,33 +4927,33 @@
           <Content>What could it be. I would say that it is what one firmly believes in, and a state of mind that gives motivation and significance to their deeds.</Content>
         </Dialog>
         <Dialog ID="9" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_7</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_7</VoiceFile>
           <Content>Is the power of a belief really limited to endowing one with such a mindset?</Content>
         </Dialog>
         <Dialog ID="10" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_8</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_8</VoiceFile>
           <Content>Doing deeds for the good of this world doesn’t inherently make one a good person, and neither does committing a bad deed make one evil.</Content>
         </Dialog>
         <Dialog ID="11" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_9</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_9</VoiceFile>
           <Content>Even if one performs misdeeds, they can be a virtuous person, and can be forgiven for anything…</Content>
         </Dialog>
         <Dialog ID="12" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_10</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_10</VoiceFile>
           <Content>I’d argue that belief and religion are what enables one to think that everything they conceive and accept is right.</Content>
         </Dialog>
         <Dialog ID="13" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_11</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_11</VoiceFile>
           <Content>In that context, faith in religion has to be a truly selfish and cruel concept.</Content>
         </Dialog>
         <Dialog ID="14" Model="호크마">
@@ -4963,9 +4963,9 @@
           <Content>I suppose your statement isn’t entirely incorrect.</Content>
         </Dialog>
         <Dialog ID="15" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_12</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_12</VoiceFile>
           <Content>Do you agree with it?</Content>
         </Dialog>
         <Dialog ID="16" Model="호크마">
@@ -4975,9 +4975,9 @@
           <Content>I could say it is true that an unsteady and crumbled mind is prone to absorb improper beliefs.</Content>
         </Dialog>
         <Dialog ID="17" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_13</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_13</VoiceFile>
           <Content>Unsteady, you say…</Content>
         </Dialog>
         <Dialog ID="18" Model="호크마">
@@ -4987,39 +4987,39 @@
           <Content>…Do you have anyone or anything you believe in?</Content>
         </Dialog>
         <Dialog ID="19" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_14</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_14</VoiceFile>
           <Content>I cannot say for sure. I tend not to place faith in what I cannot see.</Content>
         </Dialog>
         <Dialog ID="20" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_15</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_15</VoiceFile>
           <Content>In fact, I cannot be entirely certain of if I am here in reality or in a dream, or if I am actually looking at you or not.</Content>
         </Dialog>
         <Dialog ID="21" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_16</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_16</VoiceFile>
           <Content>I even question the fact that I am here, standing on my own two feet. After all, it may be a mere product of an illusion.</Content>
         </Dialog>
         <Dialog ID="22" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_17</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_17</VoiceFile>
           <Content>Humans can fool their own senses; how can I believe in what does not exist, let alone worship it?</Content>
         </Dialog>
         <Dialog ID="23" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_18</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_18</VoiceFile>
           <Content>That would be akin to sensing coldness upon touching a hot object, and vice versa.</Content>
         </Dialog>
         <Dialog ID="24" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_19</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_19</VoiceFile>
           <Content>For instance, what if… there was a deceptive entity that masks one’s perception of the world with falsehood?</Content>
         </Dialog>
         <Dialog ID="25" Model="호크마">
@@ -5041,33 +5041,33 @@
           <Content>To believe in something, one must believe in themselves and their view on it.</Content>
         </Dialog>
         <Dialog ID="28" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_20</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_20</VoiceFile>
           <Content>You’re speaking specious words.</Content>
         </Dialog>
         <Dialog ID="29" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_21</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_21</VoiceFile>
           <Content>I only realized that day that I cannot blindly trust what my eyes show me.</Content>
         </Dialog>
         <Dialog ID="30" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_22</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_22</VoiceFile>
           <Content>In that moment of the past, I was made a fool.</Content>
         </Dialog>
         <Dialog ID="31" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_23</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_23</VoiceFile>
           <Content>The shallow promise that our safety would be secured… The thin piece of contract is what cost me everything.</Content>
         </Dialog>
         <Dialog ID="32" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_24</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_24</VoiceFile>
           <Content>Had he not saved me, I might have drowned myself in resentment toward the whole world… and met my end.</Content>
         </Dialog>
         <Dialog ID="33" Model="호크마">
@@ -5077,16 +5077,16 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="34" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_25</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_25</VoiceFile>
           <Content>And now, I plan to take the path he intends to open.</Content>
         </Dialog>
         <Dialog ID="35" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_26</VoiceFile>
-          <Content>If I had to state one thing I believe in… It would be Sir Argalia and the new world he shall create.</Content>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_26</VoiceFile>
+          <Content>If I had to state one thing I believe in… It would be Sir อาร์กาเลีย and the new world he shall create.</Content>
         </Dialog>
         <Dialog ID="36" Model="호크마">
           <Teller>Hokma</Teller>
@@ -5095,15 +5095,15 @@
           <Content>Let me ask you what makes you put faith in him.</Content>
         </Dialog>
         <Dialog ID="37" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_27</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_27</VoiceFile>
           <Content>If I can close my eyes and open them again to a new world forever devoid of lies… I will readily believe in him.</Content>
         </Dialog>
         <Dialog ID="38" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_28</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_28</VoiceFile>
           <Content>And I hope you will come to appreciate the City when it becomes such a place.</Content>
         </Dialog>
         <Dialog ID="39" Model="호크마">
@@ -5113,20 +5113,20 @@
           <Content>I will refrain from stating my assessments. My opinion matters little to you, after all.</Content>
         </Dialog>
         <Dialog ID="40" Model="플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
-          <VoiceFile>ch7_Blue_ep2_HP_พลูโต_29</VoiceFile>
+          <VoiceFile>ch7_Blue_ep2_HP_Pluto_29</VoiceFile>
           <Content>Well, if you say so. In that case… be prepared.</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>โรแลนด์ vs. Argalia</EpisodeName>
+      <EpisodeName>โรแลนด์ vs. อาร์กาเลีย</EpisodeName>
       <Place>
         <PlaceName>Location: The Library – Floor of General Works</PlaceName>
         <Dialog ID="0" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_1</VoiceFile>
           <Content>Come on, โรแลนด์. Are you really going to keep your mouth shut before me?</Content>
         </Dialog>
@@ -5137,14 +5137,14 @@
           <Content>What do you wanna hear? We both know each other’s goals.</Content>
         </Dialog>
         <Dialog ID="2" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_2</VoiceFile>
           <Content>You aren’t still being oversensitive because we hurt Angela’s feelings, are you?</Content>
         </Dialog>
         <Dialog ID="3" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_3</VoiceFile>
           <Content>Of course you aren’t. You’re just mad because a wrench was thrown into your oh-so perfect plan.</Content>
         </Dialog>
@@ -5155,20 +5155,20 @@
           <Content>Rich coming from the man pulling this shit…</Content>
         </Dialog>
         <Dialog ID="5" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_4</VoiceFile>
           <Content>I wonder what you’re implying by “this”… Something wrongful?</Content>
         </Dialog>
         <Dialog ID="6" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_5</VoiceFile>
           <Content>See, I can’t understand the distinction between right and wrong…</Content>
         </Dialog>
         <Dialog ID="7" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_6</VoiceFile>
           <Content>The “right things” are ingrained into human beings in the name of common sense, hindering their progress and making them live unhappy lives.</Content>
         </Dialog>
@@ -5179,44 +5179,44 @@
           <Content>…What horseshit are you spewing this time.</Content>
         </Dialog>
         <Dialog ID="9" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_7</VoiceFile>
           <Content>You know, what they often call “definitions”.</Content>
         </Dialog>
         <Dialog ID="10" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_8</VoiceFile>
           <Content>Why does time flow in one direction?</Content>
         </Dialog>
         <Dialog ID="11" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_9</VoiceFile>
           <Content>That’s because you think time has to flow one way.</Content>
         </Dialog>
         <Dialog ID="12" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_10</VoiceFile>
           <Content>Why is that the right thing? What makes something “right”… Why do we have to bother deciding what’s right?</Content>
         </Dialog>
         <Dialog ID="13" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_11</VoiceFile>
           <Content>Maybe, it’s because there’s an entity that drew those lines so we can’t progress any further…</Content>
         </Dialog>
         <Dialog ID="14" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_12</VoiceFile>
           <Content>Why is the concept of “rightness” trying to restrain human desires? Why is it impeding our advancement? Are the questions I asked.</Content>
         </Dialog>
         <Dialog ID="15" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_13</VoiceFile>
           <Content>I raised these questions, and worked out an answer shortly after. And now… I’m going to announce it to all of the City.</Content>
         </Dialog>
@@ -5233,20 +5233,20 @@
           <Content>You’re wasting your life on useless ideas.</Content>
         </Dialog>
         <Dialog ID="18" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_14</VoiceFile>
           <Content>No. It will be possible. You just can’t get out of the mold because you’re firmly holding onto it, doubting the possibility.</Content>
         </Dialog>
         <Dialog ID="19" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_15</VoiceFile>
           <Content>Without this mold, our ascent will reach infinite heights. This is no hypothesis, it’s a fact that can be proven.</Content>
         </Dialog>
         <Dialog ID="20" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_16</VoiceFile>
           <Content>Having realized that, our ensemble now stands before you like this.</Content>
         </Dialog>
@@ -5263,50 +5263,50 @@
           <Content>You want to crush me, the City, and most of all แองเจล่า for taking Angelica’s life.</Content>
         </Dialog>
         <Dialog ID="23" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_17</VoiceFile>
           <Content>Hahaha… Do you think I’m like you? You might have seen through one thing, but you can’t see further than that.</Content>
         </Dialog>
         <Dialog ID="24" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_18</VoiceFile>
           <Content>I’m not planning to return my suffering in full.</Content>
         </Dialog>
         <Dialog ID="25" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_19</VoiceFile>
           <Content>Ah, I won’t deny all of it, though. Perhaps I did think of doing it at first. My only light was taken from me twice…</Content>
         </Dialog>
         <Dialog ID="26" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_20</VoiceFile>
           <Content>For a brief moment… I felt all kinds of emotions before that piano. Despair, obsession, rage, sorrow…</Content>
         </Dialog>
         <Dialog ID="27" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_21</VoiceFile>
           <Content>But, it took no time for those feelings to dissipate into nothing.</Content>
         </Dialog>
         <Dialog ID="28" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_22</VoiceFile>
           <Content>Everything… yes. Everything seemed beautiful afterwards.</Content>
         </Dialog>
         <Dialog ID="29" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_23</VoiceFile>
           <Content>Was it truly a tragedy that I lost her? Who defined it as tragedy?</Content>
         </Dialog>
         <Dialog ID="30" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_24</VoiceFile>
           <Content>โรแลนด์, you may still be blinded by wrath, but I made the decision that I will care not about those feelings anymore.</Content>
         </Dialog>
@@ -5317,20 +5317,20 @@
           <Content>As if. You’re clinging onto the justification that it’s for Angelica’s sake even now…</Content>
         </Dialog>
         <Dialog ID="32" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_25</VoiceFile>
           <Content>That’s not it, Roland… I’m going to send off Angelica with this performance.</Content>
         </Dialog>
         <Dialog ID="33" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_26</VoiceFile>
           <Content>I won’t be going on an unsightly rampage, unlike a certain someone.</Content>
         </Dialog>
         <Dialog ID="34" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_27</VoiceFile>
           <Content>That Angelica can justify the pursuit of an ambition tainted by unclean desires is just a dreadful excuse now.</Content>
         </Dialog>
@@ -5341,20 +5341,20 @@
           <Content>If you realized that, why don’t you also drop the excuse about this being her dirge or whatever.</Content>
         </Dialog>
         <Dialog ID="36" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_28</VoiceFile>
           <Content>Humans can be so finicky, no? That’s why I’m preparing this performance.</Content>
         </Dialog>
         <Dialog ID="37" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_29</VoiceFile>
           <Content>This performance will be my final enlightenment, and I’ll share it with everyone at the same time.</Content>
         </Dialog>
         <Dialog ID="38" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_30</VoiceFile>
           <Content>Moreover, this dirge will be the last thing I do for Angelica.</Content>
         </Dialog>
@@ -5365,26 +5365,26 @@
           <Content>I still have no idea what you’re saying. I guess your bullshittery levels are off the charts for me, huh?</Content>
         </Dialog>
         <Dialog ID="40" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_31</VoiceFile>
           <Content>The existence of things we cannot understand is what makes life fun.</Content>
         </Dialog>
         <Dialog ID="41" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_32</VoiceFile>
           <Content>I’ll continue to chase after what lies beyond my understanding after this.</Content>
         </Dialog>
         <Dialog ID="42" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_33</VoiceFile>
           <Content>Which means I’m going to wield the power to ceaselessly move forward.</Content>
         </Dialog>
         <Dialog ID="43" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_34</VoiceFile>
           <Content>To do that… I’ll have to take the power you’re keeping in your storage into my own two hands, isn’t that right?</Content>
         </Dialog>
@@ -5395,8 +5395,8 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="45" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_35</VoiceFile>
           <Content>…Let’s end our affectionate conversation here.</Content>
         </Dialog>
@@ -5407,14 +5407,14 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="47" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_36</VoiceFile>
           <Content>Haha. You’re still keeping those gloves…</Content>
         </Dialog>
         <Dialog ID="48" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อาร์กาเลีย</Teller>
+          <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_RA_Argalia_37</VoiceFile>
           <Content>How putrid.</Content>
         </Dialog>
@@ -5427,7 +5427,7 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>The Blue Reverberation Part 2 - Epilogue</EpisodeName>
+      <EpisodeName>เสียงกังวาลสีคราม Part 2 - Epilogue</EpisodeName>
       <Place>
         <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑_2">
@@ -6947,7 +6947,7 @@ are brushed by the wind.</Content>
           <Content>I can remember… turning into a book…</Content>
         </Dialog>
         <Dialog ID="2" Model="D_오스왈드">
-          <Teller>Oswald</Teller>
+          <Teller>ออซวอลด์</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Oswald_1</VoiceFile>
           <Content>Oho, could it be an encore~?!</Content>
@@ -6965,37 +6965,37 @@ are brushed by the wind.</Content>
           <Content>Bawk bawk bawk, cock-a-doodle-doo~!!! Arf rarf arf, woof woof woof!!!</Content>
         </Dialog>
         <Dialog ID="5" Model="D_아르갈리아">
-          <Teller>Argalia</Teller>
+          <Teller>อาร์กาเลีย</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_1</VoiceFile>
           <Content>This must be the outcome of your choice.</Content>
         </Dialog>
         <Dialog ID="6" Model="D_아르갈리아">
-          <Teller>Argalia</Teller>
+          <Teller>อาร์กาเลีย</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_2</VoiceFile>
           <Content>Thank you, Angela… and โรแลนด์.</Content>
         </Dialog>
         <Dialog ID="7" Model="D_아르갈리아">
-          <Teller>Argalia</Teller>
+          <Teller>อาร์กาเลีย</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_3</VoiceFile>
           <Content>With these new forms you gave us, we can perform once again.</Content>
         </Dialog>
         <Dialog ID="8" Model="D_재헌">
-          <Teller>Jae-heon</Teller>
+          <Teller>แจฮยอน</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Jaeheon_1</VoiceFile>
           <Content>I see. This form…</Content>
         </Dialog>
         <Dialog ID="9" Model="D_그레타">
-          <Teller>Greta</Teller>
+          <Teller>เกรต้า</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Greta_1</VoiceFile>
           <Content>I can’t wait to get back into the City! I wanna meet people!</Content>
         </Dialog>
         <Dialog ID="10" Model="D_그레타">
-          <Teller>Greta</Teller>
+          <Teller>เกรต้า</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Greta_2</VoiceFile>
           <Content>I feel like I can make the best taste mankind’s ever known right now!!!</Content>
@@ -7013,31 +7013,31 @@ are brushed by the wind.</Content>
           <Content>She just chose what she actually wants for the first time.</Content>
         </Dialog>
         <Dialog ID="13" Model="D_플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>The Reverberation Ensemble</Title>
-          <VoiceFile>ch7_Blue_ep3_พลูโต_1</VoiceFile>
+          <VoiceFile>ch7_Blue_ep3_Pluto_1</VoiceFile>
           <Content>You appear to be invigorated, much more so than the last time we saw you.</Content>
         </Dialog>
         <Dialog ID="14" Model="D_플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>The Reverberation Ensemble</Title>
-          <VoiceFile>ch7_Blue_ep3_พลูโต_2</VoiceFile>
+          <VoiceFile>ch7_Blue_ep3_Pluto_2</VoiceFile>
           <Content>It seems we all are brimming with a similar vigor. I can sense a noble power seeping into my body.</Content>
         </Dialog>
         <Dialog ID="15" Model="D_플루토">
-          <Teller>พลูโต</Teller>
+          <Teller>พูลโต</Teller>
           <Title>The Reverberation Ensemble</Title>
-          <VoiceFile>ch7_Blue_ep3_พลูโต_3</VoiceFile>
+          <VoiceFile>ch7_Blue_ep3_Pluto_3</VoiceFile>
           <Content>In this light, we shall achieve perfection.</Content>
         </Dialog>
         <Dialog ID="16" Model="D_엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Elena_1</VoiceFile>
           <Content>This is how it feels. Naked, yet able to be myself at last…</Content>
         </Dialog>
         <Dialog ID="17" Model="D_엘레나">
-          <Teller>Elena</Teller>
+          <Teller>เอเลน่า</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Elena_2</VoiceFile>
           <Content>This is the moment I’ve been waiting for… I was born for this moment!</Content>
@@ -7073,13 +7073,13 @@ are brushed by the wind.</Content>
           <Content>There’s no way in hell I’m letting you lay a finger on แองเจล่า.</Content>
         </Dialog>
         <Dialog ID="23" Model="D_필립">
-          <Teller>Philip</Teller>
+          <Teller>ฟิลลิป</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Phillip_1</VoiceFile>
           <Content>We’ve reached the pinnacle. …We can go anywhere we want from here.</Content>
         </Dialog>
         <Dialog ID="24" Model="D_아르갈리아">
-          <Teller>Argalia</Teller>
+          <Teller>อาร์กาเลีย</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_4</VoiceFile>
           <Content>If only you could have protected Angelica with the same resolution.</Content>
@@ -7103,7 +7103,7 @@ are brushed by the wind.</Content>
           <Content>Making sure to take a good and long look at the things around me this time.</Content>
         </Dialog>
         <Dialog ID="28" Model="D_아르갈리아">
-          <Teller>Argalia</Teller>
+          <Teller>อาร์กาเลีย</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_5</VoiceFile>
           <Content>So you accepted it in your own way.</Content>
@@ -7115,25 +7115,25 @@ are brushed by the wind.</Content>
           <Content>Definitely not your way.</Content>
         </Dialog>
         <Dialog ID="30" Model="D_아르갈리아">
-          <Teller>Argalia</Teller>
+          <Teller>อาร์กาเลีย</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_6</VoiceFile>
           <Content>Indeed… In the warmth of this light… let’s have a dance together. It will be beautiful and perduring.</Content>
         </Dialog>
         <Dialog ID="31" Model="D_아르갈리아">
-          <Teller>Argalia</Teller>
+          <Teller>อาร์กาเลีย</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_7</VoiceFile>
           <Content>Attention, everyone!</Content>
         </Dialog>
         <Dialog ID="32" Model="D_아르갈리아">
-          <Teller>Argalia</Teller>
+          <Teller>อาร์กาเลีย</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_8</VoiceFile>
           <Content>We’ll claim the final fraction of the light that will make us whole.</Content>
         </Dialog>
         <Dialog ID="33" Model="D_아르갈리아">
-          <Teller>Argalia</Teller>
+          <Teller>อาร์กาเลีย</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_9</VoiceFile>
           <Content>Would you please allow me to conduct this finale?</Content>

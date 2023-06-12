@@ -8,7 +8,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: ฐานนิ้วโป้งทางใต้ - ห้องประชุม</PlaceName>
+        <PlaceName>สถานที่: ฐานทางตอนใต้ของธัมห - ห้องประชุม</PlaceName>
         <Dialog ID="0" Model="칼로">
           <Teller>???</Teller>
           <Title>???</Title>
@@ -25,13 +25,13 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel2_b</VoiceFile>
-          <Content>ไม่ว่ายังไงก็ตาม แน่นอนว่าเราไม่ควรปล่อยให้ พวกนิ้วชี้ ครอบรอง 'the yolk' ได้</Content>
+          <Content>ไม่ว่ายังไงก็ตาม แน่นอนว่าเราไม่ควรปล่อยให้อินเดกซ์ ครอบรองส่วนกลางได้</Content>
         </Dialog>
         <Dialog ID="3" Model="칼로">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo2</VoiceFile>
-          <Content>เธอพูดถูก พวกนิ้วกลาง, พวกนิ้วนาง, และพวกนิ้วก้อย ดูเหมือนว่าพวกมันจะยุ่งกับเรื่องภายในมากเกินไปจนไม่สนใจที่จะเข้าร่วมกับศึกในครั้งนี้ ทำให้เบาใจได้เปราะหนึ่ง</Content>
+          <Content>เธอพูดถูก มิดเดิล, ริง, และพิ้งกี้ ดูเหมือนว่าพวกมันจะยุ่งกับเรื่องภายในมากเกินไปจนไม่สนใจที่จะเข้าร่วมกับศึกในครั้งนี้ ทำให้เบาใจได้เปราะหนึ่ง</Content>
         </Dialog>
         <Dialog ID="4" Model="카트리엘">
           <Teller>???</Teller>
@@ -373,7 +373,7 @@
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia1</VoiceFile>
-          <Content>อิซาดอราซัง ได้โปรด… ช่วยเขาสักครั้งเถอะนะ อย่างน้อยเราก็ขอให้ผู้กำกับช่วยตรวจสอบเรื่องนี้ได้ไหม?</Content>
+          <Content>อิซาดอรา ได้โปรด… ช่วยเขาสักครั้งเถอะนะ อย่างน้อยเราก็ขอให้ผู้กำกับช่วยตรวจสอบเรื่องนี้ได้ไหม?</Content>
         </Dialog>
         <Dialog ID="7" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -412,64 +412,64 @@
           <Content>ไม่มีในบันทึกที่ไหนของสไวที่บอกว่า เราต้องมีส่วนเกี่ยวข้องในเรื่องนี้เลยนะ? ฉันไม่รู้เลยว่าเธอกำลังพูดเรื่องอะไรกัน</Content>
         </Dialog>
         <Dialog ID="13" Model="산">
-          <Teller>แซน</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san3</VoiceFile>
-          <Content>So that’s how it is… You use us as you please, then turn your back on us so easily…</Content>
+          <Content>มันเป็นงี้เองสินะ… พวกคุณอยากใช้เราก็ใช้ แล้วพอจะทิ้งก็หันหลังทิ้งลงอย่างง่ายดาย…</Content>
         </Dialog>
         <Dialog ID="14" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora9</VoiceFile>
-          <Content>Hello, you’re putting the blame on the wrong people here.</Content>
+          <Content>เด๋วนะ นายกำลังมาโทษผิดคนแล้ว</Content>
         </Dialog>
         <Dialog ID="15" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora10</VoiceFile>
-          <Content>Even if such a deal did take place like you said, you must have demanded or at least expected a corresponding reward. That’s what a deal is after all.</Content>
+          <Content>แม้ว่าข้อตกลงเป็นอย่างที่นายว่า นายก็จะต้องการหรืออย่างน้อยก็คาดหวัง ได้รับในส่วนของรางวัลจากสมาพันธ์อยู่แล้ว นั้นแหละคือข้อตกลงที่ว่าทั้งหมด</Content>
         </Dialog>
         <Dialog ID="16" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora11</VoiceFile>
-          <Content>You used the association as much as the association used you. You don’t get to talk like it was one-sided extortion. </Content>
+          <Content>นายก็ใช้สมาพันธ์มากเท่าที่สมาพันธ์ใช้นายนั้นแหละ อย่ามาพูดเอาเองฝ่ายเดียวเหมือนถูกบีบบังคับสิ</Content>
         </Dialog>
         <Dialog ID="17" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora12</VoiceFile>
-          <Content>Come on, let’s not act like rookies now. You’ve been in this business for 8 years, you should know how things work by now.</Content>
+          <Content>ให้ตายเหอะ อย่าทำตัวเหมือนพวกมือใหม่ได้มั้ย นายเองก็อยู่ในวงการนี้มาตั้ง 8 ปีแล้วนะ ควรรู้สิ่งต่างๆของการทำงานได้แล้ว</Content>
         </Dialog>
         <Dialog ID="18" Model="줄리아">
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia4</VoiceFile>
-          <Content>Isadora! You don’t have to be so harsh. We all started out as Office-mates…</Content>
+          <Content>อิซาดอรา! ไม่เห็นต้องพูดรุนแรงเลย พวกเราทั้งหมดก็เป็นเพื่อนร่วมงาน เริ่มต้นจากสำนักงานเดียวกันนะ…</Content>
         </Dialog>
         <Dialog ID="19" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora13</VoiceFile>
-          <Content>I’m just frustrated. I don’t want to see him in such a wretched state, either.</Content>
+          <Content>ฉันก็แค่หงุดหงิดน่ะ ไม่อยากเห็นเขาในสภาพที่น่าสมเพชแบบนี้ก็เท่านั้น</Content>
         </Dialog>
         <Dialog ID="20" Model="산">
-          <Teller>แซน</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san4</VoiceFile>
-          <Content>Sorry. I understand what you’re trying to say.</Content>
+          <Content>ขอโทษด้วยนะ ฉันเข้าใจสิ่งที่เธอพยายามจะบอกแล้ว</Content>
         </Dialog>
         <Dialog ID="21" Model="산">
-          <Teller>แซน</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san5</VoiceFile>
-          <Content>You’re right, that’s how it’s always been… I’ll go look for another way now.</Content>
+          <Content>เธอพูดถูก มันเป็นแบบนั้นมาตลอด… ฉันจะลองไปหาวิธีอื่นดู</Content>
         </Dialog>
         <Dialog ID="22" Model="줄리아">
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia5</VoiceFile>
-          <Content>San… I’m so sorry… I never thought it would turn out this way…</Content>
+          <Content>ซาน… ฉันขอโทษจริงๆนะ… ฉันไม่คิดเลยว่ามันจะกลายเป็นแบบนี้…</Content>
         </Dialog>
         <Dialog ID="23" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -480,214 +480,214 @@
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora14</VoiceFile>
-          <Content>Well would you look at that. Now this is the proper procedure I’m talking about.</Content>
+          <Content>เอาละๆ ดูนั้นสิ นี่คือขั้นตอนที่เหมาะสมที่ฉันพยายามจะบอก</Content>
         </Dialog>
         <Dialog ID="25" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora15</VoiceFile>
-          <Content>The Hana Association just elevated ‘The Library’ from Urban Myth to Urban Legend.</Content>
+          <Content>สมาพันธ์ฮานะได้เลื่อน 'ห้องสมุด' ที่ว่านั้นจากเรื่องเล่าประจำเมือง เป็นตำนานเมืองแล้วนะ</Content>
         </Dialog>
         <Dialog ID="26" Model="줄리아">
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia6</VoiceFile>
-          <Content>That means…! Our association can now officially act on this case, right?</Content>
+          <Content>นั้นหมายความว่า…! สมาพันธ์ของเราก็เคลื่อนไหวอย่าง เป็นทางการกับเรื่องนี้ได้แล้วถูกไหม?</Content>
         </Dialog>
         <Dialog ID="27" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora16</VoiceFile>
-          <Content>W-well, yeah, but we still don’t know Zwei’s stance on it yet, so, don’t get your hopes up, alright?</Content>
+          <Content>อ-อือ ถูกแล้ว แต่เรายังไม่รู้ท่าทีของสมาพันธ์สไวเกี่ยวกับเรื่องนี้ เพราะงั้นอย่าเพิ่งหวังไปเองล่ะ โอเคมั้ย?</Content>
         </Dialog>
         <Dialog ID="28" Model="산">
-          <Teller>แซน</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san6</VoiceFile>
-          <Content>Thank you, Isadora… I really owe you one.</Content>
+          <Content>ขอบคุณอิซาดอรา… ฉันเป็นหนี้เธอแล้ว</Content>
         </Dialog>
         <Dialog ID="29" Model="산">
-          <Teller>แซน</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep1_san7</VoiceFile>
-          <Content>And apologies for laying my burden on you. </Content>
+          <Content>และขอโทษที่เป็นภาระให้กับเธอนะ</Content>
         </Dialog>
         <Dialog ID="30" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora17</VoiceFile>
-          <Content>I-it’s nothing, all I did was compile information following procedure and send it to the higher ups.</Content>
+          <Content>ฉ-ฉันก็แค่รวบรวมข้อมูลตามขั้นตอน แล้วก็ส่งมันให้กับเบื้องบน</Content>
         </Dialog>
         <Dialog ID="31" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora18</VoiceFile>
-          <Content>There certainly have been reports that several other Syndicates and Offices fell victim to ‘The Library’, although they were mostly insignificant fledglings.</Content>
+          <Content>มีรายงานแล้วว่า องค์กรและสำนักงานหลายแห่งตกเป็นเหยื่อของ 'ห้องสมุด' แม้ว่าพวกเขาจะเป็นเพียงกลุ่มเล็กๆ และไม่สำคัญก็ตาม</Content>
         </Dialog>
         <Dialog ID="32" Model="줄리아">
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_julia7</VoiceFile>
-          <Content>But it’s all thanks to the masterful data analysis by our lovely Isadora from Section 6 that it could be handled so quickly, right? That’s my girl!</Content>
+          <Content>แต่ทั้งหมดต้องขอบคุณการวิเคราะห์ข้อมูลระดับมืออาชีพ ของอิซาดอราซึเดเระผู้น่ารักของเราจากหน่วย 6 ที่ทำให้จัดการได้อย่างรวดเร็วถูกไหม? สมแล้วที่เป็นเพื่อนฉัน</Content>
         </Dialog>
         <Dialog ID="33" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora19</VoiceFile>
-          <Content>Fine, believe in whatever you want!</Content>
+          <Content>เออ อยากเชื่อแบบนั้นก็ตามใจเลย!</Content>
         </Dialog>
         <Dialog ID="34" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora20</VoiceFile>
-          <Content>Anyway, do you still have that invitation with you?</Content>
+          <Content>ช่างยัยนั้นเถอะ นายยังมีบัตรเชิญนั้นอยู่รึเปล่า?</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="35" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland1</VoiceFile>
-          <Content>Looks like an Association is about to make their move. Things will be different from now on.</Content>
+          <Content>ดูเหมือนพวกสมาพันธ์กำลังจะเริ่มเคลื่อนไหวแล้วนะ หลังจากนี้หลายสิ่งจะแตกต่างไปจากเดิมแน่ๆ</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela1</VoiceFile>
-          <Content>How much of a difference does that make?</Content>
+          <Content>จะแตกต่างจากเดิมแค่ใหนหรอ?</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland2</VoiceFile>
-          <Content>The guests we’ve had so far all gave us a visit out of casual interest or curiosity, but our future guests will have a clear goal in mind involving the Library.</Content>
+          <Content>ก็ แขกส่วนใหญ่ที่มาที่นี่มาด้วยความสนใจส่วนตัวหรือไม่ก็ความสงสัย, แต่แขกในอนาคตของเราจะมีเป้าหมายที่ชัดเจนอยู่ในหัวอยู่แล้วว่ามาที่ห้องสมุดนี้ทำไม</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela2</VoiceFile>
-          <Content>How so?</Content>
+          <Content>เป็นอย่างงั้นได้ไงกัน?</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland3</VoiceFile>
-          <Content>A case officially recognized by the Associations is guaranteed to be rewarding. And money attracts an awful lot of attention.</Content>
+          <Content>เคสที่สมาพันธ์ให้การยอมรับอย่างเป็นทางการจะการันตีว่าได้เงินรางวัลแน่นอน และเงินก็ดึงดูดความสนใจได้มากเลยล่ะ</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland4</VoiceFile>
-          <Content>The scale of our affairs is only going to escalate from here, like it or not.</Content>
+          <Content>จะชอบหรือไม่ชอบ ดูเหมือนว่าธุระของเราจะมีมากขึ้นหลังจากนี้อีก</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland5</VoiceFile>
-          <Content>Our threat level or importance is still probably on the lower end, but we’ll nevertheless get all sorts of people trying to unravel the mysteries of this place as long as the Associations have an eye on us.</Content>
+          <Content>ถึงแม้ระดับภัยคุกคามหรือความสำคัญของเรานั้นยังอยู่แค่ในระดับล่างสุด แต่เราก็จะมีคนทุกประเภทพยายามใขปริศนาของสถานที่แห่งนี้ ตราบใดที่สมาพันธ์นั้นเล็งมาที่เราอยู่</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela3</VoiceFile>
-          <Content>I like the sound of that. I can make more valuable books out of them. I still have a lot to see and learn.</Content>
+          <Content>ฉันชอบอย่างนั้นนะ แปลว่าฉันจะได้หนังสือที่มีค่าจากพวกเขา ฉันยังมีสิ่งที่อยากรู้และอยากเห็นอยู่อีกมาก</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland6</VoiceFile>
-          <Content>I’ve been wondering for a while, but what’s stopping you from leaving here?</Content>
+          <Content>ฉันสงสัยมาสักพักแล้ว ว่าแต่อะไรกันล่ะที่หยุดเธอไว้ไม่ให้ออกไปจากที่นี่?</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela4</VoiceFile>
-          <Content>…I am under a curse.</Content>
+          <Content>…ฉันอยู่ภายใต้คำสาป</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela5</VoiceFile>
-          <Content>A deep, ancient curse; that is what’s attached to me.</Content>
+          <Content>คำสาปโบราณนั้นฝั่งลึกผูกติดกับตัวฉันไว้</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela6</VoiceFile>
-          <Content>No being that isn’t human can walk out of this place.</Content>
+          <Content>สิ่งใดที่ไม่ใข่มนุษย์จะไม่สามารถออกจากที่นี่ได้</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela7</VoiceFile>
-          <Content>Besides, I don’t want to leave this place until I’ve had my revenge, either.</Content>
+          <Content>นอกจากนั้น ฉันเองก็ยังไม่อยากออกจากที่นี่ จนกว่าฉันจะได้แก้แค้น</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela8</VoiceFile>
-          <Content>It’s not too bad so far. Rather, I’ve been actually quite delighted lately.</Content>
+          <Content>มันก็ไม่ได้เลวร้ายมากนักหรอกนะ แถมช่วงนี้ฉันค่อนข้างอารมณ์ดีด้วยซ้ำ</Content>
         </Dialog>
         <Dialog ID="49" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela9</VoiceFile>
-          <Content>It has been full of brand new things, unlike the prison that was my past life.</Content>
+          <Content>มีสิ่งใหม่ๆอยู่เต็มไปหมด ไม่เหมือนอย่างคุกในอดีตที่เคยผ่านมา</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela10</VoiceFile>
-          <Content>New faces, accumulating knowledge, intriguing events… I like this abundance of freshness. I want to know more. I will keep learning and learning. And as I learn, I might finally figure out…</Content>
+          <Content>ได้พบเจอกับหน้าใหม่ๆ ได้สะสมความรู้ใหม่ๆ ได้เห็นเหตุการณ์ที่น่าสนใจใหม่ๆ… ฉันชื่นชอบความสดใหม่เหล่านี้ ฉันอยากรู้มากขึ้นจะเรียนรู้ขึ้นอีกและเรียนรู้ต่อไป แล้วเมื่อฉันได้เรียนรู้ก็อาจจะค้นพบคำตอบได้ในที่สุด ว่า…</Content>
         </Dialog>
         <Dialog ID="51" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela11</VoiceFile>
-          <Content>…Why I had to be subject to such torment…</Content>
+          <Content>…ทำไมฉันถึงต้องถูกทรมานอย่างเช่นตอนนี้…</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland7</VoiceFile>
-          <Content>Guess I gotta work harder, then. I can’t leave here as long as you can’t, you know?</Content>
+          <Content>งั้นก็แปลว่าฉันต้องทำงานให้หนักขึ้นสินะ เพราะฉันออกจากที่นี่ไม่ได้ถ้าเธอยังออกไม่ได้เช่นกัน รู้ไหม?</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
-          <VoiceFile>ch3_Zwei_ep1_angela12</VoiceFile>
+          <VoiceFile>ch3_Zwei_ep1_angela12</VoiceFile>…
           <Content>…</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland8</VoiceFile>
-          <Content>Hey. If we get to leave one day, why don’t I take you to a place I frequent?</Content>
+          <Content>เฮ้ ถ้าซักวันหนึงพวกเราออกไปได้ ฉันจะพาเธอไปที่ๆฉันไปบ่อย โอเคไหม?</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela13</VoiceFile>
-          <Content>You mean a restaurant?</Content>
+          <Content>นายหมายถึงภัตตาคารเหรอ</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland9</VoiceFile>
-          <Content>Yep. They make some sick meat stew there.</Content>
+          <Content>ใช่แล้ว ที่นั่นนะทำสตูเนื้อได้แจ่มแมวเลยล่ะ</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland10</VoiceFile>
-          <Content>One of the secrets to that stew is the giant tin pot they commissioned T Corp. to customize. Boil meat with some water for just ten seconds in that thing, and you get tenderized meat with a rich broth that you’d normally only get after three straight days of boiling.</Content>
+          <Content>หนึ่งในความลับความอร่อยของสตูนั้นก็คือ หม้อดีบุกขนาดใหญ่ที่ถูกสั่งตรงมาจากทีคอร์ป เพียงแค่ต้มเนื้อด้วยน้ำเปล่าซัก 10 วินาที ก็จะได้เนื้อแสนนุ่มพร้อมกับน้ำซุปแสนเข้มข้นที่ปกติต้องใช้เวลาต้มถึง 3 วันเชียวนะ</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland11</VoiceFile>
-          <Content>Creating a taste that’s so rich in such a short time is what makes the restaurant so hot. The only issue is that prices are a bit high. I spent half of my last job’s payout on a single meal one time. But it’s totally worth it.</Content>
+          <Content>สร้างสรรค์รสชาติที่แสนเข้มข้นในเวลาอันสั้นคือสิ่งที่ทำให้ร้านอาหารนี้ฮอตมากเลยล่ะ อย่างเดียวที่เป็นปัญหาคือราคาที่ไม่เป็นมิตรซักเท่าไหร่ ฉันใช้เงินที่ได้จากงานครั้งล่าสุดไปตั้งครึ่งนึงเพื่อจะไปกินแค่มื้อเดียว แต่คุ้มมากเลยล่ะ</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -699,37 +699,37 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland12</VoiceFile>
-          <Content>Oh, right, are you incapable of eating…? Sorry for bringing up useless words, ma’am.</Content>
+          <Content>โอ้ลืมเลย เธอกินไม่ได้นิ? โทษทีๆที่พูดอะไรที่ไร้ประโยชน์นะคุณผู้หญิง</Content>
         </Dialog>
         <Dialog ID="61" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep1_roland13</VoiceFile>
-          <Content>There are plenty of other places you’d love to visit, so I’ll make sure to give you a tour through the City, ma’am.</Content>
+          <Content>แต่ก็ยังมีอีกหลายสถานที่ที่น่าไปเยี่ยมชมอยู่ เพราะงั้นผมมั่นใจเลยว่าจะพาเธอไปทัวร์รอบเมืองเองนะครับ คุณผู้หญิง</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela15</VoiceFile>
-          <Content>I can eat, but I cannot taste the food.</Content>
+          <Content>ฉันกินได้ แต่รับรสชาติไม่ได้เท่านั้น</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela16</VoiceFile>
-          <Content>I do wish to try dining like you people do if I get a chance, though.</Content>
+          <Content>แต่ถ้ามีโอกาศ ฉันเองก็อยากกินข้าวเหมือนกับคนอื่นๆอยู่หรอกนะ</Content>
         </Dialog>
         <Dialog ID="64" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela17</VoiceFile>
-          <Content>In any case, we need to finish the task at hand before anything.</Content>
+          <Content>ยังไงก็แล้วแต่ เราต้องสะสางงานตรงหน้าเราก่อน</Content>
         </Dialog>
         <Dialog ID="65" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep1_angela18</VoiceFile>
-          <Content>And the stew… I’ll keep that in mind.</Content>
+          <Content>ส่วนเรื่องสตู… ฉันจะเก็บเอาไปคิดละกัน</Content>
         </Dialog>
       </Place>
     </Episode>
