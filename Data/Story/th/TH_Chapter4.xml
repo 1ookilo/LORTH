@@ -8,7 +8,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่:สมาคมชิ - สาขาทางใต้</PlaceName>
+        <PlaceName>สถานที่:สมาพันธ์ชิ - สาขาทางใต้</PlaceName>
         <Dialog ID="0" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
@@ -67,7 +67,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma6</VoiceFile>
-          <Content>ในรายชื่อ ‘ห้องสมุด’ ตอนนี้ได้รับการแต่งตั้งให้เป็นภัยประจำเมืองโดยสมาคมชฮานาแล้ว…</Content>
+          <Content>ในรายชื่อ ‘ห้องสมุด’ ตอนนี้ได้รับการแต่งตั้งให้เป็นภัยประจำเมืองโดยสมาพันธ์ชฮานาแล้ว…</Content>
         </Dialog>
         <Dialog ID="10" Model="???">
           <Teller>???</Teller>
@@ -94,7 +94,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_prol_ep1_angela2</VoiceFile>
-          <Content>หากการประมาณของนายถูกต้อง, เราจะต้องเตรียมตัวให้พร้อมสำหรับแขกรับเชิญจาก สมาคมต่างๆ และก็ ปีก จากนี้จะมาบ่อยขึ้นสินะ?</Content>
+          <Content>หากการประมาณของนายถูกต้อง, เราจะต้องเตรียมตัวให้พร้อมสำหรับแขกรับเชิญจาก สมาพันธ์ต่างๆ และก็ วิง จากนี้จะมาบ่อยขึ้นสินะ?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -844,7 +844,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland16</VoiceFile>
-          <Content>อย่างไรก็ตาม Five Fingers มีพลังและอิทธิพลมากพอที่จะเป็นคู่แข่งกับปีกได้เลย ดังนั้นการเป็นศัตรูกับพวกเขาคงไม่ใช้เรื่องดี</Content>
+          <Content>อย่างไรก็ตาม Five Fingers มีพลังและอิทธิพลมากพอที่จะเป็นคู่แข่งกับวิงได้เลย ดังนั้นการเป็นศัตรูกับพวกเขาคงไม่ใช้เรื่องดี</Content>
         </Dialog>
         <Dialog ID="73" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -1522,7 +1522,7 @@
           <Teller>สเตฟาน</Teller>
           <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_stephan3-01</VoiceFile>
-          <Content>เอาล่ะมาดูกันว่าผู้กำกับ ยูจิน จาก สมาคมชิ ขอให้เราทำอะไรกัน…</Content>
+          <Content>เอาล่ะมาดูกันว่าผู้กำกับ ยูจิน จาก สมาพันธ์ชิ ขอให้เราทำอะไรกัน…</Content>
         </Dialog>
         <Dialog ID="79" Model="타마키">
           <Teller>ทามากิ</Teller>
@@ -1534,7 +1534,7 @@
           <Teller>ลี่เหว่ย</Teller>
           <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei2</VoiceFile>
-          <Content>ฉันไม่คิดเลยว่าผู้กำกับสาขา 2 ของสมาคมชิ จะให้คำขอแก่สำนักงานของเราเป็นการส่วนตัวอาจมีบางอย่างแปลกๆ เกิดขึ้นก็ได้</Content>
+          <Content>ฉันไม่คิดเลยว่าผู้กำกับสาขา 2 ของสมาพันธ์ชิ จะให้คำขอแก่สำนักงานของเราเป็นการส่วนตัวอาจมีบางอย่างแปลกๆ เกิดขึ้นก็ได้</Content>
         </Dialog>
         <Dialog ID="81" Model="스테판">
           <Teller>สเตฟาน</Teller>
@@ -2056,7 +2056,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Fullstop_ep1_roland2</VoiceFile>
-          <Content>เธอเข้าใจถูกต้องแล้ว ทั้งสองคนเป็นฟิกเซอร์ระดับแนวหน้าที่ได้รับตำแหน่งเกรดสีจาก สมาคมฮานา</Content>
+          <Content>เธอเข้าใจถูกต้องแล้ว ทั้งสองคนเป็นฟิกเซอร์ระดับแนวหน้าที่ได้รับตำแหน่งเกรดสีจาก สมาพันธ์ฮานา</Content>
         </Dialog>
         <Dialog ID="167" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -2692,7 +2692,7 @@
           <Teller>ยูนา</Teller>
           <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna14</VoiceFile>
-          <Content>และค่าเช่ารายเดือนก็ค่อนข้างน่ากลัวเนื่องจากสำนักงานของเราอยู่ในรัง… คุณก็รู้ว่าคำขอที่ฉันเพิ่งทำไปนั้นไม่เพียงพอที่จะใช้งานครอบคลุมทังหมดน่ะ?</Content>
+          <Content>และค่าเช่ารายเดือนก็ค่อนข้างน่ากลัวเนื่องจากสำนักงานของเราอยู่ในเนซท์… คุณก็รู้ว่าคำขอที่ฉันเพิ่งทำไปนั้นไม่เพียงพอที่จะใช้งานครอบคลุมทังหมดน่ะ?</Content>
         </Dialog>
         <Dialog ID="44" Model="살바도르">
           <Teller>ซัลวาดอร์</Teller>
@@ -2740,7 +2740,7 @@
           <Teller>ซัลวาดอร์</Teller>
           <Title>โอเปอเรเตอร์แห่งรุ่นอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador24</VoiceFile>
-          <Content>นอกจากนี้ คำขอนี้ได้รับมอบหมายโดยตรงจากสมาคมซเว</Content>
+          <Content>นอกจากนี้ คำขอนี้ได้รับมอบหมายโดยตรงจากสมาพันธ์ซเว</Content>
         </Dialog>
         <Dialog ID="52" Model="살바도르">
           <Teller>ซัลวาดอร์</Teller>
@@ -3412,13 +3412,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Gaze_ep1_roland5</VoiceFile>
-          <Content>ไม่ นั่นไม่ใช่วิธีการทำงาน คนเหล่านั่นแค่มองหาเบาะแสว่า ซิงกูลาริตี้ ทำงานยังไงเพื่อที่พวกเขาจะได้ขายข้อมูลนั้นให้กับ ปีก หรือ ซิงกูลาริตี้ อื่นก็เท่านั้น</Content>
+          <Content>ไม่ นั่นไม่ใช่วิธีการทำงาน คนเหล่านั่นแค่มองหาเบาะแสว่า ซิงกูลาริตี้ ทำงานยังไงเพื่อที่พวกเขาจะได้ขายข้อมูลนั้นให้กับ วิง หรือ ซิงกูลาริตี้ อื่นก็เท่านั้น</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Gaze_ep1_roland6</VoiceFile>
-          <Content>หลังจากนั้นความลับที่ได้ก็จะใช้เพื่อรีดไถเงินและสิ่งของจาก ปีก อีกที</Content>
+          <Content>หลังจากนั้นความลับที่ได้ก็จะใช้เพื่อรีดไถเงินและสิ่งของจาก วิง อีกที</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -3577,7 +3577,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Gaze_ep1_roland11</VoiceFile>
-          <Content>พูดอย่างกับฉันรู้ ฉันไม่ใช่ผู้บริหารของ R Corp. หรืออะไรทั้งนั้น ปีกทุกอันจะรักษาความเป็นเอกฐานไว้ภายใต้การดูแลที่แน่นหนา</Content>
+          <Content>พูดอย่างกับฉันรู้ ฉันไม่ใช่ผู้บริหารของ R Corp. หรืออะไรทั้งนั้น วิงทุกอันจะรักษาความเป็นเอกฐานไว้ภายใต้การดูแลที่แน่นหนา</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -3619,7 +3619,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Gaze_ep1_roland16</VoiceFile>
-          <Content>เห็นไหมว่า ปีก อื่น ๆ ก็ไม่แตกต่างกันหรอก</Content>
+          <Content>เห็นไหมว่า วิง อื่นๆ ก็ไม่แตกต่างกันหรอก</Content>
         </Dialog>
       </Place>
     </Episode>
