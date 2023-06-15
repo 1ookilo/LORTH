@@ -1764,7 +1764,7 @@
           <Teller>ชอง-มี</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi1</VoiceFile>
-          <Content>สารเลว! อย่างพวก! มึงน่ะ!</Content>
+          <Content>สารเลว! อย่างพวก! เอ็งน่ะ!</Content>
         </Dialog>
         <Dialog ID="1" Model="경미">
           <Teller>ชอง-มี</Teller>
@@ -1776,7 +1776,7 @@
           <Teller>ชอง-มี</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi3</VoiceFile>
-          <Content>จำใส่! กระโหลก! กรวงๆ! ของพวกมึง! ซะ!! </Content>
+          <Content>จำใส่! กระโหลก! กรวงๆ! ของพวกเอ็ง! ซะ!! </Content>
         </Dialog>
         <Dialog ID="3" Model="디노">
           <Teller>ดีโน่</Teller>
@@ -1848,13 +1848,13 @@
           <Teller>ชอง-มี</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi12</VoiceFile>
-          <Content>ว่ามันสำคัญแค่ใหนกับการให้คำสัญญาน่ะ</Content>
+          <Content>ว่ามันสำคัญแค่ใหนกับการให้คำสัญญา</Content>
         </Dialog>
         <Dialog ID="15" Model="디노">
           <Teller>ดีโน่</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino4</VoiceFile>
-          <Content>นี่ก็จะค่ำแล้ว พวกสวีปเปอร์เองก็อาจจะมาจัดการพวกเราตอนใหนก็ได้นะ</Content>
+          <Content>นี่ก็จะมืดค่ำแล้ว พวกสวีปเปอร์เองก็อาจจะมาจัดการพวกเราตอนใหนก็ได้</Content>
         </Dialog>
         <Dialog ID="16" Model="디노">
           <Teller>ดีโน่</Teller>
@@ -1866,13 +1866,13 @@
           <Teller>ซูลู</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu1</VoiceFile>
-          <Content>พวกเราถึงกับเสียเลือดเสียเนื้อไปรวบรวมข้อมูลที่เกี่ยวข้องกับการบิดเบือนให้ไอ้สารเลววอลเตอร์นั่น แล้วมันตอบแทนพวกเราอย่างงี้เรอะ</Content>
+          <Content>พวกเราเสียเลือดเสียเนื้อเพื่อไปรวบรวมข้อมูลที่เกี่ยวข้องกับการบิดเบือนให้ไอ้สารเลววอลเตอร์นั่น แล้วมันตอบแทนพวกเราอย่างงี้เรอะ</Content>
         </Dialog>
         <Dialog ID="18" Model="디노">
           <Teller>ดีโน่</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino6</VoiceFile>
-          <Content>ไอ้พวกผู้นับถือคลั่งในโบสถ์แห่งฟันเฟืองมันเล่นคนในองค์กรเราไปมากกว่าครึ่งเลยนะ</Content>
+          <Content>ไอ้พวกคนคลั่งในโบสถ์แห่งฟันเฟืองมันเล่นคนในองค์กรเราไปมากกว่าครึ่งเลย</Content>
         </Dialog>
         <Dialog ID="19" Model="줄루">
           <Teller>ซูลู</Teller>
@@ -1884,7 +1884,7 @@
           <Teller>ดีโน่</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino7</VoiceFile>
-          <Content>พวกเรายอมทำงานกันจน ก้นหลุด พยายามรวบรวมของที่พอมีค่ามาจากโบสถ์นั่น เพื่ออะไรกัน…</Content>
+          <Content>พวกเรายอมทำงานกันจนก้นหลุด พยายามรวบรวมของที่พอมีค่ามาจากโบสถ์นั่น เพื่ออะไรกัน…</Content>
         </Dialog>
         <Dialog ID="21" Model="디노">
           <Teller>ดีโน่</Teller>
@@ -1908,7 +1908,7 @@
           <Teller>ซูลู</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu4</VoiceFile>
-          <Content>อย่างน้อยไอ้วอลเตอร์มันก็เป็นคนมีเหตุผลน่ะ มีบางอย่างเกิดขึ้นกับมันรึเปล่า?</Content>
+          <Content>อย่างน้อยไอ้วอลเตอร์มันก็เป็นคนมีเหตุผล มีบางอย่างเกิดขึ้นกับมันรึเปล่า?</Content>
         </Dialog>
         <Dialog ID="25" Model="줄루">
           <Teller>ซูลู</Teller>
@@ -1926,19 +1926,19 @@
           <Teller>ซูลู</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu6</VoiceFile>
-          <Content>เหี้ยเอ๊ย นี่มึงฆ่าพวกมันจนหมดเลยเรอะ</Content>
+          <Content>เอาจริงดิ นี่เอ็งฆ่าพวกมันจนหมดเลยหรอ</Content>
         </Dialog>
         <Dialog ID="28" Model="디노">
           <Teller>ดีโน่</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino11</VoiceFile>
-          <Content>มีทางออกให้เราเลือกเพิ่มขึ้นมาอีกสินะ</Content>
+          <Content>มีทางให้เราเลือกเพิ่มขึ้นมาอีกแล้ว</Content>
         </Dialog>
         <Dialog ID="29" Model="디노">
           <Teller>ดีโน่</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino12</VoiceFile>
-          <Content>นายเป็นแบบนี้อีกแล้วนะ… นายโกรธจนหน้ามืดแล้วบดขยี้กระดูกและเครื่องในพวกมันจนเละอีกแล้ว</Content>
+          <Content>นายเป็นแบบนี้อีกแล้ว… นายโกรธจนหน้ามืดแล้วบดกระดูกและเครื่องในพวกนั้นจนเละอีกแล้ว</Content>
         </Dialog>
         <Dialog ID="30" Model="줄루">
           <Teller>ซูลู</Teller>
@@ -1968,7 +1968,7 @@
           <Teller>ชอง-มี</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi14</VoiceFile>
-          <Content>พวกเอ็งดูนี่ก่อน</Content>
+          <Content>พวกมึงดูนี่ก่อน</Content>
         </Dialog>
         <Dialog ID="35" Model="디노">
           <Teller>ดีโน่</Teller>
@@ -1986,7 +1986,7 @@
           <Teller>ดีโน่</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino16</VoiceFile>
-          <Content>เดี๋ยวก่อนนะ ในรายชื่อ“หนังสือประจำวัน”ที่เขาเขียนไว้ มีหนังสือ…ของ…วอลเตอร์? มันเป็นอย่างงั้นเองเรอะ นายก็ยังพอมีแผนอยู่นี่เอง</Content>
+          <Content>เดี๋ยวก่อนนะ ในรายชื่อ“หนังสือประจำวัน”ที่เขาเขียนไว้ มีหนังสือ…ของ…วอลเตอร์? มันเป็นอย่างงั้นนี่เอง นายก็ยังพอมีแผนอยู่นิ</Content>
         </Dialog>
         <Dialog ID="38" Model="줄루">
           <Teller>ซูลู</Teller>
@@ -2025,25 +2025,25 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland1</VoiceFile>
-          <Content>พวกคนในองค์กรนี่ชอบฆ่าคนเกินจำเป็นจริงนะ ที่พวกเขายังก่อปัญหาได้ก็เพราะว่าพวกเขาอยากจะทำเท่านั้น ต่างจากพวกฟิกเซอร์น่ะ</Content>
+          <Content>พวกคนในองค์กรนี่ชอบฆ่าคนเกินจำเป็นจริงๆ ที่พวกเขายังก่อปัญหาได้ก็เพราะว่าพวกเขาอยากจะทำเท่านั้น ต่างจากพวกฟิกเซอร์น่ะ</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland2</VoiceFile>
-          <Content>ยังไงก็แล้วแต่ นี่พวกเขาพยายามจะทำอะไรกันแน่ ลากพวกสวีปเปอร์และเดอะ ธัมบ์เข้ามามีเกี่ยวน่ะ?</Content>
+          <Content>ยังไงก็แล้วแต่ นี่พวกเขาพยายามจะทำอะไรกันแน่ ลากพวกสวีปเปอร์และเดอะ ธัมบ์เข้ามาเกี่ยวกัน?</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela1</VoiceFile>
-          <Content>ฉันอาจจะพอรู้อะไรเกี่ยวกับพวกสวีปเปอร์ก็ได้นะ</Content>
+          <Content>ฉันน่ะพอรู้จักพวกสวีปเปอร์อยู่นะ</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland3</VoiceFile>
-          <Content>เธอรู้จักหรอ? ก็นะ พวกนั้นน่ะดังพอสมควรเลยนิ</Content>
+          <Content>เธอรู้จักด้วยหรอ? ก็นะ พวกนั้นน่ะดังพอสมควรเลยนิ</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -2061,7 +2061,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland5</VoiceFile>
-          <Content>พวกเขาจะคลานออกมาจากช่องไม้แล้วทำการ“เก็บกวาด”แถวแบ็คสตรีททุกคืนเลยล่ะ</Content>
+          <Content>พวกเขาจะคลานออกมาจากงานไม้แล้วทำการ“เก็บกวาด”แถวแบ็คสตรีททุกคืนเลย</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -2071,7 +2071,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>สถานที่: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าห้องสมุด</PlaceName>
         <Dialog ID="51" Model="디노">
           <Teller>ดีโน่</Teller>
           <Title>สเตรย์ด็อก</Title>
@@ -2082,7 +2082,7 @@
           <Teller>ซูลู</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu11</VoiceFile>
-          <Content>มันแน่อยู่แล้วสิ แต่ก็คงจะกลับไปได้ทันเวลาพอดีแหละ</Content>
+          <Content>มันแน่อยู่แล้ว แต่ก็คงจะกลับไปได้ทันเวลาพอดี</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -2106,13 +2106,13 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela4</VoiceFile>
-          <Content>คุณเป็นคนที่ค่อนข้างใจร้อนสินะคะ</Content>
+          <Content>คุณน่ะเป็นคนที่ค่อนข้างใจร้อนสินะคะ</Content>
         </Dialog>
         <Dialog ID="57" Model="경미">
           <Teller>ชอง-มี</Teller>
           <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi20</VoiceFile>
-          <Content>ก็บอกให้หุบปาก!</Content>
+          <Content>ก็บอกให้หุบปากไง!</Content>
         </Dialog>
         <Dialog ID="58" Model="경미">
           <Teller>ชอง-มี</Teller>
@@ -2142,7 +2142,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela6</VoiceFile>
-          <Content>ที่ต้องฟังนายร้องเจี๊ยบๆเรื่อยเปื่อยอะนะ?</Content>
+          <Content>ที่ต้องฟังนายร้องจิ๊บๆเรื่อยเปื่อยอะนะ?</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -2154,19 +2154,19 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland9</VoiceFile>
-          <Content>ก็พวกนั้นส่วนใหญ่ไม่ลังเลที่จะใช้คำหยาบใส่เธอเลย ค่อนข้างเซอร์ไพรส์นะเนี่ยที่เธอยังทนฟังได้น่ะ</Content>
+          <Content>พวกนั้นส่วนใหญ่ไม่ลังเลที่จะใช้คำหยาบใส่เธอเลย ค่อนข้างเซอร์ไพรส์นะเนี่ยที่เธอยังทนฟังได้น่ะ</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela7</VoiceFile>
-          <Content>ก็พวกเขาคือแขกผู้มีเกียรติที่พวกเราเชิญมานี่หน่า เราก็ต้องปฏิบัติกับเขาให้สมกับที่เป็นแขกเราสิ</Content>
+          <Content>ก็พวกเขาเป็นแขกผู้มีเกียรติที่พวกเราเชิญมานิ เราก็ต้องปฏิบัติกับเขาให้สมกับที่เป็นแขกเราสิ</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela8</VoiceFile>
-          <Content>อีกอย่างคือ ฉันคุ้นชินกับการพูดให้คนอื่นพึงพอใจไปแล้วล่ะ</Content>
+          <Content>อีกอย่างคือ ฉันคุ้นชินกับวิธีการพูดให้คนอื่นพึงพอใจไปแล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -2184,7 +2184,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland12</VoiceFile>
-          <Content>…แต่ก็ ถ้าเธอลองอะลุ่มอล่วยขึ้นกับแขกแทนที่จะทักทายแค่แบบสุภาพแบบเดียว มันอาจจะง่ายขึ้นสำหรับเธอนะ</Content>
+          <Content>…แต่ก็ ถ้าเธอลองทำตัวยืดหยุ่นให้เข้ากับแขกแทนที่จะทักทายแค่แบบสุภาพ มันอาจจะง่ายขึ้นสำหรับเธอนะ</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
