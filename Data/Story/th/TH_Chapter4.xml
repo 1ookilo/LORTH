@@ -3625,1095 +3625,1095 @@
     </Episode>
   </Group>
   <Group>
-    <GroupName>Tomerry</GroupName>
+    <GroupName>โทเมอรี่</GroupName>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: Inside WARP Train UW-212</PlaceName>
+        <PlaceName>สถานที่: ภายในรถไฟวาร์ป UW-212</PlaceName>
         <Dialog ID="0" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy1</VoiceFile>
-          <Content>…Merry.</Content>
+          <Content>…เมอรี</Content>
         </Dialog>
         <Dialog ID="1" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy2</VoiceFile>
-          <Content>Where are we now…?</Content>
+          <Content>ตอนนี้เราอยู่ที่ไหนกัน…?</Content>
         </Dialog>
         <Dialog ID="2" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy3</VoiceFile>
-          <Content>How much time has passed…?</Content>
+          <Content>เวลาผ่านไปเท่าไหร่แล้ว…?</Content>
         </Dialog>
         <Dialog ID="3" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry1 (2)</VoiceFile>
-          <Content>Tommy… Tommy… You’re awake…</Content>
+          <Content>ทอมมี่… ทอมมี่… นายตื่นสักที…</Content>
         </Dialog>
         <Dialog ID="4" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry2 (2)</VoiceFile>
-          <Content>I’m sorry…</Content>
+          <Content>ฉันขอโทษ…</Content>
         </Dialog>
         <Dialog ID="5" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry3</VoiceFile>
-          <Content>I don’t really know… I don’t know how long we’ve been here…</Content>
+          <Content>ฉันไม่รู้จริงๆ… ฉันไม่รู้ว่าเราอยู่ที่นี่มานานแค่ไหนแล้วเหมือนกัน…</Content>
         </Dialog>
         <Dialog ID="6" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Passenger</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena1</VoiceFile>
-          <Content>We’re about ten days in.</Content>
+          <Content>เราอยู่ประมาณสิบวันได้แล้ว</Content>
         </Dialog>
         <Dialog ID="7" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy4</VoiceFile>
-          <Content>…Ten days?</Content>
+          <Content>…สิบวัน?</Content>
         </Dialog>
         <Dialog ID="8" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Passenger</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena2-01</VoiceFile>
-          <Content>How are you feeling right now? You were out cold for three.</Content>
+          <Content>ตอนนี้คุณรู้สึกเป็นไง? คุณนอนเป็นเวลาสามวันเลย</Content>
         </Dialog>
         <Dialog ID="9" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy5</VoiceFile>
-          <Content>I thought WARP trains were supposed to arrive in just ten seconds?</Content>
+          <Content>ผมคิดว่ารถไฟวาร์ป ควรจะไปถึงภายในเวลาเพียงไม่กี่วินาทีสักอีก?</Content>
         </Dialog>
         <Dialog ID="10" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy6</VoiceFile>
-          <Content>How could this happen? What’s going to happen to us? Where are we…</Content>
+          <Content>เรื่องนี้เกิดขึ้นได้อย่างไง? จะเกิดอะไรขึ้นกับเรา? เราอยู่ที่ไหน…</Content>
         </Dialog>
         <Dialog ID="11" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Passenger</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena3</VoiceFile>
-          <Content>I’m not certain myself, Mister Tommy.</Content>
+          <Content>ฉันไม่แน่ใจเหมือนกัน คุณทอมมี่</Content>
         </Dialog>
         <Dialog ID="12" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Passenger</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena4</VoiceFile>
-          <Content>Ah, I already heard your name from your lover, in case you’re wondering.</Content>
+          <Content>อ่า ฉันได้ยินชื่อคุณจากแฟนของคุณแล้ว เผื่อคุณจะสงสัย</Content>
         </Dialog>
         <Dialog ID="13" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena5-01</VoiceFile>
-          <Content>I’m Elena, currently working as a nurse.</Content>
+          <Content>ฉันชื่อเอเลน่า ปัจจุบันทำงานเป็นพยาบาล</Content>
         </Dialog>
         <Dialog ID="14" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena6-01</VoiceFile>
-          <Content>And this is Jae-heon, a doctor from our hospital.</Content>
+          <Content>และนี่คือแจฮอน แพทย์จากโรงพยาบาลของเรา</Content>
         </Dialog>
         <Dialog ID="15" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon1</VoiceFile>
-          <Content>…A pleasure to meet you.</Content>
+          <Content>…ยินดีที่ได้พบคุณ</Content>
         </Dialog>
         <Dialog ID="16" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry4</VoiceFile>
-          <Content>They took care of you while you fainted……</Content>
+          <Content>พวกเขาดูแลนายในขณะที่นายเป็นลม……</Content>
         </Dialog>
         <Dialog ID="17" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena7</VoiceFile>
-          <Content>This is my first time experiencing a delay like this, too.</Content>
+          <Content>นี่เป็นครั้งแรกของฉันที่พบกับความล่าช้าแบบนี้</Content>
         </Dialog>
         <Dialog ID="18" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena8-01</VoiceFile>
-          <Content>I’ve used WARP trains quite often, you see. I’d always have a pleasant 10-second trip to the destination.</Content>
+          <Content>ฉันใช้รถไฟวาร์ป ค่อนข้างบ่อยคุณเข้าใจใช้ไหมมันมักจะใช้เวลา 10 วินาทีในการเดินทางไปยังจุดหมายปลายทาง</Content>
         </Dialog>
         <Dialog ID="19" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena9</VoiceFile>
-          <Content>Do you know anything about accidents like this, doctor?</Content>
+          <Content>คุณรู้อะไรเกี่ยวกับอุบัติเหตุแบบนี้ไหม คุณหมอ?</Content>
         </Dialog>
         <Dialog ID="20" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon2-01</VoiceFile>
-          <Content>Not at all. This kind of malfunction should surely be fatal to W Corp’s image. It’s strange that they haven’t made any response for this long.</Content>
+          <Content>ไม่เลย. การทำงานผิดพลาดแบบนี้น่าจะส่งผลเสียต่อภาพลักษณ์ของ W Corp อย่างแน่นอน แปลกที่พวกเขาไม่ได้ตอบกลับมาเป็นเวลานานขนาดนี้</Content>
         </Dialog>
         <Dialog ID="21" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy7</VoiceFile>
-          <Content>Why are we worrying about W Corp? We’re all going to starve to death trapped inside this train!!!</Content>
+          <Content>ทำไมเราต้องกังวลเกี่ยวกับ W Corp เราควรกังวลกับอาหารมากกว่าเพราะติดอยู่ในรถไฟขบวนนี้!!!</Content>
         </Dialog>
         <Dialog ID="22" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry5 (2)</VoiceFile>
-          <Content>Tommy… Actually…</Content>
+          <Content>ทอมมี่… ที่จริงแล้ว…</Content>
         </Dialog>
         <Dialog ID="23" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena10</VoiceFile>
-          <Content>Let me tell him.</Content>
+          <Content>ให้ฉันบอกเขา.</Content>
         </Dialog>
         <Dialog ID="24" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena11-01</VoiceFile>
-          <Content>Tommy, you were asleep for the last three days. Are you feeling any thirst right now?</Content>
+          <Content>ทอมมี่ คุณหลับไปสามวัน ตอนนี้คุณรู้สึกกระหายน้ำไหม?</Content>
         </Dialog>
         <Dialog ID="25" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena12-01</VoiceFile>
-          <Content>You didn’t consume any water or moisture while you were out, just so you know.</Content>
+          <Content>คุณไม่ได้กินน้ำหรืออะไรเลยในขณะที่คุณนอนอยู่เข้าใจใช้ไหม</Content>
         </Dialog>
         <Dialog ID="26" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy8</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="27" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy9</VoiceFile>
-          <Content>I’m not thirsty at all…?</Content>
+          <Content>ผมไม่รู้สึกกระหายน้ำเลย…?</Content>
         </Dialog>
         <Dialog ID="28" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena13-01</VoiceFile>
-          <Content>For some reason, no one here appears to be feeling any kind of hunger or thirst.</Content>
+          <Content>ด้วยเหตุผลบางอย่าง ดูเหมือนว่าไม่มีใครที่นี่รู้สึกหิวหรือกระหายน้ำเลย</Content>
         </Dialog>
         <Dialog ID="29" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena14-02</VoiceFile>
-          <Content>To elaborate, no one has shown malfunction or distress in vital physiological functions.</Content>
+          <Content>เพื่อให้เข้าใจยิ่งขึ้น ไม่มีใครแสดงความผิดปกติหรือความทุกข์ในการทำงานทางสรีรวิทยาที่สำคัญเลย</Content>
         </Dialog>
         <Dialog ID="30" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy10</VoiceFile>
-          <Content>How is that even possible? Just what is going on here…</Content>
+          <Content>เป็นไปได้อย่างไงกับสิ่งที่เกิดขึ้นกับที่นี่…</Content>
         </Dialog>
         <Dialog ID="31" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena15-01</VoiceFile>
-          <Content>We have no idea… Let’s wait a little more. It seems that time is all we have, after all.</Content>
+          <Content>เราไม่มีความรุ้… อดใจรอกันอีกนิด ดูเหมือนว่าเวลาคือทั้งหมดที่เรามี</Content>
         </Dialog>
         <Dialog ID="32" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy11 (2)</VoiceFile>
-          <Content>Time… huh…</Content>
+          <Content>เวลา… ฮืม…</Content>
         </Dialog>
         <Dialog ID="33" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry6</VoiceFile>
-          <Content>Tommy… You can keep your eyes closed if you’re tired. I’ll always be at your side.</Content>
+          <Content>ทอมมี่… นายสามารถหลับตาได้หากนายเหนื่อยนะ ฉันจะอยู่เคียงข้างนายเสมอ</Content>
         </Dialog>
         <Dialog ID="34" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy12</VoiceFile>
-          <Content>Me too, Merry… I’ll stay next to you all the time…</Content>
+          <Content>ผมด้วย เมอร์รี่… ผมจะอยู่ข้างๆคุณเสมอ…</Content>
         </Dialog>
         <Dialog ID="35" Model="">
           <Teller />
           <Title />
-          <Content>- 15 days in -</Content>
+          <Content>- วันที่่ 15  -</Content>
         </Dialog>
         <Dialog ID="36" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry7 (2)</VoiceFile>
-          <Content>…Tommy! Tommy!!</Content>
+          <Content>…ทอมมี่! ทอมมี่!!</Content>
         </Dialog>
         <Dialog ID="37" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy13</VoiceFile>
-          <Content>Merry… What’s wrong…? What’s with all this noise?</Content>
+          <Content>เมอรี… มีอะไรเหรอ…? เสียงทั้งหมดนั้นคืออะไร?</Content>
         </Dialog>
         <Dialog ID="38" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry8 (2)</VoiceFile>
-          <Content>Tommy! Wake up! This is bad!!</Content>
+          <Content>ทอมมี่! ตื่น! นี้ไม่ดีแล้ว!!</Content>
         </Dialog>
         <Dialog ID="39" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena16-01</VoiceFile>
-          <Content>Although we did expect something like this to happen sooner or later…</Content>
+          <Content>แม้ว่าเราจะคาดการแล้วสิ่งนี้จะเกิดขึ้นในไม่ช้าก็เร็ว…</Content>
         </Dialog>
         <Dialog ID="40" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy14 (2)</VoiceFile>
-          <Content>What’s going on…?</Content>
+          <Content>เกิดอะไรขึ้น…?</Content>
         </Dialog>
         <Dialog ID="41" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon3</VoiceFile>
-          <Content>It seems trouble has occurred in the carriage next to ours.</Content>
+          <Content>ดูเหมือนว่าจะเกิดปัญหาขึ้นในตู้โดยสารถัดจากเรา</Content>
         </Dialog>
         <Dialog ID="42" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy15</VoiceFile>
-          <Content>Wh… What are—what are they doing…?</Content>
+          <Content>อะ… อะไร—พวกเขากำลังทำอะไร…?</Content>
         </Dialog>
         <Dialog ID="43" Model="승객1">
-          <Teller>Passenger 1</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสาร 1</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_people1_1</VoiceFile>
-          <Content>Watch me!!! Witness me!!!!!</Content>
+          <Content>ดูฉันนะ!!! เป็นพยานให้ฉัน!!!!!</Content>
         </Dialog>
         <Dialog ID="44" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry9 (2)</VoiceFile>
-          <Content>Kyahhhhhhh!!!!</Content>
+          <Content>กรี๊ด!!!!</Content>
         </Dialog>
         <Dialog ID="45" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon4-01</VoiceFile>
-          <Content>A natural reaction to being trapped in a closed space like this for more than two weeks.</Content>
+          <Content>มันเป็นปฏิกิริยาตามธรรมชาติต่อการถูกขังอยู่ในที่ปิดเป็นเวลานานกว่าสองสัปดาห์</Content>
         </Dialog>
         <Dialog ID="46" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy16</VoiceFile>
-          <Content>Did… Did that person… just slice off their own throat…?</Content>
+          <Content>คือ… คนๆ นั้น… เชือดคอตัวเอง…?</Content>
         </Dialog>
         <Dialog ID="47" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena17-02</VoiceFile>
-          <Content>Huh…? This is intriguing… Doctor?</Content>
+          <Content>ฮะ…? สิ่งนี้น่าสนใจ… คุณหมอ?</Content>
         </Dialog>
         <Dialog ID="48" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon5</VoiceFile>
-          <Content>Certainly is… Eileen didn’t send us here for nothing.</Content>
+          <Content>แน่นอน... ไอลีนเราไม่ได้มาที่นี่โดยเปล่าประโยชน์</Content>
         </Dialog>
         <Dialog ID="49" Model="승객1">
-          <Teller>Passenger 1</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสาร 1</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_people1_2-01</VoiceFile>
-          <Content>L…luhk at this… Kahkh. My neckh iith barely danggrgling and I’m sthill aiive…</Content>
+          <Content>ล…ลุกที่นี้…ก๊าก คอของฉันแทบจะขาดห้อยแต่ฉันก็ยังอยู่…</Content>
         </Dialog>
         <Dialog ID="50" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy17</VoiceFile>
-          <Content>Pant, pant…</Content>
+          <Content>เหนื่อยหอบ</Content>
         </Dialog>
         <Dialog ID="51" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry10</VoiceFile>
-          <Content>Tooommy… Tommy…</Content>
+          <Content>ทอมมี… ทอมมี…</Content>
         </Dialog>
         <Dialog ID="52" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy18</VoiceFile>
-          <Content>Stick with me, Merry…</Content>
+          <Content>ติดกับฉันไว้ เมอรี…</Content>
         </Dialog>
         <Dialog ID="53" Model="">
           <Teller />
           <Title />
-          <Content>- 16 days in -</Content>
+          <Content>- วันที่ 16 -</Content>
         </Dialog>
         <Dialog ID="54" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena18-01</VoiceFile>
-          <Content>Ah, Mister Tommy. You’re finally awake.</Content>
+          <Content>อา คุณทอมมี่ ในที่สุดคุณก็ตื่น</Content>
         </Dialog>
         <Dialog ID="55" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy19</VoiceFile>
-          <Content>Haha… I never thought I’d faint so many times in my life…</Content>
+          <Content>ฮ่าฮ่า… ผมไม่เคยคิดว่าผมจะเป็นลมได้หลายครั้งขนาดนี้ในชีวิต…</Content>
         </Dialog>
         <Dialog ID="56" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena19-01</VoiceFile>
-          <Content>The sight must’ve been quite shocking for Miss Merry as well.</Content>
+          <Content>ภาพที่เห็นนี้ต้องทำให้เมอรี ตกตะลึงแน่นอน</Content>
         </Dialog>
         <Dialog ID="57" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy20 (2)</VoiceFile>
-          <Content>Yeah… She’s still asleep…</Content>
+          <Content>ใช่…เธอยังหลับอยู่…</Content>
         </Dialog>
         <Dialog ID="58" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy21</VoiceFile>
-          <Content>…Um, what happened to that person?</Content>
+          <Content>…อืมเกิดอะไรขึ้นกับคนนั้นเหรอครับ?</Content>
         </Dialog>
         <Dialog ID="59" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena20-01</VoiceFile>
-          <Content>If you’re talking about the person that slit their own throat, they were put under quarantine in a different carriage.</Content>
+          <Content>หากกำลังพูดถึงคนที่เชือดคอตัวเองละก็ พวกเขาจะถูกกักกันในตู้โดยสารอีกที่หนึ่ง</Content>
         </Dialog>
         <Dialog ID="60" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon6-01</VoiceFile>
-          <Content>There’s three hundred people on board. Can’t be the only one to have done such a thing.</Content>
+          <Content>มีคนสามร้อยคนอยู่บนเครื่อง ไม่ใช้คนเดียวที่ทำสิ่งนั้นได้</Content>
         </Dialog>
         <Dialog ID="61" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy22 (2)</VoiceFile>
-          <Content>Quarantined…? You mean, they’re not dead?</Content>
+          <Content>ถูกกักกัน…? คุณหมายความว่าพวกเขายังไม่ตาย?</Content>
         </Dialog>
         <Dialog ID="62" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy23 (2)</VoiceFile>
-          <Content>They should’ve died after bleeding so much. You don’t usually “quarantine” a corpse…</Content>
+          <Content>พวกเขาควรจะตายหลังจากเสียเลือดมาก กักกันศพไปก็ไม่มีความหมาย…</Content>
         </Dialog>
         <Dialog ID="63" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena21</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="64" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena22-01</VoiceFile>
-          <Content>They’re surprisingly alive, even though the arteries were cut.</Content>
+          <Content>พวกเขายังมีชีวิตอยู่อย่างน่าประหลาดใจแม้ว่าเส้นเลือดแดงจะถูกตัดออกไปแล้วก็ตาม</Content>
         </Dialog>
         <Dialog ID="65" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena23</VoiceFile>
-          <Content>Blood was spilled all over the floor, but it wasn’t completely separated from the body.</Content>
+          <Content>เลือดกระเซ็นไปทั่วพื้น แต่มันไม่ได้แยกออกจากร่างกายอย่างสมบูรณ์</Content>
         </Dialog>
         <Dialog ID="66" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena24</VoiceFile>
-          <Content>Not a single drop of blood was scattered or smeared on other surfaces; the pool of blood remained in contact with the body like a cohesive mass.</Content>
+          <Content>ไม่มีแม้แต่รอยเลือดเลยที่เปื้อนบนพื้นผิวของรถไฟ เลือดก็ยังคงสัมผัสกับร่างกายเหมือนมวลที่เหนียวหนืด</Content>
         </Dialog>
         <Dialog ID="67" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena25-01</VoiceFile>
-          <Content>And that person stayed conscious the whole time, enough to communicate…</Content>
+          <Content>และคนนั้นยังมีสติอยู่ตลอดเวลาพอที่จะสื่อสารได้อยู่…</Content>
         </Dialog>
         <Dialog ID="68" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena26-01</VoiceFile>
-          <Content>They’re probably still vividly feeling the pain of their neck being slit.</Content>
+          <Content>พวกเขาอาจยังคงรู้สึกถึงความเจ็บปวดจากการถูกเชือดคออย่างชัดเจน</Content>
         </Dialog>
         <Dialog ID="69" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy24</VoiceFile>
-          <Content>…What the hell. How could any of this be possible?</Content>
+          <Content>…อะไรนะ สิ่งนั้นจะเป็นไปได้ยังไง?</Content>
         </Dialog>
         <Dialog ID="70" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena27</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="71" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena28</VoiceFile>
-          <Content>I’m afraid I don’t know.</Content>
+          <Content>ฉันเกรงว่าฉันก็ไม่รู้</Content>
         </Dialog>
         <Dialog ID="72" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena29</VoiceFile>
-          <Content>Sorry, Mister Tommy. I can’t help but give you this same response all the time…</Content>
+          <Content>ขอโทษนะทอมมี่ ฉันอดไม่ได้ที่จะตอบกลับแบบนี้ตลอดเวลา…</Content>
         </Dialog>
         <Dialog ID="73" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy25</VoiceFile>
-          <Content>No, it’s alright… I shouldn’t expect you to know all the answers, after all…</Content>
+          <Content>ไม่ ไม่เป็นไรครับ… ผมไม่ควรคาดหวังให้คุณรู้คำตอบทั้งหมด…</Content>
         </Dialog>
         <Dialog ID="74" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon7</VoiceFile>
-          <Content>There’s one thing we can know for sure.</Content>
+          <Content>มีสิ่งหนึ่งที่เราสามารถรู้ได้อย่างแน่นอน</Content>
         </Dialog>
         <Dialog ID="75" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy26</VoiceFile>
-          <Content>And that’s…?</Content>
+          <Content>และนั่นก็คือ…?</Content>
         </Dialog>
         <Dialog ID="76" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon8-01</VoiceFile>
-          <Content>That this is only the beginning.</Content>
+          <Content>ว่านี่เป็นเพียงจุดเริ่มต้นเท่านั้น</Content>
         </Dialog>
         <Dialog ID="77" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon9</VoiceFile>
-          <Content>You’ll have to brace yourself.</Content>
+          <Content>คุณจะต้องเตรียมตัวให้พร้อม</Content>
         </Dialog>
         <Dialog ID="78" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena30</VoiceFile>
-          <Content>For the sake of your lover as well.</Content>
+          <Content>ก็เพื่อคนรักของคุณเอง</Content>
         </Dialog>
         <Dialog ID="79" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy27</VoiceFile>
-          <Content>Yeah… I gotta…</Content>
+          <Content>ใช่…ผมต้อง…</Content>
         </Dialog>
         <Dialog ID="80" Model="">
           <Teller />
           <Title />
-          <Content>- 30 days in -</Content>
+          <Content>- วันที่ 30 -</Content>
         </Dialog>
         <Dialog ID="81" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry11 (2)</VoiceFile>
-          <Content>Tommy… Missus Miho from the next carriage over told me that five of the thirty carriages are already filled with suicidals…</Content>
+          <Content>ทอมมี่… คุณมิโฮะจากตู้โดยสารถัดไปบอกฉันว่าตู้โดยสาร 5 ตู้จากทั้งหมด 30 ตู้เต็มไปด้วยคนฆ่าตัวตายแล้ว…</Content>
         </Dialog>
         <Dialog ID="82" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy28</VoiceFile>
-          <Content>Don’t worry, Merry… The people in our carriage are still going strong.</Content>
+          <Content>ไม่ต้องกังวล เมอร์รี่… คนในตู้ของเรายังคงแข็งแรงอยู่</Content>
         </Dialog>
         <Dialog ID="83" Model="승객2">
-          <Teller>Passenger 2</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสาร 2</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_people2-03</VoiceFile>
-          <Content>It’s all thanks to Elena and Jae-heon. It’s not just us, everyone in the six adjacent carriages seems to be counting on those two.</Content>
+          <Content>ทั้งหมดนี้ต้องขอบคุณ เอลิน่า และ แจ-ฮอน ไม่ใช่แค่เรา ทุกคนในตู้โดยสารหกตู้ที่อยู่ติดกันก็ดูเหมือนจะไว้ใจสองคนนี้ด้วย</Content>
         </Dialog>
         <Dialog ID="84" Model="승객3">
-          <Teller>Passenger 3</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสาร 3</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_people3_2</VoiceFile>
-          <Content>It really is… They’re so professional and collected, it’s reassuring to have them around.</Content>
+          <Content>จริง ๆ แล้ว… พวกเขาเป็นมืออาชีพและทำตัวดี มั่นใจได้เมื่อมีพวกเขาอยู่ด้วย</Content>
         </Dialog>
         <Dialog ID="85" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry12</VoiceFile>
-          <Content>You’re right… If it weren’t for Elena and Jae-heon, we might have…</Content>
+          <Content>คุณพูดถูก… ถ้าไม่ใช่เพราะ เอลิน่า และ แจ-ฮอน เราอาจมี…</Content>
         </Dialog>
         <Dialog ID="86" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy29 (2)</VoiceFile>
-          <Content>Merry… Don’t say dark things….</Content>
+          <Content>เมอร์รี่… อย่าพูดเรื่องมืดมนแบบนั้นสิ….</Content>
         </Dialog>
         <Dialog ID="87" Model="">
           <Teller />
           <Title />
-          <Content>- 93 days in -</Content>
+          <Content>- วันที่ 93 -</Content>
         </Dialog>
         <Dialog ID="88" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena31</VoiceFile>
-          <Content>The situation is worsening, everyone.</Content>
+          <Content>สถานการณ์ดูแย่ลงทุกคน.</Content>
         </Dialog>
         <Dialog ID="89" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena32-01</VoiceFile>
-          <Content>Carriages 5 to 15 are still in solidarity, including carriage 7 where we are located, but things are not looking good for the carriages beyond 15.</Content>
+          <Content>ตู้โดยสารหมายเลข 5 ถึงหมายเลข 15 ยังคงเป็นน้ำหนึ่งใจเดียวกัน รวมถึงตู้หมายเลข 7 ที่เราตั้งอยู่ด้วย แต่ตู้โดยสารหมายเลข 15 ที่ดูไม่ค่อยดีนักในตอนนี้</Content>
         </Dialog>
         <Dialog ID="90" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena33</VoiceFile>
-          <Content>Even just three days ago…</Content>
+          <Content>แม้จะเพิ่งผ่านไปสามวัน…</Content>
         </Dialog>
         <Dialog ID="91" Model="승객3">
-          <Teller>Passenger 3</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสาร 3</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_people3_1</VoiceFile>
-          <Content>Yeah! I heard carriage 19 is already full of half-dead people!</Content>
+          <Content>ใช่! ฉันได้ยินมาว่าตู้โดยสารหมายเลข 19 เต็มไปด้วยคนตายเกินครึ่งแล้ว!</Content>
         </Dialog>
         <Dialog ID="92" Model="승객4">
-          <Teller>Passenger 4</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสาร 4</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_people4</VoiceFile>
-          <Content>They’re breaking into other carriages and ravaging people’s bodies, like… They were playing with them like toys…</Content>
+          <Content>พวกเขาบุกเข้าไปในตู้อื่นและทำลายร่างกายของผู้โดยสาร เช่น... พวกเขาเล่นกับผู้โดยสารเหมือนของเล่น…</Content>
         </Dialog>
         <Dialog ID="93" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena34-01</VoiceFile>
-          <Content>That’s sadly the case…</Content>
+          <Content>เป็นเรื่องที่น่าเศร้า…</Content>
         </Dialog>
         <Dialog ID="94" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena35</VoiceFile>
-          <Content>Those people seem to have decided to accept pain as a way to endure this trial of time.</Content>
+          <Content>คนเหล่านั้นดูเหมือนจะตัดสินใจยอมรับความเจ็บปวดเป็นวิธีหนึ่งในการอดทนต่อการทดลองของเวลานี้</Content>
         </Dialog>
         <Dialog ID="95" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy30</VoiceFile>
-          <Content>Have they gone mad…?! Killing each other just to pass the time…</Content>
+          <Content>พวกเขาบ้าไปแล้วเหรอ…?! ฆ่ากันเพื่อฆ่าเวลาเนี่ยนะ…</Content>
         </Dialog>
         <Dialog ID="96" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry13 (2)</VoiceFile>
-          <Content>They aren’t exactly dead, though…</Content>
+          <Content>พวกเขาไม่ตายอย่างแน่นอน…</Content>
         </Dialog>
         <Dialog ID="97" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy31 (2)</VoiceFile>
-          <Content>Merry! They’re crawling around with their limbs barely attached. They’re pretty much as good as dead!</Content>
+          <Content>เมอรี! พวกมันคลานไปมาโดยที่แขนขาแทบไม่ติดกัน พวกมันดูดีใจที่ได้ตายนะ!</Content>
         </Dialog>
         <Dialog ID="98" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon10-01</VoiceFile>
-          <Content>That’s right. We must persevere. We can’t stop them from damaging their own bodies, but forcing that pain on others is simply unacceptable.</Content>
+          <Content>ถูกตัอง. เราต้องอดทน เราไม่สามารถห้ามพวกเขาไม่ให้ทำร้ายร่างกายตัวเองได้ แต่การบังคับให้คนอื่นเจ็บปวดนั้นเป็นสิ่งที่ยอมรับไม่ได้</Content>
         </Dialog>
         <Dialog ID="99" Model="승객5">
-          <Teller>Passenger 5</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสาร 5</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_people5_1</VoiceFile>
-          <Content>Miss Elena! Jae-heon, sir! What can we do… What if they attacked my younger siblings?</Content>
+          <Content>คุณเอลิน่า! คุณแจ-ฮอนครับ! เราจะทำอย่างไร… ถ้าพวกเขาทำร้ายน้องของฉัน?</Content>
         </Dialog>
         <Dialog ID="100" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon11</VoiceFile>
-          <Content>I’m sure you don’t want to be separated from your loved ones.</Content>
+          <Content>ผมแน่ใจว่าคุณไม่ต้องการแยกจากคนที่คุณรักหรอก</Content>
         </Dialog>
         <Dialog ID="101" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon12</VoiceFile>
-          <Content>You want to stay with them forever on this trip that might last an eternity, don’t you?</Content>
+          <Content>คุณต้องการที่จะอยู่กับเขาตลอดไปในการเดินทางครั้งนี้ที่อาจคงอยู่ชั่วนิรันดร์ ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="102" Model="승객5">
-          <Teller>Passenger 5</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสาร 5</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_people5_2</VoiceFile>
-          <Content>Yes, we do! We’ll be able to endure it if we’re together!</Content>
+          <Content>ใช่ เราทนได้ถ้าอยู่ด้วยกัน!</Content>
         </Dialog>
         <Dialog ID="103" Model="승객6">
-          <Teller>Passenger 6</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสาร 6</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_people6</VoiceFile>
-          <Content>Can you show us a way, Jae-heon?</Content>
+          <Content>คุณช่วยชี้แนะให้เราหน่อยได้ไหม คุณแจฮอน?</Content>
         </Dialog>
         <Dialog ID="104" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry14 (2)</VoiceFile>
-          <Content>I don’t wanna be separated from Tommy, either!</Content>
+          <Content>ฉันก็ไม่อยากแยกจากทอมมี่เหมือนกัน!</Content>
         </Dialog>
         <Dialog ID="105" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry15 (2)</VoiceFile>
-          <Content>You feel the same, right, Tommy?</Content>
+          <Content>คุณก็รู้สึกเหมือนกันใช่ไหม ทอมมี่?</Content>
         </Dialog>
         <Dialog ID="106" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy32 (2)</VoiceFile>
-          <Content>…Yeah, of course.</Content>
+          <Content>…ใช่แน่นอน.</Content>
         </Dialog>
         <Dialog ID="107" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena36</VoiceFile>
-          <Content>Then please have faith in us.</Content>
+          <Content>ได้โปรดเชื่อใจเรา</Content>
         </Dialog>
         <Dialog ID="108" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena37-01</VoiceFile>
-          <Content>We need your agreement. And you must be prepared to fight them.</Content>
+          <Content>เราต้องการข้อตกลงของพวกคุณ และพวกคุณต้องเตรียมพร้อมที่จะต่อสู้กับพวกมัน</Content>
         </Dialog>
         <Dialog ID="109" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy33 (2)</VoiceFile>
-          <Content>Fight them?</Content>
+          <Content>ต่อสู้กับพวกเขา?</Content>
         </Dialog>
         <Dialog ID="110" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena38</VoiceFile>
-          <Content>The vile people from beyond carriage 15 who are trying to break us apart, of course.</Content>
+          <Content>แน่นอนว่าคนเลวทรามจากตู้ 15 ต้องพยายามแยกพวกเราออกจากกันแน่นอน</Content>
         </Dialog>
         <Dialog ID="111" Model="">
           <Teller />
           <Title />
-          <Content>- 100 days in -</Content>
+          <Content>- วันที่ 100 -</Content>
         </Dialog>
         <Dialog ID="112" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy34 (2)</VoiceFile>
-          <Content>They’re mad… They’re all crazy…</Content>
+          <Content>พวกเขาบ้าไปแล้ว… พวกเขาทั้งหมดบ้าไปแล้ว…</Content>
         </Dialog>
         <Dialog ID="113" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena39</VoiceFile>
-          <Content>Mister Tommy… Are you still hesitating?</Content>
+          <Content>ทอมมี่… คุณยังลังเลอยู่หรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="114" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry16 (2)</VoiceFile>
-          <Content>Tommy… Look at them, they don’t look all too bad…</Content>
+          <Content>ทอมมี่… ดูพวกเขาสิ พวกเขาดูไม่เลวเลย…</Content>
         </Dialog>
         <Dialog ID="115" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry17 (2)-01</VoiceFile>
-          <Content>I was shocked at first, but……</Content>
+          <Content>ตอนแรกก็ตกใจแต่……</Content>
         </Dialog>
         <Dialog ID="116" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry18</VoiceFile>
-          <Content>If I can be with you forever, Tommy…</Content>
+          <Content>ถ้าฉันสามารถอยู่กับคุณได้ตลอดไป ทอมมี่…</Content>
         </Dialog>
         <Dialog ID="117" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry19</VoiceFile>
-          <Content>Then I think I’ll be able to make it through…</Content>
+          <Content>ฉันคิดว่าฉันจะผ่านมันไปได้…</Content>
         </Dialog>
         <Dialog ID="118" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy35</VoiceFile>
-          <Content>Sorry, Merry… I just—I need a little more time to think…</Content>
+          <Content>ขอโทษ เมอร์รี่… ฉันแค่— ฉันขอเวลาคิดอีกหน่อย…</Content>
         </Dialog>
         <Dialog ID="119" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena40-01</VoiceFile>
-          <Content>Mister Tommy, while this train has an abundance of time, we don’t have much of it left for us.</Content>
+          <Content>ทอมมี่ รถไฟขบวนนี้มีเวลาเหลือเฟือแต่เราเหลือเวลาไม่มากแล้ว</Content>
         </Dialog>
         <Dialog ID="120" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon13</VoiceFile>
-          <Content>I won’t compel you. The decision is in your hands.</Content>
+          <Content>ฉันจะไม่บังคับคุณ การตัดสินใจอยู่ในมือของคุณแล้ว</Content>
         </Dialog>
         <Dialog ID="121" Model="">
           <Teller />
           <Title />
-          <Content>- 113 days in -</Content>
+          <Content>- วันที่ 113 -</Content>
         </Dialog>
         <Dialog ID="122" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy36</VoiceFile>
-          <Content>I’ll do it…</Content>
+          <Content>ผมจะทำมัน…</Content>
         </Dialog>
         <Dialog ID="123" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy37 (2)</VoiceFile>
-          <Content>I’ll do it, dammit!!!</Content>
+          <Content>ฉันก็จะทำมัน ไอ้บ้า!!!</Content>
         </Dialog>
         <Dialog ID="124" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry20</VoiceFile>
-          <Content>Tommy…</Content>
+          <Content>ทอมมี่…</Content>
         </Dialog>
         <Dialog ID="125" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena41-01</VoiceFile>
-          <Content>So you’ve decided.</Content>
+          <Content>พวกคุณตัดสินใจได้แล้วสินะ.</Content>
         </Dialog>
         <Dialog ID="126" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy38</VoiceFile>
-          <Content>I’ve seen what happened to the people in carriage 14…</Content>
+          <Content>ผมได้เห็นสิ่งที่เกิดขึ้นกับคนในตู้ 14…</Content>
         </Dialog>
         <Dialog ID="127" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy39</VoiceFile>
-          <Content>They were already raided… They were just sitting there drooling, their eyes turned white in shock…</Content>
+          <Content>พวกเขาถูกจู่โจมแล้ว… พวกเขานั่งน้ำลายไหลอยู่ตรงนั้น ดวงตาของพวกเขาเปลี่ยนเป็นสีขาวด้วยความตกใจ…</Content>
         </Dialog>
         <Dialog ID="128" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy40</VoiceFile>
-          <Content>I can’t let the same happen to you, Merry.</Content>
+          <Content>ผมปล่อยให้สิ่งเดียวกันนั้นเกิดขึ้นกับคุณไม่ได้ เมอร์รี่</Content>
         </Dialog>
         <Dialog ID="129" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>เมอรี</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry21</VoiceFile>
-          <Content>Tommy… I feel the same…</Content>
+          <Content>ทอมมี่… ฉันคิดเหมือนกัน…</Content>
         </Dialog>
         <Dialog ID="130" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena42</VoiceFile>
-          <Content>Good. Let’s start the procedure immediately.</Content>
+          <Content>ดี เรามาเริ่มขั้นตอนกันเลย</Content>
         </Dialog>
         <Dialog ID="131" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena43-01</VoiceFile>
-          <Content>Doctor… Preparations, please.</Content>
+          <Content>คุณหมอ… เตรียมตัวให้พร้อม</Content>
         </Dialog>
         <Dialog ID="132" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon14-01</VoiceFile>
-          <Content>(He nods.)</Content>
+          <Content>(พยักหน้า)</Content>
         </Dialog>
         <Dialog ID="133" Model="">
           <Teller />
           <Title />
-          <Content>- 120 days in -</Content>
+          <Content>- วันที่ 120 -</Content>
         </Dialog>
         <Dialog ID="134" Model="메어리">
-          <Teller>Merry</Teller>
+          <Teller>เมอรี</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry22</VoiceFile>
-          <Content>Tommy… How are you feeling?</Content>
+          <Content>ทอมมี่… คุณรู้สึกยังไง?</Content>
         </Dialog>
         <Dialog ID="135" Model="토미">
-          <Teller>Tommy</Teller>
+          <Teller>ทอมมี่</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Warp_ep1_tommy41 (2)</VoiceFile>
-          <Content>I dunno…</Content>
+          <Content>ผมไม่รู้…</Content>
         </Dialog>
         <Dialog ID="136" Model="토미">
-          <Teller>Tommy</Teller>
+          <Teller>ทอมมี่</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Warp_ep1_tommy42 (2)</VoiceFile>
-          <Content>But I’m relieved…</Content>
+          <Content>แต่ผมโล่งใจ…</Content>
         </Dialog>
         <Dialog ID="137" Model="토미">
-          <Teller>Tommy</Teller>
+          <Teller>ทอมมี่</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Warp_ep1_tommy43 (2)</VoiceFile>
-          <Content>I can feel your heartbeat vividly…</Content>
+          <Content>ผมรู้สึกได้ถึงการเต้นของหัวใจของคุณอย่างชัดเจนเลย…</Content>
         </Dialog>
         <Dialog ID="138" Model="메어리">
-          <Teller>Merry</Teller>
+          <Teller>เมอรี</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry23</VoiceFile>
-          <Content>Me too… We’ll never be apart again…</Content>
+          <Content>ฉันด้วย… เราจะไม่มีวันแยกจากกันอีกแล้ว…</Content>
         </Dialog>
         <Dialog ID="139" Model="">
           <Teller />
           <Title />
-          <Content>- 150 days in -</Content>
+          <Content>- วันที่ 150 -</Content>
         </Dialog>
         <Dialog ID="140" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena44-01</VoiceFile>
-          <Content>Thanks to your love, we could keep carriages up to number 10 safe.</Content>
+          <Content>ด้วยความรักของพวกคุณ เราจึงรักษาตู้ขบวนได้ถึง 10 ตู้ให้ปลอดภัยได้</Content>
         </Dialog>
         <Dialog ID="141" Model="승객2,3,4">
-          <Teller>Passengers</Teller>
+          <Teller>ผู้โดยสาร S</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Tomerry_ep1_people234</VoiceFile>
-          <Content>All thanks to the new bodies you gave us, doctor.</Content>
+          <Content>ขอบคุณร่างกายใหม่ที่คุณมอบให้เรา คุณหมอ</Content>
         </Dialog>
         <Dialog ID="142" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena45</VoiceFile>
-          <Content>I’m flattered to hear that. Your love for each other is what really protected you.</Content>
+          <Content>ฉันรู้สึกดีใจที่ได้ยินแบบนั้น ความรักที่พวกคุณมีต่อกันคือสิ่งที่จะปกป้องพวกเราอย่างแท้จริง</Content>
         </Dialog>
         <Dialog ID="143" Model="승객5,9,10">
-          <Teller>Passengers</Teller>
+          <Teller>ผู้โดยสาร S</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Tomerry_ep1_people5910</VoiceFile>
-          <Content>Doctor!!! Carriage 10 is urgently asking for help.</Content>
+          <Content>หมอ!!! ตู้ขบวนที่ 10 ต้องการความช่วยเหลืออย่างเร่งด่วน</Content>
         </Dialog>
         <Dialog ID="144" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena46-01</VoiceFile>
-          <Content>Mister Tommy and Miss Merry, could you head to carriage 10 and lend them your strength?</Content>
+          <Content>คุณทอมมี่และคุณเมอร์รี่ คุณช่วยไปที่ตู้ที่ 10 และให้กำลังพวกเขาหน่อยได้ไหม?</Content>
         </Dialog>
         <Dialog ID="145" Model="토미, 메어리">
           <Teller>Tommy and Merry</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Tomerry_ep1_tommymerry1 (2)</VoiceFile>
-          <Content>Huh? But we never fought anyone in our lives… And we aren’t strong, either…</Content>
+          <Content>ฮะ? แต่เราไม่เคยสู้กับใครเลยนะในชีวิต...และเราก็ไม่ได้แข็งแกร่งขนาดนั้นด้วย…</Content>
         </Dialog>
         <Dialog ID="146" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon15-01</VoiceFile>
-          <Content>Your affection for each other will surely invigorate your new body.</Content>
+          <Content>ความรักที่พวกคุณมีต่อกันจะทำให้ร่างกายใหม่ของคุณแข็งแรงขึ้นอย่างแน่นอน</Content>
         </Dialog>
         <Dialog ID="147" Model="토미, 메어리">
           <Teller>Tommy and Merry</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Tomerry_ep1_tommymerry2 (2)</VoiceFile>
-          <Content>We’ll trust you, doctor.</Content>
+          <Content>เราเชื่อใจคุณ คุณหมอ</Content>
         </Dialog>
         <Dialog ID="148" Model="">
           <Teller />
           <Title />
-          <Content>- 3,437 days in -</Content>
+          <Content>- วันที่ 3,437 -</Content>
         </Dialog>
         <Dialog ID="149" Model="메어리">
-          <Teller>Merry</Teller>
+          <Teller>เมอรี</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry24</VoiceFile>
-          <Content>We can shove suicidals into their place like a breeze now, Tommy…</Content>
+          <Content>เราสามารถยัดคนฆ่าตัวตายเข้าไปในที่ที่ของมันได้ ทอมมี่…</Content>
         </Dialog>
         <Dialog ID="150" Model="토미">
-          <Teller>Tommy</Teller>
+          <Teller>ทอมมี่</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Warp_ep1_tommy44</VoiceFile>
-          <Content>Yeah, it’s just as the doctors said. Our affection for each other gave us strength.</Content>
+          <Content>ใช่ มันเหมือนกับที่คุณหมอพูดเลย ความรักที่เรามีต่อกันทำให้เราเข้มแข็ง</Content>
         </Dialog>
         <Dialog ID="151" Model="메어리">
-          <Teller>Merry</Teller>
+          <Teller>เมอรี</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Tomerry_ep1_merry25</VoiceFile>
-          <Content>They keep crawling out no matter how many times we smash them.</Content>
+          <Content>พวกมันคลานออกมาไม่หยุดเลยไม่ว่าเราจะจัดการพวกมันกี่ครั้งก็ตาม</Content>
         </Dialog>
         <Dialog ID="152" Model="토미">
-          <Teller>Tommy</Teller>
+          <Teller>ทอมมี่</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Warp_ep1_tommy45</VoiceFile>
-          <Content>They should go quiet for a while now.</Content>
+          <Content>พวกมันหน้าจะเงียบไปสักพักหนึ่ง</Content>
         </Dialog>
         <Dialog ID="153" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena47-01</VoiceFile>
-          <Content>Welcome back to the town, Mister Tommy and Miss Merry.</Content>
+          <Content>ยินดีต้อนรับกลับสู่เมือง คุณทอมมี่และคุณเมอร์รี่</Content>
         </Dialog>
         <Dialog ID="154" Model="토머리">
-          <Teller>Townsfolk</Teller>
-          <Title>Love Town</Title>
+          <Teller>ชาวเมือง</Teller>
+          <Title>เมืองแห่งความรัก</Title>
           <VoiceFile>ch4_Tomerry_ep1_inhabitant234</VoiceFile>
-          <Content>Tommy and Merry are the heroes of Love Town!</Content>
+          <Content>ทอมมี่และเมอรี่ที่เป็นฮีโร่ของ เมืองแห่งความรัก!</Content>
         </Dialog>
         <Dialog ID="155" Model="토머리">
-          <Teller>Townsfolk</Teller>
-          <Title>Love Town</Title>
+          <Teller>ชาวเมือง</Teller>
+          <Title>เมืองแห่งความรัก</Title>
           <VoiceFile>ch4_Tomerry_ep1_inhabitants1</VoiceFile>
-          <Content>Tommy!! Merry!!! You’re so cool!!!</Content>
+          <Content>ทอมมี่!! เมอรี!!! พวกคุณสุดยอดเลย!!!</Content>
         </Dialog>
         <Dialog ID="156" Model="">
           <Teller />
           <Title />
-          <Content>- 724,284 days in -</Content>
+          <Content>- วันที่ 724,284 -</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>สถานที่: Love Town</PlaceName>
+        <PlaceName>สถานที่: เมืองแห่งความรัก</PlaceName>
         <Dialog ID="157" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena48-01</VoiceFile>
-          <Content>You’re back, Tomerry.</Content>
+          <Content>กลับมาแล้ว โทเมอรี่</Content>
         </Dialog>
         <Dialog ID="158" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>ชาวเมือง</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry1_b</VoiceFile>
-          <Content>What’s up, mommy?</Content>
+          <Content>อะไรหรอม่ามี้?</Content>
         </Dialog>
         <Dialog ID="159" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena49-01</VoiceFile>
-          <Content>How have you been?</Content>
+          <Content>เป็นยังไงกันบ้าง?</Content>
         </Dialog>
         <Dialog ID="160" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>ชาวเมือง</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry2_b</VoiceFile>
-          <Content>It’s the same as always! I just wonder if I should fold those blood lumps into squares or triangles this time?</Content>
+          <Content>ยังเหมือนเดิมฮะ! หนูแค่สงสัยว่าคราวนี้หนูควรจะพับก้อนเลือดเหล่านั้นเป็นสี่เหลี่ยมหรือสามเหลี่ยมดีย์?</Content>
         </Dialog>
         <Dialog ID="161" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena50</VoiceFile>
-          <Content>That’s nice. They enjoy pain anyway, so they should like it.</Content>
+          <Content>ดีย์เลย พวกเขาเป็นสาย M อยู่แล้ว ดังนั้นพวกเขาน่าจะชอบมัน</Content>
         </Dialog>
         <Dialog ID="162" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>ชาวเมือง</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry3_b</VoiceFile>
-          <Content>Um… Where’s daddy?</Content>
+          <Content>อืม…พ่ออยู่ไหน?</Content>
         </Dialog>
         <Dialog ID="163" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena51</VoiceFile>
-          <Content>…He went to the front carriage for a moment.</Content>
+          <Content>…เขาไปที่ตู้ขบวนด้านหน้าสักครู่หนึ่ง</Content>
         </Dialog>
         <Dialog ID="164" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>ชาวเมือง</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry4_b</VoiceFile>
-          <Content>So why’d you call me here, mommy?</Content>
+          <Content>แล้วทำไมม่ามี้ถึงเรียกหนูมาที่นี่ล่ะ?</Content>
         </Dialog>
         <Dialog ID="165" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena52-01</VoiceFile>
-          <Content>I finally got an interesting toy.</Content>
+          <Content>ในที่สุดฉันก็ได้ของเล่นที่น่าสนใจ</Content>
         </Dialog>
         <Dialog ID="166" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena53-01</VoiceFile>
-          <Content>It means they’ve seen enough, according to Eileen.</Content>
+          <Content>หมายความว่าพวกเขาได้เห็นมามากพอแล้ว ตามที่ไอลีนบอก</Content>
         </Dialog>
         <Dialog ID="167" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>ชาวเมือง</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry5_b</VoiceFile>
-          <Content>Interesting toy?</Content>
+          <Content>ของเล่นที่น่าสนใจ?</Content>
         </Dialog>
         <Dialog ID="168" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena54-01</VoiceFile>
-          <Content>The invitation to the Library. Remember the infamous Urban Legend?</Content>
+          <Content>คำเชิญเข้าห้องสมุด จำตำนานเมืองนั้นได้มั้ย?</Content>
         </Dialog>
         <Dialog ID="169" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena55</VoiceFile>
-          <Content>The Fixers who sat behind you disappeared after receiving an invitation that looks just like this.</Content>
+          <Content>ฟิกเซอร์ที่นั่งข้างหลังคุณหายไปหลังจากได้รับคำเชิญที่มีลักษณะแบบนี้</Content>
         </Dialog>
         <Dialog ID="170" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>ชาวเมือง</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry6_b</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="171" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>ชาวเมือง</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry7_b</VoiceFile>
-          <Content>Sorry, mommy. What’s a library? What do you mean by “Fixers”?</Content>
+          <Content>ขอโทษนะม่ามี้ ห้องสมุดคืออะไร? หมายถึงอะไร “ฟิกเซอร์”?</Content>
         </Dialog>
         <Dialog ID="172" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena56</VoiceFile>
-          <Content>Ah, right. I’m sorry! Huhu.</Content>
+          <Content>อ่าใช่ ฉันขอโทษ! หุหุ</Content>
         </Dialog>
         <Dialog ID="173" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>ชาวเมือง</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry8_b</VoiceFile>
-          <Content>Nooo… Don’t be sorry mommy… It’s our fault for being dumb…</Content>
+          <Content>ไม่… ไม่ต้องขอโทษม่ามี้… มันเป็นความผิดของเราที่งี่เง่าเอง…</Content>
         </Dialog>
         <Dialog ID="174" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena57</VoiceFile>
-          <Content>No, no. He’d have cried laughing if he were here…</Content>
+          <Content>ไม่ไม่. เขาคงจะร้องไห้และหัวเราะถ้าเขาอยู่ที่นี่…</Content>
         </Dialog>
         <Dialog ID="175" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>ชาวเมือง</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry9_b</VoiceFile>
-          <Content>I’m sorry… I’m sorry… Please don’t punish me…</Content>
+          <Content>หนูขอโทษ… หนูขอโทษ… โปรดอย่าลงโทษหนูเลย…</Content>
         </Dialog>
         <Dialog ID="176" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena58</VoiceFile>
-          <Content>I’m not scolding you, see? No punishments either.</Content>
+          <Content>ฉันไม่ได้ดุเธอเห็นไหม ไม่ได้ลงโทษเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="177" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena59</VoiceFile>
-          <Content>Here, take this.</Content>
+          <Content>นี้ เอานี่</Content>
         </Dialog>
         <Dialog ID="178" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena60</VoiceFile>
-          <Content>And sign that invitation with the other townspeople.</Content>
+          <Content>และลงนามในคำเชิญพร้อมกับชาวเมืองคนอื่นๆด้วย</Content>
         </Dialog>
         <Dialog ID="179" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena61-01</VoiceFile>
-          <Content>If you can find and bring the books listed on that paper there, I’ll give you a prize.</Content>
+          <Content>ถ้าเธอสามารถหาและนำหนังสือที่อยู่ในกระดาษนั้นมาได้ ฉันจะให้รางวัลเธอ</Content>
         </Dialog>
         <Dialog ID="180" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>ชาวเมือง</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry10_b</VoiceFile>
-          <Content>Prize! I like prizes!</Content>
+          <Content>รางวัล! หนูชอบรางวัล!</Content>
         </Dialog>
         <Dialog ID="181" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Love Town Mother</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>เมืองแห่งความรัก อสูร</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena62</VoiceFile>
-          <Content>…Not like you’ll make it back, anyway.</Content>
+          <Content>…ไม่ เมื่อเธอกลับมาเท่านั้น</Content>
         </Dialog>
       </Place>
       <Place>
@@ -4722,7 +4722,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Tomerry_ep1_roland1</VoiceFile>
-          <Content>Seven hundred twenty-four thousand, two hundred and eighty-four days?!!!</Content>
+          <Content>เจ็ดแสนสองหมื่นสี่พันสองร้อยแปดสิบสี่วัน?!!!</Content>
         </Dialog>
         <Dialog ID="183" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -4734,142 +4734,142 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Tomerry_ep1_roland2</VoiceFile>
-          <Content>Uh, are you alright? You don’t look so well.</Content>
+          <Content>เอ่อ เธอสบายดีไหม เธอดูไม่ค่อยดีนะ.</Content>
         </Dialog>
         <Dialog ID="185" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela2</VoiceFile>
-          <Content>It’s disgusting… It’s a shame that I can’t vomit like humans do.</Content>
+          <Content>น่าขยะแขยง… น่าเสียดายที่ฉันไม่สามารถอาเจียนได้เหมือนมนุษย์</Content>
         </Dialog>
         <Dialog ID="186" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Tomerry_ep1_roland3</VoiceFile>
-          <Content>It’s a natural reaction to seeing stuff like that. What kind of malfunction could have stopped a train for thousands of years, anyway? Is everything okay out there?</Content>
+          <Content>มันเป็นปฏิกิริยาตามธรรมชาติเมื่อได้เห็นอะไรแบบนั้น มันผิดปกติมากกันที่รถไฟสามารถหยุดเป็นเวลาหลายพันปีได้? ทุกอย่างที่นั่นโอเคไหม?</Content>
         </Dialog>
         <Dialog ID="187" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Tomerry_ep1_roland4</VoiceFile>
-          <Content>I don’t really feel that much time has passed, but…</Content>
+          <Content>ฉันไม่รู้สึกว่าเวลาผ่านไปนานเลย แต่…</Content>
         </Dialog>
         <Dialog ID="188" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Tomerry_ep1_roland5</VoiceFile>
-          <Content>What if time flew without us realizing while we were busy watching that?</Content>
+          <Content>จะเป็นยังไงหากเวลาผ่านไปโดยที่เราไม่รู้ตัวในขณะที่เรากำลังง่วนอยู่กับการเฝ้าดูสิ่งนั้น?</Content>
         </Dialog>
         <Dialog ID="189" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela3</VoiceFile>
-          <Content>Less than an hour has passed for us, since we only watched fractions of the process.</Content>
+          <Content>ผ่านไปไม่ถึงชั่วโมงเพราะเราดูแค่เศษเสี้ยวของกระบวนการนั้น</Content>
         </Dialog>
         <Dialog ID="190" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Tomerry_ep1_roland6</VoiceFile>
-          <Content>What about the outside world, though?</Content>
+          <Content>แล้วโลกภายนอกล่ะ?</Content>
         </Dialog>
         <Dialog ID="191" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela4-01</VoiceFile>
-          <Content>It should be the same as us.</Content>
+          <Content>ก็น่าจะเป็นแบบเดียวกับเรา</Content>
         </Dialog>
         <Dialog ID="192" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela5-01</VoiceFile>
-          <Content>That one is a unique guest. Its book will surely be an interesting read.</Content>
+          <Content>คนนั้นเป็นแขกที่ไม่เหมือนใคร หนังสือของมันน่าจะอ่านยากอย่างแน่นอน</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>สถานที่: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าห้องสมุด</PlaceName>
         <Dialog ID="193" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Love Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>เมืองแห่งความรักsperson</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry11_b</VoiceFile>
-          <Content>W…wow! I’m leaving town for the first time…</Content>
+          <Content>ว…ว้าว! ฉันออกจากเมืองเป็นครั้งแรก…</Content>
         </Dialog>
         <Dialog ID="194" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Love Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>เมืองแห่งความรักsperson</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry12_b</VoiceFile>
-          <Content>I’m visiting a new place together with all the townspeople…</Content>
+          <Content>ฉันได้ไปเที่ยวสถานที่ใหม่พร้อมกับชาวเมืองทุกคน…</Content>
         </Dialog>
         <Dialog ID="195" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela6</VoiceFile>
-          <Content>Greetings, dear guests.</Content>
+          <Content>สวัสดีแขก</Content>
         </Dialog>
         <Dialog ID="196" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Love Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>เมืองแห่งความรักsperson</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry13_b</VoiceFile>
-          <Content>H… Hello ma’am…!</Content>
+          <Content>ส… สวัสดีคุณผู้หญิง…!</Content>
         </Dialog>
         <Dialog ID="197" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Love Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>เมืองแห่งความรักsperson</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry14_b</VoiceFile>
-          <Content>Who are you…?</Content>
+          <Content>คุณเป็นใคร…?</Content>
         </Dialog>
         <Dialog ID="198" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela7</VoiceFile>
-          <Content>I am Angela, director and librarian of this library you’re in.</Content>
+          <Content>ฉันชื่อแองเจลา ผู้อำนวยการและบรรณารักษ์ของห้องสมุดที่คุณอยู่</Content>
         </Dialog>
         <Dialog ID="199" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Love Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>เมืองแห่งความรักsperson</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry15_b</VoiceFile>
-          <Content>I’m Tomerry! From Love Town.</Content>
+          <Content>ฉันคือโทเมอรี่!จาก เมืองแห่งความรัก.</Content>
         </Dialog>
         <Dialog ID="200" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Love Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>เมืองแห่งความรักsperson</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry16_b</VoiceFile>
-          <Content>Angela… I, um… Mommy told me to get things called “books” from this place…</Content>
+          <Content>แองเจล่า… ฉัน อืม… แม่บอกให้ฉันไปหาสิ่งที่เรียกว่า “หนังสือ” จากที่นี่…</Content>
         </Dialog>
         <Dialog ID="201" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela8</VoiceFile>
-          <Content>You can find them through the door over there.</Content>
+          <Content>คุณสามารถหาพวกมันได้ทางประตูตรงนั้น</Content>
         </Dialog>
         <Dialog ID="202" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Love Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>เมืองแห่งความรักsperson</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry17_b</VoiceFile>
-          <Content>Thank you!</Content>
+          <Content>ขอบคุณ!</Content>
         </Dialog>
         <Dialog ID="203" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela9</VoiceFile>
-          <Content>…Do you happen to remember Tommy and Merry?</Content>
+          <Content>…คุณจำทอมมี่และเมอร์รี่ได้ไหม?</Content>
         </Dialog>
         <Dialog ID="204" Model="토머리">
-          <Teller>Tomerry</Teller>
-          <Title>Love Townsperson</Title>
+          <Teller>โทเมอรี่</Teller>
+          <Title>เมืองแห่งความรักsperson</Title>
           <VoiceFile>ch4_Tomerry_ep1_tomerry18_b</VoiceFile>
-          <Content>Tommy? Merry? Who’s that…?</Content>
+          <Content>ทอมมี่? เมอรี? นั่นใครน่ะ…?</Content>
         </Dialog>
         <Dialog ID="205" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela10</VoiceFile>
-          <Content>Please don’t mind.</Content>
+          <Content>โปรดอย่าถือสาเลย</Content>
         </Dialog>
         <Dialog ID="206" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela11</VoiceFile>
-          <Content>May you find your book in this place.</Content>
+          <Content>ขอให้คุณพบหนังสือของคุณในที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -4881,55 +4881,55 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela12</VoiceFile>
-          <Content>I’m not sure if that was a malfunction with the Singularity or anything… But now I see that I may not be the only one to suffer from the copiousness of time.</Content>
+          <Content>ฉันไม่แน่ใจว่านั่นเป็นความผิดปกติของ ซิงกูลาริตี้ หรืออะไร… แต่ตอนนี้ฉันเห็นแล้วว่าฉันอาจไม่ใช่คนเดียวที่ต้องทนทุกข์ทรมานจากความมากมายของเวลา</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Tomerry_ep1_roland7</VoiceFile>
-          <Content>Well… Anything can happen.</Content>
+          <Content>ก็… อะไรก็เกิดขึ้นได้</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Tomerry_ep1_roland8</VoiceFile>
-          <Content>Does that console you somehow?</Content>
+          <Content>นั่นช่วยปลอบใจเธอบ้างไหม?</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela13-01</VoiceFile>
-          <Content>Not at all. I’m different. I won’t go through the same ordeal ever again.</Content>
+          <Content>ไม่เลย. ฉันแตกต่าง. ฉันจะไม่ผ่านการทดสอบแบบเดิมนั้นอีกต่อไป</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela14-01</VoiceFile>
-          <Content>I retained myself unlike those people.</Content>
+          <Content>ฉันดูแลตัวเองไม่เหมือนคนเหล่านั้น</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela15</VoiceFile>
-          <Content>I persevered, I didn’t let time consume my sanity.</Content>
+          <Content>ฉันอดทน ฉันไม่ปล่อยให้เวลามาทำลายสติของฉัน</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela16-01</VoiceFile>
-          <Content>I didn’t break down… I…</Content>
+          <Content>ฉันไม่ได้พัง…ฉัน…</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Tomerry_ep1_roland9</VoiceFile>
-          <Content>Alright, let’s just calm down and take a deep breath.</Content>
+          <Content>เอาล่ะ ใจเย็นๆ แล้วหายใจเข้าลึกๆ</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Tomerry_ep1_roland10</VoiceFile>
-          <Content>When the memories of hard times burst forth, you gotta embrace ‘em to the core…</Content>
+          <Content>เมื่อความทรงจำแห่งช่วงเวลาที่ยากลำบากกำลังปะทุออกมา เธอต้องอบกอดยอมรับมันไว้ให้ได้…</Content>
         </Dialog>
       </Place>
     </Episode>
