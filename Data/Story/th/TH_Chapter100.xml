@@ -8,7 +8,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: The Library - Floor of History</PlaceName>
+        <PlaceName>สถานที่: ห้องสมุด - ชั้นประวัติศาสตร์</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
@@ -151,7 +151,7 @@
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep1_malkuth12</VoiceFile>
-          <Content>พวกเราบรรณารักษ์จะอ่านหนังสือที่เก็บรวบรวมไว้ เพื่อทำให้ชั้นที่ประจำของเราอยู่ค่อยๆถูกเติมเต็มและตัวมันเอง เป็นส่วนเสริมทำให้ห้องสมุดสมบูรณ์</Content>
+          <Content>พวกเราบรรณารักษ์จะอ่านหนังสือที่เก็บรวบรวมไว้ เพื่อทำให้ชั้นที่เราประจำอยู่ค่อยๆถูกเติมเต็มและตัวมันเอง เป็นส่วนเสริมทำให้ห้องสมุดนี้สมบูรณ์</Content>
         </Dialog>
         <Dialog ID="24" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -197,7 +197,7 @@
         </Dialog>
         <Dialog ID="31" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
+          <Title>บรรณารักษ์ประจำชั้น   ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep1_malkuth17</VoiceFile>
           <Content>แต่ว่าฉันก็มีเหตุผลของตัวเองอยู่ ที่ต้องพยายามทำงานให้ดีที่สุดเหมือนกันแหละนะ!</Content>
         </Dialog>
@@ -2297,16 +2297,16 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: The Library - Floor of Technological Sciences</PlaceName>
+        <PlaceName>สถานที่: ห้องสมุด - ชั้นวิทยาศาสตร์เทคโนโลยี</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland1</VoiceFile>
-          <Content>Let’s see… This guy’s Yesod from Floor 2… Patron Librarian of Technological Sciences.</Content>
+          <Content>ไหนดูซิ… ผู้ชายคนนี้คือเยโสดจากชั้น2… บรรณารักษ์ที่ดูแลวิทยาศาสตร์เทคโนโลยีสินะ</Content>
         </Dialog>
         <Dialog ID="1" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep1_yesod1</VoiceFile>
           <Content>……</Content>
         </Dialog>
@@ -2314,23 +2314,23 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland2</VoiceFile>
-          <Content>Hey there. Name’s Roland. Angela’s servant.</Content>
+          <Content>สวัสดี ฉันชื่อโรแลนด์ เป็นทาสรับใช้ของเองเจล่า</Content>
         </Dialog>
         <Dialog ID="3" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep1_yesod2</VoiceFile>
-          <Content>I am Yesod, the Patron Librarian of the Floor of Technological Sciences.</Content>
+          <Content>ฉันเยโสด บรรณารักษ์ที่ดูแลประจำชั้นวิทยาศาสตร์เทคโนโลยี</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland3</VoiceFile>
-          <Content>Is it just me, or is this a cold and piercing stare I’m sensing? Feels kinda different from Angela’s, I gotta say.</Content>
+          <Content>ฉันคิดไปเองหรือเปล่านะ ว่าสายตาที่เขาจ้องมองมามันช่างเย็นชาและเสียดแทง? ให้ความรู้สึกที่แตกต่างจากแองเจล่านิดหน่อย</Content>
         </Dialog>
         <Dialog ID="5" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>None</VoiceFile>
           <Content>……</Content>
         </Dialog>
@@ -2338,95 +2338,95 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland4</VoiceFile>
-          <Content>Wh-what now?</Content>
+          <Content>เฮ้ยๆ อ-อะไร เนี้ย?</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland5</VoiceFile>
-          <Content>Don’t tell me… Are you one of those types that resort to violence when someone talks crap?</Content>
+          <Content>อย่าบอกนะว่า… นายเป็นหนึ่งในคนประเภทที่ชอบใช้ความรุนแรง เมื่อมีคนพูดจาไร้สาระใส่อย่างงั้นสินะ?</Content>
         </Dialog>
         <Dialog ID="8" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>None</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="9" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep1_yesod5</VoiceFile>
-          <Content>Your necktie was loose.</Content>
+          <Content>เนคไทของนายมันหลวมน่ะ</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland6</VoiceFile>
-          <Content>…Oh. Thanks. Guess you’re a nice fellow after all.</Content>
+          <Content>…โอ้ ขอบใจนะ นายเป็นคนดีกว่าที่คิดนะเนี้ย</Content>
         </Dialog>
         <Dialog ID="11" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep1_yesod6</VoiceFile>
-          <Content>Tell me, why do you comply with Angela’s orders so meekly?</Content>
+          <Content>บอกฉันหน่อย ทำไมนายถึงทำตามที่แองเจล่าสั่ง อย่างว่าง่ายอย่างงั้นล่ะ?</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland7</VoiceFile>
-          <Content>Well, mostly because I have no choice but to help her.</Content>
+          <Content>อ้าว ส่วนใหญ่ที่ทำก็เพราะว่ามันไม่มีทางเลือกเลยนี่นา มีแต่ต้องช่วยเธอเท่านั้นนิ</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland8</VoiceFile>
-          <Content>Now that I think about it, Malkuth didn’t seem too fond of Angela, either. Is it a trend to dislike her or something?</Content>
+          <Content>เอ๋ เมื่อคิดดูแล้ว มัลคุท ก็ดูเหมือนจะไม่ชอบ แองเจล่าเหมือนกันแฮะ มันเป็นเทรนด์กันหรือไง ที่ทำให้ไม่ชอบเจ้าหล่อนกันน่ะ?</Content>
         </Dialog>
         <Dialog ID="14" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep1_yesod7</VoiceFile>
-          <Content>It’s obvious that we wouldn’t approve of her.</Content>
+          <Content>มันก็ชัดเจนอยู่แล้วว่า พวกเราไม่ได้เห็นด้วยกับเธอเลย</Content>
         </Dialog>
         <Dialog ID="15" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep1_yesod8</VoiceFile>
-          <Content>Angela… She utterly crushed our hopes at the very last moment.</Content>
+          <Content>แองเจล่า… เป็นคนที่เคยทำลายความหวังของพวกเรา ในช่วงสุดท้ายมาก่อนน่ะ</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland9</VoiceFile>
-          <Content>Sounds complicated.</Content>
+          <Content>ฟังดูซับซ้อนจังแฮะ</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland10</VoiceFile>
-          <Content>Why are you working for her as a librarian, then?</Content>
+          <Content>แล้วทำไมนายถึงทำงานให้เธอ ในฐานะบรรณรักษ์กันล่ะ?</Content>
         </Dialog>
         <Dialog ID="18" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep1_yesod9</VoiceFile>
-          <Content>…It was part of the deal.</Content>
+          <Content>…มันเป็นส่วนหนึ่งของข้อตกลง</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland11</VoiceFile>
-          <Content>A deal, huh?</Content>
+          <Content>ห๊ะ ข้อตกลงงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland12</VoiceFile>
-          <Content>I guess that deal is also why most of the floors of the Library are locked off and the librarians there are asleep.</Content>
+          <Content>ฉันขอเดานะว่าข้อตกลงนั้น เป็นสาเหตุที่ทำให้ชั้นของห้องสมุดเกือบทั้งหมดถูกล็อคไว้ และทำให้เหล่าบรรณารักษ์ตกในสภาพหลับไหลอยู่อีกด้วย</Content>
         </Dialog>
         <Dialog ID="21" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep1_yesod10</VoiceFile>
           <Content>……</Content>
         </Dialog>
@@ -2434,47 +2434,47 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland13</VoiceFile>
-          <Content>Boy, I am not a fan of convoluted stories. Especially if it involves sentimental stuff…</Content>
+          <Content>ไม่เอาน่าพวก ฉันไม่ใช่คนที่คลั่งไคล้เรื่องราวที่ซับซ้อนเลยนะ โดยเฉพาะยิ่งเกี่ยวกับอารมณ์ เกี่ยวกับความรู้สึกอ่อนไหวก็ยิ่งแล้วใหญ่…</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland14</VoiceFile>
-          <Content>Anyway, both you and I are obliged to help Angela now, aren’t we?</Content>
+          <Content>ช่างเถอะ ตอนนี้ทั้งนายและฉันมีหน้าที่ต้องช่วยแองเจล่าไปก่อนใช่ไหมล่ะ?</Content>
         </Dialog>
         <Dialog ID="24" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep1_yesod11</VoiceFile>
-          <Content>That is true.</Content>
+          <Content>นั้นก็จริง</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland15</VoiceFile>
-          <Content>Let’s give it our best shot, then.</Content>
+          <Content>งั้นเรามาลองทำให้เต็มที่กันเถอะนะ</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland16</VoiceFile>
-          <Content>Put ‘er there!</Content>
+          <Content>โอเค ยื่นมือมาหน่อย!</Content>
         </Dialog>
         <Dialog ID="27" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep1_yesod12</VoiceFile>
-          <Content>What is the meaning of this?</Content>
+          <Content>นี่กำลังหมายถึงอะไรอยู่น่ะ?</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland17</VoiceFile>
-          <Content>A handshake, duh. Never tried it before? Y’know, the “I look forward to working with you” kind?</Content>
+          <Content>ก็แหงสิจับมือไง นายไม่เคยทำมาก่อนหรอ? ให้ความรู้สึกประมาณว่า “ฉันต้องการที่จะทำงานร่วมกับนายอยู่นะ”ไง?</Content>
         </Dialog>
         <Dialog ID="29" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>None</VoiceFile>
           <Content>……</Content>
         </Dialog>
@@ -2482,31 +2482,31 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland18</VoiceFile>
-          <Content>Come on, lighten up a little. If we can’t avoid it, we might as well enjoy it.</Content>
+          <Content>เอาเถอะน่า ผ่อนคลายหน่อยเหอะ ถ้าหากเราหลีกเลี่ยงมันไม่ได้ เราก็ควรที่จะสนุกไปกับมันสักหน่อยเนอะ</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland19</VoiceFile>
-          <Content>I’m supposed to get you books like I do with Malkuth, right?</Content>
+          <Content>สรุปแล้ว ฉันต้องหาหนังสือมาให้นาย เหมือนกับที่ทำคล้ายๆให้กับมัลคุทใช่ม่ะ?</Content>
         </Dialog>
         <Dialog ID="32" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep1_yesod14</VoiceFile>
-          <Content>Indeed. My role is to collect and sort books about the technological sciences of the City, specifically.</Content>
+          <Content>แน่นอน หน้าที่ของฉันคือรวบรวมและจัดเรียงหนังสือ เกี่ยวกับวิทยาศาสตร์เทคโนโลยีของเมืองโดยเฉพาะ</Content>
         </Dialog>
         <Dialog ID="33" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep1_yesod15</VoiceFile>
-          <Content>Since it’s become clear that we are both well aware of our occupations, kindly take your leave now.</Content>
+          <Content>……ในเมื่อมันชัดเจนแล้วว่า เราทั้งคู่เข้าใจหน้าที่ของตัวเองเป็นอย่างดี ดังนั้นก็กรุณาออกไปซะ</Content>
         </Dialog>
         <Dialog ID="34" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland20</VoiceFile>
-          <Content>Fine, fine~ I was about to, anyway~</Content>
+          <Content>โอเค โอเค~ ฉันก็กำลังจะออกไปอยู่แล้วน่า~</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -2521,14 +2521,14 @@
           <Content>Damn, check out how orderly these books are organized. The compulsion is almost scaring me at this point.</Content>
         </Dialog>
         <Dialog ID="1" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod1</VoiceFile>
           <Content>Your clothes are still slovenly.</Content>
         </Dialog>
         <Dialog ID="2" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>None</VoiceFile>
           <Content>(He straightens Roland’s attire once again.)</Content>
         </Dialog>
@@ -2539,8 +2539,8 @@
           <Content>I appreciate it, but it feels kinda awkward to be honest.</Content>
         </Dialog>
         <Dialog ID="4" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod3</VoiceFile>
           <Content>Proper attitude of the mind begins with a well-conducted body.</Content>
         </Dialog>
@@ -2551,8 +2551,8 @@
           <Content>Well, I guess I should say thanks.</Content>
         </Dialog>
         <Dialog ID="6" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod4</VoiceFile>
           <Content>What is your business this time?</Content>
         </Dialog>
@@ -2569,8 +2569,8 @@
           <Content>Heard from Malkuth that the librarians here used to be humans long ago. Is that true?</Content>
         </Dialog>
         <Dialog ID="9" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod5</VoiceFile>
           <Content>…It is.</Content>
         </Dialog>
@@ -2587,14 +2587,14 @@
           <Content>Although, my intuition as a Fixer is telling me otherwise.</Content>
         </Dialog>
         <Dialog ID="12" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod6</VoiceFile>
           <Content>Your observation would be correct. None of us lived such a violent life.</Content>
         </Dialog>
         <Dialog ID="13" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod7</VoiceFile>
           <Content>Save for a couple of exceptions, that is.</Content>
         </Dialog>
@@ -2605,8 +2605,8 @@
           <Content>Knew it. How are you so skillful at dealing with guests, though?</Content>
         </Dialog>
         <Dialog ID="15" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod8</VoiceFile>
           <Content>It’s thanks to the books. We gain the powers of the previous guests through their books.</Content>
         </Dialog>
@@ -2617,20 +2617,20 @@
           <Content>Oh, so that’s why you guys seemed to grow sorta stronger with every book I gave you.</Content>
         </Dialog>
         <Dialog ID="17" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod9</VoiceFile>
           <Content>In the Library, books act as a source of power. Emotions can do the same.</Content>
         </Dialog>
         <Dialog ID="18" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod10</VoiceFile>
           <Content>Through the books, we can imbue our own bodies with the senses and strengths that were engraved in other’s bodies.</Content>
         </Dialog>
         <Dialog ID="19" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod11</VoiceFile>
           <Content>Moreover, the Library can amplify the emotions of its denizens; it acts upon visitors and residents alike.</Content>
         </Dialog>
@@ -2647,8 +2647,8 @@
           <Content>Heck, they might even be better than the surgeries and tools most workshops have to offer. Information is one thing, but this could be a real moneymaker.</Content>
         </Dialog>
         <Dialog ID="22" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod12</VoiceFile>
           <Content>You think in secular terms.</Content>
         </Dialog>
@@ -2665,14 +2665,14 @@
           <Content>Anyways, that’s all for my questions. Thanks for your kind answers.</Content>
         </Dialog>
         <Dialog ID="25" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod13</VoiceFile>
           <Content>Don’t mistake this for kindness.</Content>
         </Dialog>
         <Dialog ID="26" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod14</VoiceFile>
           <Content>I do not particularly think highly of you. You’re nothing more than Angela’s little lapdog.</Content>
         </Dialog>
@@ -2683,14 +2683,14 @@
           <Content>What? Hey, that’s rude! You know I didn’t take this job by my choice.</Content>
         </Dialog>
         <Dialog ID="28" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod15</VoiceFile>
           <Content>Does that necessarily exempt you from guiltiness, however?</Content>
         </Dialog>
         <Dialog ID="29" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod16</VoiceFile>
           <Content>Now, if you’re done with your errands, kindly take your leave now.</Content>
         </Dialog>
@@ -2713,8 +2713,8 @@
           <Content>Your book delivery is here~ Tidied up my clothes in advance this time too.</Content>
         </Dialog>
         <Dialog ID="1" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod1</VoiceFile>
           <Content>Oh, greetings, Angela’s lapdog.</Content>
         </Dialog>
@@ -2725,14 +2725,14 @@
           <Content>Come on, still at it with that?</Content>
         </Dialog>
         <Dialog ID="3" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod2</VoiceFile>
           <Content>The books you brought me last time were interesting, to say the least. I learned that the technologies employed in the Backstreets were interwoven in a disorderly manner. </Content>
         </Dialog>
         <Dialog ID="4" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod3</VoiceFile>
           <Content>From crude equipment made of junk, to clothes woven from antimatter. All kinds of technologies at various levels of advancement can be seen.</Content>
         </Dialog>
@@ -2743,8 +2743,8 @@
           <Content>There’s cutting-edge tech out there, but only few get to benefit from it.</Content>
         </Dialog>
         <Dialog ID="6" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod4</VoiceFile>
           <Content>I assume wealth is the determining factor.</Content>
         </Dialog>
@@ -2773,8 +2773,8 @@
           <Content>What was Lobotomy Corp’s Singularity, by the way? The corp’s gone now anyway, so no one’s gonna sue us for spilling the beans.</Content>
         </Dialog>
         <Dialog ID="11" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod5</VoiceFile>
           <Content>Aren’t you shameless. I suppose it wouldn’t hurt to tell you.</Content>
         </Dialog>
@@ -2785,32 +2785,32 @@
           <Content>Hey, stop treating me like an idiot. I’m not THAT stupid, you know?!</Content>
         </Dialog>
         <Dialog ID="13" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod6</VoiceFile>
           <Content>Lobotomy Corporation’s Singularity was physically manifesting the human mind, an abstract concept.</Content>
         </Dialog>
         <Dialog ID="14" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod7</VoiceFile>
           <Content>Converting human emotions to physical energy, in the same vein as the Library.</Content>
         </Dialog>
         <Dialog ID="15" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod8</VoiceFile>
           <Content>Human emotions can be interpreted as a complex mass.</Content>
         </Dialog>
         <Dialog ID="16" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod9</VoiceFile>
           <Content>That mass is built up through experiences. When emotions are heightened enough, a page will be chosen. A spot is reserved for a person’s book; it is a comprehensive manifestation of their ego.</Content>
         </Dialog>
         <Dialog ID="17" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod10</VoiceFile>
           <Content>As the battle becomes fiercer and the combatants get agitated, the egos will grow intense and allow their mental states to be physically expressed.</Content>
         </Dialog>
@@ -2827,8 +2827,8 @@
           <Content>…Certainly seems similar to the Distortion…</Content>
         </Dialog>
         <Dialog ID="20" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod12</VoiceFile>
           <Content>What did you just say?</Content>
         </Dialog>
@@ -2845,8 +2845,8 @@
           <Content>You know, makes me wonder. Malkuth said you guys were part of a project that aimed to save humanity, right?</Content>
         </Dialog>
         <Dialog ID="23" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod13</VoiceFile>
           <Content>…That is true.</Content>
         </Dialog>
@@ -2863,14 +2863,14 @@
           <Content>Make money rain from the sky or something? That’d save everyone for sure.</Content>
         </Dialog>
         <Dialog ID="26" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod14</VoiceFile>
           <Content>It can’t be compared to such ridiculous nonsense.</Content>
         </Dialog>
         <Dialog ID="27" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod15</VoiceFile>
           <Content>And you have no right to talk so lightly about the sacrifices we made.</Content>
         </Dialog>
@@ -2881,26 +2881,26 @@
           <Content>Whoa, alright, calm down now. Sheesh, can’t even crack a joke around here.</Content>
         </Dialog>
         <Dialog ID="29" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod16</VoiceFile>
           <Content>We sought to cure the mind. Carmen was the leader of our research team.</Content>
         </Dialog>
         <Dialog ID="30" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod17</VoiceFile>
           <Content>She said every person in the City had a diseased mind.</Content>
         </Dialog>
         <Dialog ID="31" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod18</VoiceFile>
           <Content>And that the disease was so severe, humanity would slowly lead itself to self-destruction at this rate.</Content>
         </Dialog>
         <Dialog ID="32" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod19</VoiceFile>
           <Content>She described the situation as no better than lemmings willingly jumping into a pit of fire.</Content>
         </Dialog>
@@ -2917,14 +2917,14 @@
           <Content>And everyone agreed to what she said just like that?</Content>
         </Dialog>
         <Dialog ID="35" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod20</VoiceFile>
           <Content>And now you’re taking me for a fool. Of course there were quantitative indices to scientifically prove her claim.</Content>
         </Dialog>
         <Dialog ID="36" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod21</VoiceFile>
           <Content>I suppose it would be useless to describe them to you in detail.</Content>
         </Dialog>
@@ -2941,8 +2941,8 @@
           <Content>Did you guys succeed with that goal of saving humanity?</Content>
         </Dialog>
         <Dialog ID="39" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod22</VoiceFile>
           <Content>You never cease to annoy me. If we succeeded, we wouldn’t be here doing this.</Content>
         </Dialog>
@@ -2953,56 +2953,56 @@
           <Content>Oh, yeah, fair point.</Content>
         </Dialog>
         <Dialog ID="41" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod23</VoiceFile>
           <Content>The fact that we failed to save humanity is not what makes me upset the most.</Content>
         </Dialog>
         <Dialog ID="42" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod24</VoiceFile>
           <Content>We have committed countless sins.</Content>
         </Dialog>
         <Dialog ID="43" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod25</VoiceFile>
           <Content>All in the name of a single righteous purpose: saving humanity.</Content>
         </Dialog>
         <Dialog ID="44" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod26</VoiceFile>
           <Content>We convinced ourselves that we had no other choice.</Content>
         </Dialog>
         <Dialog ID="45" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod27</VoiceFile>
           <Content>We performed unethical experiments, and knowingly drove employees to death in Lobotomy Corporation.</Content>
         </Dialog>
         <Dialog ID="46" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod28</VoiceFile>
           <Content>We tolerated all those vile deeds for a greater good.</Content>
         </Dialog>
         <Dialog ID="47" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod29</VoiceFile>
           <Content>But all of that is about to be for naught.</Content>
         </Dialog>
         <Dialog ID="48" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod30</VoiceFile>
           <Content>What will be made of their sacrifices?!</Content>
         </Dialog>
         <Dialog ID="49" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod31</VoiceFile>
           <Content>All the pain me and my colleagues endured… Angela ruined it all!</Content>
         </Dialog>
@@ -3028,7 +3028,7 @@
           <Content>Don’t be ridiculous. I’ll kill you for sure this time.</Content>
         </Dialog>
         <Dialog ID="53" Model="예소드">
-          <Teller>Yesod</Teller>
+          <Teller>เยโสด</Teller>
           <Title>Information Team Sephirah</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod32</VoiceFile>
           <Content>Binah! Not even you will manage to break through our combined effort.</Content>
@@ -3146,7 +3146,7 @@
           <Content>Yesod and the Information Team, please identify the weaknesses of the escaping Abnormalities right away!</Content>
         </Dialog>
         <Dialog ID="73" Model="예소드">
-          <Teller>Yesod</Teller>
+          <Teller>เยโสด</Teller>
           <Title>Information Team Sephirah</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod33</VoiceFile>
           <Content>I will analyze them all with the utmost precision.</Content>
@@ -3197,14 +3197,14 @@
       <Place>
         <PlaceName>Location: The Library - Floor of Technological Sciences</PlaceName>
         <Dialog ID="81" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod34</VoiceFile>
           <Content>You will never understand. How we desperately struggled to stop her from snuffing out our light.</Content>
         </Dialog>
         <Dialog ID="82" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod35</VoiceFile>
           <Content>And the guilt we feel from compromising at the end.</Content>
         </Dialog>
@@ -3215,32 +3215,32 @@
           <Content>You’re right, I won’t. All I care about is helping Angela. I want her to achieve her goal, y’know.</Content>
         </Dialog>
         <Dialog ID="84" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod36</VoiceFile>
           <Content>So you simply want the results, whatever the process may entail.</Content>
         </Dialog>
         <Dialog ID="85" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod37</VoiceFile>
           <Content>You’re no different from Angela in that you only care about your own well-being.</Content>
         </Dialog>
         <Dialog ID="86" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod38</VoiceFile>
           <Content>You’re despicable. A typical example of an inhabitant of the City, suffering from the disease of the mind.</Content>
         </Dialog>
         <Dialog ID="87" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod39</VoiceFile>
           <Content>You use the technologies the City has to offer for your immediate convenience, not knowing or caring about the sacrifices those technologies were built upon.</Content>
         </Dialog>
         <Dialog ID="88" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod40</VoiceFile>
           <Content>…Not knowing that you’re bringing about your own demise.</Content>
         </Dialog>
@@ -3299,8 +3299,8 @@
           <Content>Because they’re tired! They’re already too busy sustaining their everyday life!</Content>
         </Dialog>
         <Dialog ID="98" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod41</VoiceFile>
           <Content>It appears that I’m not getting through to you.</Content>
         </Dialog>
@@ -3311,8 +3311,8 @@
           <Content>Oh, what a coincidence. I was thinking the same thing, too.</Content>
         </Dialog>
         <Dialog ID="100" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod42</VoiceFile>
           <Content>No matter what you say, I do not want to turn a blind eye to this reality nor conform to it.</Content>
         </Dialog>
@@ -3335,8 +3335,8 @@
           <Content>I’ll just leave them here and go before Mister Viper bites my ass~</Content>
         </Dialog>
         <Dialog ID="2" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod1</VoiceFile>
           <Content>Who told you that?</Content>
         </Dialog>
@@ -3347,8 +3347,8 @@
           <Content>Told me what? What are we gonna argue about this time?</Content>
         </Dialog>
         <Dialog ID="4" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod2</VoiceFile>
           <Content>You referred to me as a “Viper” just a moment ago.</Content>
         </Dialog>
@@ -3371,8 +3371,8 @@
           <Content>He was nicknamed “The Viper”.</Content>
         </Dialog>
         <Dialog ID="8" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod3</VoiceFile>
           <Content>That’s funny. I was also nicknamed as such a long time ago.</Content>
         </Dialog>
@@ -3389,8 +3389,8 @@
           <Content>You’re a bit milder than that guy, though.</Content>
         </Dialog>
         <Dialog ID="11" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod4-01</VoiceFile>
           <Content>Is that supposed to be a compliment, or an insult?</Content>
         </Dialog>
@@ -3401,8 +3401,8 @@
           <Content>More of a compliment. In any case, you’re… upright at heart.</Content>
         </Dialog>
         <Dialog ID="13" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod5-02</VoiceFile>
           <Content>…There was a time when I would pressure myself and others with a paranoidal obsession to order.</Content>
         </Dialog>
@@ -3413,8 +3413,8 @@
           <Content>Back in Lobotomy Corp?</Content>
         </Dialog>
         <Dialog ID="15" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod6</VoiceFile>
           <Content>Correct. Back then, even a small mistake could lead to substantial casualties.</Content>
         </Dialog>
@@ -3425,14 +3425,14 @@
           <Content>Doesn’t hurt to be strict when caution is needed.</Content>
         </Dialog>
         <Dialog ID="17" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod7</VoiceFile>
           <Content>I wanted to remain level-headed at all times. I tried to conceal all my emotions, even when I felt anger or sadness.</Content>
         </Dialog>
         <Dialog ID="18" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod8-01</VoiceFile>
           <Content>So I treated others in a frigid manner under the pretext of rules and discipline.</Content>
         </Dialog>
@@ -3443,62 +3443,62 @@
           <Content>Is that why you’re being so cold to me as well?</Content>
         </Dialog>
         <Dialog ID="20" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod9-02</VoiceFile>
           <Content>No. It is the opposite, in fact.</Content>
         </Dialog>
         <Dialog ID="21" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod10-01</VoiceFile>
           <Content>I am upset at your compliance with Angela precisely because I cannot stand to tolerate what we’re doing with a cool head.</Content>
         </Dialog>
         <Dialog ID="22" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod11-03</VoiceFile>
           <Content>In my first life as a person named Gabriel, I wanted to make the world a better place.</Content>
         </Dialog>
         <Dialog ID="23" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod12</VoiceFile>
           <Content>I wished technological advancement would bring comfort to people.</Content>
         </Dialog>
         <Dialog ID="24" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod13</VoiceFile>
           <Content>But look at what we’ve gotten into…</Content>
         </Dialog>
         <Dialog ID="25" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod14-01</VoiceFile>
           <Content>In Lobotomy Corporation, we turned people into Abnormalities, and sacrificed even more people to the Abnormalities, all to generate energy as part of our Singularity.</Content>
         </Dialog>
         <Dialog ID="26" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod15-02</VoiceFile>
           <Content>And what we are doing now isn’t any less ruthless.</Content>
         </Dialog>
         <Dialog ID="27" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod16-02</VoiceFile>
           <Content>For the sake of retrieving the Light… We are killing people yet again and turning them into books.</Content>
         </Dialog>
         <Dialog ID="28" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod17-01</VoiceFile>
           <Content>Inflicting pain on others in favor of information.</Content>
         </Dialog>
         <Dialog ID="29" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod18</VoiceFile>
           <Content>It’s as if comfort can only be achieved… through the agony of others in this City.</Content>
         </Dialog>
@@ -3527,14 +3527,14 @@
           <Content>Someone else must’ve benefitted from all the trouble I went through, so it’s only fair that I get to make use of the conveniences others suffered for.</Content>
         </Dialog>
         <Dialog ID="34" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod19-02</VoiceFile>
           <Content>It’s very much like you to think so.</Content>
         </Dialog>
         <Dialog ID="35" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod20-01</VoiceFile>
           <Content>Does that kind of mindset truly ease your mind?</Content>
         </Dialog>
@@ -3557,8 +3557,8 @@
           <Content>You’re right. Way too right. That doesn’t vibe too well with me or the City.</Content>
         </Dialog>
         <Dialog ID="39" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod21</VoiceFile>
           <Content>You must be thinking I am pathetic like others do.</Content>
         </Dialog>
@@ -3581,8 +3581,8 @@
           <Content>Who knows, you might actually create technologies that don’t need sacrificing others to run someday, right?</Content>
         </Dialog>
         <Dialog ID="43" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod22-02</VoiceFile>
           <Content>I’ve already endured for so long, and you’re telling me to stay silent yet again…</Content>
         </Dialog>
@@ -3605,14 +3605,14 @@
           <Content>And besides, some things did improve over your time in Lobotomy Corp, right?</Content>
         </Dialog>
         <Dialog ID="47" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod23</VoiceFile>
           <Content>…That is true.</Content>
         </Dialog>
         <Dialog ID="48" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod24</VoiceFile>
           <Content>I can at least… be with my former employees, who have always been loyal to me.</Content>
         </Dialog>
@@ -3635,20 +3635,20 @@
           <Content>Don’t force me to do the same, though, since I’m totally not up for that!</Content>
         </Dialog>
         <Dialog ID="52" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod25-02</VoiceFile>
           <Content>You’re quite the foolhardy individual, aren’t you.</Content>
         </Dialog>
         <Dialog ID="53" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod26</VoiceFile>
           <Content>…But you do have a point, Roland. Some things have gotten better as you said.</Content>
         </Dialog>
         <Dialog ID="54" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod27</VoiceFile>
           <Content>I will try and persevere as long as there are improvements to be made.</Content>
         </Dialog>
@@ -3659,8 +3659,8 @@
           <Content>Can I leave you with my share of persevering, too?</Content>
         </Dialog>
         <Dialog ID="56" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod28-01</VoiceFile>
           <Content>I suppose I’ll have to consider that.</Content>
         </Dialog>
@@ -3671,8 +3671,8 @@
           <Content>See~ You’re just too nice. Angela would’ve instantly shut me down with a “Bullshit.”</Content>
         </Dialog>
         <Dialog ID="58" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod29-01</VoiceFile>
           <Content>It turns out that conversing with you wasn’t all too unpleasant, after all.</Content>
         </Dialog>
@@ -3689,8 +3689,8 @@
           <Content>And let’s drop the courtesy while we’re at it.</Content>
         </Dialog>
         <Dialog ID="61" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod30-01</VoiceFile>
           <Content>I am more comfortable speaking this way.</Content>
         </Dialog>
@@ -3701,8 +3701,8 @@
           <Content>Eh, figured. Cheers then.</Content>
         </Dialog>
         <Dialog ID="63" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep4_yesod31</VoiceFile>
           <Content>…It was nice talking with you.</Content>
         </Dialog>
@@ -3719,8 +3719,8 @@
           <Content>The time has come for this floor as well. Yesod, what is your progress on the compilation of the City’s technologies?</Content>
         </Dialog>
         <Dialog ID="1" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod1-01_b</VoiceFile>
           <Content>We’ve managed to gather a sizable amount of information on the City’s technological aspects.</Content>
         </Dialog>
@@ -3731,8 +3731,8 @@
           <Content>You’re probably the best at dealing with books and info among all the librarians, Yesod.</Content>
         </Dialog>
         <Dialog ID="3" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod2_b</VoiceFile>
           <Content>Am I? I will say, I have been fond of managing various types of information for a long time.</Content>
         </Dialog>
@@ -3755,32 +3755,32 @@
           <Content>Well, that’s that! Anyway, let’s hear what you think about those technologies.</Content>
         </Dialog>
         <Dialog ID="7" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod3_b</VoiceFile>
           <Content>Like the horrible events that took place in the WARP train… I cannot view all aspects of the technology people use in a positive light.</Content>
         </Dialog>
         <Dialog ID="8" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod4_b</VoiceFile>
           <Content>We’ve seen that W Corp. places people in a nigh-eternal trip of torment and later erases their memories through a restoration procedure, hiding the truth behind their convenient service.</Content>
         </Dialog>
         <Dialog ID="9" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod5-01_b</VoiceFile>
           <Content>The technologies of the City only focus on creating definite results, ignoring the process.</Content>
         </Dialog>
         <Dialog ID="10" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod6_b</VoiceFile>
           <Content>The same can be said of the Library.</Content>
         </Dialog>
         <Dialog ID="11" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod7_b</VoiceFile>
           <Content>Thus, I conducted additional analysis on the Library and its powers we are using.</Content>
         </Dialog>
@@ -3791,50 +3791,50 @@
           <Content>A pointless affair.</Content>
         </Dialog>
         <Dialog ID="13" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod8-01_b</VoiceFile>
           <Content>The Library’s interior can change according to one’s perception.</Content>
         </Dialog>
         <Dialog ID="14" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod9_b</VoiceFile>
           <Content>In other words, one’s mental state is reflected on the physical space.</Content>
         </Dialog>
         <Dialog ID="15" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod10_b</VoiceFile>
           <Content>I believe that is why various sceneries of the outside world can be recreated inside the Library.</Content>
         </Dialog>
         <Dialog ID="16" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod11_b</VoiceFile>
           <Content>Moreover, the Library’s space expands as more books are accumulated.</Content>
         </Dialog>
         <Dialog ID="17" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod12_b</VoiceFile>
           <Content>This evidently suggests that the Library is bigger on the inside.</Content>
         </Dialog>
         <Dialog ID="18" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod13-01_b</VoiceFile>
           <Content>Furthermore, the power of books can be physically manifested in this place.</Content>
         </Dialog>
         <Dialog ID="19" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod14-01_b</VoiceFile>
           <Content>And the invitation serves as a compass that leads you through a sea of letters to the book you wish to obtain, and a catalyst that amplifies emotions at the same time.</Content>
         </Dialog>
         <Dialog ID="20" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod15_b</VoiceFile>
           <Content>I could go on and on about the technologies of the Library.</Content>
         </Dialog>
@@ -3851,44 +3851,44 @@
           <Content>Naturally. These are works of art I made with care.</Content>
         </Dialog>
         <Dialog ID="23" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod16_b</VoiceFile>
           <Content>I cannot possibly fathom the inner workings of all these technologies.</Content>
         </Dialog>
         <Dialog ID="24" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod17_b</VoiceFile>
           <Content>Their operation does not appear to be based on the application of multiple Singularities, either.</Content>
         </Dialog>
         <Dialog ID="25" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod18_b</VoiceFile>
           <Content>The technologies of the Library showed specific usage and limited efficiency for how advanced they are.</Content>
         </Dialog>
         <Dialog ID="26" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod19-01_b</VoiceFile>
           <Content>This is where I came up with the hypothesis to explain all of this.</Content>
         </Dialog>
         <Dialog ID="27" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod20_b</VoiceFile>
           <Content>That the Library itself is a miniature universe where anything is possible as long as its objective is to expand the Library.</Content>
         </Dialog>
         <Dialog ID="28" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod21_b</VoiceFile>
           <Content>A small world of its own with its own set of laws and principles.</Content>
         </Dialog>
         <Dialog ID="29" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod22_b</VoiceFile>
           <Content>Am I correct in my speculation?</Content>
         </Dialog>
@@ -3899,14 +3899,14 @@
           <Content>Believe what you want about the Library. Whatever the case, all we need is the results, isn’t that right?</Content>
         </Dialog>
         <Dialog ID="31" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod23_b</VoiceFile>
           <Content>No. I do not agree with that notion.</Content>
         </Dialog>
         <Dialog ID="32" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod24-01_b</VoiceFile>
           <Content>Angela, there is no technology in this world that does not come at a corresponding price.</Content>
         </Dialog>
@@ -3923,14 +3923,14 @@
           <Content>Your work here is to study and categorize books and knowledge related to the City’s technologies.</Content>
         </Dialog>
         <Dialog ID="35" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod25_b</VoiceFile>
           <Content>It may be true that sorting books on the subject of technological sciences according to the rules is all I was ordered to do.</Content>
         </Dialog>
         <Dialog ID="36" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod26-05_b</VoiceFile>
           <Content>However, if we bind ourselves to the principles given to us and fail to see beyond, that would be a contradiction in itself!</Content>
         </Dialog>
@@ -4253,8 +4253,8 @@
           <Content>We’re in a bad spot, aren’t we?</Content>
         </Dialog>
         <Dialog ID="89" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod27_b</VoiceFile>
           <Content>Yes… The Library appears to be resonating with Angela’s mental state.</Content>
         </Dialog>
@@ -4265,8 +4265,8 @@
           <Content>She’s shapeshifting like the last time, huh. That was a pain in the ass to deal with.</Content>
         </Dialog>
         <Dialog ID="91" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod28_b</VoiceFile>
           <Content>You’re mostly right. Though it will not exactly be the same as before.</Content>
         </Dialog>
@@ -4277,8 +4277,8 @@
           <Content>Good point. Back then, she looked a “little” bit different from that there…</Content>
         </Dialog>
         <Dialog ID="93" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod29-01_b</VoiceFile>
           <Content>Let us prepare ourselves. She won’t wait for us all day.</Content>
         </Dialog>
@@ -4307,8 +4307,8 @@
           <Content>I can’t do this every time, this is not good…</Content>
         </Dialog>
         <Dialog ID="3" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod30-01_b</VoiceFile>
           <Content>Have you come to your senses now?</Content>
         </Dialog>
@@ -4325,8 +4325,8 @@
           <Content>Nothing’s more annoying than all the memories of drinking and doing nasty stuff coming back to you in the morning.</Content>
         </Dialog>
         <Dialog ID="6" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod31-01_b</VoiceFile>
           <Content>I’m sure Angela needed a moment to vent out her feelings.</Content>
         </Dialog>
@@ -4343,20 +4343,20 @@
           <Content>You may have encased yourself in compulsion out of your own choice, but I couldn’t even act according to my own will.</Content>
         </Dialog>
         <Dialog ID="9" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod32-01_b</VoiceFile>
           <Content>I didn’t intend to offend you.</Content>
         </Dialog>
         <Dialog ID="10" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod33_b</VoiceFile>
           <Content>Going back to my point, you can make your own choices now, can you not, Angela?</Content>
         </Dialog>
         <Dialog ID="11" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod34-02_b</VoiceFile>
           <Content>And we’d like to help you as much as you helped us by paying all the price in our stead.</Content>
         </Dialog>
@@ -4385,26 +4385,26 @@
           <Content>I am searching for the one book that will complete me and the Library because I am obligated to.</Content>
         </Dialog>
         <Dialog ID="16" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod35_b</VoiceFile>
           <Content>…There is no such thing as “what you simply must do”.</Content>
         </Dialog>
         <Dialog ID="17" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod36_b</VoiceFile>
           <Content>We live in a world where everything changes constantly.</Content>
         </Dialog>
         <Dialog ID="18" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod37_b</VoiceFile>
           <Content>It is not necessarily rational or wise to blindly follow a goal determined in the past.</Content>
         </Dialog>
         <Dialog ID="19" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod38_b</VoiceFile>
           <Content>To keep up with the rapid changes this world goes through, we must maintain discretion at all times.</Content>
         </Dialog>
@@ -4434,8 +4434,8 @@
 I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="24" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod39-01_b</VoiceFile>
           <Content>Angela is changing for certain. I’m sure you’re playing a role in that as well.</Content>
         </Dialog>
@@ -4446,8 +4446,8 @@ I appreciate your help, everyone.</Content>
           <Content>Is she? She does seem to be more talkative than before, but I’m not really sure I like the way her personality is shaping out.</Content>
         </Dialog>
         <Dialog ID="26" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod40-01_b</VoiceFile>
           <Content>How about you, Roland? Are you experiencing any changes?</Content>
         </Dialog>
@@ -5286,7 +5286,7 @@ I appreciate your help, everyone.</Content>
           <Content>The circumstances are no longer the same as before, Gebura. I am now aware of the existence of E.G.O and its capabilities.</Content>
         </Dialog>
         <Dialog ID="68" Model="예소드">
-          <Teller>Yesod</Teller>
+          <Teller>เยโสด</Teller>
           <Title>Information Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep3_yesod1</VoiceFile>
           <Content>All employees from the Welfare and Disciplinary Teams have fallen…</Content>
@@ -6156,7 +6156,7 @@ I appreciate your help, everyone.</Content>
           <Content>You can just call me Angela. We’re in the same boat, so let’s be more comfortable with each other.</Content>
         </Dialog>
         <Dialog ID="53" Model="예소드">
-          <Teller>Yesod</Teller>
+          <Teller>เยโสด</Teller>
           <Title>Information Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Yesod1_b</VoiceFile>
           <Content>Well then, Angela, is there anything we can do?</Content>
@@ -6618,7 +6618,7 @@ I appreciate your help, everyone.</Content>
           <Content>The manager will be here as of today.</Content>
         </Dialog>
         <Dialog ID="130" Model="예소드">
-          <Teller>Yesod</Teller>
+          <Teller>เยโสด</Teller>
           <Title>Information Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Yesod2-01_b</VoiceFile>
           <Content>This means that person will be in charge of managing everything about this facility.</Content>
@@ -6768,7 +6768,7 @@ I appreciate your help, everyone.</Content>
           <Content>There is no need to ask me for every little thing.</Content>
         </Dialog>
         <Dialog ID="155" Model="예소드">
-          <Teller>Yesod</Teller>
+          <Teller>เยโสด</Teller>
           <Title>Information Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Yesod3-02_b</VoiceFile>
           <Content>You are the only one among us to have the semblance of a human, yet you act just like a heartless monster.</Content>
@@ -7893,7 +7893,7 @@ I appreciate your help, everyone.</Content>
           <Content>I’m with Angela, too. Enoch’s death deserves a better meaning than this half-baked light.</Content>
         </Dialog>
         <Dialog ID="42" Model="예소드">
-          <Teller>Yesod</Teller>
+          <Teller>เยโสด</Teller>
           <Title>Information Team Sephirah</Title>
           <VoiceFile>ch8_Netzach_ep3_yesod1</VoiceFile>
           <Content>I am not willing to gamble with everything we’ve worked for.</Content>
@@ -19810,7 +19810,7 @@ because I am certain you will never leave me.”
           <Content>You’re right, Lady Angela… Maybe I’m just a defect who can’t do anything right.</Content>
         </Dialog>
         <Dialog ID="57" Model="예소드">
-          <Teller>Yesod</Teller>
+          <Teller>เยโสด</Teller>
           <Title>Information Team Sephirah</Title>
           <VoiceFile>ch8_Hokma_ep5_Yesod_1_Effect</VoiceFile>
           <Content>I must thank you for giving us some room to breathe in this place.</Content>
@@ -19822,7 +19822,7 @@ because I am certain you will never leave me.”
           <Content>&lt; ! Seed of Light Scenario Error ! &gt;</Content>
         </Dialog>
         <Dialog ID="59" Model="예소드">
-          <Teller>Yesod</Teller>
+          <Teller>เยโสด</Teller>
           <Title>Information Team Sephirah</Title>
           <VoiceFile>ch8_Hokma_ep5_Yesod_2-04_Effect</VoiceFile>
           <Content>I suppose I must obey your orders and abide by the principles.</Content>
@@ -20374,8 +20374,8 @@ because I am certain you will never leave me.”
           <Content>Angela…</Content>
         </Dialog>
         <Dialog ID="4" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_kether_ep1_yesod1</VoiceFile>
           <Content>What are you trying to accomplish with this?</Content>
         </Dialog>
@@ -20470,14 +20470,14 @@ because I am certain you will never leave me.”
           <Content>We thought that would be the last of it… Not any more of this…</Content>
         </Dialog>
         <Dialog ID="20" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_kether_ep1_yesod2</VoiceFile>
           <Content>…We don’t have a choice, Netzach.</Content>
         </Dialog>
         <Dialog ID="21" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_kether_ep1_yesod3</VoiceFile>
           <Content>Nothing we say will get through her anyway.</Content>
         </Dialog>
