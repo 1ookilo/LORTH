@@ -1759,438 +1759,438 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: Somewhere in the Backstreets</PlaceName>
+        <PlaceName>สถานที่: ที่ไหนสักแห่งในแบ็คสตรีท</PlaceName>
         <Dialog ID="0" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi1</VoiceFile>
-          <Content>Bastards! Like! You!</Content>
+          <Content>สารเลว! อย่างพวก! เอ็งน่ะ!</Content>
         </Dialog>
         <Dialog ID="1" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi2</VoiceFile>
-          <Content>Need! Some! Beating!</Content>
+          <Content>ต้องโดน! สั่งสอน! ซะบ้าง!</Content>
         </Dialog>
         <Dialog ID="2" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi3</VoiceFile>
-          <Content>Get! It! Into! Your! Thin! Skull!! </Content>
+          <Content>จำใส่! กระโหลก! กรวงๆ! ของพวกเอ็ง! ซะ!! </Content>
         </Dialog>
         <Dialog ID="3" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino1</VoiceFile>
-          <Content>That’s enough, Gyeong-mi. Beating them to death won’t do us any good.</Content>
+          <Content>พอได้แล้ว ชอง-มี กระทืบพวกมันให้ตายเราก็ไม่ได้อะไรดีๆขึ้นมาหรอก</Content>
         </Dialog>
         <Dialog ID="4" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino2</VoiceFile>
-          <Content>District 22 may be our turf, and these chumps you’re beating to a pulp may be from Zwei’s Section 6, but we’re talking about an Association here…</Content>
+          <Content>ถึงแม้ว่าเขตที่ 22จะเป็นถิ่นของพวกเรา และไอ้พวกที่นายกระทืบจนเละอยู่ก็เป็นแค่สไวหน่วยที่ 6 แต่พวกนั้นก็เป็นคนของสมาพันธ์อยู่ดี…</Content>
         </Dialog>
         <Dialog ID="5" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino3</VoiceFile>
-          <Content>We’re gonna be in even bigger trouble if you kill ‘em all.</Content>
+          <Content>เราจะมีปัญหาหนักกว่าเดิมแน่ถ้านายฆ่าพวกมันทั้งหมดน่ะ</Content>
         </Dialog>
         <Dialog ID="6" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi4</VoiceFile>
-          <Content>Walter!</Content>
+          <Content>วอลเตอร์!</Content>
         </Dialog>
         <Dialog ID="7" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi5</VoiceFile>
-          <Content>If! Only! That! Bastard!</Content>
+          <Content>ถ้าแค่! ไอ้สารเลว! นั่น!</Content>
         </Dialog>
         <Dialog ID="8" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi6</VoiceFile>
-          <Content>Kept! His! Promise! We! Wouldn’t have! Gotten into this mess.</Content>
+          <Content>รักษา! สัญญา! ที่ให้ไว้! เราก็คง! ไม่ต้อง! เข้ามามีเอี่ยวด้วยหรอก</Content>
         </Dialog>
         <Dialog ID="9" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi7</VoiceFile>
-          <Content>We! Needed! The! Floorplan! Of! L Corp’s! Nest!</Content>
+          <Content>เราแค่! ต้องการ! แผงผัง! ของเนส! ในแอลคอร์ป! </Content>
         </Dialog>
         <Dialog ID="10" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi8</VoiceFile>
-          <Content>The Zwei!</Content>
+          <Content>ที่พวก!</Content>
         </Dialog>
         <Dialog ID="11" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi9</VoiceFile>
-          <Content>Had it!</Content>
+          <Content>สไวมี!</Content>
         </Dialog>
         <Dialog ID="12" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi10</VoiceFile>
-          <Content>We should! Teach!</Content>
+          <Content>เราต้อง! สั่งสอน!</Content>
         </Dialog>
         <Dialog ID="13" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi11</VoiceFile>
-          <Content>These fuckers! A lesson!</Content>
+          <Content>พวกเหี้ยนี่! ให้หลาบจำ!</Content>
         </Dialog>
         <Dialog ID="14" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi12</VoiceFile>
-          <Content>On how important it is to keep promises.</Content>
+          <Content>ว่ามันสำคัญแค่ใหนกับการให้คำสัญญา</Content>
         </Dialog>
         <Dialog ID="15" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino4</VoiceFile>
-          <Content>Night will fall soon. Sweepers could come for our asses any second now.</Content>
+          <Content>นี่ก็จะมืดค่ำแล้ว พวกสวีปเปอร์เองก็อาจจะมาจัดการพวกเราตอนใหนก็ได้</Content>
         </Dialog>
         <Dialog ID="16" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino5</VoiceFile>
-          <Content>And the Thumb wouldn’t even contact us.</Content>
+          <Content>และพวกเดอะ ธัมบ์เองก็ยังไม่ติดต่อพวกเรามาด้วย</Content>
         </Dialog>
         <Dialog ID="17" Model="줄루">
-          <Teller>Zulu</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ซูลู</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu1</VoiceFile>
-          <Content>We shed blood gathering intel on the Distortion for that bastard Walter, and this is how he repays us? </Content>
+          <Content>พวกเราเสียเลือดเสียเนื้อเพื่อไปรวบรวมข้อมูลที่เกี่ยวข้องกับการบิดเบือนให้ไอ้สารเลววอลเตอร์นั่น แล้วมันตอบแทนพวกเราอย่างงี้เรอะ</Content>
         </Dialog>
         <Dialog ID="18" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino6</VoiceFile>
-          <Content>Those zealots at the Church of Gears took out more than half our Syndicate.</Content>
+          <Content>ไอ้พวกคนคลั่งในโบสถ์แห่งฟันเฟืองมันเล่นคนในองค์กรเราไปมากกว่าครึ่งเลย</Content>
         </Dialog>
         <Dialog ID="19" Model="줄루">
-          <Teller>Zulu</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ซูลู</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu2</VoiceFile>
-          <Content>Their leader was an inhuman freak, alright…</Content>
+          <Content>ก็ไอ้ศาสดาของพวกมันไม่ใช่มนุษย์ชัดๆ…</Content>
         </Dialog>
         <Dialog ID="20" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino7</VoiceFile>
-          <Content>We worked our asses off securing the goods from the Church, and for what…</Content>
+          <Content>พวกเรายอมทำงานกันจนก้นหลุด พยายามรวบรวมของที่พอมีค่ามาจากโบสถ์นั่น เพื่ออะไรกัน…</Content>
         </Dialog>
         <Dialog ID="21" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino8</VoiceFile>
-          <Content>If we can’t hand over the floorplan of L Corp’s Nest to the Thumb…</Content>
+          <Content>ถ้าพวกเรายังหาแผงผังเนสในแอลคอร์ปให้เดอะ ธัมบ์ไม่ได้…</Content>
         </Dialog>
         <Dialog ID="22" Model="줄루">
-          <Teller>Zulu</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ซูลู</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu3</VoiceFile>
-          <Content>All that’s left for us is to get purged by the Thumb for failing our job.</Content>
+          <Content>อย่างเดียวที่พวกเราพอทำได้ก็คือรอให้พวกเดอะ ธัมบ์มาล้างบางพวกเราที่ทำงานพลาดสินะ</Content>
         </Dialog>
         <Dialog ID="23" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino9</VoiceFile>
-          <Content>Shouldn’t have made a deal with an Association in the first place.</Content>
+          <Content>ไม่ควรจะไปทำสัญญากับไอ้พวกสมาพันธ์ตั้งแต่แรกอยู่แล้ว</Content>
         </Dialog>
         <Dialog ID="24" Model="줄루">
-          <Teller>Zulu</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ซูลู</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu4</VoiceFile>
-          <Content>At least Walter was a sensible one. Maybe something happened to him.</Content>
+          <Content>อย่างน้อยไอ้วอลเตอร์มันก็เป็นคนมีเหตุผล มีบางอย่างเกิดขึ้นกับมันรึเปล่า?</Content>
         </Dialog>
         <Dialog ID="25" Model="줄루">
-          <Teller>Zulu</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ซูลู</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu5</VoiceFile>
-          <Content>He might have been a cunning old fart, but he was still the director of Zwei Section 6. Besides, he’d usually leave field jobs to his men. Doesn’t make sense for him to die all too suddenly.</Content>
+          <Content>มันอาจจะเป็นแค่ไอ้แก่เล่ห์เหลี่ยมเยอะ แต่มันก็ยังเป็นผู้กำกับประจำสไวหน่วยที่ 6อยู่ดี อีกอย่างคือ มันก็ชอบให้ลูกน้องทำงานภาคสนามมากกว่า ไม่สมเหตุสมผลเลยที่อยู่ๆมันจะมาตายเอาดื่อๆ</Content>
         </Dialog>
         <Dialog ID="26" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino10</VoiceFile>
-          <Content>Anything can happen.</Content>
+          <Content>อะไรก็เกิดขึ้นได้อะนะ</Content>
         </Dialog>
         <Dialog ID="27" Model="줄루">
-          <Teller>Zulu</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ซูลู</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu6</VoiceFile>
-          <Content>For fuck’s sake, you really killed them all.</Content>
+          <Content>เอาจริงดิ นี่เอ็งฆ่าพวกมันจนหมดเลยหรอ</Content>
         </Dialog>
         <Dialog ID="28" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino11</VoiceFile>
-          <Content>That’s one more option for us.</Content>
+          <Content>มีทางให้เราเลือกเพิ่มขึ้นมาอีกแล้ว</Content>
         </Dialog>
         <Dialog ID="29" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino12</VoiceFile>
-          <Content>You’ve done it again… Flew into a blind rage and crushed their bones and guts to a pulp.</Content>
+          <Content>นายเป็นแบบนี้อีกแล้ว… นายโกรธจนหน้ามืดแล้วบดกระดูกและเครื่องในพวกนั้นจนเละอีกแล้ว</Content>
         </Dialog>
         <Dialog ID="30" Model="줄루">
-          <Teller>Zulu</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ซูลู</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu7</VoiceFile>
-          <Content>Gyeong-mi! Even if they were a bunch of small fry from Section 6, killing this many of ‘em might get Section 2 or 3 to chase us down.</Content>
+          <Content>ชอง-มี! ถึงแม้ไอ้พวกนี้จะเป็นแค่ลูกกระจ๊อกของสไวหน่วย 6 แต่ฆ่าพวกมันมากขนาดนี้เดี๋ยวก็โดนพวกของหน่วย 2 ไม่ก็หน่วย 3 ไล่ล่าเราหรอก</Content>
         </Dialog>
         <Dialog ID="31" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino13</VoiceFile>
-          <Content>The Zwei could send an army of Fixers at us now.</Content>
+          <Content>ตอนนี้พวกสไวคงส่งกองทัพฟิกเซอร์มาเล่นพวกเราแล้วก็ได้</Content>
         </Dialog>
         <Dialog ID="32" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi13</VoiceFile>
-          <Content>…These sons of bitches… needed to understand what the weight of a promise is. </Content>
+          <Content>…พวกเหี้ยนี่… ต้องเข้าใจสักหน่อยว่าคำสัญญามันมีค่าแค่ใหน</Content>
         </Dialog>
         <Dialog ID="33" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ด๊โน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino14</VoiceFile>
-          <Content>I hope you have a backup plan for when the Zwei come to “thank” us for that lesson.</Content>
+          <Content>หวังว่านายคงมีแผนสำรองให้พวกสไวที่มา“ขอบคุณ”พวกเราสำหรับสั่งสอนบทเรียนให้พวกนั้นนะ</Content>
         </Dialog>
         <Dialog ID="34" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi14</VoiceFile>
-          <Content>Just look at this.</Content>
+          <Content>พวกมึงดูนี่ก่อน</Content>
         </Dialog>
         <Dialog ID="35" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino15</VoiceFile>
-          <Content>An envelope?</Content>
+          <Content>ซองจดหมายนั่น?</Content>
         </Dialog>
         <Dialog ID="36" Model="줄루">
-          <Teller>Zulu</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ซูลู</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu8</VoiceFile>
-          <Content>The rumored invitation to that library.</Content>
+          <Content>บัตรเชิญไปยังห้องสมุดที่เขาล่ำลือกันนี่หว่า</Content>
         </Dialog>
         <Dialog ID="37" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino16</VoiceFile>
-          <Content>Hold on, among the “books of the day” they listed… there’s… The Book of Walter? So that’s what happened? You had a plan after all.</Content>
+          <Content>เดี๋ยวก่อนนะ ในรายชื่อ“หนังสือประจำวัน”ที่เขาเขียนไว้ มีหนังสือ…ของ…วอลเตอร์? มันเป็นอย่างงั้นนี่เอง นายก็ยังพอมีแผนอยู่นิ</Content>
         </Dialog>
         <Dialog ID="38" Model="줄루">
-          <Teller>Zulu</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ซูลู</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu9</VoiceFile>
-          <Content>What… Gyeong-mi!</Content>
+          <Content>งั้นก็แสดงว่า… ชอง-มี!</Content>
         </Dialog>
         <Dialog ID="39" Model="줄루">
-          <Teller>Zulu</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ซูลู</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu10</VoiceFile>
-          <Content>So you already knew that Walter died in the Library and still pulverised Section 6?</Content>
+          <Content>นายน่ะรู้อยู่แล้วว่าวอลเตอร์ตายในห้องสมุดนั่นแต่ก็ยังจะไปขยี้ไอ้พวกหน่วยที่ 6 อยู่อีกเรอะ?</Content>
         </Dialog>
         <Dialog ID="40" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi15</VoiceFile>
-          <Content>It’s!</Content>
+          <Content>มัน!</Content>
         </Dialog>
         <Dialog ID="41" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi16</VoiceFile>
-          <Content>About!</Content>
+          <Content>เกี่ยวกับ!</Content>
         </Dialog>
         <Dialog ID="42" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi17</VoiceFile>
-          <Content>Sending! A damn! Message!</Content>
+          <Content>การ! ส่ง! ข้อความ! ต่างหาก!!</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="43" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland1</VoiceFile>
-          <Content>Syndicates have a tendency to kill more than they need to, unlike Fixers. They cause trouble just because they feel like it.</Content>
+          <Content>พวกคนในองค์กรนี่ชอบฆ่าคนเกินจำเป็นจริงๆ ที่พวกเขายังก่อปัญหาได้ก็เพราะว่าพวกเขาอยากจะทำเท่านั้น ต่างจากพวกฟิกเซอร์น่ะ</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland2</VoiceFile>
-          <Content>Anyway, what were they trying to do, getting Sweepers and the Thumb involved?</Content>
+          <Content>ยังไงก็แล้วแต่ นี่พวกเขาพยายามจะทำอะไรกันแน่ ลากพวกสวีปเปอร์และเดอะ ธัมบ์เข้ามาเกี่ยวกัน?</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela1</VoiceFile>
-          <Content>I might know about the Sweepers.</Content>
+          <Content>ฉันน่ะพอรู้จักพวกสวีปเปอร์อยู่นะ</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland3</VoiceFile>
-          <Content>You do? Well, I guess they are infamous.</Content>
+          <Content>เธอรู้จักด้วยหรอ? ก็นะ พวกนั้นน่ะดังพอสมควรเลยนิ</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela2</VoiceFile>
-          <Content>I saw them tear humans to pieces and use them as fuel. Are they like that in real life, too?</Content>
+          <Content>ฉันเห็นพวกเขาฉีกมนุษย์เป็นชิ้นๆแล้วใช้พวกนั้นเป็นเชื้อเพลิงน่ะ พวกเขาเป็นอย่างงั้นจริงๆหรอ?</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland4</VoiceFile>
-          <Content>Sort of. One Sweeper is tough as is, but what’s really scary is their organizational power.</Content>
+          <Content>ก็จริงส่วนหนึงอะนะ สวีปเปอร์แค่คนเดียวก็ว่าจัดการได้ยากอยู่แล้ว แต่สิ่งที่หน้ากลัวจริงๆก็คืออิทธิพลของพวกเขาต่างหาก</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland5</VoiceFile>
-          <Content>They crawl outta the woodwork every night and clean the Backstreets.</Content>
+          <Content>พวกเขาจะคลานออกมาจากงานไม้แล้วทำการ“เก็บกวาด”แถวแบ็คสตรีททุกคืนเลย</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland6</VoiceFile>
-          <Content>We can’t even guess how many of them are there. No matter how many we take down, more would show up the next night.</Content>
+          <Content>พวกเรายังเดาไม่ถูกเลยว่าจำนวนที่แน่ชัดของพวกนั้นมันเท่าไหร่ ไม่ว่าพวกเราจะจัดการพวกนั้นไปซักแค่ใหน คืนต่อมาเดี๋ยวก็โพล่มามากกว่าเดิมอีก</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าห้องสมุด</PlaceName>
         <Dialog ID="51" Model="디노">
-          <Teller>Dino</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ดีโน่</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_dino17</VoiceFile>
-          <Content>Think we can make it back in time? Isn’t it a bit tight?</Content>
+          <Content>คิดว่าพวกเราจะกลับไปทันเวลาไหม? มันจะกระชันชิดเกินไปหรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="52" Model="줄루">
-          <Teller>Zulu</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ซูลู</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_zulu11</VoiceFile>
-          <Content>It is, but we’ll probably get back just in time.</Content>
+          <Content>มันแน่อยู่แล้ว แต่ก็คงจะกลับไปได้ทันเวลาพอดี</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela3</VoiceFile>
-          <Content>Greetings, dear guests. I am Angela, the director and librarian of my role’s namesake.</Content>
+          <Content>ยินดีต้อนรับค่ะ แขกผู้มีเกียรติ ดิฉันแองเจล่า เป็นบรรณารักษ์และผู้ดูแลที่แห่งนี้</Content>
         </Dialog>
         <Dialog ID="54" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi18</VoiceFile>
-          <Content>Scratch that!</Content>
+          <Content>ช่างหัวมันสิ!</Content>
         </Dialog>
         <Dialog ID="55" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi19</VoiceFile>
-          <Content>Just let us in. We’re in a hurry.</Content>
+          <Content>ปล่อยพวกเราเข้าไปได้แล้ว พวกเรายิ่งรีบๆอยู่</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela4</VoiceFile>
-          <Content>You are rather impatient, I see.</Content>
+          <Content>คุณน่ะเป็นคนที่ค่อนข้างใจร้อนสินะคะ</Content>
         </Dialog>
         <Dialog ID="57" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi20</VoiceFile>
-          <Content>I said shut up!</Content>
+          <Content>ก็บอกให้หุบปากไง!</Content>
         </Dialog>
         <Dialog ID="58" Model="경미">
-          <Teller>Gyeong-mi</Teller>
-          <Title>Stray Dog</Title>
+          <Teller>ชอง-มี</Teller>
+          <Title>สเตรย์ด็อก</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi21</VoiceFile>
-          <Content>And let us in. Now.</Content>
+          <Content>แล้วปล่อยให้พวกกู เข้า ไป ซะ</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela5</VoiceFile>
-          <Content>May you find your book in this place.</Content>
+          <Content>ขอให้คุณพบหนังสือที่ต้องการ ณ ที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>에피소드1-종료</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ข้างในห้องสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland7</VoiceFile>
-          <Content>Isn’t it annoying?</Content>
+          <Content>ไม่รำคาญบ้างรึไง?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela6</VoiceFile>
-          <Content>To listen to your silly chirping?</Content>
+          <Content>ที่ต้องฟังนายร้องจิ๊บๆเรื่อยเปื่อยอะนะ?</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland8</VoiceFile>
-          <Content>To deal with the things those guests say, I mean. </Content>
+          <Content>หมายถึงที่ต้องฟังแขกพวกนั้นพูดต่างหาก</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland9</VoiceFile>
-          <Content>A lot of ‘em don’t hesitate to spout harsh words at you. I’m surprised you can withstand it all.</Content>
+          <Content>พวกนั้นส่วนใหญ่ไม่ลังเลที่จะใช้คำหยาบใส่เธอเลย ค่อนข้างเซอร์ไพรส์นะเนี่ยที่เธอยังทนฟังได้น่ะ</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela7</VoiceFile>
-          <Content>They’re our precious guests we invited, so it’s only fair to treat them as such.</Content>
+          <Content>ก็พวกเขาเป็นแขกผู้มีเกียรติที่พวกเราเชิญมานิ เราก็ต้องปฏิบัติกับเขาให้สมกับที่เป็นแขกเราสิ</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela8</VoiceFile>
-          <Content>Besides, I’m already used to keeping others pleased in conversation.</Content>
+          <Content>อีกอย่างคือ ฉันคุ้นชินกับวิธีการพูดให้คนอื่นพึงพอใจไปแล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland10</VoiceFile>
-          <Content>I envy that professionalism of yours.</Content>
+          <Content>ฉันล่ะอิจฉาความเป็นมืออาชีพของเธอจริงๆ</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland11</VoiceFile>
-          <Content>Maybe you should give a lecture on hospitality to all the restaurant owners in the Backstreets someday. They could really learn a thing or two from you.</Content>
+          <Content>บางที่เธอต้องลองไปสอนเจ้าพวกเจ้าของร้านอาหารแถวแบ็คสตรีทซักหน่อยนะ พวกนั้นอาจจะรู้ว่าการต้อนรับลูกค้าเขาทำกันยังไงก็ได้</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland12</VoiceFile>
-          <Content>…But still, it’ll probably be a lot easier on you to be more flexible with greeting guests, rather than sticking to the same polite attitude.</Content>
+          <Content>…แต่ก็ ถ้าเธอลองทำตัวยืดหยุ่นให้เข้ากับแขกแทนที่จะทักทายแค่แบบสุภาพ มันอาจจะง่ายขึ้นสำหรับเธอนะ</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela9</VoiceFile>
-          <Content>I’ll take note of that.</Content>
+          <Content>ฉันจะจำไว้ละกัน</Content>
         </Dialog>
       </Place>
     </Episode>

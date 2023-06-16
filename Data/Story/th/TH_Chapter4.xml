@@ -13,7 +13,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia1-01</VoiceFile>
-          <Content>เทลมา,คุณต้องขอบคุณฉันทั้งหมดที่ทำให้คุณสามารถรักษาตำแหน่งหัวหน้าสาขาทางใต้ได้ ดังนั้นบางทีคุณควรจะตอบแทนบุญคุณบ้าง ไม่สิ?</Content>
+          <Content>เทลมา,คุณต้องขอบคุณฉันทั้งหมดที่ทำให้คุณสามารถรักษาตำแหน่งหัวหน้าแผนกใต้ได้ ดังนั้นบางทีคุณควรจะตอบแทนบุญคุณบ้างสิ ถูกไหม?</Content>
         </Dialog>
         <Dialog ID="1" Model="???">
           <Teller>???</Teller>
@@ -49,25 +49,25 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia3</VoiceFile>
-          <Content>ให้ฉันเดา, สาขา 2?</Content>
+          <Content>ให้ฉันเดานะ หน่วย 2 ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="7" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma5</VoiceFile>
-          <Content>ถูกต้อง.</Content>
+          <Content>ถูกต้อง</Content>
         </Dialog>
         <Dialog ID="8" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia4-01</VoiceFile>
-          <Content>เห็นฉันเป็นคนที่มีน้ำใจมากขนาดนั่นเลยหรอ, เทลมา</Content>
+          <Content>เห็นฉันเป็นคนที่มีน้ำใจมากขนาดนั่นเลยหรอ เทลมา</Content>
         </Dialog>
         <Dialog ID="9" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma6</VoiceFile>
-          <Content>ในรายชื่อ ‘ห้องสมุด’ ตอนนี้ได้รับการแต่งตั้งให้เป็นภัยประจำเมืองโดยสมาพันธ์ชฮานาแล้ว…</Content>
+          <Content>ในรายชื่อนี้ ‘ห้องสมุด’ ตอนนี้ได้รับการแต่งตั้งให้เป็นภัยประจำเมืองโดยสมาพันธ์ฮานาแล้ว…</Content>
         </Dialog>
         <Dialog ID="10" Model="???">
           <Teller>???</Teller>

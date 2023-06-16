@@ -139,7 +139,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Prol_ep1_Angela_18</VoiceFile>
-          <Content>รวบรอมกำลังโดยกลืนกินบุคคลที่แข็งแกร่ง เหล่าแอ็บนอมอลิตี้จะสามารถตระเวนทั่วนครได้ตามใจชอบ</Content>
+          <Content>รวบรวมกำลังโดยกลืนกินบุคคลที่แข็งแกร่ง เหล่าแอ็บนอมอลิตี้จะสามารถตระเวนทั่วนครได้ตามใจชอบ</Content>
         </Dialog>
         <Dialog ID="22" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1774,7 +1774,7 @@
           <Content>นี่สิน้าหอสุมดที่เลื่องลือ~! ฉันได้ยินมาหลายเรื่องเลย แต่ไม่คิดว่าจะได้เห็นกับตา!</Content>
         </Dialog>
         <Dialog ID="13" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_Eilin_1</VoiceFile>
           <Content>นายเคยนำละครสัตวในเต็นท์เล็กๆ นั่นมานาน…</Content>
@@ -1810,7 +1810,7 @@
           <Content>แต่ว่า ผมคิดว่ามันช่างน่าบังเอิญที่ท้ายสุดเราสามารถเดินทางเดียวกันได้</Content>
         </Dialog>
         <Dialog ID="19" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_Eilin_2</VoiceFile>
           <Content>ฉันก็รู้สึกแบบเดียวกัน… ท่านอาร์กาเลียได้ให้การหลุดพ้นแก่เรา</Content>
@@ -1975,7 +1975,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_3</VoiceFile>
-          <Content>แล้วพวกแกมีธุระอะไรที่นี่ล่ะ? เรายังไม่อยากให้หนังสือพวกแกสักเล่ม แถมไม่ได้เชิญพวกแกมาด้วย</Content>
+          <Content>แล้วพวกแกมีธุระอะไรที่นี่ล่ะ? เรายังไม่อยากให้หนังสือพวกแกสักเล่ม แถมไม่ได้เชิญมาด้วย</Content>
         </Dialog>
         <Dialog ID="47" Model="정장 필립">
           <Teller>ฟิลลิป</Teller>
@@ -2125,7 +2125,7 @@
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_5</VoiceFile>
-          <Content>ไม่ได้เล่นอะไรทั้งนั้น หรือแกตราตรึงที่เห็นความงดงามของเธอจนแกหยุดชื่นชมเธอไม่ได้ล่ะ?</Content>
+          <Content>ไม่ได้เล่นอะไรทั้งนั้น หรือคุณตราตรึงที่เห็นความงดงามของเธอจนหยุดชื่นชมเธอไม่ได้ล่ะ?</Content>
         </Dialog>
         <Dialog ID="72" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
@@ -2287,37 +2287,37 @@
           <Teller>อาร์กาเลีย</Teller>
           <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_32</VoiceFile>
-          <Content>แองแจล่า… เธอเป้นคนฆ่าอีกครึ่งที่ไม่สมควรได้ของไอ้เวรใจดำนั่น เธอเห็นหรือยัง? เธอเป็นคนฆ่าน้องสาวฉัน…</Content>
+          <Content>แองเจล่า… เธอเป็นคนฆ่าอีกส่วนที่ไม่สมควรได้ของไอ้เวรใจดำนั่น เธอเห็นหรือยัง? เธอเป็นคนฆ่าน้องสาวฉัน…</Content>
         </Dialog>
         <Dialog ID="99" Model="플루토">
           <Teller>พูลโต</Teller>
           <Title>Yesterday’s Promise</Title>
           <VoiceFile>ch7_Blue_ep2_Pluto_8</VoiceFile>
-          <Content>Quite a scene, indeed… Even I cannot help but laugh at this.</Content>
+          <Content>Quite a scene, indeed… แม้แต่ผมเองก็หยุดหัวเราะไม่ได้</Content>
         </Dialog>
         <Dialog ID="100" Model="정장 타냐">
           <Teller>Tanya</Teller>
           <Title>L’heure du Loup</Title>
           <VoiceFile>ch7_Blue_ep2_Tanya_4</VoiceFile>
-          <Content>The White Nights and Dark Days caused the Distortion phenomenon… which made the Pianist.</Content>
+          <Content>The White Nights and Dark Days ทำให้เกิดปรากฎการณ์บิดเบือน… ซึ่งสร้างนักเปียโนขึ้นมา</Content>
         </Dialog>
         <Dialog ID="101" Model="정장 엘레나">
           <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_9</VoiceFile>
-          <Content>And you, แองเจล่า, are responsible for the White Nights and Dark Days.</Content>
+          <Content>และเธอ แองเจล่า นั้นต้องรับผิดชอบสำหรับ White Nights and Dark Days.</Content>
         </Dialog>
         <Dialog ID="102" Model="정장 필립">
           <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_Phillip_3</VoiceFile>
-          <Content>The relation couldn’t be any clearer.</Content>
+          <Content>เกี่ยวข้องชัดกว่านี้ไม่มีอีกแล้ว</Content>
         </Dialog>
         <Dialog ID="103" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_Eilin_3</VoiceFile>
-          <Content>Poor Miss Angela… How can you be still so blind to the truth…</Content>
+          <Content>คุณแองเจล่าผู้น่าสงสาร… เธอยังมืดบอดต่อความจริงได้อย่างไร…</Content>
         </Dialog>
         <Dialog ID="104" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -2329,25 +2329,25 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_15</VoiceFile>
-          <Content>…Cut it out.</Content>
+          <Content>…เงียบไปเลย</Content>
         </Dialog>
         <Dialog ID="106" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_7</VoiceFile>
-          <Content>You’re being calmer than I expected this time. Rather than, you know, throwing a furious fit.</Content>
+          <Content>คราวนี้คุณใจเย็นกว่าที่ผมคาดไว้ แทนที่จะ รู้ไหม อาละวาดไปทั่วน่ะ</Content>
         </Dialog>
         <Dialog ID="107" Model="정장 타냐">
           <Teller>Tanya</Teller>
           <Title>L’heure du Loup</Title>
           <VoiceFile>ch7_Blue_ep2_Tanya_5</VoiceFile>
-          <Content>That rabid psycho whopped a whole lotta Syndicates and Offices that were running experiments which seemed even a tiny bit suspicious.</Content>
+          <Content>ไอ้บ้าจิตป่วยนั่นถล่มซินดิเคทและออฟฟิศที่ทำการทดลองไม่ว่าจะน่าสงสัยเล็กน้อยเท่าไหร่ไปเพียบ</Content>
         </Dialog>
         <Dialog ID="108" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_Eilin_4</VoiceFile>
-          <Content>And his blind rampage… affected us as well.</Content>
+          <Content>และการอาอะวาดไม่เลือกหน้านั่น… โดนพวกเราทุกคน</Content>
         </Dialog>
         <Dialog ID="109" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
@@ -2359,163 +2359,163 @@
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_8</VoiceFile>
-          <Content>โรแลนด์. I don’t expect you to remember us.</Content>
+          <Content>โรแลนด์ ผมไม่คิดว่าคุณจะจำเราได้</Content>
         </Dialog>
         <Dialog ID="111" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_9</VoiceFile>
-          <Content>All I wanted… was to bring back my son, who had died in an unfortunate incident.</Content>
+          <Content>ที่ผมต้องการ… คือการนำลูกชายของผมที่ตายในอุบัติเหตุกลับมา</Content>
         </Dialog>
         <Dialog ID="112" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_10</VoiceFile>
-          <Content>There was no way for me to have anything to do with the death of your wife.</Content>
+          <Content>มันไม่มีทางที่ผมจะเกี่ยวข้องอะไรกับการตายของภรรยาคุณเลย</Content>
         </Dialog>
         <Dialog ID="113" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_11</VoiceFile>
-          <Content>I explained it all to you, and yet… You killed my son in cold blood, in that workroom.</Content>
+          <Content>ผมอธิบายให้คุณหมดเปลือก แต่ก็แล้ว… คุณก็ฆ่าลูกชายผมอย่างเลือดเย็น ให้ห้องทำงานนั้น</Content>
         </Dialog>
         <Dialog ID="114" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_12</VoiceFile>
-          <Content>You were such a merciless being.</Content>
+          <Content>คุณมันเป็นสิ่งมีชีวิตไร้ปราณี</Content>
         </Dialog>
         <Dialog ID="115" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_17</VoiceFile>
-          <Content>…Right. It was the place with a terrible stench…</Content>
+          <Content>…จำได้ มันเป็นที่ที่กลิ่นเหม็นสาบมาก…</Content>
         </Dialog>
         <Dialog ID="116" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_13</VoiceFile>
-          <Content>This was unexpected. You actually remembered it.</Content>
+          <Content>คาดไม่ถึงแฮะ คุณจำมันได้ด้วย</Content>
         </Dialog>
         <Dialog ID="117" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_18</VoiceFile>
-          <Content>Looking at that puppet… I can’t help but be reminded of it. I guess you got more skillful since then, even though your disgusting method hasn’t changed one bit…</Content>
+          <Content>พอดูหุ่นเชิดนั่นแล้ว… ผมก็หยุดนึกถึงมันไม่ได้ เดาว่าแกมีฝีมือมากขึ้นกว่าเมื่อก่อนเลย ถึงแม้วิธีการที่น่ารังเกียจของแกจะไม่เปลื่ยนไปก็ตาม…</Content>
         </Dialog>
         <Dialog ID="118" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_14</VoiceFile>
-          <Content>…No Singularity could save my son when he was found. He was in an abysmal state.</Content>
+          <Content>…ไม่มีซิงกุลาริตี้ใดช่วยลูกชายผมได้ตอนที่เจอตัว เขาอยู่ในสภาพย่ำแย่มาก</Content>
         </Dialog>
         <Dialog ID="119" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_15</VoiceFile>
-          <Content>He was playing in a spot that was out of my sight… when he unfortunately got in the way of a road roller which was making way for gentrification in a Backstreets redevelopment site.</Content>
+          <Content>เขากำลังเล่นในจุดนอกสายตาผม… ตอนที่เขาโชคร้ายวิ่งตัดหน้ารถบดถนนตอนที่กำลังทำทางสำหรับตัดแบ่งทำเขตพัฒนาแบ็คสตรีทใหม่</Content>
         </Dialog>
         <Dialog ID="120" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_16</VoiceFile>
-          <Content>I shouldn’t have been at work that day. But I still wanted to undo what happened… even if it cost everything I had…</Content>
+          <Content>ผมไม่ควรออกไปทำงานวันนั้น แต่ผมก็อยากจะย้อนคืนในสิ่งที่เกิด… ถึงแม้มันจะแลกมากับทุกอย่างที่ผมมี…</Content>
         </Dialog>
         <Dialog ID="121" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_17</VoiceFile>
-          <Content>What’s more… The revival of my son was nearly complete.</Content>
+          <Content>ยิ่งไปกว่านั้น… การชุบชีวิตลูกชายผมก็ใกล้เสร็จสมบูรณ์แล้ว</Content>
         </Dialog>
         <Dialog ID="122" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_18</VoiceFile>
-          <Content>But then you had to intervene moments before our touching reunion, and ruin it all.</Content>
+          <Content>แต่แกก็ต้องมาขวางก่อนที่เราจะได้พบกันอีกครั้ง และทำมันพังไปหมด</Content>
         </Dialog>
         <Dialog ID="123" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_19</VoiceFile>
-          <Content>…You still insist that thing was your son.</Content>
+          <Content>…แกยังดื้อดึงว่านั่นเป็นลูกของแกอีก</Content>
         </Dialog>
         <Dialog ID="124" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_20</VoiceFile>
-          <Content>All it was, was an abomination made with the flesh of random people weaved together.</Content>
+          <Content>สิ่งที่มันเป็น คือตัวประหลาดทำจากเนื้อหนังของคนอื่นเย็บด้วยกัน</Content>
         </Dialog>
         <Dialog ID="125" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_19</VoiceFile>
-          <Content>You don’t get to decide the worth of my method. Or the ways of anyone else here for that matter.</Content>
+          <Content>แกไม่มีสิทธิ์มาตัดสินคุณค่าวิธีของผม หรือวิธีของใครอื่นที่นี่ด้วย</Content>
         </Dialog>
         <Dialog ID="126" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_20</VoiceFile>
-          <Content>I… never did any harm to you.</Content>
+          <Content>ผม… ไม่ได้ทำร้ายคุณเลย</Content>
         </Dialog>
         <Dialog ID="127" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_21</VoiceFile>
-          <Content>The worst thing I did was use the bodies of children who’d already gone astray and lost their lives during the night.</Content>
+          <Content>เลวร้ายที่สุดที่ผมทำคือการใช้ศพเด็กที่หลงทางและตายไปแล้วในยามค่ำ</Content>
         </Dialog>
         <Dialog ID="128" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_22</VoiceFile>
-          <Content>Even so, if the parents of those kids wanted to hold me accountable… I was ready to accept their judgement.</Content>
+          <Content>ยิ่งไปกว่านั้น ถ้าพ่อแม่ของเด็กคนนั้นอยากให้ผมรับผิด… ผมก็พร้อมรับคำตัดสินจากพวกเขา</Content>
         </Dialog>
         <Dialog ID="129" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_23</VoiceFile>
-          <Content>…Not yours, โรแลนด์!</Content>
+          <Content>…ไม่ใช่จากแก โรแลนด์!</Content>
         </Dialog>
         <Dialog ID="130" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_24</VoiceFile>
-          <Content>You had no right to kill my son who was just about to be given new life, or judge me for my actions!</Content>
+          <Content>แกไม่มีสิทธิ์ฆ่าลูกชายกูที่ใกล้จะได้ชีวิตใหม่ หรือตัดสินกุจากการกระทำของกู!</Content>
         </Dialog>
         <Dialog ID="131" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_25</VoiceFile>
-          <Content>That day, staring at the fire which engulfed all I had, I swore to myself…</Content>
+          <Content>วันนั้น ที่กูจ้องไปยังกองเพลิงซึ่งกลืนทุกอย่างที่กูมี กูสาบานไว้กับตัว…</Content>
         </Dialog>
         <Dialog ID="132" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_26</VoiceFile>
-          <Content>That I’d do everything… to make you suffer the same. And to make this damned world suffer as well.</Content>
+          <Content>ว่ากูจะทำทุกอย่าง… ให้แกโดนแบบเดียวกัน และเพื่อให้โลกเวรนี้ทรมานเช่นกัน</Content>
         </Dialog>
         <Dialog ID="133" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_27</VoiceFile>
-          <Content>There was no justification for a maniac who was lashing out at blameless people to kill my son…</Content>
+          <Content>มันไม่มีเหตุผลใดๆ สำหรับคนวิกลจริตที่ไล่ระบายใส่คนไร้ความผิดไปทั่วมาฆ่าลูกกู…</Content>
         </Dialog>
         <Dialog ID="134" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_28</VoiceFile>
-          <Content>Then I came across another chance. I could awaken to this power…</Content>
+          <Content>จากนั้นผมได้พบกับโอกาสที่สอง ผมสามารถปลุกพลังนี้ได้…</Content>
         </Dialog>
         <Dialog ID="135" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_29</VoiceFile>
-          <Content>But I was confused, and lost my way for a good while. My head was brimming with all kinds of thoughts.</Content>
+          <Content>แต่ผมสับสน และหลงทางไปชั่วครู่ หัวของผมนั้นเปี่ยมไปด้วยความคิดทุกรูปแบบ</Content>
         </Dialog>
         <Dialog ID="136" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_30</VoiceFile>
-          <Content>That was when the orchestrator here reached out to me, and led me to this exact moment.</Content>
+          <Content>นั่นคือตอนเมื่อนัก orchestrator คนนี้เอื้อมมือมาหาผม และนำผมมาถึงตรงนี้ได้</Content>
         </Dialog>
         <Dialog ID="137" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
@@ -2527,37 +2527,37 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_22</VoiceFile>
-          <Content>Whatever you’d gone through…</Content>
+          <Content>ไม่ว่ามึงจะผ่านอะไรมา…</Content>
         </Dialog>
         <Dialog ID="139" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_23</VoiceFile>
-          <Content>You shouldn’t have fucked with my wife!!!</Content>
+          <Content>มึงก็ไม่ควรมายุ่งกับเมียของกู!!!</Content>
         </Dialog>
         <Dialog ID="140" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_24</VoiceFile>
-          <Content>It doesn’t matter what kind of miserable past you have anymore…</Content>
+          <Content>มันไม่สำคัญอีกแล้วว่ามึงมีอดีตน่าสงสารแบบไหน…</Content>
         </Dialog>
         <Dialog ID="141" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_25</VoiceFile>
-          <Content>I don’t even care if I was the reason for your suffering…</Content>
+          <Content>กูไม่สนด้วยซ้ำว่ากูเป็นต้นเหตุความทรมานของมึง…</Content>
         </Dialog>
         <Dialog ID="142" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_26</VoiceFile>
-          <Content>But you… YOU!!!</Content>
+          <Content>แต่มึง… มึง!!!</Content>
         </Dialog>
         <Dialog ID="143" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_10</VoiceFile>
-          <Content>โรแลนด์. Calm down.</Content>
+          <Content>โรแลนด์ ใจเย็นก่อน</Content>
         </Dialog>
         <Dialog ID="144" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
@@ -2569,19 +2569,19 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_11</VoiceFile>
-          <Content>What’s the matter? This isn’t like you.</Content>
+          <Content>เป็นอะไรไป? นี่ไม่ใช่นายเลย</Content>
         </Dialog>
         <Dialog ID="146" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_28</VoiceFile>
-          <Content>Not like me, huh…?</Content>
+          <Content>ไม่ใช่กูเหรอ…?</Content>
         </Dialog>
         <Dialog ID="147" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_29</VoiceFile>
-          <Content>You’ve got the wrong impression, then.</Content>
+          <Content>เธอคงเข้าใจผิดอยู่สิท่า</Content>
         </Dialog>
         <Dialog ID="148" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -2593,61 +2593,61 @@
           <Teller>อาร์กาเลีย</Teller>
           <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_33</VoiceFile>
-          <Content>Ahh… This is taking such an amusing turn.</Content>
+          <Content>อ่า… นี่ชักจะสนุกแล้วสิ</Content>
         </Dialog>
         <Dialog ID="150" Model="아르갈리아">
           <Teller>อาร์กาเลีย</Teller>
           <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_34</VoiceFile>
-          <Content>Don’t get me wrong, แองเจล่า.</Content>
+          <Content>อย่าเข้าใจผมผิดไปนะ แองเจล่า</Content>
         </Dialog>
         <Dialog ID="151" Model="아르갈리아">
           <Teller>อาร์กาเลีย</Teller>
           <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_35</VoiceFile>
-          <Content>I’m not here to get my revenge like that man with a heart of coal is.</Content>
+          <Content>ผมไม่ได้มาล้างแค้นเหมือนไอ้ชายใจถ่านหินนั่นหรอก</Content>
         </Dialog>
         <Dialog ID="152" Model="아르갈리아">
           <Teller>อาร์กาเลีย</Teller>
           <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_36</VoiceFile>
-          <Content>It’s the opposite, rather… I’m thankful for you, you see?</Content>
+          <Content>ตรงกันข้ามกันเลย… ผมขอขอบคุณเธอมาก รู้ไหม?</Content>
         </Dialog>
         <Dialog ID="153" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_Greta_5</VoiceFile>
-          <Content>You gave us the power to reach here, sister!!</Content>
+          <Content>เธอมอบพลังให้เรามาถึงจุดนี้ได้นะ น้องสาว!!</Content>
         </Dialog>
         <Dialog ID="154" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_Eilin_5</VoiceFile>
-          <Content>Thank you… for opening up a path through which we can reach salvation…</Content>
+          <Content>ขอบคุณ… สำหรับการเปิดทางให้เราสามารถ can reach salvation…</Content>
         </Dialog>
         <Dialog ID="155" Model="아르갈리아">
           <Teller>อาร์กาเลีย</Teller>
           <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_37</VoiceFile>
-          <Content>Here, we’ll take the light of the Library, and illuminate the City with beauty that exceeds the Pianist’s.</Content>
+          <Content>จากนี้ เราจะเอาแสงของหอสมุด และฉายใส่นครด้วยความงามที่เหนือกว่าของนักเปียโน</Content>
         </Dialog>
         <Dialog ID="156" Model="아르갈리아">
           <Teller>อาร์กาเลีย</Teller>
           <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_38</VoiceFile>
-          <Content>So that no one will ever be able to forget us!</Content>
+          <Content>เพื่อที่ไม่มีใครจะลืมเราได้อีก!</Content>
         </Dialog>
         <Dialog ID="157" Model="아르갈리아">
           <Teller>อาร์กาเลีย</Teller>
           <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_39</VoiceFile>
-          <Content>That’s why, Angela… you have my deepest gratitude.</Content>
+          <Content>นั่นล่ะทำไม แองเจล่า… ผมขอขอบคุณเธออย่างสุดซึ้ง</Content>
         </Dialog>
         <Dialog ID="158" Model="인형사">
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_31</VoiceFile>
-          <Content>Let me express my appreciation as well. I could shake him up as I desired thanks to your ignorance.</Content>
+          <Content>ให้ผมขอชมเชยคุณเช่นกัน ผมสามารถยั่วโมโหเขาตามที่ผมต้องการได้เพราะความเมินเฉยของคุณ</Content>
         </Dialog>
         <Dialog ID="159" Model="정장 오스왈드">
           <Teller>ออซวอลด์</Teller>
@@ -2665,7 +2665,7 @@
           <Teller>อาร์กาเลีย</Teller>
           <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_41</VoiceFile>
-          <Content>The song of this City is approaching its coda… And you have your stories to keep, don’t you?</Content>
+          <Content>บทเพลงของนครนี้ใกล้ถึงท่อนสุดท้ายแล้ว… และเธอเองก็มีเรื่องของเธอให้เก็บด้วย ไม่ใช่หรือ?</Content>
         </Dialog>
         <Dialog ID="162" Model="브레멘">
           <Teller>Bremen</Teller>
@@ -2680,25 +2680,25 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_13</VoiceFile>
-          <Content>…Roland.</Content>
+          <Content>…ดรแลนดื</Content>
         </Dialog>
         <Dialog ID="164" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_30</VoiceFile>
-          <Content>Don’t say a word.</Content>
+          <Content>อย่าพูดแม้แต่คำเดียว</Content>
         </Dialog>
         <Dialog ID="165" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_31</VoiceFile>
-          <Content>We still have a common goal of stopping Argalia…</Content>
+          <Content>เรายังมีเป้าหมายรวมในการหยุดอาร์กาเลีย…</Content>
         </Dialog>
         <Dialog ID="166" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_14</VoiceFile>
-          <Content>…Okay.</Content>
+          <Content>…โอเค</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -2937,11 +2937,11 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Yesod vs. Eileen</EpisodeName>
+      <EpisodeName>Yesod vs. อีลีน</EpisodeName>
       <Place>
         <PlaceName>Location: The Library - Floor of Technological Sciences</PlaceName>
         <Dialog ID="0" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_1</VoiceFile>
           <Content>I can hear the sound of gears turning in this place.</Content>
@@ -2953,13 +2953,13 @@
           <Content>Greetings.</Content>
         </Dialog>
         <Dialog ID="2" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_2</VoiceFile>
-          <Content>Hello. My name is Eileen.</Content>
+          <Content>Hello. My name is อีลีน.</Content>
         </Dialog>
         <Dialog ID="3" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_3</VoiceFile>
           <Content>Let us greet them, everyone.</Content>
@@ -2971,13 +2971,13 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="5" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_4</VoiceFile>
           <Content>The sound made by the gears of this place isn’t so graceful.</Content>
         </Dialog>
         <Dialog ID="6" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_5</VoiceFile>
           <Content>However, all sound that intermeshed gears produce is a pleasure to hear nonetheless.</Content>
@@ -2995,19 +2995,19 @@
           <Content>Some of the gears on our floor don’t quite mesh well together, which can produce a loud noise.</Content>
         </Dialog>
         <Dialog ID="9" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_6</VoiceFile>
           <Content>To me, the gears here don’t sound so happy.</Content>
         </Dialog>
         <Dialog ID="10" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_7</VoiceFile>
           <Content>Ahh… And yet, their beautiful collaborative struggle to transmit a larger force…</Content>
         </Dialog>
         <Dialog ID="11" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_8</VoiceFile>
           <Content>Can I… think of you to be a similar being as us?</Content>
@@ -3019,19 +3019,19 @@
           <Content>I doubt that. I do not quite understand how the gears that rotate here can be likened to yours.</Content>
         </Dialog>
         <Dialog ID="13" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_9</VoiceFile>
           <Content>That is because you’re denying the gears.</Content>
         </Dialog>
         <Dialog ID="14" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_10</VoiceFile>
           <Content>One must admit that they’re but a cogwheel, and rotate according to their purpose.</Content>
         </Dialog>
         <Dialog ID="15" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_11</VoiceFile>
           <Content>I can help you with that.</Content>
@@ -3043,13 +3043,13 @@
           <Content>With due respect miss, I decline. I have already found my purpose, and am running fine.</Content>
         </Dialog>
         <Dialog ID="17" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_12</VoiceFile>
           <Content>It’s not right for one to spin alone.</Content>
         </Dialog>
         <Dialog ID="18" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_13</VoiceFile>
           <Content>As my father led me to my savior as a gear… You can become a genuine gear, and rotate according to his purpose.</Content>
@@ -3067,37 +3067,37 @@
           <Content>I am not like you, who followed your gears.</Content>
         </Dialog>
         <Dialog ID="21" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_14</VoiceFile>
           <Content>Yet your expression tells me that you haven’t found an answer.</Content>
         </Dialog>
         <Dialog ID="22" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_15</VoiceFile>
           <Content>You are making a sorrowful face. You’re in pain… You must’ve suffered just like I have.</Content>
         </Dialog>
         <Dialog ID="23" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_16</VoiceFile>
           <Content>Had you become a gear and rolled along, you would’ve been filled with bliss, rather than pain…</Content>
         </Dialog>
         <Dialog ID="24" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_17</VoiceFile>
           <Content>Why won’t you see? You are no different from us.</Content>
         </Dialog>
         <Dialog ID="25" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_18</VoiceFile>
           <Content>Cease your suffering, and accept the gear.</Content>
         </Dialog>
         <Dialog ID="26" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_19</VoiceFile>
           <Content>Walk the path of the gears.</Content>
@@ -3127,43 +3127,43 @@
           <Content>If I let my emotions blur my rational judgement, I won’t be able to act with discretion and distinction.</Content>
         </Dialog>
         <Dialog ID="31" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_20</VoiceFile>
           <Content>Just look at us. Don’t we look so blissful?</Content>
         </Dialog>
         <Dialog ID="32" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_21</VoiceFile>
           <Content>A gear with a purpose is content, for its rotation has meaning.</Content>
         </Dialog>
         <Dialog ID="33" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_22</VoiceFile>
           <Content>Humans are cogs in the machination that is the City. Someone has to make those cogs turn.</Content>
         </Dialog>
         <Dialog ID="34" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_23</VoiceFile>
           <Content>That way, the City can run correctly.</Content>
         </Dialog>
         <Dialog ID="35" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_24</VoiceFile>
           <Content>He is guiding us to take the right path.</Content>
         </Dialog>
         <Dialog ID="36" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_25</VoiceFile>
           <Content>For us, who are incapable of doing anything on our own.</Content>
         </Dialog>
         <Dialog ID="37" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_26</VoiceFile>
           <Content>Praise be to อาร์กาเลีย!!</Content>
@@ -3175,7 +3175,7 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="39" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_27</VoiceFile>
           <Content>It’s not too late. This might be your last chance.</Content>
@@ -3193,25 +3193,25 @@
           <Content>I didn’t take this journey only to become a gear.</Content>
         </Dialog>
         <Dialog ID="42" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_28</VoiceFile>
           <Content>It’s so disheartening to hear that. I know that many gears were wasted in this place.</Content>
         </Dialog>
         <Dialog ID="43" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_29</VoiceFile>
           <Content>You’re going through such hardship.</Content>
         </Dialog>
         <Dialog ID="44" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_30</VoiceFile>
           <Content>You deny the gears, and you know that you’ve robbed many gears of the opportunity to cycle the right way…</Content>
         </Dialog>
         <Dialog ID="45" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_31</VoiceFile>
           <Content>But it’s alright. We shall arduously turn to make up for those that were lost.</Content>
@@ -3241,7 +3241,7 @@
           <Content>However, I wouldn’t have started this if I was going to let that sentiment dominate me.</Content>
         </Dialog>
         <Dialog ID="50" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_32</VoiceFile>
           <Content>I see. They were gears that could no longer rotate justly.</Content>
@@ -3253,19 +3253,19 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="52" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_33</VoiceFile>
           <Content>I was so certain that we were kindred components…</Content>
         </Dialog>
         <Dialog ID="53" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_34</VoiceFile>
           <Content>Yet you’re insistent on renouncing the gears.</Content>
         </Dialog>
         <Dialog ID="54" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_35</VoiceFile>
           <Content>Please know this. You can’t rotate to the goal alone. You’ll break down someday.</Content>
@@ -3289,13 +3289,13 @@
           <Content>Let this be a fair battle.</Content>
         </Dialog>
         <Dialog ID="58" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_36</VoiceFile>
           <Content>If that is what you wish…</Content>
         </Dialog>
         <Dialog ID="59" Model="에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>Church of Gears Leader</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_37</VoiceFile>
           <Content>Fellow gears… Let us prepare.</Content>
@@ -6935,13 +6935,13 @@ are brushed by the wind.</Content>
       <Place>
         <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="D_에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Eilin_1</VoiceFile>
           <Content>…What’s this? I thought I passed away…</Content>
         </Dialog>
         <Dialog ID="1" Model="D_에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Eilin_2</VoiceFile>
           <Content>I can remember… turning into a book…</Content>
@@ -7043,19 +7043,19 @@ are brushed by the wind.</Content>
           <Content>This is the moment I’ve been waiting for… I was born for this moment!</Content>
         </Dialog>
         <Dialog ID="18" Model="D_에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Eilin_3</VoiceFile>
           <Content>A warm echo unlike what I’d heard… it pervades me…</Content>
         </Dialog>
         <Dialog ID="19" Model="D_에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Eilin_4</VoiceFile>
           <Content>I can hear a sound that’s much closer to my heart. I can hear the motion of the City…!</Content>
         </Dialog>
         <Dialog ID="20" Model="D_에일린">
-          <Teller>Eileen</Teller>
+          <Teller>อีลีน</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Eilin_5</VoiceFile>
           <Content>Yes… It’s that light! I won’t miss this final opportunity given to me…</Content>
