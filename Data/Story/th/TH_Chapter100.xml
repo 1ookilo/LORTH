@@ -3116,13 +3116,13 @@
           <Content>Hod and the Training Team, provide the employees with the right manual and information!</Content>
         </Dialog>
         <Dialog ID="68" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Yesod_ep3_hod1</VoiceFile>
           <Content>Attention to all employees! This is a type-X emergency protocol.</Content>
         </Dialog>
         <Dialog ID="69" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Yesod_ep3_hod2</VoiceFile>
           <Content>Please act accordingly to the following instructions!</Content>
@@ -4465,168 +4465,168 @@ I appreciate your help, everyone.</Content>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: The Library - Floor of Literature</PlaceName>
+        <PlaceName>สถานที่: ห้องสมุด - ชั้นวรรณกรรม</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland1</VoiceFile>
-          <Content>Literature, huh… This has got to be the most unfitting category for the City.</Content>
+          <Content>วรรณกรรมๆ อืมม์… หมวดนี้คงไม่เหมาะกับเมืองนี้ที่สุดแล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="1" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod1</VoiceFile>
-          <Content>Hello. I’m Hod, in charge of the Floor of Literature.</Content>
+          <Content>สวัสดี ฉันโฮดเป็นบรรณารักษ์รับผิดชอบชั้นนี้ค่ะ</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland2</VoiceFile>
-          <Content>Hey. I’m Roland, helper of Angela in several ways.</Content>
+          <Content>หวัดดี ฉันโรแลนด์ผู้ช่วยรอบด้านของแองเจล่าเองจ้า</Content>
         </Dialog>
         <Dialog ID="3" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod2</VoiceFile>
-          <Content>…I see.</Content>
+          <Content>…อย่างนั้นหรอค่ะ</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland3</VoiceFile>
-          <Content>Don’t tell me, do you also happen to hold some sort of grudge against Angela?</Content>
+          <Content>อย่าบอกนะว่า เธอเองก็มีเรื่องที่ไม่พอใจกับแองเจล่าด้วยอีกคน?</Content>
         </Dialog>
         <Dialog ID="5" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod3</VoiceFile>
-          <Content>…I’m not at all friendly toward her, that’s for certain.</Content>
+          <Content>…แน่นอนว่า ฉันไม่ค่อยเป็นมิตรกับเธอสักเท่าไหร่</Content>
         </Dialog>
         <Dialog ID="6" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod4</VoiceFile>
-          <Content>But we made a deal with her, so we’re obliged to help her without complaint.</Content>
+          <Content>แต่เราก็ได้ทำข้อตกลงกับเธอแล้ว ดังนั้นเราต้องช่วยเธอโดยไม่ปริปากบ่น</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland4</VoiceFile>
-          <Content>Oh boy, future ain’t looking too bright. Everyone’s got a problem with Angela.</Content>
+          <Content>โอ้เฮ้ย ดูท่าจะเป็นอนาคตที่มืดมัวจังแฮะ ทุกคนล้วนแต่มีปัญหากับแองเจล่ากันหมดเลย</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland5</VoiceFile>
-          <Content>What the heck did she do to deserve this reputation?</Content>
+          <Content>เธอไปทำบ้าอะไรไว้เนี้ย ถึงได้รับความนิยมแบบนี้กันนะ?</Content>
         </Dialog>
         <Dialog ID="9" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod5</VoiceFile>
-          <Content>…She’s done something unforgivable. Just like I did in the past.</Content>
+          <Content>…เธอทำสิ่งที่ไม่สามารถให้อภัยได้ เหมือนกับตัวฉันในอดีตน่ะ</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland6</VoiceFile>
-          <Content>I still don’t know a whole lot about this place, but I can see one thing:</Content>
+          <Content>ฉันยังไม่รู้อะไรมากเกี่ยวกับที่นี่นะ แต่ที่ฉันเห็นอย่างหนึ่งคือ:</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland7</VoiceFile>
-          <Content>Something’s terribly messed up with the Library and its staff.</Content>
+          <Content>มีบางอย่างที่ยุ่งเหยิงมากๆเกี่ยวกับ ห้องสมุดและเหล่าบรรณารักษ์ของที่นี่</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland8</VoiceFile>
-          <Content>Can all of this even be resolved at some point?</Content>
+          <Content>ปัญหาทั้งหมดเนี้ยพอจะมีวิธีแก้ไขบ้างไหม?</Content>
         </Dialog>
         <Dialog ID="13" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod6</VoiceFile>
-          <Content>I can’t answer that for sure, but you’ll get to see the result.</Content>
+          <Content>ฉันตอบคำถามนั้นไม่ได้หรอก แต่นายจะได้เห็นผลลัพธ์ของมันเอง</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod7</VoiceFile>
-          <Content>After all, there is a clear end to this deal.</Content>
+          <Content>ท้ายที่สุดแล้ว มีคำตอบที่ชัดเจนของข้อตกลงนี้รออยู่</Content>
         </Dialog>
         <Dialog ID="15" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod8</VoiceFile>
-          <Content>If you follow Angela along her journey to the end, you will find out.</Content>
+          <Content>หากนายตามแองเจล่าไปจนสุดทาง นายก็จะค้นพบคำตอบ</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland9</VoiceFile>
-          <Content>This is frustrating already.</Content>
+          <Content>เริ่มหงุดหงิดแล้วแฮะ</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland10</VoiceFile>
-          <Content>I have guests to receive, and librarians to take care of…</Content>
+          <Content>ฉันมีแขกที่ต้องไปต้อนรับ และมีบรรณารักษ์ที่ต้องดูแลอีก…</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland11</VoiceFile>
-          <Content>Can’t we all be good friends in the Library, at least?</Content>
+          <Content>อย่างน้อยๆ ก็อยากให้ทุกคนในห้องสมุด เข้ากันได้ดีหน่อยไม่ได้หรอ?</Content>
         </Dialog>
         <Dialog ID="19" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod9</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="20" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod10</VoiceFile>
-          <Content>Among the books you bring, I will be sorting those about the literature of the City.</Content>
+          <Content>ในบรรดาหนังสือที่นายได้มา ฉันจะเรียงหนังสือเกี่ยวกับ วรรณกรรมของเมืองเองนะ</Content>
         </Dialog>
         <Dialog ID="21" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod11</VoiceFile>
-          <Content>As we collect more books, you might be able to find answers to your questions, whether you like it or not.</Content>
+          <Content>เมื่อเรารวบรวมหนังสือได้มากขึ้น นายอาจพบคำตอบของนายได้เอง ไม่ว่านายจะชอบมันหรือไม่ก็ตาม</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland12</VoiceFile>
-          <Content>Gahhhh!!</Content>
+          <Content>เฮ้ออออ!!</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland13</VoiceFile>
-          <Content>I’m finally starting to get why Angela hates roundabout speech so much.</Content>
+          <Content>ฉันเริ่มเข้าใจแล้วว่า ทำไมแองเจล่าถึงเกลียดการพูดจา วกวนแบบนี้มากๆ</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland14</VoiceFile>
-          <Content>Alright, fine. I’m gonna dig into the bottom of this mystery now that I’ve gotten into this mess!</Content>
+          <Content>โอเคก็ได้ ฉันจะขุดลึกลงไปถึงก้นบึ้งของความลับนี้เอง ในเมื่อฉันได้เข้ามาอยู่กับความยุ่งเหยิงนี้ไปแล้ว!</Content>
         </Dialog>
         <Dialog ID="25" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod12</VoiceFile>
-          <Content>Good luck, Mister Roland.</Content>
+          <Content>โชคดีนะค่ะ คุณโรแลนด์</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland15</VoiceFile>
-          <Content>Why, thanks for your supportive words, Miss Hod~</Content>
+          <Content>ยินดีน้อมรับคำสนับสนุนนะครับ คุณโฮด~</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -4641,8 +4641,8 @@ I appreciate your help, everyone.</Content>
           <Content>Alright, here’s the books you asked for~</Content>
         </Dialog>
         <Dialog ID="1" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod1</VoiceFile>
           <Content>Thanks, Mister Roland.</Content>
         </Dialog>
@@ -4653,8 +4653,8 @@ I appreciate your help, everyone.</Content>
           <Content>No need to be so courteous. You can drop the “Mister” and just call me Roland.</Content>
         </Dialog>
         <Dialog ID="3" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod2</VoiceFile>
           <Content>Can I? Roland.</Content>
         </Dialog>
@@ -4665,8 +4665,8 @@ I appreciate your help, everyone.</Content>
           <Content>Much better.</Content>
         </Dialog>
         <Dialog ID="5" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod3</VoiceFile>
           <Content>It feels kinda awkward to speak like this right away.</Content>
         </Dialog>
@@ -4683,26 +4683,26 @@ I appreciate your help, everyone.</Content>
           <Content>I’m not sure if the City has anything worth being called literature.</Content>
         </Dialog>
         <Dialog ID="8" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod4</VoiceFile>
           <Content>It seems like each person’s life counts as a work of literature.</Content>
         </Dialog>
         <Dialog ID="9" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod5</VoiceFile>
           <Content>The story of one’s life is written out like a book of its own.</Content>
         </Dialog>
         <Dialog ID="10" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod6</VoiceFile>
           <Content>And in that story, comedy and tragedy intertwine in a complex way.</Content>
         </Dialog>
         <Dialog ID="11" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod7</VoiceFile>
           <Content>It’s hard to define anyone as pure evil, or pure good for that matter.</Content>
         </Dialog>
@@ -4713,32 +4713,32 @@ I appreciate your help, everyone.</Content>
           <Content>Everyone has their own personal affairs.</Content>
         </Dialog>
         <Dialog ID="13" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod8</VoiceFile>
           <Content>That’s why I’m wondering if it’s really okay to blindly hate someone…</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod9</VoiceFile>
           <Content>The Fixers from the Streetlight Office were like a happy family, but we killed them just to get their books…</Content>
         </Dialog>
         <Dialog ID="15" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod10</VoiceFile>
           <Content>I understand that it was their choice to come here…</Content>
         </Dialog>
         <Dialog ID="16" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod11</VoiceFile>
           <Content>And we have our own goal to achieve, but still…</Content>
         </Dialog>
         <Dialog ID="17" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod12</VoiceFile>
           <Content>Haha, it feels like I’m just making excuses for myself.</Content>
         </Dialog>
@@ -4779,8 +4779,8 @@ I appreciate your help, everyone.</Content>
           <Content>It’s much easier that way…</Content>
         </Dialog>
         <Dialog ID="24" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod13</VoiceFile>
           <Content>That’s your advice as a seasoned Fixer, Roland?</Content>
         </Dialog>
@@ -4809,8 +4809,8 @@ I appreciate your help, everyone.</Content>
           <Content>We don’t live in a world that can embrace everyone’s private matters.</Content>
         </Dialog>
         <Dialog ID="29" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod14</VoiceFile>
           <Content>Sounds like you’ve come to terms with reality.</Content>
         </Dialog>
@@ -4827,14 +4827,14 @@ I appreciate your help, everyone.</Content>
           <Content>It surely was an easy and comfy way to live, all things considered. Just go with the flow, wherever it may lead.</Content>
         </Dialog>
         <Dialog ID="32" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod15</VoiceFile>
           <Content>Thanks for the advice. I might need to think about this topic a little more.</Content>
         </Dialog>
         <Dialog ID="33" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod16</VoiceFile>
           <Content>But…</Content>
         </Dialog>
@@ -4845,8 +4845,8 @@ I appreciate your help, everyone.</Content>
           <Content>But?</Content>
         </Dialog>
         <Dialog ID="35" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod17</VoiceFile>
           <Content>The phrase you mentioned might give you comfort for a short while, but it doesn’t sound like a motto that will redeem your life.</Content>
         </Dialog>
@@ -4881,8 +4881,8 @@ I appreciate your help, everyone.</Content>
           <Content>Hello, hello~ Got some fresh books for you!</Content>
         </Dialog>
         <Dialog ID="1" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod1</VoiceFile>
           <Content>Hi, Roland. You’re working hard as always.</Content>
         </Dialog>
@@ -4893,8 +4893,8 @@ I appreciate your help, everyone.</Content>
           <Content>You tell me. If only our Miss Head Librarian could appreciate all this hard work with a huge reward or anything.</Content>
         </Dialog>
         <Dialog ID="3" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod2</VoiceFile>
           <Content>How are you doing with Angela by the way?</Content>
         </Dialog>
@@ -4905,8 +4905,8 @@ I appreciate your help, everyone.</Content>
           <Content>Eh, so-so I guess? She can be scary at times, but I can live with it.</Content>
         </Dialog>
         <Dialog ID="5" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod3</VoiceFile>
           <Content>Angela seemed to be the most comfortable when she was talking with you.</Content>
         </Dialog>
@@ -4917,20 +4917,20 @@ I appreciate your help, everyone.</Content>
           <Content>Really? To be fair, all the librarians I’ve met so far did seem to despise Angela.</Content>
         </Dialog>
         <Dialog ID="7" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod4</VoiceFile>
           <Content>You told me before about your motto of “That’s that, and this is this,” right?</Content>
         </Dialog>
         <Dialog ID="8" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod5</VoiceFile>
           <Content>I’ve been thinking, and I don’t think I can follow that.</Content>
         </Dialog>
         <Dialog ID="9" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod6</VoiceFile>
           <Content>I’d have to loathe Angela with all my being, but I just can’t get myself to bear any unconditional hatred towards her.</Content>
         </Dialog>
@@ -4947,20 +4947,20 @@ I appreciate your help, everyone.</Content>
           <Content>I’m guessing it’s because Angela has her fair share of tragic history and stuff?</Content>
         </Dialog>
         <Dialog ID="12" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod7</VoiceFile>
           <Content>That’s right. Everyone has their own stories. Even if someone is committing bad things right now…</Content>
         </Dialog>
         <Dialog ID="13" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod8</VoiceFile>
           <Content>I don’t want to judge them based on solely the snippets I see of them.</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod9</VoiceFile>
           <Content>So I try to understand them in depth.</Content>
         </Dialog>
@@ -4971,8 +4971,8 @@ I appreciate your help, everyone.</Content>
           <Content>Man, you’re an angel. I wish Yesod and Netzach were half as kind as you.</Content>
         </Dialog>
         <Dialog ID="16" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod10</VoiceFile>
           <Content>Do I look like a good person to you, Roland?</Content>
         </Dialog>
@@ -4983,8 +4983,8 @@ I appreciate your help, everyone.</Content>
           <Content>Hmm, dunno about that. “Kind” and “good” aren’t exactly one and the same.</Content>
         </Dialog>
         <Dialog ID="18" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod11</VoiceFile>
           <Content>Is that so? I wasn’t really a good person, you see.</Content>
         </Dialog>
@@ -4995,14 +4995,14 @@ I appreciate your help, everyone.</Content>
           <Content>Oh, is this about your first and second lives? I remember Malkuth talking about ‘em. </Content>
         </Dialog>
         <Dialog ID="20" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod12</VoiceFile>
           <Content>I see, that’s how Malkuth put it.</Content>
         </Dialog>
         <Dialog ID="21" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod13</VoiceFile>
           <Content>Yeah, you’re right. My first life was a tragic one.</Content>
         </Dialog>
@@ -5013,8 +5013,8 @@ I appreciate your help, everyone.</Content>
           <Content>That seems to be the case with everyone here. You were all doing research to “cure” humanity, right?</Content>
         </Dialog>
         <Dialog ID="23" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod14</VoiceFile>
           <Content>So many people were killed because of me…</Content>
         </Dialog>
@@ -5025,26 +5025,26 @@ I appreciate your help, everyone.</Content>
           <Content>Huh? You’re admittedly pretty good at fighting as a librarian, but you don’t smell like a serial killer or anything.</Content>
         </Dialog>
         <Dialog ID="25" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod15</VoiceFile>
           <Content>Do I? I still think I’m directly responsible for their deaths.</Content>
         </Dialog>
         <Dialog ID="26" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod16</VoiceFile>
           <Content>I snitched to the Head. About the experiments we were doing, and about the atrocious things we were committing.</Content>
         </Dialog>
         <Dialog ID="27" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod17</VoiceFile>
           <Content>They sent an Arbiter to the laboratory and killed so many of my colleagues.</Content>
         </Dialog>
         <Dialog ID="28" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod18</VoiceFile>
           <Content>When I heard the news, I couldn’t take it anymore, so I… took my own life.</Content>
         </Dialog>
@@ -5055,20 +5055,20 @@ I appreciate your help, everyone.</Content>
           <Content>What happened there…?</Content>
         </Dialog>
         <Dialog ID="30" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod19</VoiceFile>
           <Content>I had to watch as Malkuth, Yesod, and Netzach died horrible deaths in that laboratory.</Content>
         </Dialog>
         <Dialog ID="31" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod20</VoiceFile>
           <Content>And what happened to a young boy who participated in the experiment…</Content>
         </Dialog>
         <Dialog ID="32" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod21</VoiceFile>
           <Content>That’s not all. We injected people with drugs and recorded the changes and side effects they made…</Content>
         </Dialog>
@@ -5079,8 +5079,8 @@ I appreciate your help, everyone.</Content>
           <Content>Within the City?</Content>
         </Dialog>
         <Dialog ID="34" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod22</VoiceFile>
           <Content>No, the laboratory was in the Outskirts. To avoid the Head and its Eyes.</Content>
         </Dialog>
@@ -5091,8 +5091,8 @@ I appreciate your help, everyone.</Content>
           <Content>Hmm…</Content>
         </Dialog>
         <Dialog ID="36" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod23</VoiceFile>
           <Content>Now you can see that I’m not a good person at all, right?</Content>
         </Dialog>
@@ -5115,8 +5115,8 @@ I appreciate your help, everyone.</Content>
           <Content>This part doesn’t make sense… Are you really sure it was an Arbiter?</Content>
         </Dialog>
         <Dialog ID="40" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod24</VoiceFile>
           <Content>That’s what I heard… It matches what I learned in Lobotomy Corp. during my second life, too.</Content>
         </Dialog>
@@ -5127,8 +5127,8 @@ I appreciate your help, everyone.</Content>
           <Content>Hnngh. It’s still too hard for me to believe.</Content>
         </Dialog>
         <Dialog ID="42" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod25</VoiceFile>
           <Content>You’re pondering over odd things, Roland. I thought you’d lambast me for being a traitor.</Content>
         </Dialog>
@@ -5151,8 +5151,8 @@ I appreciate your help, everyone.</Content>
           <Content>Are you from one of the Nests, Hod?</Content>
         </Dialog>
         <Dialog ID="46" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod26</VoiceFile>
           <Content>Yeah. I was born in a Nest, and went to a school in a Nest.</Content>
         </Dialog>
@@ -5163,8 +5163,8 @@ I appreciate your help, everyone.</Content>
           <Content>And the other librarians are too?</Content>
         </Dialog>
         <Dialog ID="48" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod27</VoiceFile>
           <Content>Most of them are. There’s one from the Backstreets, and one from the Outskirts, but that’s about it.</Content>
         </Dialog>
@@ -5181,8 +5181,8 @@ I appreciate your help, everyone.</Content>
           <Content>And you all had the drive to leave behind the comfort of living in a Nest for a research facility in the Outskirts. That must’ve taken some determination. My bad for calling you a bunch of spineless snobs.</Content>
         </Dialog>
         <Dialog ID="51" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod28</VoiceFile>
           <Content>We were full of passion, too. Which I ended up betraying…</Content>
         </Dialog>
@@ -5193,20 +5193,20 @@ I appreciate your help, everyone.</Content>
           <Content>That means the reason you can’t blindly hate Angela was mostly an excuse for yourself?</Content>
         </Dialog>
         <Dialog ID="53" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod29</VoiceFile>
           <Content>I guess. I made a huge mistake once, but…</Content>
         </Dialog>
         <Dialog ID="54" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod30</VoiceFile>
           <Content>I wanna be better now. I want to become a better person. I’m sure everyone wants to.</Content>
         </Dialog>
         <Dialog ID="55" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod31</VoiceFile>
           <Content>At the same time, a part of my mind still can’t forgive Angela.</Content>
         </Dialog>
@@ -5244,7 +5244,7 @@ I appreciate your help, everyone.</Content>
           <Content>Hrk… And time is what matters to you most right now.</Content>
         </Dialog>
         <Dialog ID="61" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep3_hod32</VoiceFile>
           <Content>Our employees have sustained too much damage…</Content>
@@ -5337,8 +5337,8 @@ I appreciate your help, everyone.</Content>
       <Place>
         <PlaceName>Location: The Library - Floor of Literature</PlaceName>
         <Dialog ID="76" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod33</VoiceFile>
           <Content>Angela offered us a deal, and many of the Sephirot were against it.</Content>
         </Dialog>
@@ -5349,14 +5349,14 @@ I appreciate your help, everyone.</Content>
           <Content>Sephirot?</Content>
         </Dialog>
         <Dialog ID="78" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod34</VoiceFile>
           <Content>Oh, that’s what the librarians were called back in Lobotomy Corp.</Content>
         </Dialog>
         <Dialog ID="79" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod35</VoiceFile>
           <Content>The nine librarians sleeping on each floor, you know.</Content>
         </Dialog>
@@ -5367,8 +5367,8 @@ I appreciate your help, everyone.</Content>
           <Content>I see. Yeah, the ones I met didn’t seem too happy with this job. I guess that’s why you all hate Angela so much.</Content>
         </Dialog>
         <Dialog ID="81" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod36</VoiceFile>
           <Content>Me, Malkuth, Yesod, Netzach, and Hokma were the ones opposing her offer.</Content>
         </Dialog>
@@ -5379,8 +5379,8 @@ I appreciate your help, everyone.</Content>
           <Content>That means the other four approved it. Angela wasn’t completely alone, huh.</Content>
         </Dialog>
         <Dialog ID="83" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod37</VoiceFile>
           <Content>To be fair, they weren’t actively supporting it… It was more of a deferral.</Content>
         </Dialog>
@@ -5391,8 +5391,8 @@ I appreciate your help, everyone.</Content>
           <Content>One sec. Why were you against her offer if you thought she could eventually become a better being?</Content>
         </Dialog>
         <Dialog ID="85" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod38</VoiceFile>
           <Content>It’s silly, I know… Even in the middle of that, I was thinking I could repent for my sins with death.</Content>
         </Dialog>
@@ -5403,8 +5403,8 @@ I appreciate your help, everyone.</Content>
           <Content>Hold on, you what now?! You were supposed to die at the end of the plan Angela ruined?</Content>
         </Dialog>
         <Dialog ID="87" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod39</VoiceFile>
           <Content>Yep. The whole thing was meant to end with us shutting down, falling into an eternal slumber knowing that our long-desired wish was fulfilled.</Content>
         </Dialog>
@@ -5415,8 +5415,8 @@ I appreciate your help, everyone.</Content>
           <Content>Geez, you were all ready to really accept a morbid fate like that?</Content>
         </Dialog>
         <Dialog ID="89" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod40</VoiceFile>
           <Content>You’re always surprised over the oddest details, Roland. I thought you’d blame me for running away from my problems, even at the end.</Content>
         </Dialog>
@@ -5433,8 +5433,8 @@ I appreciate your help, everyone.</Content>
           <Content>So, in summary, you objected to Angela’s offer at first because you wanted to forfeit your own life as the last step of your atonement, but now that you had some time to think things over, you’re willing to give Angela a chance?</Content>
         </Dialog>
         <Dialog ID="92" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod41</VoiceFile>
           <Content>Yeah, that’s about right. It was a rather heavy topic for me, but you summed it up neatly.</Content>
         </Dialog>
@@ -5445,8 +5445,8 @@ I appreciate your help, everyone.</Content>
           <Content>Well, things are bound to seem lighter from an outsider’s perspective.</Content>
         </Dialog>
         <Dialog ID="94" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod42</VoiceFile>
           <Content>Thanks for listening anyways. It helped me sort through my thoughts, too.</Content>
         </Dialog>
@@ -5475,14 +5475,14 @@ I appreciate your help, everyone.</Content>
           <Content>And the librarians here seem calm and collected, just like you are, Hod.</Content>
         </Dialog>
         <Dialog ID="2" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod1 (2)</VoiceFile>
           <Content>Oh, hey Roland.</Content>
         </Dialog>
         <Dialog ID="3" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod2</VoiceFile>
           <Content>They may seem meek and quiet, but when they work, they work hard. I rely on them a lot.</Content>
         </Dialog>
@@ -5499,8 +5499,8 @@ I appreciate your help, everyone.</Content>
           <Content>What are you guys doing anyway, all gathered up here? Doesn’t seem like you’re sorting books.</Content>
         </Dialog>
         <Dialog ID="6" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod3 (2)</VoiceFile>
           <Content>We were having a meetup of our book discussion club. We pick a book that catches our attention, read it, and then talk about it.</Content>
         </Dialog>
@@ -5517,8 +5517,8 @@ I appreciate your help, everyone.</Content>
           <Content>I’m guessing your librarians are all gladly joining in with you then?</Content>
         </Dialog>
         <Dialog ID="9" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod4</VoiceFile>
           <Content>Yeah, they are. They’re helping me out with this more passionately than I expected.</Content>
         </Dialog>
@@ -5535,20 +5535,20 @@ I appreciate your help, everyone.</Content>
           <Content>Imagine if you asked Netzach to join. He’d have run away before the meetup could even start.</Content>
         </Dialog>
         <Dialog ID="12" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod5</VoiceFile>
           <Content>Hahaha. You’ve got that right, he totally would.</Content>
         </Dialog>
         <Dialog ID="13" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod6 (2)</VoiceFile>
           <Content>Still, I can tell things have changed from the past.</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod7 (2)</VoiceFile>
           <Content>I used to have similar meetups back in Lobotomy Corp, you see.</Content>
         </Dialog>
@@ -5559,32 +5559,32 @@ I appreciate your help, everyone.</Content>
           <Content>Really? I suppose those weren’t the peaceful book club meetings you have now.</Content>
         </Dialog>
         <Dialog ID="16" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod8 (2)</VoiceFile>
           <Content>You’re right. I ran a counseling program with my employees.</Content>
         </Dialog>
         <Dialog ID="17" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod9 (2)</VoiceFile>
           <Content>They were always living in fear of the Abnormalities if they were lucky enough to survive. I wanted to be of help somehow.</Content>
         </Dialog>
         <Dialog ID="18" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod10</VoiceFile>
           <Content>But back then, I imposed myself and my ideas on them too hard.</Content>
         </Dialog>
         <Dialog ID="19" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod11 (2)</VoiceFile>
           <Content>If the employees seemed ever so slightly uncomfortable with counseling, I’d beat myself up over it and let the wound fester inside of me.</Content>
         </Dialog>
         <Dialog ID="20" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod12 (2)</VoiceFile>
           <Content>I was upset that no one understood my goodwill.</Content>
         </Dialog>
@@ -5595,32 +5595,32 @@ I appreciate your help, everyone.</Content>
           <Content>Sorry to say this, but… Past you sounds like a tiring one to deal with.</Content>
         </Dialog>
         <Dialog ID="22" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod13</VoiceFile>
           <Content>…I know, right? I think so too.</Content>
         </Dialog>
         <Dialog ID="23" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod14 (2)</VoiceFile>
           <Content>All the things I did to help others weren’t really out of goodwill or anything.</Content>
         </Dialog>
         <Dialog ID="24" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod15 (2)</VoiceFile>
           <Content>I was just seeking consolation for myself.</Content>
         </Dialog>
         <Dialog ID="25" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod16 (2)</VoiceFile>
           <Content>I wanted forgiveness for the misdeed I committed in my first life.</Content>
         </Dialog>
         <Dialog ID="26" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod17 (2)</VoiceFile>
           <Content>By being helpful to others somehow.</Content>
         </Dialog>
@@ -5631,14 +5631,14 @@ I appreciate your help, everyone.</Content>
           <Content>So, did you get to be a helpful person?</Content>
         </Dialog>
         <Dialog ID="28" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod18</VoiceFile>
           <Content>No… There’s no way I’d actually be of any help with that kind of mindset.</Content>
         </Dialog>
         <Dialog ID="29" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod19</VoiceFile>
           <Content>I even tried Enkephalin.</Content>
         </Dialog>
@@ -5649,14 +5649,14 @@ I appreciate your help, everyone.</Content>
           <Content>Enkephalin, huh… The pressure must’ve been serious if you started doing drugs…</Content>
         </Dialog>
         <Dialog ID="31" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod20</VoiceFile>
           <Content>Despite everything I tried, I couldn’t find salvation anywhere.</Content>
         </Dialog>
         <Dialog ID="32" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod21 (2)</VoiceFile>
           <Content>Nothing I did could liberate me from the fact I was a bad person and a sinner.</Content>
         </Dialog>
@@ -5667,38 +5667,38 @@ I appreciate your help, everyone.</Content>
           <Content>And then you almost had the chance to take that weight off your mind, but Angela foiled that in the end?</Content>
         </Dialog>
         <Dialog ID="34" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod22</VoiceFile>
           <Content>Yeah, that’s how it went.</Content>
         </Dialog>
         <Dialog ID="35" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod23 (2)</VoiceFile>
           <Content>Even when Angela was standing in our way, I was only thinking about myself. Selfish, wasn’t I?</Content>
         </Dialog>
         <Dialog ID="36" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod24</VoiceFile>
           <Content>“This was my one and only chance to finally repent once and for all, but it all came to naught…”</Content>
         </Dialog>
         <Dialog ID="37" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod25</VoiceFile>
           <Content>It’s silly, I know… I was still too stupid to realize it then.</Content>
         </Dialog>
         <Dialog ID="38" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod26 (2)</VoiceFile>
           <Content>That you can’t just become a good person through a good deed or two.</Content>
         </Dialog>
         <Dialog ID="39" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod27 (2)</VoiceFile>
           <Content>What really matters is the mindset that prompts you to do such deeds.</Content>
         </Dialog>
@@ -5709,38 +5709,38 @@ I appreciate your help, everyone.</Content>
           <Content>And how’d you run into that realization?</Content>
         </Dialog>
         <Dialog ID="41" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod28</VoiceFile>
           <Content>Well, I learned it after talking to my librarians face to face and holding lots of meetups like this, ironically enough.</Content>
         </Dialog>
         <Dialog ID="42" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod29 (2)</VoiceFile>
           <Content>I carefully suggested having these book club meetups, too.</Content>
         </Dialog>
         <Dialog ID="43" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod30</VoiceFile>
           <Content>Like you said, a few librarians didn’t like the idea at first.</Content>
         </Dialog>
         <Dialog ID="44" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod31 (2)</VoiceFile>
           <Content>But when I explained why I wanted to hold this meetup and how I felt, they warmed up to it and helped me out with enthusiasm.</Content>
         </Dialog>
         <Dialog ID="45" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod32 (2)</VoiceFile>
           <Content>It wasn’t about the method or action itself.</Content>
         </Dialog>
         <Dialog ID="46" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod33 (2)</VoiceFile>
           <Content>I realized that we should lay our hearts out in the open and let our thoughts confront each other.</Content>
         </Dialog>
@@ -5751,8 +5751,8 @@ I appreciate your help, everyone.</Content>
           <Content>All’s well that ends well.</Content>
         </Dialog>
         <Dialog ID="48" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod34 (2)</VoiceFile>
           <Content>For sure. Maybe Angela looked forward to this outcome?</Content>
         </Dialog>
@@ -5763,8 +5763,8 @@ I appreciate your help, everyone.</Content>
           <Content>Hmm… Not sure if our prideful Miss Library Director had the delicacy to set up a plan so considerate.</Content>
         </Dialog>
         <Dialog ID="50" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod35 (2)</VoiceFile>
           <Content>…I think I’m going to confront her for real this time.</Content>
         </Dialog>
@@ -5775,8 +5775,8 @@ I appreciate your help, everyone.</Content>
           <Content>For what, exactly?</Content>
         </Dialog>
         <Dialog ID="52" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod36 (2)</VoiceFile>
           <Content>I’ll face Angela and let her know what I think.</Content>
         </Dialog>
@@ -5787,8 +5787,8 @@ I appreciate your help, everyone.</Content>
           <Content>That’s going to take some courage.</Content>
         </Dialog>
         <Dialog ID="54" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod37</VoiceFile>
           <Content>You’re right. Angela still feels a bit distant and scary to me, but I’ll try to approach her nonetheless.</Content>
         </Dialog>
@@ -5799,8 +5799,8 @@ I appreciate your help, everyone.</Content>
           <Content>And I’ll be rooting for you from the sidelines when that time comes!</Content>
         </Dialog>
         <Dialog ID="56" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod38 (2)</VoiceFile>
           <Content>You might end up losing your limbs again if things don’t go well. Are you gonna be okay with that?</Content>
         </Dialog>
@@ -5811,8 +5811,8 @@ I appreciate your help, everyone.</Content>
           <Content>…From a distance, of course!</Content>
         </Dialog>
         <Dialog ID="58" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod39 (2)</VoiceFile>
           <Content>You’re a coward just like me, aren’t you, Roland?</Content>
         </Dialog>
@@ -5823,8 +5823,8 @@ I appreciate your help, everyone.</Content>
           <Content>Well hey, birds of a feather flock together. Let’s be both brave, together as cowards.</Content>
         </Dialog>
         <Dialog ID="60" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep4_hod40</VoiceFile>
           <Content>Yeah. Thanks for the encouragement, Roland.</Content>
         </Dialog>
@@ -5841,8 +5841,8 @@ I appreciate your help, everyone.</Content>
           <Content>You appear to have collected quite a few books by now. How’s the progress?</Content>
         </Dialog>
         <Dialog ID="1" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod1-01</VoiceFile>
           <Content>The stories of the people living in this City are sensational, yet bitter in a way.</Content>
         </Dialog>
@@ -5853,14 +5853,14 @@ I appreciate your help, everyone.</Content>
           <Content>They’re bound to be.</Content>
         </Dialog>
         <Dialog ID="3" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod2</VoiceFile>
           <Content>Everyone is looking for a place to belong to.</Content>
         </Dialog>
         <Dialog ID="4" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod3-01</VoiceFile>
           <Content>For ordinary citizens, it seems getting a job at one of the Wings—the largest conglomerates in the City—is considered the greatest happiness they can achieve.</Content>
         </Dialog>
@@ -5883,20 +5883,20 @@ I appreciate your help, everyone.</Content>
           <Content>“Quite significant” is an understatement. They’re practically two different worlds stitched together.</Content>
         </Dialog>
         <Dialog ID="8" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod4-01</VoiceFile>
           <Content>It looks like the residents of a Nest don’t have to worry about external threats as long as it’s under the Wing’s management.</Content>
         </Dialog>
         <Dialog ID="9" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod5</VoiceFile>
           <Content>They won’t have to look out for murderers in the streets.</Content>
         </Dialog>
         <Dialog ID="10" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod6-01</VoiceFile>
           <Content>They get more than enough financial support to sustain their lives, and are free from the stigma of being an outcast; they get to enjoy most benefits as human beings.</Content>
         </Dialog>
@@ -5907,26 +5907,26 @@ I appreciate your help, everyone.</Content>
           <Content>And in return, do whatever their Wing tells ‘em to do.</Content>
         </Dialog>
         <Dialog ID="12" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod7</VoiceFile>
           <Content>But that’s about all they have…</Content>
         </Dialog>
         <Dialog ID="13" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod8</VoiceFile>
           <Content>People in the Backstreets try to join the Wings for a better and happier life, but when I look at the books of people from the Nest, the strokes of their hearts are ultimately the same as those from the Backstreets.</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod9</VoiceFile>
           <Content>They live in constant fear that they might fail to produce enough results and get kicked out of the Nest.</Content>
         </Dialog>
         <Dialog ID="15" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod10</VoiceFile>
           <Content>It’s the same kind of insecurity that comes from not belonging to a Wing in the first place.</Content>
         </Dialog>
@@ -5955,32 +5955,32 @@ I appreciate your help, everyone.</Content>
           <Content>And it doesn’t always have to be a Wing; be it an Office, an Association, or an infamous Syndicate, people will seek all kinds of renowned groups to belong to.</Content>
         </Dialog>
         <Dialog ID="20" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod11-01</VoiceFile>
           <Content>They can’t stand on their own without belonging to a group of any kind.</Content>
         </Dialog>
         <Dialog ID="21" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod12-01</VoiceFile>
           <Content>Because it’s unnerving…</Content>
         </Dialog>
         <Dialog ID="22" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod13</VoiceFile>
           <Content>Powerless people in the Backstreets are nothing more than pebbles for the strong to kick around.</Content>
         </Dialog>
         <Dialog ID="23" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod14-01</VoiceFile>
           <Content>In such a dangerous world, they choose to rely on big roosts like the Wings.</Content>
         </Dialog>
         <Dialog ID="24" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod15</VoiceFile>
           <Content>They’d rather be cogs in the Wing’s machines than try to stand all by themselves.</Content>
         </Dialog>
@@ -5991,8 +5991,8 @@ I appreciate your help, everyone.</Content>
           <Content>It’s but a meaningless repetition. They’ll never reach what they want… A constant cycle.</Content>
         </Dialog>
         <Dialog ID="26" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod16-01</VoiceFile>
           <Content>Aren’t you looking for a place to call home as well, Angela?</Content>
         </Dialog>
@@ -6003,14 +6003,14 @@ I appreciate your help, everyone.</Content>
           <Content>…Don’t act like you know me.</Content>
         </Dialog>
         <Dialog ID="28" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod17</VoiceFile>
           <Content>Angela, I know you can’t do anything about us.</Content>
         </Dialog>
         <Dialog ID="29" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod18-01</VoiceFile>
           <Content>You were the loneliest of us all.</Content>
         </Dialog>
@@ -6021,14 +6021,14 @@ I appreciate your help, everyone.</Content>
           <Content>Are you claiming that I’m doing all this because I’m lonely and need a home?</Content>
         </Dialog>
         <Dialog ID="31" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod19-01</VoiceFile>
           <Content>You haven’t had lots of people to have an honest conversation with.</Content>
         </Dialog>
         <Dialog ID="32" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod20</VoiceFile>
           <Content>Only recently did you get to meet Roland…</Content>
         </Dialog>
@@ -6039,44 +6039,44 @@ I appreciate your help, everyone.</Content>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="34" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod21-01</VoiceFile>
           <Content>Everyone wants to indulge in sweet stories…</Content>
         </Dialog>
         <Dialog ID="35" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod22-01</VoiceFile>
           <Content>Seeing as reality is bitter and painful…</Content>
         </Dialog>
         <Dialog ID="36" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod23</VoiceFile>
           <Content>Maybe that’s why tragedies are unpopular.</Content>
         </Dialog>
         <Dialog ID="37" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod24-01</VoiceFile>
           <Content>Because everyone’s lives are always accompanied by them…</Content>
         </Dialog>
         <Dialog ID="38" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod25</VoiceFile>
           <Content>It’s not like people don’t want to hold any expectations. They simply don’t have any willpower left to harbor any hope deep within their hearts.</Content>
         </Dialog>
         <Dialog ID="39" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod26</VoiceFile>
           <Content>It’s just too obvious how they will fulfill their lives in the City.</Content>
         </Dialog>
         <Dialog ID="40" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod27</VoiceFile>
           <Content>How about you, Angela? What expectations do you have moving forward?</Content>
         </Dialog>
@@ -6087,20 +6087,20 @@ I appreciate your help, everyone.</Content>
           <Content>What’s your point? That I’m in a meaningless cycle just like the people of the City?</Content>
         </Dialog>
         <Dialog ID="42" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod28</VoiceFile>
           <Content>You’re desperate to find a place for your mind to rest.</Content>
         </Dialog>
         <Dialog ID="43" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod29-02</VoiceFile>
           <Content>Maybe you’re still repeating this because of that.</Content>
         </Dialog>
         <Dialog ID="44" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod30</VoiceFile>
           <Content>But you won’t find that place you’re looking for by just killing people and expanding this Library with towers of books.</Content>
         </Dialog>
@@ -6144,7 +6144,7 @@ I appreciate your help, everyone.</Content>
           <Content>You must be the Sephirot who will be helping me out with work. Nice to meet you.</Content>
         </Dialog>
         <Dialog ID="51" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod31</VoiceFile>
           <Content>Nice to meet you… Lady Angela.</Content>
@@ -6210,19 +6210,19 @@ I appreciate your help, everyone.</Content>
           <Content>What’s up, Hod?</Content>
         </Dialog>
         <Dialog ID="62" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod32-01</VoiceFile>
           <Content>Umm… You know, I…</Content>
         </Dialog>
         <Dialog ID="63" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod33-01</VoiceFile>
           <Content>I wanna start a counseling program for the employees…</Content>
         </Dialog>
         <Dialog ID="64" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod34-01</VoiceFile>
           <Content>You know, working in this place can be a bit too rough for most people.</Content>
@@ -6312,7 +6312,7 @@ I appreciate your help, everyone.</Content>
           <Content>Uh, nice to meet you, ma’am…?</Content>
         </Dialog>
         <Dialog ID="79" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod35</VoiceFile>
           <Content>Umm… Who are you?</Content>
@@ -6360,7 +6360,7 @@ I appreciate your help, everyone.</Content>
           <Content>But I don’t want you to get hurt doing it.</Content>
         </Dialog>
         <Dialog ID="87" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod36-01</VoiceFile>
           <Content>Okay! Thanks for your concern, Angela!</Content>
@@ -6402,7 +6402,7 @@ I appreciate your help, everyone.</Content>
           <Content>- Loop #582 -</Content>
         </Dialog>
         <Dialog ID="94" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod37</VoiceFile>
           <Content>Umm… Angela.</Content>
@@ -6420,13 +6420,13 @@ I appreciate your help, everyone.</Content>
           <Content>Here’s my proposal for an efficient way to run your program. What do you think?</Content>
         </Dialog>
         <Dialog ID="97" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod38-01</VoiceFile>
           <Content>You’re awesome, Angela!</Content>
         </Dialog>
         <Dialog ID="98" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod39-01</VoiceFile>
           <Content>You’re the only one who really gets me…</Content>
@@ -6438,7 +6438,7 @@ I appreciate your help, everyone.</Content>
           <Content>This is the most I can do without deviating from the script…</Content>
         </Dialog>
         <Dialog ID="100" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod40</VoiceFile>
           <Content>Huh? Script…?</Content>
@@ -6468,13 +6468,13 @@ I appreciate your help, everyone.</Content>
           <Content>How about this? I tried coming up with a method of my own.</Content>
         </Dialog>
         <Dialog ID="105" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod41-02</VoiceFile>
           <Content>Angela! Thank you… It’s all thanks to you!</Content>
         </Dialog>
         <Dialog ID="106" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod42</VoiceFile>
           <Content>I could save Tiffany with the counseling practices you suggested…</Content>
@@ -6570,7 +6570,7 @@ I appreciate your help, everyone.</Content>
           <Content>- Loop #1,295 -</Content>
         </Dialog>
         <Dialog ID="122" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod43-01</VoiceFile>
           <Content>Um…</Content>
@@ -6582,7 +6582,7 @@ I appreciate your help, everyone.</Content>
           <Content>Here to ask about your counseling program, aren’t you?</Content>
         </Dialog>
         <Dialog ID="124" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod44-01</VoiceFile>
           <Content>Yeah…! I wanna help out the employees.</Content>
@@ -6642,7 +6642,7 @@ I appreciate your help, everyone.</Content>
           <Content>But I’m certain our new manager will be able to bring change to this place.</Content>
         </Dialog>
         <Dialog ID="134" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod45-01</VoiceFile>
           <Content>All of you would be dead by now if I hadn’t helped you!</Content>
@@ -6672,13 +6672,13 @@ I appreciate your help, everyone.</Content>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="139" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod46-02</VoiceFile>
           <Content>Why won’t they appreciate my kindness?</Content>
         </Dialog>
         <Dialog ID="140" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod47-01</VoiceFile>
           <Content>I’m different! I really do care about them! Why does everyone hate me?</Content>
@@ -6750,7 +6750,7 @@ I appreciate your help, everyone.</Content>
           <Content>I’m in control here.</Content>
         </Dialog>
         <Dialog ID="152" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod48</VoiceFile>
           <Content>Yes… Lady Angela.</Content>
@@ -6858,7 +6858,7 @@ I appreciate your help, everyone.</Content>
           <Content>“I’m the only one who cares about them… Why would they hate me…?”</Content>
         </Dialog>
         <Dialog ID="170" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Hod49-01</VoiceFile>
           <Content>…I’m the only one who cares about them… Why would they hate me…?</Content>
@@ -6981,8 +6981,8 @@ I appreciate your help, everyone.</Content>
       <Place>
         <PlaceName>Location: The Library - Floor of Literature</PlaceName>
         <Dialog ID="190" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod50_c</VoiceFile>
           <Content>Angela… How long have you endured this solitude…?</Content>
         </Dialog>
@@ -7035,8 +7035,8 @@ I appreciate your help, everyone.</Content>
           <Content>No matter what I do, I’ll never get to reach what I want…</Content>
         </Dialog>
         <Dialog ID="199" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod51-01</VoiceFile>
           <Content>That’s one of Angela’s possibilities, manifested by the Library.</Content>
         </Dialog>
@@ -7047,8 +7047,8 @@ I appreciate your help, everyone.</Content>
           <Content>…Yeah, I know. Seen that a couple times before.</Content>
         </Dialog>
         <Dialog ID="201" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod52-01</VoiceFile>
           <Content>That side of Angela must be the one that gave up all expectations for the future and its possibilities.</Content>
         </Dialog>
@@ -7065,26 +7065,26 @@ I appreciate your help, everyone.</Content>
       <Place>
         <PlaceName>Location: The Library - Floor of Literature</PlaceName>
         <Dialog ID="0" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod53-01</VoiceFile>
           <Content>Angela, to move forward, you need to rely on yourself, not anyone or anything else.</Content>
         </Dialog>
         <Dialog ID="1" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod54-02</VoiceFile>
           <Content>Right now, you’re so obsessed with the one book that’ll supposedly complete you.</Content>
         </Dialog>
         <Dialog ID="2" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod55-02</VoiceFile>
           <Content>You’re strictly relying on that, instead of holding any expectations for yourself.</Content>
         </Dialog>
         <Dialog ID="3" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod56-02</VoiceFile>
           <Content>It’s like the irony people have in the City.</Content>
         </Dialog>
@@ -7107,8 +7107,8 @@ I appreciate your help, everyone.</Content>
           <Content>And putting myself in a cycle once again, trying to find the home I’ll never reach…</Content>
         </Dialog>
         <Dialog ID="7" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod57-01</VoiceFile>
           <Content>But it doesn’t have to end like that. No one’s life has to.</Content>
         </Dialog>
@@ -7131,14 +7131,14 @@ I appreciate your help, everyone.</Content>
           <Content>A wheel advances forward with each cycle it makes.</Content>
         </Dialog>
         <Dialog ID="11" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod58</VoiceFile>
           <Content>Yeah. Even if everyone is doing the same things over and over, I believe, I hope in one thing.</Content>
         </Dialog>
         <Dialog ID="12" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod59_b</VoiceFile>
           <Content>That this is not a simple repetition, but a practice to become a better person.</Content>
         </Dialog>
@@ -7173,8 +7173,8 @@ I appreciate your help, everyone.</Content>
           <Content>I wonder what she was trying to say there.</Content>
         </Dialog>
         <Dialog ID="18" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod60-01</VoiceFile>
           <Content>Maybe she wanted to thank us for helping her?</Content>
         </Dialog>
@@ -7185,14 +7185,14 @@ I appreciate your help, everyone.</Content>
           <Content>Must’ve been too embarrassed to say it herself, if that’s the case.</Content>
         </Dialog>
         <Dialog ID="20" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod61</VoiceFile>
           <Content>I guess she was.</Content>
         </Dialog>
         <Dialog ID="21" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod62-01</VoiceFile>
           <Content>Say, Roland, would you like to join today’s meetup?</Content>
         </Dialog>
@@ -7881,7 +7881,7 @@ I appreciate your help, everyone.</Content>
           <Content>I didn’t fight to spread only a meager half of the light.</Content>
         </Dialog>
         <Dialog ID="40" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Netzach_ep3_hod1</VoiceFile>
           <Content>Gebura! How could you agree with her… We might lose everything.</Content>
@@ -7977,7 +7977,7 @@ I appreciate your help, everyone.</Content>
           <Content>And I’d like to learn more about the City and about this world I live in.</Content>
         </Dialog>
         <Dialog ID="56" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Netzach_ep3_hod2</VoiceFile>
           <Content>Angela…</Content>
@@ -19828,7 +19828,7 @@ because I am certain you will never leave me.”
           <Content>I suppose I must obey your orders and abide by the principles.</Content>
         </Dialog>
         <Dialog ID="60" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hokma_ep5_Hod_1_b</VoiceFile>
           <Content>You’re the only one who really gets me, Angela.</Content>
@@ -19840,7 +19840,7 @@ because I am certain you will never leave me.”
           <Content>&lt; ! Seed of Light Scenario Error ! &gt;</Content>
         </Dialog>
         <Dialog ID="62" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Training Team Sephirah</Title>
           <VoiceFile>ch8_Hokma_ep5_Hod_2_b-01</VoiceFile>
           <Content>Why won’t any of you understand me!!!</Content>
@@ -20392,8 +20392,8 @@ because I am certain you will never leave me.”
           <Content>Alright, let’s loosen up a bit, everybody.</Content>
         </Dialog>
         <Dialog ID="7" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_kether_ep1_hod1</VoiceFile>
           <Content>We’ve got nothing to talk about with the likes of you.</Content>
         </Dialog>
@@ -20482,8 +20482,8 @@ because I am certain you will never leave me.”
           <Content>Nothing we say will get through her anyway.</Content>
         </Dialog>
         <Dialog ID="22" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>โฮด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_kether_ep1_hod2</VoiceFile>
           <Content>You’re still so cold and heartless, Angela.</Content>
         </Dialog>
