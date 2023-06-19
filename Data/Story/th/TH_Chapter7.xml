@@ -2299,13 +2299,13 @@
           <Teller>Tanya</Teller>
           <Title>L’heure du Loup</Title>
           <VoiceFile>ch7_Blue_ep2_Tanya_4</VoiceFile>
-          <Content>The White Nights and Dark Days ทำให้เกิดปรากฎการณ์บิดเบือน… ซึ่งสร้างนักเปียโนขึ้นมา</Content>
+          <Content>ราตรีสีขาวและทิวาสีดำทำให้เกิดปรากฎการณ์บิดเบือน… ซึ่งสร้างนักเปียโนขึ้นมา</Content>
         </Dialog>
         <Dialog ID="101" Model="정장 엘레나">
           <Teller>เอเลน่า</Teller>
           <Title>Blood-red Night</Title>
           <VoiceFile>ch7_Blue_ep2_Elena_9</VoiceFile>
-          <Content>และเธอ แองเจล่า นั้นต้องรับผิดชอบสำหรับ White Nights and Dark Days.</Content>
+          <Content>และเธอ แองเจล่า นั้นต้องรับผิดชอบสำหรับราตรีสีขาวและทิวาสีดำ</Content>
         </Dialog>
         <Dialog ID="102" Model="정장 필립">
           <Teller>ฟิลลิป</Teller>
@@ -2680,7 +2680,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Blue_ep2_Angela_13</VoiceFile>
-          <Content>…ดรแลนดื</Content>
+          <Content>…โรแลนด์</Content>
         </Dialog>
         <Dialog ID="164" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
@@ -2692,7 +2692,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch7_Blue_ep2_Roland_31</VoiceFile>
-          <Content>เรายังมีเป้าหมายรวมในการหยุดอาร์กาเลีย…</Content>
+          <Content>เรายังมีเป้าหมายในการหยุดอาร์กาเลียร่วมกันอยู่…</Content>
         </Dialog>
         <Dialog ID="166" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -2703,7 +2703,7 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Malkuth vs. ฟิลลิป</EpisodeName>
+      <EpisodeName>มัลคุท vs. ฟิลลิป</EpisodeName>
       <Place>
         <PlaceName>Location: The Library - Floor of History</PlaceName>
         <Dialog ID="0" Model="정장 필립">
@@ -2713,10 +2713,10 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="1" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Patron Librarian - History</Title>
+          <Teller>มัลคุท</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Malkuth_1</VoiceFile>
-          <Content>Welcome! I’m the Patron Librarian of the Floor of History and your opponent… Malkuth!</Content>
+          <Content>ขอต้อนรับ! ฉันหัวหน้าบรรณารักษ์ของชั้นประวัติศาสตร์และคู่ต่อสู้ของคุณ… มัลคุทค่ะ!</Content>
         </Dialog>
         <Dialog ID="2" Model="정장 필립">
           <Teller>ฟิลลิป</Teller>
@@ -2725,40 +2725,40 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="3" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Patron Librarian - History</Title>
+          <Teller>มัลคุท</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Malkuth_2</VoiceFile>
-          <Content>Mm, are you going to say anything?</Content>
+          <Content>อืม คุณจะพูดอะไรไหมคะ?</Content>
         </Dialog>
         <Dialog ID="4" Model="정장 필립">
           <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_3</VoiceFile>
-          <Content>What more do I have to say to you.</Content>
+          <Content>แล้วผมมีอะไรให้คุยกับคุณอีกล่ะ</Content>
         </Dialog>
         <Dialog ID="5" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Patron Librarian - History</Title>
+          <Teller>มัลคุท</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Malkuth_3</VoiceFile>
-          <Content>Are you holding some sorta grudge because you think we took everything from you?</Content>
+          <Content>นี่คุณยังแค้นเพราะว่าคุณคิดว่าเราเอาทุกอย่างไปจากคุณเหรอคะ?</Content>
         </Dialog>
         <Dialog ID="6" Model="정장 필립">
           <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_4</VoiceFile>
-          <Content>Maybe so.</Content>
+          <Content>ประมาณนั้น</Content>
         </Dialog>
         <Dialog ID="7" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Patron Librarian - History</Title>
+          <Teller>มัลคุท</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Malkuth_4</VoiceFile>
-          <Content>You don’t sound all that certain about it.</Content>
+          <Content>คุณฟังดูไม่มั่นใจนะคะ.</Content>
         </Dialog>
         <Dialog ID="8" Model="정장 필립">
           <Teller>ฟิลลิป</Teller>
           <Title>The Crying Children</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Phillip_5</VoiceFile>
-          <Content>There are remnants of memories and feelings inside me. I’m not sure if I forgot them or lost them, though. Those feelings only become more dull over time.</Content>
+          <Content>มันมีเสี้ยวของความทรงจำและความรู้สึกภายในตัวผม ผมไม่มั่นใจว่าผมลืมมันไปหรือทำมันหายนะ ความรู้สึกพวกนี้ก็เริ่มด้านชาขึ้นไปเรื่อยๆ</Content>
         </Dialog>
         <Dialog ID="9" Model="정장 필립">
           <Teller>ฟิลลิป</Teller>
@@ -2779,8 +2779,8 @@
           <Content>I have no hard feelings, other than the desire for the Light you’ve kept hidden.</Content>
         </Dialog>
         <Dialog ID="12" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Patron Librarian - History</Title>
+          <Teller>มัลคุท</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Malkuth_5</VoiceFile>
           <Content>Don’t you feel that you’ve lost something important to you?</Content>
         </Dialog>
@@ -2809,8 +2809,8 @@
           <Content>I’m sure I wasn’t a miserable man at that time.</Content>
         </Dialog>
         <Dialog ID="17" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Patron Librarian - History</Title>
+          <Teller>มัลคุท</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Malkuth_6</VoiceFile>
           <Content>If you have to part with such emotions and memories… what’ll be left for you?</Content>
         </Dialog>
@@ -2863,20 +2863,20 @@
           <Content>He may seem like a nobody, but he’ll ultimately gain more.</Content>
         </Dialog>
         <Dialog ID="26" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Patron Librarian - History</Title>
+          <Teller>มัลคุท</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Malkuth_7</VoiceFile>
           <Content>It’s understandable to be afraid of what might happen between people. After all, I had the same fear.</Content>
         </Dialog>
         <Dialog ID="27" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Patron Librarian - History</Title>
+          <Teller>มัลคุท</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Malkuth_8</VoiceFile>
           <Content>But… without such emotions, we can’t move forward.</Content>
         </Dialog>
         <Dialog ID="28" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Patron Librarian - History</Title>
+          <Teller>มัลคุท</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Malkuth_9</VoiceFile>
           <Content>There might be difficult and trying times, but there’s still a lesson to be learned from that pain.</Content>
         </Dialog>
@@ -2893,8 +2893,8 @@
           <Content>Such a bold thing to say, after taking the lives of the people around me…</Content>
         </Dialog>
         <Dialog ID="31" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Patron Librarian - History</Title>
+          <Teller>มัลคุท</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Malkuth_10</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -2917,20 +2917,20 @@
           <Content>I’m tired of having to worry about taking flak for anything I do.</Content>
         </Dialog>
         <Dialog ID="35" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Patron Librarian - History</Title>
+          <Teller>มัลคุท</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Malkuth_11</VoiceFile>
           <Content>I guess I don’t have any more arguments to make. I don’t have a clear conscience about what I’ve been doing, after all.</Content>
         </Dialog>
         <Dialog ID="36" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Patron Librarian - History</Title>
+          <Teller>มัลคุท</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Malkuth_12</VoiceFile>
           <Content>There’s only one way to settle this now. It’s time for me to do what I must do.</Content>
         </Dialog>
         <Dialog ID="37" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Patron Librarian - History</Title>
+          <Teller>มัลคุท</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_MP_Malkuth_13</VoiceFile>
           <Content>…Get ready, guys.</Content>
         </Dialog>
