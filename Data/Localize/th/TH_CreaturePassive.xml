@@ -772,41 +772,41 @@ If the character did not use the page for 3 Scenes after shapeshifting, it will 
 
 <!--잭-->
 <PassiveDesc ID="704021">
-<Name>Stolen Power</Name>
+<Name>พลังที่ขโมยมา</Name>
 <Desc>Uses the Combat Pages of the librarian with Oblivion.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="704022">
-<Name>Who’s the Real Deal?</Name>
+<Name>อันไหนล่ะของจริง</Name>
 <Desc>Only one of the Jacks that awaken is real; the rest are fakes.
 Whenever a librarian with Oblivion hits the real Jack, it gives back a Combat Page that was stolen from them.
 The screen blinks when the real Jack is hit.</Desc>
 </PassiveDesc>
  <PassiveDesc ID="704023">
-<Name>Steal or be Stolen</Name>
+<Name>ขโมย หรือจะถูกขโมย</Name>
 <Desc>After the librarian with Oblivion hits the real Jack 9 times, all Jacks die.
 If the condition isn't fulfilled within 3 Scenes of Oblivion being applied, the librarian with the status is turned into a pumpkin next Scene.
 Afterwards, the real Jack transforms into 'Jack Revived', and permanently uses the Key page and Combat Pages of the librarian that had Oblivion.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="704024">
-<Name>Fragment of the South</Name>
+<Name>เศษเสี้ยวจากทางใต้</Name>
 <Desc>Gains 2 Strength every Scene</Desc>
 </PassiveDesc>
 <PassiveDesc ID="704025">
-<Name>Fragment of the West</Name>
+<Name>เศษเสี้ยวจากทางตะวันตก</Name>
 <Desc>Gains 2 Endurance every Scene</Desc>
 </PassiveDesc>
 <PassiveDesc ID="704026">
-<Name>Fragment of the North</Name>
+<Name>เศษเสี้ยวจากทางเหนือ</Name>
 <Desc>Gains 1 Haste every Scene</Desc>
 </PassiveDesc>
 <PassiveDesc ID="704027">
-<Name>Fragment of the East</Name>
+<Name>เศษเสี้ยวจากทางตะวันออก</Name>
 <Desc>Gains a buff that increases Stagger damage by 3 every Scene</Desc>
 </PassiveDesc>
 
 <!--되살아난 잭-->
 <PassiveDesc ID="704031">
-<Name>All Mine!</Name>
+<Name>ทั้งหมดเป็นของฉัน!!!</Name>
 <Desc>Uses the Key page and Combat Pages of the librarian that has turned into a pumpkin.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="704032">
@@ -815,7 +815,7 @@ Afterwards, the real Jack transforms into 'Jack Revived', and permanently uses t
 </PassiveDesc>
 <!--기억을 잃은 호박-->
 <PassiveDesc ID="704041">
-<Name>Lost Memories</Name>
+<Name>เสียความทรงจำ</Name>
 <Desc>All Combat Pages change to unique ones. All stats change. Other passive abilities of this character will not activate.</Desc>
 </PassiveDesc>
 
@@ -825,7 +825,7 @@ Afterwards, the real Jack transforms into 'Jack Revived', and permanently uses t
 <Desc>Cannot be targeted. Immune to status ailments.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="903012">
-<Name>Sound of a Star</Name>
+<Name>เสียงของดวงดาว</Name>
 <Desc>Starting with the third Scene, the Shrine to the Blue Star uses a Mass Attack page every 3 Scenes.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="903013">
@@ -843,7 +843,7 @@ Afterwards, the real Jack transforms into 'Jack Revived', and permanently uses t
 
 <!--푸른별의 신도-->
 <PassiveDesc ID="903021">
-<Name>I Can Hear the Sound of the Star!!</Name>
+<Name>ฉันได้ยินมัน!! เสียงของดวงดาวน่ะ!!</Name>
 <Desc>Uses a special Combat Page on the Scene when the Shrine to the Blue Star uses a Mass Attack page. If the character's Stagger Resist is 40% or lower, instead uses a page that causes the character to self-destruct.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="903022">
