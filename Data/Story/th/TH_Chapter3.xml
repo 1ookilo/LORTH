@@ -737,254 +737,254 @@
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
         <PlaceName>Location: Zwei Association - Southern Branch, Section 6</PlaceName>
-        <Dialog ID="0" Model="이사도라">
-          <Teller>Isadora</Teller>
+ <Dialog ID="0" Model="이사도라">
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora1</VoiceFile>
-          <Content>We have a lineup of the search team. And you two are in, San, Julia.</Content>
+          <Content>พวกเราได้จัดทีมค้นหา และพวกเธอทั้งคู่ก็ได้อยู่ในทีมด้วย ซาน จูเลีย</Content>
         </Dialog>
         <Dialog ID="1" Model="산">
-          <Teller>San</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san1</VoiceFile>
-          <Content>I’m finally heading back to the Library.</Content>
+          <Content>ในที่สุดฉันก็ได้กลับไปที่ห้องสมุดนั่น</Content>
         </Dialog>
         <Dialog ID="2" Model="줄리아">
-          <Teller>Julia</Teller>
+          <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia1</VoiceFile>
-          <Content>Yeah. Let’s go retrieve the books of Mars and Lulu, and come back safely.</Content>
+          <Content>ใช่แล้วล่ะ เรารีบไปรับหนังสือของมาร์สและลูลู่คืนแล้วรีบกลับอย่างปลอดภัยกัน</Content>
         </Dialog>
         <Dialog ID="3" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora2</VoiceFile>
-          <Content>Don’t forget. While our main objective has been decided as retrieving the books of Mars and Lulu thanks to the coincidence of interests between San and the Association, we should still try to secure as much information as possible. Meaning we should collect as many books as we can.</Content>
+          <Content>อย่าลืมล่ะ ถึงแม้เป้าหมายหลักของเราจะเป็นการไปรับหนังสือของมาร์สและลูลู่ ต้องขอบคุณผลประโยชน์ที่บังเอิญตรงกันของซานกับสมาพันธ์ แต่เราก็ยังต้องไปรวบรวมข้อมูลให้ได้มากที่สุดด้วย หมายความว่าเราต้องเก็บหนังสือให้มากเท่าที่จะทำได้</Content>
         </Dialog>
         <Dialog ID="4" Model="줄리아">
-          <Teller>Julia</Teller>
+          <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia2</VoiceFile>
-          <Content>Okay. I’ll keep that in mind.</Content>
+          <Content>ได้เลย ฉันจะจำเอาไว้นะ</Content>
         </Dialog>
         <Dialog ID="5" Model="산">
-          <Teller>San</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san2</VoiceFile>
-          <Content>I know it’s a silly question to ask, but why is Zwei, an Association specializing in peacekeeping and security, deciding to set up a search team of all things to enter the Library?</Content>
+          <Content>ฉันรู้ว่ามันคงเป็นคำถามที่แปลกไปหน่อย แต่ว่าทำไมสไว สมาพันธ์ที่เชี่ยวชาญในด้านคุ้มครองสันติภาพและความปลอดภัย ถึงขนาดยอมจัดตั้งทีมค้นหาเพื่อเข้าห้องสมุดด้วยล่ะ</Content>
         </Dialog>
         <Dialog ID="6" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora3</VoiceFile>
-          <Content>Why did you come begging to us in the first place if you knew all that?</Content>
+          <Content>ถ้ารู้อยู่แล้วจะมาขอร้องพวกเราตั้งแต่แรกทำไม?</Content>
         </Dialog>
         <Dialog ID="7" Model="산">
-          <Teller>San</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san3</VoiceFile>
-          <Content>That’s… That’s because this was the only place I could count on.</Content>
+          <Content>ก็เพราะ… ก็เพราะที่นี่เป็นที่เดียวที่ฉันพอพึงได้</Content>
         </Dialog>
         <Dialog ID="8" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora4</VoiceFile>
-          <Content>What about your younger brother?</Content>
+          <Content>แล้วเจ้าน้องชายของนายล่ะ?</Content>
         </Dialog>
         <Dialog ID="9" Model="산">
-          <Teller>San</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san4</VoiceFile>
-          <Content>My brother is… Never mind. Once again, I’m sorry for the trouble, and thanks again for the help.</Content>
+          <Content>น้องชายของฉันเขา… ไม่เป็นไรหรอก แล้วก็ขอโทษสำหรับปัญหา และขอบคุณอีกครั้งนะที่ช่วยฉัน</Content>
         </Dialog>
         <Dialog ID="10" Model="줄리아">
-          <Teller>Julia</Teller>
+          <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia3</VoiceFile>
-          <Content>San…</Content>
+          <Content>ซาน…</Content>
         </Dialog>
         <Dialog ID="11" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora5</VoiceFile>
-          <Content>Hm hmm. Anyway, since you’re running an affiliate Office, I suppose it’s okay to tell you this.</Content>
+          <Content>อะแฮ่ม ใหนๆนายก็บริหารออฟฟิสในเครือของสมาพันธ์ ฉันว่าคงไม่เป็นไรที่จะบอกเรื่องนี้กับนาย</Content>
         </Dialog>
         <Dialog ID="12" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora6</VoiceFile>
-          <Content>The Distortion Phenomenon, classified as an Urban Nightmare. I’m sure you’ve at least heard of it even if you haven’t seen it yourself, right?</Content>
+          <Content>ปรากฏการณ์บิดเบือน ถูกจัดให้อยู่ในฝันร้ายประจำเมือง ฉันมั่นใจเลยว่าถ้านายไม่เคยเห็นก็ต้องเคยได้ยินอะไรมาบ้าง ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="13" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora7</VoiceFile>
-          <Content>It’s an anomaly that has been happening throughout the City ever since the White Nights and Dark Days.</Content>
+          <Content>เป็นปรากฏการณ์ผิดปกติที่เกิดขึ้นอยู่รอบเมืองหลังจากเหตุการณ์ราตรีสีขาวและทิวาสีดำ</Content>
         </Dialog>
         <Dialog ID="14" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora8</VoiceFile>
-          <Content>The frequency may be low, but people are turning into monsters at random, and each individual occurrence is a huge pain to deal with.</Content>
+          <Content>อัตราการเกิดอาจจะต่ำ แต่ผู้คนจะกลายร่างเป็นสัตว์ประหลาดแบบสุ่มและคนที่กลายร่างนั้นก็ยังจัดการได้ยากด้วย</Content>
         </Dialog>
         <Dialog ID="15" Model="산">
-          <Teller>San</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san5</VoiceFile>
-          <Content>Yeah, I know. ‘The Pianist’, the first reported case of this phenomenon… It ended up killing 80% of District 9’s population.</Content>
+          <Content>ใช่ ฉันรู้จัก. ‘เดอะ เปียนิสต์’เคสแรกที่มีการกล่าวถึงปรากฏการณ์นี้ มันได้ฆ่าคนไปมากกว่า80%ของประชากรทั้งหมดในเขตที่9</Content>
         </Dialog>
         <Dialog ID="16" Model="줄리아">
-          <Teller>Julia</Teller>
+          <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia4</VoiceFile>
-          <Content>I heard that it was so sudden, the Hana Association had to dispatch one of the ‘Colors’ immediately after realizing the severity of the situation.</Content>
+          <Content>ฉันได้ยินมาว่ามันเกิดขึ้นรวดเร็วมาก สมาพันธ์ฮานะถึงกับต้องส่งหนึ่งใน‘พวกสี’ทันทีหลังจากรู้ถึงความรุนแรงของเหตุการณ์ในครั้งนั้น</Content>
         </Dialog>
         <Dialog ID="17" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora9</VoiceFile>
-          <Content>That’s right. Yet we still don’t have any clues to track down the cause of this phenomenon.</Content>
+          <Content>ใช่แล้ว แต่ว่าเราก็ยังไม่มีเบาะแสที่จะแกะรอยไปยังต้นตอของปรากฏการณ์นี้เลย</Content>
         </Dialog>
         <Dialog ID="18" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora10</VoiceFile>
-          <Content>The most we have is the sudden disappearance of L Corp, and the ‘White Nights and Dark Days’ whose starting point was in the corporation’s Nest.</Content>
+          <Content>ที่เราพอมีก็แค่การหายไปอย่างกระทันหันของแอล คอร์ปกับราตรีสีขาวและทิวาสีดำที่เกิดขึ้นในเนสของแอล คอร์ปเท่านั้น</Content>
         </Dialog>
         <Dialog ID="19" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora11</VoiceFile>
-          <Content>Zwei suspects that the Library may be one of the keys to understanding the Distortion Phenomenon. </Content>
+          <Content>สไวเลยสงสัยว่าห้องสมุดอาจจะเป็นกุญแจที่ทำให้เข้าใจปรากฏการณ์บิดเบือนนี้ก็ได้</Content>
         </Dialog>
         <Dialog ID="20" Model="줄리아">
-          <Teller>Julia</Teller>
+          <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia5</VoiceFile>
-          <Content>A coworker told me a similar story. Said a resident in the area they were peacekeeping was suddenly distorted and transformed into a four-legged beast, even though there weren’t any signs of danger or anomaly nearby.</Content>
+          <Content>เพื่อนร่วมงานของฉันก็พูดถึงเรื่องที่คล้ายกันเหมือนกัน บอกว่าประชาชนในพื้นที่ที่พวกเขารักษาความสงบอยู่จู่ๆก็เกิดเหตุการณ์บิดเบือนแล้วกลายร่างเป็นอสูรสี่ขา ทั้งๆที่พวกเขาก็ไม่มีท่าทีที่เป็นอันตรายหรือผิดปกติบริเวณนั้นเลย</Content>
         </Dialog>
         <Dialog ID="21" Model="줄리아">
-          <Teller>Julia</Teller>
+          <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia6</VoiceFile>
-          <Content>Thankfully, they managed to take care of that creature before the death toll could hit two digits.</Content>
+          <Content>แต่ต้องชื่นชมเลยนะ พวกเขาได้จัดการสิ่งมีชีวิตนั่นก่อนที่ยอดผู้เสียชีวิตจะสูงขึ้นเป็นหลักสิบ</Content>
         </Dialog>
         <Dialog ID="22" Model="줄리아">
-          <Teller>Julia</Teller>
+          <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia7</VoiceFile>
-          <Content>And I also heard that a restaurant clerk turned into a… man-eating sandwich monster? Something like that one time.</Content>
+          <Content>และฉันก็พอได้ยินมาว่าคนงานในร้านอาหารกลายร่างไปเป็นสัตว์ประหลาดแซนวิชกินคน? อะไรนั่นแหละ</Content>
         </Dialog>
         <Dialog ID="23" Model="산">
-          <Teller>San</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san6</VoiceFile>
-          <Content>I think I understand now. So the Distortion Phenomenon is a clear and apparent threat to Zwei’s peacekeeping activities, and they expect the Library to hold a clue for resolving it.</Content>
+          <Content>ฉันคิดว่าฉันพอจับใจความได้แล้ว แปลว่าปรากฏการณ์บิดเบือนนั้นเป็นภัยชัดเจนต่อการพิทักสันติภาพของพวกสไว เลยคิดว่าห้องสมุดอาจจะมีหลักฐานที่พอไขคดีก็ได้</Content>
         </Dialog>
         <Dialog ID="24" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora12</VoiceFile>
-          <Content>You got that right. Fortunately, there haven’t been any cases of the phenomenon that’s nearly as devastating as ‘The Pianist’ so far.</Content>
+          <Content>ถูกต้อง โชคยังดี ที่ตอนนี้ยังไม่มีเคสใหนที่รุนแรงพอๆกับเหตุการณ์‘เดอะ เปียนิสต์’เลย</Content>
         </Dialog>
         <Dialog ID="25" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora13</VoiceFile>
-          <Content>It looks like Zwei is going to keep an eye out for the Library for a while. Though there are several other suspects they need to investigate as well, so we won’t be getting any high-grade Fixers.</Content>
+          <Content>ดูเหมือนว่าสไวจะยังจับตาเฝ้าดูห้องสมุดนั้นไปซักพัก แต่ตอนนี้ก็ยังมีพวกน่าสงสัยที่ยังต้องสอบสวนอยู่ เพราะงั้นพวกเราคงไม่ได้มีฟิกเซอร์เกรดสูงมาช่วยซักเท่าไหร่</Content>
         </Dialog>
         <Dialog ID="26" Model="산">
-          <Teller>San</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san7</VoiceFile>
-          <Content>This is more than enough help. Thanks, Isadora.</Content>
+          <Content>แค่นี้ก็ช่วยได้มากเลย ขอบคุณนะ อิซาดอรา</Content>
         </Dialog>
         <Dialog ID="27" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora14</VoiceFile>
-          <Content>I-I said I’m just doing my job. It’s not like I’m doing you a favor or anything. </Content>
+          <Content>ก-ก็บอกแล้วว่าฉันแค่ทำงานของฉันเท่านั้น ม-ไม่ได้ทำเพื่อนายหรืออะไรหรอกนะ</Content>
         </Dialog>
         <Dialog ID="28" Model="줄리아">
-          <Teller>Julia</Teller>
+          <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia8</VoiceFile>
-          <Content>Sure you are! You have my thanks as well, Isadora.</Content>
+          <Content>แน่นอนอยู่แล้ว! ฉันน่ะก็ขอบคุณเธอเหมือนกันนะ อิซาดอรา</Content>
         </Dialog>
         <Dialog ID="29" Model="산">
-          <Teller>San</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san8</VoiceFile>
-          <Content>Let’s get to it.</Content>
+          <Content>งั้นเราไปกันดีกว่า</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="30" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland1</VoiceFile>
-          <Content>Is that really true?</Content>
+          <Content>เรื่องจริงเรอะนั่น?</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela1</VoiceFile>
-          <Content>What is?</Content>
+          <Content>เรื่องอะไรเหรอ?</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland2</VoiceFile>
-          <Content>The things they said about the Library. Is this place really all connected to stuff like ‘White Nights and Dark Days’, L Corp, and the Distortion Phenomenon?</Content>
+          <Content>เรื่องที่เขาพูดเกี่ยวกับห้องสมุดน่ะ ที่นี่มีความเกี่ยวข้องกับพวก‘ราตรีสีขาวและทิวาสีดำ’,แอล คอร์ป,ปรากฏการณ์บิดเบือนอะไรพวกนั้นจริงดิ?</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland3</VoiceFile>
-          <Content>I’m frankly not even sure where we are in the City, though.</Content>
+          <Content>ฉันขอบอกตามตรงเลยว่าฉันเองยังไม่มั่นใจว่าเราอยู่ส่วนใหนในเมืองอะนะ</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela2</VoiceFile>
-          <Content>What if I said it is?</Content>
+          <Content>แล้วถ้าฉันบอกว่ามันเกี่ยวล่ะ?</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland4</VoiceFile>
-          <Content>If you said it is… I’m not sure I get what you mean.</Content>
+          <Content>ถ้าเธอบอกว่ามันเกี่ยวกัน… ฉันไม่ชัวร์ว่าฉันเข้าใจที่เธอพูดนะ</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland5</VoiceFile>
-          <Content>It’s extremely rare for an incident to encompass the City like the White Nights and Dark Days did.</Content>
+          <Content>มันนับว่าเป็นเคสที่เกิดได้ขึ้นยากมากสำหรับเหตุการณ์ที่ส่งผลกระทบไปทั้วทั้งเมืองเหมือนกับที่ราตรีสีขาวและทิวาสีดำทำ</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland6</VoiceFile>
-          <Content>There have been some cases of Wings falling apart on their own, but those only affected their own Nests at most. L Corp. was something else entirely.</Content>
+          <Content>มันก็มีอยู่หลายเคสที่วิงส์นั้นล่มสลายไปด้วยตัวเอง แต่มันก็ส่งผลกระทบกับแค่ในเนสของพวกเขาเท่านั้น แต่สำหรับแอล คอร์ปนั้นแตกต่างออกไปมาก</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland7</VoiceFile>
-          <Content>It’s like the whole City fell asleep for a week.</Content>
+          <Content>มันเหมือนกับว่าทั่วทั้งเมืองนั้นหลับไหลไปเป็นอาทิตย์เลย</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela3</VoiceFile>
-          <Content>Let’s say that the Library really is related to the White Nights and Dark Days. What does that change?</Content>
+          <Content>เอาเป็นว่าถ้าห้องสมุดนี้เกี่ยวข้องกับเหตุการณ์ราตรีสีขาวและทิวาสีดำจริงล่ะ มันจะเปลี่ยนอะไรไหม?</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland8</VoiceFile>
-          <Content>Nothing, I guess. My work is still gonna be the same…</Content>
+          <Content>ก็คงไม่ งานของฉันก็คงยังเป็นเหมือนเดิม…</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -994,192 +994,192 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าห้องสมุด</PlaceName>
         <Dialog ID="42" Model="줄리아">
-          <Teller>Julia</Teller>
+          <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia9</VoiceFile>
-          <Content>So this is the Library. The transportation method is almost like a Singularity.</Content>
+          <Content>นี่น่ะหรอห้องสมุด วิธีการเดินทางนั้นเหมือนกับพวกซิงกูลาริตี้เลยล่ะ</Content>
         </Dialog>
         <Dialog ID="43" Model="산">
-          <Teller>San</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san9</VoiceFile>
-          <Content>…Yeah. The director of the Library will soon come and greet us.</Content>
+          <Content>…ใช่ เดี๋ยวซักพักผู้กำกับของห้องสมุดก็จะมาทักทายเราแล้ว</Content>
         </Dialog>
         <Dialog ID="44" Model="줄리아">
           <Teller>Julia</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia10</VoiceFile>
-          <Content>Angela… was it?</Content>
+          <Content>แองเจล่า… ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela5</VoiceFile>
-          <Content>Greetings, dear guests. I am Angela, the director and librarian of my role’s namesake.</Content>
+          <Content>ยินดีต้อนรับค่ะ แขกผู้มีเกียรติ ดิฉันแองเจล่า เป็นบรรณารักษ์และผู้ดูแลที่แห่งนี้</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela6</VoiceFile>
-          <Content>Though it appears that you already know who I am.</Content>
+          <Content>แต่ดูเหมือนว่าคุณนั้นรู้อยู่แล้วว่าดิฉันเป็นใคร.</Content>
         </Dialog>
         <Dialog ID="47" Model="산">
-          <Teller>San</Teller>
+          <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san10</VoiceFile>
-          <Content>We’re here to take back the books of Mars and Lulu.</Content>
+          <Content>เรามาเพื่อรับหนังสือของมาร์สและลูลู่คืน</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela7</VoiceFile>
-          <Content>They are here indeed.</Content>
+          <Content>พวกเรามีสิ่งนั้นค่ะ</Content>
         </Dialog>
         <Dialog ID="49" Model="줄리아">
-          <Teller>Julia</Teller>
+          <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia11</VoiceFile>
-          <Content>We can get the books we want, or die and turn into books ourselves, right?</Content>
+          <Content>พวกเราสามารถรับหนังสือที่เราต้องการก็ได้ หรือไม่ก็ตายแล้วกลายเป็นหนังสือซะเอง ถูกไหม?</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela8</VoiceFile>
-          <Content>That is correct. As it is written on the invitation.</Content>
+          <Content>ถูกต้องแล้วค่ะ ตามที่เขียนไว้ในคำเชิญเลยค่ะ</Content>
         </Dialog>
         <Dialog ID="51" Model="줄리아">
-          <Teller>Julia</Teller>
+          <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia12</VoiceFile>
-          <Content>It’s like I’m talking to a wall. She’s so robotic.</Content>
+          <Content>ทำตัวอย่างกับหุ่นยนต์ เหมือนกับพวกเราคุยอยู่กับกำแพงเลย</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela9</VoiceFile>
-          <Content>…May you find your book in this place.</Content>
+          <Content>…ขอให้คุณพบหนังสือที่ต้องการ ณ ที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>에피소드2-종료</EpisodeName>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าห้องสมุด</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela10</VoiceFile>
-          <Content>…The Library is located in the source of the ‘White Nights and Dark Days’.</Content>
+          <Content>…ห้องสมุดนี้ตั้งอยู่ในแหล่งกำเนิดของ‘ราตรีสีขาวและทิวาสีดำ’</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela11</VoiceFile>
-          <Content>I touched up the headquarters of L Corp, the center of it, for my own use.</Content>
+          <Content>ฉันดัดแปลงตรงใจกลางของสำนักงานใหญ่ของแอล คอร์ป เพื่อใช้ส่วนตัวน่ะ</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela12</VoiceFile>
-          <Content>I have no comment to make on the Distortion Phenomenon that apparently started occurring afterwards.</Content>
+          <Content>ฉันจะไม่ออกความคิดเห็นเกี่ยวกับปรากฏการณ์บิดเบือนที่เกิดขึ้นในช่วงนี่</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela13</VoiceFile>
-          <Content>I have little to no information about that phenomenon, either.</Content>
+          <Content>เพราะว่าฉันไม่มีข้อมูลที่เกี่ยวข้องกับปรากฏการณ์นั้นเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela14</VoiceFile>
-          <Content>Though I do have a guess.</Content>
+          <Content>แต่ฉันก็พอเดาอะไรได้อยู่</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland9</VoiceFile>
-          <Content>Whoa, that came outta nowhere…</Content>
+          <Content>โว้ว จู่ๆก็อยากพูดขึ้นอะไรขึ้นมาเลยนะ…</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela15</VoiceFile>
-          <Content>You were curious about it earlier, weren’t you?</Content>
+          <Content>เมื่อกี้นี้นายก็สงสัยเกี่ยวกับมัน ใช่ไหมล่ะ?</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela16</VoiceFile>
-          <Content>I was created as a mechanical secretary to assist the manager of Lobotomy Corporation. </Content>
+          <Content>ฉันถูกสร้างให้เป็นเลขานุการเครื่องจักรในการช่วยเหลือผู้จัดการของในโลโบโทมี คอร์ปอเรชั่น </Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela17</VoiceFile>
-          <Content>I was designed to look like a human, feel emotions, and make evaluations and judgements based on those emotions.</Content>
+          <Content>ฉันถูกออกแบบให้ดูเหมือนกับหมุษย์ มีความรู้สึกและประเมินผลพร้อมกับตัดสินใจตามอารมณ์พวกนั้น</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela18</VoiceFile>
-          <Content>It’s as you suspected; I was born in secret, violating the AI Ethics Amendment.</Content>
+          <Content>ก็เป็นอย่างที่นายสงสัย ฉันถือเกิดมาอย่างลับๆ เพราะดันไปขัดกับการแก้ไขกฏหมายจริยธรรมเอไอ</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela19</VoiceFile>
-          <Content>I never got to make my own judgement, funnily enough. I had to read the same script over and over for one million years, all for the success of a single project.</Content>
+          <Content>ฉันไร้สิทธิในการตัดสินใจด้วยตัวเอง ฉันต้องอ่านสคริปเดิมๆซ้ำแล้วซ้ำเล่าเป็นล้านๆปีเพื่อให้โปรเจคๆหนึ่งสำเร็จ ตลกไหมล่ะ?</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela20</VoiceFile>
-          <Content>The play that never seemed to end finally concluded one day, and… And…</Content>
+          <Content>การแสดงที่ดูเหมือนกับไม่มีวันจบก็ได้สิ้นสุดลง และ… และ…</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland10</VoiceFile>
-          <Content>And the ‘White Nights and Dark Days’ happened as a result. Thanks for letting me know.</Content>
+          <Content>และเหตุการณ์‘ราตรีสีขาวและทิวาสีดำ’ก็เกิดขึ้นด้วยเหตุนั้น ขอบคุณนะที่บอกให้ฉันรู้</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland11</VoiceFile>
-          <Content>I don’t know who came up with that insane plan, but thanks to them, the Distortion Phenomenon started wreaking havoc on the City at random intervals.</Content>
+          <Content>ฉันก็ไม่รู้ว่าใครเป็นคนคิดแผนบ้าๆนี่ แต่ก็ต้องขอบคุณพวกเขา ปรากฏการณ์บิดเบือนก็เริ่มสร้างความเสียหายไปทั่งทั้งเมืองในแบบสุ่ม</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland12</VoiceFile>
-          <Content>Ordinary people would turn into monsters all of a sudden. And they’d kill everything in sight.</Content>
+          <Content>ประชาชนคนธรรมดาอยู่ๆก็กลายร่างเป็นสัตว์ประหลาด แล้วฆ่าทุกสิ่งที่พวกมันเห็น</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland13</VoiceFile>
-          <Content>And the first ever case of the Distortion, boy, was that a hellscape.</Content>
+          <Content>และเคสแรกของการบิดเบือน มันอย่างกับนรกบนดินเลย</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland14</VoiceFile>
-          <Content>It happened without any oncoming sign in a District that everyone believed to be relatively safe.</Content>
+          <Content>มันเกิดขึ้นโดยที่ไม่มีสัญญาณเตือน ในเขตที่ทุกคนเชื่อว่าเป็นเขตที่ค่อนข้างปลอดภัย</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland15</VoiceFile>
-          <Content>The massacre was a work of art, too.</Content>
+          <Content>การสังหารหมู่นั่นก็นับว่าเป็นงานศิลปะด้วย</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland16</VoiceFile>
-          <Content>It was named ‘The Pianist’ for a reason. What more could I say. </Content>
+          <Content>มันจึงถูกเรียกว่า ‘เดอะ เปียนิสต์’ด้วยเหตุผลนั้นแหละ ถ้าให้พูดตามตรงนะ</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1191,37 +1191,37 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland17</VoiceFile>
-          <Content>Anyway, thanks for telling me all that. Must have been a sensitive topic to you.</Content>
+          <Content>ยังไงก็แล้วแต่ ขอบคุณที่บอกฉันนะ มันคงเป็นเรื่องที่ค่อนข้างอ่อนไหวสำหรับเธอ</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela22</VoiceFile>
-          <Content>You aren’t as shocked as I expected.</Content>
+          <Content>นายดูไม่ค่อยช็อกอย่างที่ฉันคิดไว้ซะอีก</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland18</VoiceFile>
-          <Content>The monsters created from the Distortion did give off a suspiciously similar vibe to this library and its caretakers.</Content>
+          <Content>ก็สัตว์ประหลาดที่ถูกสร้างจากการบิดเบือนให้บรรยากาศที่หน้าสงสัยเหมือนกับห้องสมุดและคนดูแลของมันเลย</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland19</VoiceFile>
-          <Content>You must’ve gone through a whole lot of distress in your life.</Content>
+          <Content>เธอต้องผ่านความโศกเศร้าในชีวิตมามากมายแน่เลยในชีวิตนี้</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland20</VoiceFile>
-          <Content>Anyway, what comes next is the problem. What can we do to lure the Zwei here? </Content>
+          <Content>ยังไงก็แล้วแต่ สิ่งต่อมาก็คือปัญหา เราจะใช้อะไรล่อพวกสไวให้มาที่นี่กัน? </Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela23</VoiceFile>
-          <Content>…You can use this book. I tried writing down the relationship between L Corp. and the Distortion phenomenon. It should be quite valuable to them under these circumstances.</Content>
+          <Content>…ใช้หนังสือนี่สิ ฉันพยายามเขียนความสัมพันธ์ระหว่างแอล คอร์ปกับปรากฏการณ์บิดเบือน มันน่าจะพอมีค่าสำหรับพวกเขาในสถานการณ์นี้นะ</Content>
         </Dialog>
       </Place>
     </Episode>
