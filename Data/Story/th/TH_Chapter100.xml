@@ -3068,7 +3068,7 @@
           <Content />
         </Dialog>
         <Dialog ID="60" Model="네짜흐">
-          <Teller>Netzach</Teller>
+          <Teller>เน็ตซัค</Teller>
           <Title>Safety Team Sephirah</Title>
           <VoiceFile>ch8_Yesod_ep3_netzach1</VoiceFile>
           <Content>The Abnormalities are breaching…</Content>
@@ -3134,7 +3134,7 @@
           <Content>Netzach and the Safety Team, please focus on treating the wounded.</Content>
         </Dialog>
         <Dialog ID="71" Model="네짜흐">
-          <Teller>Netzach</Teller>
+          <Teller>เน็ตซัค</Teller>
           <Title>Safety Team Sephirah</Title>
           <VoiceFile>ch8_Yesod_ep3_netzach2</VoiceFile>
           <Content>Aight. I’ll try to take care of ‘em as quickly as I can.</Content>
@@ -5250,7 +5250,7 @@ I appreciate your help, everyone.</Content>
           <Content>Our employees have sustained too much damage…</Content>
         </Dialog>
         <Dialog ID="62" Model="네짜흐">
-          <Teller>Netzach</Teller>
+          <Teller>เน็ตซัค</Teller>
           <Title>Safety Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep3_netzach1</VoiceFile>
           <Content>The regenerators are at their limits, too…</Content>
@@ -6198,7 +6198,7 @@ I appreciate your help, everyone.</Content>
           <Content>We have plenty of things to prepare until the manager arrives and the work begins.</Content>
         </Dialog>
         <Dialog ID="60" Model="네짜흐">
-          <Teller>Netzach</Teller>
+          <Teller>เน็ตซัค</Teller>
           <Title>Safety Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Netzach1</VoiceFile>
           <Content>Yes, ma’am~ I’ll try.</Content>
@@ -6624,7 +6624,7 @@ I appreciate your help, everyone.</Content>
           <Content>This means that person will be in charge of managing everything about this facility.</Content>
         </Dialog>
         <Dialog ID="131" Model="네짜흐">
-          <Teller>Netzach</Teller>
+          <Teller>เน็ตซัค</Teller>
           <Title>Safety Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Netzach2-01</VoiceFile>
           <Content>Sigh… Whoever it is, everyone will die anyway…</Content>
@@ -7221,187 +7221,187 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland1</VoiceFile>
-          <Content>Netzach, librarian of the Arts.</Content>
+          <Content>เน็ตซัค บรรณารักษ์ศิลปศาสตร์</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland2</VoiceFile>
-          <Content>Is lying flat on the floor, huh…?</Content>
+          <Content>อะไรกัน นี่นอนที่พื้นเลยเร๊อะ…?</Content>
         </Dialog>
         <Dialog ID="2" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach1</VoiceFile>
-          <Content>(Netzach casts a glimpse at Roland while still lying on the floor, before turning back again.)</Content>
+          <Content>(เน็ตซัค เหลือบมองโรแลนด์ขณะที่ยังนอนอยู่บนพื้น ก่อนจะหันกลับมาอีกครั้ง)</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland3</VoiceFile>
-          <Content>Hunh… The books are all over the floor, too. I’m sensing zero motivation to work.</Content>
+          <Content>เฮอะ… หนังสือก็กองเต็มพื้นเลยด้วย ฉันไม่รู้สึกถึงแรงจูงใจในการอยาก ทำงานเลยซักกะนิด</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland4</VoiceFile>
-          <Content>Hello~~ Mister Netzach, Patron Librarian~~?</Content>
+          <Content>หวัดดี~~ คุณเน็ตซัค เป็นบรรณารักษ์ใช่ไหมม~~?</Content>
         </Dialog>
         <Dialog ID="5" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach2</VoiceFile>
-          <Content>Sigh…</Content>
+          <Content>เฮ้ออออ…</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland5</VoiceFile>
-          <Content>If you keep refusing to cooperate, Angela is gonna raise hell with me~</Content>
+          <Content>ถ้าคุณไม่ยอมให้ความร่วมมือ แองเจล่าจะมาเล่นฉันเอานะ~</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland6</VoiceFile>
-          <Content>Pleeeeeease wake up~~</Content>
+          <Content>ตื่นเถอะได้โปรดดดดดด~~</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach3</VoiceFile>
-          <Content>…Know how it feels to give everything you got to make something, only to see it completely break?</Content>
+          <Content>…นายรู้ไหมว่าต้องรู้สึกยังไง เมื่อทุ่มเททุกอย่างเพื่อนทำบางสิ่ง แต่กลับต้องเห็นมันพังทลายลงอย่างสิ้นเชิงน่ะ?</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach4</VoiceFile>
-          <Content>I tried so hard building a sand castle, and it got swept away by the waves.</Content>
+          <Content>ฉันพยายามอย่างหนักที่จะสร้างปราสาททราย แต่แล้วมันก็โดนคลื่นซัดหายไป</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland7</VoiceFile>
-          <Content>And I bet it was Angela who made those waves.</Content>
+          <Content>ฉันขอพนันเลยละกันว่า แองเจล่าต้องเป็นคนที่สร้างคลื่นเหล่านั้น</Content>
         </Dialog>
         <Dialog ID="11" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach5</VoiceFile>
-          <Content>I was woken up once again, called on to take charge of the work I don’t want yet again.</Content>
+          <Content>ฉันถูกปลุกให้ตื่นขึ้นมาอีกครั้ง ถูกเรียกให้มารับผิดชอบงานที่ไม่ต้องการอีกแล้ว</Content>
         </Dialog>
         <Dialog ID="12" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach6</VoiceFile>
-          <Content>Leave me alone for a bit. I wanna go back to sleep.</Content>
+          <Content>ปล่อยฉันไปเถอะ ฉันอยากกลับไปนอนอีกสักหน่อย</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland8</VoiceFile>
-          <Content>Boy oh boy. How could every one of you hate Angela so much?</Content>
+          <Content>โฮโหวววววววววว! ทำไมทุกคนถึงเกลียดแองเจล่ามากขนาดนี้กันนะ?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland9</VoiceFile>
-          <Content>Please help me out, will ya? We’re in the same boat, y’know?</Content>
+          <Content>ช่วยฉันหน่อยเหอะ? ไหนๆเราก็ลงเรือลำเดียวกันแล้วนะ?</Content>
         </Dialog>
         <Dialog ID="15" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach7</VoiceFile>
-          <Content>(He barely sits up.)</Content>
+          <Content>(เขาพยุงตัวขึ้นเล็กน้อยแต่ไม่ลุกขึ้นมานั่ง)</Content>
         </Dialog>
         <Dialog ID="16" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach8</VoiceFile>
-          <Content>You’re pitiable, man. How’d you end up in a place like this?</Content>
+          <Content>นายผู้น่าสงสาร ว่าแต่นายมาตกอยู่ในสถานการณ์แบบนี้ ได้ยังไงวะเพื่อน?</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland10</VoiceFile>
-          <Content>I know, right? I think I’m in a pretty miserable spot, too.</Content>
+          <Content>รู้ไหม? บางทีฉันก็สมเพชในจุดที่ ตัวเองอยู่เหมือนกันนั้นแหละ</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland11</VoiceFile>
-          <Content>So can you please spare some of that sympathy for us working hard together!</Content>
+          <Content>เพราะงั้นนายช่วยเห็นอกเห็นใจให้กับพวกเรา ที่ทำงานหนักด้วยกันหน่อยได้ไหม!</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach9</VoiceFile>
-          <Content>You prolly know already, but I’m Netzach, librarian on the artsy floor.</Content>
+          <Content>เอาล่ะๆ ฉันเข้าใจแล้ว นายอาจจะรู้อยู่แล้ว ฉันเน็ตซัคบรรณารักษ์ชั้นศิลปศาสตร์</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland12</VoiceFile>
-          <Content>And a proper introduction from me as well; I’m Roland, Angela’s servant and library worker.</Content>
+          <Content>ขอแนะนำตัวอย่างเป็นการทางด้วยแล้วกัน ฉันชื่อโรแลนด์คนรับใช้ของแองเจล่า</Content>
         </Dialog>
         <Dialog ID="21" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach10</VoiceFile>
-          <Content>I gotta wonder, how am I always left with the kind of work that doesn’t suit me at all?</Content>
+          <Content>ฉันสงสัยจังเลยนะ ว่าทำไมถึงต้องมาเจอกับงาน ที่ไม่เหมาะกับฉันอยู่ตลอดเลย?</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland13</VoiceFile>
-          <Content>You tell me. I never thought I’d work in a library of all places, either.</Content>
+          <Content>ฉันก็ว่างั้น ฉันไม่เคยคิดมาก่อนเลยว่า จะต้องทำงานที่ห้องสมุดเหมือนกันด้วย</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland14</VoiceFile>
-          <Content>Anyway! You’re going to be sorting books related to the arts from the bunch I bring, right?</Content>
+          <Content>ช่างเหอะ! นายต้องเรียงหนังสือที่เกี่ยวกับศิลปะ จากกองที่ฉันนำมาให้ถูกไหม?</Content>
         </Dialog>
         <Dialog ID="24" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach11</VoiceFile>
-          <Content>Apparently.</Content>
+          <Content>ก็อย่างนั้นแหละ</Content>
         </Dialog>
         <Dialog ID="25" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach12</VoiceFile>
-          <Content>Sigh… Can you go back now since we’re done exchanging names ‘n all?</Content>
+          <Content>เฮ้อ… กลับไปตอนนี้เลยได้ไหม ในเมื่อเราแลกชื่อกันเสร็จแล้ว?</Content>
         </Dialog>
         <Dialog ID="26" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach13</VoiceFile>
-          <Content>(He lies back down on the floor again.)</Content>
+          <Content>(เขานอนกองลงพื้นอีกครั้ง)</Content>
         </Dialog>
         <Dialog ID="27" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland15</VoiceFile>
-          <Content>Um, look, you can lie down all you want, but you’re gonna do your work, right?</Content>
+          <Content>โฮะโฮ้วโฮ ฟังนะนายจะนอนทั้งวันก็ไม่ว่าหรอก แต่นายจะทำงานก่อนใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="28" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach14</VoiceFile>
-          <Content>It’s not like I have a choice in that matter.</Content>
+          <Content>ใช่ว่าฉันจะมีทางเลือกแน่ะ</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland16</VoiceFile>
-          <Content>I’m counting on you~ Please make sure to work, alright?</Content>
+          <Content>ฉันพึ่งพานายอยู่นะ~ เพราะงั้นโปรดตั้งใจทำงานด้วย โอเค๊?</Content>
         </Dialog>
         <Dialog ID="30" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>None</VoiceFile>
-          <Content>(He shoos Roland away.)</Content>
+          <Content>(เขาไล่โรแลนด์ด้วยเสียงชุให้ไปไกลๆ)</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -7416,8 +7416,8 @@ I appreciate your help, everyone.</Content>
           <Content>Sir, you gotta wake up~ You’re gonna get sick if you sleep on the floor~</Content>
         </Dialog>
         <Dialog ID="1" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach1</VoiceFile>
           <Content>(Netzach once again casts a glimpse at Roland while still lying on the floor, before turning back again.)</Content>
         </Dialog>
@@ -7434,8 +7434,8 @@ I appreciate your help, everyone.</Content>
           <Content>…A beer can. Where the heck did you get this?</Content>
         </Dialog>
         <Dialog ID="4" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach2</VoiceFile>
           <Content>This is the Library, Roland. Constructed from the light of possibilities. Anything’s possible as long as you’ve got the book.</Content>
         </Dialog>
@@ -7446,8 +7446,8 @@ I appreciate your help, everyone.</Content>
           <Content>Uh… Are you sure you’re sorting the books well? You seemed okay at receiving guests, at least.</Content>
         </Dialog>
         <Dialog ID="6" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach3</VoiceFile>
           <Content>(He nods to the pile of books next to him.)</Content>
         </Dialog>
@@ -7458,14 +7458,14 @@ I appreciate your help, everyone.</Content>
           <Content>Really, you sorted them all? Lemme see, that’s… The books are almost randomly scattered across the floor. I don’t think that counts as sorting…</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach4</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach5</VoiceFile>
           <Content>Here, have a drink.</Content>
         </Dialog>
@@ -7488,8 +7488,8 @@ I appreciate your help, everyone.</Content>
           <Content>Boy, how I missed this sparkling softness.</Content>
         </Dialog>
         <Dialog ID="13" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach6</VoiceFile>
           <Content>Good stuff, ey?</Content>
         </Dialog>
@@ -7506,14 +7506,14 @@ I appreciate your help, everyone.</Content>
           <Content>So, how’s work been going?</Content>
         </Dialog>
         <Dialog ID="16" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach7</VoiceFile>
           <Content>It’s been going, somehow.</Content>
         </Dialog>
         <Dialog ID="17" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach8</VoiceFile>
           <Content>Not that I’m satisfied with it, though.</Content>
         </Dialog>
@@ -7524,8 +7524,8 @@ I appreciate your help, everyone.</Content>
           <Content>What’s your biggest complaint at the moment, then?</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach9</VoiceFile>
           <Content>That I have to take someone else’s life with my hands.</Content>
         </Dialog>
@@ -7536,20 +7536,20 @@ I appreciate your help, everyone.</Content>
           <Content>But it’s either you or them, ain’t it?</Content>
         </Dialog>
         <Dialog ID="21" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach10</VoiceFile>
           <Content>That’s why I have to fight. And that’s what I don’t like about it.</Content>
         </Dialog>
         <Dialog ID="22" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach11</VoiceFile>
           <Content>I’ll probably hafta kill even more people as time goes by.</Content>
         </Dialog>
         <Dialog ID="23" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach12</VoiceFile>
           <Content>Doesn’t matter if it’s a saint or the scum of the earth. Everyone wants to live all the same.</Content>
         </Dialog>
@@ -7572,8 +7572,8 @@ I appreciate your help, everyone.</Content>
           <Content>Take others’ lives so you can keep yours. Bit too obvious, maybe?</Content>
         </Dialog>
         <Dialog ID="27" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach13</VoiceFile>
           <Content>I guess that’s how things were in the outside world.</Content>
         </Dialog>
@@ -7584,8 +7584,8 @@ I appreciate your help, everyone.</Content>
           <Content>Where are you from, by the way? The Nest? The Backstreets?</Content>
         </Dialog>
         <Dialog ID="29" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach14</VoiceFile>
           <Content>Dunno, I’m feeling tipsy. All I remember for sure is that I worked at Lobotomy Corp.</Content>
         </Dialog>
@@ -7596,8 +7596,8 @@ I appreciate your help, everyone.</Content>
           <Content>Must’ve been in a pretty sweet spot, working in a megacorp like that.</Content>
         </Dialog>
         <Dialog ID="31" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach15</VoiceFile>
           <Content>You really think so?</Content>
         </Dialog>
@@ -7608,14 +7608,14 @@ I appreciate your help, everyone.</Content>
           <Content>Duh, of course. People are bound to envy anyone who gets to join a Wing. They give a lot of cash, welfare’s nice, and you gain social status too.</Content>
         </Dialog>
         <Dialog ID="33" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach16</VoiceFile>
           <Content>Yeah. That’s what they always say.</Content>
         </Dialog>
         <Dialog ID="34" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach17</VoiceFile>
           <Content>Let’s just forget about all that for now and drink some more.</Content>
         </Dialog>
@@ -7638,8 +7638,8 @@ I appreciate your help, everyone.</Content>
       <Place>
         <PlaceName>Location: The Library - Floor of Art</PlaceName>
         <Dialog ID="0" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach1</VoiceFile>
           <Content>Hey, did you know that art is inseparable from alcohol?</Content>
         </Dialog>
@@ -7650,8 +7650,8 @@ I appreciate your help, everyone.</Content>
           <Content>Oh yeah, I heard that. They say art is all about flashes of inspiration, right?</Content>
         </Dialog>
         <Dialog ID="2" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach2</VoiceFile>
           <Content>You know it. Maybe we’re on the same page after all.</Content>
         </Dialog>
@@ -7662,14 +7662,14 @@ I appreciate your help, everyone.</Content>
           <Content>Oh, you brought a different booze this time. Absinthe?</Content>
         </Dialog>
         <Dialog ID="4" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach3</VoiceFile>
           <Content>This is the liquor with a legacy that’s so deeply tied to art, it’s almost legendary.</Content>
         </Dialog>
         <Dialog ID="5" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach4</VoiceFile>
           <Content>Since I’m in charge of arts, I could use some stimulation to work like a real artist.</Content>
         </Dialog>
@@ -7686,8 +7686,8 @@ I appreciate your help, everyone.</Content>
           <Content>What if Angela scolds us like the last time, though?</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach5</VoiceFile>
           <Content>Eh, we can worry about that later.</Content>
         </Dialog>
@@ -7698,8 +7698,8 @@ I appreciate your help, everyone.</Content>
           <Content>Works for me. By the way, just thought I’d mention there’s no need to worry about courtesy n’ stuff with me.</Content>
         </Dialog>
         <Dialog ID="10" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach6</VoiceFile>
           <Content>I’d say it’s more comfortable for me to go with courtesy.</Content>
         </Dialog>
@@ -7710,20 +7710,20 @@ I appreciate your help, everyone.</Content>
           <Content>Alright then.</Content>
         </Dialog>
         <Dialog ID="12" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach7</VoiceFile>
           <Content>Look at this glowing green liquor. It’s just like the arts of this City.</Content>
         </Dialog>
         <Dialog ID="13" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach8</VoiceFile>
           <Content>Imitations that are provocative but nothing else… Imitations of imitations, in fact.</Content>
         </Dialog>
         <Dialog ID="14" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach9</VoiceFile>
           <Content>Though I don’t see any point in being original, either. I’m likely someone or something else’s imitation, too.</Content>
         </Dialog>
@@ -7746,14 +7746,14 @@ I appreciate your help, everyone.</Content>
           <Content>They seem to be mistaking any stimulation that’s stronger than usual for art. Just like how I’m praising this drink as a work of art.</Content>
         </Dialog>
         <Dialog ID="18" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach10</VoiceFile>
           <Content>The Pianist must’ve been one hell of a stimulant, then.</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach11</VoiceFile>
           <Content>I heard that its music was a hair-raising masterpiece that awoke this gray city from its ennui.</Content>
         </Dialog>
@@ -7770,8 +7770,8 @@ I appreciate your help, everyone.</Content>
           <Content>And some are still hungover from that performance, like they were slammed with a real strong booze.</Content>
         </Dialog>
         <Dialog ID="22" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach12</VoiceFile>
           <Content>How about you?</Content>
         </Dialog>
@@ -7788,8 +7788,8 @@ I appreciate your help, everyone.</Content>
           <Content>I guess you’ve taken a liking to arts, seeing as you’re talking about all this.</Content>
         </Dialog>
         <Dialog ID="25" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach13</VoiceFile>
           <Content>True. If I could choose to live a different life, I might have been a painter or something.</Content>
         </Dialog>
@@ -7800,14 +7800,14 @@ I appreciate your help, everyone.</Content>
           <Content>Painter, huh…</Content>
         </Dialog>
         <Dialog ID="27" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach14</VoiceFile>
           <Content>I’d be able to quietly express all my emotions on the painting.</Content>
         </Dialog>
         <Dialog ID="28" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach15</VoiceFile>
           <Content>Maybe I could’ve lived a humble life just like that.</Content>
         </Dialog>
@@ -7818,8 +7818,8 @@ I appreciate your help, everyone.</Content>
           <Content>And how’d a modest man like yourself end up getting involved in something as grandiose as “curing humanity”?</Content>
         </Dialog>
         <Dialog ID="30" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach16</VoiceFile>
           <Content>It really is a mystery. I’m not even sure. I think I wanted to be of help to someone.</Content>
         </Dialog>
@@ -7830,26 +7830,26 @@ I appreciate your help, everyone.</Content>
           <Content>Ooh, a someone? Perhaps your first love~?</Content>
         </Dialog>
         <Dialog ID="32" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach17</VoiceFile>
           <Content>Was it love, really? Even if it were, it wouldn’t have worked out anyway.</Content>
         </Dialog>
         <Dialog ID="33" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach18</VoiceFile>
           <Content>But I was still holding onto the hope that I could make something better.</Content>
         </Dialog>
         <Dialog ID="34" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach19</VoiceFile>
           <Content>That if I let go of my life, I could bring a bigger hope to some other person.</Content>
         </Dialog>
         <Dialog ID="35" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach20</VoiceFile>
           <Content>That’s why I participated in the research. That’s why I stood against Angela.</Content>
         </Dialog>
@@ -7911,7 +7911,7 @@ I appreciate your help, everyone.</Content>
           <Content>Indeed. You and your employees will wake up with brand new bodies.</Content>
         </Dialog>
         <Dialog ID="45" Model="네짜흐">
-          <Teller>Netzach</Teller>
+          <Teller>เน็ตซัค</Teller>
           <Title>Safety Team Sephirah</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach21</VoiceFile>
           <Content>That doesn’t erase all the pain we and the employees went through.</Content>
@@ -8040,32 +8040,32 @@ I appreciate your help, everyone.</Content>
       <Place>
         <PlaceName>Location: The Library - Floor of Art</PlaceName>
         <Dialog ID="66" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach22</VoiceFile>
           <Content>Whoever says out loud they wanna die is lying.</Content>
         </Dialog>
         <Dialog ID="67" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach23</VoiceFile>
           <Content>They actually want to live more than anyone, so they express that urge in one way or another.</Content>
         </Dialog>
         <Dialog ID="68" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach24</VoiceFile>
           <Content>On the other hand, when someone is genuinely willing to die, they end up disappearing silently.</Content>
         </Dialog>
         <Dialog ID="69" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach25</VoiceFile>
           <Content>When Angela said she wanted to live, I felt something within me.</Content>
         </Dialog>
         <Dialog ID="70" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach26</VoiceFile>
           <Content>That I want to live, too.</Content>
         </Dialog>
@@ -8088,8 +8088,8 @@ I appreciate your help, everyone.</Content>
           <Content>Well, it’s usually too late for ‘em by the time they realize that.</Content>
         </Dialog>
         <Dialog ID="74" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach27</VoiceFile>
           <Content>You seem well versed in that kinda stuff.</Content>
         </Dialog>
@@ -8100,26 +8100,26 @@ I appreciate your help, everyone.</Content>
           <Content>You get to see all kinds of people when you work as a Fixer.</Content>
         </Dialog>
         <Dialog ID="76" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach28</VoiceFile>
           <Content>When I saw that desperation to live…</Content>
         </Dialog>
         <Dialog ID="77" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach29</VoiceFile>
           <Content>I was reminded of the many employees who died right in front of my eyes back in Lobotomy Corp.</Content>
         </Dialog>
         <Dialog ID="78" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach30</VoiceFile>
           <Content>It’s ironic how we were trying to save humanity yet couldn’t save the people right next to us.</Content>
         </Dialog>
         <Dialog ID="79" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach31</VoiceFile>
           <Content>That’s when I thought: if I could live more, what would I want to do?</Content>
         </Dialog>
@@ -8130,8 +8130,8 @@ I appreciate your help, everyone.</Content>
           <Content>It’s a good idea to think about your next move, yeah.</Content>
         </Dialog>
         <Dialog ID="81" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach32</VoiceFile>
           <Content>How about you, Roland? Are you going to go back to being a Fixer once you’re free?</Content>
         </Dialog>
@@ -8154,8 +8154,8 @@ I appreciate your help, everyone.</Content>
           <Content>Alright! Here’s to us~</Content>
         </Dialog>
         <Dialog ID="85" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach33</VoiceFile>
           <Content>I can toast to that alright. Here’s to us~</Content>
         </Dialog>
@@ -8172,8 +8172,8 @@ I appreciate your help, everyone.</Content>
           <Content>You don’t reek of alcohol today. Wussup?</Content>
         </Dialog>
         <Dialog ID="1" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach1</VoiceFile>
           <Content>Cuz I didn’t drink. I just wanna stay sober today.</Content>
         </Dialog>
@@ -8184,8 +8184,8 @@ I appreciate your help, everyone.</Content>
           <Content>Hmm… What’s gotten into you?</Content>
         </Dialog>
         <Dialog ID="3" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach2</VoiceFile>
           <Content>You look pretty sad to miss out on a chance to drink.</Content>
         </Dialog>
@@ -8196,14 +8196,14 @@ I appreciate your help, everyone.</Content>
           <Content>Whoops, was it that noticeable?</Content>
         </Dialog>
         <Dialog ID="5" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach3</VoiceFile>
           <Content>Well, today’s a special day.</Content>
         </Dialog>
         <Dialog ID="6" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach4</VoiceFile>
           <Content>The day I died and perished from this world.</Content>
         </Dialog>
@@ -8220,20 +8220,20 @@ I appreciate your help, everyone.</Content>
           <Content>It’s hard to keep track of time staying here.</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach5</VoiceFile>
           <Content>The date doesn’t really matter.</Content>
         </Dialog>
         <Dialog ID="10" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach6</VoiceFile>
           <Content>It’s this exact moment I’m commemorating.</Content>
         </Dialog>
         <Dialog ID="11" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach7</VoiceFile>
           <Content>I learned all about the life and death of Giovanni, my first incarnation.</Content>
         </Dialog>
@@ -8244,8 +8244,8 @@ I appreciate your help, everyone.</Content>
           <Content>That’s what you meant, huh…</Content>
         </Dialog>
         <Dialog ID="13" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach8</VoiceFile>
           <Content>Do you think the followers of the Church of Gears are a bunch of fools, Roland?</Content>
         </Dialog>
@@ -8262,14 +8262,14 @@ I appreciate your help, everyone.</Content>
           <Content>Nah, I don’t think they’re stupid. They’re just pitiful.</Content>
         </Dialog>
         <Dialog ID="16" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach9</VoiceFile>
           <Content>That’s what I think, too.</Content>
         </Dialog>
         <Dialog ID="17" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach10</VoiceFile>
           <Content>I grew up without anyone to call parents.</Content>
         </Dialog>
@@ -8280,20 +8280,20 @@ I appreciate your help, everyone.</Content>
           <Content>Same here. I was raised by my grandma, had a rough childhood.</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach11</VoiceFile>
           <Content>I was born in a Nest, and got left in an orphanage without even knowing who my parents were.</Content>
         </Dialog>
         <Dialog ID="20" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach12</VoiceFile>
           <Content>I’d have died already if it was the Backstreets.</Content>
         </Dialog>
         <Dialog ID="21" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach13</VoiceFile>
           <Content>I was lucky to be born in a Nest, and unlucky to have lost my parents so early.</Content>
         </Dialog>
@@ -8304,8 +8304,8 @@ I appreciate your help, everyone.</Content>
           <Content>What Nest was it?</Content>
         </Dialog>
         <Dialog ID="23" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach14</VoiceFile>
           <Content>K Corp’s.</Content>
         </Dialog>
@@ -8316,38 +8316,38 @@ I appreciate your help, everyone.</Content>
           <Content>That’s one of the more decent ones I’ve heard.</Content>
         </Dialog>
         <Dialog ID="25" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach15</VoiceFile>
           <Content>Yep. My life was pretty smooth. Slightly more unfortunate than others, and slightly luckier than others.</Content>
         </Dialog>
         <Dialog ID="26" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach16</VoiceFile>
           <Content>I never really starved, or got bullied by anyone.</Content>
         </Dialog>
         <Dialog ID="27" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach17</VoiceFile>
           <Content>It was a sheltered life, free from any outside influence.</Content>
         </Dialog>
         <Dialog ID="28" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach18</VoiceFile>
           <Content>All I did was breathe in that shelter without meaning. I thought it was the natural thing to do.</Content>
         </Dialog>
         <Dialog ID="29" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach19</VoiceFile>
           <Content>Everyone else had the same expression as mine.</Content>
         </Dialog>
         <Dialog ID="30" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach20</VoiceFile>
           <Content>In the school or on the streets, all the people in the Nest made the same face.</Content>
         </Dialog>
@@ -8358,14 +8358,14 @@ I appreciate your help, everyone.</Content>
           <Content>Lost focus, spacing out and staring into empty places?</Content>
         </Dialog>
         <Dialog ID="32" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach21</VoiceFile>
           <Content>Mhm. You’re spot on. I figured life just comes and goes.</Content>
         </Dialog>
         <Dialog ID="33" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach22</VoiceFile>
           <Content>I kept living a monotonous life… Until I met someone with a face I’d never seen before.</Content>
         </Dialog>
@@ -8376,26 +8376,26 @@ I appreciate your help, everyone.</Content>
           <Content>Oho! I’m guessing you met your first love?</Content>
         </Dialog>
         <Dialog ID="35" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach23</VoiceFile>
           <Content>…I suppose. It was Giovanni’s first love, to be exact.</Content>
         </Dialog>
         <Dialog ID="36" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach24</VoiceFile>
           <Content>She was giving a passionate speech in the middle of the street, even though no one paid attention to her.</Content>
         </Dialog>
         <Dialog ID="37" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach25</VoiceFile>
           <Content>I barely understood what she was saying, actually.</Content>
         </Dialog>
         <Dialog ID="38" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach26</VoiceFile>
           <Content>All I could think about was how brilliant and alive a person could be.</Content>
         </Dialog>
@@ -8406,20 +8406,20 @@ I appreciate your help, everyone.</Content>
           <Content>Love at first sight, eh?</Content>
         </Dialog>
         <Dialog ID="40" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach27</VoiceFile>
           <Content>She went on about how she’ll change this world and its people.</Content>
         </Dialog>
         <Dialog ID="41" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach28</VoiceFile>
           <Content>And she was looking for recruits to join her cause.</Content>
         </Dialog>
         <Dialog ID="42" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach29</VoiceFile>
           <Content>Isn’t it funny? Who in the Nest would want to give up their comfortable life for research like that, really?</Content>
         </Dialog>
@@ -8430,14 +8430,14 @@ I appreciate your help, everyone.</Content>
           <Content>Yet you did.</Content>
         </Dialog>
         <Dialog ID="44" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach30</VoiceFile>
           <Content>True. Maybe she went out into the street expecting to run into someone like Giovanni.</Content>
         </Dialog>
         <Dialog ID="45" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach31</VoiceFile>
           <Content>Her name was Carmen.</Content>
         </Dialog>
@@ -8448,20 +8448,20 @@ I appreciate your help, everyone.</Content>
           <Content>Carmen, huh…</Content>
         </Dialog>
         <Dialog ID="47" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach32</VoiceFile>
           <Content>Whenever I saw Carmen brimming with joy and pride for her cause, I felt alive too.</Content>
         </Dialog>
         <Dialog ID="48" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach33</VoiceFile>
           <Content>I wanted to stay with her forever.</Content>
         </Dialog>
         <Dialog ID="49" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach34</VoiceFile>
           <Content>Though she probably just saw me as a good friend or colleague and nothing more.</Content>
         </Dialog>
@@ -8472,14 +8472,14 @@ I appreciate your help, everyone.</Content>
           <Content>Ah, the heartrending agony of unrequited love.</Content>
         </Dialog>
         <Dialog ID="51" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach35</VoiceFile>
           <Content>It didn’t matter to me that much. I was content with living on like that.</Content>
         </Dialog>
         <Dialog ID="52" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach36</VoiceFile>
           <Content>But…</Content>
         </Dialog>
@@ -8490,38 +8490,38 @@ I appreciate your help, everyone.</Content>
           <Content>Then tragedy befalls the research team, right?</Content>
         </Dialog>
         <Dialog ID="54" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach37</VoiceFile>
           <Content>Yep. Slowly…</Content>
         </Dialog>
         <Dialog ID="55" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach38</VoiceFile>
           <Content>Progress of our research stagnated, and Carmen gradually lost her liveliness.</Content>
         </Dialog>
         <Dialog ID="56" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach39</VoiceFile>
           <Content>And then, when a kid named Enoch died during an experiment…</Content>
         </Dialog>
         <Dialog ID="57" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach40</VoiceFile>
           <Content>It’s as if something within her snapped.</Content>
         </Dialog>
         <Dialog ID="58" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach41</VoiceFile>
           <Content>I wanted to cheer her up somehow, but seeing Carmen’s lethargic face scared me so much. It’s like I was erased from the world.</Content>
         </Dialog>
         <Dialog ID="59" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach42</VoiceFile>
           <Content>And Carmen ended her own life soon after that.</Content>
         </Dialog>
@@ -8532,32 +8532,32 @@ I appreciate your help, everyone.</Content>
           <Content>That sure sounds tragic. Must’ve shocked you hard.</Content>
         </Dialog>
         <Dialog ID="61" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach43</VoiceFile>
           <Content>I could take it somewhat well. I was actually pretty calm about it.</Content>
         </Dialog>
         <Dialog ID="62" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach44</VoiceFile>
           <Content>I thought, even the person who was more alive than anyone could meet such an early and miserable end.</Content>
         </Dialog>
         <Dialog ID="63" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach45</VoiceFile>
           <Content>I decided to stay in the laboratory to help out with completing the research Carmen started.</Content>
         </Dialog>
         <Dialog ID="64" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach46</VoiceFile>
           <Content>Her colleagues were still there, and they didn’t lose hope just yet.</Content>
         </Dialog>
         <Dialog ID="65" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach47</VoiceFile>
           <Content>Then one day, they said we might possibly be able to save Carmen.</Content>
         </Dialog>
@@ -8568,8 +8568,8 @@ I appreciate your help, everyone.</Content>
           <Content>A tempting offer, wasn’t it?</Content>
         </Dialog>
         <Dialog ID="67" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach48</VoiceFile>
           <Content>It was. And…</Content>
         </Dialog>
@@ -8580,38 +8580,38 @@ I appreciate your help, everyone.</Content>
           <Content>I’m guessing it came at a price.</Content>
         </Dialog>
         <Dialog ID="69" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach49</VoiceFile>
           <Content>It was a risky experiment. The subject could slip into a permanent coma if it went wrong.</Content>
         </Dialog>
         <Dialog ID="70" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach50</VoiceFile>
           <Content>No one was willing to participate, so I volunteered to be the subject.</Content>
         </Dialog>
         <Dialog ID="71" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach51</VoiceFile>
           <Content>Carmen coming back would’ve been the ideal outcome, but even if it failed and I ended up sleeping forever, I was okay with that.</Content>
         </Dialog>
         <Dialog ID="72" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach52</VoiceFile>
           <Content>In a world without Carmen, I lost my light anyway.</Content>
         </Dialog>
         <Dialog ID="73" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach53</VoiceFile>
           <Content>So I can understand people taking desperate measures to find meaning in their lives, like the Church of Gears we recently saw.</Content>
         </Dialog>
         <Dialog ID="74" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach54</VoiceFile>
           <Content>I participated in an experiment that could get me killed for a similar reason. And its result was…</Content>
         </Dialog>
@@ -8622,26 +8622,26 @@ I appreciate your help, everyone.</Content>
           <Content>A failure, huh?</Content>
         </Dialog>
         <Dialog ID="76" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach55</VoiceFile>
           <Content>Yep. Then I was given a second life. Woke up in Lobotomy Corp. as Netzach.</Content>
         </Dialog>
         <Dialog ID="77" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach56</VoiceFile>
           <Content>Even though I had already abandoned all attachment to life before I died…</Content>
         </Dialog>
         <Dialog ID="78" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach57</VoiceFile>
           <Content>In the midst of confusion, I could hear a nostalgic voice. It told me to try and live on.</Content>
         </Dialog>
         <Dialog ID="79" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach58</VoiceFile>
           <Content>After all those twists and turns, I finally got here. Now with the fearlessness to keep on living.</Content>
         </Dialog>
@@ -8652,26 +8652,26 @@ I appreciate your help, everyone.</Content>
           <Content>That’s a commendable spirit, Netz.</Content>
         </Dialog>
         <Dialog ID="81" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach59</VoiceFile>
           <Content>And now, I want to actually live, rather than just barely exist while doing nothing but breathe.</Content>
         </Dialog>
         <Dialog ID="82" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach60</VoiceFile>
           <Content>If I get a chance to, that is.</Content>
         </Dialog>
         <Dialog ID="83" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach61</VoiceFile>
           <Content>I’m starting to think it might actually be possible this time around.</Content>
         </Dialog>
         <Dialog ID="84" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach62</VoiceFile>
           <Content>The world is bigger than I expected, and it has lots of hideous sides, but there certainly is beauty to be found.</Content>
         </Dialog>
@@ -8682,8 +8682,8 @@ I appreciate your help, everyone.</Content>
           <Content>I guess your drinking habit was a coping mechanism to get you through each day.</Content>
         </Dialog>
         <Dialog ID="86" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach63</VoiceFile>
           <Content>Pretty much. I do enjoy alcohol for what it is, though.</Content>
         </Dialog>
@@ -8694,8 +8694,8 @@ I appreciate your help, everyone.</Content>
           <Content>Same for me.</Content>
         </Dialog>
         <Dialog ID="88" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach64</VoiceFile>
           <Content>I feel like a drink now. Shall we?</Content>
         </Dialog>
@@ -8712,20 +8712,20 @@ I appreciate your help, everyone.</Content>
       <Place>
         <PlaceName>Location: The Library - Floor of Art</PlaceName>
         <Dialog ID="0" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach1</VoiceFile>
           <Content>Art seems to change with the times.</Content>
         </Dialog>
         <Dialog ID="1" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach2-02</VoiceFile>
           <Content>Perhaps the form of art can be a good representation of the era it belongs to.</Content>
         </Dialog>
         <Dialog ID="2" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach3-01</VoiceFile>
           <Content>Those performances the Musicians of Bremen proclaim to be “works of art” could very well be a caricature of the City in its current state.</Content>
         </Dialog>
@@ -8754,32 +8754,32 @@ I appreciate your help, everyone.</Content>
           <Content>Who is the audience of their art, I wonder. Is it for themselves, or for others?</Content>
         </Dialog>
         <Dialog ID="7" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach4-01</VoiceFile>
           <Content>If art has to involve burning away the life of the artist or anyone else’s, then I’d like to tell everyone to quit it.</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach5</VoiceFile>
           <Content>Sugarcoating a life full of pain by calling it art is just disgusting.</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach6</VoiceFile>
           <Content>Pain should be acknowledged as pain and nothing else.</Content>
         </Dialog>
         <Dialog ID="10" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach7-01</VoiceFile>
           <Content>Are you enjoying this charade, Angela?</Content>
         </Dialog>
         <Dialog ID="11" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach8-01</VoiceFile>
           <Content>Letting all kinds of people enter the Library for their own purpose and watching them die?</Content>
         </Dialog>
@@ -8802,20 +8802,20 @@ I appreciate your help, everyone.</Content>
           <Content>C’est la vie.</Content>
         </Dialog>
         <Dialog ID="15" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach9</VoiceFile>
           <Content>Does it always have to end with death, though?</Content>
         </Dialog>
         <Dialog ID="16" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach10-01</VoiceFile>
           <Content>Throwing away lives to create something like the Musicians of Bremen do might count as art, but it’s not beautiful. Not at all.</Content>
         </Dialog>
         <Dialog ID="17" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach11</VoiceFile>
           <Content>The color of everyday life may just be a monotonous gray, but sacrificing your own life in pursuit of a new hue is just running away.</Content>
         </Dialog>
@@ -8838,8 +8838,8 @@ I appreciate your help, everyone.</Content>
           <Content>I’d much rather die leading my own life than to be pushed around by others.</Content>
         </Dialog>
         <Dialog ID="21" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach12-01</VoiceFile>
           <Content>But you’re the one who wanted to live more than anyone, Angela…</Content>
         </Dialog>
@@ -9162,8 +9162,8 @@ I appreciate your help, everyone.</Content>
           <Content>I need the deaths of others to thrive on!</Content>
         </Dialog>
         <Dialog ID="74" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach13-02</VoiceFile>
           <Content>Maybe there is a way for all of us to live.</Content>
         </Dialog>
@@ -9174,8 +9174,8 @@ I appreciate your help, everyone.</Content>
           <Content>…That form of hers reminds me of the Pianist.</Content>
         </Dialog>
         <Dialog ID="76" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach14-02</VoiceFile>
           <Content>All Angela wanted was to live life.</Content>
         </Dialog>
@@ -9186,8 +9186,8 @@ I appreciate your help, everyone.</Content>
           <Content>Seems so. She looks like a person who’s desperate to live somehow.</Content>
         </Dialog>
         <Dialog ID="78" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach15-02</VoiceFile>
           <Content>This isn’t your first time dealing with this, is it?</Content>
         </Dialog>
@@ -9240,26 +9240,26 @@ I appreciate your help, everyone.</Content>
           <Content>Sigh…</Content>
         </Dialog>
         <Dialog ID="6" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach16</VoiceFile>
           <Content>Whatever you might be feeling right now, don’t just throw it away. Life goes on, after all.</Content>
         </Dialog>
         <Dialog ID="7" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach17-02</VoiceFile>
           <Content>We all deserve to turn to the next chapter of our lives.</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach18</VoiceFile>
           <Content>So try to believe that there’s always gonna be an upcoming page to what you might be thinking is the end.</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach19-01</VoiceFile>
           <Content>Simply living out your life can be its own work of art.</Content>
         </Dialog>
@@ -9288,8 +9288,8 @@ I appreciate your help, everyone.</Content>
           <Content>She ran off in a hurry, eh?</Content>
         </Dialog>
         <Dialog ID="14" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach20-01</VoiceFile>
           <Content>Opening up can be a bit embarrassing.</Content>
         </Dialog>
@@ -9300,8 +9300,8 @@ I appreciate your help, everyone.</Content>
           <Content>Anyway, when a special occasion wraps up…</Content>
         </Dialog>
         <Dialog ID="16" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach21-01</VoiceFile>
           <Content>We celebrate with a drink.</Content>
         </Dialog>
@@ -9312,8 +9312,8 @@ I appreciate your help, everyone.</Content>
           <Content>Got any recommendations?</Content>
         </Dialog>
         <Dialog ID="18" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach22</VoiceFile>
           <Content>Champagne’s the way to go. How’s that sound?</Content>
         </Dialog>
@@ -19846,7 +19846,7 @@ because I am certain you will never leave me.”
           <Content>Why won’t any of you understand me!!!</Content>
         </Dialog>
         <Dialog ID="63" Model="네짜흐">
-          <Teller>Netzach</Teller>
+          <Teller>เน็ตซัค</Teller>
           <Title>Safety Team Sephirah</Title>
           <VoiceFile>ch8_Hokma_ep5_Netzach_1-01_Effect</VoiceFile>
           <Content>Working with you… makes me wanna try just a bit harder, I gotta say.</Content>
@@ -19858,7 +19858,7 @@ because I am certain you will never leave me.”
           <Content>&lt; ! Seed of Light Scenario Error ! &gt;</Content>
         </Dialog>
         <Dialog ID="65" Model="네짜흐">
-          <Teller>Netzach</Teller>
+          <Teller>เน็ตซัค</Teller>
           <Title>Safety Team Sephirah</Title>
           <VoiceFile>ch8_Hokma_ep5_Netzach_2-01_Effect</VoiceFile>
           <Content>What’s the point, I bet you just want everyone to die.</Content>
@@ -20398,14 +20398,14 @@ because I am certain you will never leave me.”
           <Content>We’ve got nothing to talk about with the likes of you.</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_kether_ep1_netzach1</VoiceFile>
           <Content>…Wait, I do.</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_kether_ep1_netzach2</VoiceFile>
           <Content>I have a problem with the process of retrieving the Light.</Content>
         </Dialog>
@@ -20464,8 +20464,8 @@ because I am certain you will never leave me.”
           <Content>Got anything left to say, Netzach?</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Teller>เน็ตซัค</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_kether_ep1_netzach3</VoiceFile>
           <Content>We thought that would be the last of it… Not any more of this…</Content>
         </Dialog>
