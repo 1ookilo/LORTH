@@ -682,7 +682,7 @@
           <Content>…แน่นอน. ทั้งหมดที่ผมทำก็แค่ส่งสารจากเบื้องบนครับ</Content>
         </Dialog>
         <Dialog ID="46" Model="양">
-          <Teller>ยัน</Teller>
+          <Teller>หยาง</Teller>
           <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Carnival_ep1_yang1</VoiceFile>
           <Content>พวกอินเด็กซ์ก็ยังเหมือนเดิมเสมอเลย</Content>
@@ -820,7 +820,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland13</VoiceFile>
-          <Content>อินเด็กซ์, หนึ่งใน Five Fingers จะตามมาล่าเราแน่ พวกเขาจะทำทุกอย่างเพื่อมาหาเรา</Content>
+          <Content>อินเด็กซ์, หนึ่งใน ไฟฟิงเกอร์ จะตามมาล่าเราแน่ พวกเขาจะทำทุกอย่างเพื่อมาหาเรา</Content>
         </Dialog>
         <Dialog ID="69" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -844,7 +844,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland16</VoiceFile>
-          <Content>อย่างไรก็ตาม Five Fingers มีพลังและอิทธิพลมากพอที่จะเป็นคู่แข่งกับวิงได้เลย ดังนั้นการเป็นศัตรูกับพวกเขาคงไม่ใช้เรื่องดี</Content>
+          <Content>อย่างไรก็ตาม ไฟฟิงเกอร์ มีพลังและอิทธิพลมากพอที่จะเป็นคู่แข่งกับวิงได้เลย ดังนั้นการเป็นศัตรูกับพวกเขาคงไม่ใช้เรื่องดี</Content>
         </Dialog>
         <Dialog ID="73" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -1009,7 +1009,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland22</VoiceFile>
-          <Content>เมื่อดูจากสิ่งที่เกิดขึ้น รับประกันได้เลยจะต้องเผชิญหน้ากับ Fingers อย่างน้อยหนึ่งละ</Content>
+          <Content>เมื่อดูจากสิ่งที่เกิดขึ้น รับประกันได้เลยจะต้องเผชิญหน้ากับ ฟิงเกอร์ อย่างน้อยหนึ่งละ</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -4939,66 +4939,66 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: An Apartment in L Corp’s Nest</PlaceName>
+        <PlaceName>สถานที่: อพาร์ตเมนต์ใน L Corp เนสท์</PlaceName>
         <Dialog ID="0" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo1</VoiceFile>
-          <Content>Oh no. This won’t do.</Content>
+          <Content>โฮ่แบบนี่ไม่ได้นะ</Content>
         </Dialog>
         <Dialog ID="1" Model="거주민1">
-          <Teller>Resident 1</Teller>
-          <Title>Nest Dweller</Title>
+          <Teller>ผู้พักอาศัย 1</Teller>
+          <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants1_1</VoiceFile>
-          <Content>But ma’am, we don’t have any cash left to offer you…</Content>
+          <Content>แต่คุณผู้หญิง เราไม่มีเงินสดเหลือให้คุณแล้ว…</Content>
         </Dialog>
         <Dialog ID="2" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo2</VoiceFile>
-          <Content>If you’re out of money, then you shouldn’t have asked for more protection from us, no?</Content>
+          <Content>หากคุณไม่มีเงินแล้ว คุณก็ไม่ควรขอการคุ้มครองจากเราไม่ใช่เหรอ?</Content>
         </Dialog>
         <Dialog ID="3" Model="거주민2">
-          <Teller>Resident 2</Teller>
-          <Title>Nest Dweller</Title>
+          <Teller>ผู้พักอาศัย 2</Teller>
+          <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants2-1-01</VoiceFile>
-          <Content>But the outside is covered in fog. We don’t know what’s out there… We’ll get killed…</Content>
+          <Content>แต่ข้างนอกมีหมอกปกคลุม เราไม่รู้ว่ามีอะไรอยู่ข้างนอกนั่น… เราอาจจะถูกฆ่าตาย…</Content>
         </Dialog>
         <Dialog ID="4" Model="거주민1">
-          <Teller>Resident 1</Teller>
-          <Title>Nest Dweller</Title>
+          <Teller>ผู้พักอาศัย 1</Teller>
+          <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants1_2-01</VoiceFile>
-          <Content>We aren’t safe here, either. Thugs could break in at any moment…</Content>
+          <Content>เราไม่ปลอดภัยที่นี่เหมือนกัน พวกอันธพาลอาจบุกเข้ามาได้ทุกเมื่อ…</Content>
         </Dialog>
         <Dialog ID="5" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang1</VoiceFile>
-          <Content>Oh, give me a break… Nest life must be too engraved in your heads to get where you stand right now.</Content>
+          <Content>โอ้ หยุดเลย… ชีวิตในเนสท์คงตราตรึงอยู่ในหัวของพวกคุณเกินไปจนทำให้ไปไหนมาไหนไม่ได้เลยเหรอ</Content>
         </Dialog>
         <Dialog ID="6" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang2</VoiceFile>
-          <Content>I thought maybe we could expect better from the household with the highest income around here.</Content>
+          <Content>ผมคิดว่าบางทีเราอาจคาดหวังได้มากกว่านี้จากเจ้าของหอนะ</Content>
         </Dialog>
         <Dialog ID="7" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin1</VoiceFile>
-          <Content>Sayo, shall we cut one off?</Content>
+          <Content>ซาโย เราจะเฉือนมันทิ้งมั้ย?</Content>
         </Dialog>
         <Dialog ID="8" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo3-01</VoiceFile>
-          <Content>Please do. These people will have to become accustomed to the rules of the Backstreets soon enough.</Content>
+          <Content>จัดการเลย คนเหล่านี้ควรจะคุ้นเคยกับกฎของ แบ็คสตรีท ให้เร็วหน่อย</Content>
         </Dialog>
         <Dialog ID="9" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin3-02</VoiceFile>
-          <Content>Hey, consider this a free lesson for you.</Content>
+          <Content>เฮ้ คิดว่านี่เป็นบทเรียนฟรีๆ จากเราละกัน</Content>
         </Dialog>
         <Dialog ID="10" Model="">
           <Teller />
@@ -5007,243 +5007,243 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>สถานที่: Outside an Apartment in L Corp’s Nest</PlaceName>
+        <PlaceName>สถานที่: นอกอพาร์ตเมนต์ใน L Corp เนสท์</PlaceName>
         <Dialog ID="11" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang3-01</VoiceFile>
-          <Content>We could take one arm from each.</Content>
+          <Content>เราควรเอาแขนทีละข้างนะ</Content>
         </Dialog>
         <Dialog ID="12" Model="거주민1">
-          <Teller>Resident 1</Teller>
-          <Title>Nest Dweller</Title>
+          <Teller>ผู้พักอาศัย 1</Teller>
+          <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants1_3</VoiceFile>
-          <Content>Please have mercy on us… You can’t be such heartless people…</Content>
+          <Content>ได้โปรดเมตตาพวกเราด้วย… แบบนั้นไม่ใจร้ายเกินไปหน่อยเหรอ…</Content>
         </Dialog>
         <Dialog ID="13" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo4-01</VoiceFile>
-          <Content>And did you spare any mercy for us while we struggled in the Backstreets, covered in filth and blood? No, you simply spectated our suffering from the comfort of the Nest, did you not?</Content>
+          <Content>แล้วพวกคุณไม่เมตตาเราเลยหรือในขณะที่เราต่อสู้ให้ใน แบ็คสตรีท ซึ่งเต็มไปด้วยความสกปรกและเลือด? พวกคุณแค่มองดูความทุกข์ทรมานของพวกเรา แล้วพวกคุณกับอยู่สุขสบายใน เนสท์ ไม่ใช้หรอ</Content>
         </Dialog>
         <Dialog ID="14" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo5</VoiceFile>
-          <Content>It’s rather infuriating now that I think about it. Yang, let us take an eye from them as well.</Content>
+          <Content>พอคิดแบบนั้นแล้วมันหน้าหงุดหงิดขึ้นมาเลย หยาง เอาตาไปด้วยแล้วกัน</Content>
         </Dialog>
         <Dialog ID="15" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang4</VoiceFile>
-          <Content>Yes, dame~</Content>
+          <Content>ครับ มาดาม~</Content>
         </Dialog>
         <Dialog ID="16" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin3-01</VoiceFile>
-          <Content>Got your arms first.</Content>
+          <Content>รับแขนของคุณก่อนละกัน</Content>
         </Dialog>
         <Dialog ID="17" Model="거주민2">
-          <Teller>Resident 2</Teller>
-          <Title>Nest Dweller</Title>
+          <Teller>ผู้พักอาศัย 2</Teller>
+          <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants2-2</VoiceFile>
-          <Content>We didn’t ask for this, you people came into our house all of a sudden and threatened us to pay protection money…</Content>
+          <Content>เราไม่ได้ขออะไรเลย จู่ๆ คนของคุณก็เข้ามาในบ้านของเราและขู่ให้เราจ่ายค่าคุ้มครอง…</Content>
         </Dialog>
         <Dialog ID="18" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang5</VoiceFile>
-          <Content>So have we kept you safe or not? I’m pretty sure we took care of all the bad guys trying to get here.</Content>
+          <Content>เราได้ดูแลความปลอดภัยให้คุณไม่ใช้หรอ? ฉันค่อนข้างแน่ใจเลยว่าเราดูแลทุกคนที่พยายามอยู่ที่นี่</Content>
         </Dialog>
         <Dialog ID="19" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang6</VoiceFile>
-          <Content>And got your eyes as well~</Content>
+          <Content>ขอตาของคุณต่อนะ~</Content>
         </Dialog>
         <Dialog ID="20" Model="거주민1">
-          <Teller>Resident 1</Teller>
-          <Title>Nest Dweller</Title>
+          <Teller>ผู้พักอาศัย 1</Teller>
+          <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants1_4</VoiceFile>
-          <Content>What do we do… How are we gonna live now…</Content>
+          <Content>เราจะทำยังไง…เราจะอยู่ได้ยังไง…</Content>
         </Dialog>
         <Dialog ID="21" Model="거주민2">
-          <Teller>Resident 2</Teller>
-          <Title>Nest Dweller</Title>
+          <Teller>ผู้พักอาศัย 2</Teller>
+          <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants2-3</VoiceFile>
-          <Content>The Nest fell so suddenly…</Content>
+          <Content>ทำไมเนสท์ถึงล้มสลายไปเร็วขนาดนี้…</Content>
         </Dialog>
         <Dialog ID="22" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin4</VoiceFile>
-          <Content>What a bunch of crybabies. We’re being quite generous as Backstreets businesses go.</Content>
+          <Content>ร้องไห้ขี้แยไปได้ เราใจกว้างมากสุดแล้วใน แบ็คสตรีท แล้วเนี่ย</Content>
         </Dialog>
         <Dialog ID="23" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo6-01</VoiceFile>
-          <Content>Now, now~ We’ll be going then. Please don’t forget today’s lesson:</Content>
+          <Content>เอาน่า เอาน่า~ เราจะไปกันแล้ว โปรดอย่าลืมบทเรียนของวันนี้ด้วยล่ะ:</Content>
         </Dialog>
         <Dialog ID="24" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo7-01</VoiceFile>
-          <Content>If you receive something, you should return that favor accordingly. Imagine if it was the Ring protecting this area, not us…</Content>
+          <Content>หากได้รับสิ่งใดก็ควรตอบแทนสิ่งนั้นตามสมควร ลองนึกภาพว่าถ้าเป็นริงที่ปกป้องพื้นที่นี้ ไม่ใช่เราล่ะ…</Content>
         </Dialog>
         <Dialog ID="25" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo8</VoiceFile>
-          <Content>Dear, the thought alone is terrifying.</Content>
+          <Content>แค่คิดก็สยองแล้ว</Content>
         </Dialog>
         <Dialog ID="26" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo9-01</VoiceFile>
-          <Content>Oh, and please leave this house by tomorrow.</Content>
+          <Content>โอ้ และโปรดออกจากบ้านนี้ภายในวันพรุ่งนี้ด้วย</Content>
         </Dialog>
         <Dialog ID="27" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo10</VoiceFile>
-          <Content>Gin, confiscate the apartment deed from these people, will you?</Content>
+          <Content>จิน ยึดโฉนดห้องเช่าของพวกนี้ด้วย?</Content>
         </Dialog>
         <Dialog ID="28" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang7-01</VoiceFile>
-          <Content>You’ll be visited by much less pleasant fellows next time, so you’d better move out as soon as possible~</Content>
+          <Content>ครั้งหน้าคุณจะมีเพื่อนที่ไม่ค่อยดีมาเยี่ยม ดังนั้นคุณควรย้ายออกให้เร็วที่สุด~</Content>
         </Dialog>
         <Dialog ID="29" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo11-01</VoiceFile>
-          <Content>Now then, we’ve collected the protection money and got our fabric… Shall we go back and pay our due credit?</Content>
+          <Content>ตอนนี้เราได้เก็บคุ้มครองและได้รับผ้าของเรามาแล้ว... เรากลับกันเลยดีกว่า?</Content>
         </Dialog>
         <Dialog ID="30" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo12</VoiceFile>
-          <Content>Ah, by the way, Gin. How is the current situation with L Corp’s Nest?</Content>
+          <Content>อ้อ ยังไงก็ตามจิน สถานการณ์ปัจจุบันของ L Corp's ใน เนสท์ เป็นยังไง?</Content>
         </Dialog>
         <Dialog ID="31" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin5</VoiceFile>
-          <Content>It’s fierce. This is the first time in a long while the Thumb and the อินเด็กซ์ got in a turf war over an area.</Content>
+          <Content>ดูดเดือดเลย นี่เป็นครั้งแรกในรอบหลายปีที่ธัมบ์และอินเด็กซ์ทำสงครามแย่งชิงพื้นที่กัน</Content>
         </Dialog>
         <Dialog ID="32" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin6</VoiceFile>
-          <Content>Everyone must be thinking this is the promised estate or something.</Content>
+          <Content>ทุกคนคงคิดว่านั้นมันคือพื้นที่พิเศษหรืออะไรสักอย่าง</Content>
         </Dialog>
         <Dialog ID="33" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo13</VoiceFile>
-          <Content>The same can be said for us, no?</Content>
+          <Content>พวกเราก็ไม่ต่างกันไม่ใช้หรอ?</Content>
         </Dialog>
         <Dialog ID="34" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang8</VoiceFile>
-          <Content>On another note, the ‘Rusted Chains’ already proved to be an issue, but we’ve been colliding with ‘Blade Lineage’ more often these days.</Content>
+          <Content>อีกอย่างหนึ่ง 'รัสเชน' ได้รับการพิสูจน์แล้วว่าเป็นตัวปัญหา แต่ช่วงนี้เราชนกับ 'ตะกูลเบลด' บ่อยขึ้นด้วย</Content>
         </Dialog>
         <Dialog ID="35" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo14</VoiceFile>
-          <Content>Perhaps we should have a friendly conversation with them before the tension overheats.</Content>
+          <Content>บางทีเราควรพูดคุยกับพวกเขาอย่างเป็นกันเองก่อนที่ความตึงเครียดจะมีมากไปกว่านี้</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>สถานที่: L Corp’s Nest - Residential Area</PlaceName>
+        <PlaceName>สถานที่: L Corp’s Nest - ผู้พักอาศัยial Area</PlaceName>
         <Dialog ID="36" Model="흑운회 조직원1">
-          <Teller>Hencher 1</Teller>
+          <Teller>เฮนเชอร์ 1</Teller>
           <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_underling1-2-01</VoiceFile>
-          <Content>Khurf…</Content>
+          <Content>เฮื้อก…</Content>
         </Dialog>
         <Dialog ID="37" Model="흑운회 조직원 2">
-          <Teller>Hencher 2</Teller>
+          <Teller>เฮนเชอร์ 2</Teller>
           <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_underling2</VoiceFile>
-          <Content>Run, dame…</Content>
+          <Content>หนีเร็วครับบมาดาม…</Content>
         </Dialog>
         <Dialog ID="38" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin7-01</VoiceFile>
-          <Content>What are you.</Content>
+          <Content>คุณคือตัวอะไรเนี่ย</Content>
         </Dialog>
         <Dialog ID="39" Model="타냐">
-          <Teller>Tanya</Teller>
+          <Teller>ทันย่า</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya1</VoiceFile>
-          <Content>Sup fellas?</Content>
+          <Content>เป็นไงสวัสดี?</Content>
         </Dialog>
         <Dialog ID="40" Model="타냐">
-          <Teller>Tanya</Teller>
+          <Teller>ทันย่า</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya2</VoiceFile>
-          <Content>Got some gains with your business?</Content>
+          <Content>ธุรกิจของพวกคุณมีกำไรบางไหม?</Content>
         </Dialog>
         <Dialog ID="41" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo15-01</VoiceFile>
-          <Content>She has the head of a dog? A dog in black coat?</Content>
+          <Content>เธอมีหัวเป็นสุนัขด้วย? สุนัขในเสื้อคลุมสีดำ?</Content>
         </Dialog>
         <Dialog ID="42" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo16-01</VoiceFile>
-          <Content>Are those kinds of surgeries hip with the kids these days?</Content>
+          <Content>สมัยนี้เขาศัลยกรรมอกกันแบบนี้หรอ??</Content>
         </Dialog>
         <Dialog ID="43" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang9</VoiceFile>
-          <Content>Captain, that appears to be the one recently dubbed as ‘L'heure du Loup’.</Content>
+          <Content>หัวหน้า ดูเหมือนว่าจะเป็นผู้ที่พึ่งได้รับการขนานนามว่า 'แอล'เฮียร์ ดู ลูป'</Content>
         </Dialog>
         <Dialog ID="44" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo17</VoiceFile>
-          <Content>Oh? So she’s a wolf, not a dog? Still appears to be a little bitch to me.</Content>
+          <Content>โอ้? เธอเป็นหมาป่าไม่ใช่สุนัขเหรอ? แต่ยังไงก็ตามเธอดูระยำเล็กน้อยสำหรับฉันนะ</Content>
         </Dialog>
         <Dialog ID="45" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya3</VoiceFile>
-          <Content>Funny, innit? Laugh while you can.</Content>
+          <Content>ตลกหรอ? หัวเราะไปในขนาดที่หัวเราะได้</Content>
         </Dialog>
         <Dialog ID="46" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya4-01</VoiceFile>
-          <Content>Let’s see, we have around a hundred Kurokumo punks ‘ere.</Content>
+          <Content>มาดูสิเรามี คุโรคุโมะ ประมาณร้อยกว่าตัว</Content>
         </Dialog>
         <Dialog ID="47" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin8</VoiceFile>
-          <Content>You speak as if you can take us all on.</Content>
+          <Content>แกพูดราวกับว่าแกจะชนะได้ทั้งหมดแล</Content>
         </Dialog>
         <Dialog ID="48" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya5</VoiceFile>
-          <Content>That’s the plan, yeah.</Content>
+          <Content>ชนะสิ</Content>
         </Dialog>
         <Dialog ID="49" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo18-01</VoiceFile>
-          <Content>Let us teach that pup a lesson.</Content>
+          <Content>สงสัยต้องสอนบทเรียนให้กับลูกสุนัขตัวนี้ละ</Content>
         </Dialog>
         <Dialog ID="50" Model="">
           <Teller />
@@ -5251,256 +5251,256 @@
           <Content />
         </Dialog>
         <Dialog ID="51" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya6-01</VoiceFile>
-          <Content>Pah. Weaksauce.</Content>
+          <Content>กากชิบ</Content>
         </Dialog>
         <Dialog ID="52" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya7-01</VoiceFile>
-          <Content>I coulda crushed you like bugs even before I turned into what I am now.</Content>
+          <Content>ฉันสามารถบดขยี้พวกแกเหมือนแมลงได้เลย ต่อให้ก่อนที่ฉันจะมาเป็นแบบตอนนี้ก็ตาม</Content>
         </Dialog>
         <Dialog ID="53" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya8-01</VoiceFile>
-          <Content>Alright, why don’tcha gather round and kneel.</Content>
+          <Content>เอาล่ะ ทำไมพวกแกไม่รวมตัวกันและคุกเข่าล่ะ</Content>
         </Dialog>
         <Dialog ID="54" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya9</VoiceFile>
-          <Content>The dead… Welp, they can’t be helped.</Content>
+          <Content>ศพ… อืม ปล่อยไว้ละกัน</Content>
         </Dialog>
         <Dialog ID="55" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo19-01</VoiceFile>
-          <Content>…What is it that you want?</Content>
+          <Content>…คุณต้องการอะไร?</Content>
         </Dialog>
         <Dialog ID="56" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya10-01</VoiceFile>
-          <Content>Ehey, I have plenty of wants, gal.</Content>
+          <Content>เฮ้ ฉันอยากได้มากมายเลยนะสาวน้อย</Content>
         </Dialog>
         <Dialog ID="57" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya11</VoiceFile>
-          <Content>Wanna have a ton of cash in my hands.</Content>
+          <Content>อยากมีเงินสดสักก้อนอยู่ในมือ</Content>
         </Dialog>
         <Dialog ID="58" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya12</VoiceFile>
-          <Content>Wanna live in a Nest for once, too.</Content>
+          <Content>อยากอยู่ใน เนสท์ สักครั้งเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="59" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya13</VoiceFile>
-          <Content>…But before any of that, I wanna make some music.</Content>
+          <Content>…แต่ก่อนอื่นเลย ฉันอยากทำเพลงก่อน</Content>
         </Dialog>
         <Dialog ID="60" Model="흑운회 조직원 1">
-          <Teller>Hencher 1</Teller>
+          <Teller>เฮนเชอร์ 1</Teller>
           <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_underling1-1</VoiceFile>
-          <Content>Fucking hell… Shut your yap already…</Content>
+          <Content>หน่อยแน่แกหุปปาก…</Content>
         </Dialog>
         <Dialog ID="61" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya14-01</VoiceFile>
-          <Content>Whoa~ Look at their skull go. Flew right outta the park, homerun.</Content>
+          <Content>โว้ว~ ดูกระโหลกนั้นสิมันลอยไปแล้ว เข้าถังเลยโฮมรัน</Content>
         </Dialog>
         <Dialog ID="62" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin9</VoiceFile>
-          <Content>Tell us what you demand from us.</Content>
+          <Content>บอกเราหน่อยว่าคุณต้องการอะไรจากเรา</Content>
         </Dialog>
         <Dialog ID="63" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya15</VoiceFile>
-          <Content>Oh, ah, what I want from you guys?</Content>
+          <Content>โอ้ อื่ม ฉันต้องการอะไรจากพวกแก่งั้นเหรอ?</Content>
         </Dialog>
         <Dialog ID="64" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya16</VoiceFile>
-          <Content>Right, that was the point.</Content>
+          <Content>ใช่นั่นคือประเด็นนี่น่า</Content>
         </Dialog>
         <Dialog ID="65" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya17-01</VoiceFile>
-          <Content>First off, the piece of cloth you’re carrying? Gimme that.</Content>
+          <Content>ก่อนอื่นเลยขอผ้าที่พวกแกถืออยู่ก่อนละกัน? </Content>
         </Dialog>
         <Dialog ID="66" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo20</VoiceFile>
-          <Content>…This Nuovo Fabric is for the Thumb, though?</Content>
+          <Content>…ผ้า นูโว เราต้องเอาไปให้ธัมเท่านั้นนะ?</Content>
         </Dialog>
         <Dialog ID="67" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya18</VoiceFile>
-          <Content>My boss showed interest in that thing. Heard that’s a pretty nice cut o’ cloth.</Content>
+          <Content>เจ้านายของฉันสนใจในเจ้าสิ่งนั้นพอดี ได้ยินมาว่าเป็นผ้าที่ดีเลยทีเดียว</Content>
         </Dialog>
         <Dialog ID="68" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya19-01</VoiceFile>
-          <Content>Guess he wants us to suit up before the performance.</Content>
+          <Content>เดาว่าเขาต้องการให้เราแต่งตัวก่อนการแสดงนะ</Content>
         </Dialog>
         <Dialog ID="69" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin10</VoiceFile>
-          <Content>You must know the consequences of making an enemy of the Thumb.</Content>
+          <Content>แกรู้ใช้มั้ยว่าเป็นศัตรูกับธัมแล้วจะเป็นยังไง</Content>
         </Dialog>
         <Dialog ID="70" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya20</VoiceFile>
-          <Content>The Thumb? Pft, tell ‘em to bring it on. I’mma smash ‘em all.</Content>
+          <Content>ธัมหรอ เข้ามาเลยเข้ามาเดียวจะกระทืบแม่งให้หมดทุกตัวเลย</Content>
         </Dialog>
         <Dialog ID="71" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya21-01</VoiceFile>
-          <Content>Oh, and take your goons to the Library, will ya?</Content>
+          <Content>โอ้ใช้ พวกแกต้องไปที่ห้องสมุดด้วย?</Content>
         </Dialog>
         <Dialog ID="72" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo21</VoiceFile>
-          <Content>The Library…? The building that is rumored to be at the center of this Nest?</Content>
+          <Content>ห้องสมุด…? อาคารที่มีข่าวลือว่าเป็นศูนย์กลางของ เนสท์ แห่งนี้เหรอ?</Content>
         </Dialog>
         <Dialog ID="73" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya22</VoiceFile>
-          <Content>Yep, that thing.</Content>
+          <Content>ใช่สิ่งนั้นแล</Content>
         </Dialog>
         <Dialog ID="74" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo22</VoiceFile>
-          <Content>So you are after the wealth this land can bring, after all.</Content>
+          <Content>สุดท้ายคุณก็ตามหาความมั่งคั่งที่นี้สินะ</Content>
         </Dialog>
         <Dialog ID="75" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya23-01</VoiceFile>
-          <Content>I told ya that’s not it.</Content>
+          <Content>ฉันก็บอกแกแล้วว่าไม่ใช่</Content>
         </Dialog>
         <Dialog ID="76" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya24</VoiceFile>
-          <Content>I do wanna earn some bucks, but music comes first.</Content>
+          <Content>ฉันอยากได้เงินสักก้อน แต่ดนตรีต้องมาก่อน</Content>
         </Dialog>
         <Dialog ID="77" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang10</VoiceFile>
-          <Content>But for what reason…</Content>
+          <Content>เพราะอะไรนั้น…</Content>
         </Dialog>
         <Dialog ID="78" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya25</VoiceFile>
-          <Content>Beats me. My boss…</Content>
+          <Content>ไม่รู้เหมือนกันมันเป็นความต้องการของเจ้านายฉัน…</Content>
         </Dialog>
         <Dialog ID="79" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya26</VoiceFile>
-          <Content>No, I mean the orchestrator of our ensemble wants us to get rid of all those noisy Syndicates like the Thumb or the อินเด็กซ์ so that we can make some music.</Content>
+          <Content>ไม่สิ ฉันหมายถึงออเคสตราของวงดนตรีของเราต้องการให้ฉันกำจัดซินดิเคทที่ส่งเสียงดังอย่างธัมหรืออินเด็กซ์ เพื่อให้เราทำเพลงได้</Content>
         </Dialog>
         <Dialog ID="80" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya27</VoiceFile>
-          <Content>In fancy suits, too.</Content>
+          <Content>ในทางที่ดูตะกันตาอีกด้วย</Content>
         </Dialog>
         <Dialog ID="81" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya28</VoiceFile>
-          <Content>And help out the Library while we’re at it.</Content>
+          <Content>และพวกแกช่วยไปห้องสมุดในระหว่างนี้ด้วย</Content>
         </Dialog>
         <Dialog ID="82" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo23</VoiceFile>
-          <Content>Help out the Library?</Content>
+          <Content>ห้องสมุดงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="83" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya29</VoiceFile>
-          <Content>Shush, gal. Keep your eyes low if you don’t wanna get dead.</Content>
+          <Content>จุ๊ๆ สาวน้อยก้มหน้าลงถ้ายังไม่อยากตาย</Content>
         </Dialog>
         <Dialog ID="84" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo24-01</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="85" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya30-01</VoiceFile>
-          <Content>Anyways, you guys can take this and head to the Library like I said.</Content>
+          <Content>อย่างไรก็ตาม พวกแกรับสิ่งนี้และไปที่ห้องสมุดตามที่บอกสะ</Content>
         </Dialog>
         <Dialog ID="86" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya31-01</VoiceFile>
-          <Content>Go on ahead.</Content>
+          <Content>ไปสะ</Content>
         </Dialog>
         <Dialog ID="87" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya32</VoiceFile>
-          <Content>C’mon, get going already.</Content>
+          <Content>ไปได้แล้ว</Content>
         </Dialog>
         <Dialog ID="88" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya33-01</VoiceFile>
-          <Content>If you don’t use that invitation right now, I’ll kindly remove all the bones from your flesh.</Content>
+          <Content>หากพวกแกไม่ใช้คำเชิญตอนนี้ ฉันจะเอากระดูกทั้งหมดออกจากเนื้อพวกแกเลยค่อยดู</Content>
         </Dialog>
         <Dialog ID="89" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo25</VoiceFile>
-          <Content>…Let us prepare to go, everyone.</Content>
+          <Content>…เตรียมตัวไปกันเลยนะครับทุกคน</Content>
         </Dialog>
         <Dialog ID="90" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya34</VoiceFile>
-          <Content>Your hands are shaking, galie. You sure you’re alright? Are ya mad at me by any chance?</Content>
+          <Content>มือแกสั่นมาก  แน่ใจนะว่าไม่เป็นไร? แกไม่โกรธฉันบ้างเลยเหรอ?</Content>
         </Dialog>
         <Dialog ID="91" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo26</VoiceFile>
-          <Content>…No, it’s nothing.</Content>
+          <Content>…ไม่ ไม่มีอะไร</Content>
         </Dialog>
         <Dialog ID="92" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya35</VoiceFile>
-          <Content>And one more thing: If you run off without the books in your hands, you’re also dead to me.</Content>
+          <Content>และอีกอย่างหนึ่ง ถ้าพวกแกหนีไปโดยมีหนังสืออยู่ในมือพวกแกก็ต้องตายเหมือนกัน</Content>
         </Dialog>
       </Place>
       <Place>
@@ -5509,268 +5509,268 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela1</VoiceFile>
-          <Content>That was quite intense.</Content>
+          <Content>นั่นค่อนข้างรุนแรงเลยนะ</Content>
         </Dialog>
         <Dialog ID="94" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland1</VoiceFile>
-          <Content>Looks like the Fingers are fiercely wrestling for the ownership of the Nest that L Corp. once had reign over.</Content>
+          <Content>ดูเหมือนว่า ฟิงเกอร์ กำลังต่อสู้อย่างดุเดือดเพื่อแย่งชิง เนสท์ ที่ L Corp. เคยครอบครองอยู่</Content>
         </Dialog>
         <Dialog ID="95" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela2</VoiceFile>
-          <Content>Why would they, though?</Content>
+          <Content>ทำไมพวกเขาต้องทำขนาดนั้นด้วย?</Content>
         </Dialog>
         <Dialog ID="96" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland2</VoiceFile>
-          <Content>Ever heard of holdouts? When a Wing is broken, its Nest collapses and gradually turns into a slum akin to the Backstreets.</Content>
+          <Content>เคยได้ยินเรื่องการปกครองไหม? เมื่อวิงร่วงหล่น เนสท์ของมันจะพังทลายลงและค่อยๆกลายเป็นสลัมที่คล้ายกับแบ็คสตรีท </Content>
         </Dialog>
         <Dialog ID="97" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland3</VoiceFile>
-          <Content>It becomes a lawless land without an owner to uphold anything.</Content>
+          <Content>เป็นดินแดนที่ไร้กฎหมายโดยไม่มีเจ้าของที่จะดูแล</Content>
         </Dialog>
         <Dialog ID="98" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland4</VoiceFile>
-          <Content>Then a bunch of Syndicates come rushing in to occupy the land in advance.</Content>
+          <Content>จากนั้นซินดิเคทกลุ่มอื่นก็จะพุ่งเข้ามายึดครองดินแดนนั้นกัน</Content>
         </Dialog>
         <Dialog ID="99" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela3</VoiceFile>
-          <Content>What happens next?</Content>
+          <Content>จะเกิดอะไรขึ้นต่อจากนั้น?</Content>
         </Dialog>
         <Dialog ID="100" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland5</VoiceFile>
-          <Content>The vacancy in the Wings won’t stay open forever; when a new Wing rises and gets assigned a Nest, the Syndicate resells that land to the Wing.</Content>
+          <Content>พื้นที่ว่างใน วิง ไม่ได้ว่างตลอดหรอกนะ เมื่อ วิง ใหม่ปรากฏขึ้นและรับมอบหมายงานให้กับ เนสท์ ซินดิเคทก็จะขายที่ดินนั้นต่อให้กับ วิง</Content>
         </Dialog>
         <Dialog ID="101" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland6</VoiceFile>
-          <Content>Of course, the Wing can choose to hire Fixers or other Syndicates to kick out that Syndicate with force instead, but that’s another story.</Content>
+          <Content>แน่นอนว่า วิง สามารถเลือกที่จะจ้างฟิกเซอร์หรือซินดิเคทอื่นๆ เพื่อขับไล่ซินดิเคทนั้นด้วยกำลังแทนก็ได้ แต่นั่นก็เป็นอีกเรื่องหนึ่ง</Content>
         </Dialog>
         <Dialog ID="102" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela4</VoiceFile>
-          <Content>What will happen to the feathers living in the Nest?</Content>
+          <Content>จะเกิดอะไรขึ้นกับคนที่อาศัยอยู่ในเนสท์เหรอ?</Content>
         </Dialog>
         <Dialog ID="103" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland7</VoiceFile>
-          <Content>Those folks? Well, they’re all on their own.</Content>
+          <Content>เจ้าพวกนั้นหรอ? พวกเขาก็เป็นตัวเองนั้นแล</Content>
         </Dialog>
         <Dialog ID="104" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland8</VoiceFile>
-          <Content>Hire a Fixer, or get evicted to the Backstreets, or try and join another Wing, or anything. A Nest without its Wing is no longer a safe haven for its residents.</Content>
+          <Content>เพียงแค่จ้าง ฟิกเซอร์ ไม่ก็ถูกขับไล่ไปยัง แบ็คสตรีท หรืออาจลองเข้าร่วม วิง อื่นอะไรก็ได้ เนสท์ที่ไม่มีวิงไม่ใช่ที่หลบภัยสำหรับคนที่นั้นอีกต่อไป</Content>
         </Dialog>
         <Dialog ID="105" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela5</VoiceFile>
-          <Content>That’s typical of the City.</Content>
+          <Content>นั่นเป็นเรื่องปกติของเมืองสินะ</Content>
         </Dialog>
         <Dialog ID="106" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland9</VoiceFile>
-          <Content>If you can’t grasp whatever opportunities you find with your own hands, you’re bound to fall behind.</Content>
+          <Content>ใช้หากเธอไม่สามารถไขว่คว้าโอกาสได้ด้วยมือของเธอเอง เธอก็จะต้องตกเป็นฝ่ายตามหลังแทน</Content>
         </Dialog>
         <Dialog ID="107" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland10</VoiceFile>
-          <Content>I wonder what’s up with that puppy, anyway.</Content>
+          <Content>ฉันสงสัยจริงว่าเกิดอะไรขึ้นกับเจ้าหัวหมานั้น</Content>
         </Dialog>
         <Dialog ID="108" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela6</VoiceFile>
-          <Content>…That looked like a case of the Distortion.</Content>
+          <Content>…นั่นดูเหมือนกรณีของการบิดเบือนนะ</Content>
         </Dialog>
         <Dialog ID="109" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland11</VoiceFile>
-          <Content>Distortion? That’s not exactly what I imagined.</Content>
+          <Content>การบิดเบือน? นั่นไม่เหมือนกับสิ่งที่ฉันจินตนาการไว้เลย</Content>
         </Dialog>
         <Dialog ID="110" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela7</VoiceFile>
-          <Content>Indeed. She appears to be highly rational.</Content>
+          <Content>นั้นก็จริง. เธอดูเหมือนจะมีเหตุผลสูงด้วย</Content>
         </Dialog>
         <Dialog ID="111" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland12</VoiceFile>
-          <Content>You call that rational?</Content>
+          <Content>เธอเรียกว่านั้นมีเหตุผลเหรอ?</Content>
         </Dialog>
         <Dialog ID="112" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela8</VoiceFile>
-          <Content>She seems much more rational than you are, at the very least.</Content>
+          <Content>เธอดูมีเหตุผลมากกว่านายละกัน อย่างน้อยนะ</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="113" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang11-02</VoiceFile>
-          <Content>Sigh… This was not meant to be.</Content>
+          <Content>เฮ้อ… ไม่คิดเลยว่าจะเป็นแบบนี้</Content>
         </Dialog>
         <Dialog ID="114" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo27</VoiceFile>
-          <Content>Where the hell did that bitchhead come from?!</Content>
+          <Content>ไอ้ระยำนั่นมาจากไหน?!</Content>
         </Dialog>
         <Dialog ID="115" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo28</VoiceFile>
-          <Content>How dare an impudent whelp like her bite at us superior beings!</Content>
+          <Content>แล้วไอหมานั้นกล้าดียังไงที่มาทำตัวเหนือกว่าเรา!</Content>
         </Dialog>
         <Dialog ID="116" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin11-01</VoiceFile>
-          <Content>Calm down, Captain. Let’s report this to the Thumb right after we take care of this.</Content>
+          <Content>ใจเย็นๆก่อนครับ หัวหน้า เราควรรายงานเรื่องนี้กับ ธัม ทันทีหลังจากที่เราจัดการกับที่นี้กันแล้ว</Content>
         </Dialog>
         <Dialog ID="117" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo29</VoiceFile>
-          <Content>Huu… Yes, let us do that.</Content>
+          <Content>อื่มม… ใช้ เราควนทำเรื่องนั้นก่อน</Content>
         </Dialog>
         <Dialog ID="118" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang12-01</VoiceFile>
-          <Content>It’s ridiculous that someone could treat us ตระกูลคุโรคุโมะ, a Thumb subsidiary, with such disrespect.</Content>
+          <Content>มันเป็นเรื่องที่ไร้สาระจริงๆเลย ที่จะมีคนมายุ่งกับเราตะกูลคุโรคุโมะ คนในเครือของธัมได้แบบนี้</Content>
         </Dialog>
         <Dialog ID="119" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo30</VoiceFile>
-          <Content>Hear, hear.</Content>
+          <Content>เอาน่า เอาน่า</Content>
         </Dialog>
         <Dialog ID="120" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo31</VoiceFile>
-          <Content>Although we’re in a bad situation… The books listed on this invitation are tempting offers for sure.</Content>
+          <Content>แม้ว่าเราจะอยู่ในสถานการณ์ที่เลวร้ายก็ตาม… หนังสือที่อยู่ในคำเชิญนี้ก็มีข้อเสนอที่น่าดึงดูดจริงๆ</Content>
         </Dialog>
         <Dialog ID="121" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang13-01</VoiceFile>
-          <Content>It seems that คาร์นิวัล have ended up turning into books.</Content>
+          <Content>ดูเหมือนว่าพวกคาร์นิวัลจะกลายเป็นหนังสือไปแล้วเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="122" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin12-01</VoiceFile>
-          <Content>And this book… is related to the Nest of L Corp, too.</Content>
+          <Content>และหนังสือเล่มนี้มีข้อมูลเกี่ยวกับ เนสท์ ของ L Corp ด้วย</Content>
         </Dialog>
         <Dialog ID="123" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela9</VoiceFile>
-          <Content>Greetings, dear guests.</Content>
+          <Content>สวัสดีแขก</Content>
         </Dialog>
         <Dialog ID="124" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo32</VoiceFile>
-          <Content>How did you manage to collect the books we need the most?</Content>
+          <Content>คุณรวบรวมหนังสือที่เราต้องการมากที่สุดเหล่านี้ได้ยังไง?</Content>
         </Dialog>
         <Dialog ID="125" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela10</VoiceFile>
-          <Content>Such is the role of the Library.</Content>
+          <Content>นั่นคือบทบาทของห้องสมุดแห่งนี้</Content>
         </Dialog>
         <Dialog ID="126" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin13</VoiceFile>
-          <Content>This place exudes the smell of blood.</Content>
+          <Content>ที่นี่มีกลิ่นเลือดโชยออกมาด้วย</Content>
         </Dialog>
         <Dialog ID="127" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela11</VoiceFile>
-          <Content>And you reek of blood as well, dear guests.</Content>
+          <Content>และคุณมีกลิ่นเลือดเช่นกัน แขก</Content>
         </Dialog>
         <Dialog ID="128" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo33</VoiceFile>
-          <Content>Oh my, do we?</Content>
+          <Content>อ๋อ เราเอง?</Content>
         </Dialog>
         <Dialog ID="129" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang14-01</VoiceFile>
-          <Content>Let’s hit up a bathhouse for a warm one once we finish this.</Content>
+          <Content>ไปแช่น้ำร้อนกันเถอะเมื่อเราทำงานนี้เสร็จแล้ว</Content>
         </Dialog>
         <Dialog ID="130" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo34</VoiceFile>
-          <Content>Good idea. There’s nothing like a good bath to blow off some steam on a bad day.</Content>
+          <Content>เป็นความคิดที่ดี. ไม่มีอะไรดีไปกว่าการแช่น้ำร้อนในวันที่แย่ๆแบบนี้อีกแล้ว</Content>
         </Dialog>
         <Dialog ID="131" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin14</VoiceFile>
-          <Content>Drinks are on me.</Content>
+          <Content>ดื่มเครื่องดื่มที่ฉันดื่มด้วย</Content>
         </Dialog>
         <Dialog ID="132" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin15-01</VoiceFile>
-          <Content>Are there even any bathhouses or pubs left in L Corp’s Nest, anyway?</Content>
+          <Content>มีโรงอาบน้ำหรือผับเหลืออยู่ใน L Corp เนสท์ หรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="133" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo35-01</VoiceFile>
-          <Content>That’s a fair point. We have so much to report and take care of, so much to think about…</Content>
+          <Content>พูดมีประเด็นดี เรามีเรื่องมากมายที่ต้องรายงานและดูแล มีเรื่องให้คิดอีกเยอะ…</Content>
         </Dialog>
         <Dialog ID="134" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela12</VoiceFile>
-          <Content>Are you done with your chitchats now?</Content>
+          <Content>คือตอนนี้พวกคุณคุยเล่นกันเสร็จแล้วหรือยัง?</Content>
         </Dialog>
         <Dialog ID="135" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo36</VoiceFile>
-          <Content>How pushy… Now then, shall we head inside?</Content>
+          <Content>ช่างเร่งรีบจริง… ถ้าอย่างนั้นเราเข้าไปข้างในกันเถอะ?</Content>
         </Dialog>
         <Dialog ID="136" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela13</VoiceFile>
-          <Content>May you find your book in this place.</Content>
+          <Content>ขอให้คุณพบหนังสือของคุณในที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -5782,67 +5782,67 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland13</VoiceFile>
-          <Content>We’ll probably get even more guests trying to take over L Corp’s Nest.</Content>
+          <Content>เราอาจจะได้แขกจำนวนมากจากพวกที่พยายามครอบครอง L Corp’s เนสท์ นะ</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela14</VoiceFile>
-          <Content>You always say that. Is there any real difference?</Content>
+          <Content>นายก็พูดแบบนี้ตลอด ไม่เห็นต่างไปจากเดิมเลย?</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland14</VoiceFile>
-          <Content>You heard what that doghead said? Now we have the Thumb, the อินเด็กซ์, and whatever third party she belongs to.</Content>
+          <Content>เธอจำที่ไอ้หัวหมาพูดได้มั้ย? ตอนนี้เรามีโจทย์กับธัม อินเด็กซ์ และใครก็ไม่รู้ที่เป็นเจ้านายของไอหัวหมานั้นด้วย</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland15</VoiceFile>
-          <Content>It doesn’t sound like a random run-of-the-mill Syndicate, seeing how she talked to the members of a Finger with so much confidence.</Content>
+          <Content>จากบทสนทนาดูไม่เหมือนกับซินดิเคทเลย เพราะเห็นว่าเธอพูดคุยกับสมาชิกของ ฟิงเกอร์ ด้วยความมั่นใจเป็นอย่างมาก</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela15</VoiceFile>
-          <Content>It seems it’s not just the major Syndicates that have incentive to be involved in a turf war like this, if smaller Syndicates are meddling in so willingly.</Content>
+          <Content>ดูเหมือนว่าจะไม่ใช่แค่ซินดิเคทรายใหญ่เท่านั้นที่มีแรงจูงใจให้มีส่วนร่วมในสงครามชิงพื้นที่สินะ ดูเหมือนซินดิเคทขนาดเล็กก็เข้ามาแทรกแซงด้วย</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland16</VoiceFile>
-          <Content>Well, basically.</Content>
+          <Content>ก็ตามพื้นฐานนะ</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland17</VoiceFile>
-          <Content>Whatever goods the head honchos take interest in are naturally gonna attract the attention of those below them.</Content>
+          <Content>ผลผลิตอะไรก็ตามที่แฮดสนใจมักจะดึงดูดความสนใจจากผู้ที่อยู่ด้านล่างด้วยน่ะ</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland18</VoiceFile>
-          <Content>The Thumb or the อินเด็กซ์ probably won’t take direct action for now, but their subordinates are nothing to sneeze at.</Content>
+          <Content>ธัมหรืออินเด็กซ์อาจจะยังไม่ลงมือโดยตรงในตอนนี้ แต่ผู้ใต้บังคับบัญชาของพวกเขาก็ประมาทไม่ได้ด้วย</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland19</VoiceFile>
-          <Content>Grabbing their attention might be beneficial for the Library’s wealth of info… But it’s gonna be tough for us to stop them if we escalate things any further from here.</Content>
+          <Content>พวกเขาสนใจเราอาจเป็นประโยชน์ต่อคลังข้อมูลมาก… แต่มันคงยากสำหรับเราที่จะต้องรับแขกจากพวกเขา หากเราขยายเรื่องนี้ออกไปมากกว่านี้</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland20</VoiceFile>
-          <Content>I just hope the other Fingers stay out of this, things would get out of hand otherwise…</Content>
+          <Content>ฉันแค่หวังว่า ฟิงเกอร์ อื่นจะไม่มาร่วมวงไปมากกว่านี้อีก…</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela16-01</VoiceFile>
-          <Content>I’m fine with it as long as the results benefit us.</Content>
+          <Content>ฉันยังไงก็ได้ตราบใดที่ผลลัพธ์เป็นประโยชน์กับเรา</Content>
         </Dialog>
       </Place>
     </Episode>
