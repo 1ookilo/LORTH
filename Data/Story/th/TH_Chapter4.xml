@@ -5852,323 +5852,323 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: Somewhere in the Backstreets</PlaceName>
+        <PlaceName>สถานที่: ที่ไหนสักแห่งในแบ็คสตรีท</PlaceName>
         <Dialog ID="0" Model="">
           <Teller />
           <Title />
           <Content />
         </Dialog>
         <Dialog ID="1" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow1</VoiceFile>
-          <Content>Yawn~ Today’s performance isn’t going too well.</Content>
+          <Content>เฮ้อ~ การแสดงวันนี้ไม่ดีเลย</Content>
         </Dialog>
         <Dialog ID="2" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu1-01</VoiceFile>
-          <Content>Oink! You gotta keep the beat.</Content>
+          <Content>อู๊ด! นายต้องรักษาจังวะนะ</Content>
         </Dialog>
         <Dialog ID="3" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu2-01</VoiceFile>
-          <Content>District 9 is the sacred ground for music! It’s the homeland of ‘The Pianist’!</Content>
+          <Content>เขตที่ 9 เป็นสถานที่ศักดิ์สิทธิ์สำหรับนักดนตรี! เป็นบ้านเกิดของ 'เดอร์เพียนนิส'!</Content>
         </Dialog>
         <Dialog ID="4" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink1</VoiceFile>
-          <Content>Come on, man… I’m doing my best here.</Content>
+          <Content>มาเลยทุกคน… เรามาพยายามกันให้เต็มที่ที่นี่กันเลย</Content>
         </Dialog>
         <Dialog ID="5" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow2</VoiceFile>
-          <Content>Are you still bothered by what Heehaw said?</Content>
+          <Content>นายยังกังวลกับสิ่งที่ฮีฮอว์พูดอยู่หรอ?</Content>
         </Dialog>
         <Dialog ID="6" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink2</VoiceFile>
-          <Content>Of course I am…</Content>
+          <Content>แน่นอน…</Content>
         </Dialog>
         <Dialog ID="7" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink3</VoiceFile>
-          <Content>This might be our last performance ever if we go to the Library…</Content>
+          <Content>นี่อาจเป็นการแสดงครั้งสุดท้ายของเราหากเราไปที่ห้องสมุด…</Content>
         </Dialog>
         <Dialog ID="8" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu3-01</VoiceFile>
-          <Content>Just shake off all of your worries with the exciting music~</Content>
+          <Content>สลัดความกังวลของพวกนายไปพร้อมกับเสียงเพลงก็พอ~</Content>
         </Dialog>
         <Dialog ID="9" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow3</VoiceFile>
-          <Content>Oink, if you keep getting distracted by petty concerns like that and half-ass your part, I’m gonna use you as my instrument.</Content>
+          <Content>อู๊ด หากนายยังคงฟุ้งซ่านด้วยความกังวลเล็กๆน้อยๆแบบนั้นและเลิกเล่น ฉันจะใช้นายเป็นเครื่องมือนะ</Content>
         </Dialog>
         <Dialog ID="10" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu4</VoiceFile>
-          <Content>Seconded~</Content>
+          <Content>สนับสนุนด้วย~</Content>
         </Dialog>
         <Dialog ID="11" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow4</VoiceFile>
-          <Content>We can’t let some little thoughts disturb our performance already.</Content>
+          <Content>เราจะปล่อยให้ความคิดเล็กๆน้อยๆ มารบกวนการแสดงของเราไม่ได้นะ</Content>
         </Dialog>
         <Dialog ID="12" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow5</VoiceFile>
-          <Content>You guys are still new, so you’ll have no idea the troubles we had to go through to perform back in my day~</Content>
+          <Content>พวกเรายังใหม่อยู่ ดังนั้นเราจะไม่รู้หรอกว่าเราต้องเจอปัญหาอะไรบ้างในการแสดงในครั้งต่อไป~</Content>
         </Dialog>
         <Dialog ID="13" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow6 (2)</VoiceFile>
-          <Content>Me, Doodle-doo, Woof, and Heehaw formed this band and devoted all of our time to music so that we could recreate the beautiful, beautiful performance we listened to on that fateful day!</Content>
+          <Content>ฉัน ดุเดิ้ลดู วูฟ และ ฮีฮอว์ ตั้งวงดนตรีนี้ขึ้นและอุทิศเวลาทั้งหมดของเราให้กับดนตรีเพื่อที่เราจะได้สร้างการแสดงที่สวยงามและไพเราะที่เราได้ฟังในวันแห่งโชคชะตานั้น!</Content>
         </Dialog>
         <Dialog ID="14" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow7</VoiceFile>
-          <Content>So quit gawking and concentrate on the music!</Content>
+          <Content>งั้นเลิกหมกมุ่นและมุ่งความสนใจไปที่ดนตรีดีกว่า!</Content>
         </Dialog>
         <Dialog ID="15" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink4</VoiceFile>
-          <Content>The Pianist’s performance… Yes, I know!</Content>
+          <Content>การแสดงของเดอร์เพียนนิส… ใช่ ฉันรู้!</Content>
         </Dialog>
         <Dialog ID="16" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink5</VoiceFile>
-          <Content>I left the Seven Association’s Section 3 and joined this band because I just couldn’t forget that sweet melody…</Content>
+          <Content>ฉันออกจากสมาพันธ์เซเว่น หน่วย 3 และเข้าร่วมกับวงนี้เพราะฉันลืมท่วงทำนองที่ไพเราะนั้นไม่ได้เลย…</Content>
         </Dialog>
         <Dialog ID="17" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink6</VoiceFile>
-          <Content>I wanted to make music like that myself… Even if it meant I have to give up everything I had…</Content>
+          <Content>ฉันอยากจะทำเพลงแบบนั้นด้วยตัวเอง… แม้ว่านั่นจะหมายความว่าฉันต้องสละทุกอย่างที่ฉันมีก็ตาม…</Content>
         </Dialog>
         <Dialog ID="18" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu5</VoiceFile>
-          <Content>Yeah~ Remember the enchanting tune that echoed through the whole City.</Content>
+          <Content>เฮ้อ~ ท่วงทำนองแห่งมนต์เสน่ห์ที่กึกก้องไปทั่วทั้งเมือง</Content>
         </Dialog>
         <Dialog ID="19" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow8 (2)</VoiceFile>
-          <Content>That grand and majestic piano made of one hundred thousand people…</Content>
+          <Content>เปียโนอันโอ่อ่าตระกันตานั้นสร้างด้วยนิ้วมือของคนนับแสนเลย…</Content>
         </Dialog>
         <Dialog ID="20" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow9</VoiceFile>
-          <Content>The lovely sound created from each stroke of the tendons.</Content>
+          <Content>เสียงอันไพเราะที่สร้างขึ้นจากจังหวะของเส้นเอ็นแต่ละเส้นด้วย</Content>
         </Dialog>
         <Dialog ID="21" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow10</VoiceFile>
-          <Content>It made me realize how beautiful the sounds a human can make in the hands of the right performer~</Content>
+          <Content>มันทำให้ฉันรู้ว่าเสียงที่มนุษย์สร้างขึ้นนั้นไพเราะขนาดไหนเมื่ออยู่ในมือของนักแสดงที่เหมาะสม~</Content>
         </Dialog>
         <Dialog ID="22" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu6</VoiceFile>
-          <Content>Especially the ensemble with Fixers at the finale!</Content>
+          <Content>โดยเฉพาะการรวมตัวกันของ ฟิกเซอร์ ในตอนจบ!</Content>
         </Dialog>
         <Dialog ID="23" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu7</VoiceFile>
-          <Content>At the end of that intense concerto, the Fixers became one with the piano and assimilated into the music. How I wish I could’ve been there…</Content>
+          <Content>ในตอนท้ายของโชว์นั้น ฟิกเซอร์ กลายเป็นหนึ่งเดียวกับเปียโนและหลอมรวมเข้ากับบทเพลง ฉันอยากไปให้ถึงจุดนั้นจังเลย…</Content>
         </Dialog>
         <Dialog ID="24" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow11</VoiceFile>
-          <Content>Ahem, speaking as someone who watched the performance right at the scene, the finale was soooo wonderful, you know?</Content>
+          <Content>อะแฮ่ม พูดในฐานะคนที่ดูการแสดงในที่เกิดเหตุเลยฉากสุดท้ายนั้นยอดเยี่ยมมาก พวกนายรู้ใช้ไหม?</Content>
         </Dialog>
         <Dialog ID="25" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow12 (2)</VoiceFile>
-          <Content>The musical score and notes literally unraveled before my eyes~</Content>
+          <Content>โน้ตดนตรีแต่ละตัวโน้ตถูกขับออกมาให้เห็นต่อหน้าต่อตาฉัน~</Content>
         </Dialog>
         <Dialog ID="26" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow13</VoiceFile>
-          <Content>The Fixers ran across the score and charged at the Pianist…</Content>
+          <Content>ฟิกเซอร์ต่างๆก็วิ่งพุ่งเข้าไปหา เดอร์เพียนนิส…</Content>
         </Dialog>
         <Dialog ID="27" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow14 (2)</VoiceFile>
-          <Content>They were buried under the notes one by one, their bodies blowing up…</Content>
+          <Content>พวกเขาถูกฝังไว้ใต้โน้ตทีละคน ร่างของพวกเขาก็ระเบิดออก…</Content>
         </Dialog>
         <Dialog ID="28" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow15 (2)</VoiceFile>
-          <Content>But they couldn’t die there; they became part of the piano, spewing out fragrant notes.</Content>
+          <Content>แต่พวกเขาไม่สามารถตายที่นั่นได้ พวกเขากลายเป็นส่วนหนึ่งของเปียโน ส่งกลิ่นหอมออกมาเลย</Content>
         </Dialog>
         <Dialog ID="29" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow16</VoiceFile>
-          <Content>And the last Fixer standing was taken apart carefully, making the most splendid sound imaginable as gorgeous red notes scattered from their body.</Content>
+          <Content>และ ฟิกเซอร์ คนสุดท้ายที่ยืนอยู่ก็ถูกแยกออกจากกันอย่างระมัดระวัง ทำให้เกิดเสียงที่ยอดเยี่ยมที่สุดเท่าที่จะจินตนาการได้เมื่อโน้ตสีแดงสวยงามกระจายออกจากร่างกายของพวกเขา</Content>
         </Dialog>
         <Dialog ID="30" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow17 (2)</VoiceFile>
-          <Content>Yes… That performance… The heavenly music that pierced me…</Content>
+          <Content>ใช่… การแสดงนั้น… บทเพลงแห่งสวรรค์นั้นที่ยังเสียดแทงใจฉันอยู่เลย…</Content>
         </Dialog>
         <Dialog ID="31" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow18</VoiceFile>
-          <Content>Well, but then the Black Silence intervened and cut off the Pianist’s hands and head. A total mood killer.</Content>
+          <Content>แต่แล้วทมิฬเงียบสงัดก็เข้ามาแทรกแซงและตัดมือและศีรษะของเดอร์เพียนนิสออก มันทำให้หมดอารมณ์ไปเลย</Content>
         </Dialog>
         <Dialog ID="32" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow19</VoiceFile>
-          <Content>I wanted to be part of that performance, too~</Content>
+          <Content>ฉันอยากเป็นส่วนหนึ่งของการแสดงนั้นด้วยจัง~</Content>
         </Dialog>
         <Dialog ID="33" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu8-01</VoiceFile>
-          <Content>Sigh… I’m so jealous… I had to just sit in my Office and listen to the music coming from a distance…</Content>
+          <Content>เฮ้อ… ฉันอิจฉาจัง… ฉันต้องนั่งอยู่ในออฟฟิศและฟังเพลงนั้นจากระยะไกลอย่างเดียว…</Content>
         </Dialog>
         <Dialog ID="34" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink7</VoiceFile>
-          <Content>Boohoo… I wanna do it too… I wanna make music that’s half as good as the Pianist’s…</Content>
+          <Content>บู้ฮู้… ฉันเองก็อยากทำเหมือนกัน… ฉันอยากทำเพลงที่ดีพอๆกับเดอร์เพียนนิส…</Content>
         </Dialog>
         <Dialog ID="35" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink8</VoiceFile>
-          <Content>But look at me… No matter how much I smash the ankle bones, pluck the tendons, and scrape flesh from the splint bones of my instruments, I can’t even get close to it…</Content>
+          <Content>แต่ดูฉันสิ… ไม่ว่าฉันจะทุบกระดูกข้อเท้า ถอนเส้นเอ็น และขูดเนื้อออกจากเฝือกของเครื่องดนตรีมากแค่ไหน ฉันก็ไม่สามารถเข้าใกล้ถึงจุดนั้นได้เลย…</Content>
         </Dialog>
         <Dialog ID="36" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink9</VoiceFile>
-          <Content>And Heehaw and Doodle-doo… said things…</Content>
+          <Content>และฮีฮอว์กับดุเดิ้ลดู…ก็พูดออกมา…</Content>
         </Dialog>
         <Dialog ID="37" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow20 (2)</VoiceFile>
-          <Content>No, Oink… There’s no need to be so impatient.</Content>
+          <Content>ไม่ อู๊ด… ไม่จำเป็นต้องใจร้อนขนาดนั้นก็ได้</Content>
         </Dialog>
         <Dialog ID="38" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow21 (2)</VoiceFile>
-          <Content>It’s true that we still have a long way to go before we can perform like the Pianist did….</Content>
+          <Content>เป็นความจริงที่เรายังมีหนทางอีกยาวไกลกว่าที่เราจะสามารถแสดงได้เหมือนเดอร์เพียนนิสแบบนั้น….</Content>
         </Dialog>
         <Dialog ID="39" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow22</VoiceFile>
-          <Content>But we are getting close, you see? If we pour our heart and soul into our performance everyday, we’ll be able to make it one day…</Content>
+          <Content>แต่เราใกล้เข้ามากขึ้นแล้วเห็นไหม? หากเราทุ่มเทแรงกายแรงใจให้กับการแสดงทุกวัน สักวันหนึ่งเราจะทำได้แบบนั้น…</Content>
         </Dialog>
         <Dialog ID="40" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow23</VoiceFile>
-          <Content>The performance by Doodle-doo, Heehaw, and Woof was wonderful, wasn’t it?</Content>
+          <Content>การแสดงของ ดุเดิ้ลดู ฮีฮอว์ และ วูฟ นั้นยอดเยี่ยมมาก?</Content>
         </Dialog>
         <Dialog ID="41" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu9-01</VoiceFile>
-          <Content>Yeah! The three gave a fantastic performance!</Content>
+          <Content>ใช่! ทั้งสามคนแสดงได้อย่างยอดเยี่ยมเลย!</Content>
         </Dialog>
         <Dialog ID="42" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu10-01</VoiceFile>
-          <Content>They went on a trip to prepare for the next, so we won’t get to hear it again for a while, though…</Content>
+          <Content>พวกเขาไปเที่ยวเพื่อเตรียมตัวสำหรับการเสดงครั้งต่อไป ดังนั้นเราจะไม่ได้ยินนั้นอีกพักหนึ่ง…</Content>
         </Dialog>
         <Dialog ID="43" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink10</VoiceFile>
-          <Content>It was… Will I get to perform like that someday?</Content>
+          <Content>นั้นหมายความว่า… ฉันจะได้แสดงแบบนั้นสักวันหนึ่งสินะ?</Content>
         </Dialog>
         <Dialog ID="44" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow24 (2)</VoiceFile>
-          <Content>Of course~ Let’s discuss this again after we finish this performance and handle the Library job Heehaw gave us.</Content>
+          <Content>แน่นอน~ เรามาคุยกันอีกครั้งหลังจากที่เราจบการแสดงนี้และจัดการงานห้องสมุดที่ฮีฮอว์มอบให้เราเสร็จแล้ว</Content>
         </Dialog>
         <Dialog ID="45" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow25</VoiceFile>
-          <Content>She said there’s gonna be a performance bigger than ever.</Content>
+          <Content>เธอบอกว่าจะมีการแสดงที่ยิ่งใหญ่กว่าที่เคยมีมา</Content>
         </Dialog>
         <Dialog ID="46" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow26</VoiceFile>
-          <Content>And we might find new instruments in the Library, you know?</Content>
+          <Content>และเราอาจจะพบเครื่องมือใหม่ๆ ในห้องสมุดก็ได้?</Content>
         </Dialog>
         <Dialog ID="47" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink11</VoiceFile>
-          <Content>Yeah… I’m excited to see that performance Heehaw mentioned…</Content>
+          <Content>ใช่… ฉันตื่นเต้นแล้วสิอยากเห็นการแสดงที่ฮีฮอว์พูดถึงนั้นแล้ว…</Content>
         </Dialog>
         <Dialog ID="48" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow27</VoiceFile>
-          <Content>Lemme see… Aha!</Content>
+          <Content>อยากเห็นเหมือนกัน!</Content>
         </Dialog>
         <Dialog ID="49" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow28</VoiceFile>
-          <Content>Why don’t we perform in a supermarket next time~? Oink likes supermarkets, right?</Content>
+          <Content>ทำไมเราไม่แสดงในซูเปอร์มาร์เก็ตในครั้งต่อไปล่ะ~? อู๊ดชอบซูเปอร์มาร์เก็ตใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="50" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu11-01</VoiceFile>
-          <Content>I’m in, too~! It’s fun to mess around with all kinds of instruments in supermarkets.</Content>
+          <Content>ฉันไปด้วย~! การเล่นเครื่องดนตรีทุกชนิดในซุปเปอร์มาร์เก็ตเป็นเรื่องสนุกมาก</Content>
         </Dialog>
         <Dialog ID="51" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink12</VoiceFile>
-          <Content>Thanks, Meow… Thanks, MuMu… I’ll practice harder!</Content>
+          <Content>ขอบคุณ เมี้ยว… ขอบคุณ มูมู่… ฉันจะฝึกให้หนักขึ้น!</Content>
         </Dialog>
         <Dialog ID="52" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow29 (2)</VoiceFile>
-          <Content>All right! Gear up, everyone!</Content>
+          <Content>เอาล่ะ! เตรียมตัวให้พร้อมกันนะทุกคน!</Content>
         </Dialog>
       </Place>
       <Place>
@@ -6177,184 +6177,184 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland1</VoiceFile>
-          <Content>Looks like the Pianist left a whole bunch of nutjobs in its wake.</Content>
+          <Content>ดูเหมือนเดอร์เพียนนิสจะทิ้งลูกกระจ๊อบเอาไว้นะ</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela1-01</VoiceFile>
-          <Content>“From break and ruin, the most beautiful performance begins…”</Content>
+          <Content>“ทุกอย่างล้วนสูญหายไปในท้ายที่สุด แต่จะมีสิ่งใหม่เกิดขึ้นตามมาเสมอ…”</Content>
         </Dialog>
         <Dialog ID="55" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland2</VoiceFile>
-          <Content>What, are you interested in listening to the Pianist’s music?</Content>
+          <Content>อะไร เธอสนใจที่จะฟัง เดอร์เพียนนิส บรรเลงแพลงเหรอ?</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela2</VoiceFile>
-          <Content>No way. I’ve heard that kind of music more than enough times.</Content>
+          <Content>ไม่มีทาง ฉันเคยได้ยินเพลงประเภทนั้นมากเกินพอแล้ว</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland3</VoiceFile>
-          <Content>…There was another dotty musician like the Pianist?</Content>
+          <Content>…ยังมีนักดนตรีที่บ้าๆบอๆ เหมือนกับ เดอร์เพียนนิส อีกเหรอ?</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela3</VoiceFile>
-          <Content>It’s similar, but not exactly the same. How about you, did you hear the Pianist’s music yourself?</Content>
+          <Content>มันคล้ายกันแต่ไม่ใช้ แล้วนายล่ะ นายเคยได้ยินเพลงของเดอร์เพียนนิสด้วยตัวเองมั้ย?</Content>
         </Dialog>
         <Dialog ID="59" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland4</VoiceFile>
-          <Content>Duh. It’d be a lot faster to count the people in the City that didn’t hear that damn sound.</Content>
+          <Content>หึ ไม่มีใครหรอกที่ไม่ได้ยินเสียงเหี้ยนั่น</Content>
         </Dialog>
         <Dialog ID="60" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland5</VoiceFile>
-          <Content>Its music didn’t just pierce me, it almost ravaged my whole being. And then. …Nevermind. I don’t wanna remember that performance again.</Content>
+          <Content>ดนตรีของไอเหี้ยนั้นไม่เพียงแต่แทงใจฉันเท่านั้น แต่ยังทำลายชีวิตของฉันไปเกือบหมดด้วยแล้ว แล้ว …ช่างมันเถอะ ฉันไม่อยากจำการแสดงนั้นอีก</Content>
         </Dialog>
         <Dialog ID="61" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland6</VoiceFile>
-          <Content>Anyway, musicians are all molto vivace in the head, one way or another.</Content>
+          <Content>ยังไงก็ตาม นักดนตรีล้วนมี molto vivace อยู่ในหัวไม่ทางใดก็ทางหนึ่ง</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela4-02</VoiceFile>
-          <Content>They seem to love performance that leads to doom, indeed…</Content>
+          <Content>ดูทรงเหมือนว่าพวกเขาจะชอบการแสดงที่นำไปสู่หายนะ นะ…</Content>
         </Dialog>
         <Dialog ID="63" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland7</VoiceFile>
-          <Content>Guess they’re living in their own world that no one else can understand.</Content>
+          <Content>เดาว่าพวกนั้นจะอยู่ล่ะ</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="64" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow29-01</VoiceFile>
-          <Content>Cat goes~!</Content>
+          <Content>แมว ไป~!</Content>
         </Dialog>
         <Dialog ID="65" Model="오잉크,무무">
-          <Teller>Oink n’ MuMu</Teller>
-          <Title>Bremen Musicians</Title>
+          <Teller>อู๊ด มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมนs</Title>
           <VoiceFile>ch4_Bremen_ep1_oinkmumu1</VoiceFile>
-          <Content>Meow~ Meow~</Content>
+          <Content>เมี้ยว~ เมี้ยว~</Content>
         </Dialog>
         <Dialog ID="66" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow30 (2)</VoiceFile>
-          <Content>Pig goes~!</Content>
+          <Content>หมู ไป~!</Content>
         </Dialog>
         <Dialog ID="67" Model="오잉크,무무">
-          <Teller>Oink n’ MuMu</Teller>
-          <Title>Bremen Musicians</Title>
+          <Teller>อู๊ด มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมนs</Title>
           <VoiceFile>ch4_Bremen_ep1_oinkmumu2</VoiceFile>
-          <Content>Oinkie~ Oink~</Content>
+          <Content>อิ๊งอี้~ อิ๊ง~</Content>
         </Dialog>
         <Dialog ID="68" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow32</VoiceFile>
-          <Content>Rabbit goes~!</Content>
+          <Content>กระต่าย ไป~!</Content>
         </Dialog>
         <Dialog ID="69" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink13</VoiceFile>
-          <Content>…Squeak… squeak…?</Content>
+          <Content>…เสียงกระต่ายร้อง…?</Content>
         </Dialog>
         <Dialog ID="70" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu12</VoiceFile>
-          <Content>This is so sad…</Content>
+          <Content>หน้าเศร้ามาก…</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela5</VoiceFile>
-          <Content>Greetings, dear guests. I am the direct—</Content>
+          <Content>สวัสดีแขกฉันเป็น—</Content>
         </Dialog>
         <Dialog ID="72" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow33</VoiceFile>
-          <Content>MuMu~! Don’t be so down.</Content>
+          <Content>มูมู่~! อย่าผิดหวังเลย</Content>
         </Dialog>
         <Dialog ID="73" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu13</VoiceFile>
-          <Content>But rabbits don’t have any signature cry sounds.</Content>
+          <Content>แต่กระต่ายไม่มีเสียงร้องอันเป็นเอกลักษณ์เลยนี่</Content>
         </Dialog>
         <Dialog ID="74" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink14</VoiceFile>
-          <Content>Then we can make one…!</Content>
+          <Content>เราสามารถสร้างมันขึ้นมาได้เองเลย…!</Content>
         </Dialog>
         <Dialog ID="75" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow33-01</VoiceFile>
-          <Content>Good idea!</Content>
+          <Content>เป็นความคิดที่ดี!</Content>
         </Dialog>
         <Dialog ID="76" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu14-01</VoiceFile>
-          <Content>Everyone…</Content>
+          <Content>ทุกๆคน…</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela6</VoiceFile>
-          <Content>What a load of nonsense.</Content>
+          <Content>ไร้สาระเป็นบ้า</Content>
         </Dialog>
         <Dialog ID="78" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow35 (2)</VoiceFile>
-          <Content>Why are you just standing there, bluey hair? Aren’t you gonna let us in?</Content>
+          <Content>ทำไมคุณถึงยืนอยู่ตรงนั้นล่ะ แม่ผมสีฟ้า? คุณจะไม่ให้เราเข้าไปเหรอ?</Content>
         </Dialog>
         <Dialog ID="79" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink15</VoiceFile>
-          <Content>Stupid little machine, don’t keep your guests waiting!</Content>
+          <Content>แค่เครื่อจักรโง่ๆ อย่ามาทำให้แขกรอเว้ย!</Content>
         </Dialog>
         <Dialog ID="80" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela7-01</VoiceFile>
-          <Content>What?</Content>
+          <Content>ฮ่ะ?</Content>
         </Dialog>
         <Dialog ID="81" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow36</VoiceFile>
-          <Content>Puhahaha, look at it stumble~ It’s got red blood, too?</Content>
+          <Content>ป๊าฮ่าฮ่าฮ่า ดูมันล้มลงไปแล้ว~ มีเลือดสีแดงด้วย?</Content>
         </Dialog>
         <Dialog ID="82" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink16</VoiceFile>
-          <Content>It can bleed, but the inside is still a bunch of metallic junk. Not a good vibe.</Content>
+          <Content>มันสามารถทำให้เลือดออกได้ แต่ข้างในยังคงเป็นเศษโลหะจำนวนมาก ไม่ใช่ความรู้สึกที่ดีเลย</Content>
         </Dialog>
         <Dialog ID="83" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -6363,10 +6363,10 @@
           <Content>…?</Content>
         </Dialog>
         <Dialog ID="84" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu15-01</VoiceFile>
-          <Content>Hurry up and let us in before we break your legs.</Content>
+          <Content>รีบนำทางได้แล้วก่อนที่เราจะหักแขนขาเธอ</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -6384,43 +6384,43 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland8</VoiceFile>
-          <Content>What in the… Angela, what’s going on?!</Content>
+          <Content>เกิดอะไรขึ้น… แองเจล่า เกิดอะไรขึ้นนั้น?!</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland9</VoiceFile>
-          <Content>That’s blood… I thought you were a pure machine!</Content>
+          <Content>นั่นคือเลือด… ฉันคิดว่าเธอเป็นเครื่องจักรแท้ๆ!</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela10</VoiceFile>
-          <Content>I am surprised as well… That much impact shouldn’t have made me flinch, either…</Content>
+          <Content>ฉันก็แปลกใจเหมือนกันนะ… แรงปะทะขนาดนั้นไม่น่าจะทำให้ฉันล้มได้เหมือนกัน…</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland10</VoiceFile>
-          <Content>You alright? Does it hurt bad?</Content>
+          <Content>เธอสบายดีไหม มันเจ็บมากไหม?</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela11</VoiceFile>
-          <Content>…I’m still fine. Now I see how much it hurts to get hit.</Content>
+          <Content>…ฉันยังสบายดี ตอนนี้ฉันเข้าใจแล้วมันเจ็บแค่ไหนเมื่อโดนตี</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland11</VoiceFile>
-          <Content>Could it be that you’re getting closer to being human…?</Content>
+          <Content>เป็นไปได้ไหมว่าเธอเข้าใกล้ความเป็นมนุษย์มากขึ้น…?</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela12</VoiceFile>
-          <Content>It may be one of the signs that I’m approaching my freedom… There’s no need to be worried just yet.</Content>
+          <Content>อาจเป็นสัญญาณอย่างหนึ่งว่าฉันใกล้จะเป็นอิสระแล้ว… งันไม่มีอะไรต้องกังวล</Content>
         </Dialog>
       </Place>
     </Episode>
