@@ -67,7 +67,7 @@
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep1_malkuth4</VoiceFile>
-          <Content>เธอคิดว่าแค่มอบร่างกายให้ จะทำให้ฉันดีใจด้วยงั้นหรอ?</Content>
+          <Content>เธอคิดว่าแค่มอบร่างกายให้ จะทำให้ฉันดีใจกับมันด้วยงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="10" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -218,162 +218,162 @@
     <Episode>
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
-        <PlaceName>Location: The Library - Floor of History</PlaceName>
+        <PlaceName>สถานที่: ห้องสมุด - ชั้นประวัติศาสตร์</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland1</VoiceFile>
-          <Content>So? Have the books helped?</Content>
+          <Content>แล้ว? ไอ้หนังสือพวกนี้ใช้ได้หรือเปล่าล่ะ?</Content>
         </Dialog>
         <Dialog ID="1" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth1</VoiceFile>
-          <Content>Yep! I’m sorting them all somehow.</Content>
+          <Content>อือ! ฉันกำลังจัดเรียงมันอยู่น่ะ</Content>
         </Dialog>
         <Dialog ID="2" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth2</VoiceFile>
-          <Content>It seems to be working thankfully!</Content>
+          <Content>ดูเหมือนว่าจะได้ผล ขอบคุณนะ!</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland2</VoiceFile>
-          <Content>Phew, that’s good to hear.</Content>
+          <Content>หืมม ดีใจที่ได้ยินแบบนั้นนะ</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland3</VoiceFile>
-          <Content>By the way, I think I remember Angela saying something along the lines of you “earning a fleshy body” the last time we met.</Content>
+          <Content>เออใช่ ฉันจำได้ว่าแองเจล่าเคยพูดบางอย่าง เกี่ยวกับกับเธอว่า "การได้ร่างกาย" ในครั้งล่าสุดที่เราเจอกัน</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland4</VoiceFile>
-          <Content>Were you, like, not human before?</Content>
+          <Content>ก่อนหน้านี้เธอไม่ใช่มนุษย์หรอกหรอ?</Content>
         </Dialog>
         <Dialog ID="6" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth3</VoiceFile>
-          <Content>…It was like a replacement body. A change that couldn’t ever be reverted.</Content>
+          <Content>…มันก็เหมือนร่างกายทดแทนน่ะ ที่เปลี่ยนไปแล้วก็ไม่สามารถเปลี่ยนกลับมาได้อีก</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland5</VoiceFile>
-          <Content>So you had a brain transplant surgery, but somehow managed to go back to your old human body here?</Content>
+          <Content>แปลว่าเธอเคยผ่าตัดปลูกถ่ายสมองมา แต่ด้วยเหตุผลบางอย่างที่ทำให้เธอกลับ ไปใช้ร่างเก่าของเธอได้ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland6</VoiceFile>
-          <Content>That’s actually pretty impressive. Thanks to the Library’s powers, I’m guessing?</Content>
+          <Content>เป็นอย่างที่ฉันคิดอยู่หรือเปล่าเนี้ย? นั้นมันค่อนข้างน่าทึ่งไปเลยนะ ต้องขอบคุณพลังของห้องสมุดที่ช่วยทำให้สิ่งนั้นเป็นไปได้</Content>
         </Dialog>
         <Dialog ID="9" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth4</VoiceFile>
-          <Content>Yeah, I think so.</Content>
+          <Content>ใช่ ก็คงงั้นมั้ง</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland7</VoiceFile>
-          <Content>You can’t let yourself be held back by common sense in the Library, huh.</Content>
+          <Content>นี่เธอไม่ควรปล่อยให้ความรู้สึกส่วนตัว มาเป็นอุปสรรคในการทำงานที่ห้องสมุดได้นะ</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland8</VoiceFile>
-          <Content>I take it that you don’t really like having your body back? You didn’t seem too happy back then.</Content>
+          <Content>ฉันเข้าใจนะว่าเธอคงไม่ค่อยพอใจ ที่ได้กลับมาใช้ร่างกายของเธออีก? เพราะดูเหมือนว่าเธอไม่ค่อยดีใจกับมันเลย</Content>
         </Dialog>
         <Dialog ID="12" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth5</VoiceFile>
-          <Content>Oh no, I actually do like it! It’s just that this isn’t exactly how I wanted things to go down.</Content>
+          <Content>อ๊ะไม่นะ ฉันชอบร่างนี้จริงๆ! เพียงแต่ว่านี่มันไม่ใช่สิ่งที่ ฉันต้องการอยากให้เป็น</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland9</VoiceFile>
-          <Content>What did you do in the past, then?</Content>
+          <Content>แล้ว ในอดีตที่ผ่านมาเธอทำอะไรมากันแน่?</Content>
         </Dialog>
         <Dialog ID="14" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth6</VoiceFile>
-          <Content>…Yeah, I wonder. What was I in the past, really?</Content>
+          <Content>…ใช่ ฉันก็สงสัยนะ ในอดีตที่ผ่านมา ฉันเป็นอะไรกันแน่?</Content>
         </Dialog>
         <Dialog ID="15" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth7</VoiceFile>
-          <Content>You wouldn’t believe it, but… This is actually my third try at life.</Content>
+          <Content>นายอาจจะไม่เชื่อ แต่นี่… คือชีวิตครั้งที่สามของฉันแล้ว</Content>
         </Dialog>
         <Dialog ID="16" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth8</VoiceFile>
-          <Content>This Library and its librarians have a lot of history behind them.</Content>
+          <Content>ที่ห้องสมุดแห่งนี้รวมถึงเหล่าบรรณารักษ์ มีประวัติและเบื้องหลังของมันอยู่มากมาย</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland10</VoiceFile>
-          <Content>Third try? Can you come back from the grave or something?</Content>
+          <Content>ครั้งที่สาม? นี่เธอลุกออกมาจากสุสานได้ หรืออะไรทำนองนั้นได้งั้นเรอะ?</Content>
         </Dialog>
         <Dialog ID="18" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth9</VoiceFile>
-          <Content>It’s the accumulated memories from my two previous bodies that were carried over, to be precise.</Content>
+          <Content>พูดง่ายๆ มันคือความทรงจำที่ถูกซ้อนทับ จากสองร่างก่อนหน้ามารวมกัน</Content>
         </Dialog>
         <Dialog ID="19" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth10</VoiceFile>
-          <Content>My past selves… I never really thought about it this way before.</Content>
+          <Content>แต่ว่าตัวฉันเองในอดีต… ก็ไม่เคยคิดเกี่ยวกับมุมมองแบบนี้มาก่อนเลย</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland11</VoiceFile>
-          <Content>A difficult problem you’re facing there. How about your present self?</Content>
+          <Content>นั่นเป็นปัญหายุ่งยากที่เธอกำลังเผชิญอยู่สินะ แล้วสำหรับตัวเธอในปัจจุบันล่ะเป็นยังไงบ้าง?</Content>
         </Dialog>
         <Dialog ID="21" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth11</VoiceFile>
-          <Content>…I’m an irresponsible person who let down everyone’s efforts.</Content>
+          <Content>…ฉันเป็นคนที่ไร้ความรับผิดชอบ ผู้ที่ปล่อยให้ความพยายาม ของทุกคนต้องสูญเปล่า</Content>
         </Dialog>
         <Dialog ID="22" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth12</VoiceFile>
-          <Content>And an idiot who tried to reach for something out of my means and ended up causing trouble, I suppose…</Content>
+          <Content>และเป็นยัยโง่ที่พยายามหาบางสิ่ง ที่เกินความสามารถของตัวเองทำได้ แล้วสุดท้ายก็จบลงด้วยการก่อปัญหา ละมั้งนะ…</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland12</VoiceFile>
-          <Content>Whoa, whoa, hold your horses! Let’s not get too dark here.</Content>
+          <Content>ดะดะดะเดี๋ยวหยุดก่อน! อย่าพูดให้มันดูมืดมนเกินไปนักซี่</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland13</VoiceFile>
-          <Content>Let’s just calm down for a moment.</Content>
+          <Content>เรามาสงบสติอารมณ์กันสักครู่ก่อนนะ</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland14</VoiceFile>
-          <Content>Take a deep breath~</Content>
+          <Content>ทำงี้นะ หายใจเข้าลึกๆ~</Content>
         </Dialog>
         <Dialog ID="26" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -385,7 +385,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland15</VoiceFile>
-          <Content>And let it out~</Content>
+          <Content>แล้วก็ปล่อยออก~</Content>
         </Dialog>
         <Dialog ID="28" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -409,7 +409,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland17</VoiceFile>
-          <Content>And out~!</Content>
+          <Content>แล้วปล่อยออก~!</Content>
         </Dialog>
         <Dialog ID="32" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -421,31 +421,31 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland18</VoiceFile>
-          <Content>Relaxed now?</Content>
+          <Content>ผ่อนคลายขึ้นแล้วใช่ม๊า?</Content>
         </Dialog>
         <Dialog ID="34" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth17-02</VoiceFile>
-          <Content>Yeah, it really helped! Thanks, Roland.</Content>
+          <Content>อือ มันได้ผลจริงๆด้วย! ขอบใจนะโรแลนด์</Content>
         </Dialog>
         <Dialog ID="35" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth18</VoiceFile>
-          <Content>I should know better than anyone that it’s pointless to get upset over things I can’t do anything about…</Content>
+          <Content>ฉันน่าจะรู้ดีกว่าใครๆว่า มันไม่มีประโยชน์ที่จะอารมณ์เสียเกี่ยวกับ สิ่งที่ฉันเองไม่สามารถทำอะไรกับมันได้แล้ว…</Content>
         </Dialog>
         <Dialog ID="36" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth19</VoiceFile>
-          <Content>I gotta start with the things I can take care of first!</Content>
+          <Content>ต่อจากนี้ฉันต้องเริ่มจากสิ่งที่ ฉันสามารถจัดการได้ก่อนละนะ!</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland19</VoiceFile>
-          <Content>Alright. I’ll try hard with my work, too. Let’s take our time with the problem of past selves.</Content>
+          <Content>โอเค ฉันจะพยายามกับงานของตัวเองเช่นกัน และเราก็ค่อยๆใช้เวลาที่เหลืออยู่ แก้ไขเรื่องราวในอดีตกัน</Content>
         </Dialog>
       </Place>
     </Episode>
