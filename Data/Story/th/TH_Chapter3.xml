@@ -741,7 +741,7 @@
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora1</VoiceFile>
-          <Content>พวกเราได้จัดทีมค้นหา และพวกเธอทั้งคู่ก็ได้อยู่ในทีมด้วย ซาน จูเลีย</Content>
+          <Content>พวกเราได้จัดตั้งทีมค้นหา และซาน จูเลีย พวกเธอทั้งคู่ก็ได้อยู่ในทีมด้วย</Content>
         </Dialog>
         <Dialog ID="1" Model="산">
           <Teller>ซาน</Teller>
@@ -777,13 +777,13 @@
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora3</VoiceFile>
-          <Content>ถ้ารู้อยู่แล้วจะมาขอร้องพวกเราตั้งแต่แรกทำไม?</Content>
+          <Content>ถ้ารู้อยู่แล้วจะมาขอร้องพวกเราตั้งแต่แรกทำไมล่ะ?</Content>
         </Dialog>
         <Dialog ID="7" Model="산">
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san3</VoiceFile>
-          <Content>ก็เพราะ… ก็เพราะที่นี่เป็นที่เดียวที่ฉันพอพึงได้</Content>
+          <Content>ก็เพราะ… ก็เพราะที่นี่เป็นที่เดียวที่ฉันพอหวังพึงได้น่ะ</Content>
         </Dialog>
         <Dialog ID="8" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -795,7 +795,7 @@
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san4</VoiceFile>
-          <Content>น้องชายของฉันเขา… ไม่เป็นไรหรอก แล้วก็ขอโทษสำหรับปัญหา และขอบคุณอีกครั้งนะที่ช่วยฉัน</Content>
+          <Content>น้องชายของฉันเขา… ไม่เป็นไรหรอก แล้วก็ขอโทษและขอบคุณอีกครั้งนะที่ช่วยฉัน</Content>
         </Dialog>
         <Dialog ID="10" Model="줄리아">
           <Teller>จูเลีย</Teller>
@@ -807,19 +807,19 @@
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora5</VoiceFile>
-          <Content>อะแฮ่ม ใหนๆนายก็บริหารออฟฟิสในเครือของสมาพันธ์ ฉันว่าคงไม่เป็นไรที่จะบอกเรื่องนี้กับนาย</Content>
+          <Content>อะแฮ่ม ไหนๆนายก็บริหารออฟฟิสในเครือของสมาพันธ์สไว ฉันว่าคงไม่เป็นไรที่จะบอกเรื่องนี้กับนาย</Content>
         </Dialog>
         <Dialog ID="12" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora6</VoiceFile>
-          <Content>ปรากฏการณ์บิดเบือน ถูกจัดให้อยู่ในฝันร้ายประจำเมือง ฉันมั่นใจเลยว่าถ้านายไม่เคยเห็นก็ต้องเคยได้ยินอะไรมาบ้าง ใช่ไหม?</Content>
+          <Content>ปรากฏการณ์บิดเบือน ถูกจัดให้อยู่ในฝันร้ายประจำเมือง ฉันมั่นใจเลยว่าถ้านายไม่เคยเห็นก็ต้องเคยได้ยินมาบ้าง ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="13" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora7</VoiceFile>
-          <Content>เป็นปรากฏการณ์ผิดปกติที่เกิดขึ้นอยู่รอบเมืองหลังจากเหตุการณ์ราตรีสีขาวและทิวาสีดำ</Content>
+          <Content>เป็นปรากฏการณ์ผิดปกติที่เกิดขึ้นอยู่ทั้วเมืองหลังจากเหตุการณ์ราตรีสีขาวและทิวาสีดำ</Content>
         </Dialog>
         <Dialog ID="14" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -831,7 +831,7 @@
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san5</VoiceFile>
-          <Content>ใช่ ฉันรู้จัก. ‘เดอะ เปียนิสต์’เคสแรกที่มีการกล่าวถึงปรากฏการณ์นี้ มันได้ฆ่าคนไปมากกว่า80%ของประชากรทั้งหมดในเขตที่9</Content>
+          <Content>ใช่ ฉันรู้ ‘เดอะ เปียนิสต์’เคสแรกที่มีการกล่าวถึงปรากฏการณ์นี้ มันได้ฆ่าคนไปมากกว่า80%ของประชากรทั้งหมดในเขตที่9</Content>
         </Dialog>
         <Dialog ID="16" Model="줄리아">
           <Teller>จูเลีย</Teller>
@@ -867,7 +867,7 @@
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia6</VoiceFile>
-          <Content>แต่ต้องชื่นชมเลยนะ พวกเขาได้จัดการสิ่งมีชีวิตนั่นก่อนที่ยอดผู้เสียชีวิตจะสูงขึ้นเป็นหลักสิบ</Content>
+          <Content>แต่ต้องชื่นชมเลยนะ พวกเขาจัดการสิ่งมีชีวิตนั่นก่อนที่ยอดผู้เสียชีวิตจะขึ้นเป็นหลักสิบน่ะ</Content>
         </Dialog>
         <Dialog ID="22" Model="줄리아">
           <Teller>จูเลีย</Teller>
@@ -885,7 +885,7 @@
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora12</VoiceFile>
-          <Content>ถูกต้อง โชคยังดี ที่ตอนนี้ยังไม่มีเคสใหนที่รุนแรงพอๆกับเหตุการณ์‘เดอะ เปียนิสต์’เลย</Content>
+          <Content>ถูกต้อง โชคยังดี ที่ตอนนี้ยังไม่มีเคสไหนที่รุนแรงพอๆกับเหตุการณ์‘เดอะ เปียนิสต์’ปรากฏการณ์บิดเบือนครั้งแรกเลย</Content>
         </Dialog>
         <Dialog ID="25" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -897,7 +897,7 @@
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san7</VoiceFile>
-          <Content>แค่นี้ก็ช่วยได้มากเลย ขอบคุณนะ อิซาดอรา</Content>
+          <Content>แค่นี้ก็ช่วยได้มากแล้ว ขอบคุณนะ อิซาดอรา</Content>
         </Dialog>
         <Dialog ID="27" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -909,7 +909,7 @@
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia8</VoiceFile>
-          <Content>แน่นอนอยู่แล้ว! ฉันน่ะก็ขอบคุณเธอเหมือนกันนะ อิซาดอรา</Content>
+          <Content>แน่นอนอยู่แล้ว! ฉันก็ขอบคุณเธอเหมือนกันนะ อิซาดอรา</Content>
         </Dialog>
         <Dialog ID="29" Model="산">
           <Teller>ซาน</Teller>
@@ -936,7 +936,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland2</VoiceFile>
-          <Content>เรื่องที่เขาพูดเกี่ยวกับห้องสมุดน่ะ ที่นี่มีความเกี่ยวข้องกับพวก‘ราตรีสีขาวและทิวาสีดำ’,แอล คอร์ป,ปรากฏการณ์บิดเบือนอะไรพวกนั้นจริงดิ?</Content>
+          <Content>เรื่องที่เขาพูดเกี่ยวกับห้องสมุดน่ะ ‘ราตรีสีขาวและทิวาสีดำ’,แอล คอร์ป,ปรากฏการณ์บิดเบือนอะไรพวกนั้น ที่นี่มีความเกี่ยวข้องกับพวกนั้นจริงดิ?</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -948,13 +948,13 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela2</VoiceFile>
-          <Content>แล้วถ้าฉันบอกว่ามันเกี่ยวล่ะ?</Content>
+          <Content>แล้วถ้ามันเกี่ยวล่ะ?</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland4</VoiceFile>
-          <Content>ถ้าเธอบอกว่ามันเกี่ยวกัน… ฉันไม่ชัวร์ว่าฉันเข้าใจที่เธอพูดนะ</Content>
+          <Content>ถ้ามันเกี่ยวกัน… ไม่อยากจะเชื่อ</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -966,13 +966,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland6</VoiceFile>
-          <Content>มันก็มีอยู่หลายเคสที่วิงส์นั้นล่มสลายไปด้วยตัวเอง แต่มันก็ส่งผลกระทบกับแค่ในเนสของพวกเขาเท่านั้น แต่สำหรับแอล คอร์ปนั้นแตกต่างออกไปมาก</Content>
+          <Content>มันก็มีอยู่หลายเคสที่วิงส์นั้นล่มสลายไปด้วยตัวเอง แต่มากสุดมันก็ส่งผลกระทบกับแค่ในเนสของพวกเขาเท่านั้น แต่สำหรับแอล คอร์ปนั้นแตกต่างออกไปมาก</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland7</VoiceFile>
-          <Content>มันเหมือนกับว่าทั่วทั้งเมืองนั้นหลับไหลไปเป็นอาทิตย์เลย</Content>
+          <Content>มันเหมือนกับว่าทั่วทั้งเมืองนั้นหลับกันไปเป็นอาทิตย์เลย</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -984,7 +984,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland8</VoiceFile>
-          <Content>ก็คงไม่ งานของฉันก็คงยังเป็นเหมือนเดิม…</Content>
+          <Content>คร้าบ คร้าบ จะเกี่ยวหรือไม่เกี่ยว มันก็คงไม่เปลี่ยนงานของผมหรอก…</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -999,7 +999,7 @@
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia9</VoiceFile>
-          <Content>นี่น่ะหรอห้องสมุด วิธีการเดินทานี่หมือนกับพวกซิงกูลาริตี้เลยล่ะ</Content>
+          <Content>นี่น่ะหรอห้องสมุด วิธีการเดินทางมานี่หมือนกับพวกซิงกูลาริตี้เลยล่ะ</Content>
         </Dialog>
         <Dialog ID="43" Model="산">
           <Teller>ซาน</Teller>
@@ -1023,7 +1023,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela6</VoiceFile>
-          <Content>แต่ดูเหมือนว่าพวกคุณนั้นรู้อยู่แล้วว่าดิฉันเป็นใคร.</Content>
+          <Content>แต่ดูเหมือนว่าพวกคุณรู้อยู่แล้วว่าดิฉันเป็นใคร.</Content>
         </Dialog>
         <Dialog ID="47" Model="산">
           <Teller>ซาน</Teller>
@@ -1053,7 +1053,7 @@
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia12</VoiceFile>
-          <Content>ทำตัวอย่างกับหุ่นยนต์ เหมือนกับพวกเราคุยอยู่กับกำแพงเลย</Content>
+          <Content>เหมือนกับพวกเราคุยอยู่กับกำแพงเลย ทำตัวอย่างกับหุ่นยนต์แน่ะ</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
