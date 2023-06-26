@@ -2200,60 +2200,60 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: WARP Platform</PlaceName>
+<PlaceName>สถานที่: ชานชาลาวาร์ป</PlaceName>
         <Dialog ID="0" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain1</VoiceFile>
-          <Content>Big Sis, you’ve seen the message from T Corp, right?</Content>
+          <Content>นี่พี่ พี่เห็นข้อความจากที คอร์ปแล้วใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="1" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga1</VoiceFile>
-          <Content>…Wha? When’d we get that…</Content>
+          <Content>…หะ? เรามาถึงนี่ตั้งแต่เมื่อไหร่…</Content>
         </Dialog>
         <Dialog ID="2" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga2</VoiceFile>
-          <Content>Oh bugger, I’m ‘boutta vom… </Content>
+          <Content>แย่ละ รูู้สึกอยากจะอ้วก… </Content>
         </Dialog>
         <Dialog ID="3" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika1</VoiceFile>
-          <Content>She threw a huge drinking party with her friends from the same corner of the Backstreets last night.</Content>
+          <Content>เมื่อคืน เธอจัดปาร์ตี้ดื่มหนักกับเพื่อนของเธอจากแบ็คสรีทเดียวกันน่ะShe threw a huge drinking party with her friends from the same corner of the Backstreets last night.</Content>
         </Dialog>
         <Dialog ID="4" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika2</VoiceFile>
-          <Content>They occupied the whole pub and got wasted all night, I heard.</Content>
+          <Content>พวกเขายึดทั้งพับแล้วดื่มฉลองกันทั้งคืนเลย</Content>
         </Dialog>
         <Dialog ID="5" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain2</VoiceFile>
-          <Content>Sigh… Just how much did you drink this time?</Content>
+          <Content>เฮ้อ… แล้วครั้งนี้พี่ดื่มไปเท่าไหร่ล่ะ?</Content>
         </Dialog>
         <Dialog ID="6" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga3</VoiceFile>
-          <Content>Oi Rain, my head’s still ringing from the hangover, so keep the lecture for later, yeah? Maybe in an hour or so.</Content>
+          <Content>เฮ้ย เรน, ฉันยังปวดหัวจากอาการแฮงค์ไม่หาย เพราะงั้นช่วยบ่นทีหลังได้ไหม? ซักประมาณชั่วโมงหนึงอะนะ?.</Content>
         </Dialog>
         <Dialog ID="7" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain3</VoiceFile>
-          <Content>And what’s this? This receipt says…</Content>
+          <Content>แล้วนี่อะไร? ใบเสร็จนี่บอกว่า…</Content>
         </Dialog>
         <Dialog ID="8" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain4</VoiceFile>
-          <Content>You used our Office funds to pay for it, too…</Content>
+          <Content>พี่ใช้เงินของออฟฟิศเราไปจ่ายด้วย…</Content>
         </Dialog>
         <Dialog ID="9" Model="NONE">
           <Teller>NONE</Teller>
@@ -2262,778 +2262,778 @@
           <Content />
         </Dialog>
         <Dialog ID="10" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>วาร์ป คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement1</VoiceFile>
-          <Content>Thank you for utilizing WARP’s services as always.</Content>
+          <Content>ขอขอบคุณที่ใช้บริการวาร์ปของพวกเราเช่นเคยค่ะ</Content>
         </Dialog>
         <Dialog ID="11" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>วาร์ป คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement2</VoiceFile>
-          <Content>The next train departing is WARP train UW-212. </Content>
+          <Content>รถไฟขบวนถัดไปที่จะออกคือ รถไฟวาร์ป ยูดับเบิ้ลยู-212ค่ะ</Content>
         </Dialog>
         <Dialog ID="12" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>วาร์ป คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement3</VoiceFile>
-          <Content>All passengers please check your pass and make sure you are in the correct carriage for travel. And remember: Watch for it. Warn us. We’ll all be good.</Content>
+          <Content>ผู้โดยสารทุกท่านโปรดเช็คตั๋วของท่านและตรวจสอบว่าท่านอยู่ถูกตู้โดยสารสำหรับการเดินทางนะคะ</Content>
         </Dialog>
         <Dialog ID="13" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika3</VoiceFile>
-          <Content>Seems it’s our turn now.</Content>
+          <Content>ดูเหมือนว่าจะถึงคิวเราแล้วนะ</Content>
         </Dialog>
         <Dialog ID="14" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga4</VoiceFile>
-          <Content>I always feel ill and out of sorts when I board WARP’s trains.</Content>
+          <Content>ฉันรู้สึกไม่ค่อยสบายทุกครั้งที่ขึ้นวาร์ปเทรนเลย</Content>
         </Dialog>
         <Dialog ID="15" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain5</VoiceFile>
-          <Content>Just don’t make an arse of yourself like the last time.</Content>
+          <Content>แค่ไม่ทำตัวเหมือนกับครั้งล่าสุดก็พอ</Content>
         </Dialog>
         <Dialog ID="16" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika4</VoiceFile>
-          <Content>Anyway, this request is rather unexpected. One from R Corp. of all places.</Content>
+          <Content>อย่างไงก็ตาม คำขอนี้ค่อนข้างที่จะคาดไม่ถึงเหมือนกัน เป็นคำขอจากอาร์ คอร์ปเลยนะ</Content>
         </Dialog>
         <Dialog ID="17" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain6</VoiceFile>
-          <Content>Isn’t it something right dangerous if R Corp. has to request another party to do the job?</Content>
+          <Content>ไม่ใช่ว่างานมันอันตรายมากๆถึงขนาดที่อาร์ คอร์ปยอมจ้างให้คนอื่นมาทำแทนเลยหรอ?</Content>
         </Dialog>
         <Dialog ID="18" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain7</VoiceFile>
-          <Content>They might be just using a no-name Office like us as bait to test the waters ‘fore they do it themselves.</Content>
+          <Content>พวกเขาอาจจะใช้ออฟฟิศไร้ชื่อเสียงอย่างพวกเราเป็นเหยื่อในการตรวจดูสถานการณ์ ก่อนที่พวกเขาลงมือเองก็ได้</Content>
         </Dialog>
         <Dialog ID="19" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga5</VoiceFile>
-          <Content>Say, who’s the client for that request?</Content>
+          <Content>แล้วใครเป็นคนว่าจ้างของคำขอนี้ล่ะ?</Content>
         </Dialog>
         <Dialog ID="20" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain8</VoiceFile>
-          <Content>The captain of the Rabbit Team herself?</Content>
+          <Content>หัวหน้าของทีมกระต่ายเลยหรอ?</Content>
         </Dialog>
         <Dialog ID="21" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga6</VoiceFile>
-          <Content>Huhuhu…</Content>
+          <Content>ฮึฮึฮึ…</Content>
         </Dialog>
         <Dialog ID="22" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga7</VoiceFile>
-          <Content>You kids might be thinking I’m just an easygoing drunkard, but every action of mine is calculated, you see?</Content>
+          <Content>ถึงเด็กอย่างพวกเธอคิดว่าฉันเป็นพวกไม่เอาถ่าน แต่จริงๆแล้วทุกก้าวฉันคำนวนไว้หมดแล้ว เห็นไหม?</Content>
         </Dialog>
         <Dialog ID="23" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain9</VoiceFile>
-          <Content>Here she goes again.</Content>
+          <Content>พูดเรื่องนี้อีกแล้ว</Content>
         </Dialog>
         <Dialog ID="24" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga8</VoiceFile>
-          <Content>That Myo lass is an old mate of mine, I drank with her just yesterday!</Content>
+          <Content>เมียวคนนั้นนะเป็นเพื่อนเก่าฉันเอง เมื่อคืนก็พึ่งไปจะดื่มกับเธอมานะ!</Content>
         </Dialog>
         <Dialog ID="25" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika6</VoiceFile>
-          <Content>You mean…</Content>
+          <Content>แล้ว…</Content>
         </Dialog>
         <Dialog ID="26" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga9</VoiceFile>
-          <Content>Said she’s got an easy job for me. Says all I gotta do is give her a small cut of the rewards.</Content>
+          <Content>แล้วเธอบอกว่ามีงานง่ายๆให้ฉันทำ บอกแค่ว่าจะขอส่วนแบ่งเล็กน้อยเท่านั้นด้วย</Content>
         </Dialog>
         <Dialog ID="27" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain10</VoiceFile>
-          <Content>No wonder you were so proud about going out for a drink.</Content>
+          <Content>ไม่แปลกใจที่พี่ดูภูมิใจกับการไปดื่มมาน่ะ</Content>
         </Dialog>
         <Dialog ID="28" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga10</VoiceFile>
-          <Content>I was in a rather good mood, so I let her dine like a king and paid for all that with the Office card~</Content>
+          <Content>ตอนนั้นฉันยังอารมณ์ดีอยู่ เลยให้เธอดื่มจนสะใจแล้วก็จ่ายด้วยบัตรออฟฟิศหมดเลยน่ะ~</Content>
         </Dialog>
         <Dialog ID="29" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain11</VoiceFile>
-          <Content>Is Myo a trustworthy person?</Content>
+          <Content>เมียวคนนี้เป็นคนที่ไว้ใจได้หรอn?</Content>
         </Dialog>
         <Dialog ID="30" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga11</VoiceFile>
-          <Content>She acts like a hotheaded lass, but she’s actually pretty nice deep inside when you get to know her.</Content>
+          <Content>ถึงแม้เธอออกจะดูเลือดร้อนไปหน่อย แต่ในใจลึกๆแล้ว เธอก็เป็นคนดีเอาเรื่องอยู่นะจ้ะ</Content>
         </Dialog>
         <Dialog ID="31" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain12</VoiceFile>
-          <Content>I swear down I’ll curse you for the rest of my life if it turns out to be weird nonsense again.</Content>
+          <Content>ถ้าเรื่องนี้เป็นเรื่องแปลกอีกผมขอสาปแช่งพี่ไปชั่วชีวิตเลย สาบาน</Content>
         </Dialog>
         <Dialog ID="32" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>วาร์ป คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement4</VoiceFile>
-          <Content>All passengers please board WARP train UW-212.</Content>
+          <Content>ผู้โดยสารทุกท่านโปรดขึ้นไปบนวาร์ปเทรน ยูดับเบิ้ลยู-212ด้วยค่ะ</Content>
         </Dialog>
         <Dialog ID="33" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>แมรี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry1</VoiceFile>
-          <Content>It’s nice to be on a vacation after so long.</Content>
+          <Content>มันก็นานแล้วนะที่เราออกมาเที่่ยวด้วยกันน่ะ</Content>
         </Dialog>
         <Dialog ID="34" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_tommy1</VoiceFile>
-          <Content>This is our first time taking a WARP ride. Is everything gonna be okay?</Content>
+          <Content>พวกเราขึ้นรถไฟวาร์ปเป็นครั้งแรกเลย จะเป็นอะไรไหมนะ?</Content>
         </Dialog>
         <Dialog ID="35" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>แมรี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry2</VoiceFile>
-          <Content>You’re such a worrywart, darling. So many people use WARP every day.</Content>
+          <Content>ตะเองก็~ คิดมากอะ คนเขาใช้วาร์ปกันทุกวันอยู่แล้ว</Content>
         </Dialog>
         <Dialog ID="36" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_tommy2</VoiceFile>
-          <Content>I heard there were several accidents when they were first starting out.</Content>
+          <Content>เค้าได้ยินมาว่าตอนเปิดใหม่ๆเขาเกิดอุบัติเหตุอยู่เยอะเลยนะ</Content>
         </Dialog>
         <Dialog ID="37" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>แมรี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry3</VoiceFile>
-          <Content>You can just stay by my side and keep your eyes closed if you’re so worried silly.</Content>
+          <Content>ถ้าตะเองขี้กลัวขนาดนั้น ตะเองก็หลับตาแล้วอยู่ข้างๆเค้าก็พอ~</Content>
         </Dialog>
         <Dialog ID="38" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_tommy3</VoiceFile>
-          <Content>Okay. I’ll stick fast to you and hold tight.</Content>
+          <Content>ได้เลย เดี๋ยวเค้าเกาะตัวเธอแน่นๆนะ</Content>
         </Dialog>
         <Dialog ID="39" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga12</VoiceFile>
-          <Content>…Take care of the mess if I happen to vomit on this carriage, Rain.</Content>
+          <Content>…ถ้าชั้นอ้วนแตกขึ้นมา นายต้องเป็นคนเช็ดนะ เรน</Content>
         </Dialog>
         <Dialog ID="40" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain13</VoiceFile>
-          <Content>Big Sis, please!</Content>
+          <Content>ขอเถอะ พี่!</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside WARP Train UW-212</PlaceName>
+        <PlaceName>สถานที่: ด้านในวาร์ปเทรน ยูดับเบิ้ลยู-212</PlaceName>
         <Dialog ID="41" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>วาร์ป คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement5</VoiceFile>
-          <Content>Attention all passengers. Please fasten your seatbelts.</Content>
+          <Content>ผู้โดยสารโปรดทราบ ได้โปรดรัดเข็มขัดของท่านให้แน่นด้วยค่ะ</Content>
         </Dialog>
         <Dialog ID="42" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika7</VoiceFile>
-          <Content>We’re departing now.</Content>
+          <Content>เราจะออกเดินทางกันเแล้ว</Content>
         </Dialog>
         <Dialog ID="43" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga13</VoiceFile>
-          <Content>Oi, I’ve always wondered, what’s the point of these seatbelts?</Content>
+          <Content>ฉันน่ะสงสัยมาตลอดเลยนะ ว่าไอ้สายเข็มขัดนี่มันมีไว้เพิ่ออะไร?</Content>
         </Dialog>
         <Dialog ID="44" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain14</VoiceFile>
-          <Content>Courtesy, I suppose. Who knows, it might actually be better than nothing.</Content>
+          <Content>น่าจะทำไว้พอเป็นพิธีก็ได้มั้ง ก็ยังดีกว่าไม่มีอะไรเลยน่ะ</Content>
         </Dialog>
         <Dialog ID="45" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>วาร์ป คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement6</VoiceFile>
-          <Content>We will be initiating the warp in ten minutes.</Content>
+          <Content>เราจะทำการเริ่มต้นกระบวนการวาร์ปในอีก10นาทีค่ะ</Content>
         </Dialog>
         <Dialog ID="46" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>แมรี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry4</VoiceFile>
-          <Content>Oh you. You’re clinging onto me like a baby.</Content>
+          <Content>แหมตะเองก็~ กอดเค้าแน่นยังกับเบบี้เลยนะ~</Content>
         </Dialog>
         <Dialog ID="47" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_tommy4</VoiceFile>
-          <Content>Well you never know…</Content>
+          <Content>ก็เผื่อเกิดอะไรขึ้นไง…</Content>
         </Dialog>
         <Dialog ID="48" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>แมรี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry5</VoiceFile>
-          <Content>We’ll be there just ten seconds after the train starts! But you’re cute, so I’ll let you be~</Content>
+          <Content>แปปเดียวก็ถึงแล้ว! แค่10วิเอง แต่ตะเองน่ารักดี~ เพราะงั้นเค้าจะปล่อยไว้ละกัน~</Content>
         </Dialog>
         <Dialog ID="49" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga14</VoiceFile>
-          <Content>Why’d we hafta sit right behind those two lousy lovebirds?</Content>
+          <Content>แล้วทำไมเราต้องมานั่งใกล้คู่รักหวานแหววพวกนี้ด้วยเนี้ย?</Content>
         </Dialog>
         <Dialog ID="50" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain15</VoiceFile>
-          <Content>Shh, shut it, they’ll hear us.</Content>
+          <Content>เงียบไปเลยพี่ เดี๋ยวพวกเขาก็ได้ยินหรอกShh, shut it, they’ll hear us.</Content>
         </Dialog>
         <Dialog ID="51" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>วาร์ป คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement7</VoiceFile>
-          <Content>Please do not open the doors while the train is in warp.</Content>
+          <Content>โปรดอย่าเปิดประตูในระหว่างที่รถไฟกำลังวาร์ปด้วยค่ะ</Content>
         </Dialog>
         <Dialog ID="52" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga15</VoiceFile>
-          <Content>I’ll be taking a nap. Wake me up when we’re there.</Content>
+          <Content>งั้นชั้นของีบซักพักละกัน ปลุกชั้นด้วยถ้าถึงที่แล้ว</Content>
         </Dialog>
         <Dialog ID="53" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika8</VoiceFile>
-          <Content>It’s going to take less than 10 minutes anyway.</Content>
+          <Content>มันใช้เวลาแค่เพียง10นาทีเอง</Content>
         </Dialog>
         <Dialog ID="54" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga16</VoiceFile>
-          <Content>Whatever~</Content>
+          <Content>เอาเฮอะ~</Content>
         </Dialog>
         <Dialog ID="55" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain16</VoiceFile>
-          <Content>Big Sis! Big Sis! Wake up!</Content>
+          <Content>พี่! พี่! ตื่นเร็ว!</Content>
         </Dialog>
         <Dialog ID="56" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga17</VoiceFile>
-          <Content>Hell, what’s it this time?</Content>
+          <Content>ฮะ ครั้งนี้อะไรอีกล่ะ?</Content>
         </Dialog>
         <Dialog ID="57" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika9</VoiceFile>
-          <Content>Something seems to have gone wrong. It’s been an hour since we departed, but the train still hasn’t arrived at its stop.</Content>
+          <Content>มีบางอย่างผิดปกติ มันผ่านมาเกือบจะชั่วโมงแล้ว แต่รถไฟก็ยังไม่ถึงจุดหมายอีก</Content>
         </Dialog>
         <Dialog ID="58" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_tommy5</VoiceFile>
-          <Content>What’s happening, Merry…? You said we’d be there in just ten seconds.</Content>
+          <Content>เกิดอะไรขึ้นหรอ แมรี่… ในตะเองบอกเค้าว่าแค่10วิไง</Content>
         </Dialog>
         <Dialog ID="59" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>แมรี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry6</VoiceFile>
-          <Content>That’s strange… It shouldn’t take any longer than that…</Content>
+          <Content>แปลกจังนะ… ปรกติมันไม่ใช้เวลานานขนาดนี้นิ…</Content>
         </Dialog>
         <Dialog ID="60" Model="NONE">
           <Teller>NONE</Teller>
           <Title>NONE</Title>
-          <Content>- 6 hours in -</Content>
+          <Content>- 6 ชั่วโมงต่อมา -</Content>
         </Dialog>
         <Dialog ID="61" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga18</VoiceFile>
-          <Content>Bollocks, did we get unlucky or what?</Content>
+          <Content>เอาจริงดิ นี้เราโชคร้ายขนาดนั้นหรืออะไร?</Content>
         </Dialog>
         <Dialog ID="62" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain17</VoiceFile>
-          <Content>WARP hasn’t had any accidents in the last ten years, though.</Content>
+          <Content>วาร์ปน่ะก็ไม่ได้มีอุบัติเหตุมาตั้ง10 ปีแล้วนะ</Content>
         </Dialog>
         <Dialog ID="63" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika10</VoiceFile>
-          <Content>We might end up getting trapped here.</Content>
+          <Content>เราคงติดอยู่ที่นี่แล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="64" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga19</VoiceFile>
-          <Content>We’re breaking through that door if anything goes wrong.</Content>
+          <Content>งั้นเราทำลายประตูนั่นกันถ้าเกิดมีอะไรผิดพลาดขึ้นมา</Content>
         </Dialog>
         <Dialog ID="65" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika11</VoiceFile>
-          <Content>You’re insane! The warnings said you’ll get sucked out into space if we try to open the doors while the train’s in warp.</Content>
+          <Content>บ้าไปแล้วรีไง! เขาก็บอกอยู่ว่าถ้าเราพยายามเปิดประตูในขณะที่รถไฟวาร์ปอยู่ จะโดนดูดออกไปนอกอวกาศน่ะ</Content>
         </Dialog>
         <Dialog ID="66" Model="NONE">
           <Teller>NONE</Teller>
           <Title>NONE</Title>
-          <Content>- 17 hours in -</Content>
+          <Content>- 17 ชั่วโมงต่อมา -</Content>
         </Dialog>
         <Dialog ID="67" Model="Passenger 1">
-          <Teller>Passenger 1</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสาร 1</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_people1</VoiceFile>
-          <Content>I’m gonna lose my mind…</Content>
+          <Content>ฉันจะเริ่มเสียสติแล้วนะ…</Content>
         </Dialog>
         <Dialog ID="68" Model="Passenger 2">
-          <Teller>Passenger 2</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสาร 2</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_people2</VoiceFile>
-          <Content>Where are we?</Content>
+          <Content>นี่เราอยู่ใหนกันวะเนี้ย?</Content>
         </Dialog>
         <Dialog ID="69" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_tommy6</VoiceFile>
-          <Content>I can’t even take off this seatbelt…</Content>
+          <Content>เค้าเอาเข็มขัดนี่ออกไม่ได้อะ…</Content>
         </Dialog>
         <Dialog ID="70" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>แมรี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry7</VoiceFile>
-          <Content>Tommy… Everything will be fine soon enough… I’m sorry, it’s my fault for asking to take a WARP train…</Content>
+          <Content>ทอมมี่… เดี๋ยวทุกอย่างก็กลับไปเป็นปรกติแล้วล่ะ… เค้าขอโทษนะ ความผิดเค้าเองที่ขอขึ้นวาร์ปเทรนน่ะ…</Content>
         </Dialog>
         <Dialog ID="71" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika12</VoiceFile>
-          <Content>The train seems to be operating still…</Content>
+          <Content>รถไฟเองก็ดูเหมือนว่ายังทำงานตามปกติอยู่เลย…</Content>
         </Dialog>
         <Dialog ID="72" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga20</VoiceFile>
-          <Content>Oi! Take out your tools now. We’re cutting off this bloody seatbelt.</Content>
+          <Content>เฮ้ย! หยิบอุปกรณ์ออกมาได้แล้ว เราจะตัดเข็มขัดบ้านี้ออก</Content>
         </Dialog>
         <Dialog ID="73" Model="NONE">
           <Teller>NONE</Teller>
           <Title>NONE</Title>
-          <Content>- 31 hours in -</Content>
+          <Content>- 31 ชั่วโมงต่อมา -</Content>
         </Dialog>
         <Dialog ID="74" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga21</VoiceFile>
-          <Content>Bloody hell, this is driving me nuts! Three hundred poor souls are trapped in ‘ere, and they do fuck all about it?</Content>
+          <Content>เอาตรงๆนะ ฉันเริ่มมีน้ำโหแล้วนะ มีคนตั้ง300คนติดอยู่ที่นี่ แล้วไม่ทำอะไรกันเลยรึไง?</Content>
         </Dialog>
         <Dialog ID="75" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain18</VoiceFile>
-          <Content>The atmosphere is getting eerie. Everyone seems more sensitive than usual.</Content>
+          <Content>บรรณยากาศที่นี่แปลกๆนะ ดูเหมือนว่าทุกคนจะอารมณ์แปรปรวนง่ายกว่าปรกติด้วย</Content>
         </Dialog>
         <Dialog ID="76" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika13</VoiceFile>
-          <Content>What’s funnier is that I’m not feeling any thirst or hunger even though we haven’t had anything in the last 31 hours.</Content>
+          <Content>เรื่องที่ตลกกว่าก็คือ พวกเราติดอยู่ที่นี่มาตั้ง31ชั่วโมงแล้ว แต่ก็ไม่หิวหรือกระหายอะไรเลย</Content>
         </Dialog>
         <Dialog ID="77" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga22</VoiceFile>
-          <Content>It won’t even leave a dent on this bloody door.</Content>
+          <Content>แถมประตูบ้านี่ก็ไม่เป็นรอยขีดข่วนอะไรเลยด้วย</Content>
         </Dialog>
         <Dialog ID="78" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain19</VoiceFile>
-          <Content>Guess we really are trapped. I don’t see a way out. All we can do is wait.</Content>
+          <Content>ดูเหมือนว่าเราติดอยู่ที่นี่จริงๆ ผมเองก็มองไม่เห็นทางออก สิ่งที่ทำได้ก็คงแค่รออย่างเดียว</Content>
         </Dialog>
         <Dialog ID="79" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika14</VoiceFile>
-          <Content>Looks like others are slowly losing their minds, too.</Content>
+          <Content>ดูเหมือนว่าคนอื่นๆก็เริ่มที่จะสติแตกกันแล้วนะ</Content>
         </Dialog>
         <Dialog ID="80" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga23</VoiceFile>
-          <Content>…Oi, how ‘bout a gamble?</Content>
+          <Content>…งั้น เรามาพนันกันไหม?</Content>
         </Dialog>
         <Dialog ID="81" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain20</VoiceFile>
-          <Content>What do you mean, a gamble?</Content>
+          <Content>พี่หมายความว่าไงพนันน่ะ?</Content>
         </Dialog>
         <Dialog ID="82" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga24</VoiceFile>
-          <Content>I’m saying, maybe we use this.</Content>
+          <Content>ก็หมายความว่า เราจะใช้ไอ้นี่ไง</Content>
         </Dialog>
         <Dialog ID="83" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika15</VoiceFile>
-          <Content>An invitation…?</Content>
+          <Content>บัตรเชิญงั้นหรอ…?</Content>
         </Dialog>
         <Dialog ID="84" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga25</VoiceFile>
-          <Content>It’s the stuff I got from Myo. Never thought I’d use it now.</Content>
+          <Content>ของที่ฉันได้มาจากเมียวน่ะ ก็ไม่อยากจะเชื่อว่าต้องใช้ตอนนี้เลย</Content>
         </Dialog>
         <Dialog ID="85" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain21</VoiceFile>
-          <Content>Here’s my pen. I’d do anything to get out of this train, too.</Content>
+          <Content>นี่ปากกาผม ผมยอมทำทุกอย่างเพื่อออกไปจากรถไฟนี้เหมือนกัน</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="86" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland1</VoiceFile>
-          <Content>A malfunction with WARP? This could be a huge blow to W Corp’s reputation if it ever gets out to the public.</Content>
+          <Content>วาร์ปขัดข้องงั้นหรอ เรื่องนี้คงทำลายชื่อเสียงของดับเบิ้ลยู คอร์ปไปไม่น้อยแน่ ถ้าหลุดออกไปได้อะนะ</Content>
         </Dialog>
         <Dialog ID="87" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela1</VoiceFile>
-          <Content>It was supposed to arrive at the destination in only 10 seconds, right?</Content>
+          <Content>มันควรจะถึงที่หมายภายใน10วินาทีใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="88" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland2</VoiceFile>
-          <Content>Yep. The WARP trains, operating with W Corp’s Singularity. They can get to any station in 10 seconds no matter how far away they are. A 30-second delay would be a big enough issue already, and a 30-hour delay? That’s gonna be outright fatal to the corporation’s trust.</Content>
+          <Content>ใช่แล้ว วาร์ปเทรนที่ถูกปฏิบัติหน้าที่พร้อมกับซิงกูลาริตี้ของดับเบิ้ลยู คอร์ป สามารถไปสถานีใหนก็ได้ไม่ว่าไกลแค่ใหนภายใน10วินาทีได้ การที่ล่าช้าไปประมาณ30วิก็ถือว่าเป็นเรื่องใหญ่แล้ว แต่นี่ล่าช้าไปตั้ง30ชั่วโมงเลย คงจะส่งผลกระทบต่อความเชื่อใจของบริษัทไปแสนสาหัสอยู่</Content>
         </Dialog>
         <Dialog ID="89" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela2</VoiceFile>
-          <Content>Even a Singularity can malfunction, it seems.</Content>
+          <Content>ดูเหมือนว่าพวกซิงกูลาริตี้เองก็ขัดข้องได้เหมือนกัน</Content>
         </Dialog>
         <Dialog ID="90" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland3</VoiceFile>
-          <Content>I guess no technology is ever really flawless.</Content>
+          <Content>คงไม่มีเทคโนโลยีใหนที่ไร้จุดบอดจริงๆสินะ</Content>
         </Dialog>
         <Dialog ID="91" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela3</VoiceFile>
-          <Content>Anyway, I might be able to have an unexpected reunion soon enough.</Content>
+          <Content>ยังไงก็แล้วแต่, ดูเหมือนว่าฉันอาจจะได้เจอกับเพื่อนเก่าเร็วๆนี้ก็ได้</Content>
         </Dialog>
         <Dialog ID="92" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland4</VoiceFile>
-          <Content>You have any familiar faces in that Office?</Content>
+          <Content>เธอมีเพื่อนเก่าที่ออฟฟิศนั้นด้วยหรอ?</Content>
         </Dialog>
         <Dialog ID="93" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela4</VoiceFile>
-          <Content>No.</Content>
+          <Content>ไม่ใช่</Content>
         </Dialog>
         <Dialog ID="94" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland5</VoiceFile>
-          <Content>You mean Myo, the captain of the Rabbit Team, then?</Content>
+          <Content>หรือว่าเธอพูดถึงเมียว, หัวหน้าทีมกระต่ายงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="95" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela5</VoiceFile>
-          <Content>Yes.</Content>
+          <Content>ใช่แล้ว</Content>
         </Dialog>
         <Dialog ID="96" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland6</VoiceFile>
-          <Content>Hunh… So you had connections with one of the captains from R Corp?</Content>
+          <Content>เฮ้อ… งั้นแปลว่าเธอก็เกี่ยวข้องกับหนึ่งในหัวหน้าทีมของอาร์ คอร์ปงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="97" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland7</VoiceFile>
-          <Content>That Olga person knowing her is surprising enough, but you have some impressive networking finesse, too.</Content>
+          <Content>คนที่ชื่อโอลก้าอะไรนั่นดูเหมือนจะรู้จักเขาดี แต่เธอเนี้ยมีชั้นเชิงเครือข่ายที่ยอดเยี่ยมเหมือนกันนะเนี้ย</Content>
         </Dialog>
         <Dialog ID="98" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela6</VoiceFile>
-          <Content>Though we probably won’t be greeting each other with smiles when we do meet again.</Content>
+          <Content>แต่ว่าเราคงไม่มีการทักทายด้วยรอยยิ้มกันอีกแล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="99" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland8</VoiceFile>
-          <Content>What, you weren’t friends with her? Eh, you know what, I guess it makes more sense this way.</Content>
+          <Content>อะไรกัน, พวกเธอไม่ใช่เพื่อนกันแล้วหรอ? เอ๊ะ รู้อะไรไหม, มันก็สมเหตุสมผลอยู่นะ</Content>
         </Dialog>
         <Dialog ID="100" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela7</VoiceFile>
-          <Content>What did you expect? Did you really think I would have any friends to casually chat with?</Content>
+          <Content>แล้วนายหวังอะไรไว้ล่ะ? คิดจริงๆหรอว่าฉันจะมีเพื่อนคุยเล่นด้วยน่ะ?</Content>
         </Dialog>
         <Dialog ID="101" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland9</VoiceFile>
-          <Content>I was just wondering. R Corp. is different from Fixers on a fundamental level.</Content>
+          <Content>ฉันเพิ่งนึกได้ ว่าอาร์ คอร์ปเขาแตกต่างจากฟิกเซอร์ทั่วไปไปอีกระดับหนึงเลย</Content>
         </Dialog>
         <Dialog ID="102" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland10</VoiceFile>
-          <Content>Their work might seem similar to what Fixers do, but they take on things of a much larger scale with a much more professional mentality.</Content>
+          <Content>งานของพวกเขาอาจจะคล้ายกับที่พวกฟิกเซอร์ทำ, แต่สเกลการทำงานของเขาใหญ่กว่าแถมมีความเป็นมืออาชีพกว่าด้วย</Content>
         </Dialog>
         <Dialog ID="103" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela8</VoiceFile>
-          <Content>I expect no less from one of the Wings.</Content>
+          <Content>ฉันก็หวังไว้ไม่น้อยจากหนึ่งในวิงส์หรอก</Content>
         </Dialog>
         <Dialog ID="104" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland11</VoiceFile>
-          <Content>Aren’t you relaxed.</Content>
+          <Content>เธอก็แค่ใจชื่นไม่ใช่รึไง</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+       <PlaceName>สถานที่: ทางเข้าห้องสมุด</PlaceName>
         <Dialog ID="105" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga26</VoiceFile>
-          <Content>Whew~ Now this is teleportation!</Content>
+          <Content>ว้า~ นิสิถึงจะเรียกว่าการเทเรพอร์ท!</Content>
         </Dialog>
         <Dialog ID="106" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga27</VoiceFile>
-          <Content>Much faster and better than W Corp’s idiotic Singularity.</Content>
+          <Content>ทั้งเร็วและยังดีกว่าไอ้ซิงกูลาริตี้ของพวกดับเบิ้ลยู คอร์ปงี่เง่านั่นด้วย</Content>
         </Dialog>
         <Dialog ID="107" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain22</VoiceFile>
-          <Content>Are we really sure we can proceed so carelessly? You said you got that invitation from R Corp.</Content>
+          <Content>พี่มั่นใจหรอว่าเราสามารถดำเนินการต่อไปแบบไม่ระวังได้? พี่บอกเองนะว่าได้บัตรเชิญมาจสกอาร์ คอร์ปน่ะ</Content>
         </Dialog>
         <Dialog ID="108" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga28</VoiceFile>
-          <Content>Mika, shut him up for a bit. I think I’m gonna vomit right ‘ere if I hear another peep outta him.</Content>
+          <Content>มิกะ, หุบปากเขาให้ทีดิ๊ ฉันรู้สึกจะอ้วกทุกครั้งที่หมอนี่พูดเลย</Content>
         </Dialog>
         <Dialog ID="109" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika16</VoiceFile>
-          <Content>Rain is speaking the truth, though. Maybe we should have been more cautious.</Content>
+          <Content>เรนพูดถูก, พวกเราควรจะระวังรอบๆข้างไว้ </Content>
         </Dialog>
         <Dialog ID="110" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga29</VoiceFile>
-          <Content>Sure, sure~ No one is on my side.</Content>
+          <Content>จ้า~ จ้า~ ไม่มีใครอยากอยู่ข้างฉันล่ะสิ</Content>
         </Dialog>
         <Dialog ID="111" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga30</VoiceFile>
-          <Content>It’s all thanks to my quick judgement that we could escape from that buggered train.</Content>
+          <Content>ต้องขอบคุณการตัดสินใจที่เด็ดขาดของฉัน, พวกเราเลยออกมาจากรถไฟพังๆนั้นได้แท้ๆ</Content>
         </Dialog>
         <Dialog ID="112" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela9</VoiceFile>
-          <Content>Greetings, dear guests.</Content>
+          <Content>ยินดีต้อนรับค่ะ แขกผู้มีเกียรติ</Content>
         </Dialog>
         <Dialog ID="113" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอรr</Title>
           <VoiceFile>ch3_Molar_ep1_olga31</VoiceFile>
-          <Content>Good to see you too, lassie~</Content>
+          <Content>ยินดีที่ได้รูจักเหมือนกันนะ เพื่อนสาว~</Content>
         </Dialog>
         <Dialog ID="114" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain23</VoiceFile>
-          <Content>I apologize. We’re in a bit of confusion right now. And she’s hungover as well…</Content>
+          <Content>ต้องขอโทษด้วยครับ พวกเรายังค่อนข้างสับสนอยู่น่ะ แถมเธอเองก็กำลังแฮงค์อยู่เหมือนกัน…</Content>
         </Dialog>
         <Dialog ID="115" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela10</VoiceFile>
-          <Content>I understand. I do have experience dealing with drunkards.</Content>
+          <Content>ดิฉันทราบดีค่ะ ดิฉันเองก็พอมีประสบการณ์ที่ต้องจัดการกับคนขี้เมาอยู่ค่ะ</Content>
         </Dialog>
         <Dialog ID="116" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga32</VoiceFile>
-          <Content>Ey, you know what the hell was going on back there?</Content>
+          <Content>นี่เธอพอรู้อะไรเกี่ยวกับเรื่องบ้าเมื่อกี้นี้ใหม?</Content>
         </Dialog>
         <Dialog ID="117" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela11</VoiceFile>
-          <Content>All I know is that you are our guests invited to the Library, I’m afraid.</Content>
+          <Content>สิ่งที่ดิฉันพอรู้มีแค่ พวกคูณเป็นแขกที่ถูกรับเชิญให้เข้ามาในห้องสมุดค่</Content>
         </Dialog>
         <Dialog ID="118" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga33</VoiceFile>
-          <Content>Huh. She’s a bit nicer than what Myo told me.</Content>
+          <Content>ฮื้อ หล่อนใจดีกว่าที่เมียวบอกฉันไว้อีก</Content>
         </Dialog>
         <Dialog ID="119" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika17</VoiceFile>
-          <Content>Do you know her?</Content>
+          <Content>คุณพี่รู้จักเธอด้วยหรอ?</Content>
         </Dialog>
         <Dialog ID="120" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga34</VoiceFile>
-          <Content>Ye see, we were supposed to dig into the relationship between L Corp. and the Library; that’s what Myo asked us to do.</Content>
+          <Content>ก็นะ งานของพวกเราก็คือหาความเชื่อมโยงระหว่างแอล คอร์ปกับห้องสมุดนี้; นั่นคือสิ่งที่เมียวขอให้เราทำน่ะ</Content>
         </Dialog>
         <Dialog ID="121" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela12</VoiceFile>
-          <Content>I see, so that’s how you know about me.</Content>
+          <Content>คุณรู้จักดิฉันเด้วยเหตุนั้นสินะคะ</Content>
         </Dialog>
         <Dialog ID="122" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga35</VoiceFile>
-          <Content>And y’know what’s funny, lads~? We’re talking to a machine, not a person.</Content>
+          <Content>แล้วหล่อนก็ไม่ใช่มนุษย์ด้วย~ แต่เป็นจักรกลต่างหากล่ะ</Content>
         </Dialog>
         <Dialog ID="123" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika18</VoiceFile>
-          <Content>Let’s not anger her now. We’ll just take the books listed on the invitation and leave, okay?</Content>
+          <Content>เราอย่าไปยั่วโมโหเธอเลยดีกว่า เราแค่รีบไปรับหนังสือที่เขียนไว้แล้วรีบกลับกันดีกว่าใหม?</Content>
         </Dialog>
         <Dialog ID="124" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga36</VoiceFile>
-          <Content>Let’s be blunt, lassie. You know what relationships the Library has with L Corp, donchya?</Content>
+          <Content>ขอถามตรงๆเลยนะ เพื่อนสาว หล่อนน่ะรู้ความเชื่อมโยงระหว่างห้องสมุดนี่กับแอล คอร์ปใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="125" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์r</Title>
           <VoiceFile>ch3_Molar_ep1_olga37</VoiceFile>
-          <Content>Myo says the fact you’re in the Library is indisputable evidence that this place is related to L Corp somehow or another.</Content>
+          <Content>เมียวบอกว่า แค่หล่อนอยู่ที่นี่ก็เป็นหลักฐานที่ดิ้นไม่หลุดแล้วว่าที่นี่ต้องเกี่ยวข้องกับแอล คอร์ปไม่ทางใดก็ทางหนึงแน่ๆ</Content>
         </Dialog>
         <Dialog ID="126" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela13</VoiceFile>
-          <Content>…I’m sure you can find the answer to that in the books you seek.</Content>
+          <Content>…ดิฉันคิดว่าไปหาคำตอบในหนังสือเองดีกว่าค่ะ</Content>
         </Dialog>
         <Dialog ID="127" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain24</VoiceFile>
-          <Content>We’re terribly sorry. We’ll be going in now.</Content>
+          <Content>เราต้องขอโทษด้วย เดี๋ยวเรารีบเข้าไปแล้วครับ</Content>
         </Dialog>
         <Dialog ID="128" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela14</VoiceFile>
-          <Content>May you find your book in this place.</Content>
+          <Content>ขอให้คุณพบหนังสือที่ต้องการ ณ ที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>에피소드1-종료</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+       <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland12</VoiceFile>
-          <Content>Any guesses on why R Corp. cares about this place?</Content>
+          <Content>พอเดาได้ใหมว่าทำไมพวกอาร์ คอร์ปถึงสนใจที่นี่จัง?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela15</VoiceFile>
-          <Content>L Corp. was a major client of R Corp, and it disappeared into thin air, so it’s natural for them to want to look into it.</Content>
+          <Content>แอล คอร์ปเป็นลูกค้ารายใหญ่สำหรับอาร์ คอร์ป แต่แล้วจู่ๆก็หายไปดื้อๆ ไม่แปลกหรอกที่พวกเขาอยากจะตามหา</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland13</VoiceFile>
-          <Content>A major client of R Corp, huh…</Content>
+          <Content>ลูกค้าเจ้าใหญ่สำหรับอาร์ คอร์ปงั้นหรอ…</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland14</VoiceFile>
-          <Content>I guess that makes sense. L Corp. and its Nest weren’t really special in terms of military power. It must have been a very important client for R Corp. if they were asked to protect a whole Nest.</Content>
+          <Content>ก็ฟังขึ้นอยู่นะ แอล คอร์ปกับเนสของพวกเขาไม่ค่อยมีอำนาจทางทหารที่พิเศษอะไร, อาร์ คอร์ปจึงถูกขอให้ปกป้องเนสทั้งแถบแทน สำหรับพวกเขาคงเป็นลูกค้าที่สำคัญมากๆแน่เลย</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela16</VoiceFile>
-          <Content>It was a mutual relationship, too. L Corp. was supplying all the energy R Corp. needed, and W Corp. depended on L Corp’s energy supply as well.</Content>
+          <Content>เราก็แค่พึ่งพาอาศัยกันและกันน่ะ แอล คอร์ปจะจัดส่งพลังงานที่อาร์ คอร์ปต้องการ, และดับเบิ้ลยู คอร์ปก็ต้องการพลังจากแอล คอร์ปเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland15</VoiceFile>
-          <Content>Three Wings in collusion with each other, huh. So much for trickle-down economics.</Content>
+          <Content>วิงส์ทั้ง3วิงส์สมรู้ร่วมคิดกันสินะ คงเป็นเศรษฐกิจแบบไหลรินเลยสิท่า</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela17</VoiceFile>
-          <Content>There’s no use complaining to me. I was simply following my orders.</Content>
+          <Content>บ่นฉันไปก็ไม่ได้อะไรขึ้นมาหรอก ฉันน่ะก็แค่ทำตามคำสั่งที่สั่งไว้เท่านั้น</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland16</VoiceFile>
-          <Content>Yeah. Employees gotta do whatever their boss tells ‘em to do, whether it’s the Wings or the Backstreets.</Content>
+          <Content>ก็จริง พนักงานไม่ว่ามาจากวิงส์หรือแบ็คสตรีทเองก็ต้องทำตามที่หัวหน้าสั่งสินะ</Content>
         </Dialog>
       </Place>
     </Episode>
