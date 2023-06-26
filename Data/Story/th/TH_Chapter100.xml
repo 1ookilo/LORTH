@@ -2513,192 +2513,192 @@
     <Episode>
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
-        <PlaceName>Location: The Library - Floor of Technological Sciences</PlaceName>
+        <PlaceName>สถานที่: ห้องสมุด - ชั้นวิทยาศาสตร์เทคโนโลยี</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland1</VoiceFile>
-          <Content>Damn, check out how orderly these books are organized. The compulsion is almost scaring me at this point.</Content>
+          <Content>โอ้โฮเฮะ ดูความเป็นระเบียบของหนังสือพวกนี้สิ มันเนี้ยบมากจนทำให้ฉันรู้สึกขนลุกเลยว่ะ</Content>
         </Dialog>
         <Dialog ID="1" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod1</VoiceFile>
-          <Content>Your clothes are still slovenly.</Content>
+          <Content>เสื้อผ้าของนายยังไม่เรียบร้อยเลยนะ</Content>
         </Dialog>
         <Dialog ID="2" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>None</VoiceFile>
-          <Content>(He straightens Roland’s attire once again.)</Content>
+          <Content>(เขาจัดเสื้อผ้าของโรแลนด์ให้ใหม่อีกครั้ง)</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland2</VoiceFile>
-          <Content>I appreciate it, but it feels kinda awkward to be honest.</Content>
+          <Content>ฉันซาบซึ้งจังแฮะ แต่มันก็รู้สึกอึดอัดว่ะ ถ้าให้พูดตรงๆนะ</Content>
         </Dialog>
         <Dialog ID="4" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod3</VoiceFile>
-          <Content>Proper attitude of the mind begins with a well-conducted body.</Content>
+          <Content>ทัศนคติในการทำงานที่ดีเริ่มต้นด้วย การประพฤติตัวที่ดีให้เป็นระเบียบ</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland3</VoiceFile>
-          <Content>Well, I guess I should say thanks.</Content>
+          <Content>อ้อ ถ้างั้นฉันคงต้องบอกขอบใจสินะ</Content>
         </Dialog>
         <Dialog ID="6" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod4</VoiceFile>
-          <Content>What is your business this time?</Content>
+          <Content>ธุระในครั้งนี้ของนายคืออะไรล่ะ?</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland4</VoiceFile>
-          <Content>Nothing unusual. Got some books to deliver, and some questions to ask.</Content>
+          <Content>ไม่มีอะไรเป็นพิเศษ มีแค่หนังสือที่จะเอามาส่ง และคำถามไม่กี่เรื่อง</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland5</VoiceFile>
-          <Content>Heard from Malkuth that the librarians here used to be humans long ago. Is that true?</Content>
+          <Content>ได้ยินจากมัลคุทมาว่า บรรณารักษ์ที่นี่เคยเป็นมนุษย์เมื่อนานมาแล้ว นั้นมันจริงหรือเปล่าล่ะ?</Content>
         </Dialog>
         <Dialog ID="9" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod5</VoiceFile>
-          <Content>…It is.</Content>
+          <Content>…มันก็จริงน่ะสิ</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland6</VoiceFile>
-          <Content>Were you all seasoned brawlers in your past lives, then? Like the ringleaders of Syndicates?</Content>
+          <Content>ในชีวิตก่อนหน้าของพวกนายเคยเป็นนักสู้ตัวตึงมาก่อนไหม? หรืออย่างพวกหัวโจกองค์กรลับอะไรหรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland7</VoiceFile>
-          <Content>Although, my intuition as a Fixer is telling me otherwise.</Content>
+          <Content>แม้สัญชาตญาณในฐานะฟิกเซอร์ของฉัน กำลังพยายามบอกว่าเป็นอย่างอื่นอยู่ก็ตามเถอะ</Content>
         </Dialog>
         <Dialog ID="12" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod6</VoiceFile>
-          <Content>Your observation would be correct. None of us lived such a violent life.</Content>
+          <Content>การสังเกตของนายถูกต้องแล้ว ไม่มีคนไหนในกลุ่มของพวกเราที่ต้อง อาศัยอยู่กับโลกที่ต้องใช้ความรุนแรงแบบนั้น</Content>
         </Dialog>
         <Dialog ID="13" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod7</VoiceFile>
-          <Content>Save for a couple of exceptions, that is.</Content>
+          <Content>ยกเว้นสองสามคน ที่ไม่เป็นแบบนั้น</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland8</VoiceFile>
-          <Content>Knew it. How are you so skillful at dealing with guests, though?</Content>
+          <Content>ก็กะไว้แล้วนะ ว่าแต่ทำไมถึงได้มีความชำชองในการรับแขกกันล่ะ?</Content>
         </Dialog>
         <Dialog ID="15" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod8</VoiceFile>
-          <Content>It’s thanks to the books. We gain the powers of the previous guests through their books.</Content>
+          <Content>ต้องขอบคุณพลังของหนังสือ เราได้รับพลังจากแขกคนก่อนๆ ผ่านทางหนังสือของพวกเขา</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland9</VoiceFile>
-          <Content>Oh, so that’s why you guys seemed to grow sorta stronger with every book I gave you.</Content>
+          <Content>นั้นเป็นเหตุผลว่าทำไมนายดูแข็งแกร่งขึ้นเรื่อยๆ เมื่อทุกครั้งที่เอาหนังสือมามอบให้สินะ</Content>
         </Dialog>
         <Dialog ID="17" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod9</VoiceFile>
-          <Content>In the Library, books act as a source of power. Emotions can do the same.</Content>
+          <Content>ในห้องสมุดแห่งนี้ หนังสือเป็นเหมือนแหล่งพลังงาน อารมณ์ความรู้ก็มีผลด้วยเช่นกัน</Content>
         </Dialog>
         <Dialog ID="18" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod10</VoiceFile>
-          <Content>Through the books, we can imbue our own bodies with the senses and strengths that were engraved in other’s bodies.</Content>
+          <Content>เราเติมเต็มความสามารถทางร่างกายของเราได้ จากประสาทสัมผัสและความแข็งแกร่งทางร่างกายที่ฝัง อยู่ในตัวของเจ้าของหนังสือน่ะ</Content>
         </Dialog>
         <Dialog ID="19" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod11</VoiceFile>
-          <Content>Moreover, the Library can amplify the emotions of its denizens; it acts upon visitors and residents alike.</Content>
+          <Content>ยิ่งกว่านั้น ห้องสมุดยังขยายขีดความรู้สึกทางอารมณ์ของผู้ที่อยู่ที่นี่อีกด้วย มันส่งผลต่อผู้มาเยือนและผู้ที่อาศัยในนั้นเช่นกัน</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland10</VoiceFile>
-          <Content>Wow, these “books” are a lot more impressive than I thought.</Content>
+          <Content>ว้า "หนังสือ" พวกนี้ทำให้ฉันทึ่งมากกว่าที่ฉันคิดเยอะเลยนะเนี้ย</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland11</VoiceFile>
-          <Content>Heck, they might even be better than the surgeries and tools most workshops have to offer. Information is one thing, but this could be a real moneymaker.</Content>
+          <Content>ห๊ะ อาจจะดีกว่าเข้ารับการผ่าตัดปรับแต่งร่างกาย และใช้อุปกรณ์จากโรงงานในหลายๆแห่งเลยด้วยซ้ำ ข้อมูลนี้อาจเป็นแหล่งทำเงินได้จริงๆเลยนะ</Content>
         </Dialog>
         <Dialog ID="22" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod12</VoiceFile>
-          <Content>You think in secular terms.</Content>
+          <Content>นายคิดแบบคนทั่วไปจังนะ</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland12</VoiceFile>
-          <Content>Call it the pathetically tearful survival instincts of a man who’s lived most of his life in poverty, will ya?</Content>
+          <Content>เรียกว่าเป็นสัญชาตญาณของการอยู่รอดทั้งคราบน้ำตา ของชายผู้จนๆที่น่าสมเพชยังไงเล่าเพื่อน?</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland13</VoiceFile>
-          <Content>Anyways, that’s all for my questions. Thanks for your kind answers.</Content>
+          <Content>ยังไงก็เหอะ นั้นคือคำถามทั้งหมดของฉัน ขอบคุณสำหรับความเมตาที่ช่วยตอบให้นะ</Content>
         </Dialog>
         <Dialog ID="25" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod13</VoiceFile>
-          <Content>Don’t mistake this for kindness.</Content>
+          <Content>อย่าเข้าใจผิดว่านี่คือความเมตตาล่ะ</Content>
         </Dialog>
         <Dialog ID="26" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod14</VoiceFile>
-          <Content>I do not particularly think highly of you. You’re nothing more than Angela’s little lapdog.</Content>
+          <Content>ฉันไม่คิดว่านายมีความสำคัญอะไรมากนัก นายไม่มีอะไรมากไปกว่าเจ้าหมาตัวน้อยๆ ของแองเจล่าเลยก็เท่านั้น</Content>
         </Dialog>
         <Dialog ID="27" Model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>Lapdog</Title>
+          <Title>เจ้าหมาน้อย</Title>
           <VoiceFile>ch8_Yesod_ep2_roland14</VoiceFile>
-          <Content>What? Hey, that’s rude! You know I didn’t take this job by my choice.</Content>
+          <Content>อะไร? เด๋วดิเฮ้ย นั้นมันแรงไปป่าว! นายก็รู้นิว่าฉันไม่ได้เลือกงานนี้ ด้วยความตั้งใจของฉันนะ</Content>
         </Dialog>
         <Dialog ID="28" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod15</VoiceFile>
-          <Content>Does that necessarily exempt you from guiltiness, however?</Content>
+          <Content>หือ การที่เลือกไม่ได้ก็ได้รับข้อยกเว้นจากความผิดด้วย อย่างงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="29" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod16</VoiceFile>
-          <Content>Now, if you’re done with your errands, kindly take your leave now.</Content>
+          <Content>ถ้าเสร็จสิ้นธุระของนายแล้ว ก็กรุณาออกไปซะ</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>Lapdog</Title>
+          <Title>เจ้าหมาน้อย</Title>
           <VoiceFile>ch8_Yesod_ep2_roland15</VoiceFile>
-          <Content>That little piece of !#@$!#…</Content>
+          <Content>หนอยแน่ ไอ้!#@$!#…</Content>
         </Dialog>
       </Place>
     </Episode>
