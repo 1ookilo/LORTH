@@ -1119,7 +1119,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela17</VoiceFile>
-          <Content>ฉันถูกออกแบบให้ดูเหมือนกับหมุษย์ มีความรู้สึกและประเมินผลพร้อมกับตัดสินใจตามอารมณ์พวกนั้น</Content>
+          <Content>ฉันถูกออกแบบให้ดูเหมือนกับมนุษย์ มีความรู้สึกและประเมินผลพร้อมกับตัดสินใจตามอารมณ์พวกนั้น</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1311,7 +1311,7 @@
           <Teller>วอลเตอร์</Teller>
           <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter5</VoiceFile>
-          <Content>ไม่เหมือนเธอเลยนะที่สร้างคำอ้างอิงไร้เหตุผลนั่นน่ะ?</Content>
+          <Content>ไม่เหมือนเธอเลยนะที่สร้างคำอ้างอิงแบบไร้เหตุผลนั่นน่ะ?</Content>
         </Dialog>
         <Dialog ID="14" Model="월터">
           <Teller>วอลเตอร์</Teller>
@@ -1449,7 +1449,7 @@
           <Teller>วอลเตอร์</Teller>
           <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter20</VoiceFile>
-          <Content>พวกเขาใช้เยื่อล่อที่ไม่สามารถต้านทานได้อย่างนี้เพื่อล่อผู้เคราะห์ร้ายมา อย่างนี้เองหรอ?</Content>
+          <Content>พวกเขาใช้เยื่อล่อที่ต้านทานไม่ได้อย่างนี้เพื่อล่อผู้เคราะห์ร้ายมา อย่างงั้นเองหรอ?</Content>
         </Dialog>
       </Place>
        <Place>
@@ -1470,7 +1470,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland2</VoiceFile>
-          <Content>ตรงเผงเลยครับ คุณหญิงนี่คิดแผนที่เหมาะเหม็งสำหรับใช้ล่อพวกสไวมาจริงๆ</Content>
+          <Content>ถูกเผงเลยครับ คุณหญิงคิดแผนที่เหมาะเหม็งสำหรับใช้ล่อพวกสไวมาจริงๆ</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -1494,7 +1494,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela3</VoiceFile>
-          <Content>ยังไงซะนายก็เป็นผู้ช่วยของฉัน ฉันยอมให้ก็ได้ แค่อย่ากวนฉันมากก็พอ</Content>
+          <Content>ยังไงซะนายก็เป็นผู้ช่วยของฉัน ฉันยอมให้ก็ได้ แค่อย่ากวนฉันให้มากก็พอ</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -1512,7 +1512,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland6</VoiceFile>
-          <Content>ผู้กำกับหน่วยในสมาพันธ์อย่างสไวก็มากพอสำหรับก้าวต่อไปของเราแล้วล่ะ ข้อมูลที่เขามีจะต้องเป็นอีกระดับหนึงจากที่พวกเราเก็บมาได้ตลอดแน่</Content>
+          <Content>ผู้กำกับหน่วยในสมาพันธ์อย่างสไวก็เพียงพอสำหรับก้าวต่อไปของเราแล้วล่ะ ข้อมูลที่เขามีจะต้องเป็นอีกระดับหนึงจากที่พวกเราเก็บมาได้ตลอดแน่</Content>
         </Dialog>
       </Place>
       <Place>
@@ -1545,19 +1545,19 @@
           <Teller>วอลเตอร์</Teller>
           <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter24</VoiceFile>
-          <Content>พวกเราทั้งคู่ไม่สมควรที่จะเน่าอยู่ในหน่วยที่6 ตลอดชีวิตของเราน่ะ ใช่ไหม?</Content>
+          <Content>พวกเราทั้งคู่ไม่สมควรที่จะเน่าตายอยู่ในหน่วยที่6 ไปตลอดชีวิตของเรา จริงไหม?</Content>
         </Dialog>
         <Dialog ID="52" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora19</VoiceFile>
-          <Content>ใช่ค่ะYes…</Content>
+          <Content>จริงค่ะ…</Content>
         </Dialog>
         <Dialog ID="53" Model="월터">
           <Teller>วอลเตอร์</Teller>
           <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter25</VoiceFile>
-          <Content>พวกเราสามารถแก้แค้นให้พวกเพื่อนร่วมของเธอได้,ได้หลักฐานเกี่ยวกับปรากฏการณ์บิดเบือน,พร้อมกับมุ่งสู่ตำแหน่งที่สูงขึ้นได้ มันจะดีไปถึงใหน?</Content>
+          <Content>พวกเราสามารถแก้แค้นให้พวกเพื่อนร่วมของเธอได้,ได้หลักฐานเกี่ยวกับปรากฏการณ์บิดเบือน,พร้อมกับมุ่งสู่ตำแหน่งที่สูงขึ้นได้ มันจะคุ้มไปถึงไหน?</Content>
         </Dialog>
         <Dialog ID="54" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -1695,7 +1695,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland20</VoiceFile>
-          <Content>พอจะเข้าใจที่ฉันพูดไหม?</Content>
+          <Content>พอจะเข้าใจที่ฉันพูดใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
