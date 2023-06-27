@@ -736,7 +736,7 @@
     <Episode>
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
-        <PlaceName>Location: Zwei Association - Southern Branch, Section 6</PlaceName>
+        <PlaceName>สถานที่: สมาพันธ์สไว สาขาตอนใต้ หน่วยที่ 6</PlaceName>
  <Dialog ID="0" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
@@ -819,7 +819,7 @@
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora7</VoiceFile>
-          <Content>เป็นปรากฏการณ์ผิดปกติที่เกิดขึ้นอยู่ทั้วเมืองหลังจากเหตุการณ์ราตรีสีขาวและทิวาสีดำ</Content>
+          <Content>เป็นปรากฏการณ์ผิดปกติที่เกิดขึ้นอยู่ทั่วเมืองหลังจากเหตุการณ์ราตรีสีขาวและทิวาสีดำ</Content>
         </Dialog>
         <Dialog ID="14" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -837,7 +837,7 @@
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia4</VoiceFile>
-          <Content>ฉันได้ยินมาว่ามันเกิดขึ้นรวดเร็วมาก สมาพันธ์ฮานะถึงกับต้องส่งหนึ่งใน‘พวกสี’ทันทีหลังจากรู้ถึงความรุนแรงของเหตุการณ์ในครั้งนั้น</Content>
+          <Content>ฉันได้ยินมาว่ามันเกิดขึ้นเร็วมาก สมาพันธ์ฮานะถึงกับต้องส่งหนึ่งใน‘พวกสี’ทันทีหลังจากรู้ถึงความรุนแรงของเหตุการณ์ในครั้งนั้น</Content>
         </Dialog>
         <Dialog ID="17" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -942,7 +942,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland3</VoiceFile>
-          <Content>ฉันขอบอกตามตรงเลยว่าฉันเองยังไม่มั่นใจว่าเราอยู่ส่วนใหนในเมืองอะนะ</Content>
+          <Content>ฉันขอบอกตามตรงเลยว่าฉันเองก็ยังไม่มั่นใจว่าเราอยู่ส่วนไหนในเมืองอะนะ</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -954,13 +954,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland4</VoiceFile>
-          <Content>ถ้ามันเกี่ยวกัน… ไม่อยากจะเชื่อ</Content>
+          <Content>แล้วถ้ามันเกี่ยวกัน… ไม่อยากจะเชื่อ</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland5</VoiceFile>
-          <Content>มันนับว่าเป็นเคสที่เกิดได้ยากมากสำหรับเหตุการณ์ที่ส่งผลกระทบไปทั้วทั้งเมืองเหมือนกับที่ราตรีสีขาวและทิวาสีดำทำ</Content>
+          <Content>มันเป็นเคสที่เกิดได้ยากมากสำหรับเหตุการณ์ที่ส่งผลกระทบไปทั่วทั้งเมืองเหมือนกับที่ราตรีสีขาวและทิวาสีดำทำ</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -972,7 +972,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland7</VoiceFile>
-          <Content>มันเหมือนกับว่าทั่วทั้งเมืองนั้นหลับกันไปเป็นอาทิตย์เลย</Content>
+          <Content>เหมือนกับว่าทั่วทั้งเมืองนั้นหลับกันไปเป็นอาทิตย์เลย</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1023,7 +1023,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela6</VoiceFile>
-          <Content>แต่ดูเหมือนว่าพวกคุณรู้อยู่แล้วว่าดิฉันเป็นใคร.</Content>
+          <Content>แต่ดูเหมือนว่าพวกคุณจะรู้อยู่แล้วว่าดิฉันเป็นใคร.</Content>
         </Dialog>
         <Dialog ID="47" Model="산">
           <Teller>ซาน</Teller>
