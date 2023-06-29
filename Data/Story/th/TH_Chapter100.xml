@@ -67,7 +67,7 @@
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep1_malkuth4</VoiceFile>
-          <Content>เธอคิดว่าแค่มอบร่างกายให้ จะทำให้ฉันดีใจด้วยงั้นหรอ?</Content>
+          <Content>เธอคิดว่าแค่มอบร่างกายให้ จะทำให้ฉันดีใจกับมันด้วยงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="10" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -218,234 +218,234 @@
     <Episode>
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
-        <PlaceName>Location: The Library - Floor of History</PlaceName>
+        <PlaceName>สถานที่: ห้องสมุด - ชั้นประวัติศาสตร์</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland1</VoiceFile>
-          <Content>So? Have the books helped?</Content>
+          <Content>แล้ว? ไอ้หนังสือพวกนี้ใช้ได้หรือเปล่าล่ะ?</Content>
         </Dialog>
         <Dialog ID="1" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth1</VoiceFile>
-          <Content>Yep! I’m sorting them all somehow.</Content>
+          <Content>อือ! ฉันกำลังจัดเรียงมันอยู่น่ะ</Content>
         </Dialog>
         <Dialog ID="2" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth2</VoiceFile>
-          <Content>It seems to be working thankfully!</Content>
+          <Content>ดูเหมือนว่าจะได้ผล ขอบคุณนะ!</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland2</VoiceFile>
-          <Content>Phew, that’s good to hear.</Content>
+          <Content>หืมม ดีใจที่ได้ยินแบบนั้นนะ</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland3</VoiceFile>
-          <Content>By the way, I think I remember Angela saying something along the lines of you “earning a fleshy body” the last time we met.</Content>
+          <Content>เออใช่ ฉันจำได้ว่าแองเจล่าเคยพูดบางอย่าง เกี่ยวกับกับเธอว่า "การได้ร่างกาย" ในครั้งล่าสุดที่เราเจอกัน</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland4</VoiceFile>
-          <Content>Were you, like, not human before?</Content>
+          <Content>ก่อนหน้านี้เธอไม่ใช่มนุษย์หรอกหรอ?</Content>
         </Dialog>
         <Dialog ID="6" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth3</VoiceFile>
-          <Content>…It was like a replacement body. A change that couldn’t ever be reverted.</Content>
+          <Content>…มันก็เหมือนร่างกายทดแทนน่ะ ที่เปลี่ยนไปแล้วก็ไม่สามารถเปลี่ยนกลับมาได้อีก</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland5</VoiceFile>
-          <Content>So you had a brain transplant surgery, but somehow managed to go back to your old human body here?</Content>
+          <Content>แปลว่าเธอเคยผ่าตัดปลูกถ่ายสมองมา แต่ด้วยเหตุผลบางอย่างที่ทำให้เธอกลับ ไปใช้ร่างเก่าของเธอได้ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland6</VoiceFile>
-          <Content>That’s actually pretty impressive. Thanks to the Library’s powers, I’m guessing?</Content>
+          <Content>เป็นอย่างที่ฉันคิดอยู่หรือเปล่าเนี้ย? นั้นมันค่อนข้างน่าทึ่งไปเลยนะ ต้องขอบคุณพลังของห้องสมุดที่ช่วยทำให้สิ่งนั้นเป็นไปได้</Content>
         </Dialog>
         <Dialog ID="9" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth4</VoiceFile>
-          <Content>Yeah, I think so.</Content>
+          <Content>ก็คงงั้นมั้งนะ</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland7</VoiceFile>
-          <Content>You can’t let yourself be held back by common sense in the Library, huh.</Content>
+          <Content>นี่เธอไม่ควรปล่อยให้ความรู้สึกส่วนตัว มาเป็นอุปสรรคในการทำงานที่ห้องสมุดได้นะ</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland8</VoiceFile>
-          <Content>I take it that you don’t really like having your body back? You didn’t seem too happy back then.</Content>
+          <Content>ฉันเข้าใจนะว่าเธอคงไม่ค่อยพอใจ ที่ได้กลับมาใช้ร่างกายของเธออีก? เพราะดูเหมือนว่าเธอไม่ค่อยดีใจกับมันเลย</Content>
         </Dialog>
         <Dialog ID="12" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth5</VoiceFile>
-          <Content>Oh no, I actually do like it! It’s just that this isn’t exactly how I wanted things to go down.</Content>
+          <Content>อ๊ะไม่นะ ฉันชอบร่างนี้จริงๆ! เพียงแต่ว่านี่มันไม่ใช่สิ่งที่ฉันต้องการอยากให้เป็น</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland9</VoiceFile>
-          <Content>What did you do in the past, then?</Content>
+          <Content>แล้ว ในอดีตที่ผ่านมาเธอทำอะไรมากันแน่?</Content>
         </Dialog>
         <Dialog ID="14" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth6</VoiceFile>
-          <Content>…Yeah, I wonder. What was I in the past, really?</Content>
+          <Content>…ใช่ ฉันก็สงสัยนะ ในอดีตที่ผ่านมา ฉันเป็นอะไรกันแน่?</Content>
         </Dialog>
         <Dialog ID="15" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth7</VoiceFile>
-          <Content>You wouldn’t believe it, but… This is actually my third try at life.</Content>
+          <Content>นายอาจจะไม่เชื่อ แต่นี่… คือชีวิตครั้งที่สามของฉันแล้ว</Content>
         </Dialog>
         <Dialog ID="16" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth8</VoiceFile>
-          <Content>This Library and its librarians have a lot of history behind them.</Content>
+          <Content>ที่ห้องสมุดแห่งนี้รวมถึงเหล่าบรรณารักษ์ มีประวัติและเบื้องหลังของมันอยู่มากมาย</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland10</VoiceFile>
-          <Content>Third try? Can you come back from the grave or something?</Content>
+          <Content>ครั้งที่สาม? นี่เธอลุกออกมาจากสุสานได้ หรืออะไรทำนองนั้นได้งั้นเรอะ?</Content>
         </Dialog>
         <Dialog ID="18" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth9</VoiceFile>
-          <Content>It’s the accumulated memories from my two previous bodies that were carried over, to be precise.</Content>
+          <Content>พูดง่ายๆ มันคือความทรงจำที่ถูกซ้อนทับ จากสองร่างก่อนหน้ามารวมกัน</Content>
         </Dialog>
         <Dialog ID="19" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth10</VoiceFile>
-          <Content>My past selves… I never really thought about it this way before.</Content>
+          <Content>แต่ว่าตัวฉันเองในอดีต… ก็ไม่เคยคิดเกี่ยวกับมุมมองแบบนี้มาก่อนเลย</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland11</VoiceFile>
-          <Content>A difficult problem you’re facing there. How about your present self?</Content>
+          <Content>นั่นเป็นปัญหายุ่งยากที่เธอกำลังเผชิญอยู่สินะ แล้วสำหรับตัวเธอในปัจจุบันล่ะเป็นยังไงบ้าง?</Content>
         </Dialog>
         <Dialog ID="21" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth11</VoiceFile>
-          <Content>…I’m an irresponsible person who let down everyone’s efforts.</Content>
+          <Content>…ฉันเป็นคนที่ไร้ความรับผิดชอบ ผู้ที่ปล่อยให้ความพยายาม ของทุกคนต้องสูญเปล่า</Content>
         </Dialog>
         <Dialog ID="22" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth12</VoiceFile>
-          <Content>And an idiot who tried to reach for something out of my means and ended up causing trouble, I suppose…</Content>
+          <Content>และเป็นยัยโง่ที่พยายามหาบางสิ่ง ที่เกินความสามารถของตัวเองทำได้ แล้วสุดท้ายก็จบลงด้วยการก่อปัญหา ละมั้งนะ…</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland12</VoiceFile>
-          <Content>Whoa, whoa, hold your horses! Let’s not get too dark here.</Content>
+          <Content>ดะดะดะเดี๋ยวหยุดก่อน! อย่าพูดให้มันดูมืดมนเกินไปนักซี่</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland13</VoiceFile>
-          <Content>Let’s just calm down for a moment.</Content>
+          <Content>เรามาสงบสติอารมณ์กันสักครู่ก่อนนะ</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland14</VoiceFile>
-          <Content>Take a deep breath~</Content>
+          <Content>ทำงี้นะ หายใจเข้าลึกๆ~</Content>
         </Dialog>
         <Dialog ID="26" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth13</VoiceFile>
-          <Content>Huuf~</Content>
+          <Content>ฮ๊าฟ~</Content>
         </Dialog>
         <Dialog ID="27" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland15</VoiceFile>
-          <Content>And let it out~</Content>
+          <Content>แล้วก็ปล่อยออก~</Content>
         </Dialog>
         <Dialog ID="28" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth14</VoiceFile>
-          <Content>Pah~</Content>
+          <Content>ฟู้ว~</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland16</VoiceFile>
-          <Content>Iiiin~</Content>
+          <Content>ฮึบ~</Content>
         </Dialog>
         <Dialog ID="30" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth15</VoiceFile>
-          <Content>Huuuuf~~</Content>
+          <Content>ฮ๊าฟ~~</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland17</VoiceFile>
-          <Content>And out~!</Content>
+          <Content>แล้วปล่อยออก~!</Content>
         </Dialog>
         <Dialog ID="32" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth16</VoiceFile>
-          <Content>Pah~!</Content>
+          <Content>ฟู้ว~!</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland18</VoiceFile>
-          <Content>Relaxed now?</Content>
+          <Content>ผ่อนคลายขึ้นแล้วใช่ม๊า?</Content>
         </Dialog>
         <Dialog ID="34" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth17-02</VoiceFile>
-          <Content>Yeah, it really helped! Thanks, Roland.</Content>
+          <Content>อือ มันได้ผลจริงๆด้วย! ขอบใจนะโรแลนด์</Content>
         </Dialog>
         <Dialog ID="35" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth18</VoiceFile>
-          <Content>I should know better than anyone that it’s pointless to get upset over things I can’t do anything about…</Content>
+          <Content>ฉันน่าจะรู้ดีกว่าใครๆว่า มันไม่มีประโยชน์ที่จะอารมณ์เสียเกี่ยวกับ สิ่งที่ฉันเองไม่สามารถทำอะไรกับมันได้แล้ว…</Content>
         </Dialog>
         <Dialog ID="36" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth19</VoiceFile>
-          <Content>I gotta start with the things I can take care of first!</Content>
+          <Content>ต่อจากนี้ฉันต้องเริ่มจากสิ่งที่ ฉันสามารถจัดการได้ก่อนละนะ!</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland19</VoiceFile>
-          <Content>Alright. I’ll try hard with my work, too. Let’s take our time with the problem of past selves.</Content>
+          <Content>โอเค ฉันจะพยายามกับงานของตัวเองเช่นกัน และเราก็ค่อยๆใช้เวลาที่เหลืออยู่ แก้ไขเรื่องราวในอดีตกัน</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -2513,192 +2513,192 @@
     <Episode>
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
-        <PlaceName>Location: The Library - Floor of Technological Sciences</PlaceName>
+        <PlaceName>สถานที่: ห้องสมุด - ชั้นวิทยาศาสตร์เทคโนโลยี</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland1</VoiceFile>
-          <Content>Damn, check out how orderly these books are organized. The compulsion is almost scaring me at this point.</Content>
+          <Content>โอ้โฮเฮะ ดูความเป็นระเบียบของหนังสือพวกนี้สิ มันเนี้ยบมากจนทำให้ฉันรู้สึกขนลุกเลยว่ะ</Content>
         </Dialog>
         <Dialog ID="1" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod1</VoiceFile>
-          <Content>Your clothes are still slovenly.</Content>
+          <Content>เสื้อผ้าของนายยังไม่เรียบร้อยเลยนะ</Content>
         </Dialog>
         <Dialog ID="2" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>None</VoiceFile>
-          <Content>(He straightens Roland’s attire once again.)</Content>
+          <Content>(เขาจัดเสื้อผ้าของโรแลนด์ให้ใหม่อีกครั้ง)</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland2</VoiceFile>
-          <Content>I appreciate it, but it feels kinda awkward to be honest.</Content>
+          <Content>ฉันซาบซึ้งจังแฮะ แต่มันก็รู้สึกอึดอัดว่ะ ถ้าให้พูดตรงๆนะ</Content>
         </Dialog>
         <Dialog ID="4" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod3</VoiceFile>
-          <Content>Proper attitude of the mind begins with a well-conducted body.</Content>
+          <Content>ทัศนคติในการทำงานที่ดีเริ่มต้นด้วย การประพฤติตัวที่ดีให้เป็นระเบียบ</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland3</VoiceFile>
-          <Content>Well, I guess I should say thanks.</Content>
+          <Content>อ้อ ถ้างั้นฉันคงต้องบอกขอบใจสินะ</Content>
         </Dialog>
         <Dialog ID="6" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod4</VoiceFile>
-          <Content>What is your business this time?</Content>
+          <Content>ธุระในครั้งนี้ของนายคืออะไรล่ะ?</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland4</VoiceFile>
-          <Content>Nothing unusual. Got some books to deliver, and some questions to ask.</Content>
+          <Content>ไม่มีอะไรเป็นพิเศษ มีแค่หนังสือที่จะเอามาส่ง และคำถามไม่กี่เรื่อง</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland5</VoiceFile>
-          <Content>Heard from Malkuth that the librarians here used to be humans long ago. Is that true?</Content>
+          <Content>ได้ยินจากมัลคุทมาว่า บรรณารักษ์ที่นี่เคยเป็นมนุษย์เมื่อนานมาแล้ว นั้นมันจริงหรือเปล่าล่ะ?</Content>
         </Dialog>
         <Dialog ID="9" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod5</VoiceFile>
-          <Content>…It is.</Content>
+          <Content>…มันก็จริงน่ะสิ</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland6</VoiceFile>
-          <Content>Were you all seasoned brawlers in your past lives, then? Like the ringleaders of Syndicates?</Content>
+          <Content>ในชีวิตก่อนหน้าของพวกนายเคยเป็นนักสู้ตัวตึงมาก่อนไหม? หรืออย่างพวกหัวโจกองค์กรลับอะไรหรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland7</VoiceFile>
-          <Content>Although, my intuition as a Fixer is telling me otherwise.</Content>
+          <Content>แม้สัญชาตญาณในฐานะฟิกเซอร์ของฉัน กำลังพยายามบอกว่าเป็นอย่างอื่นอยู่ก็ตามเถอะ</Content>
         </Dialog>
         <Dialog ID="12" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod6</VoiceFile>
-          <Content>Your observation would be correct. None of us lived such a violent life.</Content>
+          <Content>การสังเกตของนายถูกต้องแล้ว ไม่มีคนไหนในกลุ่มของพวกเราที่ต้อง อาศัยอยู่กับโลกที่ต้องใช้ความรุนแรงแบบนั้น</Content>
         </Dialog>
         <Dialog ID="13" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod7</VoiceFile>
-          <Content>Save for a couple of exceptions, that is.</Content>
+          <Content>ยกเว้นสองสามคน ที่ไม่เป็นแบบนั้น</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland8</VoiceFile>
-          <Content>Knew it. How are you so skillful at dealing with guests, though?</Content>
+          <Content>ก็กะไว้แล้วนะ ว่าแต่ทำไมถึงได้มีความชำชองในการรับแขกกันล่ะ?</Content>
         </Dialog>
         <Dialog ID="15" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod8</VoiceFile>
-          <Content>It’s thanks to the books. We gain the powers of the previous guests through their books.</Content>
+          <Content>ต้องขอบคุณพลังของหนังสือ เราได้รับพลังจากแขกคนก่อนๆ ผ่านทางหนังสือของพวกเขา</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland9</VoiceFile>
-          <Content>Oh, so that’s why you guys seemed to grow sorta stronger with every book I gave you.</Content>
+          <Content>นั้นเป็นเหตุผลว่าทำไมนายดูแข็งแกร่งขึ้นเรื่อยๆ เมื่อทุกครั้งที่เอาหนังสือมามอบให้สินะ</Content>
         </Dialog>
         <Dialog ID="17" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod9</VoiceFile>
-          <Content>In the Library, books act as a source of power. Emotions can do the same.</Content>
+          <Content>ในห้องสมุดแห่งนี้ หนังสือเป็นเหมือนแหล่งพลังงาน อารมณ์ความรู้ก็มีผลด้วยเช่นกัน</Content>
         </Dialog>
         <Dialog ID="18" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod10</VoiceFile>
-          <Content>Through the books, we can imbue our own bodies with the senses and strengths that were engraved in other’s bodies.</Content>
+          <Content>เราเติมเต็มความสามารถทางร่างกายของเราได้ จากประสาทสัมผัสและความแข็งแกร่งทางร่างกายที่ฝัง อยู่ในตัวของเจ้าของหนังสือน่ะ</Content>
         </Dialog>
         <Dialog ID="19" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod11</VoiceFile>
-          <Content>Moreover, the Library can amplify the emotions of its denizens; it acts upon visitors and residents alike.</Content>
+          <Content>ยิ่งกว่านั้น ห้องสมุดยังขยายขีดความรู้สึกทางอารมณ์ของผู้ที่อยู่ที่นี่อีกด้วย มันส่งผลต่อผู้มาเยือนและผู้ที่อาศัยในนั้นเช่นกัน</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland10</VoiceFile>
-          <Content>Wow, these “books” are a lot more impressive than I thought.</Content>
+          <Content>ว้า "หนังสือ" พวกนี้ทำให้ฉันทึ่งมากกว่าที่ฉันคิดเยอะเลยนะเนี้ย</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland11</VoiceFile>
-          <Content>Heck, they might even be better than the surgeries and tools most workshops have to offer. Information is one thing, but this could be a real moneymaker.</Content>
+          <Content>ห๊ะ อาจจะดีกว่าเข้ารับการผ่าตัดปรับแต่งร่างกาย และใช้อุปกรณ์จากโรงงานในหลายๆแห่งเลยด้วยซ้ำ ข้อมูลนี้อาจเป็นแหล่งทำเงินได้จริงๆเลยนะ</Content>
         </Dialog>
         <Dialog ID="22" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod12</VoiceFile>
-          <Content>You think in secular terms.</Content>
+          <Content>นายคิดแบบคนทั่วไปจังนะ</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland12</VoiceFile>
-          <Content>Call it the pathetically tearful survival instincts of a man who’s lived most of his life in poverty, will ya?</Content>
+          <Content>เรียกว่าเป็นสัญชาตญาณของการอยู่รอดทั้งคราบน้ำตา ของชายผู้จนๆที่น่าสมเพชยังไงเล่าเพื่อน?</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland13</VoiceFile>
-          <Content>Anyways, that’s all for my questions. Thanks for your kind answers.</Content>
+          <Content>ยังไงก็เหอะ นั้นคือคำถามทั้งหมดของฉัน ขอบคุณสำหรับความเมตาที่ช่วยตอบให้นะ</Content>
         </Dialog>
         <Dialog ID="25" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod13</VoiceFile>
-          <Content>Don’t mistake this for kindness.</Content>
+          <Content>อย่าเข้าใจผิดว่านี่คือความเมตตาล่ะ</Content>
         </Dialog>
         <Dialog ID="26" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod14</VoiceFile>
-          <Content>I do not particularly think highly of you. You’re nothing more than Angela’s little lapdog.</Content>
+          <Content>ฉันไม่คิดว่านายมีความสำคัญอะไรมากนัก นายไม่มีอะไรมากไปกว่าเจ้าหมาตัวน้อยๆ ของแองเจล่าเลยก็เท่านั้น</Content>
         </Dialog>
         <Dialog ID="27" Model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>Lapdog</Title>
+          <Title>เจ้าหมาน้อย</Title>
           <VoiceFile>ch8_Yesod_ep2_roland14</VoiceFile>
-          <Content>What? Hey, that’s rude! You know I didn’t take this job by my choice.</Content>
+          <Content>อะไร? เด๋วดิเฮ้ย นั้นมันแรงไปป่าว! นายก็รู้นิว่าฉันไม่ได้เลือกงานนี้ ด้วยความตั้งใจของฉันนะ</Content>
         </Dialog>
         <Dialog ID="28" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod15</VoiceFile>
-          <Content>Does that necessarily exempt you from guiltiness, however?</Content>
+          <Content>หือ การที่เลือกไม่ได้ก็ได้รับข้อยกเว้นจากความผิดด้วย อย่างงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="29" Model="예소드">
           <Teller>เยโสด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod16</VoiceFile>
-          <Content>Now, if you’re done with your errands, kindly take your leave now.</Content>
+          <Content>ถ้าเสร็จสิ้นธุระของนายแล้ว ก็กรุณาออกไปซะ</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>Lapdog</Title>
+          <Title>เจ้าหมาน้อย</Title>
           <VoiceFile>ch8_Yesod_ep2_roland15</VoiceFile>
-          <Content>That little piece of !#@$!#…</Content>
+          <Content>หนอยแน่ ไอ้!#@$!#…</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -4548,7 +4548,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod6</VoiceFile>
-          <Content>ฉันตอบคำถามนั้นไม่ได้หรอก แต่นายจะได้เห็นผลลัพธ์ของมันเอง</Content>
+          <Content>ฉันตอบคำถามนั้นไม่ได้หรอก แต่คุณจะได้เห็นผลลัพธ์ของมันเอง</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
           <Teller>โฮด</Teller>
@@ -4560,7 +4560,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod8</VoiceFile>
-          <Content>หากนายตามแองเจล่าไปจนสุดทาง นายก็จะค้นพบคำตอบ</Content>
+          <Content>หากคุณตามแองเจล่าไปจนสุดทาง คุณก็จะค้นพบคำตอบ</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -4590,13 +4590,13 @@ I appreciate your help, everyone.</Content>
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod10</VoiceFile>
-          <Content>ในบรรดาหนังสือที่นายได้มา ฉันจะเรียงหนังสือเกี่ยวกับ วรรณกรรมของเมืองเองนะ</Content>
+          <Content>ในบรรดาหนังสือที่คุณได้นำมา ฉันจะเรียงหนังสือเกี่ยวกับ วรรณกรรมของเมืองเองนะ</Content>
         </Dialog>
         <Dialog ID="21" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep1_hod11</VoiceFile>
-          <Content>เมื่อเรารวบรวมหนังสือได้มากขึ้น นายอาจพบคำตอบของนายได้เอง ไม่ว่านายจะชอบมันหรือไม่ก็ตาม</Content>
+          <Content>เมื่อเรารวบรวมหนังสือได้มากขึ้น คุณอาจจะพบคำตอบได้เอง ไม่ว่าคุณจะชอบมันหรือไม่ก็ตาม</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -4633,222 +4633,222 @@ I appreciate your help, everyone.</Content>
     <Episode>
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
-        <PlaceName>Location: The Library - Floor of Literature</PlaceName>
+        <PlaceName>สถานที่: ห้องสมุด - ชั้นวรรณกรรม</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad1</VoiceFile>
-          <Content>Alright, here’s the books you asked for~</Content>
+          <Content>โอเค นี่คือหนังสือที่เธอขอไงล่ะ~</Content>
         </Dialog>
         <Dialog ID="1" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod1</VoiceFile>
-          <Content>Thanks, Mister Roland.</Content>
+          <Content>ขอบคุณนะ คุณโรแลนด์</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad2</VoiceFile>
-          <Content>No need to be so courteous. You can drop the “Mister” and just call me Roland.</Content>
+          <Content>ไม่จำเป็นต้องสุขภาพขนาดนั้นหรอกนะ เรียกฉันว่าโรแลนด์ก็ได้</Content>
         </Dialog>
         <Dialog ID="3" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod2</VoiceFile>
-          <Content>Can I? Roland.</Content>
+          <Content>ถ้างั้น? โรแลนด์</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad3</VoiceFile>
-          <Content>Much better.</Content>
+          <Content>ค่อยดีขึ้นหน่อย</Content>
         </Dialog>
         <Dialog ID="5" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod3</VoiceFile>
-          <Content>It feels kinda awkward to speak like this right away.</Content>
+          <Content>มันรู้สึกแปลกๆไปหน่อย ที่จะให้พูดแบบนั้นทันทีน่ะ</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad4</VoiceFile>
-          <Content>You’ll get used to it. How’s the collection going, by the way?</Content>
+          <Content>เด๋วเธอก็ชินกับมันเองแหละ ว่าแต่การรวบรวมหนังสือเป็นยังไงบ้าง?</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad5</VoiceFile>
-          <Content>I’m not sure if the City has anything worth being called literature.</Content>
+          <Content>ฉันไม่แน่ใจว่าเมืองนี้ จะมีสิ่งที่มีค่าสมควรเรียกว่า วรรณกรรมหรอกนะ</Content>
         </Dialog>
         <Dialog ID="8" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod4</VoiceFile>
-          <Content>It seems like each person’s life counts as a work of literature.</Content>
+          <Content>ดูเหมือนว่าชีวิตของแต่ละคน นับเป็นงานวรรณกรรมก็ได้นะ</Content>
         </Dialog>
         <Dialog ID="9" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod5</VoiceFile>
-          <Content>The story of one’s life is written out like a book of its own.</Content>
+          <Content>เรื่องราวในชีวิตของคนหนึ่งถูกเขียนไว้ ไม่ต่างอะไรจากหนังสือของตัวเอง</Content>
         </Dialog>
         <Dialog ID="10" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod6</VoiceFile>
-          <Content>And in that story, comedy and tragedy intertwine in a complex way.</Content>
+          <Content>ในเรื่องราวนั้น มีทั้งความตลกและความเศร้าโศก ร้อยเรียงเข้าด้วยกันอย่างซับซ้อน</Content>
         </Dialog>
         <Dialog ID="11" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod7</VoiceFile>
-          <Content>It’s hard to define anyone as pure evil, or pure good for that matter.</Content>
+          <Content>มันยากที่กำหนดว่าเป็นคนชั่วหรือดี อย่างแท้จริงสำหรับเรื่องนั้น</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad6</VoiceFile>
-          <Content>Everyone has their own personal affairs.</Content>
+          <Content>ทุกคนก็มีเรื่องส่วนตัวของตัวเองแหละนะ</Content>
         </Dialog>
         <Dialog ID="13" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod8</VoiceFile>
-          <Content>That’s why I’m wondering if it’s really okay to blindly hate someone…</Content>
+          <Content>นั้นคือเหตุผลที่ฉันกำลังครุ่นคิดอยู่ว่า มันจะดีจริงๆหรอที่จะเกลียด ใครสักคนอย่างไม่มีเหตุผลได้น่ะ…</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod9</VoiceFile>
-          <Content>The Fixers from the Streetlight Office were like a happy family, but we killed them just to get their books…</Content>
+          <Content>ฟิกเซอร์จากสำนักงานสตรีทไลท์ พวกเขาดูเหมือนครอบครัวที่มีความสุขกันดีอยู่แล้ว แต่เราก็พรากชีวิตของพวกเขา เพียงเพื่อให้ได้หนังสือของพวกเขามา…</Content>
         </Dialog>
         <Dialog ID="15" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod10</VoiceFile>
-          <Content>I understand that it was their choice to come here…</Content>
+          <Content>ฉันเข้าใจนะ ว่ามันเป็นตัวเลือกที่พวกเขาเลือกจะมาที่นี่เอง…</Content>
         </Dialog>
         <Dialog ID="16" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod11</VoiceFile>
-          <Content>And we have our own goal to achieve, but still…</Content>
+          <Content>และเราก็ยังมีเป้าหมายของตัวเองที่ต้องทำให้บรรลุ แต่ถึงอย่างนั้น…</Content>
         </Dialog>
         <Dialog ID="17" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod12</VoiceFile>
-          <Content>Haha, it feels like I’m just making excuses for myself.</Content>
+          <Content>ฮ่าๆ รู้สึกเหมือนฉันกำลังหาข้ออ้างให้ตัวเองอยู่เลย</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad7</VoiceFile>
-          <Content>You see, Hod, taking everyone’s personal affairs into consideration is only going to end up giving you a headache.</Content>
+          <Content>คืองี้นะโฮด การที่เอาเรื่องส่วนตัวของทุกคนมาใส่ใจ ก็มีแต่จะทำให้เธอปวดหัวไปก็เท่านั้น</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad8</VoiceFile>
-          <Content>You’d sometimes be just as confused as if you hadn’t thought about it at all. </Content>
+          <Content>บางทีมันอาจทำให้เธอสับสนเหมือนกับว่า เธอไม่ได้คิดเกี่ยวกับมันมากพอก็ได้</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad9</VoiceFile>
-          <Content>Thinking about moral standards and fundamental causes and all that only makes everything blurry.</Content>
+          <Content>การคิดถึงมาตรฐานทางจริยธรรม และสาเหตุโดยพื้นฐานของมัน ยิ่งคิดถึงเท่าไหร่ก็ยิ่งทำให้ทุกอย่างมันพร่ามัว</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad10</VoiceFile>
-          <Content>All the while your heart is about to burst from the emotional baggage that won’t go away.</Content>
+          <Content>ในขณะเดียวกันใจของเธอจะเบิดเอา เพราะแบกรับภาระทางอารมณ์ ที่ไม่ยอมปล่อยวางมันสักที</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad11</VoiceFile>
-          <Content>In times like that, you just go straight to where your heart leads. No need to learn or know any further.</Content>
+          <Content>ในช่วงเวลาแบบนั้น ไม่จำเป็นต้องเรียนรู้หรือรับรู้อะไรเพิ่มเติม เธอเพียงแค่ซื่อตรงกับใจของตัวเอง ปล่อยไปตามที่ใจอยากจะทำก็พอแล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad12</VoiceFile>
-          <Content>It’s much easier that way…</Content>
+          <Content>แบบนั้นมันง่ายกว่านะ…</Content>
         </Dialog>
         <Dialog ID="24" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod13</VoiceFile>
-          <Content>That’s your advice as a seasoned Fixer, Roland?</Content>
+          <Content>นั้นน่ะคือคำแนะนำในฐานะฟิกเซอร์ ผู้มากประสบการณ์อย่างคุณโรแลนด์หรอค่ะ?</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad13</VoiceFile>
-          <Content>I guess so!</Content>
+          <Content>ก็ประมาณนั้นแหละ!</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad14</VoiceFile>
-          <Content>Here’s a favorite phrase of mine.</Content>
+          <Content>และนี่คือประโยคเด็ดของฉันเลยนะ</Content>
         </Dialog>
         <Dialog ID="27" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad15</VoiceFile>
-          <Content>“That’s that, and this is this.”</Content>
+          <Content>“ไอ้นั้นก็คือไอ้นั้นส่วนไอ้นี่ก็คือไอ้นี่”</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad16</VoiceFile>
-          <Content>We don’t live in a world that can embrace everyone’s private matters.</Content>
+          <Content>เราไม่ได้อยู่ในโลกที่สามารถ โอบรับเรื่องของทุกคนได้หรอกนะ</Content>
         </Dialog>
         <Dialog ID="29" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod14</VoiceFile>
-          <Content>Sounds like you’ve come to terms with reality.</Content>
+          <Content>ฟังดูเหมือนว่านายได้ยอมรับและเข้าใจ ความเป็นจริงอย่างถ่องแท้เลยนะ</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad17</VoiceFile>
-          <Content>Did ages ago!</Content>
+          <Content>ก็เป็นแบบนี้แหละ!</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad18</VoiceFile>
-          <Content>It surely was an easy and comfy way to live, all things considered. Just go with the flow, wherever it may lead.</Content>
+          <Content>มันเป็นวิธีที่ง่ายและทำให้สะดวกในการใช้ชีวิต เมื่อพิจารณาถึงสิ่งต่างๆทั้งหมดแล้ว ที่เหลือเพียงแค่ปล่อยมันไปกับกระแส ไม่ว่ามันจะนำพาเราไปที่ไหนก็ตาม</Content>
         </Dialog>
         <Dialog ID="32" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod15</VoiceFile>
-          <Content>Thanks for the advice. I might need to think about this topic a little more.</Content>
+          <Content>ขอบคุณสำหรับคำแนะนำนะ ฉันอาจต้องคิดเกี่ยวกับหัวข้อนี้อีกสักหน่อย</Content>
         </Dialog>
         <Dialog ID="33" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod16</VoiceFile>
-          <Content>But…</Content>
+          <Content>แต่…</Content>
         </Dialog>
         <Dialog ID="34" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad19</VoiceFile>
-          <Content>But?</Content>
+          <Content>แต่อะไรหรอ?</Content>
         </Dialog>
         <Dialog ID="35" Model="호드">
           <Teller>โฮด</Teller>
           <Title>บรรณารักษ์ประจำชั้น - วรรณกรรม</Title>
           <VoiceFile>ch8_Hod_ep2_hod17</VoiceFile>
-          <Content>The phrase you mentioned might give you comfort for a short while, but it doesn’t sound like a motto that will redeem your life.</Content>
+          <Content>ประโยคที่นายกล่าวมาอาจจะทำ ให้นายสบายใจได้ในชั่วขณะหนึ่ง แต่ฟังดูเหมือนไม่ได้เป็นคำขวัญ ที่จะช่วยเปลี่ยนแปลงชีวิตให้ดีขึ้นได้เลยนะ</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -4860,13 +4860,13 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad21</VoiceFile>
-          <Content>…Well, I suppose people have their own ways of interpreting things.</Content>
+          <Content>…เอ่อ, ฉันคิดว่าแต่ละคนก็มีวิธีตีความในแบบของตัวเองละนะ</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad22</VoiceFile>
-          <Content>I’ll leave the books here. See ya later, then.</Content>
+          <Content>ฉันจะวางหนังสือไว้ตรงนี้ล่ะ เอาไว้ค่อยเจอกันใหม่</Content>
         </Dialog>
       </Place>
     </Episode>

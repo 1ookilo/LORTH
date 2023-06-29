@@ -13,31 +13,31 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo1-01</VoiceFile>
-          <Content>บอกฉันมา เธอคิดว่าใครคือผู้ที่จะผ่านม่านหมอกนี้ไปได้ และได้ครอบครองเนสในตอนท้ายทีสุดกัน?</Content>
+          <Content>บอกเราหน่อย เธอคิดว่าใครจะเป็นผู้สามารถผ่านม่านหมอกนี้ไป และครอบครองเนสได้ในตอนท้ายทีสุดกัน?</Content>
         </Dialog>
         <Dialog ID="1" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel1_a-01</VoiceFile>
-          <Content>มันยากสำหรับฉันที่จะคาดเดาสถานการณ์ในตอนนี้นะค่ะรองหัว มันก็ผ่านมานานแล้วที่เราได้เข้าไปพัวพันกับการนองเลือดครั้งใหญ่ในรอบนี้</Content>
+          <Content>มันยากที่ดิฉันจะคาดเดาสถานการณ์ในตอนนี้นะคะรองหัวหน้า มันก็ผ่านมานานแล้วที่พวกเราได้เข้าไปพัวพันกับการนองเลือดครั้งใหญ่ในระดับนี้</Content>
         </Dialog>
         <Dialog ID="2" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel2_b</VoiceFile>
-          <Content>ไม่ว่ายังไงก็ตาม แน่นอนว่าเราไม่ควรปล่อยให้อินเดกซ์ ครอบรองส่วนกลางได้</Content>
+          <Content>แน่นอน ว่าเราไม่ควรปล่อยให้อินเดกซ์ ครอบครองส่วนกลางไปได้</Content>
         </Dialog>
         <Dialog ID="3" Model="칼로">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo2</VoiceFile>
-          <Content>เธอพูดถูก มิดเดิล, ริง, และพิ้งกี้ ดูเหมือนว่าพวกมันจะยุ่งกับเรื่องภายในมากเกินไปจนไม่สนใจที่จะเข้าร่วมกับศึกในครั้งนี้ ทำให้เบาใจได้เปราะหนึ่ง</Content>
+          <Content>พูดได้ดี พวกมิดเดิล, ริง, และพิ้งกี้นั้น ดูเหมือนว่าพวกมันจะยุ่งกับเรื่องภายในมากเกินไปจนไม่สนใจที่จะเข้าร่วมกับศึกในครั้งนี้ ทำให้เบาใจได้เปราะหนึ่ง</Content>
         </Dialog>
         <Dialog ID="4" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel3-01</VoiceFile>
-          <Content>ท่านเคยได้ยินเรื่องของ ‘ห้องสมุด’ ที่กำลังเป็นตำนานของเมืองในขณะนี้หรือเปล่าค่ะ?</Content>
+          <Content>ท่านเคยได้ยินเรื่องของ ‘ห้องสมุด’ ที่กำลังเป็นตำนานของเมืองในขณะนี้หรือเปล่าคะ?</Content>
         </Dialog>
         <Dialog ID="5" Model="카트리엘">
           <Teller>???</Teller>
@@ -70,13 +70,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland2</VoiceFile>
-          <Content>ตามเรทอีท่านี้นะ ห้องสมุดแห่งนี้จะได้รับการกล่าวขาน จากเรื่องเล่าประจำเมืองเป็นตำนานของเมืองในไม่ช้า</Content>
+          <Content>ถ้ายังทำแบบนี้ไปเรื่อยๆ ห้องสมุดแห่งนี้จะได้รับการกล่าวขาน จากเรื่องเล่าประจำเมืองเป็นตำนานของเมืองในไม่ช้า</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland3</VoiceFile>
-          <Content>เมืองนี้น่ะนะเต็มไปด้วยตำนานเรื่องเล่าประจำเมืองราคาถูกเยอะแยะไปหมด มันยากมากที่จะบอกว่าเรื่องไหนเป็นแต่งเรื่องไหนเป็นเรื่องจริง</Content>
+          <Content>เมืองนี้น่ะนะเต็มไปด้วยตำนานเรื่องเล่าประจำเมืองราคาถูกเยอะแยะไปหมด มันยากมากที่จะบอกว่าเรื่องไหนเป็นเรื่องแต่งไหนเป็นเรื่องจริง</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -100,13 +100,13 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela3</VoiceFile>
-          <Content>หากสมาพันธ์หมายหัวกับพวกเราไว้ยิ่งสูง ก็ยิ่งจะคาดหวังให้ดึงดูดแขกระดับสูงได้มากขึ้น นั้นคือสิ่งที่นายพยายามจะบอกฉันใช่ไหม?</Content>
+          <Content>ยิ่งสมาพันธ์แต่งตั้งพวกเราให้อยู่ในระดับสูงเท่าไหร่ ก็ยิ่งจะคาดหวังให้ดึงดูดแขกระดับสูงที่มีข้อมูลที่มีค่ามากขึ้นไปอีก นั้นคือสิ่งที่นายพยายามจะบอกฉันใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland6</VoiceFile>
-          <Content>นั้นแหละเธอเข้าใจถูกแล้ว! เมื่อเรื่องนี้ได้พูดคุยกันเป็นเรื่องระดับตำนานเมืองแล้ว; ผู้คนก็จะเริ่มยอมรับว่าพวกเราเป็นปรากฏการณ์ที่มีอยู่จริงในเมืองที่ควรให้ความสนใจ</Content>
+          <Content>ถูกต้องแล้วครับ! เมื่อเรื่องนี้ได้พูดคุยกันเป็นเรื่องระดับตำนานเมืองแล้ว; ผู้คนก็จะเริ่มยอมรับว่าพวกเราเป็นปรากฏการณ์ที่มีอยู่จริงในเมืองที่ควรค่าให้ความสนใจไงล่ะ</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -166,7 +166,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland13</VoiceFile>
-          <Content>ยังไงก็เหอะ เธอบอกว่าเป้าหมายของเธอคือการได้รับหนังสือเล่มนึง แล้วเธอจะมอบอิสรภาพให้กับฉันถูกไหม?</Content>
+          <Content>ยังไงก็เหอะ เธอบอกว่าเป้าหมายของเธอคือการได้รับหนังสือเล่มนึง ที่จะมอบอิสรภาพให้กับเธอถูกไหม?</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -184,7 +184,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland14</VoiceFile>
-          <Content>ถ้าอย่างงั้น อิสรภาาพคือเหตุผลเดียวที่เธอพยายาม จะรวบรวมพวกหนังสือเหล่านั้นทั้งหมดสินะ?</Content>
+          <Content>ถ้าอย่างงั้น อิสรภาพคือเหตุผลเดียวที่เธอพยายามจะรวบรวมพวกหนังสือเหล่านั้นทั้งหมดสินะ?</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -202,7 +202,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela11</VoiceFile>
-          <Content>ได้ยินได้เห็นแต่เรื่องราวเดิมๆซ้ำไปซ้ำมามาโดยตลอด</Content>
+          <Content>ได้ยินและได้เห็นแต่เรื่องราวเดิมๆซ้ำไปซ้ำมามาโดยตลอด</Content>
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -214,7 +214,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela13</VoiceFile>
-          <Content>นั่นก็เป็นเหตุผลว่าทำไมที่ฉันพยายามตามหาหนังสือ ที่เก็บรวบรวมข้อมูลทุกสิ่งบนโลกเอาไว้</Content>
+          <Content>นั่นก็เป็นเหตุผลว่าทำไมฉันจึงพยายามตามหาหนังสือ ที่เก็บรวบรวมข้อมูลทุกสิ่งบนโลกเอาไว้</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -226,13 +226,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland15</VoiceFile>
-          <Content>…การแก้แค้น ห้ะ เรื่องอะไรล่ะ?</Content>
+          <Content>…การแก้แค้น ห้ะ เพื่ออะไรล่ะ?</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela15</VoiceFile>
-          <Content>ฉันพูดถึงการแก้แค้นคนที่น่ารังเกียจและโลก ที่ทำให้ฉันกลายเป็นสิ่งที่ฉันเป็นอยู่เหมือนตอนนี้</Content>
+          <Content>ฉันพูดถึงการแก้แค้นคนที่น่ารังเกียจและโลกใบนี้ ที่ทำให้ฉันกลายเป็นสิ่งที่ฉันเป็นอยู่เหมือนตอนนี้</Content>
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -250,7 +250,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela17</VoiceFile>
-          <Content>มันจะนำพาฉันไปสู่หนังสือที่จะช่วยให้บรรลุเป้าหมายได้อย่างแน่นอน</Content>
+          <Content>พูดตามตรงก็คือ มันจะนำพาฉันไปสู่หนังสือที่จะช่วยให้บรรลุเป้าหมายต่างหาก</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -268,13 +268,13 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela20</VoiceFile>
-          <Content>หากฉันพบหนังสือที่สมบูรณ์ที่รวมทุกสิ่งเอาไว้ในนั้น รวมทุกสิ่งที่ฉันที่ต้องการอยากรู้ แล้วทุกสิ่งก็จะได้รับการแก้ไข</Content>
+          <Content>หากฉันพบหนังสือที่สมบูรณ์ที่รวมทุกสิ่งเอาไว้ในนั้น รวมทุกสิ่งที่ฉันที่ต้องการอยากรู้ แล้วทุกสิ่งก็จะคลี่คลายลง</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Prol_ep1_roland17</VoiceFile>
-          <Content>หยุดก่อน แปปนึงนะ นั้นคือแผนทั้งหมดของเธอแล้วหรอ? เพียงแค่หาหนังสือเท่านั้นเองนะ? เธอยังไม่แน่ใจเลยว่าจะได้อิสรภาพเหล่านั้นได้ยังไงเลยนะ?</Content>
+          <Content>หยุดก่อนแปปนึงนะ นั้นคือแผนทั้งหมดของเธอแล้วหรอ? เพียงแค่หาหนังสือเท่านั้นเองนะ? เธอยังไม่แน่ใจเลยว่าจะได้อิสรภาพเหล่านั้นได้ยังไงเลยอะนะ?</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -286,13 +286,13 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela22</VoiceFile>
-          <Content>ห้องสมุดแห่งนี้มีพื้นที่มากมาย แล้วฉันก็เก็บหนังสือได้ไม่จำกัดจากแขกจำนวนนับไม่ถ้วน และเก็บรวบรวมทั้งหมดได้หากว่าฉันต้องการ</Content>
+          <Content>ห้องสมุดแห่งนี้มีพื้นที่ไร้ที่สิ้นสุด แล้วฉันก็เก็บหนังสือได้ไม่จำกัดจากแขกจำนวนนับไม่ถ้วน และเก็บรวบรวมทั้งหมดได้หากว่าฉันต้องการ</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Prol_ep1_angela23</VoiceFile>
-          <Content>แต่การรวบรวมหนังสือส่วนใหญ่ที่ได้เต็มไปด้วยพวกขยะๆ ที่จิตใจไม่มีจุดมุ่งหมายที่ชัดเจนไม่เป็นไปตามที่คาดหวังเลย นายก็คิดแบบนั้นหรือเปล่าล่ะ?</Content>
+          <Content>แต่การรวบรวมหนังสือส่วนใหญ่ที่เต็มไปด้วยพวกขยะ โดยที่ไม่มีเป้าหมายที่ชัดเจนมันค่อนข้างที่จะไร้ประโยชน์น่ะ นายก็คิดแบบนั้นหรือเปล่าล่ะ?</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -736,12 +736,12 @@
     <Episode>
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
-        <PlaceName>Location: Zwei Association - Southern Branch, Section 6</PlaceName>
+        <PlaceName>สถานที่: สมาพันธ์สไว สาขาตอนใต้ หน่วยที่ 6</PlaceName>
  <Dialog ID="0" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora1</VoiceFile>
-          <Content>พวกเราได้จัดทีมค้นหา และพวกเธอทั้งคู่ก็ได้อยู่ในทีมด้วย ซาน จูเลีย</Content>
+          <Content>พวกเราได้จัดตั้งทีมค้นหา และซาน จูเลีย พวกเธอทั้งคู่ก็ได้อยู่ในทีมด้วย</Content>
         </Dialog>
         <Dialog ID="1" Model="산">
           <Teller>ซาน</Teller>
@@ -777,13 +777,13 @@
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora3</VoiceFile>
-          <Content>ถ้ารู้อยู่แล้วจะมาขอร้องพวกเราตั้งแต่แรกทำไม?</Content>
+          <Content>ถ้ารู้อยู่แล้วจะมาขอร้องพวกเราตั้งแต่แรกทำไมล่ะ?</Content>
         </Dialog>
         <Dialog ID="7" Model="산">
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san3</VoiceFile>
-          <Content>ก็เพราะ… ก็เพราะที่นี่เป็นที่เดียวที่ฉันพอพึงได้</Content>
+          <Content>ก็เพราะ… ก็เพราะที่นี่เป็นที่เดียวที่ฉันพอหวังพึงได้น่ะ</Content>
         </Dialog>
         <Dialog ID="8" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -795,7 +795,7 @@
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san4</VoiceFile>
-          <Content>น้องชายของฉันเขา… ไม่เป็นไรหรอก แล้วก็ขอโทษสำหรับปัญหา และขอบคุณอีกครั้งนะที่ช่วยฉัน</Content>
+          <Content>น้องชายของฉันเขา… ไม่เป็นไรหรอก แล้วก็ขอโทษและขอบคุณอีกครั้งนะที่ช่วยฉัน</Content>
         </Dialog>
         <Dialog ID="10" Model="줄리아">
           <Teller>จูเลีย</Teller>
@@ -807,19 +807,19 @@
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora5</VoiceFile>
-          <Content>อะแฮ่ม ใหนๆนายก็บริหารออฟฟิสในเครือของสมาพันธ์ ฉันว่าคงไม่เป็นไรที่จะบอกเรื่องนี้กับนาย</Content>
+          <Content>อะแฮ่ม ไหนๆนายก็บริหารออฟฟิสในเครือของสมาพันธ์สไว ฉันว่าคงไม่เป็นไรที่จะบอกเรื่องนี้กับนาย</Content>
         </Dialog>
         <Dialog ID="12" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora6</VoiceFile>
-          <Content>ปรากฏการณ์บิดเบือน ถูกจัดให้อยู่ในฝันร้ายประจำเมือง ฉันมั่นใจเลยว่าถ้านายไม่เคยเห็นก็ต้องเคยได้ยินอะไรมาบ้าง ใช่ไหม?</Content>
+          <Content>ปรากฏการณ์บิดเบือน ถูกจัดให้อยู่ในฝันร้ายประจำเมือง ฉันมั่นใจเลยว่าถ้านายไม่เคยเห็นก็ต้องเคยได้ยินมาบ้าง ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="13" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora7</VoiceFile>
-          <Content>เป็นปรากฏการณ์ผิดปกติที่เกิดขึ้นอยู่รอบเมืองหลังจากเหตุการณ์ราตรีสีขาวและทิวาสีดำ</Content>
+          <Content>เป็นปรากฏการณ์ผิดปกติที่เกิดขึ้นอยู่ทั่วเมืองหลังจากเหตุการณ์ราตรีสีขาวและทิวาสีดำ</Content>
         </Dialog>
         <Dialog ID="14" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -831,13 +831,13 @@
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san5</VoiceFile>
-          <Content>ใช่ ฉันรู้จัก. ‘เดอะ เปียนิสต์’เคสแรกที่มีการกล่าวถึงปรากฏการณ์นี้ มันได้ฆ่าคนไปมากกว่า80%ของประชากรทั้งหมดในเขตที่9</Content>
+          <Content>ใช่ ฉันรู้ ‘เดอะ เปียนิสต์’เคสแรกที่มีการกล่าวถึงปรากฏการณ์นี้ มันได้ฆ่าคนไปมากกว่า80%ของประชากรทั้งหมดในเขตที่9</Content>
         </Dialog>
         <Dialog ID="16" Model="줄리아">
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia4</VoiceFile>
-          <Content>ฉันได้ยินมาว่ามันเกิดขึ้นรวดเร็วมาก สมาพันธ์ฮานะถึงกับต้องส่งหนึ่งใน‘พวกสี’ทันทีหลังจากรู้ถึงความรุนแรงของเหตุการณ์ในครั้งนั้น</Content>
+          <Content>ฉันได้ยินมาว่ามันเกิดขึ้นเร็วมาก สมาพันธ์ฮานะถึงกับต้องส่งหนึ่งใน‘พวกสี’ทันทีหลังจากรู้ถึงความรุนแรงของเหตุการณ์ในครั้งนั้น</Content>
         </Dialog>
         <Dialog ID="17" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -867,7 +867,7 @@
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia6</VoiceFile>
-          <Content>แต่ต้องชื่นชมเลยนะ พวกเขาได้จัดการสิ่งมีชีวิตนั่นก่อนที่ยอดผู้เสียชีวิตจะสูงขึ้นเป็นหลักสิบ</Content>
+          <Content>แต่ต้องชื่นชมเลยนะ พวกเขาจัดการสิ่งมีชีวิตนั่นก่อนที่ยอดผู้เสียชีวิตจะขึ้นเป็นหลักสิบน่ะ</Content>
         </Dialog>
         <Dialog ID="22" Model="줄리아">
           <Teller>จูเลีย</Teller>
@@ -885,7 +885,7 @@
           <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora12</VoiceFile>
-          <Content>ถูกต้อง โชคยังดี ที่ตอนนี้ยังไม่มีเคสใหนที่รุนแรงพอๆกับเหตุการณ์‘เดอะ เปียนิสต์’เลย</Content>
+          <Content>ถูกต้อง โชคยังดี ที่ตอนนี้ยังไม่มีเคสไหนที่รุนแรงพอๆกับเหตุการณ์‘เดอะ เปียนิสต์’ปรากฏการณ์บิดเบือนครั้งแรกเลย</Content>
         </Dialog>
         <Dialog ID="25" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -897,7 +897,7 @@
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san7</VoiceFile>
-          <Content>แค่นี้ก็ช่วยได้มากเลย ขอบคุณนะ อิซาดอรา</Content>
+          <Content>แค่นี้ก็ช่วยได้มากแล้ว ขอบคุณนะ อิซาดอรา</Content>
         </Dialog>
         <Dialog ID="27" Model="이사도라">
           <Teller>อิซาดอรา</Teller>
@@ -909,7 +909,7 @@
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia8</VoiceFile>
-          <Content>แน่นอนอยู่แล้ว! ฉันน่ะก็ขอบคุณเธอเหมือนกันนะ อิซาดอรา</Content>
+          <Content>แน่นอนอยู่แล้ว! ฉันก็ขอบคุณเธอเหมือนกันนะ อิซาดอรา</Content>
         </Dialog>
         <Dialog ID="29" Model="산">
           <Teller>ซาน</Teller>
@@ -936,43 +936,43 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland2</VoiceFile>
-          <Content>เรื่องที่เขาพูดเกี่ยวกับห้องสมุดน่ะ ที่นี่มีความเกี่ยวข้องกับพวก‘ราตรีสีขาวและทิวาสีดำ’,แอล คอร์ป,ปรากฏการณ์บิดเบือนอะไรพวกนั้นจริงดิ?</Content>
+          <Content>เรื่องที่เขาพูดเกี่ยวกับห้องสมุดน่ะ ‘ราตรีสีขาวและทิวาสีดำ’,แอล คอร์ป,ปรากฏการณ์บิดเบือนอะไรพวกนั้น ที่นี่มีความเกี่ยวข้องกับพวกนั้นจริงดิ?</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland3</VoiceFile>
-          <Content>ฉันขอบอกตามตรงเลยว่าฉันเองยังไม่มั่นใจว่าเราอยู่ส่วนใหนในเมืองอะนะ</Content>
+          <Content>ฉันขอบอกตามตรงเลยว่าฉันเองก็ยังไม่มั่นใจว่าเราอยู่ส่วนไหนในเมืองอะนะ</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela2</VoiceFile>
-          <Content>แล้วถ้าฉันบอกว่ามันเกี่ยวล่ะ?</Content>
+          <Content>แล้วถ้ามันเกี่ยวล่ะ?</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland4</VoiceFile>
-          <Content>ถ้าเธอบอกว่ามันเกี่ยวกัน… ฉันไม่ชัวร์ว่าฉันเข้าใจที่เธอพูดนะ</Content>
+          <Content>แล้วถ้ามันเกี่ยวกัน… ไม่อยากจะเชื่อ</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland5</VoiceFile>
-          <Content>มันนับว่าเป็นเคสที่เกิดได้ขึ้นยากมากสำหรับเหตุการณ์ที่ส่งผลกระทบไปทั้วทั้งเมืองเหมือนกับที่ราตรีสีขาวและทิวาสีดำทำ</Content>
+          <Content>มันเป็นเคสที่เกิดได้ยากมากสำหรับเหตุการณ์ที่ส่งผลกระทบไปทั่วทั้งเมืองเหมือนกับที่ราตรีสีขาวและทิวาสีดำทำ</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland6</VoiceFile>
-          <Content>มันก็มีอยู่หลายเคสที่วิงส์นั้นล่มสลายไปด้วยตัวเอง แต่มันก็ส่งผลกระทบกับแค่ในเนสของพวกเขาเท่านั้น แต่สำหรับแอล คอร์ปนั้นแตกต่างออกไปมาก</Content>
+          <Content>มันก็มีอยู่หลายเคสที่วิงส์นั้นล่มสลายไปด้วยตัวเอง แต่มากสุดมันก็ส่งผลกระทบกับแค่ในเนสของพวกเขาเท่านั้น แต่สำหรับแอล คอร์ปนั้นแตกต่างออกไปมาก</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland7</VoiceFile>
-          <Content>มันเหมือนกับว่าทั่วทั้งเมืองนั้นหลับไหลไปเป็นอาทิตย์เลย</Content>
+          <Content>เหมือนกับว่าทั่วทั้งเมืองนั้นหลับกันไปเป็นอาทิตย์เลย</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -984,7 +984,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland8</VoiceFile>
-          <Content>ก็คงไม่ งานของฉันก็คงยังเป็นเหมือนเดิม…</Content>
+          <Content>คร้าบ คร้าบ จะเกี่ยวหรือไม่เกี่ยว มันก็คงไม่เปลี่ยนงานของผมหรอก…</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -999,13 +999,13 @@
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia9</VoiceFile>
-          <Content>นี่น่ะหรอห้องสมุด วิธีการเดินทางนั้นเหมือนกับพวกซิงกูลาริตี้เลยล่ะ</Content>
+          <Content>นี่น่ะหรอห้องสมุด วิธีการเดินทางมานี่หมือนกับพวกซิงกูลาริตี้เลยล่ะ</Content>
         </Dialog>
         <Dialog ID="43" Model="산">
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san9</VoiceFile>
-          <Content>…ใช่ เดี๋ยวซักพักผู้กำกับของห้องสมุดก็จะมาทักทายเราแล้ว</Content>
+          <Content>…ใช่ เดี๋ยวซักพักผู้ดูแลของห้องสมุดก็จะมาต้อนรับเราแล้ว</Content>
         </Dialog>
         <Dialog ID="44" Model="줄리아">
           <Teller>Julia</Teller>
@@ -1023,13 +1023,13 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela6</VoiceFile>
-          <Content>แต่ดูเหมือนว่าคุณนั้นรู้อยู่แล้วว่าดิฉันเป็นใคร.</Content>
+          <Content>แต่ดูเหมือนว่าพวกคุณจะรู้อยู่แล้วว่าดิฉันเป็นใคร.</Content>
         </Dialog>
         <Dialog ID="47" Model="산">
           <Teller>ซาน</Teller>
           <Title>โอเปอเรเตอร์สตรีทไลท์</Title>
           <VoiceFile>ch3_Zwei_ep2_san10</VoiceFile>
-          <Content>เรามาเพื่อรับหนังสือของมาร์สและลูลู่คืน</Content>
+          <Content>เรามาที่นี่เพื่อรับหนังสือของมาร์สและลูลู่คืน</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1041,7 +1041,7 @@
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia11</VoiceFile>
-          <Content>พวกเราสามารถรับหนังสือที่เราต้องการก็ได้ หรือไม่ก็ตายแล้วกลายเป็นหนังสือซะเอง ถูกไหม?</Content>
+          <Content>พวกเราสามารถรับหนังสือที่เราต้องการก็ได้ หรือไม่ก็ตายแล้วกลายเป็นหนังสือซะเอง ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1053,7 +1053,7 @@
           <Teller>จูเลีย</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep2_julia12</VoiceFile>
-          <Content>ทำตัวอย่างกับหุ่นยนต์ เหมือนกับพวกเราคุยอยู่กับกำแพงเลย</Content>
+          <Content>เหมือนกับพวกเราคุยอยู่กับกำแพงเลย ทำตัวอย่างกับหุ่นยนต์แน่ะ</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1071,19 +1071,19 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela10</VoiceFile>
-          <Content>…ห้องสมุดนี้ตั้งอยู่ในแหล่งกำเนิดของ‘ราตรีสีขาวและทิวาสีดำ’</Content>
+          <Content>…ห้องสมุดนี้ตั้งอยู่ในจุดกำเนิดของ‘ราตรีสีขาวและทิวาสีดำ’</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela11</VoiceFile>
-          <Content>ฉันดัดแปลงตรงใจกลางของสำนักงานใหญ่ของแอล คอร์ป เพื่อใช้ส่วนตัวน่ะ</Content>
+          <Content>ฉันดัดแปลงตรงใจกลางของสำนักงานใหญ่ของแอล คอร์ป เพื่อใช้ในเรื่องส่วนตัวน่ะ</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela12</VoiceFile>
-          <Content>ฉันจะไม่ออกความคิดเห็นเกี่ยวกับปรากฏการณ์บิดเบือนที่เกิดขึ้นในช่วงนี่</Content>
+          <Content>ฉันขอไม่ออกความคิดเห็นเกี่ยวกับปรากฏการณ์บิดเบือนที่เกิดขึ้นในช่วงนี่ละกัน</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1095,13 +1095,13 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela14</VoiceFile>
-          <Content>แต่ฉันก็พอเดาอะไรได้อยู่</Content>
+          <Content>แต่ฉันน่าจะพอเดาอะไรได้อยู่</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland9</VoiceFile>
-          <Content>โว้ว จู่ๆก็อยากพูดขึ้นอะไรขึ้นมาเลยนะ…</Content>
+          <Content>โว้ว จู่ๆก็อยากจะพูดอะไรขึ้นมาเลยนะ…</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1113,43 +1113,43 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela16</VoiceFile>
-          <Content>ฉันถูกสร้างให้เป็นเลขานุการเครื่องจักรในการช่วยเหลือผู้จัดการของในโลโบโทมี คอร์ปอเรชั่น </Content>
+          <Content>ฉันถูกสร้างให้เป็นเลขานุการจักรกลในการช่วยเหลือผู้จัดการของในโลโบโทมี คอร์ปอเรชั่น</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela17</VoiceFile>
-          <Content>ฉันถูกออกแบบให้ดูเหมือนกับหมุษย์ มีความรู้สึกและประเมินผลพร้อมกับตัดสินใจตามอารมณ์พวกนั้น</Content>
+          <Content>ฉันถูกออกแบบให้ดูเหมือนกับมนุษย์ มีความรู้สึกและประเมินผลพร้อมกับตัดสินใจตามอารมณ์พวกนั้น</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela18</VoiceFile>
-          <Content>ก็เป็นอย่างที่นายสงสัย ฉันถือเกิดมาอย่างลับๆ เพราะดันไปขัดกับการแก้ไขกฏหมายจริยธรรมเอไอ</Content>
+          <Content>ก็เป็นอย่างที่นายสงสัย ฉันเกิดมาอย่างลับๆ เพราะดันไปขัดกับนัยทางจริยธรรมเอ.ไอ.</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela19</VoiceFile>
-          <Content>ฉันไร้สิทธิในการตัดสินใจด้วยตัวเอง ฉันต้องอ่านสคริปเดิมๆซ้ำแล้วซ้ำเล่าเป็นล้านๆปีเพื่อให้โปรเจคๆหนึ่งสำเร็จ ตลกไหมล่ะ?</Content>
+          <Content>ฉันไร้สิทธิ์ในการตัดสินใจด้วยตัวเอง ฉันต้องอ่านสคริปเดิมๆซ้ำแล้วซ้ำเล่าเป็นล้านๆปีเพื่อให้โปรเจคๆหนึ่งสำเร็จ ตลกไหมล่ะ?</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela20</VoiceFile>
-          <Content>การแสดงที่ดูเหมือนกับไม่มีวันจบก็ได้สิ้นสุดลง และ… และ…</Content>
+          <Content>แล้วการแสดงที่ดูเหมือนกับไม่มีวันจบก็ได้สิ้นสุดลง และ… และ…</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland10</VoiceFile>
-          <Content>และเหตุการณ์‘ราตรีสีขาวและทิวาสีดำ’ก็เกิดขึ้นด้วยเหตุนั้น ขอบคุณนะที่บอกให้ฉันรู้</Content>
+          <Content>และเหตุการณ์‘ราตรีสีขาวและทิวาสีดำ’ก็เกิดขึ้นหลังจากนั้น ขอบคุณที่บอกให้ฉันรู้นะ</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland11</VoiceFile>
-          <Content>ฉันก็ไม่รู้ว่าใครเป็นคนคิดแผนบ้าๆนี่ แต่ก็ต้องขอบคุณพวกเขา ปรากฏการณ์บิดเบือนก็เริ่มสร้างความเสียหายไปทั่งทั้งเมืองในแบบสุ่ม</Content>
+          <Content>ฉันก็ไม่รู้ว่าใครเป็นคนคิดแผนบ้าๆนี่ แต่ก็ต้องขอบคุณพวกเขา ปรากฏการณ์บิดเบือนก็ได้เริ่มสร้างความเสียหายไปทั่งทั้งเมืองในรูปแบบสุ่ม</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -1161,25 +1161,25 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland13</VoiceFile>
-          <Content>และเคสแรกของการบิดเบือน มันอย่างกับนรกบนดินเลย</Content>
+          <Content>และเคสแรกของการบิดเบือน มันเหมือนกับนรกบนดินเลย</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland14</VoiceFile>
-          <Content>มันเกิดขึ้นโดยที่ไม่มีสัญญาณเตือน ในเขตที่ทุกคนเชื่อว่าเป็นเขตที่ค่อนข้างปลอดภัย</Content>
+          <Content>มันเกิดขึ้นโดยที่ไร้สัญญาณเตือน ในเขตที่ทุกคนเชื่อว่าเป็นเขตที่ค่อนข้างปลอดภัย</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland15</VoiceFile>
-          <Content>การสังหารหมู่นั่นก็นับว่าเป็นงานศิลปะด้วย</Content>
+          <Content>การสังหารหมู่ในครั้งนั่นก็ถูกนับว่าเป็นงานศิลปะด้วย</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland16</VoiceFile>
-          <Content>มันจึงถูกเรียกว่า ‘เดอะ เปียนิสต์’ด้วยเหตุผลนั้นแหละ ถ้าให้พูดตามตรงนะ</Content>
+          <Content>มันถึงถูกเรียกว่า ‘เดอะ เปียนิสต์’ด้วยเหตุผลนั้นแหละ ถ้าให้พูดตามที่เข้าใจนะ</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1191,31 +1191,31 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland17</VoiceFile>
-          <Content>ยังไงก็แล้วแต่ ขอบคุณที่บอกฉันนะ มันคงเป็นเรื่องที่ค่อนข้างอ่อนไหวสำหรับเธอ</Content>
+          <Content>ยังไงก็แล้วแต่ ขอบคุณนะที่บอกฉัน มันคงเป็นเรื่องที่ค่อนข้างอ่อนไหวสำหรับเธอเลย</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep2_angela22</VoiceFile>
-          <Content>นายดูไม่ค่อยช็อกอย่างที่ฉันคิดไว้ซะอีก</Content>
+          <Content>นายดูไม่ค่อยช็อกอย่างที่ฉันคิดเอาไว้ซะอีก</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland18</VoiceFile>
-          <Content>ก็สัตว์ประหลาดที่ถูกสร้างจากการบิดเบือนให้บรรยากาศที่หน้าสงสัยเหมือนกับห้องสมุดและคนดูแลของมันเลย</Content>
+          <Content>ก็สัตว์ประหลาดที่ถูกสร้างจากการบิดเบือนมันให้บรรยากาศที่หน้าสงสัยเหมือนกับห้องสมุดและคนดูแลของมันเลย</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland19</VoiceFile>
-          <Content>เธอต้องผ่านความโศกเศร้าในชีวิตมามากมายแน่เลยในชีวิตนี้</Content>
+          <Content>เธอน่าจะต้องผ่านความโศกเศร้าในชีวิตนี้มามากมายแน่เลย</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep2_roland20</VoiceFile>
-          <Content>ยังไงก็แล้วแต่ สิ่งต่อมาก็คือปัญหา เราจะใช้อะไรล่อพวกสไวให้มาที่นี่กัน? </Content>
+          <Content>ยังไงก็แล้วแต่ สิ่งที่เหลือก็คือปัญหา เราจะใช้อะไรล่อพวกสไวให้มาที่นี่กัน? </Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1228,366 +1228,366 @@
     <Episode>
       <EpisodeName>Episode 3</EpisodeName>
       <Place>
-        <PlaceName>Location: Zwei Association - Southern Branch, Section 6</PlaceName>
+       <PlaceName>สถานที่: สมาพันธ์ สไว - สาขาตอนใต้ หน่วย 6</PlaceName>
         <Dialog ID="0" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora1</VoiceFile>
-          <Content>Yes, sir. I’m afraid San and Julia couldn’t make it back. …Requesting additional support.</Content>
+          <Content>ถูกต้องแล้วค่ะหัวหน้า ดูเหมือนทั้งซานและจูเลียจะไม่รอด เราต้องขอกำลังเสริมเพิ่มค่ะ</Content>
         </Dialog>
         <Dialog ID="1" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter1</VoiceFile>
-          <Content>Sigh… Isadora. What do you think the purpose of the Library is?</Content>
+          <Content>เฮ้อ… อิซาดอรา เธอคิดว่าเป้าหมายหลักของห้องสมุดมันคืออะไรกัน?</Content>
         </Dialog>
         <Dialog ID="2" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora2</VoiceFile>
-          <Content>From the information we’ve gathered so far, it’s the accumulation of knowledge.</Content>
+          <Content>อ้างอิงจากข้อมูลที่พวกเรารวบรวมมาได้ มันคือการรวบรวมความรู้ค่ะ</Content>
         </Dialog>
         <Dialog ID="3" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6r</Title>
           <VoiceFile>ch3_Zwei_ep3_walter2</VoiceFile>
-          <Content>Accumulation of knowledge, you say…</Content>
+          <Content>การรวบรวมความรู้งั้นหรอ…</Content>
         </Dialog>
         <Dialog ID="4" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora3</VoiceFile>
-          <Content>The Library simply offers a deal. It has no influence on the outside world; it only rewards or punishes those who have entered.</Content>
+          <Content>ห้องสมุดจะทำแค่ยื่นข้อเสนอให้ โดยที่ไม่มีอิทธิผลต่อโลกภายนอกใดๆเลย มันแค่ให้รางวัลหรือไม่ก็ลงโทษผู้ที่เข้ามาเท่านั้นค่ะ</Content>
         </Dialog>
         <Dialog ID="5" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora4</VoiceFile>
-          <Content>The winner can get the books they want, and the loser becomes a book that the Library wants…</Content>
+          <Content>คนชนะจะได้หนังสือที่เขาต้องการ ส่วนคนแพ้…จะกลายเป็นหนังที่ห้องสมุดต้องการแทนค่ะ…</Content>
         </Dialog>
         <Dialog ID="6" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter3</VoiceFile>
-          <Content>Any linkage to the Distortion phenomenon?</Content>
+          <Content>ส่วนที่เชื่อมโยงกับปรากฏการณ์บิดเบือนล่ะมีไหม?</Content>
         </Dialog>
         <Dialog ID="7" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora5</VoiceFile>
-          <Content>That… is unclear, sir.</Content>
+          <Content>นั้นก็… ยังไม่ทราบค่ะ ท่าน</Content>
         </Dialog>
         <Dialog ID="8" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora6</VoiceFile>
-          <Content>But my instincts suggest that it has to be related to the phenomenon somehow.</Content>
+          <Content>แต่สัญชาตญาณของดิฉันบอกว่าที่นั่นต้องเกี่ยวข้องกับปรากฏการณ์นั้นไม่ทางใดก็ทางหนึงค่ะ</Content>
         </Dialog>
         <Dialog ID="9" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter4</VoiceFile>
-          <Content>And why is that?</Content>
+          <Content>ทำไมกันล่ะ?</Content>
         </Dialog>
         <Dialog ID="10" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora7</VoiceFile>
-          <Content>The invitation to the Library, its books, and the beings called librarians that reside there. All elements of the Library are similar to what we’ve seen of the Distortion.</Content>
+          <Content>คำเชิญไปที่ห้องสมุด,หนังสือของมัน และพวกที่ถูกเรียกว่าบรรณารักษ์ที่พักอาศัยอยู่ในนั้น องค์ประกอบของห้องสมุดนั้นมันคล้ายคลึงกับสิ่งที่พวกเราเห็นในพวกบิดเบือนค่ะ</Content>
         </Dialog>
         <Dialog ID="11" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora8</VoiceFile>
-          <Content>A common feature is that it’s impossible to observe them for an analysis of their constituents or components.</Content>
+          <Content>คุณลักษณะที่คล้ายกันก็คือมันเป็นไปไม่ได้เลยที่จะสังเกตพวกมันเพื่อวิเคราะห์ส่วนใหญ่หรือส่วนน้อยของพวกมันค่ะ</Content>
         </Dialog>
         <Dialog ID="12" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora9</VoiceFile>
-          <Content>We cannot carry out a comparative analysis because of this, but this inability to observe itself can be considered a common trait.</Content>
+          <Content>พวกเราจึงไม่สามารถวิเคราะห์เชิงเปรียบเทียบได้ แต่เพราะการที่เรานั้นไม่สามารถสังเกตการพวกมันได้จึงนับได้ว่าเป็นคุณลักษณะที่คล้ายคลึงกันค่ะ</Content>
         </Dialog>
         <Dialog ID="13" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter5</VoiceFile>
-          <Content>It’s not like you to make such baseless claims, is it?</Content>
+          <Content>ไม่เหมือนเธอเลยนะที่สร้างคำอ้างอิงแบบไร้เหตุผลนั่นน่ะ?</Content>
         </Dialog>
         <Dialog ID="14" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter6</VoiceFile>
-          <Content>Section 6 will not needlessly obsess over the Library. There is simply too much uncertainty for us to recklessly jump into the case. </Content>
+          <Content>หน่วยที่6จะไม่ยึดติดกับห้องสมุดนั่นโดยไม่จำเป็น มันเสี่ยงเกินไปที่จะเข้าไปทำคดีด้วยความประมาท</Content>
         </Dialog>
         <Dialog ID="15" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter7</VoiceFile>
-          <Content>The Zwei Association gets hundreds of requests every day. A fair number of them are allocated to us at Section 6.</Content>
+          <Content>ทางสมาพันธ์สไวมีคำร้องขออยู่เป็นร้อยคำขอทุกวัน มีจำนวนไม่น้อยที่ถูกแบ่งมาให้เราที่หน่วยที่6</Content>
         </Dialog>
         <Dialog ID="16" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter8</VoiceFile>
-          <Content>I’m sure you understand that your claims are not compelling enough to make us give up all these requests in favor of the Library.</Content>
+          <Content>ผมมั่นใจว่าคุณคงเข้าใจ ว่าคำอ้างอิงของคุณไม่มีความน่าสนใจมากพอที่จะให้พวกเรายอมทิ้งคำขอเหล่านี้เพื่อไปสนับสนุนในห้องสมุดน่ะ</Content>
         </Dialog>
         <Dialog ID="17" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora10</VoiceFile>
-          <Content>I am aware, sir.</Content>
+          <Content>ดิฉันรับทราบค่ะ ท่าน</Content>
         </Dialog>
         <Dialog ID="18" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter9</VoiceFile>
-          <Content>And yet here you are, requesting additional manpower for investigating the Library.</Content>
+          <Content>คุณรู้อยู่แล้ว แต่คุณก็ยังมาที่นี่ มาร้องขอกำลังเสริมเพิ่มสำหรับการไปสำรวจห้องสมุด</Content>
         </Dialog>
         <Dialog ID="19" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter10</VoiceFile>
-          <Content>Are you sure you aren’t simply using the alleged linkage to the Distortion as an excuse to get your revenge on the Library or retrieve the books of your colleagues?</Content>
+          <Content>นี่คุณคงไม่ได้แค่ใช้คำกล่าวอ้างเชื่อมโยงไปหาการบิดเบือน เพื่อเป็นข้ออ้างในการแก้แค้นห้องสมุด หรือไม่ก็ไปรับหนังสือของเพื่อนร่วมงานของคุณหรอกหรอ?</Content>
         </Dialog>
         <Dialog ID="20" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora11</VoiceFile>
           <Content>…… </Content>
         </Dialog>
         <Dialog ID="21" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter11</VoiceFile>
-          <Content>Even as we speak, Syndicates like ‘The Carnival’ are chewing up people’s guts out in the open, and the likes of ‘The Musicians of Bremen’ are making modern art pieces out of innocent citizens.</Content>
+          <Content>ในขณะที่พวกเรากำลังคุยกันอยู่ พวกองค์กรอย่าง‘เดอะ คาร์นิวัล’กำลังบดเคี้ยวอวัยวะผู้คนในที่โล้งแจ้ง และไอ้พวก‘นักดนตรีแห่งบรีเมน’ก็กำลังสร้างศิลปะสมัยใหม่จากประชาชนบริสุทธิ์อยู่</Content>
         </Dialog>
         <Dialog ID="22" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter12</VoiceFile>
-          <Content>And there are yet more insane individuals looming over the city, no? And our duty is to protect our clients from such shade in the City, is it not?</Content>
+          <Content>แล้วไม่ใช่ว่ามีคนบ้าวิกลจริตเดินไปเดินมาอยู่รอบเมืองรึไง? มันเป็นหน้าที่ของพวกเราที่ต้องปกป้องลูกค้าของเราจากมุมนั้นของเมืองไม่ใช่หรอ?</Content>
         </Dialog>
         <Dialog ID="23" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora12</VoiceFile>
-          <Content>…You’re right, sir.</Content>
+          <Content>…ดิฉันทราบค่ะ</Content>
         </Dialog>
         <Dialog ID="24" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter13</VoiceFile>
-          <Content>Remember the slogan of our association?</Content>
+          <Content>ยังจำสโลแกนของสมาพันธ์เราได้ไหม?</Content>
         </Dialog>
         <Dialog ID="25" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora13</VoiceFile>
-          <Content>"Your shield", sir.</Content>
+          <Content>"โล่แด่ท่าน" ค่ะ</Content>
         </Dialog>
         <Dialog ID="26" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter14</VoiceFile>
-          <Content>Exactly. Our role is to be a trusty shield for our client.</Content>
+          <Content>ถูกต้อง หน้าที่ของพวกเราคือการเป็นโล่ที่เชื่อถือได้แก่ลูกค้าเรา</Content>
         </Dialog>
         <Dialog ID="27" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter15</VoiceFile>
-          <Content>So don’t put down that shield without good reason, got it? You may leave now.</Content>
+          <Content>เพราะฉนั้นอย่างวางโล่นั่นโดยไร้เหตุผลซะล่ะ เข้าใจ? คุณออกไปได้แล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="28" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora14</VoiceFile>
-          <Content>…Will do.</Content>
+          <Content>…รับทราบค่ะ</Content>
         </Dialog>
         <Dialog ID="29" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter16</VoiceFile>
-          <Content>Isadora?</Content>
+          <Content>อิซาดอรา?</Content>
         </Dialog>
         <Dialog ID="30" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora15</VoiceFile>
-          <Content>Yes?</Content>
+          <Content>ค่ะ?</Content>
         </Dialog>
         <Dialog ID="31" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter17</VoiceFile>
-          <Content>Did you happen to put this invitation in my drawer?</Content>
+          <Content>นี่คุณได้มาวางบัตรเชิญไว้บนโต้ะผมหรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="32" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora16</VoiceFile>
-          <Content>No, sir. I haven’t received any new invitations yet.</Content>
+          <Content>ไม่ค่ะท่าน ดิฉันยังไม่ได้รับบัตรเชิญอันใหม่เลยค่ะ</Content>
         </Dialog>
         <Dialog ID="33" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter18</VoiceFile>
-          <Content>What is the current risk level of the Library…?</Content>
+          <Content>ตอนนี้ระดับความเสี่ยงของห้องสมุดอยู่ในระดับอะไร…?</Content>
         </Dialog>
         <Dialog ID="34" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora17</VoiceFile>
-          <Content>It’s currently resting at the Urban Legend-class, but it has been slowly rising with every new report.</Content>
+          <Content>ตอนนี้ยังอยู่ในระดับตำนานเมืองอยู่ค่ะ แต่ก็สูงขึ้นเรื่อยๆตามการรายงานที่เพิ่มขึ้นเช่นกันค่ะ</Content>
         </Dialog>
         <Dialog ID="35" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter19</VoiceFile>
-          <Content>Now I see… The Book of Distortion, is it…</Content>
+          <Content>อย่างงั้นเอง… หนังสือแห่งการบิดเบือน สินะ…</Content>
         </Dialog>
         <Dialog ID="36" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter20</VoiceFile>
-          <Content>They’ve been using irresistible bait like this to attract their victims, haven’t they?</Content>
+          <Content>พวกเขาใช้เยื่อล่อที่ต้านทานไม่ได้อย่างนี้เพื่อล่อผู้เคราะห์ร้ายมา อย่างงั้นเองหรอ?</Content>
         </Dialog>
       </Place>
-      <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+       <Place>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="37" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland1</VoiceFile>
-          <Content>Things went rather smoothly thanks to your book. It’s not something we could get from any of the guests we’ve had so far.</Content>
+          <Content>ทุกอย่างดำเนินไปได้ราบลื่นต้องขอบคุณหนังสือของเธอเลย มันไม่ใช่หนังสือที่พวกเรารับได้จากแขกที่พวกเรารับมาโดยตลอดอะนะ</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela1</VoiceFile>
-          <Content>I simply offered them what they needed the most at the moment. I am better than anyone at understanding the situation at hand and coming up with an appropriate response.</Content>
+          <Content>ฉันก็แค่ยื่นในสิ่งที่พวกเขาต้องการมากที่สุดในเวลานั้น ฉันน่ะเข้าใจสถานการณ์ตรงหน้าเก่งกว่าใคร แล้วคิดแผนที่เหมาะสมต่อสถานการณ์นั้นด้วย</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland2</VoiceFile>
-          <Content>Precisely, ma’am. You surely did come up with a perfect solution to lure out the Zwei.</Content>
+          <Content>ถูกเผงเลยครับ คุณหญิงคิดแผนที่เหมาะเหม็งสำหรับใช้ล่อพวกสไวมาจริงๆ</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland3</VoiceFile>
-          <Content>Heck, if you can print out books right away, wouldn’t it be nicer to just make a whole lot of ‘em ourselves?</Content>
+          <Content>แล้ว ถ้าเธอสามารถเขียนหนังสือออกมาได้ทั้งเล่มอยู่แล้ว มันจะไม่ง่ายกว่าเหรอถ้าเธอแค่สร้างหนังสือทั้งหมดด้วยตัวเองน่ะ?</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela2</VoiceFile>
-          <Content>I can only write books about the things I know. I need more time to write another one, too.</Content>
+          <Content>ฉันเขียนหนังสือได้กับแค่เรื่องที่ฉันรู้เท่านั้น แล้วฉันยังต้องใช้เวลาในการเขียนซักเล่มหนึงด้วย</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland4</VoiceFile>
-          <Content>Oh, I see… So, can I ask for your publications from time to time, then?</Content>
+          <Content>อย่างงั้นหรอ… งั้นฉันขอหนังสือไปซักเล่มบ้างได้ไหม?</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela3</VoiceFile>
-          <Content>I am willing to cooperate, since you’re doing your job as my assistant. Just don’t pester me too much.</Content>
+          <Content>ยังไงซะนายก็เป็นผู้ช่วยของฉัน ฉันยอมให้ก็ได้ แค่อย่ากวนฉันให้มากก็พอ</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland5</VoiceFile>
-          <Content>Sure thing, ma’am~ A mere servant such as I wouldn’t dare commit such atrocity as bothering our mistress Angela, oh no.</Content>
+          <Content>ได้เลยคร้าบ~ คุณหญิง คนรับใช้ที่ต่ำต้อยอย่างกระผมนั้นมิบังอาจ กล้าไปทำเรื่องเลวร้ายอย่างการไปกวนคุณหญิงแองเจล่าหรอกคร้าบ~</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela4</VoiceFile>
-          <Content>Do you think this will work out well?</Content>
+          <Content>นายคิดว่ามันจะไปได้สวยไหม?</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland6</VoiceFile>
-          <Content>The director of a section in an Association like the Zwei should be more than enough as our next step. The information he holds has got to be on a whole ‘nother level from what we’ve collected so far.</Content>
+          <Content>ผู้กำกับหน่วยในสมาพันธ์อย่างสไวก็เพียงพอสำหรับก้าวต่อไปของเราแล้วล่ะ ข้อมูลที่เขามีจะต้องเป็นอีกระดับหนึงจากที่พวกเราเก็บมาได้ตลอดแน่นอน</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าห้องสมุด</PlaceName>
         <Dialog ID="47" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter21</VoiceFile>
-          <Content>It’s been quite a while since I worked in the field. You haven’t had any field work in a while too, no?</Content>
+          <Content>มันก็นานมากแล้วที่ผมได้มาลงงานภาคสนามด้วยตัวเอง คุณเองก็ไม่ค่อยได้ออกงานภาคสนามมาเหมือนกันสินะ?</Content>
         </Dialog>
         <Dialog ID="48" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora18</VoiceFile>
-          <Content>You’re right, sir.</Content>
+          <Content>ถูกต้องแล้วค่ะท่าน</Content>
         </Dialog>
         <Dialog ID="49" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter22</VoiceFile>
-          <Content>If we can get this case resolved, we can finally get out of Section 6.</Content>
+          <Content>ถ้าเกิดพวกเราไขคดีนี้ได้ เราก็จะได้ออกจากหน่วยที่6 ซักที</Content>
         </Dialog>
         <Dialog ID="50" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter23</VoiceFile>
-          <Content>It’s nice to be finally collecting information about the Distortion directly from the source instead of having to get my hands dirty engaging with those lowly Syndicates.</Content>
+          <Content>มันก็ดีนะที่พวกเรามารวบรวมข้อมูลเกี่ยวกับการบิดเบือนจากต้นตอของมันเลย แทนที่จะไปร่วมมือกับพวกองค์กรแล้วทำให้มือของผมแปดเปื้อนไปหมด</Content>
         </Dialog>
         <Dialog ID="51" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter24</VoiceFile>
-          <Content>Neither of us should rot in Section 6 for the rest of our lives, wouldn’t you agree?</Content>
+          <Content>พวกเราทั้งคู่ไม่สมควรที่จะเน่าตายอยู่ในหน่วยที่6 ไปตลอดชีวิตของเราหรอก จริงไหม?</Content>
         </Dialog>
         <Dialog ID="52" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora19</VoiceFile>
-          <Content>Yes…</Content>
+          <Content>จริงค่ะ…</Content>
         </Dialog>
         <Dialog ID="53" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter25</VoiceFile>
-          <Content>We can have revenge for your colleagues, get a lead on the Distortion Phenomenon, and aim for a higher position all at the same time. How fascinating is that?</Content>
+          <Content>พวกเราสามารถแก้แค้นให้พวกเพื่อนร่วมของเธอได้,ได้หลักฐานเกี่ยวกับปรากฏการณ์บิดเบือน,พร้อมกับมุ่งสู่ตำแหน่งที่สูงขึ้นได้ มันจะคุ้มไปถึงไหน?</Content>
         </Dialog>
         <Dialog ID="54" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora20</VoiceFile>
-          <Content>…Everything seems to fall into place too conveniently.</Content>
+          <Content>…ดูเหมือนทุกๆอย่างจะเข้าที่เข้าทางได้ง่ายเกินไปนะคะ</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela5</VoiceFile>
-          <Content>Greetings, dear guests. I am the d—</Content>
+          <Content>ยินดีต้อนรับค่ะ แขกผู้มีเกียรติ ดิฉันแอ—</Content>
         </Dialog>
         <Dialog ID="56" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter26</VoiceFile>
-          <Content>You must be Angela. Director and librarian of your role’s namesake, right?</Content>
+          <Content>เธอคงเป็นแองเจล่า บรรณารักษ์และผู้ดูแลที่แห่งนี้ ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela6</VoiceFile>
-          <Content>Indeed, it’s just as you said.</Content>
+          <Content>ถูกต้องแล้วค่ะ เป็นอย่างที่คุณว่าไว้เลยค่ะ</Content>
         </Dialog>
         <Dialog ID="58" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter27</VoiceFile>
-          <Content>I’ve seen reports about you, but is it true that you are a machine, not a human?</Content>
+          <Content>ฉันเห็นรายงานเกี่ยวกับเธอมาแล้วล่ะ มันจริงใช่ไหมที่เธอไม่ใช่มนุษย์ แต่เป็นจักรกลน่ะ?</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1596,160 +1596,160 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="60" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter28</VoiceFile>
-          <Content>My my. Staying quiet won’t hide it, girl. A machine must behave as a machine.</Content>
+          <Content>แหม แหม เงียบไว้ก็ไม่ช่วยอะไรหรอกนะ สาวน้อย เป็นจักรกลก็ควรทำตัวให้เหมือนจักรกลหน่อยสิ</Content>
         </Dialog>
         <Dialog ID="61" Model="월터">
-          <Teller>Walter</Teller>
-          <Title>Zwei S. Section 6 Director</Title>
+          <Teller>วอลเตอร์</Teller>
+          <Title>ผู้กำกับการ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter29</VoiceFile>
-          <Content>You’ve made quite a huge deal out of your little library. It’s rather troublesome to have a non-human like you cause a fuss this big, you know?</Content>
+          <Content>เธอสร้างเรื่องในห้องสมุดเล็กๆนี้ไว้มากเลยนะ มันค่อนข้างเป็นปัญหาที่อมนุษย์อย่างเธอได้สร้างเรื่องใหญ่ขนาดนี้น่ะ รู้ไหม?</Content>
         </Dialog>
         <Dialog ID="62" Model="이사도라">
-          <Teller>Isadora</Teller>
+          <Teller>อิซาดอรา</Teller>
           <Title>ฟิกเซอร์ สไว เอส. หน่วย 6</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora21</VoiceFile>
-          <Content>Sir, I don’t think we should provoke her any further…</Content>
+          <Content>คุณวอลเตอร์ค่ะ ดิฉันคิดว่าเราไม่ควรไปยั่วโมโหเธอให้มากกว่านี้แล้วค่ะ…</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela8</VoiceFile>
-          <Content>May you find your book in this place.</Content>
+          <Content>ขอให้คุณพบหนังสือที่ต้องการ ณ ที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>에피소드3-종료</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+         <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela9</VoiceFile>
-          <Content>What does it mean to “behave as a machine”?</Content>
+          <Content>หมายความว่าไง“ทำตัวให้เหมือนจักรกล”น่ะ?</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland12</VoiceFile>
-          <Content>Boy, not that topic again…</Content>
+          <Content>เฮ้อ พูดเรื่องนี้อีกแล้วนะ…</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela10</VoiceFile>
-          <Content>Someone I used to know loved to say that phrase.</Content>
+          <Content>คนที่ฉันเคยรู้จักเขาชอบพูดประโยคนี้มาก</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland13</VoiceFile>
-          <Content>Like I told you before, making machines with emotions or sapience is forbidden. Even if one were to be made, the Head has long settled the ethical implications and all that.</Content>
+          <Content>ก็อย่างที่ฉันบอกไป การสร้างจักรกลให้มีอารมณ์หรือความเฉลียวฉลาดนั้นเป็นข้อต้องห้าม ถึงแม้จะสร้างมันขึ้นมา เดอะ เฮดก็ได้ตั้งนัยทางจริยธรรมทั้งหมดไว้ตั้งนานแล้ว</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland14</VoiceFile>
-          <Content>That means they’ve decided on a solid answer for the long-standing question: “How is a machine with emotions different from a human?”.</Content>
+          <Content>นั่นก็หมายความว่าพวกเขาให้คำตอบที่ชัดเจนสำหรับคำถามที่แสนยาวนาน: “จักรกลที่มีอารมณ์ความรู้สึกแตกต่่างจากมนุษย์ตรงไหน”</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland15</VoiceFile>
-          <Content>Their answer being: “Even if a machine carries emotions and intelligence, and is nearly identical to a human in every aspect, it is still a machine by birth. Machines should always be below humans…”</Content>
+          <Content>และคำตอบก็คือ: “ถึงแม้จักรกลจะมีอารมณ์และความเฉลียวฉลาด และยังมีลักษณะที่ใกล้เคียงกับมนุษย์ในทุกๆด้านก็ตาม มันก็ยังเป็นจักรกลโดยกำเนิด และจักรกลก็ควรอยู่ต่ำกว่ามนุษย์…”</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland16</VoiceFile>
-          <Content>“…Therefore, it is now forbidden to create sapient machines as they can disrupt the proper judgement of societal values. Furthermore, all existing sapient machines may be subject to termination regardless of ownership.”</Content>
+          <Content>“…เพราะฉะนั้น การสร้างจักรกลที่มีความเฉลียวฉลาดจะถูกสั่งห้าม เพราะพวกมันสามารถรบกวนการตัดสินที่เหมาะของคุณค่าทางสังคมได้ นอกจากนี้ จักรกลที่มีความเฉลียวฉลาดทั้งหมดจะถูกบังคับให้ถูกทำลายไม่ว่าใครจะเป็นเจ้าของอยู่ก็ตาม”</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland17</VoiceFile>
-          <Content>In short, “Machines are machines, and humans are humans. Machines exist solely to serve humans.” is what they’re saying.</Content>
+          <Content>ง่ายๆคือ “จักรกลก็คือจักรกล มนุษย์ก็คือมนุษย์ แล้วจักรกลถูกสร้างเพื่อให้มนุษย์ใช้งานก็เท่านั้น”เป็นอย่างงั้นแหละ</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland18</VoiceFile>
-          <Content>That’s the mindset people in the City decided to have.</Content>
+          <Content>นั่นคือไมนด์เซตของผู้คนในเมืองที่พวกเขาตัดสินใจมีกัน</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela11</VoiceFile>
-          <Content>Where would human brains stuffed in heaps of scrap metal belong?</Content>
+          <Content>แล้วพวกคนที่ถูกยัดสมองลงในเศษเหล็กจะถูกนับว่าเป็นอะไรล่ะ?</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland19</VoiceFile>
-          <Content>Those would still technically count as humans. Some might consider them “defiled”, and others might look down on them, but the brains themselves are natural.</Content>
+          <Content>พวกนั้นน่าจะถือว่าเป็นมนุษย์อยู่ คนบางประเภทอาจจะนับพวกนั้นว่า“เป็นมลทิน”หรือไม่ก็ดูหมิ่นพวกเขา แต่สมองพวกนั้นก็เป็นของจริงอยู่แล้ว</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland20</VoiceFile>
-          <Content>You get what I’m saying?</Content>
+          <Content>พอจะเข้าใจที่ฉันพูดใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela12</VoiceFile>
-          <Content>What about an electronic copy of a human brain?</Content>
+          <Content>แล้วพวกที่เป็นสมองกลที่เลียนแบบจากสมองมนุษย์มาอีกทีล่ะ?</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland21</VoiceFile>
-          <Content>That… would be a machine. Since it’s not “born” human.</Content>
+          <Content>นั่นก็… คงเป็นจักรกล เพราะไม่ได้เป็นมนุษย์“โดยกำเนิด”</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland22</VoiceFile>
-          <Content>To be frank, I don’t really get these standards, either.</Content>
+          <Content>เอาตามตรงนะ ฉันก็ไม่ค่อยเข้าใจเกณฑ์พวกนี้มากนักหรอก</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland23</VoiceFile>
-          <Content>I guess birthright matters to them the most.</Content>
+          <Content>ฉันว่าเกิดยังไงน่าจะสำคัญสำหรับพวกเขาที่สุด</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland24</VoiceFile>
-          <Content>Maybe it’s a defensive reaction born out of the urge to “preserve” humanity as a species.</Content>
+          <Content>มันน่าจะเป็นกลไกในการป้องกันตัวเองที่เกิดจากแรงกระตุ้นในการ“รักษา”มนุษย์ชาติไว้ในฐานะสายพันธุ์</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela13</VoiceFile>
-          <Content>…That’s unfair.</Content>
+          <Content>…นั่นไม่แฟร์เลย</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland25</VoiceFile>
-          <Content>Nothing is ever fair in this world.</Content>
+          <Content>ไม่มีอะไรแฟร์ในโลกนี้อยู่แล้ว</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Zwei_ep3_angela14</VoiceFile>
-          <Content>You’re right, it seems everyone lives with a share of unfairness they must bear.</Content>
+          <Content>นายพูดถูก ดูเหมือนว่าทุกคนจะใช้ชีวิตอยู่กับความไม่แฟร์นี้ที่พวกเขาต้องแบกรับไว้</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Zwei_ep3_roland26</VoiceFile>
-          <Content>Now you’re talking like a City dweller.</Content>
+          <Content>ตอนนี้เธอพูดยังกะเป็นคนในเมืองเลยล่ะ</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -2200,60 +2200,60 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: WARP Platform</PlaceName>
+<PlaceName>สถานที่: ชานชาลาวาร์ป</PlaceName>
         <Dialog ID="0" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain1</VoiceFile>
-          <Content>Big Sis, you’ve seen the message from T Corp, right?</Content>
+          <Content>นี่พี่ พี่เห็นข้อความจากที คอร์ปแล้วใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="1" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga1</VoiceFile>
-          <Content>…Wha? When’d we get that…</Content>
+          <Content>…หะ? เรามาถึงนี่ตั้งแต่เมื่อไหร่…</Content>
         </Dialog>
         <Dialog ID="2" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga2</VoiceFile>
-          <Content>Oh bugger, I’m ‘boutta vom… </Content>
+          <Content>แย่ละ รูู้สึกอยากจะอ้วก… </Content>
         </Dialog>
         <Dialog ID="3" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika1</VoiceFile>
-          <Content>She threw a huge drinking party with her friends from the same corner of the Backstreets last night.</Content>
+          <Content>เมื่อคืน เธอจัดปาร์ตี้ดื่มหนักกับเพื่อนของเธอจากแบ็คสรีทเดียวกันน่ะShe threw a huge drinking party with her friends from the same corner of the Backstreets last night.</Content>
         </Dialog>
         <Dialog ID="4" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika2</VoiceFile>
-          <Content>They occupied the whole pub and got wasted all night, I heard.</Content>
+          <Content>พวกเขายึดทั้งพับแล้วดื่มฉลองกันทั้งคืนเลย</Content>
         </Dialog>
         <Dialog ID="5" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain2</VoiceFile>
-          <Content>Sigh… Just how much did you drink this time?</Content>
+          <Content>เฮ้อ… แล้วครั้งนี้พี่ดื่มไปเท่าไหร่ล่ะ?</Content>
         </Dialog>
         <Dialog ID="6" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga3</VoiceFile>
-          <Content>Oi Rain, my head’s still ringing from the hangover, so keep the lecture for later, yeah? Maybe in an hour or so.</Content>
+          <Content>เฮ้ย เรน, ฉันยังปวดหัวจากอาการแฮงค์ไม่หาย เพราะงั้นช่วยบ่นทีหลังได้ไหม? ซักประมาณชั่วโมงหนึงอะนะ?.</Content>
         </Dialog>
         <Dialog ID="7" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain3</VoiceFile>
-          <Content>And what’s this? This receipt says…</Content>
+          <Content>แล้วนี่อะไร? ใบเสร็จนี่บอกว่า…</Content>
         </Dialog>
         <Dialog ID="8" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain4</VoiceFile>
-          <Content>You used our Office funds to pay for it, too…</Content>
+          <Content>พี่ใช้เงินของออฟฟิศเราไปจ่ายด้วย…</Content>
         </Dialog>
         <Dialog ID="9" Model="NONE">
           <Teller>NONE</Teller>
@@ -2262,778 +2262,778 @@
           <Content />
         </Dialog>
         <Dialog ID="10" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>วาร์ป คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement1</VoiceFile>
-          <Content>Thank you for utilizing WARP’s services as always.</Content>
+          <Content>ขอขอบคุณที่ใช้บริการวาร์ปของพวกเราเช่นเคยค่ะ</Content>
         </Dialog>
         <Dialog ID="11" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>วาร์ป คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement2</VoiceFile>
-          <Content>The next train departing is WARP train UW-212. </Content>
+          <Content>รถไฟขบวนถัดไปที่จะออกคือ รถไฟวาร์ป ยูดับเบิ้ลยู-212ค่ะ</Content>
         </Dialog>
         <Dialog ID="12" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>วาร์ป คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement3</VoiceFile>
-          <Content>All passengers please check your pass and make sure you are in the correct carriage for travel. And remember: Watch for it. Warn us. We’ll all be good.</Content>
+          <Content>ผู้โดยสารทุกท่านโปรดเช็คตั๋วของท่านและตรวจสอบว่าท่านอยู่ถูกตู้โดยสารสำหรับการเดินทางนะคะ</Content>
         </Dialog>
         <Dialog ID="13" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika3</VoiceFile>
-          <Content>Seems it’s our turn now.</Content>
+          <Content>ดูเหมือนว่าจะถึงคิวเราแล้วนะ</Content>
         </Dialog>
         <Dialog ID="14" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga4</VoiceFile>
-          <Content>I always feel ill and out of sorts when I board WARP’s trains.</Content>
+          <Content>ฉันรู้สึกไม่ค่อยสบายทุกครั้งที่ขึ้นวาร์ปเทรนเลย</Content>
         </Dialog>
         <Dialog ID="15" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain5</VoiceFile>
-          <Content>Just don’t make an arse of yourself like the last time.</Content>
+          <Content>แค่ไม่ทำตัวเหมือนกับครั้งล่าสุดก็พอ</Content>
         </Dialog>
         <Dialog ID="16" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika4</VoiceFile>
-          <Content>Anyway, this request is rather unexpected. One from R Corp. of all places.</Content>
+          <Content>อย่างไงก็ตาม คำขอนี้ค่อนข้างที่จะคาดไม่ถึงเหมือนกัน เป็นคำขอจากอาร์ คอร์ปเลยนะ</Content>
         </Dialog>
         <Dialog ID="17" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain6</VoiceFile>
-          <Content>Isn’t it something right dangerous if R Corp. has to request another party to do the job?</Content>
+          <Content>ไม่ใช่ว่างานมันอันตรายมากๆถึงขนาดที่อาร์ คอร์ปยอมจ้างให้คนอื่นมาทำแทนเลยหรอ?</Content>
         </Dialog>
         <Dialog ID="18" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain7</VoiceFile>
-          <Content>They might be just using a no-name Office like us as bait to test the waters ‘fore they do it themselves.</Content>
+          <Content>พวกเขาอาจจะใช้ออฟฟิศไร้ชื่อเสียงอย่างพวกเราเป็นเหยื่อในการตรวจดูสถานการณ์ ก่อนที่พวกเขาลงมือเองก็ได้</Content>
         </Dialog>
         <Dialog ID="19" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga5</VoiceFile>
-          <Content>Say, who’s the client for that request?</Content>
+          <Content>แล้วใครเป็นคนว่าจ้างของคำขอนี้ล่ะ?</Content>
         </Dialog>
         <Dialog ID="20" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain8</VoiceFile>
-          <Content>The captain of the Rabbit Team herself?</Content>
+          <Content>หัวหน้าของทีมกระต่ายเลยหรอ?</Content>
         </Dialog>
         <Dialog ID="21" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga6</VoiceFile>
-          <Content>Huhuhu…</Content>
+          <Content>ฮึฮึฮึ…</Content>
         </Dialog>
         <Dialog ID="22" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga7</VoiceFile>
-          <Content>You kids might be thinking I’m just an easygoing drunkard, but every action of mine is calculated, you see?</Content>
+          <Content>ถึงเด็กอย่างพวกเธอคิดว่าฉันเป็นพวกไม่เอาถ่าน แต่จริงๆแล้วทุกก้าวฉันคำนวนไว้หมดแล้ว เห็นไหม?</Content>
         </Dialog>
         <Dialog ID="23" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain9</VoiceFile>
-          <Content>Here she goes again.</Content>
+          <Content>พูดเรื่องนี้อีกแล้ว</Content>
         </Dialog>
         <Dialog ID="24" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga8</VoiceFile>
-          <Content>That Myo lass is an old mate of mine, I drank with her just yesterday!</Content>
+          <Content>เมียวคนนั้นนะเป็นเพื่อนเก่าฉันเอง เมื่อคืนก็พึ่งไปจะดื่มกับเธอมานะ!</Content>
         </Dialog>
         <Dialog ID="25" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika6</VoiceFile>
-          <Content>You mean…</Content>
+          <Content>แล้ว…</Content>
         </Dialog>
         <Dialog ID="26" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga9</VoiceFile>
-          <Content>Said she’s got an easy job for me. Says all I gotta do is give her a small cut of the rewards.</Content>
+          <Content>แล้วเธอบอกว่ามีงานง่ายๆให้ฉันทำ บอกแค่ว่าจะขอส่วนแบ่งเล็กน้อยเท่านั้นด้วย</Content>
         </Dialog>
         <Dialog ID="27" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain10</VoiceFile>
-          <Content>No wonder you were so proud about going out for a drink.</Content>
+          <Content>ไม่แปลกใจที่พี่ดูภูมิใจกับการไปดื่มมาน่ะ</Content>
         </Dialog>
         <Dialog ID="28" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga10</VoiceFile>
-          <Content>I was in a rather good mood, so I let her dine like a king and paid for all that with the Office card~</Content>
+          <Content>ตอนนั้นฉันยังอารมณ์ดีอยู่ เลยให้เธอดื่มจนสะใจแล้วก็จ่ายด้วยบัตรออฟฟิศหมดเลยน่ะ~</Content>
         </Dialog>
         <Dialog ID="29" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain11</VoiceFile>
-          <Content>Is Myo a trustworthy person?</Content>
+          <Content>เมียวคนนี้เป็นคนที่ไว้ใจได้หรอn?</Content>
         </Dialog>
         <Dialog ID="30" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga11</VoiceFile>
-          <Content>She acts like a hotheaded lass, but she’s actually pretty nice deep inside when you get to know her.</Content>
+          <Content>ถึงแม้เธอออกจะดูเลือดร้อนไปหน่อย แต่ในใจลึกๆแล้ว เธอก็เป็นคนดีเอาเรื่องอยู่นะจ้ะ</Content>
         </Dialog>
         <Dialog ID="31" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain12</VoiceFile>
-          <Content>I swear down I’ll curse you for the rest of my life if it turns out to be weird nonsense again.</Content>
+          <Content>ถ้าเรื่องนี้เป็นเรื่องแปลกอีกผมขอสาปแช่งพี่ไปชั่วชีวิตเลย สาบาน</Content>
         </Dialog>
         <Dialog ID="32" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>วาร์ป คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement4</VoiceFile>
-          <Content>All passengers please board WARP train UW-212.</Content>
+          <Content>ผู้โดยสารทุกท่านโปรดขึ้นไปบนวาร์ปเทรน ยูดับเบิ้ลยู-212ด้วยค่ะ</Content>
         </Dialog>
         <Dialog ID="33" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>แมรี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry1</VoiceFile>
-          <Content>It’s nice to be on a vacation after so long.</Content>
+          <Content>มันก็นานแล้วนะที่เราออกมาเที่่ยวด้วยกันน่ะ</Content>
         </Dialog>
         <Dialog ID="34" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_tommy1</VoiceFile>
-          <Content>This is our first time taking a WARP ride. Is everything gonna be okay?</Content>
+          <Content>พวกเราขึ้นรถไฟวาร์ปเป็นครั้งแรกเลย จะเป็นอะไรไหมนะ?</Content>
         </Dialog>
         <Dialog ID="35" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>แมรี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry2</VoiceFile>
-          <Content>You’re such a worrywart, darling. So many people use WARP every day.</Content>
+          <Content>ตะเองก็~ คิดมากอะ คนเขาใช้วาร์ปกันทุกวันอยู่แล้ว</Content>
         </Dialog>
         <Dialog ID="36" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_tommy2</VoiceFile>
-          <Content>I heard there were several accidents when they were first starting out.</Content>
+          <Content>เค้าได้ยินมาว่าตอนเปิดใหม่ๆเขาเกิดอุบัติเหตุอยู่เยอะเลยนะ</Content>
         </Dialog>
         <Dialog ID="37" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>แมรี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry3</VoiceFile>
-          <Content>You can just stay by my side and keep your eyes closed if you’re so worried silly.</Content>
+          <Content>ถ้าตะเองขี้กลัวขนาดนั้น ตะเองก็หลับตาแล้วอยู่ข้างๆเค้าก็พอ~</Content>
         </Dialog>
         <Dialog ID="38" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_tommy3</VoiceFile>
-          <Content>Okay. I’ll stick fast to you and hold tight.</Content>
+          <Content>ได้เลย เดี๋ยวเค้าเกาะตัวเธอแน่นๆนะ</Content>
         </Dialog>
         <Dialog ID="39" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga12</VoiceFile>
-          <Content>…Take care of the mess if I happen to vomit on this carriage, Rain.</Content>
+          <Content>…ถ้าชั้นอ้วนแตกขึ้นมา นายต้องเป็นคนเช็ดนะ เรน</Content>
         </Dialog>
         <Dialog ID="40" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain13</VoiceFile>
-          <Content>Big Sis, please!</Content>
+          <Content>ขอเถอะ พี่!</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside WARP Train UW-212</PlaceName>
+        <PlaceName>สถานที่: ด้านในวาร์ปเทรน ยูดับเบิ้ลยู-212</PlaceName>
         <Dialog ID="41" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>วาร์ป คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement5</VoiceFile>
-          <Content>Attention all passengers. Please fasten your seatbelts.</Content>
+          <Content>ผู้โดยสารโปรดทราบ ได้โปรดรัดเข็มขัดของท่านให้แน่นด้วยค่ะ</Content>
         </Dialog>
         <Dialog ID="42" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika7</VoiceFile>
-          <Content>We’re departing now.</Content>
+          <Content>เราจะออกเดินทางกันเแล้ว</Content>
         </Dialog>
         <Dialog ID="43" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga13</VoiceFile>
-          <Content>Oi, I’ve always wondered, what’s the point of these seatbelts?</Content>
+          <Content>ฉันน่ะสงสัยมาตลอดเลยนะ ว่าไอ้สายเข็มขัดนี่มันมีไว้เพิ่ออะไร?</Content>
         </Dialog>
         <Dialog ID="44" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain14</VoiceFile>
-          <Content>Courtesy, I suppose. Who knows, it might actually be better than nothing.</Content>
+          <Content>น่าจะทำไว้พอเป็นพิธีก็ได้มั้ง ก็ยังดีกว่าไม่มีอะไรเลยน่ะ</Content>
         </Dialog>
         <Dialog ID="45" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>วาร์ป คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement6</VoiceFile>
-          <Content>We will be initiating the warp in ten minutes.</Content>
+          <Content>เราจะทำการเริ่มต้นกระบวนการวาร์ปในอีก10นาทีค่ะ</Content>
         </Dialog>
         <Dialog ID="46" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>แมรี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry4</VoiceFile>
-          <Content>Oh you. You’re clinging onto me like a baby.</Content>
+          <Content>แหมตะเองก็~ กอดเค้าแน่นยังกับเบบี้เลยนะ~</Content>
         </Dialog>
         <Dialog ID="47" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_tommy4</VoiceFile>
-          <Content>Well you never know…</Content>
+          <Content>ก็เผื่อเกิดอะไรขึ้นไง…</Content>
         </Dialog>
         <Dialog ID="48" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>แมรี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry5</VoiceFile>
-          <Content>We’ll be there just ten seconds after the train starts! But you’re cute, so I’ll let you be~</Content>
+          <Content>แปปเดียวก็ถึงแล้ว! แค่10วิเอง แต่ตะเองน่ารักดี~ เพราะงั้นเค้าจะปล่อยไว้ละกัน~</Content>
         </Dialog>
         <Dialog ID="49" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga14</VoiceFile>
-          <Content>Why’d we hafta sit right behind those two lousy lovebirds?</Content>
+          <Content>แล้วทำไมเราต้องมานั่งใกล้คู่รักหวานแหววพวกนี้ด้วยเนี้ย?</Content>
         </Dialog>
         <Dialog ID="50" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain15</VoiceFile>
-          <Content>Shh, shut it, they’ll hear us.</Content>
+          <Content>เงียบไปเลยพี่ เดี๋ยวพวกเขาก็ได้ยินหรอกShh, shut it, they’ll hear us.</Content>
         </Dialog>
         <Dialog ID="51" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>วาร์ป คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement7</VoiceFile>
-          <Content>Please do not open the doors while the train is in warp.</Content>
+          <Content>โปรดอย่าเปิดประตูในระหว่างที่รถไฟกำลังวาร์ปด้วยค่ะ</Content>
         </Dialog>
         <Dialog ID="52" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga15</VoiceFile>
-          <Content>I’ll be taking a nap. Wake me up when we’re there.</Content>
+          <Content>งั้นชั้นของีบซักพักละกัน ปลุกชั้นด้วยถ้าถึงที่แล้ว</Content>
         </Dialog>
         <Dialog ID="53" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika8</VoiceFile>
-          <Content>It’s going to take less than 10 minutes anyway.</Content>
+          <Content>มันใช้เวลาแค่เพียง10นาทีเอง</Content>
         </Dialog>
         <Dialog ID="54" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga16</VoiceFile>
-          <Content>Whatever~</Content>
+          <Content>เอาเฮอะ~</Content>
         </Dialog>
         <Dialog ID="55" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain16</VoiceFile>
-          <Content>Big Sis! Big Sis! Wake up!</Content>
+          <Content>พี่! พี่! ตื่นเร็ว!</Content>
         </Dialog>
         <Dialog ID="56" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga17</VoiceFile>
-          <Content>Hell, what’s it this time?</Content>
+          <Content>ฮะ ครั้งนี้อะไรอีกล่ะ?</Content>
         </Dialog>
         <Dialog ID="57" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika9</VoiceFile>
-          <Content>Something seems to have gone wrong. It’s been an hour since we departed, but the train still hasn’t arrived at its stop.</Content>
+          <Content>มีบางอย่างผิดปกติ มันผ่านมาเกือบจะชั่วโมงแล้ว แต่รถไฟก็ยังไม่ถึงจุดหมายอีก</Content>
         </Dialog>
         <Dialog ID="58" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_tommy5</VoiceFile>
-          <Content>What’s happening, Merry…? You said we’d be there in just ten seconds.</Content>
+          <Content>เกิดอะไรขึ้นหรอ แมรี่… ในตะเองบอกเค้าว่าแค่10วิไง</Content>
         </Dialog>
         <Dialog ID="59" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>แมรี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry6</VoiceFile>
-          <Content>That’s strange… It shouldn’t take any longer than that…</Content>
+          <Content>แปลกจังนะ… ปรกติมันไม่ใช้เวลานานขนาดนี้นิ…</Content>
         </Dialog>
         <Dialog ID="60" Model="NONE">
           <Teller>NONE</Teller>
           <Title>NONE</Title>
-          <Content>- 6 hours in -</Content>
+          <Content>- 6 ชั่วโมงต่อมา -</Content>
         </Dialog>
         <Dialog ID="61" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga18</VoiceFile>
-          <Content>Bollocks, did we get unlucky or what?</Content>
+          <Content>เอาจริงดิ นี้เราโชคร้ายขนาดนั้นหรืออะไร?</Content>
         </Dialog>
         <Dialog ID="62" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain17</VoiceFile>
-          <Content>WARP hasn’t had any accidents in the last ten years, though.</Content>
+          <Content>วาร์ปน่ะก็ไม่ได้มีอุบัติเหตุมาตั้ง10 ปีแล้วนะ</Content>
         </Dialog>
         <Dialog ID="63" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika10</VoiceFile>
-          <Content>We might end up getting trapped here.</Content>
+          <Content>เราคงติดอยู่ที่นี่แล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="64" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga19</VoiceFile>
-          <Content>We’re breaking through that door if anything goes wrong.</Content>
+          <Content>งั้นเราทำลายประตูนั่นกันถ้าเกิดมีอะไรผิดพลาดขึ้นมา</Content>
         </Dialog>
         <Dialog ID="65" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika11</VoiceFile>
-          <Content>You’re insane! The warnings said you’ll get sucked out into space if we try to open the doors while the train’s in warp.</Content>
+          <Content>บ้าไปแล้วรีไง! เขาก็บอกอยู่ว่าถ้าเราพยายามเปิดประตูในขณะที่รถไฟวาร์ปอยู่ จะโดนดูดออกไปนอกอวกาศน่ะ</Content>
         </Dialog>
         <Dialog ID="66" Model="NONE">
           <Teller>NONE</Teller>
           <Title>NONE</Title>
-          <Content>- 17 hours in -</Content>
+          <Content>- 17 ชั่วโมงต่อมา -</Content>
         </Dialog>
         <Dialog ID="67" Model="Passenger 1">
-          <Teller>Passenger 1</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสาร 1</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_people1</VoiceFile>
-          <Content>I’m gonna lose my mind…</Content>
+          <Content>ฉันจะเริ่มเสียสติแล้วนะ…</Content>
         </Dialog>
         <Dialog ID="68" Model="Passenger 2">
-          <Teller>Passenger 2</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสาร 2</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_people2</VoiceFile>
-          <Content>Where are we?</Content>
+          <Content>นี่เราอยู่ใหนกันวะเนี้ย?</Content>
         </Dialog>
         <Dialog ID="69" Model="토미">
-          <Teller>Tommy</Teller>
-          <Title>Passenger</Title>
+          <Teller>ทอมมี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_tommy6</VoiceFile>
-          <Content>I can’t even take off this seatbelt…</Content>
+          <Content>เค้าเอาเข็มขัดนี่ออกไม่ได้อะ…</Content>
         </Dialog>
         <Dialog ID="70" Model="메어리">
-          <Teller>Merry</Teller>
-          <Title>Passenger</Title>
+          <Teller>แมรี่</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry7</VoiceFile>
-          <Content>Tommy… Everything will be fine soon enough… I’m sorry, it’s my fault for asking to take a WARP train…</Content>
+          <Content>ทอมมี่… เดี๋ยวทุกอย่างก็กลับไปเป็นปรกติแล้วล่ะ… เค้าขอโทษนะ ความผิดเค้าเองที่ขอขึ้นวาร์ปเทรนน่ะ…</Content>
         </Dialog>
         <Dialog ID="71" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika12</VoiceFile>
-          <Content>The train seems to be operating still…</Content>
+          <Content>รถไฟเองก็ดูเหมือนว่ายังทำงานตามปกติอยู่เลย…</Content>
         </Dialog>
         <Dialog ID="72" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga20</VoiceFile>
-          <Content>Oi! Take out your tools now. We’re cutting off this bloody seatbelt.</Content>
+          <Content>เฮ้ย! หยิบอุปกรณ์ออกมาได้แล้ว เราจะตัดเข็มขัดบ้านี้ออก</Content>
         </Dialog>
         <Dialog ID="73" Model="NONE">
           <Teller>NONE</Teller>
           <Title>NONE</Title>
-          <Content>- 31 hours in -</Content>
+          <Content>- 31 ชั่วโมงต่อมา -</Content>
         </Dialog>
         <Dialog ID="74" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga21</VoiceFile>
-          <Content>Bloody hell, this is driving me nuts! Three hundred poor souls are trapped in ‘ere, and they do fuck all about it?</Content>
+          <Content>เอาตรงๆนะ ฉันเริ่มมีน้ำโหแล้วนะ มีคนตั้ง300คนติดอยู่ที่นี่ แล้วไม่ทำอะไรกันเลยรึไง?</Content>
         </Dialog>
         <Dialog ID="75" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain18</VoiceFile>
-          <Content>The atmosphere is getting eerie. Everyone seems more sensitive than usual.</Content>
+          <Content>บรรณยากาศที่นี่แปลกๆนะ ดูเหมือนว่าทุกคนจะอารมณ์แปรปรวนง่ายกว่าปรกติด้วย</Content>
         </Dialog>
         <Dialog ID="76" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika13</VoiceFile>
-          <Content>What’s funnier is that I’m not feeling any thirst or hunger even though we haven’t had anything in the last 31 hours.</Content>
+          <Content>เรื่องที่ตลกกว่าก็คือ พวกเราติดอยู่ที่นี่มาตั้ง31ชั่วโมงแล้ว แต่ก็ไม่หิวหรือกระหายอะไรเลย</Content>
         </Dialog>
         <Dialog ID="77" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga22</VoiceFile>
-          <Content>It won’t even leave a dent on this bloody door.</Content>
+          <Content>แถมประตูบ้านี่ก็ไม่เป็นรอยขีดข่วนอะไรเลยด้วย</Content>
         </Dialog>
         <Dialog ID="78" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain19</VoiceFile>
-          <Content>Guess we really are trapped. I don’t see a way out. All we can do is wait.</Content>
+          <Content>ดูเหมือนว่าเราติดอยู่ที่นี่จริงๆ ผมเองก็มองไม่เห็นทางออก สิ่งที่ทำได้ก็คงแค่รออย่างเดียว</Content>
         </Dialog>
         <Dialog ID="79" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika14</VoiceFile>
-          <Content>Looks like others are slowly losing their minds, too.</Content>
+          <Content>ดูเหมือนว่าคนอื่นๆก็เริ่มที่จะสติแตกกันแล้วนะ</Content>
         </Dialog>
         <Dialog ID="80" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga23</VoiceFile>
-          <Content>…Oi, how ‘bout a gamble?</Content>
+          <Content>…งั้น เรามาพนันกันไหม?</Content>
         </Dialog>
         <Dialog ID="81" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain20</VoiceFile>
-          <Content>What do you mean, a gamble?</Content>
+          <Content>พี่หมายความว่าไงพนันน่ะ?</Content>
         </Dialog>
         <Dialog ID="82" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga24</VoiceFile>
-          <Content>I’m saying, maybe we use this.</Content>
+          <Content>ก็หมายความว่า เราจะใช้ไอ้นี่ไง</Content>
         </Dialog>
         <Dialog ID="83" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika15</VoiceFile>
-          <Content>An invitation…?</Content>
+          <Content>บัตรเชิญงั้นหรอ…?</Content>
         </Dialog>
         <Dialog ID="84" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga25</VoiceFile>
-          <Content>It’s the stuff I got from Myo. Never thought I’d use it now.</Content>
+          <Content>ของที่ฉันได้มาจากเมียวน่ะ ก็ไม่อยากจะเชื่อว่าต้องใช้ตอนนี้เลย</Content>
         </Dialog>
         <Dialog ID="85" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain21</VoiceFile>
-          <Content>Here’s my pen. I’d do anything to get out of this train, too.</Content>
+          <Content>นี่ปากกาผม ผมยอมทำทุกอย่างเพื่อออกไปจากรถไฟนี้เหมือนกัน</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="86" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland1</VoiceFile>
-          <Content>A malfunction with WARP? This could be a huge blow to W Corp’s reputation if it ever gets out to the public.</Content>
+          <Content>วาร์ปขัดข้องงั้นหรอ เรื่องนี้คงทำลายชื่อเสียงของดับเบิ้ลยู คอร์ปไปไม่น้อยแน่ ถ้าหลุดออกไปได้อะนะ</Content>
         </Dialog>
         <Dialog ID="87" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela1</VoiceFile>
-          <Content>It was supposed to arrive at the destination in only 10 seconds, right?</Content>
+          <Content>มันควรจะถึงที่หมายภายใน10วินาทีใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="88" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland2</VoiceFile>
-          <Content>Yep. The WARP trains, operating with W Corp’s Singularity. They can get to any station in 10 seconds no matter how far away they are. A 30-second delay would be a big enough issue already, and a 30-hour delay? That’s gonna be outright fatal to the corporation’s trust.</Content>
+          <Content>ใช่แล้ว วาร์ปเทรนที่ถูกปฏิบัติหน้าที่พร้อมกับซิงกูลาริตี้ของดับเบิ้ลยู คอร์ป สามารถไปสถานีใหนก็ได้ไม่ว่าไกลแค่ใหนภายใน10วินาทีได้ การที่ล่าช้าไปประมาณ30วิก็ถือว่าเป็นเรื่องใหญ่แล้ว แต่นี่ล่าช้าไปตั้ง30ชั่วโมงเลย คงจะส่งผลกระทบต่อความเชื่อใจของบริษัทไปแสนสาหัสอยู่</Content>
         </Dialog>
         <Dialog ID="89" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela2</VoiceFile>
-          <Content>Even a Singularity can malfunction, it seems.</Content>
+          <Content>ดูเหมือนว่าพวกซิงกูลาริตี้เองก็ขัดข้องได้เหมือนกัน</Content>
         </Dialog>
         <Dialog ID="90" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland3</VoiceFile>
-          <Content>I guess no technology is ever really flawless.</Content>
+          <Content>คงไม่มีเทคโนโลยีใหนที่ไร้จุดบอดจริงๆสินะ</Content>
         </Dialog>
         <Dialog ID="91" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela3</VoiceFile>
-          <Content>Anyway, I might be able to have an unexpected reunion soon enough.</Content>
+          <Content>ยังไงก็แล้วแต่, ดูเหมือนว่าฉันอาจจะได้เจอกับเพื่อนเก่าเร็วๆนี้ก็ได้</Content>
         </Dialog>
         <Dialog ID="92" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland4</VoiceFile>
-          <Content>You have any familiar faces in that Office?</Content>
+          <Content>เธอมีเพื่อนเก่าที่ออฟฟิศนั้นด้วยหรอ?</Content>
         </Dialog>
         <Dialog ID="93" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela4</VoiceFile>
-          <Content>No.</Content>
+          <Content>ไม่ใช่</Content>
         </Dialog>
         <Dialog ID="94" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland5</VoiceFile>
-          <Content>You mean Myo, the captain of the Rabbit Team, then?</Content>
+          <Content>หรือว่าเธอพูดถึงเมียว, หัวหน้าทีมกระต่ายงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="95" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela5</VoiceFile>
-          <Content>Yes.</Content>
+          <Content>ใช่แล้ว</Content>
         </Dialog>
         <Dialog ID="96" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland6</VoiceFile>
-          <Content>Hunh… So you had connections with one of the captains from R Corp?</Content>
+          <Content>เฮ้อ… งั้นแปลว่าเธอก็เกี่ยวข้องกับหนึ่งในหัวหน้าทีมของอาร์ คอร์ปงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="97" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland7</VoiceFile>
-          <Content>That Olga person knowing her is surprising enough, but you have some impressive networking finesse, too.</Content>
+          <Content>คนที่ชื่อโอลก้าอะไรนั่นดูเหมือนจะรู้จักเขาดี แต่เธอเนี้ยมีชั้นเชิงเครือข่ายที่ยอดเยี่ยมเหมือนกันนะเนี้ย</Content>
         </Dialog>
         <Dialog ID="98" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela6</VoiceFile>
-          <Content>Though we probably won’t be greeting each other with smiles when we do meet again.</Content>
+          <Content>แต่ว่าเราคงไม่มีการทักทายด้วยรอยยิ้มกันอีกแล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="99" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland8</VoiceFile>
-          <Content>What, you weren’t friends with her? Eh, you know what, I guess it makes more sense this way.</Content>
+          <Content>อะไรกัน, พวกเธอไม่ใช่เพื่อนกันแล้วหรอ? เอ๊ะ รู้อะไรไหม, มันก็สมเหตุสมผลอยู่นะ</Content>
         </Dialog>
         <Dialog ID="100" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela7</VoiceFile>
-          <Content>What did you expect? Did you really think I would have any friends to casually chat with?</Content>
+          <Content>แล้วนายหวังอะไรไว้ล่ะ? คิดจริงๆหรอว่าฉันจะมีเพื่อนคุยเล่นด้วยน่ะ?</Content>
         </Dialog>
         <Dialog ID="101" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland9</VoiceFile>
-          <Content>I was just wondering. R Corp. is different from Fixers on a fundamental level.</Content>
+          <Content>ฉันเพิ่งนึกได้ ว่าอาร์ คอร์ปเขาแตกต่างจากฟิกเซอร์ทั่วไปไปอีกระดับหนึงเลย</Content>
         </Dialog>
         <Dialog ID="102" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland10</VoiceFile>
-          <Content>Their work might seem similar to what Fixers do, but they take on things of a much larger scale with a much more professional mentality.</Content>
+          <Content>งานของพวกเขาอาจจะคล้ายกับที่พวกฟิกเซอร์ทำ, แต่สเกลการทำงานของเขาใหญ่กว่าแถมมีความเป็นมืออาชีพกว่าด้วย</Content>
         </Dialog>
         <Dialog ID="103" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela8</VoiceFile>
-          <Content>I expect no less from one of the Wings.</Content>
+          <Content>ฉันก็หวังไว้ไม่น้อยจากหนึ่งในวิงส์หรอก</Content>
         </Dialog>
         <Dialog ID="104" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland11</VoiceFile>
-          <Content>Aren’t you relaxed.</Content>
+          <Content>เธอก็แค่ใจชื่นไม่ใช่รึไง</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+       <PlaceName>สถานที่: ทางเข้าห้องสมุด</PlaceName>
         <Dialog ID="105" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga26</VoiceFile>
-          <Content>Whew~ Now this is teleportation!</Content>
+          <Content>ว้า~ นิสิถึงจะเรียกว่าการเทเรพอร์ท!</Content>
         </Dialog>
         <Dialog ID="106" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga27</VoiceFile>
-          <Content>Much faster and better than W Corp’s idiotic Singularity.</Content>
+          <Content>ทั้งเร็วและยังดีกว่าไอ้ซิงกูลาริตี้ของพวกดับเบิ้ลยู คอร์ปงี่เง่านั่นด้วย</Content>
         </Dialog>
         <Dialog ID="107" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain22</VoiceFile>
-          <Content>Are we really sure we can proceed so carelessly? You said you got that invitation from R Corp.</Content>
+          <Content>พี่มั่นใจหรอว่าเราสามารถดำเนินการต่อไปแบบไม่ระวังได้? พี่บอกเองนะว่าได้บัตรเชิญมาจสกอาร์ คอร์ปน่ะ</Content>
         </Dialog>
         <Dialog ID="108" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga28</VoiceFile>
-          <Content>Mika, shut him up for a bit. I think I’m gonna vomit right ‘ere if I hear another peep outta him.</Content>
+          <Content>มิกะ, หุบปากเขาให้ทีดิ๊ ฉันรู้สึกจะอ้วกทุกครั้งที่หมอนี่พูดเลย</Content>
         </Dialog>
         <Dialog ID="109" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika16</VoiceFile>
-          <Content>Rain is speaking the truth, though. Maybe we should have been more cautious.</Content>
+          <Content>เรนพูดถูก, พวกเราควรจะระวังรอบๆข้างไว้ </Content>
         </Dialog>
         <Dialog ID="110" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga29</VoiceFile>
-          <Content>Sure, sure~ No one is on my side.</Content>
+          <Content>จ้า~ จ้า~ ไม่มีใครอยากอยู่ข้างฉันล่ะสิ</Content>
         </Dialog>
         <Dialog ID="111" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga30</VoiceFile>
-          <Content>It’s all thanks to my quick judgement that we could escape from that buggered train.</Content>
+          <Content>ต้องขอบคุณการตัดสินใจที่เด็ดขาดของฉัน, พวกเราเลยออกมาจากรถไฟพังๆนั้นได้แท้ๆ</Content>
         </Dialog>
         <Dialog ID="112" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela9</VoiceFile>
-          <Content>Greetings, dear guests.</Content>
+          <Content>ยินดีต้อนรับค่ะ แขกผู้มีเกียรติ</Content>
         </Dialog>
         <Dialog ID="113" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอรr</Title>
           <VoiceFile>ch3_Molar_ep1_olga31</VoiceFile>
-          <Content>Good to see you too, lassie~</Content>
+          <Content>ยินดีที่ได้รูจักเหมือนกันนะ เพื่อนสาว~</Content>
         </Dialog>
         <Dialog ID="114" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain23</VoiceFile>
-          <Content>I apologize. We’re in a bit of confusion right now. And she’s hungover as well…</Content>
+          <Content>ต้องขอโทษด้วยครับ พวกเรายังค่อนข้างสับสนอยู่น่ะ แถมเธอเองก็กำลังแฮงค์อยู่เหมือนกัน…</Content>
         </Dialog>
         <Dialog ID="115" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela10</VoiceFile>
-          <Content>I understand. I do have experience dealing with drunkards.</Content>
+          <Content>ดิฉันทราบดีค่ะ ดิฉันเองก็พอมีประสบการณ์ที่ต้องจัดการกับคนขี้เมาอยู่ค่ะ</Content>
         </Dialog>
         <Dialog ID="116" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga32</VoiceFile>
-          <Content>Ey, you know what the hell was going on back there?</Content>
+          <Content>นี่เธอพอรู้อะไรเกี่ยวกับเรื่องบ้าเมื่อกี้นี้ใหม?</Content>
         </Dialog>
         <Dialog ID="117" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela11</VoiceFile>
-          <Content>All I know is that you are our guests invited to the Library, I’m afraid.</Content>
+          <Content>สิ่งที่ดิฉันพอรู้มีแค่ พวกคูณเป็นแขกที่ถูกรับเชิญให้เข้ามาในห้องสมุดค่</Content>
         </Dialog>
         <Dialog ID="118" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga33</VoiceFile>
-          <Content>Huh. She’s a bit nicer than what Myo told me.</Content>
+          <Content>ฮื้อ หล่อนใจดีกว่าที่เมียวบอกฉันไว้อีก</Content>
         </Dialog>
         <Dialog ID="119" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika17</VoiceFile>
-          <Content>Do you know her?</Content>
+          <Content>คุณพี่รู้จักเธอด้วยหรอ?</Content>
         </Dialog>
         <Dialog ID="120" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga34</VoiceFile>
-          <Content>Ye see, we were supposed to dig into the relationship between L Corp. and the Library; that’s what Myo asked us to do.</Content>
+          <Content>ก็นะ งานของพวกเราก็คือหาความเชื่อมโยงระหว่างแอล คอร์ปกับห้องสมุดนี้; นั่นคือสิ่งที่เมียวขอให้เราทำน่ะ</Content>
         </Dialog>
         <Dialog ID="121" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela12</VoiceFile>
-          <Content>I see, so that’s how you know about me.</Content>
+          <Content>คุณรู้จักดิฉันเด้วยเหตุนั้นสินะคะ</Content>
         </Dialog>
         <Dialog ID="122" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga35</VoiceFile>
-          <Content>And y’know what’s funny, lads~? We’re talking to a machine, not a person.</Content>
+          <Content>แล้วหล่อนก็ไม่ใช่มนุษย์ด้วย~ แต่เป็นจักรกลต่างหากล่ะ</Content>
         </Dialog>
         <Dialog ID="123" Model="미카">
-          <Teller>Mika</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>มิกะ</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika18</VoiceFile>
-          <Content>Let’s not anger her now. We’ll just take the books listed on the invitation and leave, okay?</Content>
+          <Content>เราอย่าไปยั่วโมโหเธอเลยดีกว่า เราแค่รีบไปรับหนังสือที่เขียนไว้แล้วรีบกลับกันดีกว่าใหม?</Content>
         </Dialog>
         <Dialog ID="124" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga36</VoiceFile>
-          <Content>Let’s be blunt, lassie. You know what relationships the Library has with L Corp, donchya?</Content>
+          <Content>ขอถามตรงๆเลยนะ เพื่อนสาว หล่อนน่ะรู้ความเชื่อมโยงระหว่างห้องสมุดนี่กับแอล คอร์ปใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="125" Model="올가">
-          <Teller>Olga</Teller>
-          <Title>Molar Operator</Title>
+          <Teller>โอลก้า</Teller>
+          <Title>โมลาร์โอเปอเรเตอร์r</Title>
           <VoiceFile>ch3_Molar_ep1_olga37</VoiceFile>
-          <Content>Myo says the fact you’re in the Library is indisputable evidence that this place is related to L Corp somehow or another.</Content>
+          <Content>เมียวบอกว่า แค่หล่อนอยู่ที่นี่ก็เป็นหลักฐานที่ดิ้นไม่หลุดแล้วว่าที่นี่ต้องเกี่ยวข้องกับแอล คอร์ปไม่ทางใดก็ทางหนึงแน่ๆ</Content>
         </Dialog>
         <Dialog ID="126" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela13</VoiceFile>
-          <Content>…I’m sure you can find the answer to that in the books you seek.</Content>
+          <Content>…ดิฉันคิดว่าไปหาคำตอบในหนังสือเองดีกว่าค่ะ</Content>
         </Dialog>
         <Dialog ID="127" Model="레인">
-          <Teller>Rain</Teller>
-          <Title>Molar Fixer</Title>
+          <Teller>เรน</Teller>
+          <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain24</VoiceFile>
-          <Content>We’re terribly sorry. We’ll be going in now.</Content>
+          <Content>เราต้องขอโทษด้วย เดี๋ยวเรารีบเข้าไปแล้วครับ</Content>
         </Dialog>
         <Dialog ID="128" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela14</VoiceFile>
-          <Content>May you find your book in this place.</Content>
+          <Content>ขอให้คุณพบหนังสือที่ต้องการ ณ ที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>에피소드1-종료</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+       <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland12</VoiceFile>
-          <Content>Any guesses on why R Corp. cares about this place?</Content>
+          <Content>พอเดาได้ใหมว่าทำไมพวกอาร์ คอร์ปถึงสนใจที่นี่จัง?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela15</VoiceFile>
-          <Content>L Corp. was a major client of R Corp, and it disappeared into thin air, so it’s natural for them to want to look into it.</Content>
+          <Content>แอล คอร์ปเป็นลูกค้ารายใหญ่สำหรับอาร์ คอร์ป แต่แล้วจู่ๆก็หายไปดื้อๆ ไม่แปลกหรอกที่พวกเขาอยากจะตามหา</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland13</VoiceFile>
-          <Content>A major client of R Corp, huh…</Content>
+          <Content>ลูกค้าเจ้าใหญ่สำหรับอาร์ คอร์ปงั้นหรอ…</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland14</VoiceFile>
-          <Content>I guess that makes sense. L Corp. and its Nest weren’t really special in terms of military power. It must have been a very important client for R Corp. if they were asked to protect a whole Nest.</Content>
+          <Content>ก็ฟังขึ้นอยู่นะ แอล คอร์ปกับเนสของพวกเขาไม่ค่อยมีอำนาจทางทหารที่พิเศษอะไร, อาร์ คอร์ปจึงถูกขอให้ปกป้องเนสทั้งแถบแทน สำหรับพวกเขาคงเป็นลูกค้าที่สำคัญมากๆแน่เลย</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela16</VoiceFile>
-          <Content>It was a mutual relationship, too. L Corp. was supplying all the energy R Corp. needed, and W Corp. depended on L Corp’s energy supply as well.</Content>
+          <Content>เราก็แค่พึ่งพาอาศัยกันและกันน่ะ แอล คอร์ปจะจัดส่งพลังงานที่อาร์ คอร์ปต้องการ, และดับเบิ้ลยู คอร์ปก็ต้องการพลังจากแอล คอร์ปเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland15</VoiceFile>
-          <Content>Three Wings in collusion with each other, huh. So much for trickle-down economics.</Content>
+          <Content>วิงส์ทั้ง3วิงส์สมรู้ร่วมคิดกันสินะ คงเป็นเศรษฐกิจแบบไหลรินเลยสิท่า</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela17</VoiceFile>
-          <Content>There’s no use complaining to me. I was simply following my orders.</Content>
+          <Content>บ่นฉันไปก็ไม่ได้อะไรขึ้นมาหรอก ฉันน่ะก็แค่ทำตามคำสั่งที่สั่งไว้เท่านั้น</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland16</VoiceFile>
-          <Content>Yeah. Employees gotta do whatever their boss tells ‘em to do, whether it’s the Wings or the Backstreets.</Content>
+          <Content>ก็จริง พนักงานไม่ว่ามาจากวิงส์หรือแบ็คสตรีทเองก็ต้องทำตามที่หัวหน้าสั่งสินะ</Content>
         </Dialog>
       </Place>
     </Episode>
