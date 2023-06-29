@@ -13,7 +13,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia1-01</VoiceFile>
-          <Content>เทลมา,คุณต้องขอบคุณฉันทั้งหมดที่ทำให้คุณสามารถรักษาตำแหน่งหัวหน้าแผนกใต้ได้ ดังนั้นบางทีคุณควรจะตอบแทนบุญคุณบ้างสิ ถูกไหม?</Content>
+          <Content>เทลมา,คุณต้องขอบคุณฉันทั้งหมดที่ทำให้คุณสามารถรักษาตำแหน่งหัวหน้าแผนกทางใต้ได้ ดังนั้นบางทีคุณควรจะตอบแทนบุญคุณบ้างสิ ถูกไหม?</Content>
         </Dialog>
         <Dialog ID="1" Model="???">
           <Teller>???</Teller>
@@ -2728,7 +2728,7 @@
           <Teller>ซัลวาดอร์</Teller>
           <Title>โอเปอเรเตอร์แห่งรุ่นอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador22</VoiceFile>
-          <Content>มันคือ 'ห้องสมุด' ฉันพยายามติดต่อสำนักงาน Wedge แต่ดูเหมือนว่าพวกเขาจะยุ่งกับงานของตัวเองอยู่</Content>
+          <Content>มันคือ 'ห้องสมุด' ฉันพยายามติดต่อสำนักงาน เวจ แต่ดูเหมือนว่าพวกเขาจะยุ่งกับงานของตัวเองอยู่</Content>
         </Dialog>
         <Dialog ID="50" Model="살바도르">
           <Teller>ซัลวาดอร์</Teller>
@@ -6426,490 +6426,490 @@
     </Episode>
   </Group>
   <Group>
-    <GroupName>Wedge Office</GroupName>
+    <GroupName>สำนักงานเวจ</GroupName>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: Wedge Office</PlaceName>
+        <PlaceName>สถานที่: สำนักงานเวจ</PlaceName>
         <Dialog ID="0" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela1 (2)</VoiceFile>
-          <Content>Help yourself. You’re gonna starve to death if you don’t eat anything.</Content>
+          <Content>นายกินนี้สะ นายจะอดตายถ้าไม่กินอะไรเลย</Content>
         </Dialog>
         <Dialog ID="1" Model="필립">
           <Teller>ฟิลิป</Teller>
           <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip1</VoiceFile>
-          <Content>Thanks for the meal, but… I don’t feel like eating yet…</Content>
+          <Content>ขอบคุณสำหรับอาหารนะครับ แต่…ผมรู้สึกไม่อยากกินอะไรเลยตอนนี้…</Content>
         </Dialog>
         <Dialog ID="2" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela2</VoiceFile>
-          <Content>No wonder, your Office got wiped out. You should harden your heart, still.</Content>
+          <Content>ไม่น่าแปลกใจเลยที่สำนักงานของนายถูกเก็บหมด นายควรทำใจให้เข้มแข็งกว่านี่นะ</Content>
         </Dialog>
         <Dialog ID="3" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip2</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="4" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli1 (2)</VoiceFile>
-          <Content>Do you think it was your fault?</Content>
+          <Content>นายคิดว่าเป็นความผิดของนายอยู่หรอ?</Content>
         </Dialog>
         <Dialog ID="5" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip3-01</VoiceFile>
-          <Content>Yes… Had I stopped them…</Content>
+          <Content>ใช่… ถ้าผมห้ามพวกเขาล่ะก็…</Content>
         </Dialog>
         <Dialog ID="6" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip4</VoiceFile>
-          <Content>Had I been stronger and more mature…</Content>
+          <Content>ถ้าผมเข้มแข็งและเป็นผู้ใหญ่มากกว่านี้อีก…</Content>
         </Dialog>
         <Dialog ID="7" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip5</VoiceFile>
-          <Content>Had I… stayed there and not run away…</Content>
+          <Content>ถ้าผมอยู่ตรงนั้นและไม่หนีไปไหน…</Content>
         </Dialog>
         <Dialog ID="8" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli2 (2)</VoiceFile>
-          <Content>Then it’s your fault.</Content>
+          <Content>ถ้าอย่างนั้นมันเป็นความผิดของนาย</Content>
         </Dialog>
         <Dialog ID="9" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip6-01</VoiceFile>
-          <Content>…Huh?</Content>
+          <Content>…ฮ่ะ?</Content>
         </Dialog>
         <Dialog ID="10" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli3 (2)</VoiceFile>
-          <Content>You were too daft and weak to keep the others safe. It’s your fault that everyone died.</Content>
+          <Content>นายโง่และอ่อนแอเกินไปที่จะปกป้องคนอื่นๆ ให้ปลอดภัย เป็นความผิดของนายที่ทำให้ทุกคนเสียชีวิต</Content>
         </Dialog>
         <Dialog ID="11" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip7-01</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="12" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli4 (2)</VoiceFile>
-          <Content>Feel better now? Think what you want.</Content>
+          <Content>รู้สึกดีขึ้นมั้ย? คิดสิ่งที่นายต้องการก็พอ</Content>
         </Dialog>
         <Dialog ID="13" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli5</VoiceFile>
-          <Content>When something happens, all you gotta do is make up reasons that are convenient to you, no?</Content>
+          <Content>เมื่อมีอะไรเกิดขึ้นสิ่งที่นายควรทำก็คือ สร้างเหตุผลในสิ่งที่นายควรจะทำต่อไปไม่ใช้หรอ?</Content>
         </Dialog>
         <Dialog ID="14" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli6 (2)</VoiceFile>
-          <Content>It’s not like you actually care about the cause; you just want to believe whatever that convinces you.</Content>
+          <Content>นายไม่ได้สนใจสาเหตุจริงๆ แต่นายแค่อยากจะเชื่ออะไรก็ตามที่ทำให้นายสบายใจขึ้นก็เท่านั้น</Content>
         </Dialog>
         <Dialog ID="15" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar1-01</VoiceFile>
-          <Content>Hey, kids. Don’t bully that boy too hard now.</Content>
+          <Content>เฮ้หนูๆ อย่ารังแกเด็กคนนั้นแรงเกินไปสิตอนนี้</Content>
         </Dialog>
         <Dialog ID="16" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela3 (2)</VoiceFile>
-          <Content>I didn’t do anything. It was all Pameli.</Content>
+          <Content>ฉันไม่ได้ทำอะไรเลย พาเมลี่ ทำทั้งหมดตังหาก</Content>
         </Dialog>
         <Dialog ID="17" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar2</VoiceFile>
-          <Content>Alright, Philip. Feeling well enough to talk now?</Content>
+          <Content>อ่า ฟิลิป รู้สึกดีขึ้นพอที่จะพูดคุยตอนนี้ได้รึยัง?</Content>
         </Dialog>
         <Dialog ID="18" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip8</VoiceFile>
-          <Content>Yes. Thank you for your kindness.</Content>
+          <Content>ครับ ขอขอบคุณสำหรับน้ำใจของคุณนะครับ.</Content>
         </Dialog>
         <Dialog ID="19" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela4</VoiceFile>
-          <Content>We are sister Offices, after all. Gotta help each other out.</Content>
+          <Content>เราเป็นสำนักงานที่เป็นพาร์ทเนอร์กัน ก็ต้องช่วยเหลือกันสิ</Content>
         </Dialog>
         <Dialog ID="20" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar3</VoiceFile>
-          <Content>I’m sorry we couldn’t help. We were in the middle of handling a case of the Distortion in the streets of District 12.</Content>
+          <Content>ฉันขอโทษด้วยนะ ที่เราไม่สามารถช่วยได้ตอนนั้น เราอยู่ระหว่างจัดการคดีการบิดเบือนในถนนสาย 12</Content>
         </Dialog>
         <Dialog ID="21" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar4</VoiceFile>
-          <Content>Those victimized by ‘The Eight o'Clock Circus’ held a show of pure insanity and hedonism.</Content>
+          <Content>ผู้ที่ตกเป็นเหยื่อของ 'ละครแปดนาฬิกา' ซึ่งเป็นการแสดงที่วิกลจริตและบ้าคลั่งมาก</Content>
         </Dialog>
         <Dialog ID="22" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar5</VoiceFile>
-          <Content>It was akin to a festival in hell. Gave us quite a bit of trouble.</Content>
+          <Content>มันเหมือนกับเทศกาลในนรก สร้างความลำบากให้เราไม่น้อยเลย</Content>
         </Dialog>
         <Dialog ID="23" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli7</VoiceFile>
-          <Content>I had to get my body replaced, too. This one’s seriously not my style…</Content>
+          <Content>ฉันต้องเปลี่ยนร่างกายด้วย เอาจริงนะร่างนี้ไม่ใช้สไตล์ที่ฉันชอบด้วย…</Content>
         </Dialog>
         <Dialog ID="24" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip9-01</VoiceFile>
-          <Content>…Is that a robotic body? Doesn’t that shape infringe the Ethics Amendment, though?</Content>
+          <Content>…นั่นคือร่างกายหุ่นยนต์หรอ? รูปร่างนั้นไม่ละเมิดกฎจริยธรรมใช้มั้ย?</Content>
         </Dialog>
         <Dialog ID="25" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela5 (2)</VoiceFile>
-          <Content>It’s not mechanical, it’s a clone of my body. I got biological body-recovery insurance some time ago.</Content>
+          <Content>มันเป็นร่างโคลนของฉันเอง ฉันได้ทำประกันการฟื้นฟูร่างกายเมื่อนานมาแล้ว</Content>
         </Dialog>
         <Dialog ID="26" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela6 (2)</VoiceFile>
-          <Content>Pameli’s body was torn apart beyond recovery, so this was the only way we had left for her.</Content>
+          <Content>ร่างของพาเมลี่ถูกฉีกออกจากกันมากเกินกว่าจะฟื้นตัวได้ ดังนั้นนี่จึงเป็นทางเดียวที่เราเหลือไว้ให้เธอเท่านั้น</Content>
         </Dialog>
         <Dialog ID="27" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela7 (2)</VoiceFile>
-          <Content>Her head was thankfully intact. I thought Fixer insurances were a complete robbery, but it did help us out for once.</Content>
+          <Content>โชคดีที่ศีรษะของเธอไม่บุบสลาย ฉันคิดว่าประกันของ ฟิกเซอร์ นี่เป็นการปล้นชัดๆ แต่มันก็ช่วยเราได้ครั้งหนึ่งละกัน</Content>
         </Dialog>
         <Dialog ID="28" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela8</VoiceFile>
-          <Content>Speaking of, doesn’t your Office have any insurance?</Content>
+          <Content>เมื่อพูดถึงสำนักงานของนายไม่มีประกันอะไรเลยหรอ?</Content>
         </Dialog>
         <Dialog ID="29" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip10-01</VoiceFile>
-          <Content>I was a relatively new member at that Office, so I didn’t know that much…</Content>
+          <Content>ผมเป็นสมาชิกที่ค่อนข้างใหม่ในสำนักงานแห่งนั้น ดังนั้นฉันจึงไม่รู้อะไรมากนัก…</Content>
         </Dialog>
         <Dialog ID="30" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela9 (2)</VoiceFile>
-          <Content>Yeah, you’ll want to see if the Office had any. There are many types of insurance with various conditions.</Content>
+          <Content>ใช่ นายควรดูว่าสำนักงานของนายมีอะไรบ้าง มีประกันหลากหลายเงื่อนไขเลยแล</Content>
         </Dialog>
         <Dialog ID="31" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli8</VoiceFile>
-          <Content>It’s nice to have a body again, but why did it have to be this?</Content>
+          <Content>รู้สึกดีที่มีร่างกายอีกครั้ง แต่ทำไมต้องเป็นร่างนี้ด้วย?</Content>
         </Dialog>
         <Dialog ID="32" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela10</VoiceFile>
-          <Content>What? I urgently had body cloning surgery to save you, and this is how you thank me?</Content>
+          <Content>อะไรย่ะ ฉันได้ให้ร่างกายเพื่อผ่าตัดอย่างเร่งด่วนเพื่อช่วยเธอ และนี่คือวิธีที่ขอบคุณฉันเหรอ?</Content>
         </Dialog>
         <Dialog ID="33" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli9 (2)</VoiceFile>
-          <Content>What’s the point? Even just looking at the mirror is discouraging.</Content>
+          <Content>ประเด็นคืออะไรรู้มั้ย? แค่ส่องกระจกก็ท้อใจแล้ว</Content>
         </Dialog>
         <Dialog ID="34" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela13</VoiceFile>
-          <Content>Don’t you dare damage that body.</Content>
+          <Content>เธออย่ากล้าทำความเสียหายกับร่างกายนั้นนะ</Content>
         </Dialog>
         <Dialog ID="35" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela14 (2)</VoiceFile>
-          <Content>You know what, why don’t you just die a permanent death this time? That way you can’t be recovered by any means. You won’t have to pay me for the cloned body then.</Content>
+          <Content>เธอรู้อะไรมั้ย ทำไมเธอไม่ตายอย่างถาวรในครั้งนี้ดูล่ะ ด้วยวิธีนี้เธอก็จะไม่ฟื้นขึ้นมาอีก แถมไม่ต้องจ่ายให้ฉันสำหรับร่างโคลนนั้นอีกด้วย</Content>
         </Dialog>
         <Dialog ID="36" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli10 (2)</VoiceFile>
-          <Content>You asking for a fight?</Content>
+          <Content>อยากมีเรื่องเหรอ?</Content>
         </Dialog>
         <Dialog ID="37" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela15 (2)</VoiceFile>
-          <Content>Yeah, you punk.</Content>
+          <Content>แน่นอน ยัยเตี่ย</Content>
         </Dialog>
         <Dialog ID="38" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar6</VoiceFile>
-          <Content>…You certainly are masterful at making ssanghwa-cha as Salvador said.</Content>
+          <Content>…นายเชี่ยวชาญในการทำ ซังฮวา-ชา อย่างที่ซัลวาดอร์กล่าวไว้เลย</Content>
         </Dialog>
         <Dialog ID="39" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip11-01</VoiceFile>
-          <Content>You flatter me, sir…</Content>
+          <Content>เขินเลยครับ…</Content>
         </Dialog>
         <Dialog ID="40" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar7</VoiceFile>
-          <Content>A penny for your thoughts, Philip. Did ‘The Library’ appear to be related to the Distortion Phenomenon in any way?</Content>
+          <Content>ในความคิดของนาย ฟิลิป 'ห้องสมุด' ดูเหมือนจะเกี่ยวข้องกับปรากฏการณ์บิดเบือนในทางใดทางหนึ่งมั้ย?</Content>
         </Dialog>
         <Dialog ID="41" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip12-01</VoiceFile>
-          <Content>I’m not sure. I haven’t experienced the Distortion myself.</Content>
+          <Content>ผมไม่แน่ใจ ผมไม่เคยเห็นการบิดเบือนด้วยตัวเองมาก่อน</Content>
         </Dialog>
         <Dialog ID="42" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip13-01</VoiceFile>
-          <Content>But that place looked more alien than anything I’ve ever seen.</Content>
+          <Content>แต่เป็นสถานที่ที่ดูแปลกกว่าทุกที่ที่ผมเคยเห็นมาเลย</Content>
         </Dialog>
         <Dialog ID="43" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip14-01</VoiceFile>
-          <Content>And master and seonbae… They got turned into books there…</Content>
+          <Content>และอาจารย์กับซอนเบ… พวกเขาถูกกลายเป็นหนังสือที่นั่นด้วย…</Content>
         </Dialog>
         <Dialog ID="44" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar8-01</VoiceFile>
-          <Content>…That doesn’t help.</Content>
+          <Content>…ไม่ได้ช่วยอะไรเลย</Content>
         </Dialog>
         <Dialog ID="45" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar9-01</VoiceFile>
-          <Content>Several Associations have started keeping an eye on this matter.</Content>
+          <Content>หลายสมาคมเริ่มจับตามองเรื่องนี้แล้ว</Content>
         </Dialog>
         <Dialog ID="46" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar10</VoiceFile>
-          <Content>It’s not just the Associations; even the Wings and the Fingers are clueless about what to make of the Distortion.</Content>
+          <Content>ไม่ใช่แค่สมาคมเท่านั้น แม้แต่วิง และ ฟิงเกอร์ ก็ยังไม่รู้ว่าจะทำอย่างไรกับการบิดเบือนนี่ดี</Content>
         </Dialog>
         <Dialog ID="47" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip15-01</VoiceFile>
-          <Content>Alright…</Content>
+          <Content>ครับ…</Content>
         </Dialog>
         <Dialog ID="48" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar12</VoiceFile>
-          <Content>You don’t seem too interested in the current topic.</Content>
+          <Content>ดูเหมือนนายไม่สนใจหัวข้อปัจจุบันมากเลยนะ</Content>
         </Dialog>
         <Dialog ID="49" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar13-01</VoiceFile>
-          <Content>You must want to forget all this fuss about the Distortion and head right back to the Library and retrieve the books of your colleagues.</Content>
+          <Content>นายต้องลืมเรื่องวุ่นวายเกี่ยวกับการบิดเบือนนี้และมุ่งตรงกลับไปที่ห้องสมุดและรับหนังสือของเพื่อนร่วมงานของนายนะ</Content>
         </Dialog>
         <Dialog ID="50" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip16-01</VoiceFile>
-          <Content>…I wish I could do just that.</Content>
+          <Content>…ผมหวังว่าผมจะทำมันได้</Content>
         </Dialog>
         <Dialog ID="51" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip17-01</VoiceFile>
-          <Content>But my master said to me in his note that I shouldn’t act hastily and instead depend on your aid.</Content>
+          <Content>แต่อาจารย์ของผม บอกผมในบันทึกของเขาว่าผมไม่ควรรีบร้อนและพึ่งพาความช่วยเหลือจากคุณแทน</Content>
         </Dialog>
         <Dialog ID="52" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar14-01</VoiceFile>
-          <Content>That old friend left me with quite the troublesome little fellow…</Content>
+          <Content>เพื่อนเก่าคนนั้นทิ้งฉันไว้กับเพื่อนตัวน้อยที่ค่อนข้างลำบากเชียว…</Content>
         </Dialog>
         <Dialog ID="53" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar15</VoiceFile>
-          <Content>Death is a staple in this business, but his wife and children must be heartbroken still.</Content>
+          <Content>ความตายเป็นเรื่องปกติในธุรกิจนี้ แต่ภรรยาและลูกๆ ของเขาต้องเสียใจแน่</Content>
         </Dialog>
         <Dialog ID="54" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar16-01</VoiceFile>
-          <Content>Have you met them?</Content>
+          <Content>นายได้พบกับพวกเขาหรือยัง?</Content>
         </Dialog>
         <Dialog ID="55" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip18</VoiceFile>
-          <Content>No… I couldn’t visit them yet.</Content>
+          <Content>ไม่ครับ… ผมยังไปเยี่ยมพวกเขาไม่ได้ตอนนี้</Content>
         </Dialog>
         <Dialog ID="56" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar17</VoiceFile>
-          <Content>Why is that?</Content>
+          <Content>ทำไมล่ะ?</Content>
         </Dialog>
         <Dialog ID="57" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip19</VoiceFile>
-          <Content>…I’m too ashamed to face them.</Content>
+          <Content>…ผมไม่มีหน้าพอที่จะไปเผชิญหน้ากับพวกเขา</Content>
         </Dialog>
         <Dialog ID="58" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar18</VoiceFile>
-          <Content>Our next stop will be the Library. Ready your gear.</Content>
+          <Content>จุดต่อไปของเราคือห้องสมุด เตรียมอุปกรณ์ของนายให้พร้อม</Content>
         </Dialog>
         <Dialog ID="59" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip20</VoiceFile>
-          <Content>…Thank you, sir.</Content>
+          <Content>…ขอบพระคุณครับ</Content>
         </Dialog>
         <Dialog ID="60" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar19</VoiceFile>
-          <Content>Don’t mistake this for kindness. We’re simply taking you with us because we were already planning to go there.</Content>
+          <Content>อย่าเข้าใจผิดว่าเราช่วยนายล่ะ เราแค่พานายไปเพราะเราวางแผนที่จะไปที่นั่นอยู่แล้ว</Content>
         </Dialog>
         <Dialog ID="61" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar20-01</VoiceFile>
-          <Content>And this is the least I can do to bear responsibility for my old friend’s death.</Content>
+          <Content>และนี่คือสิ่งที่ฉันทำได้อย่างน้อย ต่อการตายของเพื่อนเก่าของฉัน</Content>
         </Dialog>
         <Dialog ID="62" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar21-01</VoiceFile>
-          <Content>Personally, I’d never let a Fixer like you join my Office. It would give us a bad name.</Content>
+          <Content>โดยส่วนตัวแล้ว ฉันจะไม่ปล่อยให้ฟิกเซอร์อย่างนายเข้าร่วมสำนักงานของฉัน มันจะทำให้เราเสียชื่อ</Content>
         </Dialog>
         <Dialog ID="63" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip21</VoiceFile>
-          <Content>…Is it wrong… Is it so pathetic for me to want to repay the favors of my colleagues, for their sake…?</Content>
+          <Content>…มันผิดเหรอครับ… มันน่าสมเพชขนาดนั้นเลยเหรอที่ผมอยากจะตอบแทนบุญคุณให้พวกเขา…?</Content>
         </Dialog>
         <Dialog ID="64" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip22</VoiceFile>
-          <Content>Everyone says not to act upon attachment, that it’s an unclassy and naive thing to do…</Content>
+          <Content>ใครๆ ก็บอกว่าอย่ายึดติดอะไรมากจนเกินไป นั่นเป็นสิ่งที่ไม่มีชั้นเชิงและดูไร้เดียงสาไม่ควรทำ…</Content>
         </Dialog>
         <Dialog ID="65" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip23-01</VoiceFile>
-          <Content>Can’t we as Fixers… no, as people living in the City, do anything on the behalf of others!!!</Content>
+          <Content>เราในฐานะ ฟิกเซอร์ ไม่สิ คนในเมืองทำไมถึงไม่ทำเพื่อคนอื่นบ้างละครับ!!!</Content>
         </Dialog>
         <Dialog ID="66" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli11 (2)</VoiceFile>
-          <Content>Gosh, you’re insufferable. He didn’t even say that you’re wrong or anything.</Content>
+          <Content>เอ้ย ไม่พอใจอะไร เขายังไม่บอกเลยว่านายผิดอะไรเลย</Content>
         </Dialog>
         <Dialog ID="67" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli12 (2)</VoiceFile>
-          <Content>He just doesn’t want those kinds of Fixers in our Office, simple as that. Don’t be a miserable ass about it.</Content>
+          <Content>เขาไม่ต้องการ ฟิกเซอร์ แบบนายในสำนักงานของเรา ง่ายๆแค่นั้นเอง อย่าร้อนตัวสิ</Content>
         </Dialog>
         <Dialog ID="68" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli13 (2)</VoiceFile>
-          <Content>Nothing is as unreliable as someone who’s easily swayed by their feelings.</Content>
+          <Content>รู้มั้ยคนที่พึ่งพาไม่ได้นะ เป็นคนที่อารมณ์ชักจูงได้ง่ายแบบนายนะ</Content>
         </Dialog>
         <Dialog ID="69" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli14 (2)</VoiceFile>
-          <Content>You want us all to die just so you can fulfill your ideals or what?</Content>
+          <Content>นายต้องการให้เราทุกคนตายเพียงเพื่อให้บรรลุอุดมคติของนายหรือไงกัน?</Content>
         </Dialog>
         <Dialog ID="70" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar22</VoiceFile>
-          <Content>You must be sincerely believing that your actions are for others.</Content>
+          <Content>นายต้องเชื่ออย่างสนิทใจเลยว่าการกระทำของนายนะ ทำเพื่อคนอื่น</Content>
         </Dialog>
         <Dialog ID="71" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar23</VoiceFile>
-          <Content>That you are different from all the other unkind and selfish denizens of this City.</Content>
+          <Content>แล้วบอกว่าตัวเองฉันไม่เหมือนคนอื่นที่เห็นแก่ตัวในเมืองนี้น่ะ</Content>
         </Dialog>
         <Dialog ID="72" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar24</VoiceFile>
-          <Content>Thinking that you are fighting for some higher cause.</Content>
+          <Content>และนายคงคิดว่านายต่อสู่เพื่อสิ่งที่ดีกว่าสินะ</Content>
         </Dialog>
         <Dialog ID="73" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar25</VoiceFile>
-          <Content>But know that those are in fact entirely selfish thoughts.</Content>
+          <Content>แต่จงรู้ไว้ซะว่าแท้จริงแล้วความคิดแบบนั้นนะ เป็นความคิดที่เห็นแก่ตัวโดยสิ้นเชิง</Content>
         </Dialog>
         <Dialog ID="74" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar26</VoiceFile>
-          <Content>It’s the most dangerous kind of selfishness. You deceive yourself into thinking you’re selfless.</Content>
+          <Content>มันเป็นความเห็นแก่ตัวประเภทที่อันตรายที่สุดด้วย นายหลอกตัวเองให้คิดว่านายถูกทั้งที่ผิด</Content>
         </Dialog>
         <Dialog ID="75" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar27-01</VoiceFile>
-          <Content>There can be no such thing as a selfless action for us humans. Even the act of self-sacrifice is ultimately for oneself.</Content>
+          <Content>ไม่มีสิ่งที่เรียกว่าการกระทำที่เสียสละสำหรับมนุษย์หรอก สุดท้ายการเสียสละนั้นก็เพื่อตัวเอง</Content>
         </Dialog>
         <Dialog ID="76" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar28</VoiceFile>
-          <Content>A very dangerous kind of selfishness, one that slowly eats away at your peers and leads them to damnation…</Content>
+          <Content>ดังนั้นสิ่งที่นายเป็นคือความเห็นแก่ตัวประเภทที่อันตรายที่สุด ความเห็นแก่ตัวที่ค่อยๆ กลืนกินคนรอบข้างและนำไปสู่หายนะ…</Content>
         </Dialog>
         <Dialog ID="77" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip24-01</VoiceFile>
-          <Content>I…!</Content>
+          <Content>ผม…!</Content>
         </Dialog>
         <Dialog ID="78" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar29</VoiceFile>
-          <Content>You gave a fine speech, but I must wonder if you’re truly upset for the sake of Salvador and your other late colleagues.</Content>
+          <Content>นายพูดได้ดีแล้ว แต่ฉันคงสงสัยว่านายโกรธอยากจะล้างแค้นเพื่อซัลวาดอร์จริงๆหรือเปล่า และเพื่อนร่วมงานคนอื่นๆ ของนายด้วย</Content>
         </Dialog>
         <Dialog ID="79" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip25-01</VoiceFile>
-          <Content>…I’ll go prepare myself.</Content>
+          <Content>…ฉันจะไปแล้วเตรียมตัวให้พร้อม</Content>
         </Dialog>
       </Place>
       <Place>
@@ -6918,142 +6918,142 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland1</VoiceFile>
-          <Content>That Philip guy seems to be hurt, but I agree with Oscar here.</Content>
+          <Content>ผู้ชายที่ชื่อฟิลิปนั้นดูจะเจ็บปวดหน้าดู แต่ฉันเห็นด้วยกับออสการ์นะ</Content>
         </Dialog>
         <Dialog ID="81" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland2</VoiceFile>
-          <Content>Few things are as dangerous and nasty as selfishness in the guise of “for the sake of someone else”…</Content>
+          <Content>มีไม่กี่อย่างที่อันตรายและน่ารังเกียจเท่ากับความเห็นแก่ตัวที่แสร้งทำเป็น "ทำเพื่อคนอื่น"…</Content>
         </Dialog>
         <Dialog ID="82" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela1</VoiceFile>
-          <Content>I think I know what you mean. The determination to work for the good of others can be a dreadful and loathsome weapon.</Content>
+          <Content>ฉันคิดว่าฉันเข้าใจละ นายหมายถึงอะไร ความมุ่งมั่นที่จะทำเพื่อผู้อื่นอาจเป็นอาวุธที่น่ากลัวและอันตรายสินะ</Content>
         </Dialog>
         <Dialog ID="83" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela2</VoiceFile>
-          <Content>Especially if one strongly believes that the justice they’re pursuing is worth sacrificing for…</Content>
+          <Content>โดยเฉพาะอย่างยิ่งถ้าใครก็ตามที่เชื่ออย่างหนักแน่นว่า ความยุติธรรมที่พวกเขากำลังตามหานั้นมีค่าพอที่เสียสละ…</Content>
         </Dialog>
         <Dialog ID="84" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela3</VoiceFile>
-          <Content>They’re blinded by self-righteousness, and have no regards for their surroundings. They don’t care what happens to others.</Content>
+          <Content>จึงทำให้พวกเขาล้วนหน้ามืดตามัวไปกับความยุติธรรมของพวกเขาเอง และจะไม่สนใจว่าจะเกิดอะไรขึ้นกับคนอื่นรอบข้างยังไงก็ตาม</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela4</VoiceFile>
-          <Content>They justify themselves for pressing forward pursuing their justice, crushing everything in their way…</Content>
+          <Content>พวกเขานั้นอ้างว่าพวกเขาทำเพื่อความยุติธรรม แล้วบดขยี้ทุกสิ่งที่ขวางหน้า…</Content>
         </Dialog>
         <Dialog ID="86" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland3</VoiceFile>
-          <Content>Wow… This might be the first time we understood each other for real. I’m touched, man.</Content>
+          <Content>ว้าว…นี่อาจเป็นครั้งแรกที่เราเข้าใจกันจริงๆ ฉันประทับใจเลย</Content>
         </Dialog>
         <Dialog ID="87" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela5</VoiceFile>
-          <Content>How about some champagne?</Content>
+          <Content>แชมเปญมั้ย?</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="88" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli15</VoiceFile>
-          <Content>Stop frowning already, would you? You’re so annoying.</Content>
+          <Content>หยุดทำหน้าบึ้งได้แล้ว นายน่ารำคาญมากรู้มั้ย</Content>
         </Dialog>
         <Dialog ID="89" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela16</VoiceFile>
-          <Content>He’s still recovering. We should give him some space.</Content>
+          <Content>เขาฟื้นตัวอยู่ เราควรให้เวลาเขาหน่อย</Content>
         </Dialog>
         <Dialog ID="90" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli16</VoiceFile>
-          <Content>Tiny things like this can still affect my psyche.</Content>
+          <Content>เรื่องเล็กๆน้อยๆ แบบนี่มันส่งผลต่อสภาพจิตใจรู้มั้ย</Content>
         </Dialog>
         <Dialog ID="91" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip26</VoiceFile>
-          <Content>…Nevermind. You don’t need to care about me. I’ll try not to be a hindrance.</Content>
+          <Content>…พวกคุณไม่จำเป็นต้องสนใจผม ผมจะพยายามไม่เป็นอุปสรรคละกัน</Content>
         </Dialog>
         <Dialog ID="92" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar30</VoiceFile>
-          <Content>I’ll stab you as soon as I determine that you’re getting in our way.</Content>
+          <Content>ฉันจะแทงนายทันที ถ้านายขวางทางพวกเราจริงๆ</Content>
         </Dialog>
         <Dialog ID="93" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela6</VoiceFile>
-          <Content>Greetings, dear guests. Though, your group seems to be in a rather ill mood?</Content>
+          <Content>สวัสดีแขก กลุ่มของคุณดูไม่ค่อยดีเลย?</Content>
         </Dialog>
         <Dialog ID="94" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar31</VoiceFile>
-          <Content>I thought you were a machine… But could it be that you are partially human?</Content>
+          <Content>ฉันคิดว่าเธอเป็นเครื่องจักร… แต่ดูเหมือนว่าเธอเป็นมนุษย์บางส่วนด้วยนะ?</Content>
         </Dialog>
         <Dialog ID="95" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli17</VoiceFile>
-          <Content>Don’t stare at us so viciously now. We just poked you to make sure, not to kill you or anything.</Content>
+          <Content>อย่าจ้องเราขนาดนั้นสิ เราแค่มองเพื่อตรวจสอบเฉยๆไม่ได้จะฆ่าจะแกงกันเลยนะ</Content>
         </Dialog>
         <Dialog ID="96" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela7</VoiceFile>
-          <Content>How rude. Hasn’t anyone taught you to behave?</Content>
+          <Content>หยาบคาย ไม่มีใครสอนเรื่องมารยาทหรือไง?</Content>
         </Dialog>
         <Dialog ID="97" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela17</VoiceFile>
-          <Content>Hmm, I heard the librarian of this place was supposed to be nice.</Content>
+          <Content>อืมม ฉันได้ยินมาว่าบรรณารักษ์ของที่นี่มารยาทดีกว่านี่นี้น่ะ</Content>
         </Dialog>
         <Dialog ID="98" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela8</VoiceFile>
-          <Content>Someone advised me that there’s no need to be courteous with ill-mannered guests who slap and spit in my face without reason.</Content>
+          <Content>มีคนแนะนำฉันว่าไม่จำเป็นต้องมีมารยาทกับแขกมารยาททรามที่ตบหน้าและถ่มน้ำลายใส่ โดยไม่มีเหตุผล</Content>
         </Dialog>
         <Dialog ID="99" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar32-01</VoiceFile>
-          <Content>I apologize. We couldn’t afford to be polite when our very lives are at risk.</Content>
+          <Content>ขอโทษด้วย เราไม่สามารถสุภาพได้เมื่อชีวิตของเราต้องมาเสี่ยงแบบนี่</Content>
         </Dialog>
         <Dialog ID="100" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela9</VoiceFile>
-          <Content>Oh, really now?</Content>
+          <Content>โอ้ งั้นเหรอ?</Content>
         </Dialog>
         <Dialog ID="101" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli18 (2)</VoiceFile>
-          <Content>This isn’t like what we heard about her at all.</Content>
+          <Content>นี่ไม่เหมือนกับที่เราได้ยินเกี่ยวกับเธอเลย</Content>
         </Dialog>
         <Dialog ID="102" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela18 (2)</VoiceFile>
-          <Content>She must’ve had her own woes.</Content>
+          <Content>เธออาจมีเหตุผลของตัวเองแล</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -7065,19 +7065,19 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland4</VoiceFile>
-          <Content>Whoa… What is up with that Philip kid?</Content>
+          <Content>ว้าว…เกิดอะไรขึ้นกับเจ้าหนุ่มฟิลิปนั้นนะ?</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland5</VoiceFile>
-          <Content>When did he get such a high-performing workshop gear? No, not even the workshops could make equipment as good as that…</Content>
+          <Content>เขาได้รับอุปกรณ์ที่มีประสิทธิภาพสูงขนาดนั้นมาได้ยังไง ขนาดเวิร์กช็อปก็ยังสร้างอุปกรณ์ที่ดีขนาดนั้นไม่ได้ด้วยซ้ำ…</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland6-01</VoiceFile>
-          <Content>This actually… reminds me of that guy…</Content>
+          <Content>อันนี่… ทำให้ฉันนึกถึงคนคนหนึ่ง…</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -7089,85 +7089,85 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela11</VoiceFile>
-          <Content>That appears to be ‘E.G.O’.</Content>
+          <Content>ดูเหมือนจะเป็น ‘E.G.O’.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland7</VoiceFile>
-          <Content>‘E.G.O’? You mean the ego? As in someone’s consciousness?</Content>
+          <Content>‘E.G.O’? เธอหมายถึงอีโกหรอ? ประมาณจิตใต้สำนึกของใครบางคนใช้ไหม?</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela12</VoiceFile>
-          <Content>It’s a silly wordplay. They’re essentially the same thing.</Content>
+          <Content>มันเป็นการเล่นคำที่ดูงี่เง่าดี แต่โดยพื้นฐานแล้วมันน่าจะเป็นสิ่งเดียวกันละมั้ง</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela13</VoiceFile>
-          <Content>The shell of one’s ego. It’s a physical manifestation of the mind.</Content>
+          <Content>มันเป็นเปลือกของจิตใต้สำนึก เป็นการก่อตัวของจิตใต้สำนึกให้ออกมาเป็นรูปร่าง</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland8</VoiceFile>
-          <Content>What?! The mind? Physically brought about? That sounds too vague to be a real thing that could happen.</Content>
+          <Content>จิตใต้สำนึกก่อตัวเป็นรูปร่าง อะไรเนีย? นั่นฟังดูคลุมเครือเกินไปในการตัดสินใจว่าเป็นเรื่องจริงหรือไม่</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela14</VoiceFile>
-          <Content>It was the Singularity of L Corp, although the process was different…</Content>
+          <Content>มันก็มี ซิงกูลาริตี้ ของ L Corp แม้ว่ากระบวนการจะแตกต่างออกไปก็ตาม…</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela15</VoiceFile>
-          <Content>While L Corp. extracted E.G.O deliberately, Philip must have manifested his thanks to the influence of the White Nights and Dark Days.</Content>
+          <Content>ในขณะที่ L Corp ต้องสกัด E.G.O อย่างรอบคอบ แต่ฟิลิปสามารถสำแดงออกมาเองเลยจากอิทธิพลของ ราตรีสีขาว และทิวาสีดำ</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela16</VoiceFile>
-          <Content>Yeah, I understand somewhat now.</Content>
+          <Content>นั้นแล ฉันแค่เข้าใจบ้างส่วนตอนนี่</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland9</VoiceFile>
-          <Content>Put the brakes on your train of thought for a moment… You mean anyone can just extract powerful equipment like that from their mind, free of charge?</Content>
+          <Content>หยุดเลย เธอจะบอกว่าใครๆ ก็สามารถดึงอุปกรณ์ที่ทรงพลังขนาดนั้นออกมาจากจิตใต้สำนึกได้อย่างงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela17</VoiceFile>
-          <Content>Don’t rush me. This is also my first time seeing it manifest this way.</Content>
+          <Content>อย่าเร่งรัดฉันสิ นี่ก็เป็นครั้งแรกที่ฉันเห็นมันแสดงออกมาด้วยวิธีนี้เหมือนกัน</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela18</VoiceFile>
-          <Content>If you were so curious, you shouldn’t have let him get away.</Content>
+          <Content>หากนายอยากรู้อยากเห็นมาก ทำไมนายถึงปล่อยให้เขาหนีไปได้ล่ะ</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland10</VoiceFile>
-          <Content>Sigh~ I didn’t know that coot would put that kinda device on him… Old Man Oscar’s still not honest to himself.</Content>
+          <Content>เฮ้อ~ ฉันไม่รู้นิว่าไอ้โง่นั้นจะเอาอุปกรณ์แบบนั้นมาใส่… ตาแก่ออสการ์ยังคงไม่ซื่อสัตย์กับตัวเองเหมือนเดิม</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela19</VoiceFile>
-          <Content>You seem to have a number of old friends.</Content>
+          <Content>นายดูเหมือนจะมีเพื่อนเก่าหลายคนเลยนะ</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland11</VoiceFile>
-          <Content>Well, yeah. They’re seasoned veterans with mountains of experience. It’s hard not to run into ‘em at least once or twice as a Fixer, y’know?</Content>
+          <Content>ก็พวกเขาเป็นทหารผ่านศึกที่มากประสบการณ์ มันไม่แปลกเลยที่จะเจอพวกเขาอย่างน้อยหนึ่งหรือสองครั้งในฐานะฟิกเซอร์ เธอเข้าใจใช้ไหม?</Content>
         </Dialog>
       </Place>
     </Episode>
