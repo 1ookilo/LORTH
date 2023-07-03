@@ -3,12 +3,12 @@
   <GroupName>Gaze Office</GroupName>
   <Character ID="Alloc">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">ถึงเวลาพิน์มูลค่าคุณค่า ว่ามันจะแพงสักแค่ไหน</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ถึงเวลาพิสูจน์คุณค่าตัวเอง ว่ามันจะแพงสักแค่ไหน</BattleDialog>
       <BattleDialog ID="START_BATTLE_1">ฉันมั้นใจเลยละ… ว่ามันคงจะยากที่จะวิเคราะที่นี้</BattleDialog>
       <BattleDialog ID="START_BATTLE_2">เราไม่ควรผลีผลามเกินไป เราควรสังเกตุรูปแบบการโจมตีศัตรูก่อน…</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">สู้แล้วสึกมีเกียรติ มากกว่าการมานั้งรวบข้อมูลเสียอีก</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">สู้แล้วรู้สึกมีเกียรติ มากกว่าการที่มานั้งรวบข้อมูลเสียอีก</BattleDialog>
       <BattleDialog ID="BATTLE_VICTORY_1">แต่ละคนได้รับความเสียหายขนาดไหน อย่าลืมตรวจสอบละ</BattleDialog>
     </Type>
     <Type ID="DEATH">
@@ -28,19 +28,19 @@
   <Character ID="Dalloc">
     <Type ID="START_BATTLE">
       <BattleDialog ID="START_BATTLE_0">ระวังด้วย ฉันไม่สามารถประเมินระดับพลังของพวกมันได้</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">มองไปข้างหน้าสิ หากนายมียังเวลามาบ่นอยู่</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">มองไปข้างหน้าสิ หากนายมียังเวลามาบ่นอยู่นะ</BattleDialog>
       <BattleDialog ID="START_BATTLE_2">คอยดูการเคลื่อนไหวของศัตรูเอาไว้ด้วย</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
       <BattleDialog ID="BATTLE_VICTORY_0">ฉันหวังว่าสิ่งนี้จะช่วยเราในการค้นหา ซิงกูลาริตี้</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">ฉันได้รับความเสียหายเล็กน้อย แต่น่าจะปัญหาอะไรในการเคลื่อนไหว</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">ฉันได้รับความเสียหายเล็กน้อย แต่น่าจะไม่มีปัญหาอะไรในการเคลื่อนไหว</BattleDialog>
     </Type>
     <Type ID="DEATH">
       <BattleDialog ID="DEATH_0">ไม่… ความสียหายมันมากเกินไป ฉันไม่สามารถขยับร่างกายได้แล้ว…</BattleDialog>
       <BattleDialog ID="DEATH_1">ฉันเริ่มมองอะไรไม่เห็นแล้ว หวังว่านี้จะเกิดแค่กับกล้องฉันนะ…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">นี้มันเริ่มแย่แล้ว… ชิ้นส่วนร่างกายของฉันมันก็เริ่มไม่ไหวแล้ว</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">นี้มันเริ่มแย่แล้ว… ชิ้นส่วนร่างกายของฉันเองมันก็เริ่มไม่ไหวแล้ว</BattleDialog>
       <BattleDialog ID="COLLEAGUE_DEATH_1">เราเจอกับความเสียหายครังใหญ่แล้ว</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
