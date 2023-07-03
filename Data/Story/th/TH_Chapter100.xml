@@ -151,7 +151,7 @@
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep1_malkuth12</VoiceFile>
-          <Content>พวกเราบรรณารักษ์จะอ่านหนังสือที่เก็บรวบรวมไว้ เพื่อทำให้ชั้นที่เราประจำอยู่ค่อยๆถูกเติมเต็มและตัวมันเอง เป็นส่วนเสริมทำให้ห้องสมุดนี้สมบูรณ์</Content>
+          <Content>พวกเราบรรณารักษ์จะอ่านหนังสือที่เก็บรวบรวมไว้ เพื่อทำให้ชั้นที่เราประจำอยู่ ค่อยๆถูกเติมเต็มและตัวมันเอง เป็นส่วนเสริมทำให้ห้องสมุดนี้สมบูรณ์</Content>
         </Dialog>
         <Dialog ID="24" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -181,7 +181,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep1_roland10</VoiceFile>
-          <Content>ฉันค่อนข้างกังวลว่าอาจต้อง ได้รับผลกระทบจากความพิโรธนั้นไปด้วย</Content>
+          <Content>ฉันค่อนข้างกังวลว่าอาจต้องได้รับ ผลกระทบจากความพิโรธนั้นไปด้วย</Content>
         </Dialog>
         <Dialog ID="29" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -247,7 +247,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland3</VoiceFile>
-          <Content>เออใช่ ฉันจำได้ว่าแองเจล่าเคยพูดบางอย่าง เกี่ยวกับกับเธอว่า "การได้ร่างกาย" ในครั้งล่าสุดที่เราเจอกัน</Content>
+          <Content>เออใช่ ฉันจำได้ว่าแองเจล่าเคยพูดบางอย่าง เกี่ยวกับกับเธอว่า "การได้ร่างกายของเธอ" ในครั้งล่าสุดที่เราเจอกัน</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -307,7 +307,7 @@
           <Teller>มัลคุท</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth6</VoiceFile>
-          <Content>…ใช่ ฉันก็สงสัยนะ ในอดีตที่ผ่านมา ฉันเป็นอะไรกันแน่?</Content>
+          <Content>…อืม ฉันก็สงสัยนะ ในอดีตที่ผ่านมา ฉันเป็นอะไรกันแน่?</Content>
         </Dialog>
         <Dialog ID="15" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -2656,7 +2656,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Yesod_ep2_roland12</VoiceFile>
-          <Content>เรียกว่าเป็นสัญชาตญาณของการอยู่รอดทั้งคราบน้ำตา ของชายผู้จนๆที่น่าสมเพชยังไงเล่าเพื่อน?</Content>
+          <Content>เรียกว่าเป็นสัญชาตญาณของการอยู่รอดทั้งคราบน้ำตา ของผู้ชายจนๆที่น่าสมเพชยังไงเล่าเพื่อน?</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -4542,7 +4542,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland8</VoiceFile>
-          <Content>ปัญหาทั้งหมดเนี้ยพอจะมีวิธีแก้ไขบ้างไหม?</Content>
+          <Content>ปัญหาทั้งหมดเนี้ยพอจะมีวิธีแก้ไขบ้างไหมนะ?</Content>
         </Dialog>
         <Dialog ID="13" Model="호드">
           <Teller>โฮด</Teller>
@@ -7413,49 +7413,49 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland1</VoiceFile>
-          <Content>Sir, you gotta wake up~ You’re gonna get sick if you sleep on the floor~</Content>
+          <Content>คุณเน็ตซัคครับ ตื่นเถอะครับ~ ถ้าคุณนอนบนพื้นอาจทำให้คุณเป็นหวัดเอานะครับ~</Content>
         </Dialog>
         <Dialog ID="1" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach1</VoiceFile>
-          <Content>(Netzach once again casts a glimpse at Roland while still lying on the floor, before turning back again.)</Content>
+          <Content>(เน็ตซัคเหลือบมองโรแลนด์ครั้งหนึง ในขณะที่ยังคงนอนอยู่กับพื้น ก่อนที่จะหันกลับไปนอนต่อ)</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland2</VoiceFile>
-          <Content>This smell… And this thing rolling around on the floor… Don’t tell me…</Content>
+          <Content>กลิ่นแบบนี้… แล้วไอ้สิ่งที่กลิ้งอยู่รอบๆพื้นนั้น… อย่าบอกนะว่า…</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland3</VoiceFile>
-          <Content>…A beer can. Where the heck did you get this?</Content>
+          <Content>…กระป๋องเบียร์ นายไปทำบ้าอีท่าไหนถึงได้มันมาละเนี้ย?</Content>
         </Dialog>
         <Dialog ID="4" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach2</VoiceFile>
-          <Content>This is the Library, Roland. Constructed from the light of possibilities. Anything’s possible as long as you’ve got the book.</Content>
+          <Content>เนี้ยมันห้องสมุดนะโรแลนด์ ถูกสร้างขึ้นมาจากแสงแห่งความเป็นไปได้ ทุกอย่างล้วนมีความเป็นไปได้ตราบใด ที่นายมีหนังสืออยู่ในมือ ฮึก</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland4</VoiceFile>
-          <Content>Uh… Are you sure you’re sorting the books well? You seemed okay at receiving guests, at least.</Content>
+          <Content>เอ่อ… นายแน่ใจไหมว่านายจัดเรียงหนังสือได้อยู่น่ะ? อย่างน้อยดูเหมือนว่านายจะพอโอเค รับมือกับแขกได้อยู่หรอกนะ</Content>
         </Dialog>
         <Dialog ID="6" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach3</VoiceFile>
-          <Content>(He nods to the pile of books next to him.)</Content>
+          <Content>(เขาผงกหัวไปที่กองหนังสือข้างๆ)</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland5</VoiceFile>
-          <Content>Really, you sorted them all? Lemme see, that’s… The books are almost randomly scattered across the floor. I don’t think that counts as sorting…</Content>
+          <Content>จริงอ่ะ นายเรียงทั้งหมดแล้วจริงดิ? ให้ฉันดูหน่อย… อืม… หนังสือกระจายอยู่บนพื้นเกือบทั้งหมด ฉันไม่คิดว่านั่นนับเป็นการจัดเรียงหรอกนะ…</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
@@ -7467,169 +7467,169 @@ I appreciate your help, everyone.</Content>
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach5</VoiceFile>
-          <Content>Here, have a drink.</Content>
+          <Content>เอ้า ดื่มดิ</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland6</VoiceFile>
-          <Content>Hehey, you’ve got manners at least. Well, lemme take a sip if you insist.</Content>
+          <Content>เฮ่เฮ้ฮะฮา อย่างน้อยนายก็มีมารยาทอยู่นะเนี้ย เอาล่ะ จิบสักหน่อยถ้านายยืนกรานอย่างนั้นนะ</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland7</VoiceFile>
-          <Content>Kyah~ Never guessed I’d get the chance to drink beer in this place.</Content>
+          <Content>ว้าว~ ไม่เคยคิดเลยว่าจะมีโอกาสได้ดื่มเบียร์ในที่แบบนี้นะ</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland8</VoiceFile>
-          <Content>Boy, how I missed this sparkling softness.</Content>
+          <Content>เพื่อนเอ้ย ฉันคิดถึงแกเหลือเกิน รสชาติที่นุ่มลึกและสดชื่นแบบนี้</Content>
         </Dialog>
         <Dialog ID="13" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach6</VoiceFile>
-          <Content>Good stuff, ey?</Content>
+          <Content>ของดีใช่มั้ยล่า?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland9</VoiceFile>
-          <Content>It sure is, brother.</Content>
+          <Content>แน่นอนเลยว่ะเพื่อน</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland10</VoiceFile>
-          <Content>So, how’s work been going?</Content>
+          <Content>แล้ว งานเป็นไงบ้าง?</Content>
         </Dialog>
         <Dialog ID="16" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach7</VoiceFile>
-          <Content>It’s been going, somehow.</Content>
+          <Content>มันก็กำลังดำเนินอยู่ ไม่ทางใดก็ทางหนึ่งละนะ</Content>
         </Dialog>
         <Dialog ID="17" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach8</VoiceFile>
-          <Content>Not that I’m satisfied with it, though.</Content>
+          <Content>แม้จะไม่พอใจอยากทำกับมันก็ตาม</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland11</VoiceFile>
-          <Content>What’s your biggest complaint at the moment, then?</Content>
+          <Content>นายมีอะไรอยากบ่นในช่วงนี้มากที่สุดล่ะ?</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach9</VoiceFile>
-          <Content>That I have to take someone else’s life with my hands.</Content>
+          <Content>ก็คงเป็น ที่ฉันต้องไปเอาชีวิตของคนอื่น ด้วยมือของฉันเองเนี้ยแหละ</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland12</VoiceFile>
-          <Content>But it’s either you or them, ain’t it?</Content>
+          <Content>แต่เรื่องนั้นก็คือต้องเลือกระหว่าง นายหรือพวกเขาแหละล่ะนะ?</Content>
         </Dialog>
         <Dialog ID="21" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach10</VoiceFile>
-          <Content>That’s why I have to fight. And that’s what I don’t like about it.</Content>
+          <Content>นั้นแหละคือเหตุผลที่ว่าฉันต้องสู้ไง และนั้นมันเป็นอะไรที่ฉันไม่ชอบเลย</Content>
         </Dialog>
         <Dialog ID="22" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach11</VoiceFile>
-          <Content>I’ll probably hafta kill even more people as time goes by.</Content>
+          <Content>เมื่อเวลาผ่านไปฉันอาจจะฆ่าคนมากขึ้นอีกกว่านี้ก็ได้</Content>
         </Dialog>
         <Dialog ID="23" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach12</VoiceFile>
-          <Content>Doesn’t matter if it’s a saint or the scum of the earth. Everyone wants to live all the same.</Content>
+          <Content>ไม่ว่าเขาจะเป็นคนบริสุทธิ์หรือคนเลวร้ายแค่ไหน ทุกคนล้วนต้องการที่จะมีชีวิตอยู่กันทั้งนั้น</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland13</VoiceFile>
-          <Content>I’m picking up what you’re puttin’ down.</Content>
+          <Content>ฉันเข้าใจสิ่งที่นายกำลังพูดอยู่นะ</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland14</VoiceFile>
-          <Content>But it’s no different out there, really. People all hurt and kill others because they don’t wanna be hurt themselves.</Content>
+          <Content>แต่เอาจริงๆ โลกข้างนอกก็ไม่ต่างกันหรอกนะ ทุกคนยอมทำร้ายและเข่นฆ่าผู้อื่น เพียงเพราะพวกเขาไม่อยากถูกทำร้ายเองนั้นแหละ</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland15</VoiceFile>
-          <Content>Take others’ lives so you can keep yours. Bit too obvious, maybe?</Content>
+          <Content>เอาชีวิตผู้อื่นมาแลกกับชีวิตของตัวเอง ออกจะชัดเจนดีอยู่แล้วไม่ใช่หรอ?</Content>
         </Dialog>
         <Dialog ID="27" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach13</VoiceFile>
-          <Content>I guess that’s how things were in the outside world.</Content>
+          <Content>ฉันเดาว่าน่าจะเป็นแบบนั้นในโลกข้างนอกนะ</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland16</VoiceFile>
-          <Content>Where are you from, by the way? The Nest? The Backstreets?</Content>
+          <Content>แล้วนายมาจากไหนหรอ? เดอะเนส? หรือว่า แบ็คสตรีท?</Content>
         </Dialog>
         <Dialog ID="29" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach14</VoiceFile>
-          <Content>Dunno, I’m feeling tipsy. All I remember for sure is that I worked at Lobotomy Corp.</Content>
+          <Content>ไม่รู้สินะ ฉันรู้สึกเมานิดหน่อย ฉันจำได้แค่ว่าฉันทำงานที่บริษัทโลโบโทมี่</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland17</VoiceFile>
-          <Content>Must’ve been in a pretty sweet spot, working in a megacorp like that.</Content>
+          <Content>คงต้องเป็นสถานที่ที่ดีมากเลย ได้ทำงานในบริษัทขนานใหญ่เบอร์นั้น</Content>
         </Dialog>
         <Dialog ID="31" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach15</VoiceFile>
-          <Content>You really think so?</Content>
+          <Content>นายคิดแบบนั้นจริงหรอ?</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland18</VoiceFile>
-          <Content>Duh, of course. People are bound to envy anyone who gets to join a Wing. They give a lot of cash, welfare’s nice, and you gain social status too.</Content>
+          <Content>ก็แหงดิ ของมันแน่อยู่แล้ว ผู้คนมักอิจฉาใครก็ตามที่ได้เข้าทำงานกับวิง พวกเขามอบเงินเดือนที่มากมาย สวัสดีการเยี่ยม และนายยังได้เพิ่มสถานะทางสังคมอีกด้วย</Content>
         </Dialog>
         <Dialog ID="33" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach16</VoiceFile>
-          <Content>Yeah. That’s what they always say.</Content>
+          <Content>ใช่ นั้นเป็นสิ่งที่พวกเขามักจะพูดกันเสมอ</Content>
         </Dialog>
         <Dialog ID="34" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach17</VoiceFile>
-          <Content>Let’s just forget about all that for now and drink some more.</Content>
+          <Content>ลืมเรื่องพวกนั้นไปก่อน แล้วมาดื่มต่อกันเถอะ</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland19</VoiceFile>
-          <Content>Alright! Gotta drink while I can.</Content>
+          <Content>โอเค! ต้องดื่มให้สุดในขณะที่ยังมีโอกาสให้ดื่มละนะ</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>อำนวยการห้องสมุด</Title>
           <VoiceFile>ch8_Netzach_ep2_angela1</VoiceFile>
-          <Content>…You’ve got to be kidding.</Content>
+          <Content>…เฮอ พวกนายกำลังล้อเล่นกันอยู่สินะ</Content>
         </Dialog>
       </Place>
     </Episode>
