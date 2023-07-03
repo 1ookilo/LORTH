@@ -1775,7 +1775,7 @@
         </Dialog>
         <Dialog ID="13" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_Eilin_1</VoiceFile>
           <Content>นายเคยนำละครสัตวในเต็นท์เล็กๆ นั่นมานาน…</Content>
         </Dialog>
@@ -1811,7 +1811,7 @@
         </Dialog>
         <Dialog ID="19" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_Eilin_2</VoiceFile>
           <Content>ฉันก็รู้สึกแบบเดียวกัน… ท่านอาร์กาเลียได้ให้การหลุดพ้นแก่เรา</Content>
         </Dialog>
@@ -2315,7 +2315,7 @@
         </Dialog>
         <Dialog ID="103" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_Eilin_3</VoiceFile>
           <Content>คุณแองเจล่าผู้น่าสงสาร… เธอยังมืดบอดต่อความจริงได้อย่างไร…</Content>
         </Dialog>
@@ -2345,7 +2345,7 @@
         </Dialog>
         <Dialog ID="108" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_Eilin_4</VoiceFile>
           <Content>และการอาอะวาดไม่เลือกหน้านั่น… โดนพวกเราทุกคน</Content>
         </Dialog>
@@ -2621,7 +2621,7 @@
         </Dialog>
         <Dialog ID="154" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_Eilin_5</VoiceFile>
           <Content>ขอบคุณ… สำหรับการเปิดทางให้เราสามารถ can reach salvation…</Content>
         </Dialog>
@@ -2942,27 +2942,27 @@
         <PlaceName>Location: The Library - Floor of Technological Sciences</PlaceName>
         <Dialog ID="0" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_1</VoiceFile>
-          <Content>I can hear the sound of gears turning in this place.</Content>
+          <Content>ฉันได้ยินเสียงฟันเฟืองหมุนในที่แห่งนี้</Content>
         </Dialog>
         <Dialog ID="1" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_1</VoiceFile>
-          <Content>Greetings.</Content>
+          <Content>ขอต้อนรับ</Content>
         </Dialog>
         <Dialog ID="2" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_2</VoiceFile>
-          <Content>Hello. My name is อีลีน.</Content>
+          <Content>สวัสดีค่ะ ดิฉันชื่ออีลีน</Content>
         </Dialog>
         <Dialog ID="3" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_3</VoiceFile>
-          <Content>Let us greet them, everyone.</Content>
+          <Content>มาทักทายเขาหน่อย ทุกคน</Content>
         </Dialog>
         <Dialog ID="4" Model="예소드">
           <Teller>Yesod</Teller>
@@ -2972,141 +2972,141 @@
         </Dialog>
         <Dialog ID="5" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_4</VoiceFile>
-          <Content>The sound made by the gears of this place isn’t so graceful.</Content>
+          <Content>เสียงจากฟันเฟืองของที่นี่ไม่ค่อยนุ่มนวลเท่าไหร่นะคะ</Content>
         </Dialog>
         <Dialog ID="6" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_5</VoiceFile>
-          <Content>However, all sound that intermeshed gears produce is a pleasure to hear nonetheless.</Content>
+          <Content>แต่ยังไง ทุกเสียงที่เฟืองกระทบกันก็ย่อมรื่นหูอยู่วันยังค่ำ</Content>
         </Dialog>
         <Dialog ID="7" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_3</VoiceFile>
-          <Content>Is that so. I find it rather irritating at times.</Content>
+          <Content>อย่างงั้นเหรอ ผมเห็นว่ามันน่ารำคาญเป็นบางครั้งนะ</Content>
         </Dialog>
         <Dialog ID="8" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_4</VoiceFile>
-          <Content>Some of the gears on our floor don’t quite mesh well together, which can produce a loud noise.</Content>
+          <Content>เฟืองบนชั้นของเรานั้นต่อเข้าไม่ค่อยเข้ากันเท่าไหร่ ทำให้เกิดเสียงดังหนวกหู</Content>
         </Dialog>
         <Dialog ID="9" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_6</VoiceFile>
-          <Content>To me, the gears here don’t sound so happy.</Content>
+          <Content>สำหรับฉันแล้ว เฟืองที่นี่ฟังดูไม่ค่อยมีความสุขนะคะ</Content>
         </Dialog>
         <Dialog ID="10" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_7</VoiceFile>
-          <Content>Ahh… And yet, their beautiful collaborative struggle to transmit a larger force…</Content>
+          <Content>อ่าา… แต่ทว่า การร่วมกันดิ้นรนอันสวยงามเพื่อส่งแรงที่มากกว่านั้น…</Content>
         </Dialog>
         <Dialog ID="11" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_8</VoiceFile>
-          <Content>Can I… think of you to be a similar being as us?</Content>
+          <Content>ให้ฉัน… ถือว่าคุณเป็นสิ่งแบบเดียวกันกับเราได้ไหม?</Content>
         </Dialog>
         <Dialog ID="12" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_5</VoiceFile>
-          <Content>I doubt that. I do not quite understand how the gears that rotate here can be likened to yours.</Content>
+          <Content>ผมไม่มั่นใจเท่าไหร่นะ ผมไม่เข้าใจว่าพวกเฟืองที่หมุนอยู่ที่นี่จะเหมือนกับของเธอได้อย่างไร</Content>
         </Dialog>
         <Dialog ID="13" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_9</VoiceFile>
-          <Content>That is because you’re denying the gears.</Content>
+          <Content>นั่นเพราะว่าคุณกำลังปฏิเสธเหล่าเฟืองอยู่</Content>
         </Dialog>
         <Dialog ID="14" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_10</VoiceFile>
-          <Content>One must admit that they’re but a cogwheel, and rotate according to their purpose.</Content>
+          <Content>หนึ่งต้องยอมรับว่าตัวเขานั้นเป็นแค่ฟันเฟือง และหมุนไปตามเจตจำนงของพวกเขา</Content>
         </Dialog>
         <Dialog ID="15" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_11</VoiceFile>
-          <Content>I can help you with that.</Content>
+          <Content>ฉันช่วยคุณเรื่องนั้นได้</Content>
         </Dialog>
         <Dialog ID="16" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_6</VoiceFile>
-          <Content>With due respect miss, I decline. I have already found my purpose, and am running fine.</Content>
+          <Content>ด้วยความเคารพ คุณผู้หญิง ผมขอปฏิเสธ ผมพบเจตจำนงของผมแล้ว และผมนั้นอยู่สบายดี</Content>
         </Dialog>
         <Dialog ID="17" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_12</VoiceFile>
-          <Content>It’s not right for one to spin alone.</Content>
+          <Content>มันไม่ถูกที่หนึ่งจะหมุนเพียงลำพัง</Content>
         </Dialog>
         <Dialog ID="18" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_13</VoiceFile>
-          <Content>As my father led me to my savior as a gear… You can become a genuine gear, and rotate according to his purpose.</Content>
+          <Content>ดั่งที่พ่อของฉันนำฉันสู่ผู้กอบกู้ในฐานะเฟือง… คุณก็สามารถเป็นเฟืองอย่างแท้จริงได้ และหมุนไปตามเจตจำนงของท่านผู้นั้น</Content>
         </Dialog>
         <Dialog ID="19" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_7</VoiceFile>
-          <Content>I follow no one’s commands.</Content>
+          <Content>ผมไม่อยู่ใต้คำสั่งใครทั้งนั้น</Content>
         </Dialog>
         <Dialog ID="20" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_8</VoiceFile>
-          <Content>I am not like you, who followed your gears.</Content>
+          <Content>ผมไม่เหมือนเธอ ที่เอาแต่ตามเฟืองของเธอ</Content>
         </Dialog>
         <Dialog ID="21" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_14</VoiceFile>
-          <Content>Yet your expression tells me that you haven’t found an answer.</Content>
+          <Content>แต่สีหน้าคุณบอกฉันว่าคุณก็ยังไม่เจอคำตอบนะคะ</Content>
         </Dialog>
         <Dialog ID="22" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_15</VoiceFile>
-          <Content>You are making a sorrowful face. You’re in pain… You must’ve suffered just like I have.</Content>
+          <Content>คุณกำลังทำหน้าหม่นหมอง คุณกำลังเจ็บปวด… คุณต้องเคยทรมานอย่างที่ฉันเป็นแน่</Content>
         </Dialog>
         <Dialog ID="23" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_16</VoiceFile>
-          <Content>Had you become a gear and rolled along, you would’ve been filled with bliss, rather than pain…</Content>
+          <Content>ถ้าคุณเป็นเฟืองและหมุนตามกันไป คุณคงเปื่ยมไปด้วยความสุข มิใช่ความเจ็บปวด…</Content>
         </Dialog>
         <Dialog ID="24" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_17</VoiceFile>
-          <Content>Why won’t you see? You are no different from us.</Content>
+          <Content>คุณไม่เห้นเหรอคะ? คุณนั้นไม่ต่างจากเรา.</Content>
         </Dialog>
         <Dialog ID="25" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_18</VoiceFile>
-          <Content>Cease your suffering, and accept the gear.</Content>
+          <Content>หยุดความทรมานของคุณ และยอมรับเฟืองซะ</Content>
         </Dialog>
         <Dialog ID="26" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_19</VoiceFile>
-          <Content>Walk the path of the gears.</Content>
+          <Content>เดินเข้าสู่เส้นทางแห่งฟันเฟือง</Content>
         </Dialog>
         <Dialog ID="27" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_9</VoiceFile>
-          <Content>You speak as if you know all about me.</Content>
+          <Content>เธอพูดดั่งกับว่าเธอรู้ทุกอย่างเกี่ยวกับผม</Content>
         </Dialog>
         <Dialog ID="28" Model="예소드">
           <Teller>Yesod</Teller>
@@ -3118,55 +3118,55 @@
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_11</VoiceFile>
-          <Content>I’ve long put the past behind me.</Content>
+          <Content>ผมทิ้งอดีตไว้เบื้องหลังผมไปนานแล้ว</Content>
         </Dialog>
         <Dialog ID="30" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_12</VoiceFile>
-          <Content>If I let my emotions blur my rational judgement, I won’t be able to act with discretion and distinction.</Content>
+          <Content>ถ้าผมปล่อยให้อารมณ์บดบังการตัดสินใจอันมีเหตุผลของตัวเอง ผมจะไม่สามารถกระทำการด้วยดุลพินิจและความพิเศษได้</Content>
         </Dialog>
         <Dialog ID="31" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_20</VoiceFile>
-          <Content>Just look at us. Don’t we look so blissful?</Content>
+          <Content>แค่ดูเราสิ เราไม่ดูมีความสุขงั้นเหรอ?</Content>
         </Dialog>
         <Dialog ID="32" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_21</VoiceFile>
-          <Content>A gear with a purpose is content, for its rotation has meaning.</Content>
+          <Content>เฟืองที่มีเจตจำนงนั้นสุขี เพราะทุกการหมุนนั้นมีความหมาย</Content>
         </Dialog>
         <Dialog ID="33" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_22</VoiceFile>
-          <Content>Humans are cogs in the machination that is the City. Someone has to make those cogs turn.</Content>
+          <Content>มุนษย์คือฟันเฟืองในเครื่องจักรที่เรียกว่านคร มันต้องมีคนหมุนฟันเฟืองพวกนั้น</Content>
         </Dialog>
         <Dialog ID="34" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_23</VoiceFile>
-          <Content>That way, the City can run correctly.</Content>
+          <Content>แบบนั้น นครจะสามารถแล่นได้อย่างถูกต้อง</Content>
         </Dialog>
         <Dialog ID="35" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_24</VoiceFile>
-          <Content>He is guiding us to take the right path.</Content>
+          <Content>เขาผู้นั้นกำลังนำทางเราเข้าสู่ทางที่ถูกต้อง</Content>
         </Dialog>
         <Dialog ID="36" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_25</VoiceFile>
-          <Content>For us, who are incapable of doing anything on our own.</Content>
+          <Content>สำหรับเรา ผู้ที่ไม่สามารถทำอะไรได้ด้วยตัวของเราเอง</Content>
         </Dialog>
         <Dialog ID="37" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_26</VoiceFile>
-          <Content>Praise be to อาร์กาเลีย!!</Content>
+          <Content>ท่านอาร์กาเลียจงเจริญ!!</Content>
         </Dialog>
         <Dialog ID="38" Model="예소드">
           <Teller>Yesod</Teller>
@@ -3176,51 +3176,51 @@
         </Dialog>
         <Dialog ID="39" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_27</VoiceFile>
-          <Content>It’s not too late. This might be your last chance.</Content>
+          <Content>มันยังไม่สายไปนะคะ นี่อาจเป็นโอกาสสุดท้ายของคุณแล้ว</Content>
         </Dialog>
         <Dialog ID="40" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_14</VoiceFile>
-          <Content>I refuse.</Content>
+          <Content>ผมขอปฏิเสธ</Content>
         </Dialog>
         <Dialog ID="41" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_15</VoiceFile>
-          <Content>I didn’t take this journey only to become a gear.</Content>
+          <Content>ผมไม่ได้เดินทางนี้มาเพื่อแค่เป็นเฟือง</Content>
         </Dialog>
         <Dialog ID="42" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_28</VoiceFile>
-          <Content>It’s so disheartening to hear that. I know that many gears were wasted in this place.</Content>
+          <Content>น่าท้อแท้เหลือเกินที่ได้ยินเช่นนั้น ฉันรู้ว่ามีเฟืองจำนวนมากสูญเสียไปในที่แห่งนี้</Content>
         </Dialog>
         <Dialog ID="43" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_29</VoiceFile>
-          <Content>You’re going through such hardship.</Content>
+          <Content>คุณกำลังผ่านความยากลำบากเช่นนั้นอยู่</Content>
         </Dialog>
         <Dialog ID="44" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_30</VoiceFile>
-          <Content>You deny the gears, and you know that you’ve robbed many gears of the opportunity to cycle the right way…</Content>
+          <Content>คุณปฏิเสธเหล่าเฟือง และคุณรู้ว่าคุณได้ปล้นเฟืองไปจากโอกาสที่จะหมุนไปในทางที่ถูกต้อง…</Content>
         </Dialog>
         <Dialog ID="45" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_31</VoiceFile>
-          <Content>But it’s alright. We shall arduously turn to make up for those that were lost.</Content>
+          <Content>แต่ว่าไม่เป็นไร เราจะหมุนอย่างหนักเพื่อทดแทนส่วนที่เสียไปให้</Content>
         </Dialog>
         <Dialog ID="46" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_16</VoiceFile>
-          <Content>This is the path I chose.</Content>
+          <Content>นี่คือเส้นทางที่ผมเลือก</Content>
         </Dialog>
         <Dialog ID="47" Model="예소드">
           <Teller>Yesod</Teller>
@@ -3242,7 +3242,7 @@
         </Dialog>
         <Dialog ID="50" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_32</VoiceFile>
           <Content>I see. They were gears that could no longer rotate justly.</Content>
         </Dialog>
@@ -3254,19 +3254,19 @@
         </Dialog>
         <Dialog ID="52" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_33</VoiceFile>
           <Content>I was so certain that we were kindred components…</Content>
         </Dialog>
         <Dialog ID="53" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_34</VoiceFile>
           <Content>Yet you’re insistent on renouncing the gears.</Content>
         </Dialog>
         <Dialog ID="54" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_35</VoiceFile>
           <Content>Please know this. You can’t rotate to the goal alone. You’ll break down someday.</Content>
         </Dialog>
@@ -3290,13 +3290,13 @@
         </Dialog>
         <Dialog ID="58" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_36</VoiceFile>
           <Content>If that is what you wish…</Content>
         </Dialog>
         <Dialog ID="59" Model="에일린">
           <Teller>อีลีน</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Eilin_37</VoiceFile>
           <Content>Fellow gears… Let us prepare.</Content>
         </Dialog>
