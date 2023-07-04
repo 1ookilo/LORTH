@@ -3,74 +3,74 @@
   <GroupName>Cane Office</GroupName>
   <Character ID="Nemo">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Ha! Ha! Ha! They don’t appear to be easy prey, not at all.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Well well, a pleasure to meet you, I believe we’ll be seeing each other quite often!</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Don’t you worry! There’s no real reason for us to lose, either.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ฮา! ฮา! ฮา! ดูเหมือนนี้จะไม่ใช่งานที่ดูง่ายเลย</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">เอาละ~ ยินดีที่ได้รู้จัก ฉันหวังว่าเราจะได้เจอกันบ่อยๆนะ!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ไม่อะไรต้องกังวลหรอก! เราไม่มีเหตุผลที่จะแพ้อยู่แล้ว</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Those fellows were frankly more ungainly than I had expected.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">This valuable information is a steal at such a low price! I hope you don’t mind us visiting regularly!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">โอ่วเพื่อน พวกนี้มันคาดการไว้ง่ายกว่าที่คิดอีก</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">ข้อมูลนี้มันโคตรกำไรเลยละ! คุณคงไม่รังเกียจนะที่เราจะมาเป็นขาประจำที่นี้!</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">What is that loony planning to do… with a place like this…</BattleDialog>
+      <BattleDialog ID="DEATH_0">ไอบ้านั้นวางแผนจะทำอะไรกัน… ในสถานที่แบบนี้นะ…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">It’s alright! I am still perfectly fine.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Oh dear, you should’ve been careful not to get hurt!</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">It’s well within your responsibility to watch out for harm coming your way!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">ไม่เป็นไร! ฉันยังคงโอเค</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">โอ้แหม่ นายควรระวังไม่ให้ตัวเองได้รับบาดเจ็บหน่อยสิ!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">นี้เป็นความรับผิดชอบของพวกนายเองนะ นวยควรระวังตัวกว่านี้สิ!</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">You’re so remarkably slow, my eyes could never lose track of you even if I tried!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Getting our hands on the secrets of the Singularity… will only be a matter of time!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">That was simple! Chin up and push ahead just a bit further, everyone!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">นายโครตช้าเลยละ ฉันแถบไม่ต้องละสายตาจากนายเลย แม้ว่าฉันจะพยายามแล้วก็ตามที</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ในการที่จะรู้ความลับของซิงกูลาริตี้… มันก็แค่เรื่องของเวลาเท่านั้นและ!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">นี้มันโครตง่ายเลย! เพียงแค่เชิดหน้าและดันพวกมันกลับไป ลุยเลยทุกคน!</BattleDialog>
     </Type>
   </Character>
   <Character ID="Martina">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Prez… Don’t get too miffed…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">…Should’ve read the contract more carefully…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">It’s not too different from our usual job… Just don’t panic…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">หู่… อย่าพึ่งอารมณ์เสีย…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">…เราควรอ่านสัญญาให้ละเอียดกว่านี้…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">มันไม่ต่างจากงานประจำของเรามากหรอก… แต่แค่อย่าตื่นตกใจ…</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">So info about W Corp… is in this thing…</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">That’s a relief…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ข้อมูลของบริษัทดับเบิ้ลยู… อยู่ในมือฉันแล้ว…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">โล่งใจจัง…</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">This… is how I die…</BattleDialog>
+      <BattleDialog ID="DEATH_0">นี้… คือการตายของฉัน…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Rest well… Sorry I couldn’t take that blow for you…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">So we turn into books when we die…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">This is not going in our favor… Must watch the situation carefully…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">หลับอย่างสงบนะ… ขอโทษที่ฉันไม่สามารถช่วยเหลือคุณได้…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">พวกเราจะกลายเป็นหนังสือเมื่อพวกเราตาย…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">มันเริ่มไม่เข้าข้างเราแล้ว… ต้องดูสถานการณ์อย่างใจเย็น…</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">For our goal… I have to do this…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">We’re getting there… Let’s buck up…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">There’s mountains of work left to take care after this…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">เพื่อเป้าหมาย… ฉันจำเป็นต้องทำสิ่งนี้…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">เราเริ่มเข้าใกล้เป้าหมายแล้ว…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">มีงานกองโตเลย ที่ต้องดูแลหลังจากนี้…</BattleDialog>
     </Type>
   </Character>
   <Character ID="Bada">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Our President is right; we will be able to aptly resolve this.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Please control your temper and look ahead calmly.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">We only have to acquire the books. There shouldn’t be any trouble.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ประธานของเราพูดถูกเสมอ เราจะสามารถแก้ไขปัญหานี้ได้แน่นอน</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">โปรดควบคุมอารมณ์ของตัวเองและมองไปข้างหน้าอย่างใจเย็น</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">เรามาเพื่อรับหนังสือเท่านั้น มันจะไม่มีปัญหาอะไร</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Are you alright? It’s crucial to check your condition.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">I’ve retrieved the books. Let’s head back.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">พวกนายสบายดีอยู่ไหม? การตรวจสอบสภาพของตัวเองก็เป็นสิ่งสำคัญ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">พวกเราได้รับหนังสือมาแล้ว กลับกันเถอะ</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I have to… get back.</BattleDialog>
+      <BattleDialog ID="DEATH_0">ฉันจะต้อง… กลับไป</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">…My condolences. May you rest in peace.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">It’s the fault of my incompetence that I couldn’t prevent this.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">We have to focus on staying alive…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…ขอแสดงความเสียใจ ขอให้คุณหลับอย่างสงบ</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">มันเป็นความผิดของฉันที่ฉันเองไม่สามารถป้องกันไม่ให้เกิดสิ่งนั้นได้</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">เราต้องโฟกัสไปที่การมีชีวิตอยู่…</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Trifling ones… That wasn’t difficult.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">I could make short work of them.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">It seems that we’re almost done with them.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">งานง่ายๆ… การจัดการที่นี้ไม่ใช่เรื่องยากอะไร</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ฉันสามารถจัดการพวกมันในเวลาอันสั้นได้</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ดูเหมือนว่าเราเกือบจะจัดการพวกมันเสร็จแล้ว</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>
