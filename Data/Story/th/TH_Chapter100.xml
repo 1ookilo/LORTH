@@ -853,7 +853,7 @@
           <Content>Of course you won’t. You’re still loyal to that man.</Content>
         </Dialog>
         <Dialog ID="66" Model="티페리트">
-          <Teller>Tiphereth</Teller>
+          <Teller>ทิฟาเรธ</Teller>
           <Title>Central Command Team Sephirah</Title>
           <VoiceFile>ch8_Malkuth_ep3_tiphereth1</VoiceFile>
           <Content>I won’t let you rob me of the meaning I finally found.</Content>
@@ -3176,7 +3176,7 @@
           <Content>Tiphereth and the Central Command Team, please support everyone with your resourcefulness!</Content>
         </Dialog>
         <Dialog ID="78" Model="티페리트">
-          <Teller>Tiphereth</Teller>
+          <Teller>ทิฟาเรธ</Teller>
           <Title>Central Command Team Sephirah</Title>
           <VoiceFile>ch8_Yesod_ep3_tiphereth1</VoiceFile>
           <Content>I was gonna! No need to say it!</Content>
@@ -6774,7 +6774,7 @@ I appreciate your help, everyone.</Content>
           <Content>You are the only one among us to have the semblance of a human, yet you act just like a heartless monster.</Content>
         </Dialog>
         <Dialog ID="156" Model="티페리트">
-          <Teller>Tiphereth</Teller>
+          <Teller>ทิฟาเรธ</Teller>
           <Title>Central Command Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Tiphereth1</VoiceFile>
           <Content>Why does Tiphereth have to die all the time?! Just why?!</Content>
@@ -6786,7 +6786,7 @@ I appreciate your help, everyone.</Content>
           <Content>You’re really starting to act like a child now, Tiphereth.</Content>
         </Dialog>
         <Dialog ID="158" Model="티페리트">
-          <Teller>Tiphereth</Teller>
+          <Teller>ทิฟาเรธ</Teller>
           <Title>Central Command Team Sephirah</Title>
           <VoiceFile>ch8_Hod_ep5_Tiphereth2</VoiceFile>
           <Content>Tiphereth, Tiphereth, I’m sorry… Tiphereth…</Content>
@@ -7887,7 +7887,7 @@ I appreciate your help, everyone.</Content>
           <Content>Gebura! How could you agree with her… We might lose everything.</Content>
         </Dialog>
         <Dialog ID="41" Model="티페리트">
-          <Teller>Tiphereth</Teller>
+          <Teller>ทิฟาเรธ</Teller>
           <Title>Central Command Team Sephirah</Title>
           <VoiceFile>ch8_Netzach_ep3_tiphereth1</VoiceFile>
           <Content>I’m with Angela, too. Enoch’s death deserves a better meaning than this half-baked light.</Content>
@@ -9331,138 +9331,138 @@ I appreciate your help, everyone.</Content>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: The Library – Floor of Natural Sciences</PlaceName>
+        <PlaceName>สถานที่: ห้องสมุด – ชั้นวิทยาศาสตร์ธรรมชาติ</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep1_roland1</VoiceFile>
-          <Content>Floor of Natural Sciences, huh. That’s the fifth floor we’re opening.</Content>
+          <Content>เอาล่ะ ชั้นสำหรับวิทยาศาสตร์ธรรมชาติ นี่คงเป็นชั้นที่ห้าสินะที่เปิดขึ้นมา</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep1_roland2</VoiceFile>
-          <Content>Its Patron Librarian is Tiphereth… What’s up with all these weird names?</Content>
+          <Content>สำหรับบรรณารักษ์ผู้ดูแลก็คือทิฟาเรธ… ว่าไงดีล่ะชื่อของพวกเขา ฟังดูแปลกๆกันทุกคนเลยแฮะ?</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep1_roland3</VoiceFile>
-          <Content>Hello! Tiphereth~! Are you there~!!</Content>
+          <Content>เฮ้ย! ทิฟาเรธ~! คุณอยู่หรือป่าว~!!</Content>
         </Dialog>
         <Dialog ID="3" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth1</VoiceFile>
-          <Content>Shut it!</Content>
+          <Content>หนวกหู!</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep1_roland4</VoiceFile>
-          <Content>Hrk…</Content>
+          <Content>เอ๊อะ…</Content>
         </Dialog>
         <Dialog ID="5" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth2</VoiceFile>
-          <Content>I’m standing right in front of you. Where do you think you’re looking?</Content>
+          <Content>ฉันก็ยืนข้างหน้านายแล้วไง นายคิดว่าฉันอยู่ที่ไหนกันยะ?</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep1_roland5</VoiceFile>
-          <Content>What, you’re totally a kid?</Content>
+          <Content>อะไรกันวะ เธอเป็นเด็กงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="7" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth3-01</VoiceFile>
-          <Content>I’m actually a lot taller than I used to be, you know?</Content>
+          <Content>เห็นแบบนี้แล้ว แต่ฉันก็โตมากขึ้นกว่าแต่ก่อนอีกนะ เข้าใจป่ะ?</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep1_roland6</VoiceFile>
-          <Content>Oh, compared to your past self in Lobotomy Corp?</Content>
+          <Content>อ๊าห์ เทียบกับตัวเองสมัยอยู่ในโลโบทอรี่คอร์ปอยู่สิน้า?</Content>
         </Dialog>
         <Dialog ID="9" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth4</VoiceFile>
-          <Content>No, I mean compared to my first life. I was an actual kid back then, but it looks like I woke up with an older body this time.</Content>
+          <Content>ไม่ ฉันหมายถึงเมื่อเทียบกับชีวิตแรกสุดจริงๆของฉันน่ะ ตอนนั้นฉันยังเป็นเด็กอยู่ในขณะนั้น แต่มันดูเหมือนว่า ฉันจะตื่นขี้นมากับร่างกายที่ดูแก่กว่าในครั้งนี้</Content>
         </Dialog>
         <Dialog ID="10" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth5</VoiceFile>
-          <Content>I’m not sure if it was the Library’s powers or Angela’s thoughtfulness, but this body should be better suited for librarian work, so I’m cool with it either way.</Content>
+          <Content>ฉันไม่แน่ใจว่าเป็นพลังของห้องสุมด หรือเป็นความรอบคอบของแองเจล่ากันแน่ แต่ร่างนี้เหมาะกับการทำงานของบรรณารักษ์ได้ดีกว่า เพราะงั้นฉันพอใจกับร่างนี้ ไม่ว่าจะเป็นเหตุผลอะไรก็ช่างมันไปก่อน</Content>
         </Dialog>
         <Dialog ID="11" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth6</VoiceFile>
-          <Content>Although, if it actually took all the years I’ve lived into account, I’d have to look a bit older.</Content>
+          <Content>แม้ว่าถ้านับตามอายุของฉันจริงๆแล้ว ฉันก็คงดูแก่กว่านี้นิดหน่อยแค่นิดหน่อยนะ</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep1_roland7</VoiceFile>
-          <Content>Putting that aside, isn’t it a little rude to punch someone you just met in the face?</Content>
+          <Content>นี่เธอมันไม่หยาบคายเกินไปหน่อยหรอ ที่มาต่อยหน้าคนทีเพิ่งเจอหน้ากันแบบนี้ห๊า?</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep1_roland8</VoiceFile>
-          <Content>This is giving me flashbacks.</Content>
+          <Content>เนี้ยมันทำให้ฉันนึกถึงอดีตเลยแฮะ</Content>
         </Dialog>
         <Dialog ID="14" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth7</VoiceFile>
-          <Content>Well, it’s because you were being such a clumsy dork!</Content>
+          <Content>นั้นมันเป็นเพราะว่านายเซ่อซ่าเองล่ะเจ้าโง่!</Content>
         </Dialog>
         <Dialog ID="15" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth8-01</VoiceFile>
-          <Content>What’s your name, anyways?</Content>
+          <Content>ว่าแต่แล้วนายชื่อว่าอะไรกันล่ะ?</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep1_roland9</VoiceFile>
-          <Content>Roland. Previously: A Fixer scraping at the bottom of the barrel. Current Status: Helping Angela.</Content>
+          <Content>โรแลนด์เองจ้า ก่อนหน้านี้: ฟิกเซอร์หนุ่มสุดกิ๊กก๊อก สถานะปัจจุบัน: ช่วยเหลือแองเจล่า</Content>
         </Dialog>
         <Dialog ID="17" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth9</VoiceFile>
-          <Content>I suppose you’ve already met the ones of the Upper Layer.</Content>
+          <Content>ฉันคิดว่านายคงได้เจอกับคนของชั้นบนแล้วสินะ</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep1_roland10</VoiceFile>
-          <Content>Upper Layer? I thought I was going up, not down?</Content>
+          <Content>ชั้นบน? ฉันคิดว่าเนี้ยก็ชั้นบนสุดแล้วนะ ไม่ใช่ชั้นล่างหรอกหรอ?</Content>
         </Dialog>
         <Dialog ID="19" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth10-01</VoiceFile>
-          <Content>…Right, it would be the lower floors this time around. Still, you get what I mean, so just roll with it!</Content>
+          <Content>…อ๋อใช่ คราวนี้คงน่าจะเป็นชั้นล่างสินะ แต่ถึงอย่างงั้นนายเข้าใจสิ่งที่ฉันพูดอยู่ใช่ไหม เพราะงั้นทำงานของนายต่อไปซะ ปัดโธ่!</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep1_roland11</VoiceFile>
-          <Content>Sheesh, aren’t you the sassy one.</Content>
+          <Content>หึย เธอไม่แถเกินไปหน่อยหรอเนี้ย</Content>
         </Dialog>
         <Dialog ID="21" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth11</VoiceFile>
-          <Content>I’m Tiphereth, in charge of the Floor of Natural Sciences.</Content>
+          <Content>ฉันทิฟาเรธ ประจำอยู่ที่ชั้นวิทย์ธรรมชาติเข้าใจตรงกันนะ</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9483,20 +9483,20 @@ I appreciate your help, everyone.</Content>
           <Content>You’re pretty brisk with throwing punches, but it’s not quite as quick as someone I used to know, eh?</Content>
         </Dialog>
         <Dialog ID="25" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth12</VoiceFile>
           <Content>Grrrrrrr!</Content>
         </Dialog>
         <Dialog ID="26" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth13-01</VoiceFile>
           <Content>Stop looking down on me, will you? I heard a lot of stuff about science in my past workplace, you know?!</Content>
         </Dialog>
         <Dialog ID="27" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth14-01</VoiceFile>
           <Content>I’m probably a lot older than you in actual age, too!</Content>
         </Dialog>
@@ -9507,8 +9507,8 @@ I appreciate your help, everyone.</Content>
           <Content>What’s the point of being older if that doesn’t reflect your words and actions, little miss~?</Content>
         </Dialog>
         <Dialog ID="29" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth15</VoiceFile>
           <Content>Hmph! How’s Angela doing, anyway?</Content>
         </Dialog>
@@ -9519,8 +9519,8 @@ I appreciate your help, everyone.</Content>
           <Content>Curious as always. She almost feels like a child sometimes.</Content>
         </Dialog>
         <Dialog ID="31" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth16</VoiceFile>
           <Content>That’s understandable, I suppose… Angela lived her whole life in a basement after all.</Content>
         </Dialog>
@@ -9537,38 +9537,38 @@ I appreciate your help, everyone.</Content>
           <Content>I’m guessing you aren’t holding some deep-rooted grudge against her like the other librarians are?</Content>
         </Dialog>
         <Dialog ID="34" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth17-01</VoiceFile>
           <Content>I roughly know what she went through. I thought she was just cruel, but…</Content>
         </Dialog>
         <Dialog ID="35" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth18</VoiceFile>
           <Content>I could see some events of the past while I was asleep.</Content>
         </Dialog>
         <Dialog ID="36" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth19</VoiceFile>
           <Content>I could also see things happening in the present, all the way down to the moment you woke me up.</Content>
         </Dialog>
         <Dialog ID="37" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth20-01</VoiceFile>
           <Content>So I can understand Angela somewhat.</Content>
         </Dialog>
         <Dialog ID="38" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth21</VoiceFile>
           <Content>I’m pretty sure the librarians who are still asleep all have a grasp on what’s going on as well.</Content>
         </Dialog>
         <Dialog ID="39" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth22</VoiceFile>
           <Content>Though the idiots on the Upper Layer… I mean, the lower floors still seem kinda confused.</Content>
         </Dialog>
@@ -9579,14 +9579,14 @@ I appreciate your help, everyone.</Content>
           <Content>So, you agree with Angela’s choice?</Content>
         </Dialog>
         <Dialog ID="41" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth23</VoiceFile>
           <Content>It depends on the one final choice she’ll make at the end of this.</Content>
         </Dialog>
         <Dialog ID="42" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth24</VoiceFile>
           <Content>I’m willing to help her out for now, at least. Our primary goal is the same, all things considered.</Content>
         </Dialog>
@@ -9597,8 +9597,8 @@ I appreciate your help, everyone.</Content>
           <Content>To complete the Library?</Content>
         </Dialog>
         <Dialog ID="44" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth25</VoiceFile>
           <Content>Yep. The light is only truly meaningful if it shines for seven days straight.</Content>
         </Dialog>
@@ -9615,8 +9615,8 @@ I appreciate your help, everyone.</Content>
           <Content>Alright, I’ll make sure to bring some picture books next time as a bonus.</Content>
         </Dialog>
         <Dialog ID="47" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth26</VoiceFile>
           <Content>Urrrrgh…!</Content>
         </Dialog>
@@ -9627,8 +9627,8 @@ I appreciate your help, everyone.</Content>
       <Place>
         <PlaceName>Location: The Library – Floor of Natural Sciences</PlaceName>
         <Dialog ID="0" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth1</VoiceFile>
           <Content>Not this… Not that…</Content>
         </Dialog>
@@ -9639,8 +9639,8 @@ I appreciate your help, everyone.</Content>
           <Content>Need a hand?</Content>
         </Dialog>
         <Dialog ID="2" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth2</VoiceFile>
           <Content>I can do all this by myself!</Content>
         </Dialog>
@@ -9651,8 +9651,8 @@ I appreciate your help, everyone.</Content>
           <Content>Geez, just looking at the covers of these books makes me dizzy. Did you read ‘em all?</Content>
         </Dialog>
         <Dialog ID="4" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth3</VoiceFile>
           <Content>…Sort of.</Content>
         </Dialog>
@@ -9663,14 +9663,14 @@ I appreciate your help, everyone.</Content>
           <Content>…“Quantum Physics”, “Cell Biology”… You wrote some difficult-looking labels on them.</Content>
         </Dialog>
         <Dialog ID="6" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth4</VoiceFile>
           <Content>It’s hard to recognize the contents of the books here from their title alone.</Content>
         </Dialog>
         <Dialog ID="7" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth5</VoiceFile>
           <Content>And it’s even harder to find books that are actually readable.</Content>
         </Dialog>
@@ -9681,8 +9681,8 @@ I appreciate your help, everyone.</Content>
           <Content>Yeah, a lot of ‘em didn’t even have a lot of complete sentences, now that I think about it.</Content>
         </Dialog>
         <Dialog ID="9" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth6-01</VoiceFile>
           <Content>The completeness of a book mostly depends on the reader. Though, some are just unstable to begin with.</Content>
         </Dialog>
@@ -9693,14 +9693,14 @@ I appreciate your help, everyone.</Content>
           <Content>Does that “completeness” have something to do with some books disappearing upon reading, while others don’t?</Content>
         </Dialog>
         <Dialog ID="11" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth7-01</VoiceFile>
           <Content>I’m not too sure, but I think that has to do with how thoroughly the book was read.</Content>
         </Dialog>
         <Dialog ID="12" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth8</VoiceFile>
           <Content>Once all the contents of a book have been read and understood, it vanishes since it served its purpose.</Content>
         </Dialog>
@@ -9717,14 +9717,14 @@ I appreciate your help, everyone.</Content>
           <Content>Maybe the properties of books can change depending on the reader in the same sense?</Content>
         </Dialog>
         <Dialog ID="15" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth9</VoiceFile>
           <Content>I don’t know! Stop trying to make weird comparisons with your shoddy knowledge.</Content>
         </Dialog>
         <Dialog ID="16" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth10-01</VoiceFile>
           <Content>It probably just inexplicably works like Singularities do. I just roll with it.</Content>
         </Dialog>
@@ -9735,20 +9735,20 @@ I appreciate your help, everyone.</Content>
           <Content>You seem very proud of your ignorance.</Content>
         </Dialog>
         <Dialog ID="18" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth11-01</VoiceFile>
           <Content>I don’t pretend to understand things I don’t get. I still make sure to read and manage all the books you send here, though.</Content>
         </Dialog>
         <Dialog ID="19" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth12</VoiceFile>
           <Content>The same book can show different things each time you read it. Understanding a book completely is a repetitive process, you know?</Content>
         </Dialog>
         <Dialog ID="20" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth13-01</VoiceFile>
           <Content>And I don’t want to stay ignorant forever. That’s annoying.</Content>
         </Dialog>
@@ -9759,20 +9759,20 @@ I appreciate your help, everyone.</Content>
           <Content>Different content every time you read it, huh… So that’s why we needed multiple copies of a book.</Content>
         </Dialog>
         <Dialog ID="22" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth14</VoiceFile>
           <Content>…I still don’t fully get it, but I actually kinda like the properties of light you just told me.</Content>
         </Dialog>
         <Dialog ID="23" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth15</VoiceFile>
           <Content>The fact that something can change just by looking at it is romantic in a way.</Content>
         </Dialog>
         <Dialog ID="24" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth16-02</VoiceFile>
           <Content>And maybe… I held enough meaning for Enoch just by staying at his side?</Content>
         </Dialog>
@@ -9783,14 +9783,14 @@ I appreciate your help, everyone.</Content>
           <Content>Enoch?</Content>
         </Dialog>
         <Dialog ID="26" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth17</VoiceFile>
           <Content>There were two Tiphereth in the past. Back in my second life, as you and Malkuth put it.</Content>
         </Dialog>
         <Dialog ID="27" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth18</VoiceFile>
           <Content>And we were together in our first lives, too.</Content>
         </Dialog>
@@ -9801,8 +9801,8 @@ I appreciate your help, everyone.</Content>
           <Content>Oho~ That your boyfriend? Sounds like you were together for a pretty long time.</Content>
         </Dialog>
         <Dialog ID="29" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth19</VoiceFile>
           <Content>…Enoch left my side in both of those lives.</Content>
         </Dialog>
@@ -9813,14 +9813,14 @@ I appreciate your help, everyone.</Content>
           <Content>Damn, got dumped twice? What a shame. Keep your chin up, though. It’s not like a breakup is the end of the world.</Content>
         </Dialog>
         <Dialog ID="31" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth20-01</VoiceFile>
           <Content>…Roland, he died.</Content>
         </Dialog>
         <Dialog ID="32" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth21-01</VoiceFile>
           <Content>And Enoch wasn’t someone who could be put in such light terms.</Content>
         </Dialog>
@@ -9837,26 +9837,26 @@ I appreciate your help, everyone.</Content>
           <Content>…I, um, apologize for my carelessness.</Content>
         </Dialog>
         <Dialog ID="35" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth22</VoiceFile>
           <Content>It’s alright. When I bid farewell to Enoch for the second time…</Content>
         </Dialog>
         <Dialog ID="36" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth23</VoiceFile>
           <Content>I’m sure he could find the meaning he was looking for.</Content>
         </Dialog>
         <Dialog ID="37" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth24</VoiceFile>
           <Content>That our lives and sacrifices were not in vain…</Content>
         </Dialog>
         <Dialog ID="38" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth25-03</VoiceFile>
           <Content>We lived in a world where everyone died so easily, but he believed that dying a meaningless death was not what people were born for.</Content>
         </Dialog>
@@ -9867,8 +9867,8 @@ I appreciate your help, everyone.</Content>
           <Content>That’s kinda hard for me to follow. How about you then? Did you find the meaning?</Content>
         </Dialog>
         <Dialog ID="40" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth26-01</VoiceFile>
           <Content>Maybe? The purpose given to me now is to complete the Light so that it can be used properly.</Content>
         </Dialog>
@@ -9879,8 +9879,8 @@ I appreciate your help, everyone.</Content>
           <Content>Everyone’s been talking about that “light” thing. What exactly is it about?</Content>
         </Dialog>
         <Dialog ID="42" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth27</VoiceFile>
           <Content>You’ve heard about Lobotomy Corporation’s Singularity, right?</Content>
         </Dialog>
@@ -9891,8 +9891,8 @@ I appreciate your help, everyone.</Content>
           <Content>Well, yeah, kinda. Technology that physically manifests the mind, was it?</Content>
         </Dialog>
         <Dialog ID="44" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth28-01</VoiceFile>
           <Content>That’s right. Those manifestations can also be dissolved back into an indefinite form and seeped into people’s minds.</Content>
         </Dialog>
@@ -9903,14 +9903,14 @@ I appreciate your help, everyone.</Content>
           <Content>Hmm, I guess that makes sense.</Content>
         </Dialog>
         <Dialog ID="46" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth29</VoiceFile>
           <Content>Lobotomy Corp. gathered the light over a long time to cure the ill minds of the City’s denizens.</Content>
         </Dialog>
         <Dialog ID="47" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth30</VoiceFile>
           <Content>Of course, all the while operating as an energy company on the outside.</Content>
         </Dialog>
@@ -9921,14 +9921,14 @@ I appreciate your help, everyone.</Content>
           <Content>How’d you generate enough energy to stand as a Wing? Pulled it outta people?</Content>
         </Dialog>
         <Dialog ID="49" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth31</VoiceFile>
           <Content>Creatures called Abnormalities were created as a side effect of our Singularity.</Content>
         </Dialog>
         <Dialog ID="50" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth32</VoiceFile>
           <Content>As we managed them, we learned that they emit a certain form of energy. That’s Enkephalin.</Content>
         </Dialog>
@@ -9945,8 +9945,8 @@ I appreciate your help, everyone.</Content>
           <Content>Damn, and I used Enkephalin lighters to smoke, too.</Content>
         </Dialog>
         <Dialog ID="53" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth33</VoiceFile>
           <Content>From people, to be precise. It’s humans that are turned into Abnormalities.</Content>
         </Dialog>
@@ -9963,8 +9963,8 @@ I appreciate your help, everyone.</Content>
           <Content>And I’m guessing tons of employees died during the process of managing those creatures?</Content>
         </Dialog>
         <Dialog ID="56" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth34</VoiceFile>
           <Content>You’re right. It was all part of the “stageplay” Angela mentioned.</Content>
         </Dialog>
@@ -9975,8 +9975,8 @@ I appreciate your help, everyone.</Content>
           <Content>Quite typical of the City, eh. A company that massacred people with the end goal of curing them. It’s almost like a cliche for all the myths about the Wings at this point.</Content>
         </Dialog>
         <Dialog ID="58" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth35</VoiceFile>
           <Content>I don’t know a lot about the other Wings, but… They probably aren’t too different, right?</Content>
         </Dialog>
@@ -9987,8 +9987,8 @@ I appreciate your help, everyone.</Content>
           <Content>Oh, they’re totally the same.</Content>
         </Dialog>
         <Dialog ID="60" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth36</VoiceFile>
           <Content>That’s the kind of cycle we wanted to break.</Content>
         </Dialog>
@@ -10005,8 +10005,8 @@ I appreciate your help, everyone.</Content>
           <Content>Sounds more like you were trying to brainwash people with it or something?</Content>
         </Dialog>
         <Dialog ID="63" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth37-01</VoiceFile>
           <Content>It’s not as simple as that!</Content>
         </Dialog>
@@ -10017,20 +10017,20 @@ I appreciate your help, everyone.</Content>
           <Content>It’s a matter of perspective, really.</Content>
         </Dialog>
         <Dialog ID="65" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth38</VoiceFile>
           <Content>To be fair, I only know the general outline of things.</Content>
         </Dialog>
         <Dialog ID="66" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth39</VoiceFile>
           <Content>So I wanna see for myself if those cycles are really happening out there.</Content>
         </Dialog>
         <Dialog ID="67" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth40-01</VoiceFile>
           <Content>I don’t really know much about this world, like Angela.</Content>
         </Dialog>
@@ -10041,8 +10041,8 @@ I appreciate your help, everyone.</Content>
           <Content>Leave it to me, Miss Tiph. I’ll bring just the right books for you.</Content>
         </Dialog>
         <Dialog ID="69" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth41-01</VoiceFile>
           <Content>Hmph! Let your actions speak for you, then.</Content>
         </Dialog>
@@ -10053,8 +10053,8 @@ I appreciate your help, everyone.</Content>
       <Place>
         <PlaceName>Location: The Library – Floor of Natural Sciences</PlaceName>
         <Dialog ID="0" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth1-01</VoiceFile>
           <Content>Hurry it up, will you!</Content>
         </Dialog>
@@ -10065,8 +10065,8 @@ I appreciate your help, everyone.</Content>
           <Content>Don’t nag me, now. This is the fastest I can go.</Content>
         </Dialog>
         <Dialog ID="2" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth2-01</VoiceFile>
           <Content>Even a snail would be faster than that, you @#$!$@!</Content>
         </Dialog>
@@ -10077,8 +10077,8 @@ I appreciate your help, everyone.</Content>
           <Content>Alright, I’m done moving ‘em. Sheesh, you’ve got a fiery temper.</Content>
         </Dialog>
         <Dialog ID="4" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth3-01</VoiceFile>
           <Content>I just wanna get done with what I can as quickly as possible.</Content>
         </Dialog>
@@ -10089,14 +10089,14 @@ I appreciate your help, everyone.</Content>
           <Content>If you’re so confident, why don’t you tell me about your progress on learning about the City’s sciences?</Content>
         </Dialog>
         <Dialog ID="6" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth4-01</VoiceFile>
           <Content>…I don’t know! What’s the point when Singularities violate all the known laws of physics anyway.</Content>
         </Dialog>
         <Dialog ID="7" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth5</VoiceFile>
           <Content>I’m not even sure us librarians can be defined as living beings, either.</Content>
         </Dialog>
@@ -10113,8 +10113,8 @@ I appreciate your help, everyone.</Content>
           <Content>What do you mean by librarians being difficult to define, though? That part got me curious.</Content>
         </Dialog>
         <Dialog ID="10" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth6-01</VoiceFile>
           <Content>What do you think librarians are?</Content>
         </Dialog>
@@ -10125,14 +10125,14 @@ I appreciate your help, everyone.</Content>
           <Content>Beings that aren’t human… but kinda like humans?</Content>
         </Dialog>
         <Dialog ID="12" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth7-01</VoiceFile>
           <Content>All librarians can only exist within the Library.</Content>
         </Dialog>
         <Dialog ID="13" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth8-01</VoiceFile>
           <Content>And they’re reincarnations of the beings from Lobotomy Corporation, Patron Librarians being the Sephirot and assistant librarians being the employees.</Content>
         </Dialog>
@@ -10143,38 +10143,38 @@ I appreciate your help, everyone.</Content>
           <Content>I’ve heard similar explanations, yeah.</Content>
         </Dialog>
         <Dialog ID="15" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth9-01</VoiceFile>
           <Content>Former staff of Lobotomy Corp. were given a new body, basically.</Content>
         </Dialog>
         <Dialog ID="16" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth10-01</VoiceFile>
           <Content>Angela did keep her promise. Yet the Sephirot and the employees weren’t the only ones to come back.</Content>
         </Dialog>
         <Dialog ID="17" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth11</VoiceFile>
           <Content>The Abnormalities did too. But because most of the systems and structures of Lobotomy Corp. broke down, and a lot of their energy was exhausted from the Light and all the combat they had, they can’t maintain a physical form.</Content>
         </Dialog>
         <Dialog ID="18" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth12</VoiceFile>
           <Content>On the other hand, the librarians have had their flesh restored, but they’re psychologically unstable.</Content>
         </Dialog>
         <Dialog ID="19" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth13-01</VoiceFile>
           <Content>So the librarians carry Abnormalities with them when they fight guests.</Content>
         </Dialog>
         <Dialog ID="20" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth14</VoiceFile>
           <Content>And we’re no exception.</Content>
         </Dialog>
@@ -10191,14 +10191,14 @@ I appreciate your help, everyone.</Content>
           <Content>Although there have been a couple of moments where I felt as if I almost crossed some kind of line…</Content>
         </Dialog>
         <Dialog ID="23" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth15</VoiceFile>
           <Content>The so-called ‘Distortion’ occurs once you cross that line.</Content>
         </Dialog>
         <Dialog ID="24" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth16</VoiceFile>
           <Content>And Angela is adjusting things from behind the scenes to make sure that we don’t.</Content>
         </Dialog>
@@ -10209,8 +10209,8 @@ I appreciate your help, everyone.</Content>
           <Content>Sounds like we’re dancing on a stage or something.</Content>
         </Dialog>
         <Dialog ID="26" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth17</VoiceFile>
           <Content>It’s just as you say… It feels strange to be the ones on the stage this time.</Content>
         </Dialog>
@@ -10221,8 +10221,8 @@ I appreciate your help, everyone.</Content>
           <Content>Could this be Angela’s little vendetta against you guys?</Content>
         </Dialog>
         <Dialog ID="28" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth18-01</VoiceFile>
           <Content>It could be…</Content>
         </Dialog>
@@ -10233,14 +10233,14 @@ I appreciate your help, everyone.</Content>
           <Content>Great, then could you tell her to leave me outta this?!</Content>
         </Dialog>
         <Dialog ID="30" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth19-01</VoiceFile>
           <Content>Anyway, even if the assistant librarians and I were to face horrible deaths while receiving guests, we’d wake up with a reconstructed body once the Library closes.</Content>
         </Dialog>
         <Dialog ID="31" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth20</VoiceFile>
           <Content>But we still feel the fear of pain and death whenever we greet our guests. Do you know why?</Content>
         </Dialog>
@@ -10251,26 +10251,26 @@ I appreciate your help, everyone.</Content>
           <Content>…Because we forget.</Content>
         </Dialog>
         <Dialog ID="33" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth21</VoiceFile>
           <Content>That’s right. Librarians forget the fact that they can revive while they’re receiving guests.</Content>
         </Dialog>
         <Dialog ID="34" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth22-01</VoiceFile>
           <Content>We have to face each other feeling the same kind of desperation and dread that guests feel.</Content>
         </Dialog>
         <Dialog ID="35" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth23</VoiceFile>
           <Content>We must prepare ourselves for death and agony every time we greet our guests.</Content>
         </Dialog>
         <Dialog ID="36" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth24</VoiceFile>
           <Content>How’s that? Do you still think the Library’s invitations are dirty?</Content>
         </Dialog>
@@ -10305,26 +10305,26 @@ I appreciate your help, everyone.</Content>
           <Content>Don’t you resent Angela for putting you on this stage and toying with you?</Content>
         </Dialog>
         <Dialog ID="42" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth25-01</VoiceFile>
           <Content>If she could make this more painful for us, she would have already.</Content>
         </Dialog>
         <Dialog ID="43" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth26</VoiceFile>
           <Content>I think Angela’s actually caring for us in her own way.</Content>
         </Dialog>
         <Dialog ID="44" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth27-01</VoiceFile>
           <Content>Back in Lobotomy Corp, employees were quite literally expendables. Like in all the other corporations.</Content>
         </Dialog>
         <Dialog ID="45" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth28-01</VoiceFile>
           <Content>But here, no librarian is left behind, at the very least. No one is left behind.</Content>
         </Dialog>
@@ -10335,8 +10335,8 @@ I appreciate your help, everyone.</Content>
           <Content>No one is left behind, huh. I gotta say, I admire your positive mindset, Tiph.</Content>
         </Dialog>
         <Dialog ID="47" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth29</VoiceFile>
           <Content>Hmph! It’s the wisdom that comes with age!</Content>
         </Dialog>
@@ -10359,8 +10359,8 @@ I appreciate your help, everyone.</Content>
           <Content>I just didn’t wanna wake up from my dreams.</Content>
         </Dialog>
         <Dialog ID="51" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth30-01</VoiceFile>
           <Content>But why?</Content>
         </Dialog>
@@ -10371,8 +10371,8 @@ I appreciate your help, everyone.</Content>
           <Content>…Because I’d have to start yet another dreary day with nothing to look forward to.</Content>
         </Dialog>
         <Dialog ID="53" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth31-01</VoiceFile>
           <Content>You don’t hold any expectations?</Content>
         </Dialog>
@@ -10395,8 +10395,8 @@ I appreciate your help, everyone.</Content>
           <Content>I might be suffering from a severe case of that “disease of the mind” you guys were talking about, after all.</Content>
         </Dialog>
         <Dialog ID="57" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth32-02</VoiceFile>
           <Content>I still believe that we can become better.</Content>
         </Dialog>
@@ -10425,20 +10425,20 @@ I appreciate your help, everyone.</Content>
           <Content>Here’s your books, fresh outta the oven~</Content>
         </Dialog>
         <Dialog ID="1" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_1-01</VoiceFile>
           <Content>As one’s mind is amplified, they undergo changes such as gaining new powers or transforming…</Content>
         </Dialog>
         <Dialog ID="2" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_2-01</VoiceFile>
           <Content>That’s what they call ‘The Distortion Phenomenon’.</Content>
         </Dialog>
         <Dialog ID="3" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_3</VoiceFile>
           <Content>It happens in a way that’s almost identical to how Abnormalities were made back in Lobotomy Corp.</Content>
         </Dialog>
@@ -10449,20 +10449,20 @@ I appreciate your help, everyone.</Content>
           <Content>The Distortion is the Abnormalities?</Content>
         </Dialog>
         <Dialog ID="5" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_4-01</VoiceFile>
           <Content>Even though the process is similar, they have fundamentally different roots.</Content>
         </Dialog>
         <Dialog ID="6" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_5-01</VoiceFile>
           <Content>Abnormalities… weren’t manifested out of the person’s own will, most importantly.</Content>
         </Dialog>
         <Dialog ID="7" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_6-01</VoiceFile>
           <Content>While Abnormalities were created by someone else forcibly drawing out one’s ego from the deep well of their mind, the Distortion occurs of one’s own volition.</Content>
         </Dialog>
@@ -10479,26 +10479,26 @@ I appreciate your help, everyone.</Content>
           <Content>The world would be a mess in no time if people just started becoming Distortions left and right.</Content>
         </Dialog>
         <Dialog ID="10" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_7-01</VoiceFile>
           <Content>That won’t happen. A strong motivation is needed.</Content>
         </Dialog>
         <Dialog ID="11" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_8-01</VoiceFile>
           <Content>Look at Philip of the Dawn Office, who became the Crying Children, for instance. It took an intense heightening of his emotions for him to turn.</Content>
         </Dialog>
         <Dialog ID="12" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_9-01</VoiceFile>
           <Content>There seems to be some kind of condition to it.</Content>
         </Dialog>
         <Dialog ID="13" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_10-01</VoiceFile>
           <Content>And what we did was the greatest variable that affected it…</Content>
         </Dialog>
@@ -10509,14 +10509,14 @@ I appreciate your help, everyone.</Content>
           <Content>A variable?</Content>
         </Dialog>
         <Dialog ID="15" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_11</VoiceFile>
           <Content>The Light that Angela stole for herself.</Content>
         </Dialog>
         <Dialog ID="16" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_12-01</VoiceFile>
           <Content>Had we managed to light up the world for seven whole days, side effects like this wouldn’t have happened.</Content>
         </Dialog>
@@ -10527,14 +10527,14 @@ I appreciate your help, everyone.</Content>
           <Content>…I see.</Content>
         </Dialog>
         <Dialog ID="18" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_13-01</VoiceFile>
           <Content>Our plan was stopped halfway, and that was the problem.</Content>
         </Dialog>
         <Dialog ID="19" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_14-01</VoiceFile>
           <Content>It looks like we ended up making things worse.</Content>
         </Dialog>
@@ -10545,8 +10545,8 @@ I appreciate your help, everyone.</Content>
           <Content>Is there any way to revert this?</Content>
         </Dialog>
         <Dialog ID="21" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_15-01</VoiceFile>
           <Content>Reclaim all the Light that was spread, and then shine over the City once again for seven days using the Light we’ve gathered.</Content>
         </Dialog>
@@ -10557,14 +10557,14 @@ I appreciate your help, everyone.</Content>
           <Content>I don’t think Angela is just gonna sit and watch.</Content>
         </Dialog>
         <Dialog ID="23" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_16-01</VoiceFile>
           <Content>She asked us to wait until all the light has been retrieved.</Content>
         </Dialog>
         <Dialog ID="24" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_17-01</VoiceFile>
           <Content>She needs it for her own plans, after all.</Content>
         </Dialog>
@@ -10581,14 +10581,14 @@ I appreciate your help, everyone.</Content>
           <Content>Why, though? She’s the one who sabotaged your plan, so why be nice to her?</Content>
         </Dialog>
         <Dialog ID="27" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_18</VoiceFile>
           <Content>You’re right. I was frankly upset, but… I wanted to believe…</Content>
         </Dialog>
         <Dialog ID="28" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_19-02</VoiceFile>
           <Content>That we need to give Angela a chance.</Content>
         </Dialog>
@@ -10599,20 +10599,20 @@ I appreciate your help, everyone.</Content>
           <Content>You’ve got the patience of a saint.</Content>
         </Dialog>
         <Dialog ID="30" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_20-07</VoiceFile>
           <Content>To be honest! I’m still mad at her, and I still wanna snap at her even now…</Content>
         </Dialog>
         <Dialog ID="31" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_21</VoiceFile>
           <Content>But Enoch… This is what Enoch would’ve done. I’m sure of it.</Content>
         </Dialog>
         <Dialog ID="32" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_22-02</VoiceFile>
           <Content>He would’ve told me to trust her just a little more…</Content>
         </Dialog>
@@ -10635,14 +10635,14 @@ I appreciate your help, everyone.</Content>
           <Content>I just can’t think in such long terms.</Content>
         </Dialog>
         <Dialog ID="36" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_23-01</VoiceFile>
           <Content>I’m sure you’ll earn that insight when you meet someone who means as much to you!</Content>
         </Dialog>
         <Dialog ID="37" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_24-01</VoiceFile>
           <Content>So let’s hang on until then.</Content>
         </Dialog>
@@ -10659,8 +10659,8 @@ I appreciate your help, everyone.</Content>
           <Content>Thanks for the kind words, kid.</Content>
         </Dialog>
         <Dialog ID="40" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_25</VoiceFile>
           <Content>I am NOT a kid!</Content>
         </Dialog>
@@ -10671,8 +10671,8 @@ I appreciate your help, everyone.</Content>
       <Place>
         <PlaceName>Location: The Library – Floor of Natural Sciences</PlaceName>
         <Dialog ID="0" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_1</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -10683,14 +10683,14 @@ I appreciate your help, everyone.</Content>
           <Content>Lost in thought, are you? What could you be pondering about?</Content>
         </Dialog>
         <Dialog ID="2" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_2-01</VoiceFile>
           <Content>Long ago, I used to think that my existence didn’t have any meaning. I had no expectations for my life.</Content>
         </Dialog>
         <Dialog ID="3" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_3-01</VoiceFile>
           <Content>I just felt obligated… Obligated to live out the life given to me.</Content>
         </Dialog>
@@ -10701,20 +10701,20 @@ I appreciate your help, everyone.</Content>
           <Content>And that’s changed now?</Content>
         </Dialog>
         <Dialog ID="5" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_4</VoiceFile>
           <Content>Enoch was different. He always had his eyes set on the light that seemed so far away.</Content>
         </Dialog>
         <Dialog ID="6" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_5-01</VoiceFile>
           <Content>I wondered how he could have such an outlook…</Content>
         </Dialog>
         <Dialog ID="7" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_6-02</VoiceFile>
           <Content>But I think I understand now. It’s expectations that give us the strength to push through hardship.</Content>
         </Dialog>
@@ -10725,14 +10725,14 @@ I appreciate your help, everyone.</Content>
           <Content>Those expectations being…?</Content>
         </Dialog>
         <Dialog ID="9" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_7-01</VoiceFile>
           <Content>That we can trust things to become better tomorrow.</Content>
         </Dialog>
         <Dialog ID="10" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_8-02</VoiceFile>
           <Content>That my life holds possibilities and significance that could make this world a better place.</Content>
         </Dialog>
@@ -10743,38 +10743,38 @@ I appreciate your help, everyone.</Content>
           <Content>That’s too much optimism for me.</Content>
         </Dialog>
         <Dialog ID="12" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_9-01</VoiceFile>
           <Content>Natural science is a field of study born out of the urge to understand the inner workings of the world.</Content>
         </Dialog>
         <Dialog ID="13" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_10</VoiceFile>
           <Content>Pure curiosity…</Content>
         </Dialog>
         <Dialog ID="14" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_11</VoiceFile>
           <Content>Maybe people couldn’t stand the unfairness that came from the inability to understand the world around them.</Content>
         </Dialog>
         <Dialog ID="15" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_12-01</VoiceFile>
           <Content>So they began lighting up the world with knowledge; but only few made that advance while others went back into the shadow-filled cave they were in.</Content>
         </Dialog>
         <Dialog ID="16" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_13-01</VoiceFile>
           <Content>Still too few are in a bright spot where they can see all the laws of nature.</Content>
         </Dialog>
         <Dialog ID="17" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_14-01</VoiceFile>
           <Content>Most enclosed themselves with darkness yet again… Consuming the results without understanding the process.</Content>
         </Dialog>
@@ -10797,26 +10797,26 @@ I appreciate your help, everyone.</Content>
           <Content>It’s gonna carry on just fine with one fewer person anyway.</Content>
         </Dialog>
         <Dialog ID="21" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_15-02</VoiceFile>
           <Content>But that’s not what you’re meant to do.</Content>
         </Dialog>
         <Dialog ID="22" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_16-02</VoiceFile>
           <Content>You can’t keep your eyes shut forever. That’s not the humanity I know.</Content>
         </Dialog>
         <Dialog ID="23" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_17-01</VoiceFile>
           <Content>Humans constantly try to understand… and move toward light.</Content>
         </Dialog>
         <Dialog ID="24" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_18-02</VoiceFile>
           <Content>And I’m sure you’re no different.</Content>
         </Dialog>
@@ -10833,32 +10833,32 @@ I appreciate your help, everyone.</Content>
           <Content>All that’s ahead of me was darkness. There wasn’t a single glimpse of light…</Content>
         </Dialog>
         <Dialog ID="27" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_19-01</VoiceFile>
           <Content>It may seem as if there’s no light. You may think it’s too dark to see anything.</Content>
         </Dialog>
         <Dialog ID="28" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_20-02</VoiceFile>
           <Content>But the light is in fact still there…</Content>
         </Dialog>
         <Dialog ID="29" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_21-01</VoiceFile>
           <Content>There are many kinds of light, not just one.</Content>
         </Dialog>
         <Dialog ID="30" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_22-01</VoiceFile>
           <Content>Once you gain the insight to see those other lights, you don’t have to stay curled up in the darkness anymore.</Content>
         </Dialog>
         <Dialog ID="31" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_23-02</VoiceFile>
           <Content>Though it’s up to you to approach that light or stay in the darkness.</Content>
         </Dialog>
@@ -10893,8 +10893,8 @@ I appreciate your help, everyone.</Content>
           <Content>There’s no point doing that. Not in this City…</Content>
         </Dialog>
         <Dialog ID="37" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_24-02</VoiceFile>
           <Content>That’s not true; you will harbor expectations. You just refuse to admit it.</Content>
         </Dialog>
@@ -11007,14 +11007,14 @@ I appreciate your help, everyone.</Content>
           <Content>You… aren’t even a real human. What makes you think you can talk to me like you know all about people?</Content>
         </Dialog>
         <Dialog ID="55" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_25</VoiceFile>
           <Content>Because I know. Because I’ve seen it.</Content>
         </Dialog>
         <Dialog ID="56" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_26-03</VoiceFile>
           <Content>I’ve seen the struggles of humans who writhed in agony to illuminate the world, to grope their way to light.</Content>
         </Dialog>
@@ -11049,20 +11049,20 @@ I appreciate your help, everyone.</Content>
           <Content>Tiphereth, what happened while I was looking away for a moment?</Content>
         </Dialog>
         <Dialog ID="62" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_27-02</VoiceFile>
           <Content>…It looks like Roland’s mind resonated with this place.</Content>
         </Dialog>
         <Dialog ID="63" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_28-02</VoiceFile>
           <Content>The emotions were amplified from interactions with the Patron Librarian of each floor and their subject matter.</Content>
         </Dialog>
         <Dialog ID="64" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_29-02</VoiceFile>
           <Content>That might be why he got ruffled over small things and snapped… It’s only a guess, though.</Content>
         </Dialog>
@@ -11079,8 +11079,8 @@ I appreciate your help, everyone.</Content>
           <Content>I’m sure you know how to handle this situation by now, right, Tiphereth? I’m counting on you.</Content>
         </Dialog>
         <Dialog ID="67" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_30-03</VoiceFile>
           <Content>That faint smile on your face… Is this really fun to you?</Content>
         </Dialog>
@@ -11127,8 +11127,8 @@ I appreciate your help, everyone.</Content>
           <Content>…That wasn’t my proudest moment.</Content>
         </Dialog>
         <Dialog ID="4" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_31</VoiceFile>
           <Content>Are you feeling better now?</Content>
         </Dialog>
@@ -11139,8 +11139,8 @@ I appreciate your help, everyone.</Content>
           <Content>I dunno. I do kinda feel relieved, but that didn’t really feel like myself.</Content>
         </Dialog>
         <Dialog ID="6" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_32</VoiceFile>
           <Content>It’s good you vented out your feelings, at least.</Content>
         </Dialog>
@@ -11151,20 +11151,20 @@ I appreciate your help, everyone.</Content>
           <Content>I’m, uh… sorry about calling you a fake and stuff earlier.</Content>
         </Dialog>
         <Dialog ID="8" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_33-03</VoiceFile>
           <Content>I don’t mind. I’ve already gone through numerous repeats carrying someone’s memories.</Content>
         </Dialog>
         <Dialog ID="9" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_34</VoiceFile>
           <Content>I’m not sure if I really am the same as my past self anymore.</Content>
         </Dialog>
         <Dialog ID="10" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_35</VoiceFile>
           <Content>So you aren’t wrong on that account.</Content>
         </Dialog>
@@ -11175,32 +11175,32 @@ I appreciate your help, everyone.</Content>
           <Content>But… Are you okay with losing your old self completely?</Content>
         </Dialog>
         <Dialog ID="12" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_36-02</VoiceFile>
           <Content>Why’re you so serious about it?</Content>
         </Dialog>
         <Dialog ID="13" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_37-02</VoiceFile>
           <Content>I don’t care what my “original” is.</Content>
         </Dialog>
         <Dialog ID="14" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_38-02</VoiceFile>
           <Content>And I don’t mind if I’m stuck here as a librarian.</Content>
         </Dialog>
         <Dialog ID="15" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_39-02</VoiceFile>
           <Content>I’m good as long as I actually exist here and that I think.</Content>
         </Dialog>
         <Dialog ID="16" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_40-02</VoiceFile>
           <Content>Every one of us has our own worth and meaning simply by existing.</Content>
         </Dialog>
@@ -11211,20 +11211,20 @@ I appreciate your help, everyone.</Content>
           <Content>…Even for a man like me, who holds zero expectation?</Content>
         </Dialog>
         <Dialog ID="18" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_41-02</VoiceFile>
           <Content>I’m sure you do.</Content>
         </Dialog>
         <Dialog ID="19" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_42-02</VoiceFile>
           <Content>I’m honestly not very confident even though I speak like I know better.</Content>
         </Dialog>
         <Dialog ID="20" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_43-02</VoiceFile>
           <Content>But I still wanna have faith. You’re free to believe whatever you want, right?</Content>
         </Dialog>
@@ -20536,8 +20536,8 @@ because I am certain you will never leave me.”
           <Content>Make no mistake, Angela. We aren’t on your side. We only share a common goal.</Content>
         </Dialog>
         <Dialog ID="3" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Kether_ep2_Tiphereth1</VoiceFile>
           <Content>…Unlike that beanpole in black who’s totally sucking up to her.</Content>
         </Dialog>
@@ -20608,8 +20608,8 @@ because I am certain you will never leave me.”
           <Content>He’s right. I don’t believe that I failed to protect anything. I could save the life of someone who inherited her will.</Content>
         </Dialog>
         <Dialog ID="15" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Kether_ep2_Tiphereth2-02</VoiceFile>
           <Content>Enoch’s sacrifice… wasn’t in vain, either. That’s what I believe.</Content>
         </Dialog>
@@ -20638,20 +20638,20 @@ because I am certain you will never leave me.”
           <Content>Are you trying to call me selfish?</Content>
         </Dialog>
         <Dialog ID="20" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Kether_ep2_Tiphereth3-01</VoiceFile>
           <Content>No. Just like how you can’t understand our pain, we can’t understand yours.</Content>
         </Dialog>
         <Dialog ID="21" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Kether_ep2_Tiphereth4</VoiceFile>
           <Content>Especially if you never experienced the same thing yourself.</Content>
         </Dialog>
         <Dialog ID="22" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Kether_ep2_Tiphereth5</VoiceFile>
           <Content>Others can’t just walk a mile in your shoes. No one will get you if you don’t speak up.</Content>
         </Dialog>
@@ -20680,8 +20680,8 @@ because I am certain you will never leave me.”
           <Content>That was way too harsh, guys. Did you really have to be so hard on her?</Content>
         </Dialog>
         <Dialog ID="27" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Kether_ep2_Tiphereth6</VoiceFile>
           <Content>It’s not because we hate her. We’re saying this for Angela’s sake.</Content>
         </Dialog>
@@ -20698,8 +20698,8 @@ because I am certain you will never leave me.”
           <Content>Hear, hear~ Tiphereth and I tell Gebura so many things for her own good, too.</Content>
         </Dialog>
         <Dialog ID="30" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Kether_ep2_Tiphereth7-01</VoiceFile>
           <Content>…Um, Chesed.</Content>
         </Dialog>
@@ -20710,8 +20710,8 @@ because I am certain you will never leave me.”
           <Content>…</Content>
         </Dialog>
         <Dialog ID="32" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Kether_ep2_Tiphereth8</VoiceFile>
           <Content>Run, Chesed!</Content>
         </Dialog>
@@ -20734,8 +20734,8 @@ because I am certain you will never leave me.”
           <Content>…Are those two always like that?</Content>
         </Dialog>
         <Dialog ID="36" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Kether_ep2_Tiphereth9-01</VoiceFile>
           <Content>Yeah. He does that every day knowing she’ll get mad at him…</Content>
         </Dialog>
@@ -20752,14 +20752,14 @@ because I am certain you will never leave me.”
           <Content>And you’re acting as the mediator between those two?</Content>
         </Dialog>
         <Dialog ID="39" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Kether_ep2_Tiphereth10-01</VoiceFile>
           <Content>Who knows what kind of mess this place would be if I didn’t stop them.</Content>
         </Dialog>
         <Dialog ID="40" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Patron Librarian - Nat. Sciences</Title>
+          <Teller>ทิฟาเรธ</Teller>
+          <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Kether_ep2_Tiphereth11</VoiceFile>
           <Content>But still, they actually care for each other, so don’t think too badly of them.</Content>
         </Dialog>
