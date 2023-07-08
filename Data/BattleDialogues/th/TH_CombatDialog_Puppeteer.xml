@@ -3,19 +3,19 @@
   <GroupName>Puppeteer</GroupName>
   <Character ID="Puppet">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">กิกิกกิกิกิกิ</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">กรา กราาา.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">กิวกิวกิว… กิ.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_3">เกอกะกะกะ. เกอะ</BattleDialog>
-      <BattleDialog ID="START_BATTLE_4">กลิกิกิ กิวกิ. กิด</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">กุกกักกุกกัก</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">กรอบแกรบ กรอบแกรบ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">กรุกรุก… กุกกัก</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">กรี๊สสสสกิส เกรซ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">กุกกัก กรอบแกรบ</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY" />
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">กิกิกิกิ… กิดกิดกิด…</BattleDialog>
-      <BattleDialog ID="DEATH_1">กรากิกิ… เกอกะกะกะ…</BattleDialog>
-      <BattleDialog ID="DEATH_2">กี… กิกิกิกิกิ…</BattleDialog>
-      <BattleDialog ID="DEATH_3">กิกิกิกิ กิกิ กิ…</BattleDialog>
-      <BattleDialog ID="DEATH_4">เกอะกะกะ…</BattleDialog>
+      <BattleDialog ID="DEATH_0">กุกกักกุกกัก… กรุกรุกกุกกัก…</BattleDialog>
+      <BattleDialog ID="DEATH_1">กรอบแกรบ… กรอบแกรบกรอบแกรบ…</BattleDialog>
+      <BattleDialog ID="DEATH_2">กรุกกุก… กุกกักกุกกัก…</BattleDialog>
+      <BattleDialog ID="DEATH_3">กุกกักกิส เกรซ กุก…</BattleDialog>
+      <BattleDialog ID="DEATH_4">กรอบแกรบ…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH" />
     <Type ID="KILLS_OPPONENT" />
