@@ -3,43 +3,43 @@
   <GroupName>Tomerry</GroupName>
   <Character ID="Tomerry">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">She said she’ll give me a prize if I bring her books. I can’t wait!</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">This looks larger than our town… And I’m seeing lots of tiny people like mommy…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">A good kid does whatever they’re told to without complaining!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">แม่บอกว่า แม่จะให้รางวัลหนูถ้าหนูเอาหนังสือของคุณมา หนูรอแถบไม่ไหวแล้ว!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ที่นี่ดูใหญ่กว่าเมืองของพวกหนูอีก… และหนูเห็นคนตัวเล็กๆ เหมือนแม่เยอะเลย…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">เด็กดีจะทำทุกอย่างที่ผู้ปกครองบอก โดยไม่บ่น!</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Mommy will be happy if I bring a bunch of books with me, right?</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">I think daddy’s gonna praise me as well this time!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">แม่คงดีใจใช่ไหมถ้าหนูเอาหนังสือไปด้วยใช่ไหม?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">หนูคิดว่าพ่อจะชมหนูแน่นอนในครั้งนี้!</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">…I feel empty. It’s like part of me disappeared. I’m sad… I feel like crying……</BattleDialog>
+      <BattleDialog ID="DEATH_0">…หนูรู้สึกว่างเปล่า มันเหมือนว่าส่วนหนึ่งของหนูหายไป หนูเศร้า… หนูรู้สึกอยากร้องไห้……</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">They look even stronger than the bad guys who bully our town…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">My friends… They’re in so much pain… What do I do…?</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">Ah… M—Mommy might punish me…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">พวกเขาดูแข็งแกร่งกว่าพวกคนเลวที่รังแกเมืองของหนูอีก…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">เพื่อนของหนู… พวกเขาเจ็บมากเลย… หนูจะทำอย่างไรดี…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">อะ… ม—แม่ อาจจะลงโทษหนูได้…</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">We’re here to bring peace with our townspeople!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">If mommy sees me working hard… She’ll praise me, right? Hooray…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Do you like playing together? Me too, it’s so fun and joyful!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">พวกเรามาที่นี่เพื่อนำความสงบสุขมาสู่ชาวเมืองของเรา!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ถ้าแม่เห็นหนูทำงานหนัก… แม่จะชมหนูใช่ไหม? ไชโย…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">คุณชอบเล่นไหม? เพราะหนูเองก็สนุกและมีความสุขมากที่ได้เล่น!</BattleDialog>
     </Type>
   </Character>
   <Character ID="Tomerry_Phase2">
     <Type ID="START_BATTLE" />
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I’m so lonely, it’s unbearable to be alone… Where did I go?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">หนูเหงามาก ที่ได้อยู่คนเดียว จนทนไม่ได้… หนูไปอยู่ที่ไหนมา?</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">…Where are you. I’m so scared… Come back to my side. Tommy… Tommy…</BattleDialog>
+      <BattleDialog ID="DEATH_0">…คุณอยู่ที่ไหน ฉันกลัวมาก… กลับมาที่หาฉันสิ ทอมมี่… ทอมมี่…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
       <BattleDialog ID="COLLEAGUE_DEATH_0">………</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">If you don’t understand the power of love… This will help you get it.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">This is punishment for harrassing me.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">…For my dear mom.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ถ้าคุณไม่เข้าใจพลังแห่งความรักละก็… สิ่งนี้คงจะช่วยให้คุณได้รับมัน</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">นี่คือบทลงโทษของหนู ที่จะมอบให้คุณ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">…นี้สำหรับแม่ของหนู</BattleDialog>
     </Type>
   </Character>
   <Character ID="LoveTownPeople">

@@ -40,11 +40,11 @@
   </Character>
   <Character ID="PupleTear_MeetGebura">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">ฉันไม่แน่ใจ เธอเป็นคนเดียวกับคาลีงั้นเหรอ?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ฉันไม่แน่ใจ เธอเป็นคนเดียวกันกับกาลีงั้นเหรอ?</BattleDialog>
       <BattleDialog ID="START_BATTLE_1">มาดูกันว่าคุณจำคำสอนของฉันอยู่ได้ไหม… สนใจมาแสดงให้ฉันเห็นไหมละ?</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">คาลี เป็นนักเรียนที่ค่อนข้างจัดการได้ยากเลยละ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">กาลี เป็นนักเรียนที่ค่อนข้างจัดการได้ยากเลยละ</BattleDialog>
     </Type>
     <Type ID="DEATH">
       <BattleDialog ID="DEATH_0">คุณยังจำมันได้ เยี่ยม…</BattleDialog>
