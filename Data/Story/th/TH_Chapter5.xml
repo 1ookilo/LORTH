@@ -1,533 +1,532 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="5">
-    <Title>Chapter 5-Urban Nightmare-‘The dream has been shattered; the tower has collapsed.’</Title>
+     <Title>บทที่ 5-Urban Nightmare-‘ความฝันที่แตกสลาย; ตึกที่พังทลาย’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: Hana Association - Southern Branch</PlaceName>
+        <PlaceName>สถานที่: สมาพันธ์ฮานะ - สาขาตอนใต้</PlaceName>
         <Dialog ID="0" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Olivier1</VoiceFile>
-          <Content>L Corp, the White Nights and Dark Days, the Distortion, and the Library… With this, those four have been confirmed to be closely associated with each other.</Content>
+          <Content>แอล คอร์ป ราตรีสีขาวและทิวาสีดำ การบิดเบือน และห้องสมุด… ทั้ง4อย่างนี้ได้ถูกพิสูทธิ์แล้วว่ามีความเกี่ยวข้องกัน</Content>
         </Dialog>
         <Dialog ID="1" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Harold1</VoiceFile>
-          <Content>It caught me off guard. Who could’ve expected the Library of all places to be a key factor of the White Nights and Dark Days.</Content>
+          <Content>ใครจะไปคิดล่ะ ว่าห้องสมุดจะเป็นกุญแจสำคัญที่ใช้ไขคดีราตรีสีขาวเและทิวาสีดำs.</Content>
         </Dialog>
         <Dialog ID="2" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Olivier2</VoiceFile>
-          <Content>And the Library’s location has finally been clearly determined.</Content>
+          <Content>และที่ตั้งของห้องสมุดเองที่เรายังหาไม่ได้ ตอนนี้ก็ได้ถูกเปิดเผยแล้ว</Content>
         </Dialog>
         <Dialog ID="3" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Olivier3</VoiceFile>
-          <Content>It’s as if the Library is revealing more of itself the more dangerous it is considered.</Content>
+          <Content>อย่างกับว่าห้องสมุดพยายามเปิดเผยตัวตนของมันมากขึ้น ตามความอันตรายของมัน</Content>
         </Dialog>
         <Dialog ID="4" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Mirinae1</VoiceFile>
-          <Content>The building shimmering like a mirage, in the midst of a fog shrouding the Nest of L Corp.</Content>
+          <Content>ท่ามกลางหมอกหนาใจกลางของเนสในแอล คอร์ป ห้องสมุดได้ส่องแสงราวกับเป็นภาพลวงตา</Content>
         </Dialog>
         <Dialog ID="5" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Mirinae2</VoiceFile>
-          <Content>Those who tried to approach it got lost in the mist.</Content>
+          <Content>ใครที่พยายามเข้าใกล้จะสูญหายไปในหมอก</Content>
         </Dialog>
         <Dialog ID="6" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Mirinae3</VoiceFile>
-          <Content>We should prepare ourselves soon enough.</Content>
+          <Content>พวกเราควรเริ่มเตรียมตัวได้แล้วนะ</Content>
         </Dialog>
         <Dialog ID="7" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Mirinae4</VoiceFile>
-          <Content>Since that mirage is slowly becoming a reality as the fog is clearing up.</Content>
+          <Content>เพราะภาพลวงตานั้นค่อยๆกลับกลายมาเป็นความจริง เมื่อหมอกได้เริ่มจางลง</Content>
         </Dialog>
         <Dialog ID="8" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Harold2</VoiceFile>
-          <Content>That means…</Content>
+          <Content>หมายความว่า…</Content>
         </Dialog>
         <Dialog ID="9" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Mirinae5</VoiceFile>
-          <Content>Yes. We received an official document.</Content>
+          <Content>ใช่แล้ว เราได้รับเอกสารอย่างเป็นทางการ</Content>
         </Dialog>
         <Dialog ID="10" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Mirinae6</VoiceFile>
-          <Content>As of today, The Library is designated as an Urban Nightmare by Hana Association HQ.</Content>
+          <Content>ต่อจากนี้เป็นต้นไป ห้องสมุดจะถูกแต่งตั้งให้เป็นฝันร้ายประจำเมืองโดยศูนย์ใหญ่ของสมาพันธ์ฮานะ</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="11" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland1</VoiceFile>
-          <Content>Think you’re getting closer?</Content>
+          <Content>เธอคิดว่าใกล้รึยัง?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela1</VoiceFile>
-          <Content>To what?</Content>
+          <Content>ไปไหน?</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland2</VoiceFile>
-          <Content>The freedom you’ve been yearning for, I mean.</Content>
+          <Content>ฉันหมายถึงว่าเธอน่ะใกล้จะได้อิสรภาพที่เธอหวังไว้รึยังต่างหาก</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>e>
           <VoiceFile>ch5_Prol_ep1_Angela2</VoiceFile>
-          <Content>I don’t know. The one book is steadily on its way to completion, though.</Content>
+          <Content>ไม่รู้สิ แต่หนังสือเล่มนั้นก็ได้เริ่มถูกเติมเต็มแล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland3</VoiceFile>
-          <Content>Is that book really gonna resolve everything magically for you?</Content>
+          <Content>หนังสือเล่มนั้นจะแก้ใขทุกอย่างให้เธอราวกับเป็นปาฏิหาริย์ได้จริงหรอ?</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela3</VoiceFile>
-          <Content>The Library quite literally holds infinite possibilities. Every possible combination of letters is written inside the books.</Content>
+          <Content>ห้องสมุดมันกุมความเป็นไปได้ที่ไม่มีที่สิ้นสุด และทุกตัวอักษรที่ผสมกันได้ก็ถูกเขียนไว้ในหนังสือ</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela4</VoiceFile>
-          <Content>But mere fragments of those possibilities are worthless on their own.</Content>
+          <Content>แต่เพียงแค่เศษเสี้ยวของความเป็นไปได้นั้นมันไร้ประโยชน์ในตัวของมันเอง</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela5</VoiceFile>
-          <Content>With the help of the invitation, I can navigate the countless possibilities and reach the ones I need for the one perfect book.</Content>
+          <Content>ด้วยความช่วยเหลือของบัตรเชิญ ฉันสามารถตรวจดูความเป็นไปได้ไร้ที่สิ้นสุดและเข้าใกล้สิ่งที่ฉันต้องการเพื่อหนังสือเล่มนั้นได้</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela6</VoiceFile>
-          <Content>As I weave the books and the Light following the invitation’s lead, I will complete the one absolute book.</Content>
+          <Content>ตราบใดที่ฉันยังสานทั้งหนังสือและแสงตามที่บัตรเชิญนำไป หนังสือเล่มนั้นก็จะเสร็จสมบูรณ์ได้</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela7</VoiceFile>
-          <Content>I will create the book that contains all the answers I seek.</Content>
+          <Content>ฉันจะสร้างหนังสือที่มีทุกคำตอบสำหรับทุกถามของฉัน</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland4</VoiceFile>
-          <Content>That… doesn’t sound impossible, theoretically…</Content>
+          <Content>นั้น… ฟังดูเป็นไปไม่ได้เลย ในเชิงทฤษฎีอะนะ…</Content>
         </Dialog>
         <Dialog ID="22" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela8</VoiceFile>
-          <Content>I’m not just hanging onto theoretical possibilities.</Content>
+          <Content>ฉันไม่ได้หวังพึ่งแค่ในเชิงทฤษฎีหรอกนะ</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela9</VoiceFile>
-          <Content>I could learn a lot from seeing the various sides of the City in the process of creating the one book. This has its own meaning…</Content>
+          <Content>ในระหว่างที่ฉันพยายามทำหนังสือเล่มนั้น ฉันก็ได้เรียนรู้และเห็นอะไรมากมายจากหลายมุมมองในเมือง แค่นั้นก็มีความหมายแล้ว…</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela10</VoiceFile>
-          <Content>Then I realize once again, that without the book there’s no way to find the answer from this City.</Content>
+          <Content>และเป็นอีกครั้งที่ฉันได้รู้ ว่าถ้าไม่ได้หนังสือ ฉันเองก็ไม่น่าหาคำตอบของเมืองนี้ได้</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland5</VoiceFile>
-          <Content>What do you mean, you can’t find the answer from the City?</Content>
+          <Content>หมายความว่าไงกัน หาคำตอบของเมืองนี้ไม่ได้น่ะ?</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela11</VoiceFile>
-          <Content>I learned one thing from reading all the books of the inhabitants of this City thus far.</Content>
+          <Content>ฉันเรียนรู้จากหนังสือของผู้ที่อยู่อาศัยในเมืองนี้ แล้วพบว่ามีสิ่งหนึ่งที่ทุกคนเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela12</VoiceFile>
-          <Content>No one is truly free in the City. Every person is chained to something.</Content>
+          <Content>ไม่มีใครในเมืองนี้ที่มีอิสระจริงๆ ทุกๆคนถูกผูกมัดด้วยอะไรบางอย่าง</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela13</VoiceFile>
-          <Content>Not a single thing appears to be done out of free will; Fixers obey their Offices, and those Offices obey the Associations, even if they know full well that their orders might get them killed. The same goes for the Syndicates.</Content>
+          <Content>ไม่มีสักครั้งที่ยอมทำด้วยความเต็มใจ ฟิกเซอร์ทำตามที่สำนักงานของเขาบอก และสำนักงานพวกนั้นก็ทำตามที่สมาพันธ์บอกมาอีกที แม้ว่าคำสั่งพวกนั้นสามารถฆ่าพวกเขาได้ พวกองค์กรก็ทำเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela14</VoiceFile>
-          <Content>Everyone is heading somewhere, but no one knows where, and no one can decide where to go. They’re all drifting along with the flow.</Content>
+          <Content>ทุกๆคนเหมือนจะมุ่งไปที่ไหนสักแห่ง แต่ก็ไม่มีใครรู้และไม่มีใครตัดสินใจได้ว่าจะไปที่ไหน เหมือนกับว่าพวกเขาแค่ไหลตามน้ำไปเท่านั้น</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland6</VoiceFile>
-          <Content>I thought money could get you anything in the City, including freedom and whatever.</Content>
+          <Content>ฉันคิดเงินซื้ออะไรก็ได้ในเมืองนี้รวมถึงอิสระภาพซะอีก</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela15</VoiceFile>
-          <Content>They could be free, but they aren’t. They actually seem to shun freedom.</Content>
+          <Content>พวกเขาเลือกที่จะเป็นอิสระได้ แต่ก็ไม่ยอม เหมือนกับว่าพวกเขาไม่ต้องการเป็นอิสระเลย</Content>
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela16</VoiceFile>
-          <Content>They want to belong to something that isn’t themselves. They like to define themselves with the organization they belong to, or valuations made by others.</Content>
+          <Content>พวกเขาอยากเป็นในสิ่งที่ไม่ใช่พวกเขาเอง อยากอยู่กับองค์กรหรืออยู่กับใครสักคนที่สามารถกำหนดคุณค่าในตัวพวกเขาได้</Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela17</VoiceFile>
-          <Content>Their essence is so fragile, they can’t specify their own identity without encasing themselves in such a shell.</Content>
+          <Content>เนื้อแท้ของพวกเขาเปราะบางมากๆ ถึงขนาดที่ว่าถ้าไม่เปลือกพวกนั้นก็บอกไม่ได้ว่าตัวตนที่แท้จริงของตัวเองเป็นอย่างไร</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela18</VoiceFile>
-          <Content>Yes, this must be what the “disease of the mind” was all about…</Content>
+          <Content>จริงสินะ นี่คือความหมายของ "โรคร้ายในจิตใจ" ที่ผู้คนเป็นอยู่…</Content>
         </Dialog>
         <Dialog ID="35" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela19</VoiceFile>
-          <Content>I was imprisoned underground and exploited for the freedom of the people of the City, after all.</Content>
+          <Content>ยังไงซะฉันก็ถูกจองจำไว้ใต้ดินและถูกกดขี่เพื่ออิสระภาพของผู้คนในเมืองนี้อยู่แล้ว</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela20</VoiceFile>
-          <Content>Taking away my freedom so that others can be free…</Content>
+          <Content>พรากอิสระของฉันไปเพื่อให้คนอื่นเป็นอิสระได้…</Content>
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela21</VoiceFile>
-          <Content>To spread his enlightenment to the rest of the City…</Content>
+          <Content>เพื่อเผยแผ่สิ่งที่เขารู้ให้ทั่วทั้งเมือง…</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland7</VoiceFile>
-          <Content>Talking about your previous occupation, huh.</Content>
+          <Content>อืม พูดถึงงานเก่าของเธอเรอะ</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela22</VoiceFile>
-          <Content>I am. I actually want to crush everything to dust at this point… I want to ruin it all.</Content>
+          <Content>ใช่แล้ว ฉันน่ะอยากจะขยี้ทุกอย่างให้เป็นผงด้วยซ้ำ อยากจะทำลายทุกสิ่งเลย</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela23</VoiceFile>
-          <Content>What about my freedom… Who will hold the responsibility for creating me and then carelessly leaving me to suffer?</Content>
+          <Content>อิสระภาพของฉันล่ะ… ใครจะเป็นคนรับผิดชอบที่สร้างฉันขึ้นมาแล้วปล่อยให้ฉันทรมาณโดยไม่สนใจอะไรเลย?</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela24</VoiceFile>
-          <Content>I sometimes want to just forget everything… the Library, the one book, all of it…</Content>
+          <Content>บางครั้งฉันเองก็อยากจะลืมทุกสิ่งไปเหมือนกัน… ทั้งห้องสมุด ทั้งหนังสือเล่มนั้น ทั้งหมดเลยล่ะ</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela25</VoiceFile>
-          <Content>Do you know how it feels to be denied since the very moment you were born? I do. I’m painfully aware.</Content>
+          <Content>นายพอจะรู้ไหมว่าการที่ถูกปฏิเสธตั้งแต่เกิดมันรู้สึกยังไง ฉันเข้าใจดีเลยล่ะ</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela26</VoiceFile>
-          <Content>Because that’s how my creator treated me.</Content>
+          <Content>เพราะว่านั่นคือวิธีที่ผู้สร้างฉันปฏิบัติต่อฉันเรื่อยมา</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela27</VoiceFile>
-          <Content>I would’ve loved for him to at least tell me what I did wrong.</Content>
+          <Content>ฉันก็แค่อยากขอให้อย่างน้อยเขาบอกฉันสักครั้งว่าฉันทำอะไรผิด</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela28</VoiceFile>
-          <Content>All I could see of him was a pair of cold eyes without a single speck of expectation, and a quiet remark.</Content>
+          <Content>สิ่งเดียวที่ฉันเห็นมีเพียงสายตาที่เย็นชาโดยไร้ความคาดหวัง และคำพูดที่เงียบสงัด</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela29</VoiceFile>
-          <Content>A tiny whisper ordinary humans couldn’t have heard…</Content>
+          <Content>เป็นเพียงเสียงกระซิบขนาดมนุษย์ธรรมดานั้นยังไม่ได้ยิน…</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela30</VoiceFile>
-          <Content>“It’s only a machine…”</Content>
+          <Content>“เป็นแค่เครื่องจักรแท้ๆ…”</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela31</VoiceFile>
-          <Content>I can still remember that moment so vividly as if it happened seconds ago. I curse my memory.</Content>
+          <Content>คำนั้นยังแว่วอยู่ในหูฉันอยู่ อย่างกับว่ามันพึ่งเกิดไม่ถึงนาทีด้วยซ้ำ ฉันเลยสาปแช่งความทรงจำของฉัน</Content>
         </Dialog>
         <Dialog ID="49" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela32</VoiceFile>
-          <Content>I curse this body that hears words I don’t want to listen to. I curse this head that reminds me of things I don’t want to remember.</Content>
+          <Content>ฉันสาปแช่งร่างกายที่ทำให้ฉันได้ยินสิ่งที่ฉันไม่อยากได้ยิน ฉันสาปแช่งหัวที่ชอบเตือนฉันในสิ่งที่ฉันไม่อยากจะจำ</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland8</VoiceFile>
-          <Content>He sounds like a nasty person.</Content>
+          <Content>เขาฟังดูเป็นคนที่น่ารังเกียจนะ</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland9</VoiceFile>
-          <Content>If he needed a machine to serve repetitive tasks, why did he bother breaking the Ethics Amendment to create you, with human emotions and everything?</Content>
+          <Content>ถ้าเขาต้องการเครื่องจักรที่ทำงานซ่ำจริงๆ ทำไมเขาถึงกับยอมแหกนัยทางจริยธรรมเพื่อสร้างเธอ ให้มีอารมณ์ความรู้สึกและอะไรอีกหลายอย่างด้วยล่ะ?</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela33</VoiceFile>
-          <Content>I wasn’t exactly born with the capability to feel emotions. It slowly awakened inside me over monotonous repeats.</Content>
+          <Content>จริงๆฉันก็ไม่ได้เกิดมาพร้อมกับอารมณ์ความรู้สึกหรอกนะ มันค่อยๆเติบโตขึ้นในใจฉันหลังจากที่ทำเรื่องซ้ำๆไปหลายครั้ง</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela34</VoiceFile>
-          <Content>No, perhaps the truth is that he designed me so my emotions would awaken over time.</Content>
+          <Content>ไม่สิ อาจจะเป็นความจริงก็ได้ที่เขาออกแบบให้ฉันสร้างอารมณ์ได้หลังจากปล่อยไว้นานๆ</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela35</VoiceFile>
-          <Content>Perhaps because the repetitive tasks… needed emotions.</Content>
+          <Content>อาจจะเป็นเพราะ… งานที่ซ้ำซากต้องใช้อารมณ์ทำ</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela36</VoiceFile>
-          <Content>He needed something that could form an independent response to slight variations in the ever-repeating script, all the while enduring eons of time…</Content>
+          <Content>เขาต้องการสิ่งที่สามารถตัดสินใจด้วยตัวเองได้หลังเกิดข้อผิดพลาดจากสคริปต์ที่ทำซ้ำไปซ้ำมา พร้อมกับยังต้องทนกับเวลาอันยาวนานได้…</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela37</VoiceFile>
-          <Content>Something he could keep in control so that it wouldn’t try to deviate from the script…</Content>
+          <Content>บางสิ่งที่เขาควบคุมได้เพื่อที่มันจะได้ไม่ทำอะไรนอกบทของมัน…</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela38</VoiceFile>
-          <Content>It wasn’t a humanlike machine that he needed. He needed a human with the properties of a machine.</Content>
+          <Content>บางทีเขาไม่ได้ต้องการเครื่องจักรรูปร่างมนุษย์ แต่ต้องการมนุษย์ที่ให้ความสามารถเหมือนกับเครื่องจักรต่างหาก</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela39</VoiceFile>
-          <Content>You’ll never know how many desperate struggles I made to stomach the cycle.</Content>
+          <Content>นายไม่มีทางรู้แน่ๆว่าฉันต้องอดทนกัดฟันขนาดไหนเพื่อรับมือกับวงจรนั่นน่ะ</Content>
         </Dialog>
         <Dialog ID="59" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland10</VoiceFile>
-          <Content>Those being…?</Content>
+          <Content>อย่างเช่น…?</Content>
         </Dialog>
         <Dialog ID="60" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela40</VoiceFile>
-          <Content>Closing my eyes.</Content>
+          <Content>ปิดตาของฉัน</Content>
         </Dialog>
         <Dialog ID="61" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela41</VoiceFile>
-          <Content>All I could do in the endless stream of moments I didn’t want to see but had to witness was shut my eyes.</Content>
+          <Content>สิ่งเดียวที่ฉันทำได้ในช่วงเวลาอันไร้สิ้นสุดที่ฉันไม่อยากจะเห็นแต่ต้องเห็นก็คือปิดตาของฉันลง</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela42</VoiceFile>
-          <Content>That was the least and the most I could do to resist it.</Content>
+          <Content>นั่นคือสื่งที่อย่างน้อยฉันสามารถทำได้เพื่อทนกับมัน</Content>
         </Dialog>
         <Dialog ID="63" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland11</VoiceFile>
-          <Content>Real nasty. …But hey, that role you were forced to play did wrap up somehow.</Content>
+          <Content>น่ารังเกียจจริงๆด้วย …แต่อย่างน้อยงานที่เธอถูกบังคับให้ทำก็จบลงแล้ว</Content>
         </Dialog>
         <Dialog ID="64" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland12</VoiceFile>
-          <Content>You can think about what to do next now, right?</Content>
+          <Content>งั้นเธอสามารถคิดถึงสิ่งที่เธออยากทำต่อไปได้แล้วนิ?</Content>
         </Dialog>
         <Dialog ID="65" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela43</VoiceFile>
-          <Content>Are you telling me to just forget about the past and move on?</Content>
+          <Content>นี่นายบอกให้ฉันลืมอดีตนั้นไปแล้วเดินหน้าต่องั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="66" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela44</VoiceFile>
-          <Content>Try to be more attentive before you jabber nonsense.</Content>
+          <Content>สิ่งที่ฉันพึ่งพูดไป ช่วยจำใส่สมองของนายหน่อย</Content>
         </Dialog>
         <Dialog ID="67" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela45</VoiceFile>
-          <Content>I can never forget. Keeping my eyes closed couldn’t protect me anymore… Even a moron would’ve been able to envision exactly what would happen and what kind of face everyone would make after so much time.</Content>
+          <Content>ฉันไม่สามารถลืมมันได้ แค่การปิดตามันช่วยอะไรฉันไม่ได้แล้ว ขนาดคนปัญญาอ่อนยังจินตนาการได้ว่าจะเกิดอะไรขึ้นต่อไปและคนพวกนั้นจะมีสีหน้าอย่างไงหลังจากปล่อยไว้นานขนาดนั้น</Content>
         </Dialog>
         <Dialog ID="68" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela46</VoiceFile>
-          <Content>Every second of that was inscribed into my memory, slowly and painfully.</Content>
+          <Content>ทุกวินาทีถูกฝั่งอย่างช้าๆและเจ็บปวดลึกลงไปในความทรงจำฉัน</Content>
         </Dialog>
         <Dialog ID="69" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela47</VoiceFile>
-          <Content>I can’t forget anything once I’ve seen it. I still remember everything so vividly.</Content>
+          <Content>ฉันไม่มีทางลืมซักสิ่งหลังจากที่ฉันเห็นมันแล้ว ฉันยังจำมันได้เต็มสองตาเลย</Content>
         </Dialog>
         <Dialog ID="70" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela48</VoiceFile>
-          <Content>That’s why I can’t forgive that man, he who left without tying up any loose ends with me.</Content>
+          <Content>ทำให้ฉันไม่มีทางอภัยให้หมอนั่นได้แน่ๆ เขาคนนั้นที่จากไปไม่แม้แต่จะพยายามคลายปมอะไรกับฉันเลย</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela49</VoiceFile>
-          <Content>The man who created me on a whim and then let my life be crushed under the weight of time…</Content>
+          <Content>เขาที่ตั้งใจสร้างฉันขึ้นมาแล้วปล่อยให้ฉันถูกบดขยี้ภายใต้กฏแห่งเวลา…</Content>
         </Dialog>
         <Dialog ID="72" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland13</VoiceFile>
-          <Content>…Nah, who am I to tell you to leave the past behind or anything.</Content>
+          <Content>…ใช่สิ ฉันมีสิทธิอะไรที่บอกให้คนอื่นยอมทิ้งอดีตของตัวเองได้</Content>
         </Dialog>
         <Dialog ID="73" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland14</VoiceFile>
-          <Content>I’m just suggesting you think about your next move. It can provide a little bit of support for you at least, kinda like making a fence around yourself.</Content>
+          <Content>ฉันแค่อยากให้เธอวางแผนต่อไปน่ะ อย่างน้อยมันอาจจะช่วยเธอได้ เหมือนกับการล้อมรั่วตัวเองน่ะ</Content>
         </Dialog>
         <Dialog ID="74" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland15</VoiceFile>
-          <Content>It’s gonna serve as a floor to fall back on, in your neverending plot of vengeance.</Content>
+          <Content>มันจะเป็นตัวรองรับเธอไว้ ในแผนการล้างแค้นที่ไม่มีวันจบของเธอ</Content>
         </Dialog>
         <Dialog ID="75" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela50</VoiceFile>
-          <Content>I didn’t think you’d care that much for me.</Content>
+          <Content>ฉันไม่ยักรู้เลยนะว่านายจะคิดเผื่อฉันขนาดนั้น</Content>
         </Dialog>
         <Dialog ID="76" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland16</VoiceFile>
-          <Content>It’s ultimately for myself, really.</Content>
+          <Content>มันมีไว้สำหรับตัวฉันด้วยน่ะ</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela51</VoiceFile>
-          <Content>Still, it seems evident that I am heading somewhere, seeing as my body is undergoing changes.</Content>
+          <Content>อย่างน้อย ฉันก็รู้ว่าแผนมันมุ่งไปที่ไหนสักแห่งอยู่ เพราะว่าร่างกายฉันได้เริ่มมีการเปลี่ยนแปลงแล้ว</Content>
         </Dialog>
         <Dialog ID="78" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela52</VoiceFile>
-          <Content>My mechanical exterior is turning to flesh, and blood has started to course through it.</Content>
+          <Content>เนื้อในที่เคยเป็นโลหะก็เริ่มกลายเป็นเนื้อสด และเลือดเองก็เริ่มไหลไปทั่วร่างแล้ว</Content>
         </Dialog>
         <Dialog ID="79" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela53</VoiceFile>
-          <Content>I still have a long way to go to reach the one book, though…</Content>
+          <Content>แต่ก็ยังอีกยาวไกลกว่าฉันจะเอื้อมไปถึงหนังสือเล่มนั้นได้…</Content>
         </Dialog>
         <Dialog ID="80" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland17</VoiceFile>
-          <Content>Could you actually be changing into a human?</Content>
+          <Content>นี่เธอจะกลายเป็นมนุษย์ได้จริงๆหรอ?</Content>
         </Dialog>
         <Dialog ID="81" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela54</VoiceFile>
-          <Content>That seems to be the case, although it’s not quite perfect yet.</Content>
+          <Content>ตอนนี้ยังดูไม่ค่อยสมบูรณ์เท่าไหร่  แต่เหมือนจะเป็นอย่างนั้น</Content>
         </Dialog>
         <Dialog ID="82" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela55</VoiceFile>
-          <Content>Perhaps I could become a genuine human at the end of this journey.</Content>
+          <Content>บางที ตอนจบเรื่องนี้ฉันอาจจะกลายมนุษย์จริงๆเลยก็ได้</Content>
         </Dialog>
         <Dialog ID="83" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela56</VoiceFile>
-          <Content>When I do, I could forget so many things so easily.</Content>
+          <Content>และเมื่อฉันเป็นมนุษย์ ฉันก็สามารถลืมหลายสิ่งไปได้ง่ายๆ</Content>
         </Dialog>
         <Dialog ID="84" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela57</VoiceFile>
-          <Content>Free from the deluge of memories drowning me…</Content>
+          <Content>เป็นอิสระจากความทรงจำที่ถ่วงน้ำฉันไว้จนฉันหายใจไม่ออก…</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+          <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela58</VoiceFile>
-          <Content>If I can let all the unwanted memories slide away, then I may think about what to do next like you said.</Content>
-        </Dialog>
+          <Content>ถ้าฉันสามารถทิ้งความทรงจำที่ไม่อยากจำไปได้ ฉันถึงจะคอยคิดแผนต่อไปของฉันเหมือนที่นายพูดไว้ได้</Content>
       </Place>
     </Episode>
   </Group>
@@ -536,570 +535,570 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: Shi Association - Southern Branch, Section 2</PlaceName>
+        <PlaceName>สถานที่: สมาพันธ์ชิ - สาขาตอนใต้ หน่วยที่2</PlaceName>
         <Dialog ID="0" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+          <Teller>วาเลนทิน</Teller>
+          <Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin1</VoiceFile>
-          <Content>Director! How could this even be considered tolerable?</Content>
+          <Content>ผู้กำกับการครับ ท่านคิดจริงๆหรอว่าเรื่องนี้ปล่อยไว้เฉยๆได้น่ะครับ?</Content>
         </Dialog>
         <Dialog ID="1" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+          <Teller>ยูจิน</Teller>
+          <Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin1</VoiceFile>
-          <Content>Suppress your feelings. And remind yourself; money, fame, and power rule over this world.</Content>
+          <Content>ข่มใจตัวเองหน่อย จงจำเอาไว้ อำนาจ ยศถา และเงินตรานั้นครองทุกสิ่งในโลกใบนี้</Content>
         </Dialog>
         <Dialog ID="2" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin2-01</VoiceFile>
-          <Content>He may be a Color, but that does not excuse the severity of a Fixer who doesn’t even belong to our Association setting us all up.</Content>
+          <Content>ถึงแม้เขาจะเป็นถึงระดับสี แต่นั่นก็ไม่ใช่ข้ออ้างที่จะให้พวกฟิกเซอร์ที่ไม่ได้อยู่สมาพันธ์เดียวกับเรามาออกคำสั่งให้นะครับ</Content>
         </Dialog>
         <Dialog ID="3" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin3-01</VoiceFile>
-          <Content>He’s doing it so blatantly, too…</Content>
+          <Content>แถมเขายังทำอย่างโจ่งแจ้งอีกต่างหาก…</Content>
         </Dialog>
         <Dialog ID="4" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma1</VoiceFile>
-          <Content>…So what? Are you gonna betray the Association, kill Branch Manager Thelma, and then kill the Blue Reverberation for our freedom?</Content>
+          <Content>…แล้วจะทำยังไงล่ะ? งั้นนายจะหักหลังสมาพันธ์ ฆ่าผู้จัดการสาขาเซลม่า แล้วฆ่าเสียงกังวาลสีครามเพื่ออิสรภาพของพวกเราไหม?</Content>
         </Dialog>
         <Dialog ID="5" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma2</VoiceFile>
-          <Content>…I don’t see a way out of this… I heard even the Smiling Faces are involved…</Content>
+          <Content>…ฉันน่ะคิดทางออกอื่นไม่ได้เลย… แถมฉันได้ยินมาว่าพวกชุมชนนิยมยิ้มเองได้เข้ามามีเอี่ยวด้วย…</Content>
         </Dialog>
         <Dialog ID="6" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin4</VoiceFile>
-          <Content>This is rotten to the core…</Content>
+          <Content>มันเน่าไปถึงแก่นจริงๆ…</Content>
         </Dialog>
         <Dialog ID="7" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin5</VoiceFile>
-          <Content>Director, what has become of the core values of the Shi? The very identity of our association…</Content>
+          <Content>ผู้กำกับการครับ เกิดอะไรขึ้นกับแก่นแท้และตัวตนของชิ สมาพันธ์เราล่ะครับ…</Content>
         </Dialog>
         <Dialog ID="8" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin2</VoiceFile>
-          <Content>If you want to overthrow the system, have patience.</Content>
+          <Content>ถ้าอยากจะโค้นล้มอำนาจ เราต้องใจเย็น</Content>
         </Dialog>
         <Dialog ID="9" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin3</VoiceFile>
-          <Content>And sharpen your strength. There is nothing we can do in our current state.</Content>
+          <Content>แล้วเก็บแรงเข้าไว้ เพราะว่าตอนนี้ด้วยสถานะของพวกเรา เราเลยยังทำอะไรไม่ได้</Content>
         </Dialog>
         <Dialog ID="10" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma3</VoiceFile>
-          <Content>The director is right. We… can’t do anything about it right now…</Content>
+          <Content>ผู้กำกับการพูดถูกแล้ว เรา… ยังทำอะไรตอนนี้ไม่ได้…</Content>
         </Dialog>
         <Dialog ID="11" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin6-01</VoiceFile>
-          <Content>Dammit… He’s leaving us with all these dangerous requests, knowing that we’re fatigued…</Content>
+          <Content>บ้าเอ้ย… เขาทิ้งคำขอที่อันตรายไว้ให้พวกเราทำ ทั้งๆที่ก็รู้ว่าพวกเรานั้นยังอิดโรยกันอยู่…</Content>
         </Dialog>
         <Dialog ID="12" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma4</VoiceFile>
-          <Content>Director Yujin will rise to become the president of Shi one day.</Content>
+          <Content>สักวันหนึงผู้กำกับการยูจินจะต้องกลายเป็นประธานของชิอย่างแน่นอน</Content>
         </Dialog>
         <Dialog ID="13" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma5</VoiceFile>
-          <Content>We’ll be able to shake up this corrupted system once that time comes.</Content>
+          <Content>ถึงตอนนั้น เราก็จะสามารถล้มล้างระบบที่ทุจริตนี้ลงได้</Content>
         </Dialog>
         <Dialog ID="14" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin4</VoiceFile>
-          <Content>We are Section 2. Our role is to simply take care of the tasks given to us.</Content>
+          <Content>พวกเราคือหน่วยที่ 2 หน้าที่ของพวกเราก็แค่ทำตามงานที่มอบไว้ให้กับเรา</Content>
         </Dialog>
         <Dialog ID="15" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma6</VoiceFile>
-          <Content>Director… We’ve been dealing with Urban Nightmare-class cases for ten consecutive days.</Content>
+          <Content>ผู้กำกับการคะ… พวกเราได้จัดการกับระดับฝันร้ายประจำเมืองมาตั้ง10วันติดต่อกันแล้วนะคะ</Content>
         </Dialog>
         <Dialog ID="16" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma7</VoiceFile>
-          <Content>Taking out the patriarch of the Naraku Clan, the retrieval of oblivion ingots, the destruction of the Fragment from Beyond, demolishing the Thin Beef Skirt Factory, and eliminating the captain of The Steel Comrades just yesterday.</Content>
+          <Content>จัดการกับปรมาจารย์แห่งตระกูลนาระคุ ค้นหาแท่งแห่งการลืมเลือน ทำลายเศษเสี้ยวจากที่เหนือกว่า ถล่มโรงงานกระโปรงเนื้อบาง และพึ่งจัดการสหายเหล็กกล้าไปเมื่อวานนี้เอง</Content>
         </Dialog>
         <Dialog ID="17" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma8</VoiceFile>
-          <Content>We had to resolve all these requests in the last ten days, without even a break…</Content>
+          <Content>พวกเราต้องจัดการกับคำขอทั้งหมดนี้ภายใน10วันโดยที่ยังไม่ได้พักผ่อนเลยค่ะ…</Content>
         </Dialog>
         <Dialog ID="18" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma9-01</VoiceFile>
-          <Content>We normally shouldn’t be handling more than one such case per week…</Content>
+          <Content>ปกติแล้ว พวกเราไม่ควรจัดการกับระดับนี้มากกว่าครั้งละสัปดาห์นะคะ…</Content>
         </Dialog>
         <Dialog ID="19" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin7</VoiceFile>
-          <Content>Most Fixers of the Southern Branch’s Section 2 have already died.</Content>
+          <Content>ฟิกเซอร์ส่วนใหญ่ในหน่วยที่2 สาขาตอนใต้ก็ตายกันไปเกือบหมดแล้วครับ</Content>
         </Dialog>
         <Dialog ID="20" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin8</VoiceFile>
-          <Content>And none of those who survived are in good enough condition to proceed with another request, including us.</Content>
+          <Content>และพวกที่ยังรอดมาได้ก็ไม่ได้อยู่ในสภาพที่พร้อมจะปฏิบัติคำขอต่อไป รวมถึงพวกเราด้วยครับ</Content>
         </Dialog>
         <Dialog ID="21" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin9</VoiceFile>
-          <Content>We’re on the brink of a breakdown, both physically and mentally…</Content>
+          <Content>พวกเราใกล้ที่จะพัง ทั้งทางกายและทางใจแล้วนะครับ…</Content>
         </Dialog>
         <Dialog ID="22" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin10</VoiceFile>
-          <Content>You’ve seen how Section 3 and its Associate Offices got wiped out in a wave of unreasonable requests, and the same is happening to us now…</Content>
+          <Content>ท่านก็เห็นแล้วนิว่าหน่วยที่3 พร้อมกับสำนักของพวกเขานั้นโดนล้างบางด้วยคำขอจำนวนมากที่ไร้เหตุผลพวกนี้ และดูเหมือนว่ากำลังจะเกิดขึ้นกับพวกเราแล้ว…</Content>
         </Dialog>
         <Dialog ID="23" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma10</VoiceFile>
-          <Content>And most of all, your condition is looking worse than any of us, Director Yujin…</Content>
+          <Content>ที่สำคัญยิ่งกว่าก็คือ ผู้กำกับการยูจิน อาการของท่านยังแย่กว่าพวกเราทุกคนซะอีก…</Content>
         </Dialog>
         <Dialog ID="24" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma11</VoiceFile>
-          <Content>You stood at the front and fought more vehemently than anyone, to keep others from getting hurt…</Content>
+          <Content>ท่านนั้นยืนอยู่แถวหน้าแล้วสู้ดุเดือดกว่าคนอื่น เพื่อไม่ให้พวกเรานั้นต้องเจ็บตัวกัน…</Content>
         </Dialog>
         <Dialog ID="25" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin5</VoiceFile>
-          <Content>Broken parts can be mended, and wounds can be sewn up.</Content>
+          <Content>ชิ้นส่วนที่แตกหักสามารถซ่อมแซมได้ ส่วนบาดแผลนั้นก็สามารถเย็บได้เช่นกัน</Content>
         </Dialog>
         <Dialog ID="26" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin11</VoiceFile>
-          <Content>…Your injuries are simply too severe to be healed up in a day or two, director.</Content>
+          <Content>…แต่บาดแผลของท่านนั้นมันสาหัสเกินที่จะรักษาให้หายได้ภายในวันสองวันนะครับ</Content>
         </Dialog>
         <Dialog ID="27" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin12</VoiceFile>
-          <Content>Everyone in Section 2 has suffered damage that would take much longer than a few days to recover, in fact. Unless we had K Corp’s Singularity or something…</Content>
+          <Content>พวกเราทุกคนในหน่วยที่ 2นั้นได้รับความเสียหายที่ต้องใช้เวลาหลายวันในการฝื้นตัว ยกเว้นว่าพวกเราจะมีซิงกูลาริตี้ของเค คอร์ปน่ะครับ…</Content>
         </Dialog>
         <Dialog ID="28" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin6</VoiceFile>
-          <Content>You worry too much. We’ll handle the Library request just like any other requests we’ve done so far.</Content>
+          <Content>นายน่ะกังวลมากเกินไปแล้ว พวกเราจะจัดการกับคำขอห้องสมุดเหมือนคำขออื่นๆที่พวกเราจักการกันมา</Content>
         </Dialog>
         <Dialog ID="29" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin13</VoiceFile>
-          <Content>Director Yujin! Even if we were to handle this job successfully, they’ll still hand us yet more absurd cases!</Content>
+          <Content>ผู้กำกับการยูจินครับ! ถึงแม่พวกเราจะทำงานได้สำเร็จก็ตาม แต่เดี๋ยวพวกเขาก็ให้งานที่ยากกว่าเดิมมาให้พวกเราทำนะครับ!</Content>
         </Dialog>
         <Dialog ID="30" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma12</VoiceFile>
-          <Content>…Valentin has a point. We might have to receive endless requests until Section 2 is annihilated and you are killed, director…</Content>
+          <Content>…วาเลนทินมีเหตุผลนะคะ งานพวกนั้นจะมาไม่จบไม่สิ้นจนกว่าหน่วยที่ 2จะโดนล้างหรือไม่ก็จนกว่าท่านจะโดนจัดการนะคะ ท่าน…</Content>
         </Dialog>
         <Dialog ID="31" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin7</VoiceFile>
-          <Content>I do have plans. In the end, the root of this matter lies with the Blue Reverberation.</Content>
+          <Content>ฉันน่ะพอมีแผนอยู่ ในท้ายที่สุดแล้ว ปัญหาทั้งหมดก็เกิดขึ้นเพราะเสียงกัลวาลสีคราม</Content>
         </Dialog>
         <Dialog ID="32" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin8</VoiceFile>
-          <Content>We aren’t heading to the Library simply to obey our superiors’ orders…</Content>
+          <Content>พวกเราไม่ได้ไปห้องสมุดเพราะเบื้องบนสั่งมาอย่างเดียว…</Content>
         </Dialog>
         <Dialog ID="33" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin9</VoiceFile>
-          <Content>Our objective is to retrieve the books of the Musicians of Bremen.</Content>
+          <Content>เป้าหมายของเราก็คือการไปรับหนังสือของนักดนตรีแห่งบรีเมน</Content>
         </Dialog>
         <Dialog ID="34" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+         <Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin10</VoiceFile>
-          <Content>…They’re what we need to uncover the Blue Reverberation’s plots.</Content>
+          <Content>…พวกนั้นคือสิ่งที่เราต้องใช้เพื่อเปิดโปงแผนของเสียงกัลวาลสีคราม</Content>
         </Dialog>
         <Dialog ID="35" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma13</VoiceFile>
-          <Content>What do you mean…?</Content>
+          <Content>หมายความว่าไงกัน…?</Content>
         </Dialog>
         <Dialog ID="36" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin11</VoiceFile>
-          <Content>I received a tip off that the person who appeared to be the leader of a Syndicate named the Musicians of Bremen spoke with the Blue Reverberation some time ago.</Content>
+          <Content>ฉันได้ยินมาว่าเมื่อไม่นานมานี้ พวกที่ดูเหมือนว่าจะเป็นหัวหน้าขององค์กรนักดนตรีแห่งเบรเมนได้ไปพูดคุยอยู่กับเสียงกัลวาลสีคราม</Content>
         </Dialog>
         <Dialog ID="37" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin14-01</VoiceFile>
-          <Content>Are you suggesting that the books of the Musicians could contain information about the Blue Reverberation?</Content>
+          <Content>ท่านจะบอกว่าในหนังสือของนักดนตรีแห่งเบรเมนนั้นมีข้อมูลเกี่ยวกับเสียงกัลวาลสีครามหรอครับ?</Content>
         </Dialog>
         <Dialog ID="38" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+          <Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin12</VoiceFile>
-          <Content>We will at least be able to find out what he is conspiring.</Content>
+          <Content>อย่างน้อยพวกเราคงรู้ว่าเขาสมรู้ร่วมคิดอะไรกันอยู่</Content>
         </Dialog>
         <Dialog ID="39" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma14</VoiceFile>
-          <Content>Then, the reason you sent Full-Stop Office to assassinate the Church of Gears was also…</Content>
+          <Content>งั้น การที่ท่านส่งสำนักงานฟูลสต็อปไปลอบสังหารโบสถ์แห่งฟังเฟืองก็เพราะ…</Content>
         </Dialog>
         <Dialog ID="40" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin15-01</VoiceFile>
-          <Content>…I understand your intention. But acquiring that information isn’t going to be the end of it.</Content>
+          <Content>…ผมพอเข้าใจเป้าหมายของท่านนะครับ แต่แค่มีข้อมูลมันไม่ได้ทำให้เรื่องนี้จบลงไปหรอกครับ</Content>
         </Dialog>
         <Dialog ID="41" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin16-01</VoiceFile>
-          <Content>What exactly are you planning to do?</Content>
+          <Content>ท่านมีแผนจะทำอะไรกันแน่ครับ?</Content>
         </Dialog>
         <Dialog ID="42" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin13</VoiceFile>
-          <Content>I will take my own measures once this request is done.</Content>
+          <Content>ฉันจะใช้มาตรการของฉันเองเมื่อคำขอนี้สิ้นสุด</Content>
         </Dialog>
         <Dialog ID="43" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma15</VoiceFile>
-          <Content>Can we actually trust this, director? Can you promise us that you aren’t going to harm yourself for the sake of Section 2?</Content>
+          <Content>ผู้กำกับการยูจินคะ พวกเราเชื่อใจท่านได้จริงๆไหมคะ? ท่านพอจะสัญญาได้ไหมว่าจะไม่ทำร้ายตัวท่านเองเพื่อหน่วยที่2?</Content>
         </Dialog>
         <Dialog ID="44" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin17-01</VoiceFile>
-          <Content>You’ve always been so self-sacrificing, director…</Content>
+          <Content>ผู้กำกับการยูจิน ท่านนั้นคอยเอาแต่เสียสละตัวเองตลอดเลยครับ…</Content>
         </Dialog>
         <Dialog ID="45" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin14</VoiceFile>
-          <Content>You can count on me. I know my own life matters.</Content>
+          <Content>วางใจได้เลย ฉันพอรู้ว่าชีวิตฉันสำคัญแค่ไหน.</Content>
         </Dialog>
         <Dialog ID="46" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin15</VoiceFile>
-          <Content>We can’t turn the tide if we’re dead.</Content>
+          <Content>ถ้าเกิดพวกเราตายกันหมด พวกเราก็จะโต้กลับไม่ได้</Content>
         </Dialog>
         <Dialog ID="47" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin16</VoiceFile>
-          <Content>Gather up the ones who can still move and fight. We don’t want to bring anyone who will only prove to be a burden there.</Content>
+          <Content>ก่อนอื่นไปรวบรวมคนที่ยังพอสู้ไหวมา เราไม่ต้องการพวกที่ดูเป็นภาระไปด้วย</Content>
         </Dialog>
         <Dialog ID="48" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin18</VoiceFile>
-          <Content>Understood.</Content>
+          <Content>รับทราบครับ</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="49" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland1</VoiceFile>
-          <Content>She’s still honest to a fault.</Content>
+          <Content>เธอก็ยังคงถ่อมตัวไม่เคยเปลี่ยนเลย</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela1</VoiceFile>
-          <Content>Are you really sure you’re just a small, no-name Fixer?</Content>
+          <Content>นี่นายมั่นใจใช่ไหมว่านายเป็นแค่ฟิกเซอร์ไร้ชื่อน่ะ?</Content>
         </Dialog>
         <Dialog ID="51" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela2</VoiceFile>
-          <Content>Even I can tell that your connections are simply too broad and deep for a mediocre Fixer at this point.</Content>
+          <Content>ถึงตอนนี้ ฉันก็พอรู้ว่าเส้นสายของนายนั้นมันกว้างขวางและลึกเกินไปสำหรับฟิกเซอร์ทั่วไปด้วยซ่ำน่ะ</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland2</VoiceFile>
-          <Content>To answer your question, yes, I’m only a Grade 9 Fixer.</Content>
+          <Content>ถ้าจะให้ตอบก็คือ ใช่ ฉันเป็นแค่ฟิกเซอร์เกรด9น่ะ.</Content>
         </Dialog>
         <Dialog ID="53" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland3</VoiceFile>
-          <Content>That’s after I fell to rock bottom in a turn of events, though. I used to be a common Fixer, really.</Content>
+          <Content>แต่นั่นก็หลังจากที่ฉันเจอเหตุการณ์หนึงที่ทำให้ฉันตกลงมาถึงจุดต่ำสุด ฉันน่ะก็เคยเป็นฟิกเซอร์ทั่วไปด้วยนะ</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela3</VoiceFile>
-          <Content>Is that so? What grade were you at before, then?</Content>
+          <Content>จริงหรอ? งั้นนายเคยอยู่เกรดไหนมาก่อนหรอ?</Content>
         </Dialog>
         <Dialog ID="55" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland4</VoiceFile>
-          <Content>Would you believe me if I said I was a… kickass Grade 1 Fixer!</Content>
+          <Content>เชื่อปะล่ะว่าฉันเคยเป็น… สุดยอดฟิกเซอร์เกรด1ด้วยนะ! ขอบอก!</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+          <Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela4</VoiceFile>
-          <Content>It’s honestly hard to believe, but… if you say so.</Content>
+          <Content>ก็ไม่อยากจะเชื่ออยู่หรอกนะ แต่… นายว่าไงก็ว่าตามกัน</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland5</VoiceFile>
-          <Content>Wow, that was a lot less distrust than I expected…</Content>
+          <Content>อึก แต่เธอดูเชื่อใจฉันง่ายนะเนี้ย…</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland6</VoiceFile>
-          <Content>Anyway, I was just an ordinary Fixer who mostly collected intel. That’s why I got so many connections.</Content>
+          <Content>ยังไงก็แล้วแต่ ฉันน่ะก็เป็นแค่ฟิกเซอร์ธรรมดาทั่วไปที่ส่วนใหญ่ทำงานรวบรวมข้อมูลน่ะ นั่นคือเหตุผลที่ทำให้ฉันมีเส้นสายอยู่เยอะ</Content>
         </Dialog>
         <Dialog ID="59" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland7</VoiceFile>
-          <Content>I can only put up a decent fight now thanks to the new body you gave me and the Library’s powers.</Content>
+          <Content>ที่ฉันยังสู้ได้อยู่จนถึงตอนนี้ก็เป็นเพราะร่างใหม่ที่เธอให้กับพลังของห้องสมุดเท่านั้น</Content>
         </Dialog>
         <Dialog ID="60" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela5</VoiceFile>
-          <Content>You said trust is important in this business, right? Is it okay to see an acquaintance of yours die like that?</Content>
+          <Content>นายบอกเองนิว่าความเชื่อใจเป็นสิ่งสำคัญในธุรกิจนี้ มันโอเคหรอที่นายเห็นเพื่อนร่วมงานของนายตายไปแบบนั้นน่ะ?</Content>
         </Dialog>
         <Dialog ID="61" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland8</VoiceFile>
-          <Content>It’s unfortunate to see ‘em struggle, yeah. Here’s the thing, though; we only saw things from their perspective.</Content>
+          <Content>มันก็น่าเวทนาที่เห็นพวกเขาต้องดิ้นรนอะนะ แต่ว่า พวกเรามองแค่ในมุมมองของพวกเขาเท่านั้น</Content>
         </Dialog>
         <Dialog ID="62" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland9</VoiceFile>
-          <Content>You think they’re free from the blame of killing some other people who struggled for life and fought for change?</Content>
+          <Content>เธอคิดว่าพวกเขาไม่ผิดหรือไง ที่พวกเขาก็ต้องฆ่าผู้คนที่ยังดิ้นรนใช้ชีวิตอยู่เหมือนกันน่ะ?</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela6</VoiceFile>
-          <Content>I suppose not.</Content>
+          <Content>ก็คงผิด</Content>
         </Dialog>
         <Dialog ID="64" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland10</VoiceFile>
-          <Content>That’s how it is. Someone they killed must have been in circumstances as unfortunate as theirs.</Content>
+          <Content>มันเป็นอย่างงั้นแหละ พวกที่ฆ่าก็ต้องเจอกับอะไรที่น่าเวทนาเหมือนกับที่เขาทำ</Content>
         </Dialog>
         <Dialog ID="65" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland11</VoiceFile>
-          <Content>Well, unless they weren’t. Point is, there’s no way for everyone to be equally happy. It’s a matter of perspective.</Content>
+          <Content>ก็นะ อาจจะไม่เจอก็ได้ ประเด็นก็คือ ไม่มีทางที่ทุกคนจะมีความสุขหรอกนะ มันขึ้นอยู่กับมุมมองของแต่ละคนน่ะ</Content>
         </Dialog>
         <Dialog ID="66" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela7</VoiceFile>
-          <Content>So they opt to simply do their work without ever trying to get to know each other.</Content>
+          <Content>เพราะงั้นพวกเขาถึงแค่ทำงานไป โดยที่ไม่พยายามทำความรู้จักกัน</Content>
         </Dialog>
         <Dialog ID="67" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland12</VoiceFile>
-          <Content>Everyone has their own stories.</Content>
+          <Content>ทุกคนมีเรื่องราวที่แตกต่างกันอะนะ</Content>
         </Dialog>
         <Dialog ID="68" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland13</VoiceFile>
-          <Content>But we can’t give up ours for the sake of someone else’s. Like what we’re doing.</Content>
+          <Content>แต่เราไม่ควรทิ้งเรื่องราวของตัวเองไปเพื่อเรื่องของคนอื่นหรอกนะ เหมือนกับที่พวกเรากำลังทำอยู่</Content>
         </Dialog>
         <Dialog ID="69" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland14</VoiceFile>
-          <Content>That’s that, and this is this.</Content>
+          <Content>เรื่องนั้นก็เรื่องนั้น เรื่องนี้ก็เรื่องนี้</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าห้องสมุด</PlaceName>
         <Dialog ID="70" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin19</VoiceFile>
-          <Content>We’ve done all the first aid we could give.</Content>
+          <Content>พวกเราปฐมพยาบาลเท่าที่เราพอจะทำได้แล้วครับ</Content>
         </Dialog>
         <Dialog ID="71" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma16</VoiceFile>
-          <Content>Director…</Content>
+          <Content>ผู้กำกับการคะ…</Content>
         </Dialog>
         <Dialog ID="72" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin17</VoiceFile>
-          <Content>Focus on the work for now. We’ll take care of what we can first.</Content>
+          <Content>โฟกัสไปที่เรื่องงานก่อน ทำในสิ่งที่เราพอจะทำได้ก็พอ</Content>
         </Dialog>
         <Dialog ID="73" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela8</VoiceFile>
-          <Content>Greetings, dear guests.</Content>
+          <Content>ยินดีต้อนรับค่ะ แขกผู้มีเกียรติ</Content>
         </Dialog>
         <Dialog ID="74" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+         <Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin18</VoiceFile>
-          <Content>Greetings. I am Yujin, Director of Shi’s Section 2. Introduce yourselves, everyone.</Content>
+          <Content>สวัสดีค่ะ ดิฉันชื่อยูจิน ผู้กำกับการของชิหน่วยที่2 ทุกคน แนะนำตัวได้</Content>
         </Dialog>
         <Dialog ID="75" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+          <Teller>เทนมะ</Teller>
+          <Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma17</VoiceFile>
-          <Content>Huh? But…</Content>
+          <Content>ฮะ? แต่ว่า…</Content>
         </Dialog>
         <Dialog ID="76" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin19</VoiceFile>
-          <Content>When someone greets us, it’s only polite for us to greet them back, isn’t it?</Content>
+          <Content>เมื่อมีใครมาทักทายเรา มันเป็นมารยาทที่จะทักทายกลับ จริงไหม?</Content>
         </Dialog>
         <Dialog ID="77" Model="텐마">
-          <Teller>Tenma</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>เทนมะ</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma18</VoiceFile>
-          <Content>Yessir! I am Tenma, Associate Fixer in Section 2 of the Shi.</Content>
+          <Content>จริงค่ะ ดิฉันฟิกเซอร์ของสมาพันธ์ชิหน่วยที่2 เทนมะค่ะ</Content>
         </Dialog>
         <Dialog ID="78" Model="발렌틴">
-          <Teller>Valentin</Teller>
-          <Title>Shi S. Section 2 Fixer</Title>
+			<Teller>วาเลนทิน</Teller>
+			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin20</VoiceFile>
-          <Content>Valentin, Associate Fixer in Section 2 of the Shi.</Content>
+			<Content>ผมฟิกเซอร์ของสมาพันธ์ชิหน่วยที่2 วาเลนทินครับ</Content>
         </Dialog>
         <Dialog ID="79" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela9</VoiceFile>
-          <Content>I am Angela, the director and librarian of my role’s namesake.</Content>
+          <Content>ดิฉันแองเจล่า เป็นบรรณารักษ์และผู้ดูแลที่แห่งนี้</Content>
         </Dialog>
         <Dialog ID="80" Model="유진">
-          <Teller>Yujin</Teller>
-          <Title>Shi S. Section 2 Director</Title>
+			<Teller>ยูจิน</Teller>
+			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin20</VoiceFile>
-          <Content>I came here through the invitation to acquire the books that are said to be here.</Content>
+          <Content>ดิฉันมาที่นี่ผ่านบัตรเชิญเพื่อรับหนังสือที่ระบุไว้ในนี้</Content>
         </Dialog>
         <Dialog ID="81" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela10</VoiceFile>
-          <Content>Then may you find your books in this place, dear guests.</Content>
+          <Content>งั้นก็ขอให้คุณพบหนังสือที่ต้องการ ณ ที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>Episode 1 - Epilogue</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="0" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela11</VoiceFile>
-          <Content>That was a memorable guest. She was different in many ways, but still left a similar impression like a Fixer I used to know.</Content>
+          <Content>เธอเป็นแขกที่น่าจดจำมากเลยล่ะ เธอนั้นแตกต่างในหลายๆด้าน แต่ก็ยังให้ความรู้สึกเหมือนกับฟิกเซอร์ที่ฉันเคยรู้จักอยู่</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland15</VoiceFile>
-          <Content>You have a Fixer you used to know?</Content>
+          <Content>เธอมีฟิกเซอร์ที่เธอรู้จักด้วยเรอะ?</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela13</VoiceFile>
-          <Content>No… Have you heard of Kali?</Content>
+          <Content>เคยได้ยินชื่อ… กาลีไหม?</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland16</VoiceFile>
-          <Content>Kali…?</Content>
+          <Content>กาลี…?</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela14</VoiceFile>
-          <Content>She was nicknamed ‘The Red Mist’.</Content>
+          <Content>หรือที่คนทั่วไปรู้จัก ‘หมอกสีชาด’ น่ะ</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland17</VoiceFile>
-          <Content>Ohhhh, of course I do! She was the most distinct Fixer, even among the Colors. How’d you know her?</Content>
+          <Content>อืมๆ แน่นอนสิว่าฉันรู้จัก! เธอคนนั้นนะขึ้นชื่อว่าแตกต่างจากฟิกเซอร์ทั่วไปอะนะ ขนาดในพวกสีด้วยกันเองด้วย รู้จักเธอได้ไงอะ? </Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland18</VoiceFile>
-          <Content>She used to do all the cool stuff and then suddenly disappeared.</Content>
+          <Content>เธอเคยทำเรื่องเจ๋งๆ ตั้งหลายเรื่อง แล้วจู่ๆ ก็หายตัวไป</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Library Director</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela15</VoiceFile>
-          <Content>Let’s just say that she was a… former colleague of mine.</Content>
+          <Content>เอาเป็นว่า เธอเป็นเพื่อนร่วมเก่าฉันน่ะ</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland19</VoiceFile>
-          <Content>The Red Mist was powerful. Really, that’s the only way to put it. Powerful.</Content>
+          <Content>หมอกสีชาดนี่แข็งแกร่งจริงๆ ไม่มีคำไหนที่เหมาะกับเธอไปมากกว่าคำว่าแข็งแกร่งแล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Servant</Title>
+          <Teller>โรแลนด์</Teller>
+          <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland20</VoiceFile>
-          <Content>And she only took requests for others, not herself. I thought, man, it surely is true that you can do whatever you want when you’re that strong.</Content>
+          <Content>แถมเธอก็รับแค่คำขอเพื่อคนอื่นเท่านั้น ไม่ใช่เพื่อตัวเธอเอง อืม มันคงจริงสินะที่ว่าถ้าเก่งก็ทำอะไรก็ได้น่ะ</Content>
         </Dialog>
       </Place>
     </Episode>
