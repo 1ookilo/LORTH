@@ -3,19 +3,19 @@
   <GroupName>Puppeteer</GroupName>
   <Character ID="Puppet">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Gigigigigi.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Grgrgr. Grgrg.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Gygygy… Gy.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_3">Grgrgrgrgrg. Grgr.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_4">Gygygyg. Grgrg. Gig.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">กิกิกกิกิกิกิ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">กรา กราาา.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">กิวกิวกิว… กิ.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">เกอกะกะกะ. เกอะ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">กลิกิกิ กิวกิ. กิด</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY" />
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Gigigi… Gigig…</BattleDialog>
-      <BattleDialog ID="DEATH_1">Grgrgr… Grgrgrgrgrg…</BattleDialog>
-      <BattleDialog ID="DEATH_2">Gy… Gygygyg…</BattleDialog>
-      <BattleDialog ID="DEATH_3">Gigigigigig…</BattleDialog>
-      <BattleDialog ID="DEATH_4">Grgrgrgrgrgrg…</BattleDialog>
+      <BattleDialog ID="DEATH_0">กิกิกิกิ… กิดกิดกิด…</BattleDialog>
+      <BattleDialog ID="DEATH_1">กรากิกิ… เกอกะกะกะ…</BattleDialog>
+      <BattleDialog ID="DEATH_2">กี… กิกิกิกิกิ…</BattleDialog>
+      <BattleDialog ID="DEATH_3">กิกิกิกิ กิกิ กิ…</BattleDialog>
+      <BattleDialog ID="DEATH_4">เกอะกะกะ…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH" />
     <Type ID="KILLS_OPPONENT" />
