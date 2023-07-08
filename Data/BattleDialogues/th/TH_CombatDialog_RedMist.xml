@@ -3,7 +3,7 @@
   <GroupName>RedMist</GroupName>
   <Character ID="RedMist_MeetBinah">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">…มีบางอย่างผิดปกติกับบรรยากาศที่นี้ ทำไมเธอถึงจ้องฉัยยังงั้น?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">…มีบางอย่างผิดปกติกับบรรยากาศที่นี้ ทำไมเธอถึงจ้องฉันยังงั้น?</BattleDialog>
       <BattleDialog ID="START_BATTLE_1">ทำไมเธอถึงพูดเหมือนรู้จักฉันละ?</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
