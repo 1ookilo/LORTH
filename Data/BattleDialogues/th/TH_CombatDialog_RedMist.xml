@@ -3,118 +3,118 @@
   <GroupName>RedMist</GroupName>
   <Character ID="RedMist_MeetBinah">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">…Something’s off about the atmosphere. What’s up with her?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Why do you talk like you know me?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">…มีบางอย่างผิดปกติกับบรรยากาศที่นี้ ทำไมเธอถึงจ้องฉัยยังงั้น?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ทำไมเธอถึงพูดเหมือนรู้จักฉันละ?</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">…That, definitely wasn’t a pushover.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">…นั่นไม่ใช่การผลักดันอย่างแน่นอน</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">…I’m counting on you. Give me the strength to tear my foes apart.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_1">Let’s start this for real. I’ll crush you all…</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_2">Was that… a Singularity…? I let my guard down…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">…ฉันคาดหวังในตัวแกนะ ขอพลังให้ฉันที่จะฉีกศัตรูออกจากกัน</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">ได้เวลาเอาจริงแล้ว ฉันจะบดขยี้พวกแกทั้งหมด…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">นี้คือ…ซิงกูลาริตี้เหรอ…? เวรละฉันเผลอลดการป้องกันตัวเองลง…</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">…Why is there someone capable of wielding those powers in a place like this?</BattleDialog>
+      <BattleDialog ID="DEATH_0">…ทำไมถึงมีคนสามารถที่ใช้พลังแบบนั้นในสถานที่แบบนี้?</BattleDialog>
     </Type>
   </Character>
   <Character ID="RedMist_MeetGebura">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">…What bullshit are you trying to pull here?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">This is real wicked. Did you shapeshift to look like me on purpose?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Let’s see if you have the talent to keep up with me…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">…นี้มันเรื่องอะไรมาวะในที่นี่นะ?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">นี่มันแปลกจริงๆ ทำไมแกถึงแปลงร่างให้ดูเหมือนฉันละ?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">มาดูซิ ว่าแกมีความสามารถพอๆกับฉันไหม…</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">…And I thought she looked like me for a second. It was nothing more than a cheap imitation.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">…ตอนแรกฉันคิดว่าแกดูเหมือนฉันนะ แต่มันไม่ต่างอะไรไปมากกว่าตัวปลอมรวคาถูก</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">The real fight starts now…</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_1">I can’t stop here…</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_2">Dammit… I’ll break you all…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">การต่อสู้ที่แท้จริงกำลังจะเริ่มต้นแล้ว…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">ฉันไม่สามารถหยุดในที่นี่ได้…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">ให้ตายเถอะ… ฉันจะทำลายพวกแกทั้งหมด…</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">She acted just like me… How did…</BattleDialog>
+      <BattleDialog ID="DEATH_0">แกเหมือนฉันทุกอย่างเลย…ได้ยังไงกัน…</BattleDialog>
     </Type>
   </Character>
   <Character ID="RedMist_MeetRoland">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">So, you’re the “trials” this place has to present to me?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">I’ve gotta figure out how strong the enemy is first…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Are you part of a Fixer Office? Or some kind of Syndicate?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">นายก็คือ"บททดสอบ"ในที่แห่งนี้งั้นเหรอ?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ฉันต้องเข้าใจว่าศัตรูแข็งแกร่งแค่ไหนก่อน…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">นายเองก็เป็นส่วนหนึ่งของฟิกเซอร์ในสำนักงาน งั้นเหรอ? หรือเป็นพวกซินดิเคท?</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">You were just another fancy-looking bunch with no substance, after all.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">คุณก็เป็นแค่พวกดูดีแต่รูป แถบไม่มีแก่นสารอะไรเลย</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">Alright… I see how tough you are.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_1">…Let’s try and protect what we cherish here.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_2">…! Shoot, I lowered my guard…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">เอาล่ะ… ฉันเข้าใจแล้วแกแข็งแกร่งแค่ไหน</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">…มาพยายามปกป้องสิ่งที่พวกเราต่างก็หวงแหนที่นี่กันเถอะ</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">…! เวลละ ฉันเสียหลัก…</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I can’t lose to those strangers…</BattleDialog>
+      <BattleDialog ID="DEATH_0">ฉันแพ้ให้กับคนแปลกหน้าพวกนี้ไม่ได้…</BattleDialog>
     </Type>
   </Character>
   <Character ID="Binah_MeetRedMist">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Be mindful of your own well-being.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">O child… It is verily refreshing to meet you this way.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Your willingness to stand by me is admirable, but please do beware.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ควรคำนึงถึงความสถานะตัวเองหน่อยนะ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">โอ้เด็กน้อย… มันเยี่ยมมากที่ได้พบเธออีกครั้ง</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ความตั้งใจของนายที่จะยืนข้างฉันมันน่าชื่นชม แต่ก็ควรระวังนะ</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">…You shall crumble.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">…และเธอก็ได้แตกสลายไป</BattleDialog>
     </Type>
     <Type ID="DEATH">
       <BattleDialog ID="DEATH_0">…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Stand back. I reckon this is not the place for you to intervene.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">It was still too dangerous for you, I see.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">Indeed. Withstanding her power was too arduous a task for you.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_3">It is not completely concluded yet, now is it?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">ถอยก่อน ฉันคิดว่านี่ไม่ใช่สิ่งที่พวกนายที่จะเข้าไปแทรกแซงได้นะ</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">มันก็ยังอันตรายเกินไปสำหรับพวกนาย ฉันเข้าใจแล้ว</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">แน่นอน การต้านทานพลังของเธอเป็นงานที่ยากเกินไปสำหรับพวกนาย</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">ยังไม่สรุปผลการต่อสู้หรอก ในตอนนี้นะ?</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">How intriguing. You were capable of wielding that power so far in the past…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">ช่างน่าสนใจ เธอสามารถถึงใช้พลังนั้นได้ในอดีต…</BattleDialog>
     </Type>
   </Character>
   <Character ID="Gebura_MeetRedMist">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Myself… from the past, huh.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">The one person I know better than anyone, yet I know the least about at the same time.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Even if much time has passed, some things stay the same. Remember how I fight, guys?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ตัวฉันเอง… จากอดีต ฮะ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">คนๆเดียวที่ฉันรู้จักดีกว่าใครๆ แต่ในทางกลับกันฉันก็รู้น้อยที่สุดด้วย</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">แม้เวลาจะผ่านไปนาน แต่บางสิ่งก็ยังเหมือนเดิม ฉันจำไว้นะว่าจะสู้ยังไง?</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">That didn’t feel too nice.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">มันไม่ได้ให้ความรู้สึกดีเลย</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">…Yeah. That was nothing to scoff at.</BattleDialog>
+      <BattleDialog ID="DEATH_0">…ใช่ มันไม่มีอะไรที่จะเป็นข้ออ้างหรอก</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Don’t get intimidated. We have to believe in ourselves.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">We lose the moment our spirit is dampened. Don’t give up.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">We can do it on our own.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">อย่าพึ่งถูกเสียขวัญ เราแค่ต้องเชื่อมั่นในตัวเอง</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">เราอย่าพึ่งเสียช่วงเวลาที่จิตวิญญาณของเราเปียกโชก แค่อย่ายอมแพ้</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">เรายังสามารถทำต่อไปได้</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">It was that armor. To protect everyone…</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_1">There’s got to be a way to defeat her still. Don’t be daunted.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">มันคือชุดเกราะ ที่จะปกป้องทุกคน…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">มันต้องมีวิธีที่จะเอาชนะเธอได้ อย่าพึ่งเสียขวัญ</BattleDialog>
     </Type>
   </Character>
   <Character ID="Roland_MeetRedMist">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">The Red Mist in her past glory… Still feels unreal.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">หมอกแดงในสมัยอดีตของเธอ… ยังรู้สึกแปลกๆอยู่เลย</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">…She sure had tremendous strength.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">…เธอแน่ใจว่าจะมีพละกำลังมหาศาล</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Guess I couldn’t beat her, huh…</BattleDialog>
+      <BattleDialog ID="DEATH_0">ฉันคิดว่าฉันคงไม่สามารถเอาชนะเธอได้ ฮะ…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Not a big issue yet.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">The rest of us can handle it.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">…Let’s stay calm.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">นี้ยังไม่ใช่ปัญหาใหญ่</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">พวกเราที่เหลือสามารถจัดการกับเธอได้</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">…ทำใจให้สงบ</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">Looks like she’s done warming up…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">ดูเหมือนว่าเธอจะอุ่นเครื่องเสร็จแล้ว…</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>
