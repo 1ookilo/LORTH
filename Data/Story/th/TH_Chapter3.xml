@@ -8,7 +8,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: ฐานทางตอนใต้ของธัมห - ห้องประชุม</PlaceName>
+        <PlaceName>สถานที่: ฐานทางตอนใต้ของทัมห์ - ห้องประชุม</PlaceName>
         <Dialog ID="0" Model="칼로">
           <Teller>???</Teller>
           <Title>???</Title>
@@ -25,7 +25,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel2_b</VoiceFile>
-          <Content>แน่นอน ว่าเราไม่ควรปล่อยให้อินเดกซ์ ครอบครองส่วนกลางไปได้</Content>
+          <Content>แน่นอน ว่าเราไม่ควรปล่อยให้อินเด็กซ์ ครอบครองส่วนกลางไปได้</Content>
         </Dialog>
         <Dialog ID="3" Model="칼로">
           <Teller>???</Teller>
@@ -49,7 +49,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo3-01</VoiceFile>
-          <Content>เล่าต่อมาสิ</Content>
+          <Content>เล่าต่อสิ</Content>
         </Dialog>
       </Place>
       <Place>
@@ -1762,163 +1762,163 @@
         <PlaceName>สถานที่: ที่ไหนสักแห่งในแบ็คสตรีท</PlaceName>
         <Dialog ID="0" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi1</VoiceFile>
           <Content>สารเลว! อย่างพวก! เอ็งน่ะ!</Content>
         </Dialog>
         <Dialog ID="1" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi2</VoiceFile>
           <Content>ต้องโดน! สั่งสอน! ซะบ้าง!</Content>
         </Dialog>
         <Dialog ID="2" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi3</VoiceFile>
           <Content>จำใส่! กระโหลก! กรวงๆ! ของพวกเอ็ง! ซะ!! </Content>
         </Dialog>
         <Dialog ID="3" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino1</VoiceFile>
           <Content>พอได้แล้ว ชอง-มี กระทืบพวกมันให้ตายเราก็ไม่ได้อะไรดีๆขึ้นมาหรอก</Content>
         </Dialog>
         <Dialog ID="4" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino2</VoiceFile>
           <Content>ถึงแม้ว่าเขตที่ 22จะเป็นถิ่นของพวกเรา และไอ้พวกที่นายกระทืบจนเละอยู่ก็เป็นแค่สไวหน่วยที่ 6 แต่พวกนั้นก็เป็นคนของสมาพันธ์อยู่ดี…</Content>
         </Dialog>
         <Dialog ID="5" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino3</VoiceFile>
           <Content>เราจะมีปัญหาหนักกว่าเดิมแน่ถ้านายฆ่าพวกมันทั้งหมดน่ะ</Content>
         </Dialog>
         <Dialog ID="6" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi4</VoiceFile>
           <Content>วอลเตอร์!</Content>
         </Dialog>
         <Dialog ID="7" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi5</VoiceFile>
           <Content>ถ้าแค่! ไอ้สารเลว! นั่น!</Content>
         </Dialog>
         <Dialog ID="8" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi6</VoiceFile>
           <Content>รักษา! สัญญา! ที่ให้ไว้! เราก็คง! ไม่ต้อง! เข้ามามีเอี่ยวด้วยหรอก</Content>
         </Dialog>
         <Dialog ID="9" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi7</VoiceFile>
           <Content>เราแค่! ต้องการ! แผงผัง! ของเนส! ในแอลคอร์ป! </Content>
         </Dialog>
         <Dialog ID="10" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi8</VoiceFile>
           <Content>ที่พวก!</Content>
         </Dialog>
         <Dialog ID="11" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi9</VoiceFile>
           <Content>สไวมี!</Content>
         </Dialog>
         <Dialog ID="12" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi10</VoiceFile>
           <Content>เราต้อง! สั่งสอน!</Content>
         </Dialog>
         <Dialog ID="13" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi11</VoiceFile>
           <Content>พวกเหี้ยนี่! ให้หลาบจำ!</Content>
         </Dialog>
         <Dialog ID="14" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi12</VoiceFile>
           <Content>ว่ามันสำคัญแค่ใหนกับการให้คำสัญญา</Content>
         </Dialog>
         <Dialog ID="15" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino4</VoiceFile>
-          <Content>นี่ก็จะมืดค่ำแล้ว พวกสวีปเปอร์เองก็อาจจะมาจัดการพวกเราตอนใหนก็ได้</Content>
+          <Content>นี่ก็จะมืดค่ำแล้ว พวกสวีปเปอร์ส์เองก็อาจจะมาจัดการพวกเราตอนใหนก็ได้</Content>
         </Dialog>
         <Dialog ID="16" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino5</VoiceFile>
-          <Content>และพวกเดอะ ธัมบ์เองก็ยังไม่ติดต่อพวกเรามาด้วย</Content>
+          <Content>และพวกเดอะ ทัมห์เองก็ยังไม่ติดต่อพวกเรามาด้วย</Content>
         </Dialog>
         <Dialog ID="17" Model="줄루">
           <Teller>ซูลู</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_zulu1</VoiceFile>
           <Content>พวกเราเสียเลือดเสียเนื้อเพื่อไปรวบรวมข้อมูลที่เกี่ยวข้องกับการบิดเบือนให้ไอ้สารเลววอลเตอร์นั่น แล้วมันตอบแทนพวกเราอย่างงี้เรอะ</Content>
         </Dialog>
         <Dialog ID="18" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino6</VoiceFile>
           <Content>ไอ้พวกคนคลั่งในโบสถ์แห่งฟันเฟืองมันเล่นคนในองค์กรเราไปมากกว่าครึ่งเลย</Content>
         </Dialog>
         <Dialog ID="19" Model="줄루">
           <Teller>ซูลู</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_zulu2</VoiceFile>
-          <Content>ก็ไอ้ศาสดาของพวกมันไม่ใช่มนุษย์ชัดๆ…</Content>
+          <Content>ก็ไอ้เจ้าลัทธิของพวกมันไม่ใช่มนุษย์ชัดๆ…</Content>
         </Dialog>
         <Dialog ID="20" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino7</VoiceFile>
           <Content>พวกเรายอมทำงานกันจนก้นหลุด พยายามรวบรวมของที่พอมีค่ามาจากโบสถ์นั่น เพื่ออะไรกัน…</Content>
         </Dialog>
         <Dialog ID="21" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino8</VoiceFile>
-          <Content>ถ้าพวกเรายังหาแผงผังเนสในแอลคอร์ปให้เดอะ ธัมบ์ไม่ได้…</Content>
+          <Content>ถ้าพวกเรายังหาแผงผังเนสในแอลคอร์ปให้เดอะ ทัมห์ไม่ได้…</Content>
         </Dialog>
         <Dialog ID="22" Model="줄루">
           <Teller>ซูลู</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_zulu3</VoiceFile>
           <Content>อย่างเดียวที่พวกเราพอทำได้ก็คือรอให้พวกเดอะ ธัมบ์มาล้างบางพวกเราที่ทำงานพลาดสินะ</Content>
         </Dialog>
         <Dialog ID="23" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino9</VoiceFile>
           <Content>ไม่ควรจะไปทำสัญญากับไอ้พวกสมาพันธ์ตั้งแต่แรกอยู่แล้ว</Content>
         </Dialog>
         <Dialog ID="24" Model="줄루">
           <Teller>ซูลู</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_zulu4</VoiceFile>
           <Content>อย่างน้อยไอ้วอลเตอร์มันก็เป็นคนมีเหตุผล มีบางอย่างเกิดขึ้นกับมันรึเปล่า?</Content>
         </Dialog>
         <Dialog ID="25" Model="줄루">
           <Teller>ซูลู</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_zulu5</VoiceFile>
           <Content>มันอาจจะเป็นแค่ไอ้แก่เล่ห์เหลี่ยมเยอะ แต่มันก็ยังเป็นผู้กำกับประจำสไวหน่วยที่ 6อยู่ดี อีกอย่างคือ มันก็ชอบให้ลูกน้องทำงานภาคสนามมากกว่า ไม่สมเหตุสมผลเลยที่อยู่ๆมันจะมาตายเอาดื่อๆ</Content>
         </Dialog>
         <Dialog ID="26" Model="디노">
           <Teller>Dino</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino10</VoiceFile>
           <Content>อะไรก็เกิดขึ้นได้อะนะ</Content>
         </Dialog>
@@ -1930,79 +1930,79 @@
         </Dialog>
         <Dialog ID="28" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino11</VoiceFile>
           <Content>มีทางให้เราเลือกเพิ่มขึ้นมาอีกแล้ว</Content>
         </Dialog>
         <Dialog ID="29" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino12</VoiceFile>
           <Content>นายเป็นแบบนี้อีกแล้ว… นายโกรธจนหน้ามืดแล้วบดกระดูกและเครื่องในพวกนั้นจนเละอีกแล้ว</Content>
         </Dialog>
         <Dialog ID="30" Model="줄루">
           <Teller>ซูลู</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_zulu7</VoiceFile>
           <Content>ชอง-มี! ถึงแม้ไอ้พวกนี้จะเป็นแค่ลูกกระจ๊อกของสไวหน่วย 6 แต่ฆ่าพวกมันมากขนาดนี้เดี๋ยวก็โดนพวกของหน่วย 2 ไม่ก็หน่วย 3 ไล่ล่าเราหรอก</Content>
         </Dialog>
         <Dialog ID="31" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino13</VoiceFile>
           <Content>ตอนนี้พวกสไวคงส่งกองทัพฟิกเซอร์มาเล่นพวกเราแล้วก็ได้</Content>
         </Dialog>
         <Dialog ID="32" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi13</VoiceFile>
           <Content>…พวกเหี้ยนี่… ต้องเข้าใจสักหน่อยว่าคำสัญญามันมีค่าแค่ใหน</Content>
         </Dialog>
         <Dialog ID="33" Model="디노">
           <Teller>ด๊โน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino14</VoiceFile>
           <Content>หวังว่านายคงมีแผนสำรองให้พวกสไวที่มา“ขอบคุณ”พวกเราสำหรับสั่งสอนบทเรียนให้พวกนั้นนะ</Content>
         </Dialog>
         <Dialog ID="34" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi14</VoiceFile>
           <Content>พวกมึงดูนี่ก่อน</Content>
         </Dialog>
         <Dialog ID="35" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino15</VoiceFile>
           <Content>ซองจดหมายนั่น?</Content>
         </Dialog>
         <Dialog ID="36" Model="줄루">
           <Teller>ซูลู</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_zulu8</VoiceFile>
           <Content>บัตรเชิญไปยังห้องสมุดที่เขาล่ำลือกันนี่หว่า</Content>
         </Dialog>
         <Dialog ID="37" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino16</VoiceFile>
           <Content>เดี๋ยวก่อนนะ ในรายชื่อ“หนังสือประจำวัน”ที่เขาเขียนไว้ มีหนังสือ…ของ…วอลเตอร์? มันเป็นอย่างงั้นนี่เอง นายก็ยังพอมีแผนอยู่นิ</Content>
         </Dialog>
         <Dialog ID="38" Model="줄루">
           <Teller>ซูลู</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_zulu9</VoiceFile>
           <Content>งั้นก็แสดงว่า… ชอง-มี!</Content>
         </Dialog>
         <Dialog ID="39" Model="줄루">
           <Teller>ซูลู</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_zulu10</VoiceFile>
           <Content>นายน่ะรู้อยู่แล้วว่าวอลเตอร์ตายในห้องสมุดนั่นแต่ก็ยังจะไปขยี้ไอ้พวกหน่วยที่ 6 อยู่อีกเรอะ?</Content>
         </Dialog>
         <Dialog ID="40" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi15</VoiceFile>
           <Content>มัน!</Content>
         </Dialog>
@@ -2014,7 +2014,7 @@
         </Dialog>
         <Dialog ID="42" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi17</VoiceFile>
           <Content>การ! ส่ง! ข้อความ! ต่างหาก!!</Content>
         </Dialog>
@@ -2031,13 +2031,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland2</VoiceFile>
-          <Content>ยังไงก็แล้วแต่ นี่พวกเขาพยายามจะทำอะไรกันแน่ ลากพวกสวีปเปอร์และเดอะ ธัมบ์เข้ามาเกี่ยวกัน?</Content>
+          <Content>ยังไงก็แล้วแต่ นี่พวกเขาพยายามจะทำอะไรกันแน่ ลากพวกสวีปเปอร์ส์และเดอะ ทัมห์เข้ามาเกี่ยวกัน?</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Dog_ep1_angela1</VoiceFile>
-          <Content>ฉันน่ะพอรู้จักพวกสวีปเปอร์อยู่นะ</Content>
+          <Content>ฉันน่ะพอรู้จักพวกสวีปเปอร์ส์อยู่นะ</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -2055,7 +2055,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Dog_ep1_roland4</VoiceFile>
-          <Content>ก็จริงส่วนหนึงอะนะ สวีปเปอร์แค่คนเดียวก็ว่าจัดการได้ยากอยู่แล้ว แต่สิ่งที่หน้ากลัวจริงๆก็คืออิทธิพลของพวกเขาต่างหาก</Content>
+          <Content>ก็จริงส่วนหนึงอะนะ สวีปเปอร์ส์แค่คนเดียวก็ว่าจัดการได้ยากอยู่แล้ว แต่สิ่งที่หน้ากลัวจริงๆก็คืออิทธิพลของพวกเขาต่างหาก</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -2074,13 +2074,13 @@
         <PlaceName>สถานที่: ทางเข้าห้องสมุด</PlaceName>
         <Dialog ID="51" Model="디노">
           <Teller>ดีโน่</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_dino17</VoiceFile>
           <Content>คิดว่าพวกเราจะกลับไปทันเวลาไหม? มันจะกระชันชิดเกินไปหรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="52" Model="줄루">
           <Teller>ซูลู</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_zulu11</VoiceFile>
           <Content>มันแน่อยู่แล้ว แต่ก็คงจะกลับไปได้ทันเวลาพอดี</Content>
         </Dialog>
@@ -2092,13 +2092,13 @@
         </Dialog>
         <Dialog ID="54" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi18</VoiceFile>
           <Content>ช่างหัวมันสิ!</Content>
         </Dialog>
         <Dialog ID="55" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi19</VoiceFile>
           <Content>ปล่อยพวกเราเข้าไปได้แล้ว พวกเรายิ่งรีบๆอยู่</Content>
         </Dialog>
@@ -2110,15 +2110,15 @@
         </Dialog>
         <Dialog ID="57" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi20</VoiceFile>
           <Content>ก็บอกให้หุบปากไง!</Content>
         </Dialog>
         <Dialog ID="58" Model="경미">
           <Teller>ชอง-มี</Teller>
-          <Title>สเตรย์ด็อก</Title>
+          <Title>สเตรย์ ด็อกส์</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi21</VoiceFile>
-          <Content>แล้วปล่อยให้พวกกู เข้า ไป ซะ</Content>
+          <Content>แล้วปล่อยให้พวกกู เข้า ไป</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -2205,7 +2205,7 @@
           <Teller>เรน</Teller>
           <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain1</VoiceFile>
-          <Content>นี่พี่ พี่เห็นข้อความจากที คอร์ปแล้วใช่ไหม?</Content>
+          <Content>นี่พี่ พี่เห็นข้อความจากT คอร์ปแล้วใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="1" Model="올가">
           <Teller>โอลก้า</Teller>
@@ -2263,19 +2263,19 @@
         </Dialog>
         <Dialog ID="10" Model="안내방송">
           <Teller>คำประกาศ</Teller>
-          <Title>วาร์ป คอร์ป</Title>
+          <Title>WARP คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement1</VoiceFile>
-          <Content>ขอขอบคุณที่ใช้บริการวาร์ปของพวกเราเช่นเคยค่ะ</Content>
+          <Content>ขอขอบคุณที่ใช้บริการWARPของพวกเราเช่นเคยค่ะ</Content>
         </Dialog>
         <Dialog ID="11" Model="안내방송">
           <Teller>คำประกาศ</Teller>
-          <Title>วาร์ป คอร์ป</Title>
+          <Title>WARP คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement2</VoiceFile>
-          <Content>รถไฟขบวนถัดไปที่จะออกคือ รถไฟวาร์ป ยูดับเบิ้ลยู-212ค่ะ</Content>
+          <Content>รถไฟขบวนถัดไปที่จะออกคือ WARPเทรน UW-212ค่ะ</Content>
         </Dialog>
         <Dialog ID="12" Model="안내방송">
           <Teller>คำประกาศ</Teller>
-          <Title>วาร์ป คอร์ป</Title>
+          <Title>WARP คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement3</VoiceFile>
           <Content>ผู้โดยสารทุกท่านโปรดเช็คตั๋วของท่านและตรวจสอบว่าท่านอยู่ถูกตู้โดยสารสำหรับการเดินทางนะคะ</Content>
         </Dialog>
@@ -2301,13 +2301,13 @@
           <Teller>มิกะ</Teller>
           <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika4</VoiceFile>
-          <Content>อย่างไงก็ตาม คำขอนี้ค่อนข้างคาดไม่ถึงเหมือนกัน เป็นคำขอจากอาร์ คอร์ปเลยนะ</Content>
+          <Content>อย่างไงก็ตาม คำขอนี้ค่อนข้างคาดไม่ถึงเหมือนกัน เป็นคำขอจากR คอร์ปเลยนะ</Content>
         </Dialog>
         <Dialog ID="17" Model="레인">
           <Teller>เรน</Teller>
           <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain6</VoiceFile>
-          <Content>ไม่ใช่ว่างานมันอันตรายมากๆถึงขนาดที่อาร์ คอร์ปยอมจ้างให้คนอื่นมาทำแทนเลยหรอ?</Content>
+          <Content>ไม่ใช่ว่างานมันอันตรายมากๆถึงขนาดที่R คอร์ปยอมจ้างให้คนอื่นมาทำแทนเลยหรอ?</Content>
         </Dialog>
         <Dialog ID="18" Model="레인">
           <Teller>เรน</Teller>
@@ -2395,12 +2395,12 @@
         </Dialog>
         <Dialog ID="32" Model="안내방송">
           <Teller>คำประกาศ</Teller>
-          <Title>วาร์ป คอร์ป</Title>
+          <Title>WARP คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement4</VoiceFile>
-          <Content>ผู้โดยสารทุกท่านโปรดขึ้นไปบนวาร์ปเทรน ยูดับเบิ้ลยู-212ด้วยค่ะ</Content>
+          <Content>ผู้โดยสารทุกท่านโปรดขึ้นไปบนWARPเทรน UW-212ด้วยค่ะ</Content>
         </Dialog>
         <Dialog ID="33" Model="메어리">
-          <Teller>แมรี่</Teller>
+          <Teller>เมอรี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry1</VoiceFile>
           <Content>มันก็นานแล้วนะที่เราออกมาเที่่ยวด้วยกันน่ะ</Content>
@@ -2409,10 +2409,10 @@
           <Teller>ทอมมี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_tommy1</VoiceFile>
-          <Content>พวกเราขึ้นวาร์ปเทรนเป็นครั้งแรกเลย จะเป็นอะไรไหมนะ?</Content>
+          <Content>พวกเราขึ้นWARPเทรนเป็นครั้งแรกเลย จะเป็นอะไรไหมนะ?</Content>
         </Dialog>
         <Dialog ID="35" Model="메어리">
-          <Teller>แมรี่</Teller>
+          <Teller>เมอรี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry2</VoiceFile>
           <Content>ตะเองก็~ คิดมากอะ คนเขาใช้วาร์ปกันทุกวันอยู่แล้ว</Content>
@@ -2424,7 +2424,7 @@
           <Content>เค้าได้ยินมาว่าตอนเปิดใหม่ๆเขาเกิดอุบัติเหตุอยู่เยอะเลยนะ</Content>
         </Dialog>
         <Dialog ID="37" Model="메어리">
-          <Teller>แมรี่</Teller>
+          <Teller>เมอรี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry3</VoiceFile>
           <Content>ถ้าตะเองขี้กลัวขนาดนั้น ตะเองก็หลับตาแล้วอยู่ข้างๆเค้าก็พอ~</Content>
@@ -2449,10 +2449,10 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>สถานที่: ด้านในวาร์ปเทรน ยูดับเบิ้ลยู-212</PlaceName>
+        <PlaceName>สถานที่: ด้านในWARPเทรน UW-212</PlaceName>
         <Dialog ID="41" Model="안내방송">
           <Teller>คำประกาศ</Teller>
-          <Title>วาร์ป คอร์ป</Title>
+          <Title>WARP คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement5</VoiceFile>
           <Content>ผู้โดยสารโปรดทราบ โปรดรัดเข็มขัดของท่านให้แน่นด้วยค่ะ</Content>
         </Dialog>
@@ -2481,7 +2481,7 @@
           <Content>เราจะทำการเริ่มต้นกระบวนการวาร์ปในอีก10นาทีค่ะ</Content>
         </Dialog>
         <Dialog ID="46" Model="메어리">
-          <Teller>แมรี่</Teller>
+          <Teller>เมอรี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry4</VoiceFile>
           <Content>แหมตะเองก็~ กอดเค้าแน่นยังกับเบบี้เลยนะ~</Content>
@@ -2493,7 +2493,7 @@
           <Content>ก็เผื่อเกิดอะไรขึ้นไง…</Content>
         </Dialog>
         <Dialog ID="48" Model="메어리">
-          <Teller>แมรี่</Teller>
+          <Teller>เมอรี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry5</VoiceFile>
           <Content>แปปเดียวก็ถึงแล้ว! แค่10วิเอง แต่ตะเองน่ารักดี~ เพราะงั้นเค้าจะปล่อยไว้ละกัน~</Content>
@@ -2512,7 +2512,7 @@
         </Dialog>
         <Dialog ID="51" Model="안내방송">
           <Teller>คำประกาศ</Teller>
-          <Title>วาร์ป คอร์ป</Title>
+          <Title>WARP คอร์ป</Title>
           <VoiceFile>ch3_Molar_ep1_announcement7</VoiceFile>
           <Content>โปรดอย่าเปิดประตูในระหว่างที่รถไฟกำลังวาร์ปด้วยค่ะ</Content>
         </Dialog>
@@ -2559,7 +2559,7 @@
           <Content>เกิดอะไรขึ้นหรอ แมรี่… ในตะเองบอกเค้าว่าแค่10วิไง</Content>
         </Dialog>
         <Dialog ID="59" Model="메어리">
-          <Teller>แมรี่</Teller>
+          <Teller>เมอรี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry6</VoiceFile>
           <Content>แปลกจังนะ… ปรกติมันไม่ใช้เวลานานขนาดนี้นิ…</Content>
@@ -2623,7 +2623,7 @@
           <Content>เค้าเอาเข็มขัดนี่ออกไม่ได้อะ…</Content>
         </Dialog>
         <Dialog ID="70" Model="메어리">
-          <Teller>แมรี่</Teller>
+          <Teller>เมอรี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch3_Molar_ep1_merry7</VoiceFile>
           <Content>ทอมมี่… เดี๋ยวทุกอย่างก็กลับไปเป็นปรกติแล้วล่ะ… เค้าขอโทษนะ ความผิดเค้าเองที่ขอขึ้นวาร์ปเทรนน่ะ…</Content>
@@ -2724,7 +2724,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland1</VoiceFile>
-          <Content>วาร์ปขัดข้องงั้นหรอ เรื่องนี้คงทำลายชื่อเสียงของดับเบิ้ลยู คอร์ปไปไม่น้อยแน่ ถ้าหลุดออกไปได้อะนะ</Content>
+          <Content>วาร์ปขัดข้องงั้นหรอ เรื่องนี้คงทำลายชื่อเสียงของW คอร์ปไปไม่น้อยแน่ ถ้าหลุดออกไปได้อะนะ</Content>
         </Dialog>
         <Dialog ID="87" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -2736,7 +2736,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland2</VoiceFile>
-          <Content>ใช่แล้ว วาร์ปเทรนที่ถูกปฏิบัติหน้าที่พร้อมกับซิงกูลาริตี้ของดับเบิ้ลยู คอร์ป สามารถไปสถานีใหนก็ได้ไม่ว่าไกลแค่ใหนภายใน10วินาทีได้ การที่ล่าช้าไปประมาณ30วิก็ถือว่าเป็นเรื่องใหญ่แล้ว แต่นี่ล่าช้าไปตั้ง30ชั่วโมงเลย คงจะส่งผลกระทบต่อความเชื่อใจของบริษัทไปแสนสาหัสอยู่</Content>
+          <Content>ใช่แล้ว WARPเทรนที่ถูกปฏิบัติหน้าที่พร้อมกับซิงกูลาริตี้ของW คอร์ป สามารถไปสถานีใหนก็ได้ไม่ว่าไกลแค่ใหนภายใน10วินาทีได้ การที่ล่าช้าไปประมาณ30วิก็ถือว่าเป็นเรื่องใหญ่แล้ว แต่นี่ล่าช้าไปตั้ง30ชั่วโมงเลย คงจะส่งผลกระทบต่อความเชื่อใจของบริษัทไปแสนสาหัสอยู่</Content>
         </Dialog>
         <Dialog ID="89" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -2748,7 +2748,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland3</VoiceFile>
-          <Content>คงไม่มีเทคโนโลยีใหนที่ไร้จุดบอดจริงๆสินะ</Content>
+          <Content>คงไม่มีเทคโนโลยีไหนที่ไร้จุดบกพร่องจริงๆสินะ</Content>
         </Dialog>
         <Dialog ID="91" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -2784,7 +2784,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland6</VoiceFile>
-          <Content>เฮ้อ… งั้นแปลว่าเธอก็เกี่ยวข้องกับหนึ่งในหัวหน้าทีมของอาร์ คอร์ปงั้นหรอ?</Content>
+          <Content>เฮ้อ… งั้นแปลว่าเธอก็เกี่ยวข้องกับหนึ่งในหัวหน้าทีมของR คอร์ปงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="97" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -2814,7 +2814,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland9</VoiceFile>
-          <Content>ฉันเพิ่งนึกได้ ว่าอาร์ คอร์ปเขาแตกต่างจากฟิกเซอร์ทั่วไปไปอีกระดับหนึงเลย</Content>
+          <Content>ฉันเพิ่งนึกได้ ว่าR คอร์ปเขาแตกต่างจากฟิกเซอร์ทั่วไปไปอีกระดับหนึงเลย</Content>
         </Dialog>
         <Dialog ID="102" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -2847,13 +2847,13 @@
           <Teller>โอลก้า</Teller>
           <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga27</VoiceFile>
-          <Content>ทั้งเร็วและยังดีกว่าไอ้ซิงกูลาริตี้ของพวกดับเบิ้ลยู คอร์ปงี่เง่านั่นด้วย</Content>
+          <Content>ทั้งเร็วและยังดีกว่าไอ้ซิงกูลาริตี้ของพวกW คอร์ปงี่เง่านั่นด้วย</Content>
         </Dialog>
         <Dialog ID="107" Model="레인">
           <Teller>เรน</Teller>
           <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_rain22</VoiceFile>
-          <Content>พี่มั่นใจหรอว่าเราสามารถดำเนินการต่อไปแบบไม่ระวังได้น่ะ? พี่บอกเองนะว่าได้บัตรเชิญมาจากอาร์ คอร์ป</Content>
+          <Content>พี่มั่นใจหรอว่าเราสามารถดำเนินการต่อไปแบบไม่ระวังได้น่ะ? พี่บอกเองนะว่าได้บัตรเชิญมาจากR คอร์ป</Content>
         </Dialog>
         <Dialog ID="108" Model="올가">
           <Teller>โอลก้า</Teller>
@@ -2931,7 +2931,7 @@
           <Teller>โอลก้า</Teller>
           <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga34</VoiceFile>
-          <Content>ก็นะ งานของพวกเราก็คือหาความเชื่อมโยงระหว่างแอล คอร์ปกับห้องสมุดนี้; นั่นคือสิ่งที่เมียวขอให้เราทำน่ะ</Content>
+          <Content>ก็นะ งานของพวกเราก็คือหาความเชื่อมโยงระหว่างL คอร์ปกับห้องสมุดนี้; นั่นคือสิ่งที่เมียวขอให้เราทำน่ะ</Content>
         </Dialog>
         <Dialog ID="121" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -2949,19 +2949,19 @@
           <Teller>มิกะ</Teller>
           <Title>โมลาร์ฟิกเซอร์</Title>
           <VoiceFile>ch3_Molar_ep1_mika18</VoiceFile>
-          <Content>เราอย่าไปยั่วโมโหเธอเลยดีกว่า เราแค่รีบไปรับหนังสือที่เขียนไว้แล้วรีบกลับกันดีกว่าใหม?</Content>
+          <Content>เราอย่าไปยั่วโมโหเธอเลยดีกว่า เราแค่รีบไปรับหนังสือที่เขียนไว้แล้วรีบกลับกันดีกว่าไหม?</Content>
         </Dialog>
         <Dialog ID="124" Model="올가">
           <Teller>โอลก้า</Teller>
           <Title>โมลาร์โอเปอเรเตอร์</Title>
           <VoiceFile>ch3_Molar_ep1_olga36</VoiceFile>
-          <Content>ขอถามตรงๆเลยนะ เพื่อนสาว หล่อนน่ะรู้ความเชื่อมโยงระหว่างห้องสมุดนี่กับแอล คอร์ปใช่ไหม?</Content>
+          <Content>ขอถามตรงๆเลยนะ เพื่อนสาว หล่อนน่ะรู้ความเชื่อมโยงระหว่างห้องสมุดนี่กับL คอร์ปใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="125" Model="올가">
           <Teller>โอลก้า</Teller>
           <Title>โมลาร์โอเปอเรเตอร์r</Title>
           <VoiceFile>ch3_Molar_ep1_olga37</VoiceFile>
-          <Content>เมียวบอกว่า แค่หล่อนอยู่ที่นี่ก็เป็นหลักฐานที่ดิ้นไม่หลุดแล้วว่าที่นี่ต้องเกี่ยวข้องกับแอล คอร์ปไม่ทางใดก็ทางหนึงแน่ๆ</Content>
+          <Content>เมียวบอกว่า แค่หล่อนอยู่ที่นี่ก็เป็นหลักฐานที่ดิ้นไม่หลุดแล้วว่าที่นี่ต้องเกี่ยวข้องกับL คอร์ปไม่ทางใดก็ทางหนึงแน่ๆ</Content>
         </Dialog>
         <Dialog ID="126" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -2991,31 +2991,31 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland12</VoiceFile>
-          <Content>พอเดาได้ใหมว่าทำไมพวกอาร์ คอร์ปถึงสนใจที่นี่จัง?</Content>
+          <Content>พอเดาได้ใหมว่าทำไมพวกR คอร์ปถึงสนใจที่นี่จัง?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela15</VoiceFile>
-          <Content>แอล คอร์ปเป็นลูกค้ารายใหญ่สำหรับอาร์ คอร์ป แต่แล้วจู่ๆก็หายไปดื้อๆ ไม่แปลกหรอกที่พวกเขาอยากจะตามหา</Content>
+          <Content>L คอร์ปเป็นลูกค้ารายใหญ่สำหรับR คอร์ป แต่แล้วจู่ๆก็หายไปดื้อๆ ไม่แปลกหรอกที่พวกเขาอยากจะตามหา</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland13</VoiceFile>
-          <Content>ลูกค้าเจ้าใหญ่สำหรับอาร์ คอร์ปงั้นหรอ…</Content>
+          <Content>ลูกค้าเจ้าใหญ่สำหรับR คอร์ปงั้นหรอ…</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch3_Molar_ep1_roland14</VoiceFile>
-          <Content>ก็ฟังขึ้นอยู่นะ แอล คอร์ปกับเนสของพวกเขาไม่ค่อยมีอำนาจทางทหารที่พิเศษอะไร, อาร์ คอร์ปจึงถูกขอให้ปกป้องเนสทั้งแถบแทน สำหรับพวกเขาคงเป็นลูกค้าที่สำคัญมากๆแน่เลย</Content>
+          <Content>ก็ฟังขึ้นอยู่นะ L คอร์ปกับเนสของพวกเขาไม่ค่อยมีอำนาจทางทหารที่พิเศษอะไร, R คอร์ปจึงถูกขอให้ปกป้องเนสทั้งแถบแทน สำหรับพวกเขาคงเป็นลูกค้าที่สำคัญมากๆแน่เลย</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch3_Molar_ep1_angela16</VoiceFile>
-          <Content>เราก็แค่พึ่งพาอาศัยกันและกันน่ะ แอล คอร์ปจะจัดส่งพลังงานที่อาร์ คอร์ปต้องการ, และดับเบิ้ลยู คอร์ปก็ต้องการพลังจากแอล คอร์ปเหมือนกัน</Content>
+          <Content>เราก็แค่พึ่งพาอาศัยกันและกันน่ะ L คอร์ปจะจัดส่งพลังงานที่R คอร์ปต้องการ, และW คอร์ปก็ต้องการพลังจากR คอร์ปเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
