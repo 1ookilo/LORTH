@@ -3,98 +3,98 @@
   <GroupName>Sweepers</GroupName>
   <Character ID="Anton">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">We shall… commence… the… sweeping…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">We march… ahead… without stopping…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">There… appears to be… another side… to this luxurious place…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">พวกเรา… จะเริ่ม… การ… เก็บกวาด…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">พวกเรา… ต้องเกินไปข้างหน้า… อย่าหยุด…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">นี้มัน… ดูเหมือนจะเป็น… การพาไปที่… สถานที่แสนหรูหราแห่งนี้…</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Now… all families… will be… able to… dine without… a worry…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ตอนนี้… ทุกครอบครัว… จะ… สามารถ… กินอาหารได้… โดยไม่ต้องกังวลอะไร…</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I hope… other neighbors… stay… strong…</BattleDialog>
+      <BattleDialog ID="DEATH_0">ฉันหวังว่า… เพื่อนบ้านคนอื่นๆ… จะ… ยังคงแข็งแรงดี…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">We must do… our mandatory work promptly… There are… still so many…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">No matter… who falls on the side… We proceed…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">I am… still okay…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">พวกเราต้อง… เดินหน้าจัดการต่อไป… เพราะยังมีพวกเรา… อยู่อีกมาก…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">ไม่สำคัญ… ว่าใครจะล้มลงไปบ้าง… พวกเราแค่ต้องเดินหน้าต่อ…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">ฉันยัง… โอเคอยู่…</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Cannot… eat… them… They have become a book…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">It has been a long time… since we swept… outside of the usual time…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">We only… need to sweep… what is ahead of us…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ไม่สามารถ… ละลาย… พวกมันได้… มันเป็นหนังสือแถบจะในทันทีเลย…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">นี้มันนานแล้วนะ… ที่พวกเราได้มาเก็บกวาด… ข้างนอกด้วยกันนะ…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">เราแค่… ต้องเก็บกวาด… สิ่งที่อยู่ข้างหน้าเรา…</BattleDialog>
     </Type>
   </Character>
   <Character ID="Valerie">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Dear neighbors, have you refilled your fuel tanks?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">With family, we can overcome difficult adversities.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">For the sake of our children, we must acquire the objects called books from this place.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">เพื่อนบ้านทุกคน คุณเติมน้ำมาเต็มถังแล้วหรือยังละ?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">เพื่อครอบครัว เราจะสามารถที่จะเอาชนะความยากลำบากนี้ได้</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">เพื่อลูกหลานของพวกเรา เราแค่ต้องหาสิ่งของที่เรียกว่าหนังสือ จากสถานที่นี้</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Let us retrieve the books fallen over there. Mother will rejoice.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">แค่นำหนังสือที่อยู่ข้างหน้ามา คุณแม่ของเราจะได้ดีใจ</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Dear neighbors… Please… practice caution…</BattleDialog>
+      <BattleDialog ID="DEATH_0">เพื่อนบ้านทุกคน… ได้โปรด… ระมัดระวังตัวด้วย…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">For the sake of our families in our village, we cannot stop.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">We must clean everything before us first.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">…A neighbor has died.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">เพื่อครอบครัวของพวกเรา เราไม่สามารถหยุดแค่ตรงนี้ได้</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">เราต้องทำการเก็บกวาดทุกสิ่งที่อยู่ตรงหน้าเราก่อน</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">…เพื่อนบ้าน เขาตายแล้ว</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">We will simply dine as usual.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">They will not melt. They do not appear to be people.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Everyone. We only have little work left to do.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">เราแค่ต้องรับประทานอาหารตามปกติ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">พวกเขาไม่สามรถละลายได้ เขาดูเหมือนจะไม่ใช่คนเลย</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ทุกคน เรายังเหลืองานที่ต้องทำอีกแค่เล็กน้อยเท่านั้น.</BattleDialog>
     </Type>
   </Character>
   <Character ID="Lyla">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">It is reassuring to be with our families and neighbors.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">We will solve the matter on our own so that Mother does not grow greatly upset.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Let us quickly sweep and leave. We must prepare for the sweeping of tonight.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ผมสบายใจที่ได้อยู่พร้อมกับครอบครัวและคุณเพื่อนบ้านของผม</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">เราจะแก้ปัญหานี้เอง เพื่อไม่ให้คุณแม่เสียใจ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">เราควรรีบที่จะเก็บกวาด เพราะต้องเตรียมตัวสำหรับการกวาดล้างในคืนนี้</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">This book will be of great help to our neighbors sweeping in Nest L.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">หนังสือเล่มนี้จะเป็นประโยชน์อย่างมาก สำหรับคุณเพื่อนบ้านของเราที่ต้องเก็บกวาดใน Nest L</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I hope everyone else can finish the work… safely…</BattleDialog>
+      <BattleDialog ID="DEATH_0">ผมหวังว่าทุกคนจะทำงานต่อให้เสร็จ… อย่างปลอดภัย…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Pay no attention to your surroundings when you sweep.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Remaining neighbors and families need not worry.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">This is no time to assess the situation. The sweeping must go on.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">อย่าพึ่งสนใจในสิ่งรอบข้างเมื่อกำลังเก็บกวาดอยู่</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">เหล่าครอบครัวและคุณเพื่อนบ้านที่เหลือไม่ต้องกังวล</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">นี่ไม่ใช่เวลาที่จะประเมินสถานการณ์ เราแค่ต้องเก็บกวาดต้องดำเนินต่อไป</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">They become books before we can melt them.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">I am alright. I have not suffered much harm so far.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">There is still much left to clean.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">พวกมันกลายเป็นหนังสือก่อนที่เราจะละลายได้</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ผมสบายดีอยู่ ผมไม่ได้รับบาดเจ็บเลยจนถึงตอนนี้</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ยังเหลืออีกมากเลยที่ต้องทำการเก็บกวาด</BattleDialog>
     </Type>
   </Character>
   <Character ID="sweepers">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">All is for Mother and our family…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">I see less things to sweep than in the streets.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Our work is to sweep.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ทั้งหมดก็เพื่อคุณแม่และเหล่าครอบครัวของเรา…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ฉันเห็นในสิ่งที่ต้อเก็บกวาด อย่างน้อยก็มีน้อยกว่าในท้องถนน</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">งานของเราคือต้องเก็บกวาด</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">The power of family is not a bad thing… It is a good thing…</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Are we to take that book?</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_2">Let us return. We need to prepare for the nighttime.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">พลังเพื่อครอบครัวไม่ใช่เรื่องเลวร้าย… มันจะสิ่งที่ดี…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">พวกเรามาเอาหนังสือเล่มนี้เหรอ?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">เดี๋ยวพวกจะเรากลับแล้ว เราต้องเตรียมตัวสำหรับในเหตุการตอนกลางคืน</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I am sorry… Dear neighbors…</BattleDialog>
-      <BattleDialog ID="DEATH_1">I could not finish the sweeping…</BattleDialog>
-      <BattleDialog ID="DEATH_2">I have family waiting for us…</BattleDialog>
+      <BattleDialog ID="DEATH_0">ฉันขอโทษ… คุณเพื่อนบ้าน…</BattleDialog>
+      <BattleDialog ID="DEATH_1">ฉันยังเก็บกวาดไม่เสร็จ…</BattleDialog>
+      <BattleDialog ID="DEATH_2">ฉันยังมีครอบครัวที่รอพวกเราอยู่…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">We can still sweep them.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">It is okay. We still have some more fuel.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">We must move onward regardless.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">เรายังสามารถเก็บกวาดพวกมันต่อได้</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">มันโอเคอยู่ เรายังมีเชื้อเพลิงเหลืออยู่</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">เราต้องก้าวต่อไปไม่ว่ายังไงก็ตาม</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">They became books before we could melt them.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">I am alright. I have not suffered too much harm so far.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">There is still much left to sweep.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">มันกลายเป็นหนังสือก่อนที่เราจะละลายได้</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ฉันยังสบายดีอยู่ ฉันยังไม่ได้รับบาดเจ็บเลยจนถึงตอนนี้</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ยังเหลืออีกมากเลยที่ต้องทำการเก็บกวาด</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>
