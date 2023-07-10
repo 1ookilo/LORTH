@@ -72,13 +72,13 @@
       <BattleDialog ID="COLLEAGUE_DEATH_0">ฉันถูกทิ้งให้อยู่ตัวคนเดียว…</BattleDialog>
       <BattleDialog ID="COLLEAGUE_DEATH_1">ฉันไม่อยากโดนรังแก…</BattleDialog>
       <BattleDialog ID="COLLEAGUE_DEATH_2">ถ้าคุณแค่มีความรักเหมือนกับพวกเรา…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_3"ได้โปรด อย่า…รังแกคนในเมือง ได้โปรดเถอะ…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">ได้โปรด อย่า…รังแกคนในเมือง ได้โปรดเถอะ…</BattleDialog>
       <BattleDialog ID="COLLEAGUE_DEATH_4">บ…บางทีเราควร จะวิ่งหนี…?</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
       <BattleDialog ID="KILLS_OPPONENT_0">เดี๋ยว…พวกเขา ก็กลับมา…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1"นี้มันก็โอเค… นี้…ยัง ไม่…มากเกินไป…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2"ฉันก็แค่… ทุบมันลง…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">นี้มันก็โอเค… นี้…ยัง ไม่…มากเกินไป…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ฉันก็แค่… ทุบมันลง…</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_3">พวกเรา สามารถ…ทำมันได้…</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_4">ฉันยัง…สามรถสู้ต่อไปได้…</BattleDialog>
     </Type>
