@@ -9690,7 +9690,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep2_roland5</VoiceFile>
-          <Content>“ความสมบูรณ์” ของหนังสืออาจเกี่ยวข้องกับ การที่หนังสือบางเล่มหายไปเมื่ออ่าน ในขณะที่หนังสือบางเล่มไม่หายไป อย่างงั้นหรอ?</Content>
+          <Content>“ความสมบูรณ์” ของหนังสืออาจเกี่ยวข้องกับ การที่หนังสือบางเล่มหายไปเมื่ออ่าน ในขณะที่อีกบางเล่มไม่หายไป อย่างงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="11" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
@@ -9714,7 +9714,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep2_roland7</VoiceFile>
-          <Content>บางทีคุณสมบัติของหนังสืออาจเปลี่ยนได้ ขึ้นอยู่กับผู้อ่านในความหมายเดียวกันหรือเปล่า?</Content>
+          <Content>บางทีคุณสมบัติของหนังสืออาจเปลี่ยนได้ขึ้นอยู่กับผู้อ่าน ในความหมายเดียวกันหรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="15" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
@@ -9738,13 +9738,13 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth11-01</VoiceFile>
-          <Content>ฉันไม่แกล้งทำเป็นเข้าใจในสิ่งที่ฉันไม่เข้าใจหรอกนะ แต่ฉันยังต้องทำให้แน่ใจว่าได้อ่านและจัดการหนังสือทั้งหมดที่นายส่งมา</Content>
+          <Content>ฉันไม่แกล้งทำเป็นเข้าใจในสิ่งที่ฉันไม่เข้าใจหรอกนะ แต่ฉันยังต้องทำให้แน่ใจว่าได้อ่านและจัดการหนังสือทั้งหมดที่นายส่งมาน่ะ</Content>
         </Dialog>
         <Dialog ID="19" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth12</VoiceFile>
-          <Content>หนังสือเล่มเดียวกันสามารถแสดงสิ่งที่แตกต่างกันในแต่ละครั้งที่นายอ่าน ดังนั้นการเข้าใจเนื้อหาทั้งหมดของหนังสือเล่มหนึ่ง จึงเป็นงานทีต้องทำซ้ำๆ นายเข้าใจไหมล่ะ?</Content>
+          <Content>หนังสือเล่มเดียวกันสามารถแสดงสิ่งที่แตกต่างกันในแต่ละครั้งที่อ่าน ดังนั้นการเข้าใจเนื้อหาทั้งหมดของหนังสือเล่มหนึ่ง จึงเป็นงานทีต้องทำซ้ำๆ นายเข้าใจไหม?</Content>
         </Dialog>
         <Dialog ID="20" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
@@ -9756,13 +9756,13 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep2_roland9</VoiceFile>
-          <Content>เนื้อหาแตกต่างกันทุกครั้งที่คุณอ่านสินะ ฮะ… นั่นคือเหตุผลที่ว่าทำไมเราถึงต้องการคัดลอกหนังสือไว้หลายเล่ม</Content>
+          <Content>เนื้อหาแตกต่างกันทุกครั้งที่อ่านสินะ ฮะ… นั่นคือเหตุผลที่ว่าทำไมเราถึง ต้องการคัดลอกหนังสือไว้หลายเล่ม</Content>
         </Dialog>
         <Dialog ID="22" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth14</VoiceFile>
-          <Content>…ฉันยังไม่เข้าใจมันทั้งหมดหรอก แต่ฉันค่อนข้างชอบคุณสมบัติของแสงที่นายเพิ่งบอกฉันไปนะ</Content>
+          <Content>…ฉันยังไม่เข้าใจมันทั้งหมดหรอก แต่ฉันค่อนข้างชอบคุณสมบัติของแสง ที่นายเพิ่งบอกฉันนะ</Content>
         </Dialog>
         <Dialog ID="23" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
@@ -9798,13 +9798,13 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep2_roland11</VoiceFile>
-          <Content>โอ้โฮ~ นั้นคุณแฟนของเธอหรอกหรอ? ฟังดูเหมือนว่าจะได้อยู่ด้วยกันมานานมากเลยนะ</Content>
+          <Content>โอ้โฮ~ นั้นคุณแฟนของเธอหรอกหรอ? ฟังดูเหมือนว่าจะได้อยู่ด้วยกัน มานานเลยน้า</Content>
         </Dialog>
         <Dialog ID="29" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>บรรณารักษ์ - ชั้นวิทย์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth19</VoiceFile>
-          <Content>…เอโนคเลือกที่จะทิ้งฉันไปทั้งสองครั้งเลยนะ</Content>
+          <Content>…เอโนคเลือกที่จะทิ้งฉันไปทั้งสองครั้งเลย</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>โรแลนด์</Teller>
