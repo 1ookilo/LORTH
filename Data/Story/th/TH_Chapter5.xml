@@ -8,12 +8,12 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: สมาพันธ์ฮานะ - สาขาตอนใต้</PlaceName>
+        <PlaceName>สถานที่: สมาพันธ์ฮานา - สาขาตอนใต้</PlaceName>
         <Dialog ID="0" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Olivier1</VoiceFile>
-          <Content>แอล คอร์ป ราตรีสีขาวและทิวาสีดำ การบิดเบือน และห้องสมุด… ทั้ง4อย่างนี้ได้ถูกพิสูทธิ์แล้วว่ามีความเกี่ยวข้องกัน</Content>
+          <Content>L คอร์ป ราตรีสีขาวและทิวาสีดำ การบิดเบือน และห้องสมุด… ทั้ง4อย่างนี้ได้ถูกพิสูทธิ์แล้วว่ามีความเกี่ยวข้องกัน</Content>
         </Dialog>
         <Dialog ID="1" Model="???">
           <Teller>???</Teller>
@@ -37,7 +37,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Mirinae1</VoiceFile>
-          <Content>ท่ามกลางหมอกหนาใจกลางของเนสในแอล คอร์ป ห้องสมุดได้ส่องแสงราวกับเป็นภาพลวงตา</Content>
+          <Content>ท่ามกลางหมอกหนาใจกลางของเนสในL คอร์ป ห้องสมุดได้ส่องแสงราวกับเป็นภาพลวงตา</Content>
         </Dialog>
         <Dialog ID="5" Model="???">
           <Teller>???</Teller>
@@ -88,7 +88,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela1</VoiceFile>
-          <Content>ไปไหน?</Content>
+          <Content>ใกล้ไปไหน?</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -106,13 +106,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland3</VoiceFile>
-          <Content>หนังสือเล่มนั้นจะแก้ใขทุกอย่างให้เธอราวกับเป็นปาฏิหาริย์ได้จริงหรอ?</Content>
+          <Content>หนังสือเล่มนั้นจะแก้ใขปัญหาทุกอย่างของเธอให้ราวกับเวทมนต์ได้จริงหรอ?</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela3</VoiceFile>
-          <Content>ห้องสมุดมันกุมความเป็นไปได้ที่ไม่มีที่สิ้นสุด และทุกตัวอักษรที่ผสมกันได้ก็ถูกเขียนไว้ในหนังสือ</Content>
+          <Content>ห้องสมุดนั้นกุมความเป็นไปได้ที่ไม่มีที่สิ้นสุด และทุกตัวอักษรที่ผสมกันได้ก็ถูกเขียนไว้ในหนังสือ</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -250,19 +250,19 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela22</VoiceFile>
-          <Content>ใช่แล้ว ฉันน่ะอยากจะขยี้ทุกอย่างให้เป็นผงด้วยซ้ำ อยากจะทำลายทุกสิ่งเลย</Content>
+          <Content>ใช่แล้ว ฉันน่ะอยากจะขยี้ทุกอย่างให้เป็นผงไปด้วยซ้ำ อยากจะทำลายทุกสิ่งทุกอย่าง</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela23</VoiceFile>
-          <Content>อิสระภาพของฉันล่ะ… ใครจะเป็นคนรับผิดชอบที่สร้างฉันขึ้นมาแล้วปล่อยให้ฉันทรมาณโดยไม่สนใจอะไรเลย?</Content>
+          <Content>อิสระภาพของฉันล่ะ… ใครกันที่จะเป็นคนรับผิดชอบที่สร้างฉันขึ้นมาแล้วปล่อยให้ฉันทรมาณโดยไม่สนใจอะไรเลย?</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela24</VoiceFile>
-          <Content>บางครั้งฉันเองก็อยากจะลืมทุกสิ่งไปเหมือนกัน… ทั้งห้องสมุด ทั้งหนังสือเล่มนั้น ทั้งหมดเลยล่ะ</Content>
+          <Content>บางครั้งฉันเองก็อยากจะลืมทุกสิ่งไปเหมือนกัน… ทั้งห้องสมุด ทั้งหนังสือเล่มนั้น ทั้งหมดเลย</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -280,7 +280,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela27</VoiceFile>
-          <Content>ฉันก็แค่อยากขอให้อย่างน้อยเขาบอกฉันสักครั้งว่าฉันทำอะไรผิด</Content>
+          <Content>อย่างน้อย ฉันก็แค่อยากขอให้เขาบอกฉันสักครั้งว่าฉันทำอะไรผิด</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -322,7 +322,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland9</VoiceFile>
-          <Content>ถ้าเขาต้องการเครื่องจักรที่ทำงานซ่ำจริงๆ ทำไมเขาถึงกับยอมแหกนัยทางจริยธรรมเพื่อสร้างเธอ ให้มีอารมณ์ความรู้สึกและอะไรอีกหลายอย่างด้วยล่ะ?</Content>
+          <Content>ถ้าเขาต้องการเครื่องจักรที่ทำงานซ้ำจริงๆ ทำไมเขาถึงกับยอมแหกนัยทางจริยธรรมเพื่อสร้างให้เธอมีอารมณ์ความรู้สึกและอะไรอีกหลายอย่างด้วยล่ะ?</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -376,7 +376,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Prol_ep1_Angela40</VoiceFile>
-          <Content>ปิดตาของฉัน</Content>
+          <Content>ปิดตาของฉันลง</Content>
         </Dialog>
         <Dialog ID="61" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -400,7 +400,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Prol_ep1_Roland12</VoiceFile>
-          <Content>งั้นเธอสามารถคิดถึงสิ่งที่เธออยากทำต่อไปได้แล้วนิ?</Content>
+          <Content>งั้นเธอก็สามารถคิดถึงสิ่งที่เธออยากจะทำต่อไปได้แล้วนิ?</Content>
         </Dialog>
         <Dialog ID="65" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -1027,7 +1027,7 @@
 			<Teller>ยูจิน</Teller>
 			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin20</VoiceFile>
-          <Content>ดิฉันมาที่นี่ผ่านบัตรเชิญเพื่อรับหนังสือที่ระบุไว้ในนี้</Content>
+          <Content>ดิฉันมาที่นี่ผ่านบัตรเชิญเพื่อรับหนังสือที่ระบุไว้</Content>
         </Dialog>
         <Dialog ID="81" Model="앤젤라">
 			<Teller>แองเจล่า</Teller>
@@ -1045,7 +1045,7 @@
 			<Teller>แองเจล่า</Teller>
 			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela11</VoiceFile>
-          <Content>เธอเป็นแขกที่น่าจดจำมากเลยล่ะ เธอนั้นแตกต่างในหลายๆด้าน แต่ก็ยังให้ความรู้สึกเหมือนกับฟิกเซอร์ที่ฉันเคยรู้จักอยู่</Content>
+          <Content>เธอเป็นแขกที่น่าจดจำมากเลย เธอนั้นแตกต่างในหลายๆด้าน แต่ก็ยังให้ความรู้สึกเหมือนกับฟิกเซอร์ที่ฉันเคยรู้จักอยู่</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -1069,13 +1069,13 @@
 			<Teller>แองเจล่า</Teller>
 			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela14</VoiceFile>
-          <Content>หรือที่คนทั่วไปรู้จัก ‘หมอกสีชาด’ น่ะ</Content>
+          <Content>หรือที่คนทั่วไปรู้จัก ‘หมอกแดง’ น่ะ</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland17</VoiceFile>
-          <Content>อืมๆ แน่นอนสิว่าฉันรู้จัก! เธอคนนั้นนะขึ้นชื่อว่าแตกต่างจากฟิกเซอร์ทั่วไปอะนะ ขนาดในพวกสีด้วยกันเองด้วย รู้จักเธอได้ไงอะ? </Content>
+          <Content>อืมๆ แน่นอนสิว่าฉันรู้จัก! เธอคนนั้นนะขึ้นชื่อว่าแตกต่างจากฟิกเซอร์ทั่วไป ขนาดในพวกสีด้วยกันเองด้วย รู้จักเธอได้ไงอะ? </Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -1093,13 +1093,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland19</VoiceFile>
-          <Content>หมอกสีชาดนี่แข็งแกร่งจริงๆ ไม่มีคำไหนที่เหมาะกับเธอไปมากกว่าคำว่าแข็งแกร่งแล้วล่ะ</Content>
+          <Content>หมอกแดงนี่แข็งแกร่งจริงๆ ไม่มีคำไหนที่เหมาะกับเธอไปมากกว่าคำว่าแข็งแกร่งแล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland20</VoiceFile>
-          <Content>แถมเธอก็รับแค่คำขอเพื่อคนอื่นเท่านั้น ไม่ใช่เพื่อตัวเธอเอง อืม มันคงจริงสินะที่ว่าถ้าเก่งก็ทำอะไรก็ได้น่ะ</Content>
+          <Content>แถมเธอก็รับแค่คำขอเพื่อคนอื่นเท่านั้น ไม่ใช่เพื่อตัวเธอเอง อืม มันคงจริงสินะที่ว่าถ้าเก่งแล้วก็ทำอะไรก็ได้น่ะ</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -3009,420 +3009,420 @@ This train is operating as intended.</Content>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: A Den of Sweepers</PlaceName>
+        <PlaceName>สถานที่: ถ้ำของสวีปเปอร์ส์</PlaceName>
         <Dialog ID="0" Model="안톤">
-          <Teller>Anton</Teller>
-          <Title>Sweeper</Title>
+          <Teller>แอนตัน</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton1</VoiceFile>
           <Content>578…2179…8213….</Content>
         </Dialog>
         <Dialog ID="1" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie1</VoiceFile>
           <Content>12915762348</Content>
         </Dialog>
         <Dialog ID="2" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla1</VoiceFile>
           <Content>5832091953</Content>
         </Dialog>
         <Dialog ID="3" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie2</VoiceFile>
           <Content>683024193</Content>
         </Dialog>
         <Dialog ID="4" Model="안톤">
-          <Teller>Anton</Teller>
-          <Title>Sweeper</Title>
+          <Teller>แอนตัน</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton2</VoiceFile>
           <Content>05043…</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่:ด้านในห้องสมุด</PlaceName>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland1</VoiceFile>
-          <Content>…I knew it. It’s pretty much impossible to understand the language of Sweepers without an interpreter to translate ‘em for you.</Content>
+          <Content>…รู้อยู่แล้วเชียว เป็นไปไม่ได้เลยที่จะเข้าใจภาษาของพวกสวีปเปอร์ส์โดยที่ไม่มีล่ามมาแปลให้น่ะ</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela1</VoiceFile>
-          <Content>Wait. I can promptly translate their speech as long as it has the form of a language.</Content>
+          <Content>เดี๋ยวก่อน ฉันสามารถแปลภาษาของพวกเขาได้ตราบใดที่ยังมีรูปแบบของภาษาอยู่</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland2</VoiceFile>
-          <Content>Wha, seriously? You can make sense out of those few sentences AND decode a whole language from them?</Content>
+          <Content>จริงดิ? นี่เธอสามารถฟังแค่ไม่กี่ประโยคแล้วแปลภาษาพวกนั้นได้เลยหรอ?</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela2</VoiceFile>
-          <Content>I’m that capable.</Content>
+          <Content>ฉันทำได้ขนาดนั้นเลยแหละ</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: A Den of Sweepers</PlaceName>
+        <PlaceName>สถานที่: ถ้ำของสวีปเปอร์</PlaceName>
         <Dialog ID="9" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla2</VoiceFile>
-          <Content>It is becoming clear that the night is no longer ours alone.</Content>
+          <Content>ดูเหมือนช่วงเวลากลางคืนนั้นจะไม่ใช่ของพวกเราอย่างเดียวแล้ว</Content>
         </Dialog>
         <Dialog ID="10" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie3</VoiceFile>
-          <Content>I know. I know that we have fewer and fewer places to properly dine at with our families.</Content>
+          <Content>ฉันรู้ พวกเราเริ่มมีที่กินข้าวกับครอบครัวเราน้อยลงน้อยลง ฉันรู้</Content>
         </Dialog>
         <Dialog ID="11" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla3</VoiceFile>
-          <Content>I hear that the families who dine at the Nest of L Corp. are recently having a hard time seeing what is in front of them because of the mist covering the area.</Content>
+          <Content>ฉันได้ยินมาว่าครอบครัวแถวเนสในL คอร์ปหากินยากขึ้นเพราะหมอกลงแถวนั้น</Content>
         </Dialog>
         <Dialog ID="12" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla4</VoiceFile>
-          <Content>I hear that some families even get lost in the fog and fail to leave.</Content>
+          <Content>ฉันได้มาด้วยว่ามีคนในครอบครัวสูญหายไปในหมอกแล้วกลับมาไม่ได้</Content>
         </Dialog>
         <Dialog ID="13" Model="안톤">
-          <Teller>Anton</Teller>
-          <Title>Sweeper</Title>
+          <Teller>แอนตัน</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton3</VoiceFile>
-          <Content>Why… are we not… letting Mother know…</Content>
+          <Content>ทำไม… เราไม่บอกให้… ท่านแม่รู้ล่ะ…</Content>
         </Dialog>
         <Dialog ID="14" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie4</VoiceFile>
-          <Content>If Mother knows, she will wage an all-out war against the Index. We are not certain enough to risk losing our families to battle.</Content>
+          <Content>ถ้าท่านแม่รู้เข้า ท่านแม่จะเปิดสงครามครั้งใหญ่กับพวกอืนเด็กซ์แน่ เรายังไม่อยากเสียเลือดเสียเนื้อคนในครอบครัวอีก</Content>
         </Dialog>
         <Dialog ID="15" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla5</VoiceFile>
-          <Content>If it is true that the Index truly has betrayed us, and if Mother is too late to realize their treachery… Many of our families will starve. They will slowly die out.</Content>
+          <Content>ถ้าเกิดพวกอินเด็กซ์หักหลังเราจริง แล้วท่านแม่ยังไม่รู้ตัวอีก… คนในครอบครัวเราจะอดตาย</Content>
         </Dialog>
         <Dialog ID="16" Model="안톤">
-          <Teller>Anton</Teller>
-          <Title>Sweeper</Title>
+          <Teller>แอนตัน</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton4</VoiceFile>
-          <Content>Less food… means Mother… will have… difficulty… fostering… new family members…</Content>
+          <Content>อาหารน้อยลง… แปลว่า… ท่านแม่เอง… จะเลี้ยง… สมาชิกใหม่… ยากขึ้น…</Content>
         </Dialog>
         <Dialog ID="17" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie5</VoiceFile>
-          <Content>We all have our own homes, our own families, and our own children.</Content>
+          <Content>พวกเรามีบ้าน มีครอบครัว และลูกๆกันทุกคน</Content>
         </Dialog>
         <Dialog ID="18" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie6</VoiceFile>
-          <Content>I am not advocating neglect. I am simply saying that we need to practice caution.</Content>
+          <Content>ฉันไม่ได้สนับสนุนให้อยู่เฉยๆ ฉันแค่บอกว่าเราต้องระมัดระวัง</Content>
         </Dialog>
         <Dialog ID="19" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla6</VoiceFile>
-          <Content>You know that it has only been a week since those despicable filth known as the Carnival raided the dens of our brothers and ate our families.</Content>
+          <Content>รู้ใช่ไหมว่ามันผ่านไปแค่อาทิตย์เดียวที่มีพวกสารเลวน่ารังเกียจที่ชื่อดิ คาร์นิวัล บุกรังของพี่น้องเราแล้วกินพวกเขา</Content>
         </Dialog>
         <Dialog ID="20" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla7</VoiceFile>
-          <Content>Five days ago, L’heure du Loup invaded my younger sibling’s den and brutally killed two families.</Content>
+          <Content>ห้าวันที่แล้ว เลอร์ ดู ลูป บุกรังของน้องฉันแล้วฆ่าครอบครัวไปตั้ง2ครอบครัว</Content>
         </Dialog>
         <Dialog ID="21" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla8</VoiceFile>
-          <Content>Three days ago, a Proxy of the Index laid waste on our neighbors.</Content>
+          <Content>สามวันที่แล้ว ลูกศิกย์อินเด็กซ์มาก่อกวนแถวเพื่อนบ้านเราด้วย</Content>
         </Dialog>
         <Dialog ID="22" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla9</VoiceFile>
-          <Content>Two days ago, Puppeteer took my children. And yest—</Content>
+          <Content>สองวันก่อน พัพเพ็ตเทียย์เอาลูกฉันไป แถมเมื่อวา—</Content>
         </Dialog>
         <Dialog ID="23" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie7</VoiceFile>
-          <Content>I know! I know that those incidents all happened at night!</Content>
+          <Content>ฉันรู้! ว่าเหตุการณ์พวกนั้นเกิดตอนกลางคืน ฉันรู้!</Content>
         </Dialog>
         <Dialog ID="24" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie8</VoiceFile>
-          <Content>I know that our presence is not as powerful as before! I know that we have lost our dominance over the nighttime of this Nest.</Content>
+          <Content>ฉันรู้ว่าตัวตนพวกเราไม่น่าเกรงขามเหมือนเมื่อก่อน ฉันรู้ว่าเราเสียอำนาจยึดครองตอนกลางคืนของเนสนี้ไป ฉันรู้</Content>
         </Dialog>
         <Dialog ID="25" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie9</VoiceFile>
-          <Content>Mother should be aware as well. We know that we need more space to use as our den.</Content>
+          <Content>ท่านแม่เองน่าจะรู้แล้ว เราต้องการพื้นที่มากขึ้นสำหรับรังของพวกเรา ฉันรู้</Content>
         </Dialog>
         <Dialog ID="26" Model="안톤">
-          <Teller>Anton</Teller>
-          <Title>Sweeper</Title>
+          <Teller>แอนตัน</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton5</VoiceFile>
-          <Content>Then… why…</Content>
+          <Content>งั้น… ทำไม…</Content>
         </Dialog>
         <Dialog ID="27" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie10</VoiceFile>
-          <Content>We will only lose more of our dens if we get involved in bigger conflicts. If we were to engage in a full-fledged battle against the Index, we will have even less time in our hands. We must make it through, on our own.</Content>
+          <Content>เราจะเสียรังของเรามากขึ้นถ้าเรามีส่วนร่วมกับการปะทะครั้งใหญ่ ถ้าเราจะสู้กับอินเด็กซ์อย่างเต็มที่ เราจะมีเวลาในมือน้อยลง เราจะต้องผ่านมันไป ด้วยตัวของเราเอง</Content>
         </Dialog>
         <Dialog ID="28" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla10</VoiceFile>
-          <Content>What will we possibly do.</Content>
+          <Content>งั้นเราควรจะทำอย่างไร</Content>
         </Dialog>
         <Dialog ID="29" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie11</VoiceFile>
-          <Content>It is the Library. We must go to the Library.</Content>
+          <Content>ห้องสมุดไง เราควรไปที่ห้องสมุด</Content>
         </Dialog>
         <Dialog ID="30" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie12</VoiceFile>
-          <Content>I know that the Library has the books of those who worked for the Thumb and the Index.</Content>
+          <Content>ฉันรู้ว่าห้องสมุดมีหนังสือของพวกที่ทำงานให้เดอะ ทัมห์และอินเด็กซ์ด้วย.</Content>
         </Dialog>
         <Dialog ID="31" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla11</VoiceFile>
-          <Content>Have you received its invitation?</Content>
+          <Content>แล้วเรามีบัตรเชิญหรือยัง?</Content>
         </Dialog>
         <Dialog ID="32" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie13</VoiceFile>
-          <Content>I have. With this, we can confirm if the Index truly has turned its back on Mother and our families.</Content>
+          <Content>ฉันมี ด้วยสิ่งนี้ เราจะรู้ได้ว่าพวกอินเด็กซ์นั้นหันหลังให้กับคุณแม่และครอบครัวของเราหรือยั.</Content>
         </Dialog>
         <Dialog ID="33" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie14</VoiceFile>
-          <Content>Moreover, this will help us relieve the hardships of our families dining at Nest L.</Content>
+          <Content>อีกอย่าง นี่จะช่วยคลายความยากลำบากให้ครอบครัวเราที่เนสL ด้วย</Content>
         </Dialog>
         <Dialog ID="34" Model="안톤">
-          <Teller>Anton</Teller>
-          <Title>Sweeper</Title>
+          <Teller>แอนตัน</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton6</VoiceFile>
-          <Content>If we… are not… too late… by then… that is…</Content>
+          <Content>ถ้าเกิด… พวกเรา… ไม่สาย… ไปซะก่อน…</Content>
         </Dialog>
         <Dialog ID="35" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla12</VoiceFile>
-          <Content>I understand what you mean, uncle.</Content>
+          <Content>ฉันเข้าใจที่คุณจะพูด คุณลุง</Content>
         </Dialog>
         <Dialog ID="36" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie15</VoiceFile>
-          <Content>Let us call our neighbors. Let us head to the Library together.</Content>
+          <Content>ไปเรียกเพื่อนบ้านเรามา ไปห้องสมุดด้วยกัน</Content>
         </Dialog>
         <Dialog ID="37" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie16</VoiceFile>
-          <Content>Let us tell our children to lock the doors and not let strangers in before we leave.</Content>
+          <Content>ก่อนที่เราจะไป บอกให้ลูกๆพวกเราล็อคประตูแล้วไม่ให้คนแปลกหน้าเข้ามา</Content>
         </Dialog>
         <Dialog ID="38" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie17</VoiceFile>
-          <Content>Let us as parents protect our Mother, our neighbors, our family, and our children with our own hands.</Content>
+          <Content>ให้พวกเราในฐานะผู้ปกครองปกป้องท่านแม่ เพื่อนบ้าน ครอบครัว และลูกของพวกเราด้วยมือของเราเอง</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="39" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland3</VoiceFile>
-          <Content>Whoa… Are we really getting Sweepers as guests here?</Content>
+          <Content>โว้ว… นี่เราจะมีแขกเป็นพวกสวีปเปอร์ส์จริงๆหรอเนี้ย?</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland4</VoiceFile>
-          <Content>They have the capacity to collectively go somewhere with a clear purpose at a time that isn’t night? And talk so fluently?</Content>
+          <Content>นี่พวกสวีปเปอร์ส์ไปไหนมาไหนในแบ็คสรีทแบบมีเป้าหมายด้วย? แถมยังพูดกันคล่องอีกต่างหาก?</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela3</VoiceFile>
-          <Content>That’s funny. I expected them to be a little coarser.</Content>
+          <Content>น่าขำจัง ฉันคิดว่าพวกเขาจะหยาบคายกันซะอีก</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland5</VoiceFile>
-          <Content>I once got an interpreter to try to talk to ‘em before. I thought they could only speak in jumbled words back then.</Content>
+          <Content>ฉันน่ะเคยจ้างล่ามมาพูกกับพวกนั้นอยู่ ตอนนั้นฉันคิดว่าพวกเขาพูดได้แค่คำต่อคำเท่านั้น</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland6</VoiceFile>
-          <Content>But boy oh boy, look at them using complete sentences. And they’re so talkative with each other, too…</Content>
+          <Content>แต่ดูสิ ดูพวกเขาใช้ประโยคนั่นจริงๆ แถมพวกเขาเป็นพวกพูดมากซะด้วย…</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland7</VoiceFile>
-          <Content>That means the interpreter I paid an arm and a leg for was a total scam and a rip-off.</Content>
+          <Content>เสียเงินไปเยอะเพื่อจ้างล่ามแปลโง่ๆเนี้ยนะฉัน</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela4</VoiceFile>
-          <Content>Are the Sweepers all composed of family members?</Content>
+          <Content>งั้นพวกสวีปเปอร์ส์ก็เป็นคนในครอบครัวสินะ?</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland8</VoiceFile>
-          <Content>It’s probably just a symbolic term they chose to forge bonds between each other. I doubt they’re actually families by blood. It’s metaphorical like the titles most other Syndicates use.</Content>
+          <Content>อาจจะแค่พูดกันในเชิงสัญลักษณ์เท่านั้นก็ได้ ฉันไม่คิดว่าพวกเขาเป็นญาติกันด้วยซ้ำ เหมือนกับยศในพวกองค์กรอะไรอย่างนั้น</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela5</VoiceFile>
-          <Content>I heard they kidnap children from the Outskirts and the Backstreets.</Content>
+          <Content>ฉันได้มาว่าพวกเขาชอบรักพาตัวเด็กแถวชานเมืองและแบ็คสตรีท</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland9</VoiceFile>
-          <Content>I don’t really suggest looking too deep into Sweepers. They’re all over the Backstreets and the Outskirts. And I don’t think they have much to do with the freedom you’re looking for, anyway.</Content>
+          <Content>ขอบอกเลยนะว่าอย่าไปขุดคุ้ยเรื่องพวกนั้นให้มาก พวกเขาอยู่กันไปทั่วทั้งชานมืองและแบ็คสตรีท แถมไม่น่าจะช่วยอะไรกับอิสรภาพที่เธอตามหาอยู่ด้วยซ้ำ.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="49" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie18</VoiceFile>
-          <Content>Dear neighbors, this is the Library.</Content>
+          <Content>เพื่อนบ้าน ที่นี่คือห้องสมุด</Content>
         </Dialog>
         <Dialog ID="50" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie19</VoiceFile>
-          <Content>This is the place the scum of the Backstreets have been rattling on about.</Content>
+          <Content>ที่นี่คือที่ๆพวกขยะแถวแบ็คสตรีทพูดถึง</Content>
         </Dialog>
         <Dialog ID="51" Model="안톤">
-          <Teller>Anton</Teller>
-          <Title>Sweeper</Title>
+          <Teller>แอนตัน</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton7</VoiceFile>
-          <Content>We… did not… expect… to come… to the Library ourselves…</Content>
+          <Content>พวกเรา… ไม่คิดว่า… เราจะ… มาเหมือนกัน…</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela6</VoiceFile>
-          <Content>Greetings, dear guests.</Content>
+          <Content>ยินดีต้อนรับ แขกผู้มีเกียรติ</Content>
         </Dialog>
         <Dialog ID="53" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie20</VoiceFile>
-          <Content>Greetings. …Are you our family?</Content>
+          <Content>สวัสดี นี่คุณ… เป็นครอบครัวเราหรอ?</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela7</VoiceFile>
-          <Content>There’s no way I am, now is there?</Content>
+          <Content>ไม่มีทางอยู่แล้วสิ?</Content>
         </Dialog>
         <Dialog ID="55" Model="안톤">
-          <Teller>Anton</Teller>
-          <Title>Sweeper</Title>
+          <Teller>แอนตัน</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton8</VoiceFile>
-          <Content>However… you speak… in the language… of our family…</Content>
+          <Content>แต่ว่า… คุณพูด… ในภาษา… ของครอบครัว… เราอยู่… </Content>
         </Dialog>
         <Dialog ID="56" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla13</VoiceFile>
-          <Content>We can speak with other members of our family.</Content>
+          <Content>พวกเราสามารถพูดคุยกับสมาชิกในครอบครัวได้เท่านั้น</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela8</VoiceFile>
-          <Content>I try to talk to the guests on their level these days, as you can see.</Content>
+          <Content>อย่างที่เห็น ฉันน่ะพยายามพูดกับแขกให้เราอยู่ระดับเดียวกันอยู่</Content>
         </Dialog>
         <Dialog ID="58" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla14</VoiceFile>
-          <Content>I am impressed. This is surprising. Behold, neighbors. The Library is not like any other place.</Content>
+          <Content>น่าประทับใจ ไม่สิน่าชื่นชมจริงๆ ดูสิเพื่อนบ้าน ห้องสมุดนั้นไม่เหมือนที่อื่นเลย</Content>
         </Dialog>
         <Dialog ID="59" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie21</VoiceFile>
-          <Content>I know. This is the first time we are having a real conversation with someone who is not our family.</Content>
+          <Content>ฉันไม่เคยพูดคุยกับคนอื่นนอกจากในครอบครัวเลย.</Content>
         </Dialog>
         <Dialog ID="60" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela9</VoiceFile>
-          <Content>Family, family, family, family… Could you stop with that horrid rubbish?</Content>
+          <Content>คำหนึงก็ครอบครัว สองคำก็ครอบครัว… เลิกพูดอะไรที่มันไร้ประโยชน์ทีได้ไหม?</Content>
         </Dialog>
         <Dialog ID="61" Model="안톤">
-          <Teller>Anton</Teller>
-          <Title>Sweeper</Title>
+          <Teller>แอนตัน</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton9</VoiceFile>
-          <Content>Family… is important… It is not… horrid…</Content>
+          <Content>ครอบครัวนั้น… สำคัญ… ไม่ได้… ไร้ประโยชน์… ซะหน่อย…</Content>
         </Dialog>
         <Dialog ID="62" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla15</VoiceFile>
-          <Content>We apologize. We are simply here to take the books we desire.</Content>
+          <Content>เราต้องขอโทษด้วย เราแค่ต้องการหนังสือตามที่เขียนไว้</Content>
         </Dialog>
         <Dialog ID="63" Model="라일라">
-          <Teller>Lyla</Teller>
-          <Title>Sweeper</Title>
+          <Teller>ไลล่า</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla16</VoiceFile>
-          <Content>And in regards to the mist covering this Nest… Do you know anything about it?</Content>
+          <Content>และเรื่องหมอกที่ปกคลุมเนสนี้นั้น… คุณรู้อะไรเกี่ยวกับมันไหม?</Content>
         </Dialog>
         <Dialog ID="64" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela10</VoiceFile>
-          <Content>You’ll find out when you read the books, no?</Content>
+          <Content>ไม่ลองไปดูในหนังสือเองล่ะ?</Content>
         </Dialog>
         <Dialog ID="65" Model="발레리">
-          <Teller>Valerie</Teller>
-          <Title>Sweeper</Title>
+          <Teller>วาเลอรี</Teller>
+          <Title>สวีปเปอร์</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie22</VoiceFile>
-          <Content>That is true. All we want is to acquire the books we want to find. We will be satisfied.</Content>
+          <Content>นั่นก็จริง ที่เราต้องการก็แค่หนังสือที่เราตามหา แล้วเราจะพอใจ</Content>
         </Dialog>
         <Dialog ID="66" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+			<Teller>แองเจล่า</Teller>
+			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela11</VoiceFile>
-          <Content>Fine. May you find your book in this place.</Content>
+          <Content>ดีเลย งั้นก็ขอให้พบหนังสือที่ต้องการ ณ ที่แห่งนี้ละกัน</Content>
         </Dialog>
       </Place>
     </Episode>
