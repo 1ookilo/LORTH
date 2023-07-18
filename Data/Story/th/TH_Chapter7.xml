@@ -1813,7 +1813,7 @@
           <Teller>อีลีน</Teller>
           <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_Eilin_2</VoiceFile>
-          <Content>ฉันก็รู้สึกแบบเดียวกัน… ท่านอาร์กาเลียได้ให้การหลุดพ้นแก่เรา</Content>
+          <Content>ฉันก็รู้สึกแบบเดียวกัน… ท่านอาร์กาเลียได้ให้ความพ้นทุกข์แก่เรา</Content>
         </Dialog>
         <Dialog ID="20" Model="아르갈리아">
           <Teller>อาร์กาเลีย</Teller>
@@ -1837,7 +1837,7 @@
           <Teller>เบรเมน</Teller>
           <Title>The Musicians of เบรเมน</Title>
           <VoiceFile>ch7_Blue_ep2_Bremen_2</VoiceFile>
-          <Content>Rarf, arf arf!! Ruff!!! Neiiiigh~ Cha-caw~ Neigh! Bwak!!</Content>
+          <Content>โฮ่ง บ็อก บ็อก!! บ็อก!!! ฮี๊~ กระต๊าก~ ฮี๊! กุ๊ก!!</Content>
         </Dialog>
         <Dialog ID="24" Model="정장 타냐">
           <Teller>Tanya</Teller>
@@ -2077,7 +2077,7 @@
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_1</VoiceFile>
-          <Content>นานแล้วนะ โรแลนด์.</Content>
+          <Content>นานแล้วนะ โรแลนด์</Content>
         </Dialog>
         <Dialog ID="64" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
@@ -2101,7 +2101,7 @@
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_4</VoiceFile>
-          <Content>…อุ๊ย ตาย เกินไปหรือเปล่านะ?</Content>
+          <Content>…อุ๊ย ตาย ทำเกินไปหรือเปล่านะ?</Content>
         </Dialog>
         <Dialog ID="68" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
@@ -2515,7 +2515,7 @@
           <Teller>แจฮยอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch7_Blue_ep2_Jaeheon_30</VoiceFile>
-          <Content>นั่นคือตอนเมื่อนัก orchestrator คนนี้เอื้อมมือมาหาผม และนำผมมาถึงตรงนี้ได้</Content>
+          <Content>นั่นคือตอนเมื่อวาทยกรคนนี้เอื้อมมือมาหาผม และนำผมมาถึงตรงนี้ได้</Content>
         </Dialog>
         <Dialog ID="137" Model="롤랑_2">
           <Teller>โรแลนด์</Teller>
@@ -2623,7 +2623,7 @@
           <Teller>อีลีน</Teller>
           <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch7_Blue_ep2_Eilin_5</VoiceFile>
-          <Content>ขอบคุณ… สำหรับการเปิดทางให้เราสามารถ can reach salvation…</Content>
+          <Content>ขอบคุณ… สำหรับการเปิดทางให้เราสามารถเข้าถึงความพ้นทุกข์ได้…</Content>
         </Dialog>
         <Dialog ID="155" Model="아르갈리아">
           <Teller>อาร์กาเลีย</Teller>
@@ -2653,13 +2653,13 @@
           <Teller>ออซวอลด์</Teller>
           <Title>The 8 o’Clock Ringmaster</Title>
           <VoiceFile>ch7_Blue_ep2_Oswald_8</VoiceFile>
-          <Content>As eager as I am to see what happens next with googly eyes, we’ll have to miss out on it, sadly.</Content>
+          <Content>ถึงแม้ฉันจะอยากเห็นสิ่งที่จะเกิดขึ้นด้วยสองตานี้ เสียดายที่เราคงต้องพลาดมันไปแล้ว.</Content>
         </Dialog>
         <Dialog ID="160" Model="아르갈리아">
           <Teller>อาร์กาเลีย</Teller>
           <Title>เสียงกังวาลสีคราม</Title>
           <VoiceFile>ch7_Blue_ep2_Argalia_40</VoiceFile>
-          <Content>Now! Get ready, then.</Content>
+          <Content>เอาล่ะ! เตรียมให้พร้อมเลย</Content>
         </Dialog>
         <Dialog ID="161" Model="아르갈리아">
           <Teller>อาร์กาเลีย</Teller>
@@ -2937,7 +2937,7 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Yesod vs. อีลีน</EpisodeName>
+      <EpisodeName>เยโสด vs. อีลีน</EpisodeName>
       <Place>
         <PlaceName>Location: The Library - Floor of Technological Sciences</PlaceName>
         <Dialog ID="0" Model="에일린">
@@ -2947,8 +2947,8 @@
           <Content>ฉันได้ยินเสียงฟันเฟืองหมุนในที่แห่งนี้</Content>
         </Dialog>
         <Dialog ID="1" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_1</VoiceFile>
           <Content>ขอต้อนรับ</Content>
         </Dialog>
@@ -2965,8 +2965,8 @@
           <Content>มาทักทายเขาหน่อย ทุกคน</Content>
         </Dialog>
         <Dialog ID="4" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_2</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -2983,14 +2983,14 @@
           <Content>แต่ยังไง ทุกเสียงที่เฟืองกระทบกันก็ย่อมรื่นหูอยู่วันยังค่ำ</Content>
         </Dialog>
         <Dialog ID="7" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_3</VoiceFile>
           <Content>อย่างงั้นเหรอ ผมเห็นว่ามันน่ารำคาญเป็นบางครั้งนะ</Content>
         </Dialog>
         <Dialog ID="8" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_4</VoiceFile>
           <Content>เฟืองบนชั้นของเรานั้นต่อเข้าไม่ค่อยเข้ากันเท่าไหร่ ทำให้เกิดเสียงดังหนวกหู</Content>
         </Dialog>
@@ -3013,8 +3013,8 @@
           <Content>ให้ฉัน… ถือว่าคุณเป็นสิ่งแบบเดียวกันกับเราได้ไหม?</Content>
         </Dialog>
         <Dialog ID="12" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_5</VoiceFile>
           <Content>ผมไม่มั่นใจเท่าไหร่นะ ผมไม่เข้าใจว่าพวกเฟืองที่หมุนอยู่ที่นี่จะเหมือนกับของเธอได้อย่างไร</Content>
         </Dialog>
@@ -3037,8 +3037,8 @@
           <Content>ฉันช่วยคุณเรื่องนั้นได้</Content>
         </Dialog>
         <Dialog ID="16" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_6</VoiceFile>
           <Content>ด้วยความเคารพ คุณผู้หญิง ผมขอปฏิเสธ ผมพบเจตจำนงของผมแล้ว และผมนั้นอยู่สบายดี</Content>
         </Dialog>
@@ -3055,14 +3055,14 @@
           <Content>ดั่งที่พ่อของฉันนำฉันสู่ผู้กอบกู้ในฐานะเฟือง… คุณก็สามารถเป็นเฟืองอย่างแท้จริงได้ และหมุนไปตามเจตจำนงของท่านผู้นั้น</Content>
         </Dialog>
         <Dialog ID="19" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_7</VoiceFile>
           <Content>ผมไม่อยู่ใต้คำสั่งใครทั้งนั้น</Content>
         </Dialog>
         <Dialog ID="20" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_8</VoiceFile>
           <Content>ผมไม่เหมือนเธอ ที่เอาแต่ตามเฟืองของเธอ</Content>
         </Dialog>
@@ -3103,26 +3103,26 @@
           <Content>เดินเข้าสู่เส้นทางแห่งฟันเฟือง</Content>
         </Dialog>
         <Dialog ID="27" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_9</VoiceFile>
           <Content>เธอพูดดั่งกับว่าเธอรู้ทุกอย่างเกี่ยวกับผม</Content>
         </Dialog>
         <Dialog ID="28" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_10</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="29" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_11</VoiceFile>
           <Content>ผมทิ้งอดีตไว้เบื้องหลังผมไปนานแล้ว</Content>
         </Dialog>
         <Dialog ID="30" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_12</VoiceFile>
           <Content>ถ้าผมปล่อยให้อารมณ์บดบังการตัดสินใจอันมีเหตุผลของตัวเอง ผมจะไม่สามารถกระทำการด้วยดุลพินิจและความพิเศษได้</Content>
         </Dialog>
@@ -3169,8 +3169,8 @@
           <Content>ท่านอาร์กาเลียจงเจริญ!!</Content>
         </Dialog>
         <Dialog ID="38" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_13</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -3181,14 +3181,14 @@
           <Content>มันยังไม่สายไปนะคะ นี่อาจเป็นโอกาสสุดท้ายของคุณแล้ว</Content>
         </Dialog>
         <Dialog ID="40" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_14</VoiceFile>
           <Content>ผมขอปฏิเสธ</Content>
         </Dialog>
         <Dialog ID="41" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_15</VoiceFile>
           <Content>ผมไม่ได้เดินทางนี้มาเพื่อแค่เป็นเฟือง</Content>
         </Dialog>
@@ -3217,26 +3217,26 @@
           <Content>แต่ว่าไม่เป็นไร เราจะหมุนอย่างหนักเพื่อทดแทนส่วนที่เสียไปให้</Content>
         </Dialog>
         <Dialog ID="46" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_16</VoiceFile>
           <Content>นี่คือเส้นทางที่ผมเลือก</Content>
         </Dialog>
         <Dialog ID="47" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_17</VoiceFile>
           <Content>ผมพยายามมองไปข้างหน้า แทนที่จะผูกมัดตัวเองกับเรื่องในอดีต</Content>
         </Dialog>
         <Dialog ID="48" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_18</VoiceFile>
           <Content>ผมรู้สึกเสียใจกับคนที่เสียชีวิตไปในที่แห่งนี้อยู่…</Content>
         </Dialog>
         <Dialog ID="49" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_19</VoiceFile>
           <Content>แต่ทว่า ผมคงไม่เริ่มนี่แน่ถ้าผมจะปล่อยให้ความเห็นใจนั่นอยู่เหนือหัว</Content>
         </Dialog>
@@ -3247,8 +3247,8 @@
           <Content>เข้าใจแล้ว พวกนั้นเป็นเฟืองที่ไม่สามารถหมุนอย่างเที่ยงตรงได้อีก</Content>
         </Dialog>
         <Dialog ID="51" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_20</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -3271,20 +3271,20 @@
           <Content>โปรดรู้ไว้ คุณไม่สามารถหมุนไปยังเป้าหมายเพียงลำพัง คุณจะผุพังในสักวัน</Content>
         </Dialog>
         <Dialog ID="55" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_21</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="56" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_22</VoiceFile>
           <Content>คุยกันนานมากแล้ว จากนี้ไป เราควรตั้งใจทำตามหน้าที่ของเรา</Content>
         </Dialog>
         <Dialog ID="57" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Librarian - Tech. Sciences</Title>
+          <Teller>เยโสด</Teller>
+          <Title>บรรณารักษ์ประจำชั้น - วิทย์เทคโนโลยี</Title>
           <VoiceFile>ch7_Blue_ep2_YE_Yesod_23</VoiceFile>
           <Content>ให้นี่เป็นศึกที่ยุติธรรมกัน</Content>
         </Dialog>
@@ -3303,131 +3303,131 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Hod vs. เกรต้า</EpisodeName>
+      <EpisodeName>โฮด vs. เกรต้า</EpisodeName>
       <Place>
         <PlaceName>Location: The Library - Floor of Literature</PlaceName>
         <Dialog ID="0" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_1</VoiceFile>
-          <Content>I’m picking up a quirky smell here… It’s the scent of a nice sauce!</Content>
+          <Content>ฉันได้กลิ่นแปลกๆ ที่นี่… มันเป้นกลิ่นของซอสเลิศรส!</Content>
         </Dialog>
         <Dialog ID="1" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_1</VoiceFile>
-          <Content>Greetings. I’m Hod, the Patron Librarian in charge of this floor.</Content>
+          <Content>สวัสดีค่ะ ดิฉันโฮด, บรรณารักษ์ประจำชั้นแห่งนี้</Content>
         </Dialog>
         <Dialog ID="2" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_2</VoiceFile>
-          <Content>Patron Librarian? Are you one of the chefs here?</Content>
+          <Content>บรรณารักษ์ประจำชั้น? นี่เธอเป้นหนึ่งในเชฟที่นี่รึไง?</Content>
         </Dialog>
         <Dialog ID="3" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_2</VoiceFile>
-          <Content>This isn’t a restaurant or anything… But I guess it’s an equivalent if I had to make a comparison.</Content>
+          <Content>ที่นี่ไม่ใช่ร้านอาหารหรืออะไรนะคะ… แต่ถ้าให้ฉันเดาว่าก็คงเทียบเคึยงกันได้อยู่</Content>
         </Dialog>
         <Dialog ID="4" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_3</VoiceFile>
-          <Content>Name’s เกรต้า! I got an order from our conductor!</Content>
+          <Content>ชื่อเกรต้า! ฉันได้คำสั่งจากวาทยกรของเรา!</Content>
         </Dialog>
         <Dialog ID="5" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_3</VoiceFile>
-          <Content>Greta… Your skin is white like a pearl, just as your name suggests.</Content>
+          <Content>เกรต้า… ผิวของคุณนั้นขาวดั่งไข่มุก เหมือนที่ชื่อคุณสื่อไว้</Content>
         </Dialog>
         <Dialog ID="6" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_4</VoiceFile>
-          <Content>I heard what happened to your former colleagues. The Eight Chefs have disbanded…</Content>
+          <Content>ฉันได้ยินเรื่องที่เกิดกับอดีตเพื่อนร่วมงานของคุณแล้ว กลุ่มแปดเชฟสลายตัวไปแล้ว…</Content>
         </Dialog>
         <Dialog ID="7" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_4</VoiceFile>
-          <Content>Oh, you’re talking about those cretins?</Content>
+          <Content>โอ้ เธอกำลังพูดถึงพวกเซ่อพวกนั้นน่ะเหรอ?</Content>
         </Dialog>
         <Dialog ID="8" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_5</VoiceFile>
-          <Content>They were a buncha morons. They declared that they got sick of ordinary cuisine and started cooking their own bodies.</Content>
+          <Content>พวกนั้มันปัญญาอ่อน พวกแม่งประกาศว่าเบื่ออาหารแบบปกดิแล้วเริ่มทำอาหารจากร่างกายตัวเอง</Content>
         </Dialog>
         <Dialog ID="9" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_5</VoiceFile>
-          <Content>Their own bodies?</Content>
+          <Content>ร่างกายตัวเองเหรอคะ?</Content>
         </Dialog>
         <Dialog ID="10" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_6</VoiceFile>
-          <Content>Cooking, tasting, rating it, making notes… then back to preparing another part for cooking…</Content>
+          <Content>ทำ ชิม ให้คะแนน จดโน็ต… แล้วก็กลับไปเอาส่วนอื่นทำอาหารต่อ…</Content>
         </Dialog>
         <Dialog ID="11" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_7</VoiceFile>
-          <Content>They kept going until their teeth and tongues were all that’s left.</Content>
+          <Content>พวกแม่งทำไปเรื่อยๆ จนเหลือแต่ฟันกับลิ้น</Content>
         </Dialog>
         <Dialog ID="12" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_8</VoiceFile>
-          <Content>Ain’t it sad? They got the teeth to chew the dishes, but their digestive tracts were boiled in a stew…</Content>
+          <Content>น่าเศร้าเลยใช่ไหม? พวกมันมีฟันเคี้ยวอาหาร แต่ระบบย่อยก็เอาไปต้มทำสตูว์ไปแล้ว…</Content>
         </Dialog>
         <Dialog ID="13" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_9</VoiceFile>
-          <Content>They had the tongues to taste the dishes, but their brains turned into steaks!</Content>
+          <Content>พวกมันมีลิ้นชิมรสอาหาร แต่สมองแม่งก็กลายเป็นสเต๊กไปแล้ว!</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_6</VoiceFile>
-          <Content>…I’m sorry to hear that you were the only survivor.</Content>
+          <Content>…ฉันเสียใจที่ได้ยินว่าคุณเป็นผู้รอดชีวิตคนสุดท้ายนะคะ</Content>
         </Dialog>
         <Dialog ID="15" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_10</VoiceFile>
-          <Content>Eh, it’s no biggie. If they were satisfied, who am I to mourn ‘em?</Content>
+          <Content>เออ ไม่ใช่เรื่องใหญ่ ถ้าพวกนั้นพอใจ กูจะไปไว้อาลัยพวกนั้นทำไม?</Content>
         </Dialog>
         <Dialog ID="16" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_11</VoiceFile>
-          <Content>How you cook doesn’t matter! So long as the end result is a treat!!!</Content>
+          <Content>วิธีที่ทำนั้นไม่สำคัญ! ตราบใดที่ผลสรุปเป็นอาหารอร่อยก็ดี!!!</Content>
         </Dialog>
         <Dialog ID="17" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_12</VoiceFile>
-          <Content>Nobody gives a rat’s buttered buns about what kinda ingredients are in their food. It’s the taste that matters!</Content>
+          <Content>ไม่มีใครสนห่าสนแตดว่าจะใช้วัตถุดิบอะไรในอาหารหรอก รสชาติเท่านั้นที่สำคัญ!</Content>
         </Dialog>
         <Dialog ID="18" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_7</VoiceFile>
-          <Content>It may not be easy to remember an ingredient’s name, but its taste would leave a strong impression that’s hard to forget.</Content>
+          <Content>ถึงแม้มันไม่ง่ายที่จะจำชื่อวัตถุดิบ แต่รสชาติของมันจะทิ้งความประทับใจที่ยากที่จะลืม</Content>
         </Dialog>
         <Dialog ID="19" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_13</VoiceFile>
-          <Content>I can’t with the snobs who are picky about ingredients. A lot of ‘em are too inflexible.</Content>
+          <Content>ฉันทำแบบนั้นกับพวกหัวสูงที่เรื่องมากเรื่องวัตถุดิบไม่ได้ พวกนั้นส่วนใหญ่ไม่ยืดหยุ่นเกินไป</Content>
         </Dialog>
         <Dialog ID="20" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_8</VoiceFile>
           <Content>…</Content>
@@ -3436,127 +3436,127 @@
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_14</VoiceFile>
-          <Content>Hm?</Content>
+          <Content>หืม?</Content>
         </Dialog>
         <Dialog ID="22" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_15</VoiceFile>
-          <Content>Ah, so you were one of ‘em!</Content>
+          <Content>อ้า เธอเป็นพวกนั้นสินะ!</Content>
         </Dialog>
         <Dialog ID="23" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_9</VoiceFile>
-          <Content>I understand that there can be endless debate about the issue. If we kept arguing about what we can and can’t eat, we might as well reach the conclusion that we should refrain from consuming anything.</Content>
+          <Content>ฉันเข้าใจนะว่าคงได้ถกเรื่องนี้กันอีกยาว ถ้าเรายังเถียงกันว่าเรากินอะไรได้อะไรกินไม่ได้ เราคงได้ข้อสรุปที่ว่าเราควรจะไม่ทานอะไรเลย</Content>
         </Dialog>
         <Dialog ID="24" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_10</VoiceFile>
-          <Content>Still… I don’t think I can be at peace with the idea of eating my fellow human being.</Content>
+          <Content>แต่ทว่า… ฉันไม่คิดว่าฉันจะสงบจิตกับความคิดในการกินเนื้อเพื่อนมนุษย์ได้</Content>
         </Dialog>
         <Dialog ID="25" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_16</VoiceFile>
-          <Content>Why think of ‘em as the same kind as you? You get wind of something savory, an’ ya find and eat it. What more is there to think about?</Content>
+          <Content>ทำไม่คิดว่าพวกนั้นเป็นแบบเดียวกันกับเธอล่ะ? ถ้าได้กลิ่นของอร่อย ก็หาและกินมันซะ จะต้องคิดอะไรอีกล่ะ?</Content>
         </Dialog>
         <Dialog ID="26" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_17</VoiceFile>
-          <Content>The smell in the air tells me that there’s a fresh ingredient out there. How could a predator ignore the scent of blood in the ocean current!</Content>
+          <Content>กลิ่นในอากาศบอกฉันว่ามีวัตถุดิบสดใหม่ข้างนอกนั่น นักล่าอย่างฉันจะเมินกลิ่นเลือดในกระแสคลื่นได้ยังไง!</Content>
         </Dialog>
         <Dialog ID="27" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_18</VoiceFile>
-          <Content>But let me tell ya, sister, ingredients these days are too filthy or frail. Delicious ones are hard to come by nowatimes.</Content>
+          <Content>แต่บอกอะไรให้นะ น้องสาว วัตถุดิบสมัยนี้นั้นทั้งสกปรกและอ่อนแอเกินไป เดี๋ยวนี้ของอร่อยก็หายากขึ้นแล้ว</Content>
         </Dialog>
         <Dialog ID="28" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_11</VoiceFile>
-          <Content>What do you mean by that?</Content>
+          <Content>คุณหมายความว่ายังไง?</Content>
         </Dialog>
         <Dialog ID="29" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_19</VoiceFile>
-          <Content>I’m being literal! There’s more than enough food for everyone to feast on, but people always feel that there’s not enough ‘cause some of ‘em like their meals luxurious.</Content>
+          <Content>กูพูดจริงตามตัวอักษรนะ! มันมีอาหารพอสำหรับทุกคนได้กิน แต่คนก็รู้สึกว่ามันมีไม่พอเพราะบางคนชอบกินหรูก็เท่านั้น</Content>
         </Dialog>
         <Dialog ID="30" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_20</VoiceFile>
-          <Content>When somebody who can live with three meals a day decides to take four, someone else is left with two!</Content>
+          <Content>เมื่อมีคนที่สามารถอยู่ได้ด้วยอาหารสามมื้อตัดสินใจกินสี่มื้อ ก็ย่อมมีคนเหลือกินแค่สองมื้อ!</Content>
         </Dialog>
         <Dialog ID="31" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_21</VoiceFile>
-          <Content>Then the poor sods who only get two meals a day fight over what little food they’ve got left to sate their hunger.</Content>
+          <Content>แล้วพวกน่าสงสารที่ได้แค่สองมื้อต่อวันก็ทะเลาะกันแย่งอาหารที่เหลือเพื่อประทังความหิวตัวเอง</Content>
         </Dialog>
         <Dialog ID="32" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_22</VoiceFile>
-          <Content>If you lose that competition, you live the life of a rat feeding on scraps!</Content>
+          <Content>ถ้าเธอแพ้การแข่งขันนั้น เธอก็ใช้ชีวิตดั่งหนูกินซากไป!</Content>
         </Dialog>
         <Dialog ID="33" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_23</VoiceFile>
-          <Content>The ingredients we get today are either greasy fatsos who ate too much or skinny twigs with barely any meat… Neither are any good!</Content>
+          <Content>ส่วนผสมที่ได้วันนี้ถ้าไม่ใช่ไอ้อ้วนมันเยิ้มที่กินมากไปก็พวกขึ้ก้างที่ไม่มีเนื้อติด… ทั้งคู่ก็ไม่ดีทั้งนั้น!</Content>
         </Dialog>
         <Dialog ID="34" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_24</VoiceFile>
-          <Content>Now the filthy flavor is seeping into the dishes we cook!!!</Content>
+          <Content>ทีนี้พวกรสชาติสกปรกก็ซึมเข้าอาหารที่เราทำ!!!</Content>
         </Dialog>
         <Dialog ID="35" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_25</VoiceFile>
-          <Content>Our conductor will be the one to fix that! He’ll take me to a world where there are pure and clean ingredients aplenty!</Content>
+          <Content>วาทยากรของเราจะเป้นคนแก้เรื่องนั้น! เขาจะพาฉันไปยังโลกที่มีวัตถุดิบสะอาดบริสุทธิ์เหลือเฟือ!</Content>
         </Dialog>
         <Dialog ID="36" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_26</VoiceFile>
-          <Content>That day can’t come soon enough! I’ve been filling my stomach with trash for too long.</Content>
+          <Content>วันนั้นมาช้ากว่านี้ไม่ได้แล้ว! ฉันอัดแต่ขยะเข้าท้องมานานเกินไปแล้ว</Content>
         </Dialog>
         <Dialog ID="37" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_12</VoiceFile>
-          <Content>Pure and untainted people…</Content>
+          <Content>คนบริสุทธ์ไร้มลทินงั้นเหรอ…</Content>
         </Dialog>
         <Dialog ID="38" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_13</VoiceFile>
-          <Content>I guess neither of us… or anyone in the City could say that they’ve done the right thing.</Content>
+          <Content>ฉันเดาว่าเราทั้งคู่… หรือใครก็ตามในเมืองนี้จะบอกไม่ได้ว่าทำในสิ่งที่ถูกต้อง</Content>
         </Dialog>
         <Dialog ID="39" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_14</VoiceFile>
-          <Content>We just followed our hearts…</Content>
+          <Content>เราแค่ทำตามหัวใจของเราก็เท่านั้น…</Content>
         </Dialog>
         <Dialog ID="40" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_15</VoiceFile>
-          <Content>And that’s why… I’ll do my best to stop you here.</Content>
+          <Content>และนั่นคือทำไม… ว่าฉันจะพยายามเต็มที่ในการหยุดคุณตรงนี้</Content>
         </Dialog>
         <Dialog ID="41" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_27</VoiceFile>
-          <Content>I wonder what sauce will go well with this display… Want a little taste test? HAWHAW!!!</Content>
+          <Content>ฉันก็อยากรู้นะว่าซอสไหนกันที่เข้ากับจานนี้… อยากจะลองชิมหน่อยมั้ย? ฮ่าฮ่า!!!</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -6469,7 +6469,7 @@ The sad fireside corner of my poor black heart.</Content>
           <Content>You know better than anyone else that it’s pointless to oppose me in the Library, don’t you?</Content>
         </Dialog>
         <Dialog ID="16" Model="호드">
-          <Teller>Hod</Teller>
+          <Teller>โฮด</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch7_Black_ep1_Hod_1</VoiceFile>
           <Content>Malkuth… Netzach… Yesod… They’re all dead…</Content>
