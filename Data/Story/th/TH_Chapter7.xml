@@ -1714,8 +1714,8 @@
           <Content />
         </Dialog>
         <Dialog ID="3" Model="브레멘">
-          <Teller>Bremen</Teller>
-          <Title>The Musicians of Bremen</Title>
+          <Teller>เบรเมน</Teller>
+          <Title>The Musicians of เบรเมน</Title>
           <VoiceFile>ch7_Blue_ep2_Bremen_1</VoiceFile>
           <Content>Neiiigh~ Bawk, cluck cluck!!! Arf~!! Bow-wow, woof!!!</Content>
         </Dialog>
@@ -1834,8 +1834,8 @@
           <Content>ไงก็ตาม… ดูเหมือนว่าจะไม่มีใครมาต้อนรับเราวันนี้นะ?</Content>
         </Dialog>
         <Dialog ID="23" Model="브레멘">
-          <Teller>Bremen</Teller>
-          <Title>The Musicians of Bremen</Title>
+          <Teller>เบรเมน</Teller>
+          <Title>The Musicians of เบรเมน</Title>
           <VoiceFile>ch7_Blue_ep2_Bremen_2</VoiceFile>
           <Content>Rarf, arf arf!! Ruff!!! Neiiiigh~ Cha-caw~ Neigh! Bwak!!</Content>
         </Dialog>
@@ -2248,8 +2248,8 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="92" Model="브레멘">
-          <Teller>Bremen</Teller>
-          <Title>The Musicians of Bremen</Title>
+          <Teller>เบรเมน</Teller>
+          <Title>The Musicians of เบรเมน</Title>
           <VoiceFile>ch7_Blue_ep2_Bremen_3</VoiceFile>
           <Content>Neeighhhghh!!! Arf arf, ruff ruff ruff!!!</Content>
         </Dialog>
@@ -2668,8 +2668,8 @@
           <Content>บทเพลงของนครนี้ใกล้ถึงท่อนสุดท้ายแล้ว… และเธอเองก็มีเรื่องของเธอให้เก็บด้วย ไม่ใช่หรือ?</Content>
         </Dialog>
         <Dialog ID="162" Model="브레멘">
-          <Teller>Bremen</Teller>
-          <Title>The Musicians of Bremen</Title>
+          <Teller>เบรเมน</Teller>
+          <Title>The Musicians of เบรเมน</Title>
           <VoiceFile>ch7_Blue_ep2_Bremen_4</VoiceFile>
           <Content>Neiiiiigh!! Bwakbwakbwak!!! Woof! Arf~!! Ruff ruff ruff!!</Content>
         </Dialog>
@@ -3561,218 +3561,218 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Netzach vs. Bremen</EpisodeName>
+      <EpisodeName>Netzach vs. เบรเมน</EpisodeName>
       <Place>
         <PlaceName>Location: The Library - Floor of Art</PlaceName>
         <Dialog ID="0" Model="브레멘">
-          <Teller>Bremen</Teller>
-          <Title>The Musicians of Bremen</Title>
+          <Teller>เบรเมน</Teller>
+          <Title>The Musicians of เบรเมน</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Bremen_1</VoiceFile>
-          <Content>Ruff, ruff ruff~!! Cockadoodledo!!! Neigh!!!</Content>
+          <Content>โฮ่ง โฮ่ง โฮ่ง~!! เอ้กอิเอ้กเอ้ก!!! ฮี้!!!</Content>
         </Dialog>
         <Dialog ID="1" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_1</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="2" Model="브레멘">
-          <Teller>Bremen</Teller>
-          <Title>The Musicians of Bremen</Title>
+          <Teller>เบรเมน</Teller>
+          <Title>The Musicians of เบรเมน</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Bremen_2</VoiceFile>
-          <Content>Bawk? Babawk? Neigh!!!</Content>
+          <Content>กุ๊ก? กุกุ๊ก? ฮี้!!!</Content>
         </Dialog>
         <Dialog ID="3" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_2</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="4" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_3</VoiceFile>
           <Content>เฮ้อ… ฉังคงต้องลองถามอะไรเผื่อฉันคงเข้าใจสิ่งที่พวกเธอพูดสินะ…</Content>
         </Dialog>
         <Dialog ID="5" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_4</VoiceFile>
           <Content>พวกเธอ… ไม่สิ พวกเธอสามตัว… ยังเข้าใจในสิ่งที่ฉันพูดไป ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="6" Model="브레멘">
-          <Teller>Bremen</Teller>
-          <Title>The Musicians of Bremen</Title>
+          <Teller>เบรเมน</Teller>
+          <Title>The Musicians of เบรเมน</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Bremen_3</VoiceFile>
-          <Content>Bowow! Rarf~!!!</Content>
+          <Content>บรุ้ว! ฮั้ฟ~!!!</Content>
         </Dialog>
         <Dialog ID="7" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_5</VoiceFile>
           <Content>ฉันคิดอะไรอยู่อย่างสองอย่าง</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_6</VoiceFile>
           <Content>ถ้ากลายมาสารรูปเละจนแม้แต่จะพูดภาษาคนไม่ได้… เป็นศิลปะที่พวกเธออยากจะสร้างขึ้นมาจริง</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_7</VoiceFile>
           <Content>ถ้านี่เป็นสิ่งที่พวกเธอทำไปเพื่ออยากใช้ชีวิตตัวเอง</Content>
         </Dialog>
         <Dialog ID="10" Model="브레멘">
-          <Teller>Bremen</Teller>
-          <Title>The Musicians of Bremen</Title>
+          <Teller>เบรเมน</Teller>
+          <Title>The Musicians of เบรเมน</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Bremen_4</VoiceFile>
-          <Content>Woof. Woof. Cluck?</Content>
+          <Content>โฮ่ง โฮ่ง กลั้ก?</Content>
         </Dialog>
         <Dialog ID="11" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_8</VoiceFile>
           <Content>…เอาตามตรง ฉันอยากบอกคนให้หยุดทำงานศิลป์ที่ต้องสังเวยชีวิตตัวเองและคนอื่นซะที</Content>
         </Dialog>
         <Dialog ID="12" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_9</VoiceFile>
           <Content>ถึงแม้ว่า ในอีกด้านนึง… ฉันก็เห็นนะว่าพวกเขาทำไปเพื่ออะไร</Content>
         </Dialog>
         <Dialog ID="13" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_10</VoiceFile>
           <Content>ก็ศิลปะมันทำให้วิศัยทัศน์แคบลงนี่</Content>
         </Dialog>
         <Dialog ID="14" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_11</VoiceFile>
           <Content>พวกเธอหยุดสนใจสิ่งรอบตัว ฉันคิดว่านั่นเป็นวิธีที่จิตรกรส่วนใหญ่จะทำนะ</Content>
         </Dialog>
         <Dialog ID="15" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_12</VoiceFile>
           <Content>ฉะนั้น เธอจึงระเริงไปกับงาน โดยไม่สนว่ากำลังโยนตัวเองและรอบตัวเข้าไปในเพลิงที่ตัวเองก่อขึ้นมารึเปล่า</Content>
         </Dialog>
         <Dialog ID="16" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_13</VoiceFile>
           <Content>คิดดูแล้วก็เหมือนกับชีวิตคนล่ะนะ</Content>
         </Dialog>
         <Dialog ID="17" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile />
           <Content>…</Content>
         </Dialog>
         <Dialog ID="18" Model="브레멘">
-          <Teller>Bremen</Teller>
-          <Title>The Musicians of Bremen</Title>
+          <Teller>เบรเมน</Teller>
+          <Title>The Musicians of เบรเมน</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Bremen_5</VoiceFile>
-          <Content>Woof, woof! Bawk? Neiiiigh~!</Content>
+          <Content>โฮ่ง โฮ่ง! กุ๊ก? ฮี้~!</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_15</VoiceFile>
           <Content>ถ้าฉันได้โอกาสใช้ชีวิตอีกครั้ง ฉันอยากจะทำงานศิลปะ</Content>
         </Dialog>
         <Dialog ID="20" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_16</VoiceFile>
           <Content>ไม่ใช่ในฐานะบรรณารักษ์ประจำชั้นที่อุทิศเป็นหัวข้อหลัก… แต่ในฐานะปัจเจกชน</Content>
         </Dialog>
         <Dialog ID="21" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_17</VoiceFile>
           <Content>ถ้าฉันสามารถเห็นแสงนั่นได้อีกครั้ง…</Content>
         </Dialog>
         <Dialog ID="22" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_18</VoiceFile>
           <Content>ถ้าฉันต้องรวบรวมความกล้าเพื่อที่จะเอื้อมไปถึงมัน ฉันก็ยอมทำ แต่มันก็พูดง่ายกว่าทำนะ; เธอต้องการความไม่เกรงกลัวอย่างมาก</Content>
         </Dialog>
         <Dialog ID="23" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_19</VoiceFile>
           <Content>และฉันคิดว่าพวกเธอเองก็เห็นแสงแบบเดียวกันที่ฉันใฝ่หาแทบตาย ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="24" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_20</VoiceFile>
-          <Content>ถึงแม้ของเธอจะเป็นสัตว์ที่บิดเบี้ยวไปก็ตาม…</Content>
+          <Content>ถึงแม้ของเธอจะเป็นสัตว์ที่บิดเบี้ยวไปแล้วก็ตาม…</Content>
         </Dialog>
         <Dialog ID="25" Model="브레멘">
-          <Teller>Bremen</Teller>
-          <Title>The Musicians of Bremen</Title>
+          <Teller>เบรเมน</Teller>
+          <Title>The Musicians of เบรเมน</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Bremen_6</VoiceFile>
-          <Content>Ruff ruff~ Neiiigh~!! Neigh!!!</Content>
+          <Content>ฮึ่ม ฮึ่ม~ ฮี้~!! ฮี้!!!</Content>
         </Dialog>
         <Dialog ID="26" Model="브레멘">
-          <Teller>Bremen</Teller>
-          <Title>The Musicians of Bremen</Title>
+          <Teller>เบรเมน</Teller>
+          <Title>The Musicians of เบรเมน</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Bremen_7</VoiceFile>
-          <Content>Neigh!!! Arf arf, arf! Cluck, neigh!!! Bwakbwakbwak!!!</Content>
+          <Content>ฮี้!!! อาร์ฟ อาร์ฟ, อาร์ฟ! กลั้ก, ฮี้!!! บ๊อกบ๊อกบ๊อก!!!</Content>
         </Dialog>
         <Dialog ID="27" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_21</VoiceFile>
           <Content>ก็ได้ ใจร่มก่อน สหาย… เสียงดังทำฉันปวดหัว</Content>
         </Dialog>
         <Dialog ID="28" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_22</VoiceFile>
           <Content>เอาตามตรงนะ… ฉันไม่ค่อยภิรมย์กับงานศิลป์ที่พวกเธอและคณะของเธอกำลังจะทำเท่าไหร่</Content>
         </Dialog>
         <Dialog ID="29" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_23</VoiceFile>
           <Content>ถ้าทำได้ฉันคงบอกให้พวกเธอทิ้งมันเดี๋ยวนี้เลย</Content>
         </Dialog>
         <Dialog ID="30" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_24</VoiceFile>
           <Content>แต่ว่า ฉันคงบอกไล่กับพวกเธอแบบคนอื่นไม่ได้ อย่างน้อยฉันก็เห็นเหตุผลเบื้องหลังมัน</Content>
         </Dialog>
         <Dialog ID="31" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_25</VoiceFile>
-          <Content>And I know pretty well that we have no right to devilishly pick apart each other’s ways of art. I’m not very proud of mine, really…</Content>
+          <Content>และฉันรู้ดีว่าเราไม่มีสิทธิ์ตัดกระชากวิถีศิลปะกันเองได้ ของฉันเองจริงๆ ก็ไม่ค่อยน่าภูมิใจเท่าใหร่…</Content>
         </Dialog>
         <Dialog ID="32" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_26</VoiceFile>
-          <Content>So… We’ll just have to face each other this way.</Content>
+          <Content>ฉะนั้น… เราก็แค่ต้องเผชิญหน้ากันเองแบบนี้สินะ</Content>
         </Dialog>
         <Dialog ID="33" Model="브레멘">
-          <Teller>Bremen</Teller>
-          <Title>The Musicians of Bremen</Title>
+          <Teller>เบรเมน</Teller>
+          <Title>The Musicians of เบรเมน</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Bremen_8</VoiceFile>
-          <Content>Bark, bark! Neigh~!! Bwak!! Cluck-cluck-cluck!!!</Content>
+          <Content>โฮ่ง โอ่ง! ฮี้~!! กะต๊าก!! กุ๊ก-กุ๊ก-กุ๊ก!!!</Content>
         </Dialog>
         <Dialog ID="34" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Patron Librarian - Art</Title>
+          <Title>บรรณารักษ์ประจำชั้น - ศิลปศาสตร์</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_27</VoiceFile>
-          <Content>Yeah… Let’s get this started.</Content>
+          <Content>เออ… มาเริ่มกันเลย</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -6953,13 +6953,13 @@ are brushed by the wind.</Content>
           <Content>Oho, could it be an encore~?!</Content>
         </Dialog>
         <Dialog ID="3" Model="D_브레멘">
-          <Teller>Bremen</Teller>
+          <Teller>เบรเมน</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Bremen_1</VoiceFile>
           <Content>Neiiigh, bray!!</Content>
         </Dialog>
         <Dialog ID="4" Model="D_브레멘">
-          <Teller>Bremen</Teller>
+          <Teller>เบรเมน</Teller>
           <Title>The Reverberation Ensemble</Title>
           <VoiceFile>ch7_Blue_ep3_Bremen_2</VoiceFile>
           <Content>Bawk bawk bawk, cock-a-doodle-doo~!!! Arf rarf arf, woof woof woof!!!</Content>
