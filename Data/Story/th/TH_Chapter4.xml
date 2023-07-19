@@ -445,7 +445,7 @@
           <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha2</VoiceFile>
-          <Content>อินเด็กซ์ ได้มอบหมายข้อตกลงมาให้เราไง</Content>
+          <Content>อินเด็กซ์ ได้มอบข้อบัญญัติมาให้เราไง</Content>
         </Dialog>
         <Dialog ID="7" Model="감마">
           <Teller>แกมม่า</Teller>
@@ -481,19 +481,19 @@
           <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha4</VoiceFile>
-          <Content>อินเด็กซ์มันก็จับตามาที่เราอยู่นะ เราก็ทำเส้นไหมตามที่ข้อตกลงกันไวใช้ไหม?</Content>
+          <Content>อินเด็กซ์มันก็จับตามาที่เราอยู่นะ เราก็แค่ทำเส้นไหมตามข้อบัญญัติสั่งมาใช้ไหม?</Content>
         </Dialog>
         <Dialog ID="13" Model="베타">
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta5 (2)</VoiceFile>
-          <Content>ไม่มีข้อตกลงอื่นจากอินเด็กซ์อีกหรอ?</Content>
+          <Content>ไม่ข้อบัญญัติอื่นจากอินเด็กซ์อีกหรอ?</Content>
         </Dialog>
         <Dialog ID="14" Model="알파">
           <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha5</VoiceFile>
-          <Content>ไม่มี? ไม่ต้องกังวลอินเด็กซ์เป็นเพื่อนที่ดี?</Content>
+          <Content>ไม่มีแล้ว? ไม่ต้องกังวลอินเด็กซ์เป็นเพื่อนที่ดี?</Content>
         </Dialog>
         <Dialog ID="15" Model="얀">
           <Teller>ยัน</Teller>
@@ -529,7 +529,7 @@
           <Teller>ยัน</Teller>
           <Title>ผู้ส่งสาร อินเด็กซ์</Title>
           <VoiceFile>ch4_Carnival_ep1_yan3 (2)</VoiceFile>
-          <Content>ผมเอาข้อกำหนดใหม่มาให้นะครับ</Content>
+          <Content>ผมเอาข้อบัญญัติใหม่มาให้นะครับ</Content>
         </Dialog>
         <Dialog ID="21" Model="베타">
           <Teller>เบต้า</Teller>
@@ -541,7 +541,7 @@
           <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha7</VoiceFile>
-          <Content>มีเอกสารอื่นอยู่กับคุณไหม นี่ไม่เห็นข้อตกลงอะไรเลย</Content>
+          <Content>มีเอกสารอื่นอยู่กับคุณไหม นี่ไม่เห็นมีข้อบัญญัติอะไรเลย</Content>
         </Dialog>
         <Dialog ID="23" Model="얀">
           <Teller>ยัน</Teller>
@@ -589,13 +589,13 @@
           <Teller>ยัน</Teller>
           <Title>ผู้ส่งสาร อินเด็กซ์</Title>
           <VoiceFile>ch4_Carnival_ep1_yan7 (2)</VoiceFile>
-          <Content>หากพวกคุณไม่ปฏิบัติตามข้อตกลงกัน ผู้รับมอบหมายจะมาหาพวกคุณนะ</Content>
+          <Content>หากพวกคุณไม่ปฏิบัติตามข้อบัญญัติ ผู้รับมอบหมายจะมาหาพวกคุณนะ</Content>
         </Dialog>
         <Dialog ID="31" Model="알파">
           <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha9</VoiceFile>
-          <Content>ข้อตกลงต้องมาก่อนสินะ?</Content>
+          <Content>ข้อบัญญัติต้องมาก่อนสินะ?</Content>
         </Dialog>
         <Dialog ID="32" Model="감마">
           <Teller>แกมม่า</Teller>
@@ -619,13 +619,13 @@
           <Teller>ยัน</Teller>
           <Title>ผู้ส่งสาร อินเด็กซ์</Title>
           <VoiceFile>ch4_Carnival_ep1_yan9 (2)</VoiceFile>
-          <Content>เนื่องจากผมส่งข้อตกลงเสร็จแล้ว ผมขอตัวก่อนนะ</Content>
+          <Content>เนื่องจากผมส่งข้อบัญญัติเสร็จแล้ว ผมขอตัวก่อนนะ</Content>
         </Dialog>
         <Dialog ID="36" Model="얀">
           <Teller>ยัน</Teller>
           <Title>ผู้ส่งสาร อินเด็กซ์</Title>
           <VoiceFile>ch4_Carnival_ep1_yan10 (2)</VoiceFile>
-          <Content>…ผมมั่นใจว่าพวกคุณทราบดีอยู่แล้ว แต่อย่าลืมว่าจะเกิดอะไรขึ้นหากคุณไม่ปฏิบัติตามข้อตกลงกันไว</Content>
+          <Content>…ผมมั่นใจว่าพวกคุณทราบดีอยู่แล้ว แต่อย่าลืมว่าจะเกิดอะไรขึ้นหากคุณไม่ปฏิบัติตามข้อบัญญัติ </Content>
         </Dialog>
         <Dialog ID="37" Model="긴">
           <Teller>จิน</Teller>
@@ -3712,7 +3712,7 @@
           <Teller>เอลิน่า</Teller>
           <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena5-01</VoiceFile>
-          <Content>ฉันชื่อเอเลน่า ปัจจุบันทำงานเป็นพยาบาล</Content>
+          <Content>ฉันชื่อเอลิน่า ปัจจุบันทำงานเป็นพยาบาล</Content>
         </Dialog>
         <Dialog ID="14" Model="엘레나">
           <Teller>เอลิน่า</Teller>
@@ -3838,7 +3838,7 @@
           <Teller>ทอมมี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy12</VoiceFile>
-          <Content>ผมด้วย เมอร์รี่… ผมจะอยู่ข้างๆคุณเสมอ…</Content>
+          <Content>ผมด้วย เมอรี… ผมจะอยู่ข้างๆคุณเสมอ…</Content>
         </Dialog>
         <Dialog ID="35" Model="">
           <Teller />
@@ -3921,7 +3921,7 @@
           <Teller>แจ-ฮอน</Teller>
           <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon5</VoiceFile>
-          <Content>แน่นอน... ไอลีนเราไม่ได้มาที่นี่โดยเปล่าประโยชน์</Content>
+          <Content>แน่นอน... เอลิน่าเราไม่ได้มาที่นี่โดยเปล่าประโยชน์</Content>
         </Dialog>
         <Dialog ID="49" Model="승객1">
           <Teller>ผู้โดยสาร 1</Teller>
@@ -4123,7 +4123,7 @@
           <Teller>ทอมมี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy28</VoiceFile>
-          <Content>ไม่ต้องกังวล เมอร์รี่… คนในตู้ของเรายังคงแข็งแรงอยู่</Content>
+          <Content>ไม่ต้องกังวล เมอรี… คนในตู้ของเรายังคงแข็งแรงอยู่</Content>
         </Dialog>
         <Dialog ID="83" Model="승객2">
           <Teller>ผู้โดยสาร 2</Teller>
@@ -4147,7 +4147,7 @@
           <Teller>ทอมมี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy29 (2)</VoiceFile>
-          <Content>เมอร์รี่… อย่าพูดเรื่องมืดมนแบบนั้นสิ….</Content>
+          <Content>เมอรี… อย่าพูดเรื่องมืดมนแบบนั้นสิ….</Content>
         </Dialog>
         <Dialog ID="87" Model="">
           <Teller />
@@ -4337,7 +4337,7 @@
           <Teller>ทอมมี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy35</VoiceFile>
-          <Content>ขอโทษ เมอร์รี่… ฉันแค่— ฉันขอเวลาคิดอีกหน่อย…</Content>
+          <Content>ขอโทษ เมอรี… ฉันแค่— ฉันขอเวลาคิดอีกหน่อย…</Content>
         </Dialog>
         <Dialog ID="119" Model="엘레나">
           <Teller>เอลิน่า</Teller>
@@ -4366,7 +4366,7 @@
           <Teller>ทอมมี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy37 (2)</VoiceFile>
-          <Content>ฉันก็จะทำมัน ไอ้บ้า!!!</Content>
+          <Content>ผมจะทำมัน ไอ้บ้าเอ๊ย…!!!</Content>
         </Dialog>
         <Dialog ID="124" Model="메어리">
           <Teller>เมอรี</Teller>
@@ -4396,7 +4396,7 @@
           <Teller>ทอมมี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy40</VoiceFile>
-          <Content>ผมปล่อยให้สิ่งเดียวกันนั้นเกิดขึ้นกับคุณไม่ได้ เมอร์รี่</Content>
+          <Content>ผมปล่อยให้สิ่งเดียวกันนั้นเกิดขึ้นกับคุณไม่ได้ เมอรี</Content>
         </Dialog>
         <Dialog ID="129" Model="메어리">
           <Teller>เมอรี</Teller>
@@ -4493,7 +4493,7 @@
           <Content>คุณทอมมี่และคุณเมอร์รี่ คุณช่วยไปที่ตู้ที่ 10 และให้กำลังพวกเขาหน่อยได้ไหม?</Content>
         </Dialog>
         <Dialog ID="145" Model="토미, 메어리">
-          <Teller>Tommy and Merry</Teller>
+          <Teller>ทอมมี่ และ เมอรี</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Tomerry_ep1_tommymerry1 (2)</VoiceFile>
           <Content>ฮะ? แต่เราไม่เคยสู้กับใครเลยนะในชีวิต...และเราก็ไม่ได้แข็งแกร่งขนาดนั้นด้วย…</Content>
@@ -4505,7 +4505,7 @@
           <Content>ความรักที่พวกคุณมีต่อกันจะทำให้ร่างกายใหม่ของคุณแข็งแรงขึ้นอย่างแน่นอน</Content>
         </Dialog>
         <Dialog ID="147" Model="토미, 메어리">
-          <Teller>Tommy and Merry</Teller>
+          <Teller>ทอมมี่ และ เมอรี</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Tomerry_ep1_tommymerry2 (2)</VoiceFile>
           <Content>เราเชื่อใจคุณ คุณหมอ</Content>
@@ -4543,13 +4543,13 @@
           <Teller>เอลิน่า</Teller>
           <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena47-01</VoiceFile>
-          <Content>ยินดีต้อนรับกลับสู่เมือง คุณทอมมี่และคุณเมอร์รี่</Content>
+          <Content>ยินดีต้อนรับกลับสู่เมือง คุณทอมมี่และคุณเมอรี</Content>
         </Dialog>
         <Dialog ID="154" Model="토머리">
           <Teller>ชาวเมือง</Teller>
           <Title>เมืองแห่งความรัก</Title>
           <VoiceFile>ch4_Tomerry_ep1_inhabitant234</VoiceFile>
-          <Content>ทอมมี่และเมอรี่ที่เป็นฮีโร่ของ เมืองแห่งความรัก!</Content>
+          <Content>ทอมมี่และเมอรีที่เป็นฮีโร่ของ เมืองแห่งความรัก!</Content>
         </Dialog>
         <Dialog ID="155" Model="토머리">
           <Teller>ชาวเมือง</Teller>
@@ -4851,7 +4851,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela9</VoiceFile>
-          <Content>…คุณจำทอมมี่และเมอร์รี่ได้ไหม?</Content>
+          <Content>…คุณจำทอมมี่และเมอรีได้ไหม?</Content>
         </Dialog>
         <Dialog ID="204" Model="토머리">
           <Teller>โทเมอรี่</Teller>
@@ -6276,7 +6276,7 @@
           <Teller>อู๊ด</Teller>
           <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink13</VoiceFile>
-          <Content>…เสียงกระต่ายร้อง…?</Content>
+          <Content>…กริด กริด …?</Content>
         </Dialog>
         <Dialog ID="70" Model="무무">
           <Teller>มูมู่</Teller>
