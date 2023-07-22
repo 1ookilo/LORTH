@@ -1,126 +1,125 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<text id="ui_manual_title_1">The Invitation</text>
-	<text id="ui_manual_title_2">Reception</text>
-	<text id="ui_manual_title_3">The Library</text>
-	<text id="ui_manuals_subtitle_1_1">การส่ง Red Invitations</text>
-	<text id="ui_manuals_subtitle_1_2">การส่ง General Invitations</text>
+	<text id="ui_manual_title_1">การเชื้อเชิญ</text>
+	<text id="ui_manual_title_2">การต้อนรับ</text>
+	<text id="ui_manual_title_3">หอสมุด</text>
+	<text id="ui_manuals_subtitle_1_1">การส่งบัตรเชิญสีแดง</text>
+	<text id="ui_manuals_subtitle_1_2">การส่งบัตรเชิญทั่วไป</text>
 
-	<text id="ui_manuals_subtitle_2_1">Preparing for Reception</text>
-	<text id="ui_manuals_subtitle_2_2">Basics of Combat</text>
+	<text id="ui_manuals_subtitle_2_1">เตรียมตัวสำหรับการต้อนรับ</text>
+	<text id="ui_manuals_subtitle_2_2">พื้นฐานของการต่อสู้</text>
 
-	<text id="ui_manuals_subtitle_2_3">Reception Process</text>
-	<text id="ui_manuals_subtitle_2_4">Emotion and Abnormalities</text>
-	<text id="ui_manuals_subtitle_2_5">End of Reception</text>
-	<text id="ui_manuals_subtitle_2_6">Types of Pages</text>
+	<text id="ui_manuals_subtitle_2_3">ขั้นตอนการต้อนรับ</text>
+	<text id="ui_manuals_subtitle_2_4">อารมณ์และ Abnormalities</text>
+	<text id="ui_manuals_subtitle_2_5">จุดจบของการต้อนรับ</text>
+	<text id="ui_manuals_subtitle_2_6">ประเภทของ Pages</text>
 
-	<text id="ui_manuals_subtitle_3_1">Getting Pages</text>
-	<text id="ui_manuals_subtitle_3_2">Gearing Up Librarians</text>
-	<text id="ui_manuals_subtitle_3_3">The Library’s Growth</text>
-	<text id="ui_manuals_subtitle_3_4">Examining the Story</text>
+	<text id="ui_manuals_subtitle_3_1">การได้รับ Pages</text>
+	<text id="ui_manuals_subtitle_3_2">เตรียมความพร้อมให้บรรณารักษ์</text>
+	<text id="ui_manuals_subtitle_3_3">การเติบโตของห้องสมุด</text>
+	<text id="ui_manuals_subtitle_3_4">ตรวจสอบเรื่องราว</text>
 
-	<text id="ui_manuals_subsubtitle_1_1_1">Choosing Guests</text>
-	<text id="ui_manuals_subsubtitle_1_1_2">Inputting Books I</text>
-	<text id="ui_manuals_subsubtitle_1_1_3">Inputting Books II</text>
-	<text id="ui_manuals_subsubtitle_1_1_4">การส่ง your Invitation</text>
-	<text id="ui_manuals_subsubtitle_1_2_1">การส่ง General Invitations</text>
-	<text id="ui_manuals_subsubtitle_2_2_1">What are Combat Pages?</text>
-	<text id="ui_manuals_subsubtitle_2_3_1">Rolling Speed Dice</text>
-	<text id="ui_manuals_subsubtitle_2_3_2">Selecting Combat Pages</text>
-	<text id="ui_manuals_subsubtitle_2_3_3">Commencing Combat</text>
-	<text id="ui_manuals_subsubtitle_2_3_4">Rolling Dice</text>
-	<text id="ui_manuals_subsubtitle_2_3_5">One-sided Attacks</text>
-	<text id="ui_manuals_subsubtitle_2_3_6">Clashing Ⅰ</text>
-	<text id="ui_manuals_subsubtitle_2_3_7">Clashing Ⅱ</text>
+	<text id="ui_manuals_subsubtitle_1_1_1">การเลือกแขกรับเชิญ</text>
+	<text id="ui_manuals_subsubtitle_1_1_2">ป้อนหนังสือ I</text>
+	<text id="ui_manuals_subsubtitle_1_1_3">ป้อนหนังสือ II</text>
+	<text id="ui_manuals_subsubtitle_1_1_4">การส่งคำเชิญของคุณ</text>
+	<text id="ui_manuals_subsubtitle_1_2_1">การส่งคำเชิญทั่วไป</text>
+	<text id="ui_manuals_subsubtitle_2_2_1">Combat  Pages คืออะไร?</text>
+	<text id="ui_manuals_subsubtitle_2_3_1">ทอย Speed Dice</text>
+	<text id="ui_manuals_subsubtitle_2_3_2">เลือกใช้ Combat Pages</text>
+	<text id="ui_manuals_subsubtitle_2_3_3">เริ่มการต่อสู้</text>
+	<text id="ui_manuals_subsubtitle_2_3_4">ทอยลูกเต๋า</text>
+	<text id="ui_manuals_subsubtitle_2_3_5">การโจมตีฝ่ายเดียว</text>
+	<text id="ui_manuals_subsubtitle_2_3_6">การปะทะ Ⅰ</text>
+	<text id="ui_manuals_subsubtitle_2_3_7">การปะทะ Ⅱ</text>
 	<text id="ui_manuals_subsubtitle_2_3_8">Stagger</text>
-	<text id="ui_manuals_subsubtitle_2_3_9">Resolving Books</text>
-	<text id="ui_manuals_subsubtitle_2_3_10">Resistances</text>
-	<text id="ui_manuals_subsubtitle_2_4_1">Heightening Emotions Ⅰ</text>
-	<text id="ui_manuals_subsubtitle_2_4_2">Heightening Emotions Ⅱ</text>
-	<text id="ui_manuals_subsubtitle_2_4_3">Team Emotion Level</text>
+	<text id="ui_manuals_subsubtitle_2_3_9">กลายเป็นหนังสือ</text>
+	<text id="ui_manuals_subsubtitle_2_3_10">การต้านทาน</text>
+	<text id="ui_manuals_subsubtitle_2_4_1">การเพิ่มอารมณ์ Ⅰ</text>
+	<text id="ui_manuals_subsubtitle_2_4_2">การเพิ่มอารมณ์ Ⅱ</text>
+	<text id="ui_manuals_subsubtitle_2_4_3">ระดับอารมณ์ของทีม</text>
 	<text id="ui_manuals_subsubtitle_2_4_4">Abnormality Pages</text>
 
-	<text id="ui_manuals_subsubtitle_2_5_1">Scene after Scene</text>
-	<text id="ui_manuals_subsubtitle_2_5_2">The Stageplay</text>
-	<text id="ui_manuals_subsubtitle_2_5_3">The Finale</text>
+	<text id="ui_manuals_subsubtitle_2_5_1">ฉากต่อฉาก</text>
+	<text id="ui_manuals_subsubtitle_2_5_2">ละครเวที</text>
+	<text id="ui_manuals_subsubtitle_2_5_3">จุดจบ</text>
 
-	<text id="ui_manuals_subsubtitle_2_6_1">Melee</text>
-	<text id="ui_manuals_subsubtitle_2_6_2">Ranged</text>
-	<text id="ui_manuals_subsubtitle_2_6_3">Counter</text>
-	<text id="ui_manuals_subsubtitle_2_6_4">Mass Attack</text>
-	<text id="ui_manuals_subsubtitle_2_6_5">Properties of a Mass Attack</text>
-	<text id="ui_manuals_subsubtitle_2_6_6">Mass - Individual</text>
-	<text id="ui_manuals_subsubtitle_2_6_7">Mass - Summation</text>
+	<text id="ui_manuals_subsubtitle_2_6_1">ระยะใกล้</text>
+	<text id="ui_manuals_subsubtitle_2_6_2">ระยะไกล</text>
+	<text id="ui_manuals_subsubtitle_2_6_3">เคาน์เตอร์</text>
+	<text id="ui_manuals_subsubtitle_2_6_4">โจมตีหมู่</text>
+	<text id="ui_manuals_subsubtitle_2_6_5">คุณสมบัติของการโจมตีหมู่</text>
+	<text id="ui_manuals_subsubtitle_2_6_6">หมู่ - รายเต๋า</text>
+	<text id="ui_manuals_subsubtitle_2_6_7">หมู่ - รวมเต๋า</text>
 
 	<!--추가-->
-	<text id="ui_manuals_subsubtitle_2_6_1_1">Melee Page Icon</text>
-	<text id="ui_manuals_subsubtitle_2_6_1_2">- The more common type of Combat Page.
-- When a Melee page clashes against a Ranged page, its Offensive dice cannot damage the Ranged opponent immediately even if it wins in a clash against their Offensive die.
-However, the Melee die will be retained upon winning a clash and moved to the end of the dice queue for reuse.</text>
+	<text id="ui_manuals_subsubtitle_2_6_1_1">สัญลักษณ์ Page ระยะใกล้</text>
+	<text id="ui_manuals_subsubtitle_2_6_1_2">- เป็นประเภท Combat Page ที่มีอยู่เยอะกว่าพวก
+- เมื่อใช้ Page ระยะใกล้ปะทะกับ Page ระยะไกล, Dice จู่โจมของ Page ระยะใกล้นั้นจะยังไม่สามารถทำความเสียหายได้ถึงแม้จะชนะการปะทะก็ตาม
+แต่ Dice นั้นจะถูกเก็บรักษาไว้หลังจากที่ชนะการปะทะแล้วเคลื่อนที่ไปยังปลายแถวสำหรับรอการใช้งานต่อไป</text>
 
-	<text id="ui_manuals_subsubtitle_2_6_2_1">Ranged Page Icon</text>
-	<text id="ui_manuals_subsubtitle_2_6_2_2">- Ranged pages will *always* be played before Melee, regardless of Speed.
-- Less common Combat Pages that perform attacks at a distance.
-- Even if the Offensive die of a Ranged page loses in a clash against the Offensive die of a Melee page, the Ranged user will take no immediate damage.
-- However, the opponent’s Melee die will be retained in this case and moved to the end of their dice queue for reuse.</text>
+	<text id="ui_manuals_subsubtitle_2_6_2_1">สัญลักษณ์ Page ระยะไกล</text>
+	<text id="ui_manuals_subsubtitle_2_6_2_2">- Page ระยะไกลจะได้เล่นก่อน Page ระยะใกล้*เสมอ*, โดยไม่สนความเร็ว
+- มี Combat Pages ประเภทนี้อยู่น้อย
+- ถึงแม้ Dice จู่โจมของ Page ระยะไกลนั้นจะแพ้การปะทะกับ Dice จูโจมของ Page ระยะใกล้, ผู้ที่ใช้ Page ระยะไกลจะยังไม่รับความเสียหายในทันที
+- แต่ Dice ระยะใกล้นั้นจะถูกเก็บรักษาไว้แล้วเคลื่อนที่ไปยังปลายแถวสำหรับรอการใช้งานต่อไป</text>
 
-	<text id="ui_manuals_subsubtitle_2_6_3_1">Counter Dice</text>
-	<text id="ui_manuals_subsubtitle_2_6_3_2">Counter dice are displayed in yellow.
-These dice will be saved until an enemy attempts a one-sided attack.
-If a Counter die wins in a clash, it will be recycled if there are dice left on the opponent’s Combat Page.</text>
+	<text id="ui_manuals_subsubtitle_2_6_3_1">เคาน์เตอร์ Dice</text>
+	<text id="ui_manuals_subsubtitle_2_6_3_2">เคาน์เตอร์ dice นั้นจะโชว์เป็นสีเหลือง
+dice พวกนี้จะถูกเก็บไว้จนกระทั่งศัตรูพยายามจะโจมตีฝ่ายเดียว
+ถ้าเกิดเคาน์เตอร์ dice นั้นชนะการปะทะ จะถูกนำมาใช้ซ้ำจนกว่าจะไม่เหลือ dice ใน Combat Page ของศัตรูแล้ว</text>
 	<text id="ui_manuals_subsubtitle_2_6_4_1">Mass Attack Page Icon</text>
-	<text id="ui_manuals_subsubtitle_2_6_4_2">The icon on the &#60;color=#ff5622ff&#62;‘Combat Page’&#60;/color&#62; indicates that it is a Mass Attack page.
-- When you select a target with a Mass Attack page,
-it will automatically target a random Speed die for every other enemy.</text>
+	<text id="ui_manuals_subsubtitle_2_6_4_2">สัญลักษณ์บน &#60;color=#ff5622ff&#62;‘Combat Page’&#60;/color&#62; แสดงให้เห็นว่านี่คือการโจมตีหมู่
+- เมื่อคุณเลือกเป้าหมายด้วย Page โจมตีหมู่
+มันจะเล็ง Speed dice แบบสุ่มของศัตรูคนอื่นด้วย</text>
 
-	<text id="ui_manuals_subsubtitle_2_6_5_1">Mass Attack pages will *always* be played before Melee and Ranged pages, regardless of Speed.
-The dice rolls of the Mass Attack page are compared with the rolls of Combat Pages on the targeted Speed dice, and the targets that roll lower than the Mass Attack will take damage and have their dice be destroyed.</text>
+	<text id="ui_manuals_subsubtitle_2_6_5_1">การโจมตีหมู่นั้นจะเล่นก่อน Page ระยะใกล้และระยะไกล*เสมอ*, โดยไม่สนความเร็ว
+แต้มสุ่มใน Page โจมตีหมู่นั้นจะถูกนำไปเทียบกับแต้มสุ่มของ Combat Page หรือ Speed dice ของเป้าหมาย, เป้าหมายที่ได้แต้มสุ่มน้อยกว่าการโจมตีหมู่จะได้รับความเสียหายและลูกเต๋านั้นจะถูกทำลาย</text>
 
-	<text id="ui_manuals_subsubtitle_2_6_6_1">Two types of Mass Attack pages exist: &#60;color=#ff5622ff&#62;‘Individual’&#60;/color&#62;, and &#60;color=#ff5622ff&#62;‘Summation’&#60;/color&#62;. &#60;color=#ff5622ff&#62;‘Individual’&#60;/color&#62; Mass Attacks are compared against the roll of each individual die on the targeted Speed dice’s Combat Page in sequence (Excluding Counter Dice).</text>
-	<text id="ui_manuals_subsubtitle_2_6_7_1">&#60;color=#ff5622ff&#62;‘Summation’&#60;/color&#62; Mass Attacks are compared against the sum of dice rolls on the targeted Speed dice’s Combat Page. (Excluding Counter Dice)</text>
+	<text id="ui_manuals_subsubtitle_2_6_6_1">Page โจมตีหมู่นั้นมีอยู่สองประเภทนั่นคือ: &#60;color=#ff5622ff&#62;‘รายเต๋า’&#60;/color&#62;, กับ &#60;color=#ff5622ff&#62;‘รวมเต๋า’&#60;/color&#62;. โจมตีหมู่แบบ&#60;color=#ff5622ff&#62;‘รายเต๋า’&#60;/color&#62;นั้นจะนำแต้มที่ได้ในแต่ละลูกเต๋าของตัวเองไปเทียบกับแต้มที่ได้ในแต่ละลูกเต๋าของ Combat Page ของศัตรู (โดยที่ไม่นับเคาน์เตอร์ Dice).</text>
+	<text id="ui_manuals_subsubtitle_2_6_7_1">โจมตีหมู่แบบ&#60;color=#ff5622ff&#62;‘รวมเต๋า’&#60;/color&#62;นั้นจะถูกนำไปเทียบกับผลรวมของแต้มใน Combat Page ของศัตรู(โดยที่ไม่เคาน์เตอร์ Dice)</text>
 
-	<text id="ui_manuals_subsubtitle_3_1_1">Burning Books I</text>
-	<text id="ui_manuals_subsubtitle_3_1_2">Burning Books II</text>
-	<text id="ui_manuals_subsubtitle_3_1_3">Spoils of Burning</text>
-	<text id="ui_manuals_subsubtitle_3_1_4">Page Types</text>
-	<text id="ui_manuals_subsubtitle_3_1_5">Page Grades</text>
-	<text id="ui_manuals_subsubtitle_3_2_1">Library UI Info</text>
-	<text id="ui_manuals_subsubtitle_3_2_2">Character UI Info</text>
-	<text id="ui_manuals_subsubtitle_3_2_3">Equipping Key Pages</text>
-	<text id="ui_manuals_subsubtitle_3_2_4">Setting Up Combat Pages</text>
-	<text id="ui_manuals_subsubtitle_3_2_5">Equipping Battle Symbols</text>
-	<text id="ui_manuals_subsubtitle_3_2_6">Librarian Customization</text>
-	<text id="ui_manuals_subsubtitle_3_2_7">Passive Transfer I</text>
-	<text id="ui_manuals_subsubtitle_3_2_8">Passive Transfer II</text>
-	<text id="ui_manuals_subsubtitle_3_3_1">Raising Floor Realization</text>
-	<text id="ui_manuals_subsubtitle_3_3_2">Abnormality Battles</text>
-	<text id="ui_manuals_subsubtitle_3_3_3">Exalting The Library</text>
-	<text id="ui_manuals_subsubtitle_3_3_4">Opening New Floors</text>
-	<text id="ui_manuals_subsubtitle_3_4_1">Scenes of Patron Librarians</text>
-	<text id="ui_manuals_subsubtitle_3_4_2">Watching Main Story Episodes</text>
-	<text id="ui_manuals_subsubtitle_3_4_3">Reading Pages and Books</text>
+	<text id="ui_manuals_subsubtitle_3_1_1">เผาหนังสือ I</text>
+	<text id="ui_manuals_subsubtitle_3_1_2">เผาหนังสือ II</text>
+	<text id="ui_manuals_subsubtitle_3_1_3">ของที่ได้จากการเผา</text>
+	<text id="ui_manuals_subsubtitle_3_1_4">ประเภทของ Page</text>
+	<text id="ui_manuals_subsubtitle_3_1_5">ระดับของ Page</text>
+	<text id="ui_manuals_subsubtitle_3_2_1">ข้อมูลบน UI ของห้องสมุด</text>
+	<text id="ui_manuals_subsubtitle_3_2_2">ข้อมูลบน UI ของตัวละคร</text>
+	<text id="ui_manuals_subsubtitle_3_2_3">สวมใส่ Key Pages</text>
+	<text id="ui_manuals_subsubtitle_3_2_4">จัดเด็ค Combat Pages</text>
+	<text id="ui_manuals_subsubtitle_3_2_5">สวมใส่ Battle Symbols</text>
+	<text id="ui_manuals_subsubtitle_3_2_6">ปรับแต่งบรรณารักษ์</text>
+	<text id="ui_manuals_subsubtitle_3_2_7">เคลื่อนย้ายพาสซีฟ I</text>
+	<text id="ui_manuals_subsubtitle_3_2_8">เคลื่อนย้ายพาฟซีฟ II</text>
+	<text id="ui_manuals_subsubtitle_3_3_1">เพิ่มระดับการตระหนักรู้ของชั้น</text>
+	<text id="ui_manuals_subsubtitle_3_3_2">การต่อสู้กับ Abnormality</text>
+	<text id="ui_manuals_subsubtitle_3_3_3">ยกระดับของห้องสมุด</text>
+	<text id="ui_manuals_subsubtitle_3_3_4">เปิดชั้นใหม่</text>
+	<text id="ui_manuals_subsubtitle_3_4_1">เนื้อเรื่องของหัวหน้าบรรณารักษ์</text>
+	<text id="ui_manuals_subsubtitle_3_4_2">ดูเนื้อเรื่องหลัก</text>
+	<text id="ui_manuals_subsubtitle_3_4_3">อ่าน Pages และหนังสือ</text>
 
 	<!-- Invitation-related Manual Sections -->
-	<text id="ui_manuals_subsubtitle_1_1_1_1">Step 1: From the Invitation menu, select the guests you’d like to invite by their logo (or ‘?’ if you have not received them yet).</text>
-	<text id="ui_manuals_subsubtitle_1_1_1_4">The reception begins by การส่ง an ‘Invitation’ to your dear guests.
-Take the following steps (1-5 across the following pages) to send a ‘Red Invitation’ that will advance the plot.</text>
-	<text id="ui_manuals_subsubtitle_1_1_2_1">Step 2: From the enlarged menu, click on the icon of the episode you’d like to invite guests from.</text>
-	<text id="ui_manuals_subsubtitle_1_1_2_2">Step 3: Once you have selected an episode, the list of books required will be shown on the Invitation.
-Click on the slots on the list.</text>
-	<text id="ui_manuals_subsubtitle_1_1_3_1">Step 4: Choose the needed books for the ‘Books of the Day’.</text>
-	<text id="ui_manuals_subsubtitle_1_1_4_1">Step 5: Press ‘Send Invitation’ to prepare and finalize the invitation.</text>
-	<text id="ui_manuals_subsubtitle_1_1_4_2">Step 6: Click on the gold button to send out the Invitation to your expected guests.</text>
-	<text id="ui_manuals_subsubtitle_1_1_4_3">The details of your guests will not be available when you invite them for the first time.
+	<text id="ui_manuals_subsubtitle_1_1_1_1">ขั้นที่ 1: จากเมนูคำเชื้อเชิญ, เลือกแขกรับเชิญที่คุณต้องการเชิญชวนโดยกดไปที่โลโก้ของพวกเขา(หรือเครื่องหมาย ‘?’ ถ้าเกิดคุณยังไม่ได้ต้อนรับพวกเขาซักครั้ง).</text>
+	<text id="ui_manuals_subsubtitle_1_1_1_4">การต้อนรับจะเริ่มต้นขึ้นเมื่อทำการส่ง‘คำเชื้อเชิญ’ไปหาแขกของคุณ
+ทำตามขั้นตอนนี้(1-5 ตามหน้า) เพื่อส่ง‘บัตรเชิญสีแดง’ในการดำเนินเนื้อเรื่องต่อไป</text>
+	<text id="ui_manuals_subsubtitle_1_1_2_1">ขั้นที่ 2: จากหน้าเมนูที่ขยาย, คลิกไปที่เครื่องหมายของตอนที่คุณอยากจะเชิญแขกมา</text>
+	<text id="ui_manuals_subsubtitle_1_1_2_2">ขั้นที่ 3: หลังจากที่คุณได้ทำการเลือกตอนไปแล้ว, รายชื่อหนังสือที่ต้องใช้จะปรากฏขึ้นมาในบัตรเชิญ คลิกไปที่ช่องว่างในลิส</text>
+	<text id="ui_manuals_subsubtitle_1_1_3_1">ขั้นที่ 4: เลือกหนังสือที่ต้องใช้ใน‘หนังสือประจำวัน’.</text>
+	<text id="ui_manuals_subsubtitle_1_1_4_1">ขั้นที่ 5: กดไปที่‘ส่งคำเชิญ’เพื่อเตรียมและสรุปคำเชื้อเชิญฃ</text>
+	<text id="ui_manuals_subsubtitle_1_1_4_2">ขั้นที่ 6: คลิกไปที่ปุ่มทองเพื่อที่จะทำการส่งคำเชิญไปให้แขกของคุณ</text>
+	<text id="ui_manuals_subsubtitle_1_1_4_3">ข้อมูลของแขกของคุณจะยังไม่สามารถเห็นได่ถ้าเกิดคุณยังไม่เคยเชิญเขามาก่อน
 
-After you’ve battled them once, you can view their combat-related information.</text>
-	<text id="ui_manuals_subsubtitle_1_2_1_1">General Invitations are sent to unimportant guests who won’t lead the plot.
-However, they can be resources to help grow the Library.
+หลังจากที่คุณสู้กับพวกเขาไปแล้วครั้งหนึง, คุณจะสามารถเห็นข้อมูลการต่อสู้ได้</text>
+	<text id="ui_manuals_subsubtitle_1_2_1_1">คำเชื้อเชิญทั่วไปจะส่งไปให้แขกที่ไม่สำคัญ พวกเขาไม่ได้ขับเคลื่อนเรื่องราวแต่จะเป็นทรัพยากรที่ใช้สำหรับขยายห้องสมุด
 
-Take the following steps (1-2 below) to send a general Invitation.</text>
-	<text id="ui_manuals_subsubtitle_1_2_1_2">Step 1: Choose *any* books you’d to register as your ‘Books of the Day’ by clicking on an empty ‘Register Book’ slot.
-(Can be any amount/grade.)
-Note: Putting in a combination of books that is used for a Red Invitation (story characters) will invite the matching guests instead.</text>
-	<text id="ui_manuals_subsubtitle_1_2_1_3">Step 2: Press ‘Send’ to invite the guests.</text>
+
+ทำตามขั้นตอนนี้ (1-2 ข้างล่าง)เพื่อที่จะส่งคำเชื้อเชิญทั่วไป</text>
+	<text id="ui_manuals_subsubtitle_1_2_1_2">ขั้นที่ 1: เลือกหนังสือ*อะไรก็ได้*เพื่อจะลงทะเบียนให้เป็น‘หนังสือประจำวัน’ของคุณ โดยกดไปที่ช่อง‘ลงทะเบียนหนังสือ’ที่ว่างอยู่
+(จำนวนเท่าไหร่/เกรดอะไรก็ได้)
+โน้ต: ถ้าใส่หนังสือที่ใช้ในคำเชื้อเชิญสีแดงจะทำการเชิญแขกที่ว่าดังกล่าวแทน</text>
+	<text id="ui_manuals_subsubtitle_1_2_1_3">ขั้นที่ 2: กด‘ส่ง’เพื่อทำการเชิญแขก</text>
 	<text id="ui_manuals_subsubtitle_1_2_1_4">In the case of General Invitations, the types of guests that take interest will depend on the value of the books you register.</text>
 
 
