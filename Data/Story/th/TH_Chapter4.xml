@@ -13,7 +13,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia1-01</VoiceFile>
-          <Content>เทลมา,คุณต้องขอบคุณฉันทั้งหมดที่ทำให้คุณสามารถรักษาตำแหน่งหัวหน้าแผนกใต้ได้ ดังนั้นบางทีคุณควรจะตอบแทนบุญคุณบ้างสิ ถูกไหม?</Content>
+          <Content>เทลมา,คุณต้องขอบคุณฉันทั้งหมดที่ทำให้คุณสามารถรักษาตำแหน่งหัวหน้าแผนกทางใต้ได้ ดังนั้นบางทีคุณควรจะตอบแทนบุญคุณบ้างสิ ถูกไหม?</Content>
         </Dialog>
         <Dialog ID="1" Model="???">
           <Teller>???</Teller>
@@ -445,7 +445,7 @@
           <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha2</VoiceFile>
-          <Content>อินเด็กซ์ ได้มอบหมายข้อตกลงมาให้เราไง</Content>
+          <Content>อินเด็กซ์ ได้มอบข้อบัญญัติมาให้เราไง</Content>
         </Dialog>
         <Dialog ID="7" Model="감마">
           <Teller>แกมม่า</Teller>
@@ -481,19 +481,19 @@
           <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha4</VoiceFile>
-          <Content>อินเด็กซ์มันก็จับตามาที่เราอยู่นะ เราก็ทำเส้นไหมตามที่ข้อตกลงกันไวใช้ไหม?</Content>
+          <Content>อินเด็กซ์มันก็จับตามาที่เราอยู่นะ เราก็แค่ทำเส้นไหมตามข้อบัญญัติสั่งมาใช้ไหม?</Content>
         </Dialog>
         <Dialog ID="13" Model="베타">
           <Teller>เบต้า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_beta5 (2)</VoiceFile>
-          <Content>ไม่มีข้อตกลงอื่นจากอินเด็กซ์อีกหรอ?</Content>
+          <Content>ไม่ข้อบัญญัติอื่นจากอินเด็กซ์อีกหรอ?</Content>
         </Dialog>
         <Dialog ID="14" Model="알파">
           <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha5</VoiceFile>
-          <Content>ไม่มี? ไม่ต้องกังวลอินเด็กซ์เป็นเพื่อนที่ดี?</Content>
+          <Content>ไม่มีแล้ว? ไม่ต้องกังวลอินเด็กซ์เป็นเพื่อนที่ดี?</Content>
         </Dialog>
         <Dialog ID="15" Model="얀">
           <Teller>ยัน</Teller>
@@ -529,7 +529,7 @@
           <Teller>ยัน</Teller>
           <Title>ผู้ส่งสาร อินเด็กซ์</Title>
           <VoiceFile>ch4_Carnival_ep1_yan3 (2)</VoiceFile>
-          <Content>ผมเอาข้อกำหนดใหม่มาให้นะครับ</Content>
+          <Content>ผมเอาข้อบัญญัติใหม่มาให้นะครับ</Content>
         </Dialog>
         <Dialog ID="21" Model="베타">
           <Teller>เบต้า</Teller>
@@ -541,7 +541,7 @@
           <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha7</VoiceFile>
-          <Content>มีเอกสารอื่นอยู่กับคุณไหม นี่ไม่เห็นข้อตกลงอะไรเลย</Content>
+          <Content>มีเอกสารอื่นอยู่กับคุณไหม นี่ไม่เห็นมีข้อบัญญัติอะไรเลย</Content>
         </Dialog>
         <Dialog ID="23" Model="얀">
           <Teller>ยัน</Teller>
@@ -589,13 +589,13 @@
           <Teller>ยัน</Teller>
           <Title>ผู้ส่งสาร อินเด็กซ์</Title>
           <VoiceFile>ch4_Carnival_ep1_yan7 (2)</VoiceFile>
-          <Content>หากพวกคุณไม่ปฏิบัติตามข้อตกลงกัน ผู้รับมอบหมายจะมาหาพวกคุณนะ</Content>
+          <Content>หากพวกคุณไม่ปฏิบัติตามข้อบัญญัติ ผู้รับมอบหมายจะมาหาพวกคุณนะ</Content>
         </Dialog>
         <Dialog ID="31" Model="알파">
           <Teller>อัลฟ่า</Teller>
           <Title>คาร์นิวัล</Title>
           <VoiceFile>ch4_Carnival_ep1_alpha9</VoiceFile>
-          <Content>ข้อตกลงต้องมาก่อนสินะ?</Content>
+          <Content>ข้อบัญญัติต้องมาก่อนสินะ?</Content>
         </Dialog>
         <Dialog ID="32" Model="감마">
           <Teller>แกมม่า</Teller>
@@ -619,13 +619,13 @@
           <Teller>ยัน</Teller>
           <Title>ผู้ส่งสาร อินเด็กซ์</Title>
           <VoiceFile>ch4_Carnival_ep1_yan9 (2)</VoiceFile>
-          <Content>เนื่องจากผมส่งข้อตกลงเสร็จแล้ว ผมขอตัวก่อนนะ</Content>
+          <Content>เนื่องจากผมส่งข้อบัญญัติเสร็จแล้ว ผมขอตัวก่อนนะ</Content>
         </Dialog>
         <Dialog ID="36" Model="얀">
           <Teller>ยัน</Teller>
           <Title>ผู้ส่งสาร อินเด็กซ์</Title>
           <VoiceFile>ch4_Carnival_ep1_yan10 (2)</VoiceFile>
-          <Content>…ผมมั่นใจว่าพวกคุณทราบดีอยู่แล้ว แต่อย่าลืมว่าจะเกิดอะไรขึ้นหากคุณไม่ปฏิบัติตามข้อตกลงกันไว</Content>
+          <Content>…ผมมั่นใจว่าพวกคุณทราบดีอยู่แล้ว แต่อย่าลืมว่าจะเกิดอะไรขึ้นหากคุณไม่ปฏิบัติตามข้อบัญญัติ </Content>
         </Dialog>
         <Dialog ID="37" Model="긴">
           <Teller>จิน</Teller>
@@ -682,7 +682,7 @@
           <Content>…แน่นอน. ทั้งหมดที่ผมทำก็แค่ส่งสารจากเบื้องบนครับ</Content>
         </Dialog>
         <Dialog ID="46" Model="양">
-          <Teller>ยัน</Teller>
+          <Teller>หยาง</Teller>
           <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Carnival_ep1_yang1</VoiceFile>
           <Content>พวกอินเด็กซ์ก็ยังเหมือนเดิมเสมอเลย</Content>
@@ -820,7 +820,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland13</VoiceFile>
-          <Content>อินเด็กซ์, หนึ่งใน Five Fingers จะตามมาล่าเราแน่ พวกเขาจะทำทุกอย่างเพื่อมาหาเรา</Content>
+          <Content>อินเด็กซ์, หนึ่งใน ไฟฟิงเกอร์ จะตามมาล่าเราแน่ พวกเขาจะทำทุกอย่างเพื่อมาหาเรา</Content>
         </Dialog>
         <Dialog ID="69" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -844,7 +844,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland16</VoiceFile>
-          <Content>อย่างไรก็ตาม Five Fingers มีพลังและอิทธิพลมากพอที่จะเป็นคู่แข่งกับวิงได้เลย ดังนั้นการเป็นศัตรูกับพวกเขาคงไม่ใช้เรื่องดี</Content>
+          <Content>อย่างไรก็ตาม ไฟฟิงเกอร์ มีพลังและอิทธิพลมากพอที่จะเป็นคู่แข่งกับวิงได้เลย ดังนั้นการเป็นศัตรูกับพวกเขาคงไม่ใช้เรื่องดี</Content>
         </Dialog>
         <Dialog ID="73" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -1009,7 +1009,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Carnival_ep1_roland22</VoiceFile>
-          <Content>เมื่อดูจากสิ่งที่เกิดขึ้น รับประกันได้เลยจะต้องเผชิญหน้ากับ Fingers อย่างน้อยหนึ่งละ</Content>
+          <Content>เมื่อดูจากสิ่งที่เกิดขึ้น รับประกันได้เลยจะต้องเผชิญหน้ากับ ฟิงเกอร์ อย่างน้อยหนึ่งละ</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -1052,19 +1052,19 @@
         <PlaceName>สถานที่: โบสถ์แห่งฟันเฟือง</PlaceName>
         <Dialog ID="0" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen1</VoiceFile>
           <Content>สวัสดีทุกท่าน วันนี้พวกเราจะมาเริ่มพิธีกัน</Content>
         </Dialog>
         <Dialog ID="1" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen2</VoiceFile>
           <Content>วันนี้พวกเรามีสมาชิกใหม่ด้วย</Content>
         </Dialog>
         <Dialog ID="2" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen3</VoiceFile>
           <Content>ความกังวลใดที่ทำให้คุณมาที่แห่งนี่ค่ะ</Content>
         </Dialog>
@@ -1076,7 +1076,7 @@
         </Dialog>
         <Dialog ID="4" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen4-01</VoiceFile>
           <Content>อะไรทำให้คุณรู้สึกมากขนาดนั้นค่ะ?</Content>
         </Dialog>
@@ -1084,7 +1084,7 @@
           <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson2</VoiceFile>
-          <Content>ทุกอย่างช่างน่าหดหู่ยิ่งนัก และชีวิตฉันก็เช่นกัน</Content>
+          <Content>ทุกอย่างมันน่าหดหู่มากเลยในชีวิตผม</Content>
         </Dialog>
         <Dialog ID="6" Model="신도1">
           <Teller>ผู้นับถือ 1</Teller>
@@ -1114,7 +1114,7 @@
           <Teller>ผู้นับถือ 1</Teller>
           <Title />
           <VoiceFile>ch4_Fullstop_ep1_religiousperson7</VoiceFile>
-          <Content>ทุกคนที่ฉันเห็นระหว่างการเดินทางมีใบหน้าเหมือนกันทุกคน</Content>
+          <Content>ทุกคนที่ผมเห็นระหว่างการเดินทางมีสภาพไม่ต่างจากผมเลย</Content>
         </Dialog>
         <Dialog ID="11" Model="신도1">
           <Teller>ผู้นับถือ 1</Teller>
@@ -1148,19 +1148,19 @@
         </Dialog>
         <Dialog ID="16" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen5</VoiceFile>
           <Content>ฉันเข้าใจความรู้สึกนั้นของคุณค่ะ.</Content>
         </Dialog>
         <Dialog ID="17" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen6</VoiceFile>
           <Content>ทุกคนในเมืองล้วนเหมือนฟันเฟืองที่หมุนไปโดยไม่มีจุดหมาย…</Content>
         </Dialog>
         <Dialog ID="18" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen7</VoiceFile>
           <Content>การอยู่ท่ามกลางฟันเฟืองอาจจะทำให้คุณเหนื่อยช้าลง…</Content>
         </Dialog>
@@ -1172,13 +1172,13 @@
         </Dialog>
         <Dialog ID="20" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen8-01</VoiceFile>
           <Content>อย่างไรก็ตาม…</Content>
         </Dialog>
         <Dialog ID="21" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen9-01</VoiceFile>
           <Content>มันเป็นการไม่ดีที่จะเป็นฟันเฟืองนะคะ?</Content>
         </Dialog>
@@ -1190,61 +1190,61 @@
         </Dialog>
         <Dialog ID="23" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen10</VoiceFile>
           <Content>ปัญหาทั้งหมดเกิดจากการที่คุณไม่ยอมรับความจริงว่าแท้จริงแล้วคุณเป็นฟันเฟืองค่ะ</Content>
         </Dialog>
         <Dialog ID="24" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen11</VoiceFile>
           <Content>มีครั้งหนึ่ง</Content>
         </Dialog>
         <Dialog ID="25" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen12</VoiceFile>
           <Content>หลังจากพ่อจากไป ฉันก็หลงทางไปพักหนึ่ง</Content>
         </Dialog>
         <Dialog ID="26" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen13-02</VoiceFile>
           <Content>คุณจะเห็นได้ว่าพ่อของฉันก็ใช้ชีวิตเหมือนฟันเฟือง.</Content>
         </Dialog>
         <Dialog ID="27" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen14</VoiceFile>
           <Content>เขามักจะตื่นเวลาเดิม ไปที่เดิม และกลับบ้านเวลาเดิมด้วยใบหน้าเดิมๆ…</Content>
         </Dialog>
         <Dialog ID="28" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen15</VoiceFile>
           <Content>พ่อของฉันค้นคว้าเกี่ยวกับฟันเฟือง</Content>
         </Dialog>
         <Dialog ID="29" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen16</VoiceFile>
           <Content>เป้าหมายของเขาคือการแก้ปัญหาเดียวกันกับที่คุณกำลังประสบอยู่ค่ะ</Content>
         </Dialog>
         <Dialog ID="30" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen17</VoiceFile>
           <Content>บางทีเขาอาจเริ่มคล้ายกับสิ่งที่เขาศึกษาโดยไม่รู้ตัวมานานแล้ว</Content>
         </Dialog>
         <Dialog ID="31" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen18</VoiceFile>
           <Content>รอยย่นบนใบหน้าของเขาเริ่มมากขึ้นในขณะที่เขาทำงาน มีลักษณะคล้ายฟันเฟือง…</Content>
         </Dialog>
         <Dialog ID="32" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen19-01</VoiceFile>
           <Content>พ่อของฉันใช้ชีวิตทั้งชีวิตในฐานะฟันเฟืองที่ขึ้นสนิมในเมืองนี้ จนกระทั่งเขาถูกฆ่าโดยคนบางคน</Content>
         </Dialog>
@@ -1256,19 +1256,19 @@
         </Dialog>
         <Dialog ID="34" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen20</VoiceFile>
           <Content>แล้ววันหนึ่งฉันก็เกิดความคิดขึ้นว่า.</Content>
         </Dialog>
         <Dialog ID="35" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen21</VoiceFile>
           <Content>บางทีเราอาจจะเป็นฟันเฟืองที่ถูกเมืองสร้างขึ้นมาก็ได้…</Content>
         </Dialog>
         <Dialog ID="36" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen22</VoiceFile>
           <Content>บางทีความทุกข์ของพวกเราอาจมาจากการพยายามปฏิเสธตัวตนของพวกเราค่ะ…</Content>
         </Dialog>
@@ -1280,13 +1280,13 @@
         </Dialog>
         <Dialog ID="38" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen23</VoiceFile>
           <Content>นั่นสิค่ะ.</Content>
         </Dialog>
         <Dialog ID="39" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen24</VoiceFile>
           <Content>ปัญหาคือคุณมองว่าตัวเองเป็นฟันเฟืองที่ไร้จุดมุ่งหมาย</Content>
         </Dialog>
@@ -1298,31 +1298,31 @@
         </Dialog>
         <Dialog ID="41" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen25</VoiceFile>
           <Content>ใช่ค่ะ. แน่นอนสามารถทำได้.</Content>
         </Dialog>
         <Dialog ID="42" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen26</VoiceFile>
           <Content>สิ่งที่เราต้องทำคือค้นหาจุดมุ่งหมายที่เราเกิดมาเพื่อเชื่อมโยงกัน</Content>
         </Dialog>
         <Dialog ID="43" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen27</VoiceFile>
           <Content>จะทำให้คุณกลายเป็นฟันเฟืองที่พิเศษที่ไม่สามารถหาสิ่งอื่นมาแทนที่ได้</Content>
         </Dialog>
         <Dialog ID="44" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen28</VoiceFile>
           <Content>พวกเราทุกคนคือฟันเฟือง</Content>
         </Dialog>
         <Dialog ID="45" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen29</VoiceFile>
           <Content>มีฟันเฟืองมากมายในโลกนี้ที่มุ่นอยู่กับความเศร้าโศก เพราะพวกเขายังไม่รู้ว่าจะต้องอยู่ที่ไหนและทำอะไรกันแน่</Content>
         </Dialog>
@@ -1340,13 +1340,13 @@
         </Dialog>
         <Dialog ID="48" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen30</VoiceFile>
           <Content>ดูเหล่าผู้คนทั้งหมดที่มารวมตัวกันที่นี่สิ</Content>
         </Dialog>
         <Dialog ID="49" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen31</VoiceFile>
           <Content>พวกเขาล้วนเคยมีใบหน้าเหมือนกับที่คุณเห็นในชีวิตประจำวันใช้ไหม?</Content>
         </Dialog>
@@ -1358,7 +1358,7 @@
         </Dialog>
         <Dialog ID="51" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen32-01</VoiceFile>
           <Content>โปรดวางใจในตัวฉันเถอะน่า</Content>
         </Dialog>
@@ -1370,7 +1370,7 @@
         </Dialog>
         <Dialog ID="53" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen33-01</VoiceFile>
           <Content>เอาล่ะ ขึ้นมาที่นี่ฉันจะให้จุดมุ่งหมายในชีวิตให้แก่คุณ</Content>
         </Dialog>
@@ -1382,7 +1382,7 @@
         </Dialog>
         <Dialog ID="55" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen34</VoiceFile>
           <Content>ค่ะ นั่งลงและผ่อนคลาย เก้าอี้ตัวนี้จะบอกว่าคุณควรเป็นฟันเฟืองแบบไหน</Content>
         </Dialog>
@@ -1394,13 +1394,13 @@
         </Dialog>
         <Dialog ID="57" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen35</VoiceFile>
           <Content>แน่นอน</Content>
         </Dialog>
         <Dialog ID="58" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen36</VoiceFile>
           <Content>โอ้คุณจะกลายเป็น ‘ฟันเฟืองความคิด’.</Content>
         </Dialog>
@@ -1412,19 +1412,19 @@
         </Dialog>
         <Dialog ID="60" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen37</VoiceFile>
           <Content>เป็นเรื่องหายากมากที่คนๆหนึ่งจะได้รับการมอบหมายให้มีเป้าหมายเป็นฟันเฟืองความคิด นะค่ะ?</Content>
         </Dialog>
         <Dialog ID="61" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen38</VoiceFile>
           <Content>พวกเขากำลังช่วยฉันอยู่ตอนนี้</Content>
         </Dialog>
         <Dialog ID="62" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen39</VoiceFile>
           <Content>คุณไม่ต้องห่วง พ่อของฉันก็เป็นฟันเฟืองความคิดเหมือนกัน.</Content>
         </Dialog>
@@ -1436,13 +1436,13 @@
         </Dialog>
         <Dialog ID="64" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen40-01</VoiceFile>
           <Content>ใช้นี้คือพ่อของฉัน… เขาให้ความรู้เกี่ยวกับชีวิตให้แก่ฉันเสมอเลย</Content>
         </Dialog>
         <Dialog ID="65" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen41-01</VoiceFile>
           <Content>ยังไงก็ตามฟันเฟืองก็ต้องต่อกันน้อยหนึ่งอันขึ้นไป</Content>
         </Dialog>
@@ -1454,13 +1454,13 @@
         </Dialog>
         <Dialog ID="67" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen42-01</VoiceFile>
           <Content>ความเจ็บปวดเป็นเพียงอาการชั่วคราว ในไม่ช้ามันก็จะตามมาด้วยความสุขและสมหวังอย่างแท้จริงค่ะ.</Content>
         </Dialog>
         <Dialog ID="68" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen43</VoiceFile>
           <Content>ทุกคน เรามาให้การต้อนรับการมาถึงอย่างมีเกียรติและล้ำค่าของฟันเฟืองความคิดอันใหม่กัน</Content>
         </Dialog>
@@ -1478,7 +1478,7 @@
         </Dialog>
         <Dialog ID="71" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen44</VoiceFile>
           <Content>เมื่อเปลี่ยนเป็นฟันเฟืองแล้ว</Content>
         </Dialog>
@@ -1492,7 +1492,7 @@
           <Teller>ทามากิ</Teller>
           <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki1-01</VoiceFile>
-          <Content>นั่นคือไอลีน ผู้นำลัทธิของ ‘โบสถ์แห่งฟันเฟือง’…</Content>
+          <Content>นั่นคือไอลีน เจ้าลัทธิของ ‘โบสถ์แห่งฟันเฟือง’…</Content>
         </Dialog>
         <Dialog ID="74" Model="스테판">
           <Teller>สเตฟาน</Teller>
@@ -1528,13 +1528,13 @@
           <Teller>ทามากิ</Teller>
           <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_tamaki3-01</VoiceFile>
-          <Content>ให้ฆ่าอัครสาวกสิบคนและเก็บผู้นำลัทธิไปในตัวด้วย</Content>
+          <Content>ให้ฆ่าอัครสาวกสิบคนและเก็บเจ้าลัทธิไปในตัวด้วย</Content>
         </Dialog>
         <Dialog ID="80" Model="리웨이">
           <Teller>ลี่เหว่ย</Teller>
           <Title>ฟูลสต็อป ฟิกเซอร์</Title>
           <VoiceFile>ch4_Fullstop_ep1_liwei2</VoiceFile>
-          <Content>ฉันไม่คิดเลยว่าผู้กำกับสาขา 2 ของสมาพันธ์ชิ จะให้คำขอแก่สำนักงานของเราเป็นการส่วนตัวอาจมีบางอย่างแปลกๆ เกิดขึ้นก็ได้</Content>
+          <Content>ฉันไม่คิดเลยว่าผู้กำกับหน่วย 2 ของสมาพันธ์ชิ จะให้คำขอแก่สำนักงานของเราเป็นการส่วนตัวอาจมีบางอย่างแปลกๆ เกิดขึ้นก็ได้</Content>
         </Dialog>
         <Dialog ID="81" Model="스테판">
           <Teller>สเตฟาน</Teller>
@@ -1550,67 +1550,67 @@
         </Dialog>
         <Dialog ID="83" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen45</VoiceFile>
           <Content>อา... ช่างเป็นฟังเฟือนความคิดที่สวยงามเสียนี่กระไร</Content>
         </Dialog>
         <Dialog ID="84" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen46-01</VoiceFile>
           <Content>ฉันจะให้เกียรติคุณมารับใช้ฉัน</Content>
         </Dialog>
         <Dialog ID="85" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen47</VoiceFile>
           <Content>ในไม่ช้าคุณจะเข้าใจว่าการเป็นฟันเฟืองที่มีจุดมุ่งหมายนั้นมีความสุขเพียงใด</Content>
         </Dialog>
         <Dialog ID="86" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen48-01</VoiceFile>
           <Content>ใช่. คงต้องใช้เวลาสักพักในการปรับตัว</Content>
         </Dialog>
         <Dialog ID="87" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen49</VoiceFile>
           <Content>ให้เริ่มหมุนทีละนิด</Content>
         </Dialog>
         <Dialog ID="88" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen50</VoiceFile>
           <Content>ดีหมุนพร้อมกับคนอื่นๆ หมุนเบาๆ... ทีละรอบ…</Content>
         </Dialog>
         <Dialog ID="89" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen51</VoiceFile>
           <Content>พ่อของฉันยินดีที่จะช่วยคุณเอง.</Content>
         </Dialog>
         <Dialog ID="90" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen52</VoiceFile>
           <Content>ดูสิ? มันทำให้คุณรู้สึกมีความสุขใช่ไหมล่ะ?</Content>
         </Dialog>
         <Dialog ID="91" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen53</VoiceFile>
           <Content>ฉันดีใจนะที่รู้ว่าคุณมีความสุข</Content>
         </Dialog>
         <Dialog ID="92" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen54</VoiceFile>
           <Content>สาวกที่รัก! วันนี้ฟังเฟือนที่หลงทางได้พบกับหนทางสู่ความสุขแล้ว!</Content>
         </Dialog>
         <Dialog ID="93" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen55</VoiceFile>
           <Content>ขอสรรเสริญแก่พ่อของฉัน!</Content>
         </Dialog>
@@ -1622,7 +1622,7 @@
         </Dialog>
         <Dialog ID="95" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen56-01</VoiceFile>
           <Content>…ฮะ? คุณหมายความว่าไง, “ระวังตัว”…?</Content>
         </Dialog>
@@ -1634,25 +1634,25 @@
         </Dialog>
         <Dialog ID="97" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen57-01</VoiceFile>
           <Content>วะ… เกิดอะไรขึ้น…?</Content>
         </Dialog>
         <Dialog ID="98" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen58-01</VoiceFile>
           <Content>ฟันเฟือง…ฟันเฟืองผู้น่าสงสารของฉัน…</Content>
         </Dialog>
         <Dialog ID="99" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen59-01</VoiceFile>
           <Content>ได้โปรดอย่าทำแบบนี้… ไม่ว่าคุณจะเป็นใครได้โปรดอย่ายุ่งกับพวกเราเลย…</Content>
         </Dialog>
         <Dialog ID="100" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen60-01</VoiceFile>
           <Content>เราเพียงต้องการมีชีวิตที่มีความสุขตามเป้าหมายที่ลิขิตไว้เอง…</Content>
         </Dialog>
@@ -1700,7 +1700,7 @@
         </Dialog>
         <Dialog ID="108" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen61</VoiceFile>
           <Content>เฮย…</Content>
         </Dialog>
@@ -1736,13 +1736,13 @@
         </Dialog>
         <Dialog ID="114" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen62</VoiceFile>
           <Content>คุณคือ…</Content>
         </Dialog>
         <Dialog ID="115" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen63-01</VoiceFile>
           <Content>อา คุณเป็นคนที่พ่อของฉันพูดถึงอยู่เสมอสินะ…?</Content>
         </Dialog>
@@ -1760,7 +1760,7 @@
         </Dialog>
         <Dialog ID="118" Model="에일린">
           <Teller>ไอลีน</Teller>
-          <Title>ผู้นำนิกายฟันเฟือง</Title>
+          <Title>เจ้าลัทธินิกายฟันเฟือง</Title>
           <VoiceFile>ch4_Fullstop_ep1_eileen64</VoiceFile>
           <Content>แน่นอน! ฉันรอคุณมาทั้งชีวิตแล้ว มันช่างลงตัวกับฟันเฟืองของฉัน…</Content>
         </Dialog>
@@ -2488,7 +2488,7 @@
           <Teller>ซัลวาดอร์</Teller>
           <Title>โอเปอเรเตอร์แห่งรุ่นอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador5</VoiceFile>
-          <Content>เมื่อเร็ว ๆ นี้ได้รับการเลื่อนขั้นให้เป็นภัยประจำเมืองและดูเหมือนสาขา 6 ของซเวจะตกเป็นเหยื่อของมันไปแล้ว</Content>
+          <Content>เมื่อเร็ว ๆ นี้ได้รับการเลื่อนขั้นให้เป็นภัยประจำเมืองและดูเหมือนหน่วย 6 ของสไวจะตกเป็นเหยื่อของมันไปแล้ว</Content>
         </Dialog>
         <Dialog ID="10" Model="필립">
           <Teller>ฟิลิป</Teller>
@@ -2512,7 +2512,7 @@
           <Teller>ฟิลิป</Teller>
           <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_philip7-01</VoiceFile>
-          <Content>คือผมขอแสดงความเสียใจกับการสูญเสียของคุณด้วยครับ ผมเคยได้ยินมาว่าเขาคือเพื่อนร่วมงานของคุณตอนที่อยู่ซเว คุณคงจะปวดใจน่าดู</Content>
+          <Content>คือผมขอแสดงความเสียใจกับการสูญเสียของคุณด้วยครับ ผมเคยได้ยินมาว่าเขาคือเพื่อนร่วมงานของคุณตอนที่อยู่สไว คุณคงจะปวดใจน่าดู</Content>
         </Dialog>
         <Dialog ID="14" Model="살바도르">
           <Teller>ซัลวาดอร์</Teller>
@@ -2542,7 +2542,7 @@
           <Teller>ซัลวาดอร์</Teller>
           <Title>โอเปอเรเตอร์แห่งรุ่นอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador11</VoiceFile>
-          <Content>แม้ว่าเขามีความสามารถบางอย่างอยู่ก็ตาม แต่การที่เขาอยู่ในสาขา 6 โดยไม่ถูกลดระดับลงไปอีกบางทีมันอาจจะเป็นโชคชะตาหรือแค่โชคช่วยก็เท่านั้น</Content>
+          <Content>แม้ว่าเขามีความสามารถบางอย่างอยู่ก็ตาม แต่การที่เขาอยู่ในหน่วย 6 โดยไม่ถูกลดระดับลงไปอีกบางทีมันอาจจะเป็นโชคชะตาหรือแค่โชคช่วยก็เท่านั้น</Content>
         </Dialog>
         <Dialog ID="19" Model="유나">
           <Teller>ยูนา</Teller>
@@ -2728,7 +2728,7 @@
           <Teller>ซัลวาดอร์</Teller>
           <Title>โอเปอเรเตอร์แห่งรุ่นอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador22</VoiceFile>
-          <Content>มันคือ 'ห้องสมุด' ฉันพยายามติดต่อสำนักงาน Wedge แต่ดูเหมือนว่าพวกเขาจะยุ่งกับงานของตัวเองอยู่</Content>
+          <Content>มันคือ 'ห้องสมุด' ฉันพยายามติดต่อสำนักงาน เวจ แต่ดูเหมือนว่าพวกเขาจะยุ่งกับงานของตัวเองอยู่</Content>
         </Dialog>
         <Dialog ID="50" Model="살바도르">
           <Teller>ซัลวาดอร์</Teller>
@@ -2740,7 +2740,7 @@
           <Teller>ซัลวาดอร์</Teller>
           <Title>โอเปอเรเตอร์แห่งรุ่นอรุณ</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador24</VoiceFile>
-          <Content>นอกจากนี้ คำขอนี้ได้รับมอบหมายโดยตรงจากสมาพันธ์ซเว</Content>
+          <Content>นอกจากนี้ คำขอนี้ได้รับมอบหมายโดยตรงจากสมาพันธ์สไว</Content>
         </Dialog>
         <Dialog ID="52" Model="살바도르">
           <Teller>ซัลวาดอร์</Teller>
@@ -3712,7 +3712,7 @@
           <Teller>เอลิน่า</Teller>
           <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena5-01</VoiceFile>
-          <Content>ฉันชื่อเอเลน่า ปัจจุบันทำงานเป็นพยาบาล</Content>
+          <Content>ฉันชื่อเอลิน่า ปัจจุบันทำงานเป็นพยาบาล</Content>
         </Dialog>
         <Dialog ID="14" Model="엘레나">
           <Teller>เอลิน่า</Teller>
@@ -3838,7 +3838,7 @@
           <Teller>ทอมมี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy12</VoiceFile>
-          <Content>ผมด้วย เมอร์รี่… ผมจะอยู่ข้างๆคุณเสมอ…</Content>
+          <Content>ผมด้วย เมอรี… ผมจะอยู่ข้างๆคุณเสมอ…</Content>
         </Dialog>
         <Dialog ID="35" Model="">
           <Teller />
@@ -3921,7 +3921,7 @@
           <Teller>แจ-ฮอน</Teller>
           <Title>หมอ</Title>
           <VoiceFile>ch4_Tomerry_ep1_jaeheon5</VoiceFile>
-          <Content>แน่นอน... ไอลีนเราไม่ได้มาที่นี่โดยเปล่าประโยชน์</Content>
+          <Content>แน่นอน... เอลิน่าเราไม่ได้มาที่นี่โดยเปล่าประโยชน์</Content>
         </Dialog>
         <Dialog ID="49" Model="승객1">
           <Teller>ผู้โดยสาร 1</Teller>
@@ -4123,7 +4123,7 @@
           <Teller>ทอมมี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy28</VoiceFile>
-          <Content>ไม่ต้องกังวล เมอร์รี่… คนในตู้ของเรายังคงแข็งแรงอยู่</Content>
+          <Content>ไม่ต้องกังวล เมอรี… คนในตู้ของเรายังคงแข็งแรงอยู่</Content>
         </Dialog>
         <Dialog ID="83" Model="승객2">
           <Teller>ผู้โดยสาร 2</Teller>
@@ -4147,7 +4147,7 @@
           <Teller>ทอมมี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy29 (2)</VoiceFile>
-          <Content>เมอร์รี่… อย่าพูดเรื่องมืดมนแบบนั้นสิ….</Content>
+          <Content>เมอรี… อย่าพูดเรื่องมืดมนแบบนั้นสิ….</Content>
         </Dialog>
         <Dialog ID="87" Model="">
           <Teller />
@@ -4337,7 +4337,7 @@
           <Teller>ทอมมี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy35</VoiceFile>
-          <Content>ขอโทษ เมอร์รี่… ฉันแค่— ฉันขอเวลาคิดอีกหน่อย…</Content>
+          <Content>ขอโทษ เมอรี… ฉันแค่— ฉันขอเวลาคิดอีกหน่อย…</Content>
         </Dialog>
         <Dialog ID="119" Model="엘레나">
           <Teller>เอลิน่า</Teller>
@@ -4366,7 +4366,7 @@
           <Teller>ทอมมี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy37 (2)</VoiceFile>
-          <Content>ฉันก็จะทำมัน ไอ้บ้า!!!</Content>
+          <Content>ผมจะทำมัน ไอ้บ้าเอ๊ย…!!!</Content>
         </Dialog>
         <Dialog ID="124" Model="메어리">
           <Teller>เมอรี</Teller>
@@ -4396,7 +4396,7 @@
           <Teller>ทอมมี่</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch4_Warp_ep1_tommy40</VoiceFile>
-          <Content>ผมปล่อยให้สิ่งเดียวกันนั้นเกิดขึ้นกับคุณไม่ได้ เมอร์รี่</Content>
+          <Content>ผมปล่อยให้สิ่งเดียวกันนั้นเกิดขึ้นกับคุณไม่ได้ เมอรี</Content>
         </Dialog>
         <Dialog ID="129" Model="메어리">
           <Teller>เมอรี</Teller>
@@ -4493,7 +4493,7 @@
           <Content>คุณทอมมี่และคุณเมอร์รี่ คุณช่วยไปที่ตู้ที่ 10 และให้กำลังพวกเขาหน่อยได้ไหม?</Content>
         </Dialog>
         <Dialog ID="145" Model="토미, 메어리">
-          <Teller>Tommy and Merry</Teller>
+          <Teller>ทอมมี่ และ เมอรี</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Tomerry_ep1_tommymerry1 (2)</VoiceFile>
           <Content>ฮะ? แต่เราไม่เคยสู้กับใครเลยนะในชีวิต...และเราก็ไม่ได้แข็งแกร่งขนาดนั้นด้วย…</Content>
@@ -4505,7 +4505,7 @@
           <Content>ความรักที่พวกคุณมีต่อกันจะทำให้ร่างกายใหม่ของคุณแข็งแรงขึ้นอย่างแน่นอน</Content>
         </Dialog>
         <Dialog ID="147" Model="토미, 메어리">
-          <Teller>Tommy and Merry</Teller>
+          <Teller>ทอมมี่ และ เมอรี</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Tomerry_ep1_tommymerry2 (2)</VoiceFile>
           <Content>เราเชื่อใจคุณ คุณหมอ</Content>
@@ -4543,13 +4543,13 @@
           <Teller>เอลิน่า</Teller>
           <Title>พยาบาล</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena47-01</VoiceFile>
-          <Content>ยินดีต้อนรับกลับสู่เมือง คุณทอมมี่และคุณเมอร์รี่</Content>
+          <Content>ยินดีต้อนรับกลับสู่เมือง คุณทอมมี่และคุณเมอรี</Content>
         </Dialog>
         <Dialog ID="154" Model="토머리">
           <Teller>ชาวเมือง</Teller>
           <Title>เมืองแห่งความรัก</Title>
           <VoiceFile>ch4_Tomerry_ep1_inhabitant234</VoiceFile>
-          <Content>ทอมมี่และเมอรี่ที่เป็นฮีโร่ของ เมืองแห่งความรัก!</Content>
+          <Content>ทอมมี่และเมอรีที่เป็นฮีโร่ของ เมืองแห่งความรัก!</Content>
         </Dialog>
         <Dialog ID="155" Model="토머리">
           <Teller>ชาวเมือง</Teller>
@@ -4851,7 +4851,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Tomerry_ep1_angela9</VoiceFile>
-          <Content>…คุณจำทอมมี่และเมอร์รี่ได้ไหม?</Content>
+          <Content>…คุณจำทอมมี่และเมอรีได้ไหม?</Content>
         </Dialog>
         <Dialog ID="204" Model="토머리">
           <Teller>โทเมอรี่</Teller>
@@ -4939,66 +4939,66 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: An Apartment in L Corp’s Nest</PlaceName>
+        <PlaceName>สถานที่: อพาร์ตเมนต์ใน L Corp เนสท์</PlaceName>
         <Dialog ID="0" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo1</VoiceFile>
-          <Content>Oh no. This won’t do.</Content>
+          <Content>โฮ่แบบนี่ไม่ได้นะ</Content>
         </Dialog>
         <Dialog ID="1" Model="거주민1">
-          <Teller>Resident 1</Teller>
-          <Title>Nest Dweller</Title>
+          <Teller>ผู้พักอาศัย 1</Teller>
+          <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants1_1</VoiceFile>
-          <Content>But ma’am, we don’t have any cash left to offer you…</Content>
+          <Content>แต่คุณผู้หญิง เราไม่มีเงินสดเหลือให้คุณแล้ว…</Content>
         </Dialog>
         <Dialog ID="2" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo2</VoiceFile>
-          <Content>If you’re out of money, then you shouldn’t have asked for more protection from us, no?</Content>
+          <Content>หากคุณไม่มีเงินแล้ว คุณก็ไม่ควรขอการคุ้มครองจากเราไม่ใช่เหรอ?</Content>
         </Dialog>
         <Dialog ID="3" Model="거주민2">
-          <Teller>Resident 2</Teller>
-          <Title>Nest Dweller</Title>
+          <Teller>ผู้พักอาศัย 2</Teller>
+          <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants2-1-01</VoiceFile>
-          <Content>But the outside is covered in fog. We don’t know what’s out there… We’ll get killed…</Content>
+          <Content>แต่ข้างนอกมีหมอกปกคลุม เราไม่รู้ว่ามีอะไรอยู่ข้างนอกนั่น… เราอาจจะถูกฆ่าตาย…</Content>
         </Dialog>
         <Dialog ID="4" Model="거주민1">
-          <Teller>Resident 1</Teller>
-          <Title>Nest Dweller</Title>
+          <Teller>ผู้พักอาศัย 1</Teller>
+          <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants1_2-01</VoiceFile>
-          <Content>We aren’t safe here, either. Thugs could break in at any moment…</Content>
+          <Content>เราไม่ปลอดภัยที่นี่เหมือนกัน พวกอันธพาลอาจบุกเข้ามาได้ทุกเมื่อ…</Content>
         </Dialog>
         <Dialog ID="5" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang1</VoiceFile>
-          <Content>Oh, give me a break… Nest life must be too engraved in your heads to get where you stand right now.</Content>
+          <Content>โอ้ หยุดเลย… ชีวิตในเนสท์คงตราตรึงอยู่ในหัวของพวกคุณเกินไปจนทำให้ไปไหนมาไหนไม่ได้เลยเหรอ</Content>
         </Dialog>
         <Dialog ID="6" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang2</VoiceFile>
-          <Content>I thought maybe we could expect better from the household with the highest income around here.</Content>
+          <Content>ผมคิดว่าบางทีเราอาจคาดหวังได้มากกว่านี้จากเจ้าของหอนะ</Content>
         </Dialog>
         <Dialog ID="7" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin1</VoiceFile>
-          <Content>Sayo, shall we cut one off?</Content>
+          <Content>ซาโย เราจะเฉือนมันทิ้งมั้ย?</Content>
         </Dialog>
         <Dialog ID="8" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo3-01</VoiceFile>
-          <Content>Please do. These people will have to become accustomed to the rules of the Backstreets soon enough.</Content>
+          <Content>จัดการเลย คนเหล่านี้ควรจะคุ้นเคยกับกฎของ แบ็คสตรีท ให้เร็วหน่อย</Content>
         </Dialog>
         <Dialog ID="9" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin3-02</VoiceFile>
-          <Content>Hey, consider this a free lesson for you.</Content>
+          <Content>เฮ้ คิดว่านี่เป็นบทเรียนฟรีๆ จากเราละกัน</Content>
         </Dialog>
         <Dialog ID="10" Model="">
           <Teller />
@@ -5007,243 +5007,243 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>สถานที่: Outside an Apartment in L Corp’s Nest</PlaceName>
+        <PlaceName>สถานที่: นอกอพาร์ตเมนต์ใน L Corp เนสท์</PlaceName>
         <Dialog ID="11" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang3-01</VoiceFile>
-          <Content>We could take one arm from each.</Content>
+          <Content>เราควรเอาแขนทีละข้างนะ</Content>
         </Dialog>
         <Dialog ID="12" Model="거주민1">
-          <Teller>Resident 1</Teller>
-          <Title>Nest Dweller</Title>
+          <Teller>ผู้พักอาศัย 1</Teller>
+          <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants1_3</VoiceFile>
-          <Content>Please have mercy on us… You can’t be such heartless people…</Content>
+          <Content>ได้โปรดเมตตาพวกเราด้วย… แบบนั้นไม่ใจร้ายเกินไปหน่อยเหรอ…</Content>
         </Dialog>
         <Dialog ID="13" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo4-01</VoiceFile>
-          <Content>And did you spare any mercy for us while we struggled in the Backstreets, covered in filth and blood? No, you simply spectated our suffering from the comfort of the Nest, did you not?</Content>
+          <Content>แล้วพวกคุณไม่เมตตาเราเลยหรือในขณะที่เราต่อสู้ให้ใน แบ็คสตรีท ซึ่งเต็มไปด้วยความสกปรกและเลือด? พวกคุณแค่มองดูความทุกข์ทรมานของพวกเรา แล้วพวกคุณกับอยู่สุขสบายใน เนสท์ ไม่ใช้หรอ</Content>
         </Dialog>
         <Dialog ID="14" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo5</VoiceFile>
-          <Content>It’s rather infuriating now that I think about it. Yang, let us take an eye from them as well.</Content>
+          <Content>พอคิดแบบนั้นแล้วมันหน้าหงุดหงิดขึ้นมาเลย หยาง เอาตาไปด้วยแล้วกัน</Content>
         </Dialog>
         <Dialog ID="15" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang4</VoiceFile>
-          <Content>Yes, dame~</Content>
+          <Content>ครับ มาดาม~</Content>
         </Dialog>
         <Dialog ID="16" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin3-01</VoiceFile>
-          <Content>Got your arms first.</Content>
+          <Content>รับแขนของคุณก่อนละกัน</Content>
         </Dialog>
         <Dialog ID="17" Model="거주민2">
-          <Teller>Resident 2</Teller>
-          <Title>Nest Dweller</Title>
+          <Teller>ผู้พักอาศัย 2</Teller>
+          <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants2-2</VoiceFile>
-          <Content>We didn’t ask for this, you people came into our house all of a sudden and threatened us to pay protection money…</Content>
+          <Content>เราไม่ได้ขออะไรเลย จู่ๆ คนของคุณก็เข้ามาในบ้านของเราและขู่ให้เราจ่ายค่าคุ้มครอง…</Content>
         </Dialog>
         <Dialog ID="18" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang5</VoiceFile>
-          <Content>So have we kept you safe or not? I’m pretty sure we took care of all the bad guys trying to get here.</Content>
+          <Content>เราได้ดูแลความปลอดภัยให้คุณไม่ใช้หรอ? ฉันค่อนข้างแน่ใจเลยว่าเราดูแลทุกคนที่พยายามอยู่ที่นี่</Content>
         </Dialog>
         <Dialog ID="19" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang6</VoiceFile>
-          <Content>And got your eyes as well~</Content>
+          <Content>ขอตาของคุณต่อนะ~</Content>
         </Dialog>
         <Dialog ID="20" Model="거주민1">
-          <Teller>Resident 1</Teller>
-          <Title>Nest Dweller</Title>
+          <Teller>ผู้พักอาศัย 1</Teller>
+          <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants1_4</VoiceFile>
-          <Content>What do we do… How are we gonna live now…</Content>
+          <Content>เราจะทำยังไง…เราจะอยู่ได้ยังไง…</Content>
         </Dialog>
         <Dialog ID="21" Model="거주민2">
-          <Teller>Resident 2</Teller>
-          <Title>Nest Dweller</Title>
+          <Teller>ผู้พักอาศัย 2</Teller>
+          <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants2-3</VoiceFile>
-          <Content>The Nest fell so suddenly…</Content>
+          <Content>ทำไมเนสท์ถึงล้มสลายไปเร็วขนาดนี้…</Content>
         </Dialog>
         <Dialog ID="22" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin4</VoiceFile>
-          <Content>What a bunch of crybabies. We’re being quite generous as Backstreets businesses go.</Content>
+          <Content>ร้องไห้ขี้แยไปได้ เราใจกว้างมากสุดแล้วใน แบ็คสตรีท แล้วเนี่ย</Content>
         </Dialog>
         <Dialog ID="23" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo6-01</VoiceFile>
-          <Content>Now, now~ We’ll be going then. Please don’t forget today’s lesson:</Content>
+          <Content>เอาน่า เอาน่า~ เราจะไปกันแล้ว โปรดอย่าลืมบทเรียนของวันนี้ด้วยล่ะ:</Content>
         </Dialog>
         <Dialog ID="24" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo7-01</VoiceFile>
-          <Content>If you receive something, you should return that favor accordingly. Imagine if it was the Ring protecting this area, not us…</Content>
+          <Content>หากได้รับสิ่งใดก็ควรตอบแทนสิ่งนั้นตามสมควร ลองนึกภาพว่าถ้าเป็นริงที่ปกป้องพื้นที่นี้ ไม่ใช่เราล่ะ…</Content>
         </Dialog>
         <Dialog ID="25" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo8</VoiceFile>
-          <Content>Dear, the thought alone is terrifying.</Content>
+          <Content>แค่คิดก็สยองแล้ว</Content>
         </Dialog>
         <Dialog ID="26" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo9-01</VoiceFile>
-          <Content>Oh, and please leave this house by tomorrow.</Content>
+          <Content>โอ้ และโปรดออกจากบ้านนี้ภายในวันพรุ่งนี้ด้วย</Content>
         </Dialog>
         <Dialog ID="27" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo10</VoiceFile>
-          <Content>Gin, confiscate the apartment deed from these people, will you?</Content>
+          <Content>จิน ยึดโฉนดห้องเช่าของพวกนี้ด้วย?</Content>
         </Dialog>
         <Dialog ID="28" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang7-01</VoiceFile>
-          <Content>You’ll be visited by much less pleasant fellows next time, so you’d better move out as soon as possible~</Content>
+          <Content>ครั้งหน้าคุณจะมีเพื่อนที่ไม่ค่อยดีมาเยี่ยม ดังนั้นคุณควรย้ายออกให้เร็วที่สุด~</Content>
         </Dialog>
         <Dialog ID="29" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo11-01</VoiceFile>
-          <Content>Now then, we’ve collected the protection money and got our fabric… Shall we go back and pay our due credit?</Content>
+          <Content>ตอนนี้เราได้เก็บคุ้มครองและได้รับผ้าของเรามาแล้ว... เรากลับกันเลยดีกว่า?</Content>
         </Dialog>
         <Dialog ID="30" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo12</VoiceFile>
-          <Content>Ah, by the way, Gin. How is the current situation with L Corp’s Nest?</Content>
+          <Content>อ้อ ยังไงก็ตามจิน สถานการณ์ปัจจุบันของ L Corp's ใน เนสท์ เป็นยังไง?</Content>
         </Dialog>
         <Dialog ID="31" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin5</VoiceFile>
-          <Content>It’s fierce. This is the first time in a long while the Thumb and the อินเด็กซ์ got in a turf war over an area.</Content>
+          <Content>ดูดเดือดเลย นี่เป็นครั้งแรกในรอบหลายปีที่ธัมบ์และอินเด็กซ์ทำสงครามแย่งชิงพื้นที่กัน</Content>
         </Dialog>
         <Dialog ID="32" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin6</VoiceFile>
-          <Content>Everyone must be thinking this is the promised estate or something.</Content>
+          <Content>ทุกคนคงคิดว่านั้นมันคือพื้นที่พิเศษหรืออะไรสักอย่าง</Content>
         </Dialog>
         <Dialog ID="33" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo13</VoiceFile>
-          <Content>The same can be said for us, no?</Content>
+          <Content>พวกเราก็ไม่ต่างกันไม่ใช้หรอ?</Content>
         </Dialog>
         <Dialog ID="34" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang8</VoiceFile>
-          <Content>On another note, the ‘Rusted Chains’ already proved to be an issue, but we’ve been colliding with ‘Blade Lineage’ more often these days.</Content>
+          <Content>อีกอย่างหนึ่ง 'รัสเชน' ได้รับการพิสูจน์แล้วว่าเป็นตัวปัญหา แต่ช่วงนี้เราชนกับ 'ตะกูลเบลด' บ่อยขึ้นด้วย</Content>
         </Dialog>
         <Dialog ID="35" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo14</VoiceFile>
-          <Content>Perhaps we should have a friendly conversation with them before the tension overheats.</Content>
+          <Content>บางทีเราควรพูดคุยกับพวกเขาอย่างเป็นกันเองก่อนที่ความตึงเครียดจะมีมากไปกว่านี้</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>สถานที่: L Corp’s Nest - Residential Area</PlaceName>
+        <PlaceName>สถานที่: L Corp’s Nest - ผู้พักอาศัยial Area</PlaceName>
         <Dialog ID="36" Model="흑운회 조직원1">
-          <Teller>Hencher 1</Teller>
+          <Teller>เฮนเชอร์ 1</Teller>
           <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_underling1-2-01</VoiceFile>
-          <Content>Khurf…</Content>
+          <Content>เฮื้อก…</Content>
         </Dialog>
         <Dialog ID="37" Model="흑운회 조직원 2">
-          <Teller>Hencher 2</Teller>
+          <Teller>เฮนเชอร์ 2</Teller>
           <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_underling2</VoiceFile>
-          <Content>Run, dame…</Content>
+          <Content>หนีเร็วครับบมาดาม…</Content>
         </Dialog>
         <Dialog ID="38" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin7-01</VoiceFile>
-          <Content>What are you.</Content>
+          <Content>คุณคือตัวอะไรเนี่ย</Content>
         </Dialog>
         <Dialog ID="39" Model="타냐">
-          <Teller>Tanya</Teller>
+          <Teller>ทันย่า</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya1</VoiceFile>
-          <Content>Sup fellas?</Content>
+          <Content>เป็นไงสวัสดี?</Content>
         </Dialog>
         <Dialog ID="40" Model="타냐">
-          <Teller>Tanya</Teller>
+          <Teller>ทันย่า</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya2</VoiceFile>
-          <Content>Got some gains with your business?</Content>
+          <Content>ธุรกิจของพวกคุณมีกำไรบางไหม?</Content>
         </Dialog>
         <Dialog ID="41" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo15-01</VoiceFile>
-          <Content>She has the head of a dog? A dog in black coat?</Content>
+          <Content>เธอมีหัวเป็นสุนัขด้วย? สุนัขในเสื้อคลุมสีดำ?</Content>
         </Dialog>
         <Dialog ID="42" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo16-01</VoiceFile>
-          <Content>Are those kinds of surgeries hip with the kids these days?</Content>
+          <Content>สมัยนี้เขาศัลยกรรมอกกันแบบนี้หรอ??</Content>
         </Dialog>
         <Dialog ID="43" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang9</VoiceFile>
-          <Content>Captain, that appears to be the one recently dubbed as ‘L'heure du Loup’.</Content>
+          <Content>หัวหน้า ดูเหมือนว่าจะเป็นผู้ที่พึ่งได้รับการขนานนามว่า 'แอล'เฮียร์ ดู ลูป'</Content>
         </Dialog>
         <Dialog ID="44" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo17</VoiceFile>
-          <Content>Oh? So she’s a wolf, not a dog? Still appears to be a little bitch to me.</Content>
+          <Content>โอ้? เธอเป็นหมาป่าไม่ใช่สุนัขเหรอ? แต่ยังไงก็ตามเธอดูระยำเล็กน้อยสำหรับฉันนะ</Content>
         </Dialog>
         <Dialog ID="45" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya3</VoiceFile>
-          <Content>Funny, innit? Laugh while you can.</Content>
+          <Content>ตลกหรอ? หัวเราะไปในขนาดที่หัวเราะได้</Content>
         </Dialog>
         <Dialog ID="46" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya4-01</VoiceFile>
-          <Content>Let’s see, we have around a hundred Kurokumo punks ‘ere.</Content>
+          <Content>มาดูสิเรามี คุโรคุโมะ ประมาณร้อยกว่าตัว</Content>
         </Dialog>
         <Dialog ID="47" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin8</VoiceFile>
-          <Content>You speak as if you can take us all on.</Content>
+          <Content>แกพูดราวกับว่าแกจะชนะได้ทั้งหมดแล</Content>
         </Dialog>
         <Dialog ID="48" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya5</VoiceFile>
-          <Content>That’s the plan, yeah.</Content>
+          <Content>ชนะสิ</Content>
         </Dialog>
         <Dialog ID="49" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo18-01</VoiceFile>
-          <Content>Let us teach that pup a lesson.</Content>
+          <Content>สงสัยต้องสอนบทเรียนให้กับลูกสุนัขตัวนี้ละ</Content>
         </Dialog>
         <Dialog ID="50" Model="">
           <Teller />
@@ -5251,256 +5251,256 @@
           <Content />
         </Dialog>
         <Dialog ID="51" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya6-01</VoiceFile>
-          <Content>Pah. Weaksauce.</Content>
+          <Content>กากชิบ</Content>
         </Dialog>
         <Dialog ID="52" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya7-01</VoiceFile>
-          <Content>I coulda crushed you like bugs even before I turned into what I am now.</Content>
+          <Content>ฉันสามารถบดขยี้พวกแกเหมือนแมลงได้เลย ต่อให้ก่อนที่ฉันจะมาเป็นแบบตอนนี้ก็ตาม</Content>
         </Dialog>
         <Dialog ID="53" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya8-01</VoiceFile>
-          <Content>Alright, why don’tcha gather round and kneel.</Content>
+          <Content>เอาล่ะ ทำไมพวกแกไม่รวมตัวกันและคุกเข่าล่ะ</Content>
         </Dialog>
         <Dialog ID="54" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya9</VoiceFile>
-          <Content>The dead… Welp, they can’t be helped.</Content>
+          <Content>ศพ… อืม ปล่อยไว้ละกัน</Content>
         </Dialog>
         <Dialog ID="55" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo19-01</VoiceFile>
-          <Content>…What is it that you want?</Content>
+          <Content>…คุณต้องการอะไร?</Content>
         </Dialog>
         <Dialog ID="56" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya10-01</VoiceFile>
-          <Content>Ehey, I have plenty of wants, gal.</Content>
+          <Content>เฮ้ ฉันอยากได้มากมายเลยนะสาวน้อย</Content>
         </Dialog>
         <Dialog ID="57" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya11</VoiceFile>
-          <Content>Wanna have a ton of cash in my hands.</Content>
+          <Content>อยากมีเงินสดสักก้อนอยู่ในมือ</Content>
         </Dialog>
         <Dialog ID="58" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya12</VoiceFile>
-          <Content>Wanna live in a Nest for once, too.</Content>
+          <Content>อยากอยู่ใน เนสท์ สักครั้งเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="59" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya13</VoiceFile>
-          <Content>…But before any of that, I wanna make some music.</Content>
+          <Content>…แต่ก่อนอื่นเลย ฉันอยากทำเพลงก่อน</Content>
         </Dialog>
         <Dialog ID="60" Model="흑운회 조직원 1">
-          <Teller>Hencher 1</Teller>
+          <Teller>เฮนเชอร์ 1</Teller>
           <Title>ตระกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_underling1-1</VoiceFile>
-          <Content>Fucking hell… Shut your yap already…</Content>
+          <Content>หน่อยแน่แกหุปปาก…</Content>
         </Dialog>
         <Dialog ID="61" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya14-01</VoiceFile>
-          <Content>Whoa~ Look at their skull go. Flew right outta the park, homerun.</Content>
+          <Content>โว้ว~ ดูกระโหลกนั้นสิมันลอยไปแล้ว เข้าถังเลยโฮมรัน</Content>
         </Dialog>
         <Dialog ID="62" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin9</VoiceFile>
-          <Content>Tell us what you demand from us.</Content>
+          <Content>บอกเราหน่อยว่าคุณต้องการอะไรจากเรา</Content>
         </Dialog>
         <Dialog ID="63" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya15</VoiceFile>
-          <Content>Oh, ah, what I want from you guys?</Content>
+          <Content>โอ้ อื่ม ฉันต้องการอะไรจากพวกแก่งั้นเหรอ?</Content>
         </Dialog>
         <Dialog ID="64" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya16</VoiceFile>
-          <Content>Right, that was the point.</Content>
+          <Content>ใช่นั่นคือประเด็นนี่น่า</Content>
         </Dialog>
         <Dialog ID="65" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya17-01</VoiceFile>
-          <Content>First off, the piece of cloth you’re carrying? Gimme that.</Content>
+          <Content>ก่อนอื่นเลยขอผ้าที่พวกแกถืออยู่ก่อนละกัน? </Content>
         </Dialog>
         <Dialog ID="66" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo20</VoiceFile>
-          <Content>…This Nuovo Fabric is for the Thumb, though?</Content>
+          <Content>…ผ้า นูโว เราต้องเอาไปให้ธัมเท่านั้นนะ?</Content>
         </Dialog>
         <Dialog ID="67" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya18</VoiceFile>
-          <Content>My boss showed interest in that thing. Heard that’s a pretty nice cut o’ cloth.</Content>
+          <Content>เจ้านายของฉันสนใจในเจ้าสิ่งนั้นพอดี ได้ยินมาว่าเป็นผ้าที่ดีเลยทีเดียว</Content>
         </Dialog>
         <Dialog ID="68" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya19-01</VoiceFile>
-          <Content>Guess he wants us to suit up before the performance.</Content>
+          <Content>เดาว่าเขาต้องการให้เราแต่งตัวก่อนการแสดงนะ</Content>
         </Dialog>
         <Dialog ID="69" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin10</VoiceFile>
-          <Content>You must know the consequences of making an enemy of the Thumb.</Content>
+          <Content>แกรู้ใช้มั้ยว่าเป็นศัตรูกับธัมแล้วจะเป็นยังไง</Content>
         </Dialog>
         <Dialog ID="70" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya20</VoiceFile>
-          <Content>The Thumb? Pft, tell ‘em to bring it on. I’mma smash ‘em all.</Content>
+          <Content>ธัมหรอ เข้ามาเลยเข้ามาเดียวจะกระทืบแม่งให้หมดทุกตัวเลย</Content>
         </Dialog>
         <Dialog ID="71" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya21-01</VoiceFile>
-          <Content>Oh, and take your goons to the Library, will ya?</Content>
+          <Content>โอ้ใช้ พวกแกต้องไปที่ห้องสมุดด้วย?</Content>
         </Dialog>
         <Dialog ID="72" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo21</VoiceFile>
-          <Content>The Library…? The building that is rumored to be at the center of this Nest?</Content>
+          <Content>ห้องสมุด…? อาคารที่มีข่าวลือว่าเป็นศูนย์กลางของ เนสท์ แห่งนี้เหรอ?</Content>
         </Dialog>
         <Dialog ID="73" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya22</VoiceFile>
-          <Content>Yep, that thing.</Content>
+          <Content>ใช่สิ่งนั้นแล</Content>
         </Dialog>
         <Dialog ID="74" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo22</VoiceFile>
-          <Content>So you are after the wealth this land can bring, after all.</Content>
+          <Content>สุดท้ายคุณก็ตามหาความมั่งคั่งที่นี้สินะ</Content>
         </Dialog>
         <Dialog ID="75" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya23-01</VoiceFile>
-          <Content>I told ya that’s not it.</Content>
+          <Content>ฉันก็บอกแกแล้วว่าไม่ใช่</Content>
         </Dialog>
         <Dialog ID="76" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya24</VoiceFile>
-          <Content>I do wanna earn some bucks, but music comes first.</Content>
+          <Content>ฉันอยากได้เงินสักก้อน แต่ดนตรีต้องมาก่อน</Content>
         </Dialog>
         <Dialog ID="77" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang10</VoiceFile>
-          <Content>But for what reason…</Content>
+          <Content>เพราะอะไรนั้น…</Content>
         </Dialog>
         <Dialog ID="78" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya25</VoiceFile>
-          <Content>Beats me. My boss…</Content>
+          <Content>ไม่รู้เหมือนกันมันเป็นความต้องการของเจ้านายฉัน…</Content>
         </Dialog>
         <Dialog ID="79" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya26</VoiceFile>
-          <Content>No, I mean the orchestrator of our ensemble wants us to get rid of all those noisy Syndicates like the Thumb or the อินเด็กซ์ so that we can make some music.</Content>
+          <Content>ไม่สิ ฉันหมายถึงออเคสตราของวงดนตรีของเราต้องการให้ฉันกำจัดซินดิเคทที่ส่งเสียงดังอย่างธัมหรืออินเด็กซ์ เพื่อให้เราทำเพลงได้</Content>
         </Dialog>
         <Dialog ID="80" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya27</VoiceFile>
-          <Content>In fancy suits, too.</Content>
+          <Content>ในทางที่ดูตะกันตาอีกด้วย</Content>
         </Dialog>
         <Dialog ID="81" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya28</VoiceFile>
-          <Content>And help out the Library while we’re at it.</Content>
+          <Content>และพวกแกช่วยไปห้องสมุดในระหว่างนี้ด้วย</Content>
         </Dialog>
         <Dialog ID="82" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo23</VoiceFile>
-          <Content>Help out the Library?</Content>
+          <Content>ห้องสมุดงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="83" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya29</VoiceFile>
-          <Content>Shush, gal. Keep your eyes low if you don’t wanna get dead.</Content>
+          <Content>จุ๊ๆ สาวน้อยก้มหน้าลงถ้ายังไม่อยากตาย</Content>
         </Dialog>
         <Dialog ID="84" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo24-01</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="85" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya30-01</VoiceFile>
-          <Content>Anyways, you guys can take this and head to the Library like I said.</Content>
+          <Content>อย่างไรก็ตาม พวกแกรับสิ่งนี้และไปที่ห้องสมุดตามที่บอกสะ</Content>
         </Dialog>
         <Dialog ID="86" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya31-01</VoiceFile>
-          <Content>Go on ahead.</Content>
+          <Content>ไปสะ</Content>
         </Dialog>
         <Dialog ID="87" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya32</VoiceFile>
-          <Content>C’mon, get going already.</Content>
+          <Content>ไปได้แล้ว</Content>
         </Dialog>
         <Dialog ID="88" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya33-01</VoiceFile>
-          <Content>If you don’t use that invitation right now, I’ll kindly remove all the bones from your flesh.</Content>
+          <Content>หากพวกแกไม่ใช้คำเชิญตอนนี้ ฉันจะเอากระดูกทั้งหมดออกจากเนื้อพวกแกเลยค่อยดู</Content>
         </Dialog>
         <Dialog ID="89" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo25</VoiceFile>
-          <Content>…Let us prepare to go, everyone.</Content>
+          <Content>…เตรียมตัวไปกันเลยนะครับทุกคน</Content>
         </Dialog>
         <Dialog ID="90" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya34</VoiceFile>
-          <Content>Your hands are shaking, galie. You sure you’re alright? Are ya mad at me by any chance?</Content>
+          <Content>มือแกสั่นมาก  แน่ใจนะว่าไม่เป็นไร? แกไม่โกรธฉันบ้างเลยเหรอ?</Content>
         </Dialog>
         <Dialog ID="91" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo26</VoiceFile>
-          <Content>…No, it’s nothing.</Content>
+          <Content>…ไม่ ไม่มีอะไร</Content>
         </Dialog>
         <Dialog ID="92" Model="타냐">
-          <Teller>Tanya</Teller>
-          <Title>L’heure du Loup</Title>
+          <Teller>ทันย่า</Teller>
+          <Title>แอล'เฮียร์ ดู ลูป</Title>
           <VoiceFile>ch4_Kurokumo_ep1_tanya35</VoiceFile>
-          <Content>And one more thing: If you run off without the books in your hands, you’re also dead to me.</Content>
+          <Content>และอีกอย่างหนึ่ง ถ้าพวกแกหนีไปโดยมีหนังสืออยู่ในมือพวกแกก็ต้องตายเหมือนกัน</Content>
         </Dialog>
       </Place>
       <Place>
@@ -5509,268 +5509,268 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela1</VoiceFile>
-          <Content>That was quite intense.</Content>
+          <Content>นั่นค่อนข้างรุนแรงเลยนะ</Content>
         </Dialog>
         <Dialog ID="94" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland1</VoiceFile>
-          <Content>Looks like the Fingers are fiercely wrestling for the ownership of the Nest that L Corp. once had reign over.</Content>
+          <Content>ดูเหมือนว่า ฟิงเกอร์ กำลังต่อสู้อย่างดุเดือดเพื่อแย่งชิง เนสท์ ที่ L Corp. เคยครอบครองอยู่</Content>
         </Dialog>
         <Dialog ID="95" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela2</VoiceFile>
-          <Content>Why would they, though?</Content>
+          <Content>ทำไมพวกเขาต้องทำขนาดนั้นด้วย?</Content>
         </Dialog>
         <Dialog ID="96" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland2</VoiceFile>
-          <Content>Ever heard of holdouts? When a Wing is broken, its Nest collapses and gradually turns into a slum akin to the Backstreets.</Content>
+          <Content>เคยได้ยินเรื่องการปกครองไหม? เมื่อวิงร่วงหล่น เนสท์ของมันจะพังทลายลงและค่อยๆกลายเป็นสลัมที่คล้ายกับแบ็คสตรีท </Content>
         </Dialog>
         <Dialog ID="97" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland3</VoiceFile>
-          <Content>It becomes a lawless land without an owner to uphold anything.</Content>
+          <Content>เป็นดินแดนที่ไร้กฎหมายโดยไม่มีเจ้าของที่จะดูแล</Content>
         </Dialog>
         <Dialog ID="98" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland4</VoiceFile>
-          <Content>Then a bunch of Syndicates come rushing in to occupy the land in advance.</Content>
+          <Content>จากนั้นซินดิเคทกลุ่มอื่นก็จะพุ่งเข้ามายึดครองดินแดนนั้นกัน</Content>
         </Dialog>
         <Dialog ID="99" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela3</VoiceFile>
-          <Content>What happens next?</Content>
+          <Content>จะเกิดอะไรขึ้นต่อจากนั้น?</Content>
         </Dialog>
         <Dialog ID="100" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland5</VoiceFile>
-          <Content>The vacancy in the Wings won’t stay open forever; when a new Wing rises and gets assigned a Nest, the Syndicate resells that land to the Wing.</Content>
+          <Content>พื้นที่ว่างใน วิง ไม่ได้ว่างตลอดหรอกนะ เมื่อ วิง ใหม่ปรากฏขึ้นและรับมอบหมายงานให้กับ เนสท์ ซินดิเคทก็จะขายที่ดินนั้นต่อให้กับ วิง</Content>
         </Dialog>
         <Dialog ID="101" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland6</VoiceFile>
-          <Content>Of course, the Wing can choose to hire Fixers or other Syndicates to kick out that Syndicate with force instead, but that’s another story.</Content>
+          <Content>แน่นอนว่า วิง สามารถเลือกที่จะจ้างฟิกเซอร์หรือซินดิเคทอื่นๆ เพื่อขับไล่ซินดิเคทนั้นด้วยกำลังแทนก็ได้ แต่นั่นก็เป็นอีกเรื่องหนึ่ง</Content>
         </Dialog>
         <Dialog ID="102" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela4</VoiceFile>
-          <Content>What will happen to the feathers living in the Nest?</Content>
+          <Content>จะเกิดอะไรขึ้นกับคนที่อาศัยอยู่ในเนสท์เหรอ?</Content>
         </Dialog>
         <Dialog ID="103" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland7</VoiceFile>
-          <Content>Those folks? Well, they’re all on their own.</Content>
+          <Content>เจ้าพวกนั้นหรอ? พวกเขาก็เป็นตัวเองนั้นแล</Content>
         </Dialog>
         <Dialog ID="104" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland8</VoiceFile>
-          <Content>Hire a Fixer, or get evicted to the Backstreets, or try and join another Wing, or anything. A Nest without its Wing is no longer a safe haven for its residents.</Content>
+          <Content>เพียงแค่จ้าง ฟิกเซอร์ ไม่ก็ถูกขับไล่ไปยัง แบ็คสตรีท หรืออาจลองเข้าร่วม วิง อื่นอะไรก็ได้ เนสท์ที่ไม่มีวิงไม่ใช่ที่หลบภัยสำหรับคนที่นั้นอีกต่อไป</Content>
         </Dialog>
         <Dialog ID="105" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela5</VoiceFile>
-          <Content>That’s typical of the City.</Content>
+          <Content>นั่นเป็นเรื่องปกติของเมืองสินะ</Content>
         </Dialog>
         <Dialog ID="106" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland9</VoiceFile>
-          <Content>If you can’t grasp whatever opportunities you find with your own hands, you’re bound to fall behind.</Content>
+          <Content>ใช้หากเธอไม่สามารถไขว่คว้าโอกาสได้ด้วยมือของเธอเอง เธอก็จะต้องตกเป็นฝ่ายตามหลังแทน</Content>
         </Dialog>
         <Dialog ID="107" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland10</VoiceFile>
-          <Content>I wonder what’s up with that puppy, anyway.</Content>
+          <Content>ฉันสงสัยจริงว่าเกิดอะไรขึ้นกับเจ้าหัวหมานั้น</Content>
         </Dialog>
         <Dialog ID="108" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela6</VoiceFile>
-          <Content>…That looked like a case of the Distortion.</Content>
+          <Content>…นั่นดูเหมือนกรณีของการบิดเบือนนะ</Content>
         </Dialog>
         <Dialog ID="109" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland11</VoiceFile>
-          <Content>Distortion? That’s not exactly what I imagined.</Content>
+          <Content>การบิดเบือน? นั่นไม่เหมือนกับสิ่งที่ฉันจินตนาการไว้เลย</Content>
         </Dialog>
         <Dialog ID="110" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela7</VoiceFile>
-          <Content>Indeed. She appears to be highly rational.</Content>
+          <Content>นั้นก็จริง. เธอดูเหมือนจะมีเหตุผลสูงด้วย</Content>
         </Dialog>
         <Dialog ID="111" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland12</VoiceFile>
-          <Content>You call that rational?</Content>
+          <Content>เธอเรียกว่านั้นมีเหตุผลเหรอ?</Content>
         </Dialog>
         <Dialog ID="112" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela8</VoiceFile>
-          <Content>She seems much more rational than you are, at the very least.</Content>
+          <Content>เธอดูมีเหตุผลมากกว่านายละกัน อย่างน้อยนะ</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="113" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang11-02</VoiceFile>
-          <Content>Sigh… This was not meant to be.</Content>
+          <Content>เฮ้อ… ไม่คิดเลยว่าจะเป็นแบบนี้</Content>
         </Dialog>
         <Dialog ID="114" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo27</VoiceFile>
-          <Content>Where the hell did that bitchhead come from?!</Content>
+          <Content>ไอ้ระยำนั่นมาจากไหน?!</Content>
         </Dialog>
         <Dialog ID="115" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo28</VoiceFile>
-          <Content>How dare an impudent whelp like her bite at us superior beings!</Content>
+          <Content>แล้วไอหมานั้นกล้าดียังไงที่มาทำตัวเหนือกว่าเรา!</Content>
         </Dialog>
         <Dialog ID="116" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin11-01</VoiceFile>
-          <Content>Calm down, Captain. Let’s report this to the Thumb right after we take care of this.</Content>
+          <Content>ใจเย็นๆก่อนครับ หัวหน้า เราควรรายงานเรื่องนี้กับ ธัม ทันทีหลังจากที่เราจัดการกับที่นี้กันแล้ว</Content>
         </Dialog>
         <Dialog ID="117" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo29</VoiceFile>
-          <Content>Huu… Yes, let us do that.</Content>
+          <Content>อื่มม… ใช้ เราควนทำเรื่องนั้นก่อน</Content>
         </Dialog>
         <Dialog ID="118" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang12-01</VoiceFile>
-          <Content>It’s ridiculous that someone could treat us ตระกูลคุโรคุโมะ, a Thumb subsidiary, with such disrespect.</Content>
+          <Content>มันเป็นเรื่องที่ไร้สาระจริงๆเลย ที่จะมีคนมายุ่งกับเราตะกูลคุโรคุโมะ คนในเครือของธัมได้แบบนี้</Content>
         </Dialog>
         <Dialog ID="119" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo30</VoiceFile>
-          <Content>Hear, hear.</Content>
+          <Content>เอาน่า เอาน่า</Content>
         </Dialog>
         <Dialog ID="120" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo31</VoiceFile>
-          <Content>Although we’re in a bad situation… The books listed on this invitation are tempting offers for sure.</Content>
+          <Content>แม้ว่าเราจะอยู่ในสถานการณ์ที่เลวร้ายก็ตาม… หนังสือที่อยู่ในคำเชิญนี้ก็มีข้อเสนอที่น่าดึงดูดจริงๆ</Content>
         </Dialog>
         <Dialog ID="121" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang13-01</VoiceFile>
-          <Content>It seems that คาร์นิวัล have ended up turning into books.</Content>
+          <Content>ดูเหมือนว่าพวกคาร์นิวัลจะกลายเป็นหนังสือไปแล้วเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="122" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin12-01</VoiceFile>
-          <Content>And this book… is related to the Nest of L Corp, too.</Content>
+          <Content>และหนังสือเล่มนี้มีข้อมูลเกี่ยวกับ เนสท์ ของ L Corp ด้วย</Content>
         </Dialog>
         <Dialog ID="123" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela9</VoiceFile>
-          <Content>Greetings, dear guests.</Content>
+          <Content>สวัสดีแขก</Content>
         </Dialog>
         <Dialog ID="124" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo32</VoiceFile>
-          <Content>How did you manage to collect the books we need the most?</Content>
+          <Content>คุณรวบรวมหนังสือที่เราต้องการมากที่สุดเหล่านี้ได้ยังไง?</Content>
         </Dialog>
         <Dialog ID="125" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela10</VoiceFile>
-          <Content>Such is the role of the Library.</Content>
+          <Content>นั่นคือบทบาทของห้องสมุดแห่งนี้</Content>
         </Dialog>
         <Dialog ID="126" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin13</VoiceFile>
-          <Content>This place exudes the smell of blood.</Content>
+          <Content>ที่นี่มีกลิ่นเลือดโชยออกมาด้วย</Content>
         </Dialog>
         <Dialog ID="127" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela11</VoiceFile>
-          <Content>And you reek of blood as well, dear guests.</Content>
+          <Content>และคุณมีกลิ่นเลือดเช่นกัน แขก</Content>
         </Dialog>
         <Dialog ID="128" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo33</VoiceFile>
-          <Content>Oh my, do we?</Content>
+          <Content>อ๋อ เราเอง?</Content>
         </Dialog>
         <Dialog ID="129" Model="양">
-          <Teller>Yang</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Teller>หยาง</Teller>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang14-01</VoiceFile>
-          <Content>Let’s hit up a bathhouse for a warm one once we finish this.</Content>
+          <Content>ไปแช่น้ำร้อนกันเถอะเมื่อเราทำงานนี้เสร็จแล้ว</Content>
         </Dialog>
         <Dialog ID="130" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo34</VoiceFile>
-          <Content>Good idea. There’s nothing like a good bath to blow off some steam on a bad day.</Content>
+          <Content>เป็นความคิดที่ดี. ไม่มีอะไรดีไปกว่าการแช่น้ำร้อนในวันที่แย่ๆแบบนี้อีกแล้ว</Content>
         </Dialog>
         <Dialog ID="131" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin14</VoiceFile>
-          <Content>Drinks are on me.</Content>
+          <Content>ดื่มเครื่องดื่มที่ฉันดื่มด้วย</Content>
         </Dialog>
         <Dialog ID="132" Model="긴">
           <Teller>จิน</Teller>
-          <Title>Kurokumo Henchman</Title>
+          <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin15-01</VoiceFile>
-          <Content>Are there even any bathhouses or pubs left in L Corp’s Nest, anyway?</Content>
+          <Content>มีโรงอาบน้ำหรือผับเหลืออยู่ใน L Corp เนสท์ หรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="133" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo35-01</VoiceFile>
-          <Content>That’s a fair point. We have so much to report and take care of, so much to think about…</Content>
+          <Content>พูดมีประเด็นดี เรามีเรื่องมากมายที่ต้องรายงานและดูแล มีเรื่องให้คิดอีกเยอะ…</Content>
         </Dialog>
         <Dialog ID="134" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela12</VoiceFile>
-          <Content>Are you done with your chitchats now?</Content>
+          <Content>คือตอนนี้พวกคุณคุยเล่นกันเสร็จแล้วหรือยัง?</Content>
         </Dialog>
         <Dialog ID="135" Model="사요">
           <Teller>ซาโย</Teller>
-          <Title>Kurokumo Captain</Title>
+          <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo36</VoiceFile>
-          <Content>How pushy… Now then, shall we head inside?</Content>
+          <Content>ช่างเร่งรีบจริง… ถ้าอย่างนั้นเราเข้าไปข้างในกันเถอะ?</Content>
         </Dialog>
         <Dialog ID="136" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela13</VoiceFile>
-          <Content>May you find your book in this place.</Content>
+          <Content>ขอให้คุณพบหนังสือของคุณในที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -5782,67 +5782,67 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland13</VoiceFile>
-          <Content>We’ll probably get even more guests trying to take over L Corp’s Nest.</Content>
+          <Content>เราอาจจะได้แขกจำนวนมากจากพวกที่พยายามครอบครอง L Corp’s เนสท์ นะ</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela14</VoiceFile>
-          <Content>You always say that. Is there any real difference?</Content>
+          <Content>นายก็พูดแบบนี้ตลอด ไม่เห็นต่างไปจากเดิมเลย?</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland14</VoiceFile>
-          <Content>You heard what that doghead said? Now we have the Thumb, the อินเด็กซ์, and whatever third party she belongs to.</Content>
+          <Content>เธอจำที่ไอ้หัวหมาพูดได้มั้ย? ตอนนี้เรามีโจทย์กับธัม อินเด็กซ์ และใครก็ไม่รู้ที่เป็นเจ้านายของไอหัวหมานั้นด้วย</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland15</VoiceFile>
-          <Content>It doesn’t sound like a random run-of-the-mill Syndicate, seeing how she talked to the members of a Finger with so much confidence.</Content>
+          <Content>จากบทสนทนาดูไม่เหมือนกับซินดิเคทเลย เพราะเห็นว่าเธอพูดคุยกับสมาชิกของ ฟิงเกอร์ ด้วยความมั่นใจเป็นอย่างมาก</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela15</VoiceFile>
-          <Content>It seems it’s not just the major Syndicates that have incentive to be involved in a turf war like this, if smaller Syndicates are meddling in so willingly.</Content>
+          <Content>ดูเหมือนว่าจะไม่ใช่แค่ซินดิเคทรายใหญ่เท่านั้นที่มีแรงจูงใจให้มีส่วนร่วมในสงครามชิงพื้นที่สินะ ดูเหมือนซินดิเคทขนาดเล็กก็เข้ามาแทรกแซงด้วย</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland16</VoiceFile>
-          <Content>Well, basically.</Content>
+          <Content>ก็ตามพื้นฐานนะ</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland17</VoiceFile>
-          <Content>Whatever goods the head honchos take interest in are naturally gonna attract the attention of those below them.</Content>
+          <Content>ผลผลิตอะไรก็ตามที่แฮดสนใจมักจะดึงดูดความสนใจจากผู้ที่อยู่ด้านล่างด้วยน่ะ</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland18</VoiceFile>
-          <Content>The Thumb or the อินเด็กซ์ probably won’t take direct action for now, but their subordinates are nothing to sneeze at.</Content>
+          <Content>ธัมหรืออินเด็กซ์อาจจะยังไม่ลงมือโดยตรงในตอนนี้ แต่ผู้ใต้บังคับบัญชาของพวกเขาก็ประมาทไม่ได้ด้วย</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland19</VoiceFile>
-          <Content>Grabbing their attention might be beneficial for the Library’s wealth of info… But it’s gonna be tough for us to stop them if we escalate things any further from here.</Content>
+          <Content>พวกเขาสนใจเราอาจเป็นประโยชน์ต่อคลังข้อมูลมาก… แต่มันคงยากสำหรับเราที่จะต้องรับแขกจากพวกเขา หากเราขยายเรื่องนี้ออกไปมากกว่านี้</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Kurokumo_ep1_roland20</VoiceFile>
-          <Content>I just hope the other Fingers stay out of this, things would get out of hand otherwise…</Content>
+          <Content>ฉันแค่หวังว่า ฟิงเกอร์ อื่นจะไม่มาร่วมวงไปมากกว่านี้อีก…</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Kurokumo_ep1_angela16-01</VoiceFile>
-          <Content>I’m fine with it as long as the results benefit us.</Content>
+          <Content>ฉันยังไงก็ได้ตราบใดที่ผลลัพธ์เป็นประโยชน์กับเรา</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -5852,323 +5852,323 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: Somewhere in the Backstreets</PlaceName>
+        <PlaceName>สถานที่: ที่ไหนสักแห่งในแบ็คสตรีท</PlaceName>
         <Dialog ID="0" Model="">
           <Teller />
           <Title />
           <Content />
         </Dialog>
         <Dialog ID="1" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow1</VoiceFile>
-          <Content>Yawn~ Today’s performance isn’t going too well.</Content>
+          <Content>เฮ้อ~ การแสดงวันนี้ไม่ดีเลย</Content>
         </Dialog>
         <Dialog ID="2" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu1-01</VoiceFile>
-          <Content>Oink! You gotta keep the beat.</Content>
+          <Content>อู๊ด! นายต้องรักษาจังวะนะ</Content>
         </Dialog>
         <Dialog ID="3" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu2-01</VoiceFile>
-          <Content>District 9 is the sacred ground for music! It’s the homeland of ‘The Pianist’!</Content>
+          <Content>เขตที่ 9 เป็นสถานที่ศักดิ์สิทธิ์สำหรับนักดนตรี! เป็นบ้านเกิดของ 'เดอร์เพียนนิส'!</Content>
         </Dialog>
         <Dialog ID="4" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink1</VoiceFile>
-          <Content>Come on, man… I’m doing my best here.</Content>
+          <Content>มาเลยทุกคน… เรามาพยายามกันให้เต็มที่ที่นี่กันเลย</Content>
         </Dialog>
         <Dialog ID="5" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow2</VoiceFile>
-          <Content>Are you still bothered by what Heehaw said?</Content>
+          <Content>นายยังกังวลกับสิ่งที่ฮีฮอว์พูดอยู่หรอ?</Content>
         </Dialog>
         <Dialog ID="6" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink2</VoiceFile>
-          <Content>Of course I am…</Content>
+          <Content>แน่นอน…</Content>
         </Dialog>
         <Dialog ID="7" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink3</VoiceFile>
-          <Content>This might be our last performance ever if we go to the Library…</Content>
+          <Content>นี่อาจเป็นการแสดงครั้งสุดท้ายของเราหากเราไปที่ห้องสมุด…</Content>
         </Dialog>
         <Dialog ID="8" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu3-01</VoiceFile>
-          <Content>Just shake off all of your worries with the exciting music~</Content>
+          <Content>สลัดความกังวลของพวกนายไปพร้อมกับเสียงเพลงก็พอ~</Content>
         </Dialog>
         <Dialog ID="9" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow3</VoiceFile>
-          <Content>Oink, if you keep getting distracted by petty concerns like that and half-ass your part, I’m gonna use you as my instrument.</Content>
+          <Content>อู๊ด หากนายยังคงฟุ้งซ่านด้วยความกังวลเล็กๆน้อยๆแบบนั้นและเลิกเล่น ฉันจะใช้นายเป็นเครื่องมือนะ</Content>
         </Dialog>
         <Dialog ID="10" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu4</VoiceFile>
-          <Content>Seconded~</Content>
+          <Content>สนับสนุนด้วย~</Content>
         </Dialog>
         <Dialog ID="11" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow4</VoiceFile>
-          <Content>We can’t let some little thoughts disturb our performance already.</Content>
+          <Content>เราจะปล่อยให้ความคิดเล็กๆน้อยๆ มารบกวนการแสดงของเราไม่ได้นะ</Content>
         </Dialog>
         <Dialog ID="12" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow5</VoiceFile>
-          <Content>You guys are still new, so you’ll have no idea the troubles we had to go through to perform back in my day~</Content>
+          <Content>พวกเรายังใหม่อยู่ ดังนั้นเราจะไม่รู้หรอกว่าเราต้องเจอปัญหาอะไรบ้างในการแสดงในครั้งต่อไป~</Content>
         </Dialog>
         <Dialog ID="13" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow6 (2)</VoiceFile>
-          <Content>Me, Doodle-doo, Woof, and Heehaw formed this band and devoted all of our time to music so that we could recreate the beautiful, beautiful performance we listened to on that fateful day!</Content>
+          <Content>ฉัน ดุเดิ้ลดู วูฟ และ ฮีฮอว์ ตั้งวงดนตรีนี้ขึ้นและอุทิศเวลาทั้งหมดของเราให้กับดนตรีเพื่อที่เราจะได้สร้างการแสดงที่สวยงามและไพเราะที่เราได้ฟังในวันแห่งโชคชะตานั้น!</Content>
         </Dialog>
         <Dialog ID="14" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow7</VoiceFile>
-          <Content>So quit gawking and concentrate on the music!</Content>
+          <Content>งั้นเลิกหมกมุ่นและมุ่งความสนใจไปที่ดนตรีดีกว่า!</Content>
         </Dialog>
         <Dialog ID="15" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink4</VoiceFile>
-          <Content>The Pianist’s performance… Yes, I know!</Content>
+          <Content>การแสดงของเดอร์เพียนนิส… ใช่ ฉันรู้!</Content>
         </Dialog>
         <Dialog ID="16" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink5</VoiceFile>
-          <Content>I left the Seven Association’s Section 3 and joined this band because I just couldn’t forget that sweet melody…</Content>
+          <Content>ฉันออกจากสมาพันธ์เซเว่น หน่วย 3 แล้วก็เข้าร่วมกับวงนี้เพราะฉันลืมท่วงทำนองที่ไพเราะนั้นไม่ได้เลย…</Content>
         </Dialog>
         <Dialog ID="17" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink6</VoiceFile>
-          <Content>I wanted to make music like that myself… Even if it meant I have to give up everything I had…</Content>
+          <Content>ฉันอยากจะทำเพลงแบบนั้นด้วยตัวเอง… แม้ว่านั่นจะหมายความว่าฉันต้องสละทุกอย่างที่ฉันมีก็ตาม…</Content>
         </Dialog>
         <Dialog ID="18" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu5</VoiceFile>
-          <Content>Yeah~ Remember the enchanting tune that echoed through the whole City.</Content>
+          <Content>เฮ้อ~ ท่วงทำนองแห่งมนต์เสน่ห์ที่กึกก้องไปทั่วทั้งเมือง</Content>
         </Dialog>
         <Dialog ID="19" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow8 (2)</VoiceFile>
-          <Content>That grand and majestic piano made of one hundred thousand people…</Content>
+          <Content>เปียโนอันโอ่อ่าตระกันตานั้นสร้างด้วยนิ้วมือของคนนับแสนเลย…</Content>
         </Dialog>
         <Dialog ID="20" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow9</VoiceFile>
-          <Content>The lovely sound created from each stroke of the tendons.</Content>
+          <Content>เสียงอันไพเราะที่สร้างขึ้นจากจังหวะของเส้นเอ็นแต่ละเส้นด้วย</Content>
         </Dialog>
         <Dialog ID="21" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow10</VoiceFile>
-          <Content>It made me realize how beautiful the sounds a human can make in the hands of the right performer~</Content>
+          <Content>มันทำให้ฉันรู้ว่าเสียงที่มนุษย์สร้างขึ้นนั้นไพเราะขนาดไหนเมื่ออยู่ในมือของนักแสดงที่เหมาะสม~</Content>
         </Dialog>
         <Dialog ID="22" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu6</VoiceFile>
-          <Content>Especially the ensemble with Fixers at the finale!</Content>
+          <Content>โดยเฉพาะการรวมตัวกันของ ฟิกเซอร์ ในตอนจบ!</Content>
         </Dialog>
         <Dialog ID="23" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu7</VoiceFile>
-          <Content>At the end of that intense concerto, the Fixers became one with the piano and assimilated into the music. How I wish I could’ve been there…</Content>
+          <Content>ในตอนท้ายของโชว์นั้น ฟิกเซอร์ กลายเป็นหนึ่งเดียวกับเปียโนและหลอมรวมเข้ากับบทเพลง ฉันอยากไปให้ถึงจุดนั้นจังเลย…</Content>
         </Dialog>
         <Dialog ID="24" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow11</VoiceFile>
-          <Content>Ahem, speaking as someone who watched the performance right at the scene, the finale was soooo wonderful, you know?</Content>
+          <Content>อะแฮ่ม พูดในฐานะคนที่ดูการแสดงในที่เกิดเหตุเลยฉากสุดท้ายนั้นยอดเยี่ยมมาก พวกนายรู้ใช้ไหม?</Content>
         </Dialog>
         <Dialog ID="25" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow12 (2)</VoiceFile>
-          <Content>The musical score and notes literally unraveled before my eyes~</Content>
+          <Content>โน้ตดนตรีแต่ละตัวโน้ตถูกขับออกมาให้เห็นต่อหน้าต่อตาฉัน~</Content>
         </Dialog>
         <Dialog ID="26" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow13</VoiceFile>
-          <Content>The Fixers ran across the score and charged at the Pianist…</Content>
+          <Content>ฟิกเซอร์ต่างๆก็วิ่งพุ่งเข้าไปหา เดอร์เพียนนิส…</Content>
         </Dialog>
         <Dialog ID="27" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow14 (2)</VoiceFile>
-          <Content>They were buried under the notes one by one, their bodies blowing up…</Content>
+          <Content>พวกเขาถูกฝังไว้ใต้โน้ตทีละคน ร่างของพวกเขาก็ระเบิดออก…</Content>
         </Dialog>
         <Dialog ID="28" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow15 (2)</VoiceFile>
-          <Content>But they couldn’t die there; they became part of the piano, spewing out fragrant notes.</Content>
+          <Content>แต่พวกเขาไม่สามารถตายที่นั่นได้ พวกเขากลายเป็นส่วนหนึ่งของเปียโน ส่งกลิ่นหอมออกมาเลย</Content>
         </Dialog>
         <Dialog ID="29" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow16</VoiceFile>
-          <Content>And the last Fixer standing was taken apart carefully, making the most splendid sound imaginable as gorgeous red notes scattered from their body.</Content>
+          <Content>และ ฟิกเซอร์ คนสุดท้ายที่ยืนอยู่ก็ถูกแยกออกจากกันอย่างระมัดระวัง ทำให้เกิดเสียงที่ยอดเยี่ยมที่สุดเท่าที่จะจินตนาการได้เมื่อโน้ตสีแดงสวยงามกระจายออกจากร่างกายของพวกเขา</Content>
         </Dialog>
         <Dialog ID="30" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow17 (2)</VoiceFile>
-          <Content>Yes… That performance… The heavenly music that pierced me…</Content>
+          <Content>ใช่… การแสดงนั้น… บทเพลงแห่งสวรรค์นั้นที่ยังเสียดแทงใจฉันอยู่เลย…</Content>
         </Dialog>
         <Dialog ID="31" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow18</VoiceFile>
-          <Content>Well, but then the Black Silence intervened and cut off the Pianist’s hands and head. A total mood killer.</Content>
+          <Content>แต่แล้วทมิฬเงียบสงัดก็เข้ามาแทรกแซงและตัดมือและศีรษะของเดอร์เพียนนิสออก มันทำให้หมดอารมณ์ไปเลย</Content>
         </Dialog>
         <Dialog ID="32" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow19</VoiceFile>
-          <Content>I wanted to be part of that performance, too~</Content>
+          <Content>ฉันอยากเป็นส่วนหนึ่งของการแสดงนั้นด้วยจัง~</Content>
         </Dialog>
         <Dialog ID="33" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu8-01</VoiceFile>
-          <Content>Sigh… I’m so jealous… I had to just sit in my Office and listen to the music coming from a distance…</Content>
+          <Content>เฮ้อ… ฉันอิจฉาจัง… ฉันต้องนั่งอยู่ในออฟฟิศและฟังเพลงนั้นจากระยะไกลอย่างเดียว…</Content>
         </Dialog>
         <Dialog ID="34" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink7</VoiceFile>
-          <Content>Boohoo… I wanna do it too… I wanna make music that’s half as good as the Pianist’s…</Content>
+          <Content>บู้ฮู้… ฉันเองก็อยากทำเหมือนกัน… ฉันอยากทำเพลงที่ดีพอๆกับเดอร์เพียนนิส…</Content>
         </Dialog>
         <Dialog ID="35" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink8</VoiceFile>
-          <Content>But look at me… No matter how much I smash the ankle bones, pluck the tendons, and scrape flesh from the splint bones of my instruments, I can’t even get close to it…</Content>
+          <Content>แต่ดูฉันสิ… ไม่ว่าฉันจะทุบกระดูกข้อเท้า ถอนเส้นเอ็น และขูดเนื้อออกจากเฝือกของเครื่องดนตรีมากแค่ไหน ฉันก็ไม่สามารถเข้าใกล้ถึงจุดนั้นได้เลย…</Content>
         </Dialog>
         <Dialog ID="36" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink9</VoiceFile>
-          <Content>And Heehaw and Doodle-doo… said things…</Content>
+          <Content>และฮีฮอว์กับดุเดิ้ลดู…ก็พูดออกมา…</Content>
         </Dialog>
         <Dialog ID="37" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow20 (2)</VoiceFile>
-          <Content>No, Oink… There’s no need to be so impatient.</Content>
+          <Content>ไม่ อู๊ด… ไม่จำเป็นต้องใจร้อนขนาดนั้นก็ได้</Content>
         </Dialog>
         <Dialog ID="38" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow21 (2)</VoiceFile>
-          <Content>It’s true that we still have a long way to go before we can perform like the Pianist did….</Content>
+          <Content>เป็นความจริงที่เรายังมีหนทางอีกยาวไกลกว่าที่เราจะสามารถแสดงได้เหมือนเดอร์เพียนนิสแบบนั้น….</Content>
         </Dialog>
         <Dialog ID="39" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow22</VoiceFile>
-          <Content>But we are getting close, you see? If we pour our heart and soul into our performance everyday, we’ll be able to make it one day…</Content>
+          <Content>แต่เราใกล้เข้ามากขึ้นแล้วเห็นไหม? หากเราทุ่มเทแรงกายแรงใจให้กับการแสดงทุกวัน สักวันหนึ่งเราจะทำได้แบบนั้น…</Content>
         </Dialog>
         <Dialog ID="40" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow23</VoiceFile>
-          <Content>The performance by Doodle-doo, Heehaw, and Woof was wonderful, wasn’t it?</Content>
+          <Content>การแสดงของ ดุเดิ้ลดู ฮีฮอว์ และ วูฟ นั้นยอดเยี่ยมมาก?</Content>
         </Dialog>
         <Dialog ID="41" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu9-01</VoiceFile>
-          <Content>Yeah! The three gave a fantastic performance!</Content>
+          <Content>ใช่! ทั้งสามคนแสดงได้อย่างยอดเยี่ยมเลย!</Content>
         </Dialog>
         <Dialog ID="42" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu10-01</VoiceFile>
-          <Content>They went on a trip to prepare for the next, so we won’t get to hear it again for a while, though…</Content>
+          <Content>พวกเขาไปเที่ยวเพื่อเตรียมตัวสำหรับการเสดงครั้งต่อไป ดังนั้นเราจะไม่ได้ยินนั้นอีกพักหนึ่ง…</Content>
         </Dialog>
         <Dialog ID="43" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink10</VoiceFile>
-          <Content>It was… Will I get to perform like that someday?</Content>
+          <Content>นั้นหมายความว่า… ฉันจะได้แสดงแบบนั้นสักวันหนึ่งสินะ?</Content>
         </Dialog>
         <Dialog ID="44" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow24 (2)</VoiceFile>
-          <Content>Of course~ Let’s discuss this again after we finish this performance and handle the Library job Heehaw gave us.</Content>
+          <Content>แน่นอน~ เรามาคุยกันอีกครั้งหลังจากที่เราจบการแสดงนี้และจัดการงานห้องสมุดที่ฮีฮอว์มอบให้เราเสร็จแล้ว</Content>
         </Dialog>
         <Dialog ID="45" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow25</VoiceFile>
-          <Content>She said there’s gonna be a performance bigger than ever.</Content>
+          <Content>เธอบอกว่าจะมีการแสดงที่ยิ่งใหญ่กว่าที่เคยมีมา</Content>
         </Dialog>
         <Dialog ID="46" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow26</VoiceFile>
-          <Content>And we might find new instruments in the Library, you know?</Content>
+          <Content>และเราอาจจะพบเครื่องมือใหม่ๆ ในห้องสมุดก็ได้?</Content>
         </Dialog>
         <Dialog ID="47" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink11</VoiceFile>
-          <Content>Yeah… I’m excited to see that performance Heehaw mentioned…</Content>
+          <Content>ใช่… ฉันตื่นเต้นแล้วสิอยากเห็นการแสดงที่ฮีฮอว์พูดถึงนั้นแล้ว…</Content>
         </Dialog>
         <Dialog ID="48" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow27</VoiceFile>
-          <Content>Lemme see… Aha!</Content>
+          <Content>อยากเห็นเหมือนกัน!</Content>
         </Dialog>
         <Dialog ID="49" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow28</VoiceFile>
-          <Content>Why don’t we perform in a supermarket next time~? Oink likes supermarkets, right?</Content>
+          <Content>ทำไมเราไม่แสดงในซูเปอร์มาร์เก็ตในครั้งต่อไปล่ะ~? อู๊ดชอบซูเปอร์มาร์เก็ตใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="50" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu11-01</VoiceFile>
-          <Content>I’m in, too~! It’s fun to mess around with all kinds of instruments in supermarkets.</Content>
+          <Content>ฉันไปด้วย~! การเล่นเครื่องดนตรีทุกชนิดในซุปเปอร์มาร์เก็ตเป็นเรื่องสนุกมาก</Content>
         </Dialog>
         <Dialog ID="51" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink12</VoiceFile>
-          <Content>Thanks, Meow… Thanks, MuMu… I’ll practice harder!</Content>
+          <Content>ขอบคุณ เมี้ยว… ขอบคุณ มูมู่… ฉันจะฝึกให้หนักขึ้น!</Content>
         </Dialog>
         <Dialog ID="52" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow29 (2)</VoiceFile>
-          <Content>All right! Gear up, everyone!</Content>
+          <Content>เอาล่ะ! เตรียมตัวให้พร้อมกันนะทุกคน!</Content>
         </Dialog>
       </Place>
       <Place>
@@ -6177,184 +6177,184 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland1</VoiceFile>
-          <Content>Looks like the Pianist left a whole bunch of nutjobs in its wake.</Content>
+          <Content>ดูเหมือนเดอร์เพียนนิสจะทิ้งลูกกระจ๊อบเอาไว้นะ</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela1-01</VoiceFile>
-          <Content>“From break and ruin, the most beautiful performance begins…”</Content>
+          <Content>“ทุกอย่างล้วนสูญหายไปในท้ายที่สุด แต่จะมีสิ่งใหม่เกิดขึ้นตามมาเสมอ…”</Content>
         </Dialog>
         <Dialog ID="55" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland2</VoiceFile>
-          <Content>What, are you interested in listening to the Pianist’s music?</Content>
+          <Content>อะไร เธอสนใจที่จะฟัง เดอร์เพียนนิส บรรเลงแพลงเหรอ?</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela2</VoiceFile>
-          <Content>No way. I’ve heard that kind of music more than enough times.</Content>
+          <Content>ไม่มีทาง ฉันเคยได้ยินเพลงประเภทนั้นมากเกินพอแล้ว</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland3</VoiceFile>
-          <Content>…There was another dotty musician like the Pianist?</Content>
+          <Content>…ยังมีนักดนตรีที่บ้าๆบอๆ เหมือนกับ เดอร์เพียนนิส อีกเหรอ?</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela3</VoiceFile>
-          <Content>It’s similar, but not exactly the same. How about you, did you hear the Pianist’s music yourself?</Content>
+          <Content>มันคล้ายกันแต่ไม่ใช้ แล้วนายล่ะ นายเคยได้ยินเพลงของเดอร์เพียนนิสด้วยตัวเองมั้ย?</Content>
         </Dialog>
         <Dialog ID="59" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland4</VoiceFile>
-          <Content>Duh. It’d be a lot faster to count the people in the City that didn’t hear that damn sound.</Content>
+          <Content>หึ ไม่มีใครหรอกที่ไม่ได้ยินเสียงเหี้ยนั่น</Content>
         </Dialog>
         <Dialog ID="60" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland5</VoiceFile>
-          <Content>Its music didn’t just pierce me, it almost ravaged my whole being. And then. …Nevermind. I don’t wanna remember that performance again.</Content>
+          <Content>ดนตรีของไอเหี้ยนั้นไม่เพียงแต่แทงใจฉันเท่านั้น แต่ยังทำลายชีวิตของฉันไปเกือบหมดด้วยแล้ว แล้ว …ช่างมันเถอะ ฉันไม่อยากจำการแสดงนั้นอีก</Content>
         </Dialog>
         <Dialog ID="61" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland6</VoiceFile>
-          <Content>Anyway, musicians are all molto vivace in the head, one way or another.</Content>
+          <Content>ยังไงก็ตาม นักดนตรีล้วนมี molto vivace อยู่ในหัวไม่ทางใดก็ทางหนึ่ง</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela4-02</VoiceFile>
-          <Content>They seem to love performance that leads to doom, indeed…</Content>
+          <Content>ดูทรงเหมือนว่าพวกเขาจะชอบการแสดงที่นำไปสู่หายนะ นะ…</Content>
         </Dialog>
         <Dialog ID="63" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland7</VoiceFile>
-          <Content>Guess they’re living in their own world that no one else can understand.</Content>
+          <Content>เดาว่าพวกนั้นจะอยู่ล่ะ</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="64" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow29-01</VoiceFile>
-          <Content>Cat goes~!</Content>
+          <Content>แมว ไป~!</Content>
         </Dialog>
         <Dialog ID="65" Model="오잉크,무무">
-          <Teller>Oink n’ MuMu</Teller>
-          <Title>Bremen Musicians</Title>
+          <Teller>อู๊ด มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมนs</Title>
           <VoiceFile>ch4_Bremen_ep1_oinkmumu1</VoiceFile>
-          <Content>Meow~ Meow~</Content>
+          <Content>เมี้ยว~ เมี้ยว~</Content>
         </Dialog>
         <Dialog ID="66" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow30 (2)</VoiceFile>
-          <Content>Pig goes~!</Content>
+          <Content>หมู ไป~!</Content>
         </Dialog>
         <Dialog ID="67" Model="오잉크,무무">
-          <Teller>Oink n’ MuMu</Teller>
-          <Title>Bremen Musicians</Title>
+          <Teller>อู๊ด มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมนs</Title>
           <VoiceFile>ch4_Bremen_ep1_oinkmumu2</VoiceFile>
-          <Content>Oinkie~ Oink~</Content>
+          <Content>อิ๊งอี้~ อิ๊ง~</Content>
         </Dialog>
         <Dialog ID="68" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow32</VoiceFile>
-          <Content>Rabbit goes~!</Content>
+          <Content>กระต่าย ไป~!</Content>
         </Dialog>
         <Dialog ID="69" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink13</VoiceFile>
-          <Content>…Squeak… squeak…?</Content>
+          <Content>…กริด กริด …?</Content>
         </Dialog>
         <Dialog ID="70" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu12</VoiceFile>
-          <Content>This is so sad…</Content>
+          <Content>หน้าเศร้ามาก…</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela5</VoiceFile>
-          <Content>Greetings, dear guests. I am the direct—</Content>
+          <Content>สวัสดีแขกฉันเป็น—</Content>
         </Dialog>
         <Dialog ID="72" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow33</VoiceFile>
-          <Content>MuMu~! Don’t be so down.</Content>
+          <Content>มูมู่~! อย่าผิดหวังเลย</Content>
         </Dialog>
         <Dialog ID="73" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu13</VoiceFile>
-          <Content>But rabbits don’t have any signature cry sounds.</Content>
+          <Content>แต่กระต่ายไม่มีเสียงร้องอันเป็นเอกลักษณ์เลยนี่</Content>
         </Dialog>
         <Dialog ID="74" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink14</VoiceFile>
-          <Content>Then we can make one…!</Content>
+          <Content>เราสามารถสร้างมันขึ้นมาได้เองเลย…!</Content>
         </Dialog>
         <Dialog ID="75" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow33-01</VoiceFile>
-          <Content>Good idea!</Content>
+          <Content>เป็นความคิดที่ดี!</Content>
         </Dialog>
         <Dialog ID="76" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu14-01</VoiceFile>
-          <Content>Everyone…</Content>
+          <Content>ทุกๆคน…</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela6</VoiceFile>
-          <Content>What a load of nonsense.</Content>
+          <Content>ไร้สาระเป็นบ้า</Content>
         </Dialog>
         <Dialog ID="78" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow35 (2)</VoiceFile>
-          <Content>Why are you just standing there, bluey hair? Aren’t you gonna let us in?</Content>
+          <Content>ทำไมคุณถึงยืนอยู่ตรงนั้นล่ะ แม่ผมสีฟ้า? คุณจะไม่ให้เราเข้าไปเหรอ?</Content>
         </Dialog>
         <Dialog ID="79" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink15</VoiceFile>
-          <Content>Stupid little machine, don’t keep your guests waiting!</Content>
+          <Content>แค่เครื่อจักรโง่ๆ อย่ามาทำให้แขกรอเว้ย!</Content>
         </Dialog>
         <Dialog ID="80" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela7-01</VoiceFile>
-          <Content>What?</Content>
+          <Content>ฮ่ะ?</Content>
         </Dialog>
         <Dialog ID="81" Model="미야오">
-          <Teller>Meow</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>เหมียว</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_meow36</VoiceFile>
-          <Content>Puhahaha, look at it stumble~ It’s got red blood, too?</Content>
+          <Content>ป๊าฮ่าฮ่าฮ่า ดูมันล้มลงไปแล้ว~ มีเลือดสีแดงด้วย?</Content>
         </Dialog>
         <Dialog ID="82" Model="오잉크">
-          <Teller>Oink</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>อู๊ด</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_oink16</VoiceFile>
-          <Content>It can bleed, but the inside is still a bunch of metallic junk. Not a good vibe.</Content>
+          <Content>มันสามารถทำให้เลือดออกได้ แต่ข้างในยังคงเป็นเศษโลหะจำนวนมาก ไม่ใช่ความรู้สึกที่ดีเลย</Content>
         </Dialog>
         <Dialog ID="83" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -6363,10 +6363,10 @@
           <Content>…?</Content>
         </Dialog>
         <Dialog ID="84" Model="무무">
-          <Teller>MuMu</Teller>
-          <Title>Bremen Musician</Title>
+          <Teller>มูมู่</Teller>
+          <Title>นักดนตรีแห่งเบรเมน</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu15-01</VoiceFile>
-          <Content>Hurry up and let us in before we break your legs.</Content>
+          <Content>รีบนำทางได้แล้วก่อนที่เราจะหักแขนขาเธอ</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -6384,532 +6384,532 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland8</VoiceFile>
-          <Content>What in the… Angela, what’s going on?!</Content>
+          <Content>เกิดอะไรขึ้น… แองเจล่า เกิดอะไรขึ้นนั้น?!</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland9</VoiceFile>
-          <Content>That’s blood… I thought you were a pure machine!</Content>
+          <Content>นั่นคือเลือด… ฉันคิดว่าเธอเป็นเครื่องจักรแท้ๆ!</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela10</VoiceFile>
-          <Content>I am surprised as well… That much impact shouldn’t have made me flinch, either…</Content>
+          <Content>ฉันก็แปลกใจเหมือนกันนะ… แรงปะทะขนาดนั้นไม่น่าจะทำให้ฉันล้มได้เหมือนกัน…</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland10</VoiceFile>
-          <Content>You alright? Does it hurt bad?</Content>
+          <Content>เธอสบายดีไหม มันเจ็บมากไหม?</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela11</VoiceFile>
-          <Content>…I’m still fine. Now I see how much it hurts to get hit.</Content>
+          <Content>…ฉันยังสบายดี ตอนนี้ฉันเข้าใจแล้วมันเจ็บแค่ไหนเมื่อโดนตี</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Bremen_ep1_roland11</VoiceFile>
-          <Content>Could it be that you’re getting closer to being human…?</Content>
+          <Content>เป็นไปได้ไหมว่าเธอเข้าใกล้ความเป็นมนุษย์มากขึ้น…?</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Bremen_ep1_angela12</VoiceFile>
-          <Content>It may be one of the signs that I’m approaching my freedom… There’s no need to be worried just yet.</Content>
+          <Content>อาจเป็นสัญญาณอย่างหนึ่งว่าฉันใกล้จะเป็นอิสระแล้ว… งันไม่มีอะไรต้องกังวล</Content>
         </Dialog>
       </Place>
     </Episode>
   </Group>
   <Group>
-    <GroupName>Wedge Office</GroupName>
+    <GroupName>สำนักงานเวจ</GroupName>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่: Wedge Office</PlaceName>
+        <PlaceName>สถานที่: สำนักงานเวจ</PlaceName>
         <Dialog ID="0" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela1 (2)</VoiceFile>
-          <Content>Help yourself. You’re gonna starve to death if you don’t eat anything.</Content>
+          <Content>นายกินนี้สะ นายจะอดตายถ้าไม่กินอะไรเลย</Content>
         </Dialog>
         <Dialog ID="1" Model="필립">
           <Teller>ฟิลิป</Teller>
           <Title>ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip1</VoiceFile>
-          <Content>Thanks for the meal, but… I don’t feel like eating yet…</Content>
+          <Content>ขอบคุณสำหรับอาหารนะครับ แต่…ผมรู้สึกไม่อยากกินอะไรเลยตอนนี้…</Content>
         </Dialog>
         <Dialog ID="2" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela2</VoiceFile>
-          <Content>No wonder, your Office got wiped out. You should harden your heart, still.</Content>
+          <Content>ไม่น่าแปลกใจเลยที่สำนักงานของนายถูกเก็บหมด นายควรทำใจให้เข้มแข็งกว่านี่นะ</Content>
         </Dialog>
         <Dialog ID="3" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip2</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="4" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli1 (2)</VoiceFile>
-          <Content>Do you think it was your fault?</Content>
+          <Content>นายคิดว่าเป็นความผิดของนายอยู่หรอ?</Content>
         </Dialog>
         <Dialog ID="5" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip3-01</VoiceFile>
-          <Content>Yes… Had I stopped them…</Content>
+          <Content>ใช่… ถ้าผมห้ามพวกเขาล่ะก็…</Content>
         </Dialog>
         <Dialog ID="6" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip4</VoiceFile>
-          <Content>Had I been stronger and more mature…</Content>
+          <Content>ถ้าผมเข้มแข็งและเป็นผู้ใหญ่มากกว่านี้อีก…</Content>
         </Dialog>
         <Dialog ID="7" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip5</VoiceFile>
-          <Content>Had I… stayed there and not run away…</Content>
+          <Content>ถ้าผมอยู่ตรงนั้นและไม่หนีไปไหน…</Content>
         </Dialog>
         <Dialog ID="8" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli2 (2)</VoiceFile>
-          <Content>Then it’s your fault.</Content>
+          <Content>ถ้าอย่างนั้นมันเป็นความผิดของนาย</Content>
         </Dialog>
         <Dialog ID="9" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip6-01</VoiceFile>
-          <Content>…Huh?</Content>
+          <Content>…ฮ่ะ?</Content>
         </Dialog>
         <Dialog ID="10" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli3 (2)</VoiceFile>
-          <Content>You were too daft and weak to keep the others safe. It’s your fault that everyone died.</Content>
+          <Content>นายโง่และอ่อนแอเกินไปที่จะปกป้องคนอื่นๆ ให้ปลอดภัย เป็นความผิดของนายที่ทำให้ทุกคนเสียชีวิต</Content>
         </Dialog>
         <Dialog ID="11" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip7-01</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="12" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli4 (2)</VoiceFile>
-          <Content>Feel better now? Think what you want.</Content>
+          <Content>รู้สึกดีขึ้นมั้ย? คิดสิ่งที่นายต้องการก็พอ</Content>
         </Dialog>
         <Dialog ID="13" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli5</VoiceFile>
-          <Content>When something happens, all you gotta do is make up reasons that are convenient to you, no?</Content>
+          <Content>เมื่อมีอะไรเกิดขึ้นสิ่งที่นายควรทำก็คือ สร้างเหตุผลในสิ่งที่นายควรจะทำต่อไปไม่ใช้หรอ?</Content>
         </Dialog>
         <Dialog ID="14" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli6 (2)</VoiceFile>
-          <Content>It’s not like you actually care about the cause; you just want to believe whatever that convinces you.</Content>
+          <Content>นายไม่ได้สนใจสาเหตุจริงๆ แต่นายแค่อยากจะเชื่ออะไรก็ตามที่ทำให้นายสบายใจขึ้นก็เท่านั้น</Content>
         </Dialog>
         <Dialog ID="15" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar1-01</VoiceFile>
-          <Content>Hey, kids. Don’t bully that boy too hard now.</Content>
+          <Content>เฮ้หนูๆ อย่ารังแกเด็กคนนั้นแรงเกินไปสิตอนนี้</Content>
         </Dialog>
         <Dialog ID="16" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela3 (2)</VoiceFile>
-          <Content>I didn’t do anything. It was all Pameli.</Content>
+          <Content>ฉันไม่ได้ทำอะไรเลย พาเมลี่ ทำทั้งหมดตังหาก</Content>
         </Dialog>
         <Dialog ID="17" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar2</VoiceFile>
-          <Content>Alright, Philip. Feeling well enough to talk now?</Content>
+          <Content>อ่า ฟิลิป รู้สึกดีขึ้นพอที่จะพูดคุยตอนนี้ได้รึยัง?</Content>
         </Dialog>
         <Dialog ID="18" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip8</VoiceFile>
-          <Content>Yes. Thank you for your kindness.</Content>
+          <Content>ครับ ขอขอบคุณสำหรับน้ำใจของคุณนะครับ.</Content>
         </Dialog>
         <Dialog ID="19" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela4</VoiceFile>
-          <Content>We are sister Offices, after all. Gotta help each other out.</Content>
+          <Content>เราเป็นสำนักงานที่เป็นพาร์ทเนอร์กัน ก็ต้องช่วยเหลือกันสิ</Content>
         </Dialog>
         <Dialog ID="20" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar3</VoiceFile>
-          <Content>I’m sorry we couldn’t help. We were in the middle of handling a case of the Distortion in the streets of District 12.</Content>
+          <Content>ฉันขอโทษด้วยนะ ที่เราไม่สามารถช่วยได้ตอนนั้น เราอยู่ระหว่างจัดการคดีการบิดเบือนในถนนสาย 12</Content>
         </Dialog>
         <Dialog ID="21" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar4</VoiceFile>
-          <Content>Those victimized by ‘The Eight o'Clock Circus’ held a show of pure insanity and hedonism.</Content>
+          <Content>ผู้ที่ตกเป็นเหยื่อของ 'ละครแปดนาฬิกา' ซึ่งเป็นการแสดงที่วิกลจริตและบ้าคลั่งมาก</Content>
         </Dialog>
         <Dialog ID="22" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar5</VoiceFile>
-          <Content>It was akin to a festival in hell. Gave us quite a bit of trouble.</Content>
+          <Content>มันเหมือนกับเทศกาลในนรก สร้างความลำบากให้เราไม่น้อยเลย</Content>
         </Dialog>
         <Dialog ID="23" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli7</VoiceFile>
-          <Content>I had to get my body replaced, too. This one’s seriously not my style…</Content>
+          <Content>ฉันต้องเปลี่ยนร่างกายด้วย เอาจริงนะร่างนี้ไม่ใช้สไตล์ที่ฉันชอบด้วย…</Content>
         </Dialog>
         <Dialog ID="24" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip9-01</VoiceFile>
-          <Content>…Is that a robotic body? Doesn’t that shape infringe the Ethics Amendment, though?</Content>
+          <Content>…นั่นคือร่างกายหุ่นยนต์หรอ? รูปร่างนั้นไม่ละเมิดกฎจริยธรรมใช้มั้ย?</Content>
         </Dialog>
         <Dialog ID="25" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela5 (2)</VoiceFile>
-          <Content>It’s not mechanical, it’s a clone of my body. I got biological body-recovery insurance some time ago.</Content>
+          <Content>มันเป็นร่างโคลนของฉันเอง ฉันได้ทำประกันการฟื้นฟูร่างกายเมื่อนานมาแล้ว</Content>
         </Dialog>
         <Dialog ID="26" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela6 (2)</VoiceFile>
-          <Content>Pameli’s body was torn apart beyond recovery, so this was the only way we had left for her.</Content>
+          <Content>ร่างของพาเมลี่ถูกฉีกออกจากกันมากเกินกว่าจะฟื้นตัวได้ ดังนั้นนี่จึงเป็นทางเดียวที่เราเหลือไว้ให้เธอเท่านั้น</Content>
         </Dialog>
         <Dialog ID="27" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela7 (2)</VoiceFile>
-          <Content>Her head was thankfully intact. I thought Fixer insurances were a complete robbery, but it did help us out for once.</Content>
+          <Content>โชคดีที่ศีรษะของเธอไม่บุบสลาย ฉันคิดว่าประกันของ ฟิกเซอร์ นี่เป็นการปล้นชัดๆ แต่มันก็ช่วยเราได้ครั้งหนึ่งละกัน</Content>
         </Dialog>
         <Dialog ID="28" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela8</VoiceFile>
-          <Content>Speaking of, doesn’t your Office have any insurance?</Content>
+          <Content>เมื่อพูดถึงสำนักงานของนายไม่มีประกันอะไรเลยหรอ?</Content>
         </Dialog>
         <Dialog ID="29" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip10-01</VoiceFile>
-          <Content>I was a relatively new member at that Office, so I didn’t know that much…</Content>
+          <Content>ผมเป็นสมาชิกที่ค่อนข้างใหม่ในสำนักงานแห่งนั้น ดังนั้นฉันจึงไม่รู้อะไรมากนัก…</Content>
         </Dialog>
         <Dialog ID="30" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela9 (2)</VoiceFile>
-          <Content>Yeah, you’ll want to see if the Office had any. There are many types of insurance with various conditions.</Content>
+          <Content>ใช่ นายควรดูว่าสำนักงานของนายมีอะไรบ้าง มีประกันหลากหลายเงื่อนไขเลยแล</Content>
         </Dialog>
         <Dialog ID="31" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli8</VoiceFile>
-          <Content>It’s nice to have a body again, but why did it have to be this?</Content>
+          <Content>รู้สึกดีที่มีร่างกายอีกครั้ง แต่ทำไมต้องเป็นร่างนี้ด้วย?</Content>
         </Dialog>
         <Dialog ID="32" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela10</VoiceFile>
-          <Content>What? I urgently had body cloning surgery to save you, and this is how you thank me?</Content>
+          <Content>อะไรย่ะ ฉันได้ให้ร่างกายเพื่อผ่าตัดอย่างเร่งด่วนเพื่อช่วยเธอ และนี่คือวิธีที่ขอบคุณฉันเหรอ?</Content>
         </Dialog>
         <Dialog ID="33" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli9 (2)</VoiceFile>
-          <Content>What’s the point? Even just looking at the mirror is discouraging.</Content>
+          <Content>ประเด็นคืออะไรรู้มั้ย? แค่ส่องกระจกก็ท้อใจแล้ว</Content>
         </Dialog>
         <Dialog ID="34" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela13</VoiceFile>
-          <Content>Don’t you dare damage that body.</Content>
+          <Content>เธออย่ากล้าทำความเสียหายกับร่างกายนั้นนะ</Content>
         </Dialog>
         <Dialog ID="35" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela14 (2)</VoiceFile>
-          <Content>You know what, why don’t you just die a permanent death this time? That way you can’t be recovered by any means. You won’t have to pay me for the cloned body then.</Content>
+          <Content>เธอรู้อะไรมั้ย ทำไมเธอไม่ตายอย่างถาวรในครั้งนี้ดูล่ะ ด้วยวิธีนี้เธอก็จะไม่ฟื้นขึ้นมาอีก แถมไม่ต้องจ่ายให้ฉันสำหรับร่างโคลนนั้นอีกด้วย</Content>
         </Dialog>
         <Dialog ID="36" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli10 (2)</VoiceFile>
-          <Content>You asking for a fight?</Content>
+          <Content>อยากมีเรื่องเหรอ?</Content>
         </Dialog>
         <Dialog ID="37" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela15 (2)</VoiceFile>
-          <Content>Yeah, you punk.</Content>
+          <Content>แน่นอน ยัยเตี่ย</Content>
         </Dialog>
         <Dialog ID="38" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar6</VoiceFile>
-          <Content>…You certainly are masterful at making ssanghwa-cha as Salvador said.</Content>
+          <Content>…นายเชี่ยวชาญในการทำ ซังฮวา-ชา อย่างที่ซัลวาดอร์กล่าวไว้เลย</Content>
         </Dialog>
         <Dialog ID="39" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip11-01</VoiceFile>
-          <Content>You flatter me, sir…</Content>
+          <Content>เขินเลยครับ…</Content>
         </Dialog>
         <Dialog ID="40" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar7</VoiceFile>
-          <Content>A penny for your thoughts, Philip. Did ‘The Library’ appear to be related to the Distortion Phenomenon in any way?</Content>
+          <Content>ในความคิดของนาย ฟิลิป 'ห้องสมุด' ดูเหมือนจะเกี่ยวข้องกับปรากฏการณ์บิดเบือนในทางใดทางหนึ่งมั้ย?</Content>
         </Dialog>
         <Dialog ID="41" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip12-01</VoiceFile>
-          <Content>I’m not sure. I haven’t experienced the Distortion myself.</Content>
+          <Content>ผมไม่แน่ใจ ผมไม่เคยเห็นการบิดเบือนด้วยตัวเองมาก่อน</Content>
         </Dialog>
         <Dialog ID="42" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip13-01</VoiceFile>
-          <Content>But that place looked more alien than anything I’ve ever seen.</Content>
+          <Content>แต่เป็นสถานที่ที่ดูแปลกกว่าทุกที่ที่ผมเคยเห็นมาเลย</Content>
         </Dialog>
         <Dialog ID="43" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip14-01</VoiceFile>
-          <Content>And master and seonbae… They got turned into books there…</Content>
+          <Content>และอาจารย์กับซอนเบ… พวกเขาถูกกลายเป็นหนังสือที่นั่นด้วย…</Content>
         </Dialog>
         <Dialog ID="44" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar8-01</VoiceFile>
-          <Content>…That doesn’t help.</Content>
+          <Content>…ไม่ได้ช่วยอะไรเลย</Content>
         </Dialog>
         <Dialog ID="45" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar9-01</VoiceFile>
-          <Content>Several Associations have started keeping an eye on this matter.</Content>
+          <Content>หลายสมาคมเริ่มจับตามองเรื่องนี้แล้ว</Content>
         </Dialog>
         <Dialog ID="46" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar10</VoiceFile>
-          <Content>It’s not just the Associations; even the Wings and the Fingers are clueless about what to make of the Distortion.</Content>
+          <Content>ไม่ใช่แค่สมาคมเท่านั้น แม้แต่วิง และ ฟิงเกอร์ ก็ยังไม่รู้ว่าจะทำอย่างไรกับการบิดเบือนนี่ดี</Content>
         </Dialog>
         <Dialog ID="47" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip15-01</VoiceFile>
-          <Content>Alright…</Content>
+          <Content>ครับ…</Content>
         </Dialog>
         <Dialog ID="48" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar12</VoiceFile>
-          <Content>You don’t seem too interested in the current topic.</Content>
+          <Content>ดูเหมือนนายไม่สนใจหัวข้อปัจจุบันมากเลยนะ</Content>
         </Dialog>
         <Dialog ID="49" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar13-01</VoiceFile>
-          <Content>You must want to forget all this fuss about the Distortion and head right back to the Library and retrieve the books of your colleagues.</Content>
+          <Content>นายต้องลืมเรื่องวุ่นวายเกี่ยวกับการบิดเบือนนี้และมุ่งตรงกลับไปที่ห้องสมุดและรับหนังสือของเพื่อนร่วมงานของนายนะ</Content>
         </Dialog>
         <Dialog ID="50" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip16-01</VoiceFile>
-          <Content>…I wish I could do just that.</Content>
+          <Content>…ผมหวังว่าผมจะทำมันได้</Content>
         </Dialog>
         <Dialog ID="51" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip17-01</VoiceFile>
-          <Content>But my master said to me in his note that I shouldn’t act hastily and instead depend on your aid.</Content>
+          <Content>แต่อาจารย์ของผม บอกผมในบันทึกของเขาว่าผมไม่ควรรีบร้อนและพึ่งพาความช่วยเหลือจากคุณแทน</Content>
         </Dialog>
         <Dialog ID="52" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar14-01</VoiceFile>
-          <Content>That old friend left me with quite the troublesome little fellow…</Content>
+          <Content>เพื่อนเก่าคนนั้นทิ้งฉันไว้กับเพื่อนตัวน้อยที่ค่อนข้างลำบากเชียว…</Content>
         </Dialog>
         <Dialog ID="53" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar15</VoiceFile>
-          <Content>Death is a staple in this business, but his wife and children must be heartbroken still.</Content>
+          <Content>ความตายเป็นเรื่องปกติในธุรกิจนี้ แต่ภรรยาและลูกๆ ของเขาต้องเสียใจแน่</Content>
         </Dialog>
         <Dialog ID="54" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar16-01</VoiceFile>
-          <Content>Have you met them?</Content>
+          <Content>นายได้พบกับพวกเขาหรือยัง?</Content>
         </Dialog>
         <Dialog ID="55" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip18</VoiceFile>
-          <Content>No… I couldn’t visit them yet.</Content>
+          <Content>ไม่ครับ… ผมยังไปเยี่ยมพวกเขาไม่ได้ตอนนี้</Content>
         </Dialog>
         <Dialog ID="56" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar17</VoiceFile>
-          <Content>Why is that?</Content>
+          <Content>ทำไมล่ะ?</Content>
         </Dialog>
         <Dialog ID="57" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip19</VoiceFile>
-          <Content>…I’m too ashamed to face them.</Content>
+          <Content>…ผมไม่มีหน้าพอที่จะไปเผชิญหน้ากับพวกเขา</Content>
         </Dialog>
         <Dialog ID="58" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar18</VoiceFile>
-          <Content>Our next stop will be the Library. Ready your gear.</Content>
+          <Content>จุดต่อไปของเราคือห้องสมุด เตรียมอุปกรณ์ของนายให้พร้อม</Content>
         </Dialog>
         <Dialog ID="59" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip20</VoiceFile>
-          <Content>…Thank you, sir.</Content>
+          <Content>…ขอบพระคุณครับ</Content>
         </Dialog>
         <Dialog ID="60" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar19</VoiceFile>
-          <Content>Don’t mistake this for kindness. We’re simply taking you with us because we were already planning to go there.</Content>
+          <Content>อย่าเข้าใจผิดว่าเราช่วยนายล่ะ เราแค่พานายไปเพราะเราวางแผนที่จะไปที่นั่นอยู่แล้ว</Content>
         </Dialog>
         <Dialog ID="61" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar20-01</VoiceFile>
-          <Content>And this is the least I can do to bear responsibility for my old friend’s death.</Content>
+          <Content>และนี่คือสิ่งที่ฉันทำได้อย่างน้อย ต่อการตายของเพื่อนเก่าของฉัน</Content>
         </Dialog>
         <Dialog ID="62" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar21-01</VoiceFile>
-          <Content>Personally, I’d never let a Fixer like you join my Office. It would give us a bad name.</Content>
+          <Content>โดยส่วนตัวแล้ว ฉันจะไม่ปล่อยให้ฟิกเซอร์อย่างนายเข้าร่วมสำนักงานของฉัน มันจะทำให้เราเสียชื่อ</Content>
         </Dialog>
         <Dialog ID="63" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip21</VoiceFile>
-          <Content>…Is it wrong… Is it so pathetic for me to want to repay the favors of my colleagues, for their sake…?</Content>
+          <Content>…มันผิดเหรอครับ… มันน่าสมเพชขนาดนั้นเลยเหรอที่ผมอยากจะตอบแทนบุญคุณให้พวกเขา…?</Content>
         </Dialog>
         <Dialog ID="64" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip22</VoiceFile>
-          <Content>Everyone says not to act upon attachment, that it’s an unclassy and naive thing to do…</Content>
+          <Content>ใครๆ ก็บอกว่าอย่ายึดติดอะไรมากจนเกินไป นั่นเป็นสิ่งที่ไม่มีชั้นเชิงและดูไร้เดียงสาไม่ควรทำ…</Content>
         </Dialog>
         <Dialog ID="65" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip23-01</VoiceFile>
-          <Content>Can’t we as Fixers… no, as people living in the City, do anything on the behalf of others!!!</Content>
+          <Content>เราในฐานะ ฟิกเซอร์ ไม่สิ คนในเมืองทำไมถึงไม่ทำเพื่อคนอื่นบ้างละครับ!!!</Content>
         </Dialog>
         <Dialog ID="66" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli11 (2)</VoiceFile>
-          <Content>Gosh, you’re insufferable. He didn’t even say that you’re wrong or anything.</Content>
+          <Content>เอ้ย ไม่พอใจอะไร เขายังไม่บอกเลยว่านายผิดอะไรเลย</Content>
         </Dialog>
         <Dialog ID="67" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli12 (2)</VoiceFile>
-          <Content>He just doesn’t want those kinds of Fixers in our Office, simple as that. Don’t be a miserable ass about it.</Content>
+          <Content>เขาไม่ต้องการ ฟิกเซอร์ แบบนายในสำนักงานของเรา ง่ายๆแค่นั้นเอง อย่าร้อนตัวสิ</Content>
         </Dialog>
         <Dialog ID="68" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli13 (2)</VoiceFile>
-          <Content>Nothing is as unreliable as someone who’s easily swayed by their feelings.</Content>
+          <Content>รู้มั้ยคนที่พึ่งพาไม่ได้นะ เป็นคนที่อารมณ์ชักจูงได้ง่ายแบบนายนะ</Content>
         </Dialog>
         <Dialog ID="69" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli14 (2)</VoiceFile>
-          <Content>You want us all to die just so you can fulfill your ideals or what?</Content>
+          <Content>นายต้องการให้เราทุกคนตายเพียงเพื่อให้บรรลุอุดมคติของนายหรือไงกัน?</Content>
         </Dialog>
         <Dialog ID="70" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar22</VoiceFile>
-          <Content>You must be sincerely believing that your actions are for others.</Content>
+          <Content>นายต้องเชื่ออย่างสนิทใจเลยว่าการกระทำของนายนะ ทำเพื่อคนอื่น</Content>
         </Dialog>
         <Dialog ID="71" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar23</VoiceFile>
-          <Content>That you are different from all the other unkind and selfish denizens of this City.</Content>
+          <Content>แล้วบอกว่าตัวเองฉันไม่เหมือนคนอื่นที่เห็นแก่ตัวในเมืองนี้น่ะ</Content>
         </Dialog>
         <Dialog ID="72" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar24</VoiceFile>
-          <Content>Thinking that you are fighting for some higher cause.</Content>
+          <Content>และนายคงคิดว่านายต่อสู่เพื่อสิ่งที่ดีกว่าสินะ</Content>
         </Dialog>
         <Dialog ID="73" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar25</VoiceFile>
-          <Content>But know that those are in fact entirely selfish thoughts.</Content>
+          <Content>แต่จงรู้ไว้ซะว่าแท้จริงแล้วความคิดแบบนั้นนะ เป็นความคิดที่เห็นแก่ตัวโดยสิ้นเชิง</Content>
         </Dialog>
         <Dialog ID="74" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar26</VoiceFile>
-          <Content>It’s the most dangerous kind of selfishness. You deceive yourself into thinking you’re selfless.</Content>
+          <Content>มันเป็นความเห็นแก่ตัวประเภทที่อันตรายที่สุดด้วย นายหลอกตัวเองให้คิดว่านายถูกทั้งที่ผิด</Content>
         </Dialog>
         <Dialog ID="75" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar27-01</VoiceFile>
-          <Content>There can be no such thing as a selfless action for us humans. Even the act of self-sacrifice is ultimately for oneself.</Content>
+          <Content>ไม่มีสิ่งที่เรียกว่าการกระทำที่เสียสละสำหรับมนุษย์หรอก สุดท้ายการเสียสละนั้นก็เพื่อตัวเอง</Content>
         </Dialog>
         <Dialog ID="76" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar28</VoiceFile>
-          <Content>A very dangerous kind of selfishness, one that slowly eats away at your peers and leads them to damnation…</Content>
+          <Content>ดังนั้นสิ่งที่นายเป็นคือความเห็นแก่ตัวประเภทที่อันตรายที่สุด ความเห็นแก่ตัวที่ค่อยๆ กลืนกินคนรอบข้างและนำไปสู่หายนะ…</Content>
         </Dialog>
         <Dialog ID="77" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip24-01</VoiceFile>
-          <Content>I…!</Content>
+          <Content>ผม…!</Content>
         </Dialog>
         <Dialog ID="78" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar29</VoiceFile>
-          <Content>You gave a fine speech, but I must wonder if you’re truly upset for the sake of Salvador and your other late colleagues.</Content>
+          <Content>นายพูดได้ดีแล้ว แต่ฉันคงสงสัยว่านายโกรธอยากจะล้างแค้นเพื่อซัลวาดอร์จริงๆหรือเปล่า และเพื่อนร่วมงานคนอื่นๆ ของนายด้วย</Content>
         </Dialog>
         <Dialog ID="79" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip25-01</VoiceFile>
-          <Content>…I’ll go prepare myself.</Content>
+          <Content>…ฉันจะไปแล้วเตรียมตัวให้พร้อม</Content>
         </Dialog>
       </Place>
       <Place>
@@ -6918,142 +6918,142 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland1</VoiceFile>
-          <Content>That Philip guy seems to be hurt, but I agree with Oscar here.</Content>
+          <Content>ผู้ชายที่ชื่อฟิลิปนั้นดูจะเจ็บปวดหน้าดู แต่ฉันเห็นด้วยกับออสการ์นะ</Content>
         </Dialog>
         <Dialog ID="81" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland2</VoiceFile>
-          <Content>Few things are as dangerous and nasty as selfishness in the guise of “for the sake of someone else”…</Content>
+          <Content>มีไม่กี่อย่างที่อันตรายและน่ารังเกียจเท่ากับความเห็นแก่ตัวที่แสร้งทำเป็น "ทำเพื่อคนอื่น"…</Content>
         </Dialog>
         <Dialog ID="82" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela1</VoiceFile>
-          <Content>I think I know what you mean. The determination to work for the good of others can be a dreadful and loathsome weapon.</Content>
+          <Content>ฉันคิดว่าฉันเข้าใจละ นายหมายถึงอะไร ความมุ่งมั่นที่จะทำเพื่อผู้อื่นอาจเป็นอาวุธที่น่ากลัวและอันตรายสินะ</Content>
         </Dialog>
         <Dialog ID="83" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela2</VoiceFile>
-          <Content>Especially if one strongly believes that the justice they’re pursuing is worth sacrificing for…</Content>
+          <Content>โดยเฉพาะอย่างยิ่งถ้าใครก็ตามที่เชื่ออย่างหนักแน่นว่า ความยุติธรรมที่พวกเขากำลังตามหานั้นมีค่าพอที่เสียสละ…</Content>
         </Dialog>
         <Dialog ID="84" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela3</VoiceFile>
-          <Content>They’re blinded by self-righteousness, and have no regards for their surroundings. They don’t care what happens to others.</Content>
+          <Content>จึงทำให้พวกเขาล้วนหน้ามืดตามัวไปกับความยุติธรรมของพวกเขาเอง และจะไม่สนใจว่าจะเกิดอะไรขึ้นกับคนอื่นรอบข้างยังไงก็ตาม</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela4</VoiceFile>
-          <Content>They justify themselves for pressing forward pursuing their justice, crushing everything in their way…</Content>
+          <Content>พวกเขานั้นอ้างว่าพวกเขาทำเพื่อความยุติธรรม แล้วบดขยี้ทุกสิ่งที่ขวางหน้า…</Content>
         </Dialog>
         <Dialog ID="86" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland3</VoiceFile>
-          <Content>Wow… This might be the first time we understood each other for real. I’m touched, man.</Content>
+          <Content>ว้าว…นี่อาจเป็นครั้งแรกที่เราเข้าใจกันจริงๆ ฉันประทับใจเลย</Content>
         </Dialog>
         <Dialog ID="87" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela5</VoiceFile>
-          <Content>How about some champagne?</Content>
+          <Content>แชมเปญมั้ย?</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>สถานที่: Library Entrance</PlaceName>
         <Dialog ID="88" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli15</VoiceFile>
-          <Content>Stop frowning already, would you? You’re so annoying.</Content>
+          <Content>หยุดทำหน้าบึ้งได้แล้ว นายน่ารำคาญมากรู้มั้ย</Content>
         </Dialog>
         <Dialog ID="89" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela16</VoiceFile>
-          <Content>He’s still recovering. We should give him some space.</Content>
+          <Content>เขาฟื้นตัวอยู่ เราควรให้เวลาเขาหน่อย</Content>
         </Dialog>
         <Dialog ID="90" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli16</VoiceFile>
-          <Content>Tiny things like this can still affect my psyche.</Content>
+          <Content>เรื่องเล็กๆน้อยๆ แบบนี่มันส่งผลต่อสภาพจิตใจรู้มั้ย</Content>
         </Dialog>
         <Dialog ID="91" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch4_Wedge_ep1_philip26</VoiceFile>
-          <Content>…Nevermind. You don’t need to care about me. I’ll try not to be a hindrance.</Content>
+          <Content>…พวกคุณไม่จำเป็นต้องสนใจผม ผมจะพยายามไม่เป็นอุปสรรคละกัน</Content>
         </Dialog>
         <Dialog ID="92" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar30</VoiceFile>
-          <Content>I’ll stab you as soon as I determine that you’re getting in our way.</Content>
+          <Content>ฉันจะแทงนายทันที ถ้านายขวางทางพวกเราจริงๆ</Content>
         </Dialog>
         <Dialog ID="93" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela6</VoiceFile>
-          <Content>Greetings, dear guests. Though, your group seems to be in a rather ill mood?</Content>
+          <Content>สวัสดีแขก กลุ่มของคุณดูไม่ค่อยดีเลย?</Content>
         </Dialog>
         <Dialog ID="94" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar31</VoiceFile>
-          <Content>I thought you were a machine… But could it be that you are partially human?</Content>
+          <Content>ฉันคิดว่าเธอเป็นเครื่องจักร… แต่ดูเหมือนว่าเธอเป็นมนุษย์บางส่วนด้วยนะ?</Content>
         </Dialog>
         <Dialog ID="95" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli17</VoiceFile>
-          <Content>Don’t stare at us so viciously now. We just poked you to make sure, not to kill you or anything.</Content>
+          <Content>อย่าจ้องเราขนาดนั้นสิ เราแค่มองเพื่อตรวจสอบเฉยๆไม่ได้จะฆ่าจะแกงกันเลยนะ</Content>
         </Dialog>
         <Dialog ID="96" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela7</VoiceFile>
-          <Content>How rude. Hasn’t anyone taught you to behave?</Content>
+          <Content>หยาบคาย ไม่มีใครสอนเรื่องมารยาทหรือไง?</Content>
         </Dialog>
         <Dialog ID="97" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela17</VoiceFile>
-          <Content>Hmm, I heard the librarian of this place was supposed to be nice.</Content>
+          <Content>อืมม ฉันได้ยินมาว่าบรรณารักษ์ของที่นี่มารยาทดีกว่านี่นี้น่ะ</Content>
         </Dialog>
         <Dialog ID="98" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela8</VoiceFile>
-          <Content>Someone advised me that there’s no need to be courteous with ill-mannered guests who slap and spit in my face without reason.</Content>
+          <Content>มีคนแนะนำฉันว่าไม่จำเป็นต้องมีมารยาทกับแขกมารยาททรามที่ตบหน้าและถ่มน้ำลายใส่ โดยไม่มีเหตุผล</Content>
         </Dialog>
         <Dialog ID="99" Model="오스카">
-          <Teller>Oscar</Teller>
-          <Title>Wedge โอเปอเรเตอร์</Title>
+          <Teller>ออสการ์</Teller>
+          <Title>เวจ โอเปอเรเตอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar32-01</VoiceFile>
-          <Content>I apologize. We couldn’t afford to be polite when our very lives are at risk.</Content>
+          <Content>ขอโทษด้วย เราไม่สามารถสุภาพได้เมื่อชีวิตของเราต้องมาเสี่ยงแบบนี่</Content>
         </Dialog>
         <Dialog ID="100" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela9</VoiceFile>
-          <Content>Oh, really now?</Content>
+          <Content>โอ้ งั้นเหรอ?</Content>
         </Dialog>
         <Dialog ID="101" Model="파멜리">
-          <Teller>Pameli</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมลี่</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli18 (2)</VoiceFile>
-          <Content>This isn’t like what we heard about her at all.</Content>
+          <Content>นี่ไม่เหมือนกับที่เราได้ยินเกี่ยวกับเธอเลย</Content>
         </Dialog>
         <Dialog ID="102" Model="파멜라">
-          <Teller>Pamela</Teller>
-          <Title>Wedge Fixer</Title>
+          <Teller>พาเมล่า</Teller>
+          <Title>เวจฟิกเซอร์</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela18 (2)</VoiceFile>
-          <Content>She must’ve had her own woes.</Content>
+          <Content>เธออาจมีเหตุผลของตัวเองแล</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -7065,19 +7065,19 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland4</VoiceFile>
-          <Content>Whoa… What is up with that Philip kid?</Content>
+          <Content>ว้าว…เกิดอะไรขึ้นกับเจ้าหนุ่มฟิลิปนั้นนะ?</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland5</VoiceFile>
-          <Content>When did he get such a high-performing workshop gear? No, not even the workshops could make equipment as good as that…</Content>
+          <Content>เขาได้รับอุปกรณ์ที่มีประสิทธิภาพสูงขนาดนั้นมาได้ยังไง ขนาดเวิร์กช็อปก็ยังสร้างอุปกรณ์ที่ดีขนาดนั้นไม่ได้ด้วยซ้ำ…</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland6-01</VoiceFile>
-          <Content>This actually… reminds me of that guy…</Content>
+          <Content>อันนี่… ทำให้ฉันนึกถึงคนคนหนึ่ง…</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -7089,85 +7089,85 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela11</VoiceFile>
-          <Content>That appears to be ‘E.G.O’.</Content>
+          <Content>ดูเหมือนจะเป็น ‘E.G.O’.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland7</VoiceFile>
-          <Content>‘E.G.O’? You mean the ego? As in someone’s consciousness?</Content>
+          <Content>‘E.G.O’? เธอหมายถึงอีโกหรอ? ประมาณจิตใต้สำนึกของใครบางคนใช้ไหม?</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela12</VoiceFile>
-          <Content>It’s a silly wordplay. They’re essentially the same thing.</Content>
+          <Content>มันเป็นการเล่นคำที่ดูงี่เง่าดี แต่โดยพื้นฐานแล้วมันน่าจะเป็นสิ่งเดียวกันละมั้ง</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela13</VoiceFile>
-          <Content>The shell of one’s ego. It’s a physical manifestation of the mind.</Content>
+          <Content>มันเป็นเปลือกของจิตใต้สำนึก เป็นการก่อตัวของจิตใต้สำนึกให้ออกมาเป็นรูปร่าง</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland8</VoiceFile>
-          <Content>What?! The mind? Physically brought about? That sounds too vague to be a real thing that could happen.</Content>
+          <Content>จิตใต้สำนึกก่อตัวเป็นรูปร่าง อะไรเนีย? นั่นฟังดูคลุมเครือเกินไปในการตัดสินใจว่าเป็นเรื่องจริงหรือไม่</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela14</VoiceFile>
-          <Content>It was the Singularity of L Corp, although the process was different…</Content>
+          <Content>มันก็มี ซิงกูลาริตี้ ของ L Corp แม้ว่ากระบวนการจะแตกต่างออกไปก็ตาม…</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela15</VoiceFile>
-          <Content>While L Corp. extracted E.G.O deliberately, Philip must have manifested his thanks to the influence of the White Nights and Dark Days.</Content>
+          <Content>ในขณะที่ L Corp ต้องสกัด E.G.O อย่างรอบคอบ แต่ฟิลิปสามารถสำแดงออกมาเองเลยจากอิทธิพลของ ราตรีสีขาว และทิวาสีดำ</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela16</VoiceFile>
-          <Content>Yeah, I understand somewhat now.</Content>
+          <Content>นั้นแล ฉันแค่เข้าใจบ้างส่วนตอนนี่</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland9</VoiceFile>
-          <Content>Put the brakes on your train of thought for a moment… You mean anyone can just extract powerful equipment like that from their mind, free of charge?</Content>
+          <Content>หยุดเลย เธอจะบอกว่าใครๆ ก็สามารถดึงอุปกรณ์ที่ทรงพลังขนาดนั้นออกมาจากจิตใต้สำนึกได้อย่างงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela17</VoiceFile>
-          <Content>Don’t rush me. This is also my first time seeing it manifest this way.</Content>
+          <Content>อย่าเร่งรัดฉันสิ นี่ก็เป็นครั้งแรกที่ฉันเห็นมันแสดงออกมาด้วยวิธีนี้เหมือนกัน</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela18</VoiceFile>
-          <Content>If you were so curious, you shouldn’t have let him get away.</Content>
+          <Content>หากนายอยากรู้อยากเห็นมาก ทำไมนายถึงปล่อยให้เขาหนีไปได้ล่ะ</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland10</VoiceFile>
-          <Content>Sigh~ I didn’t know that coot would put that kinda device on him… Old Man Oscar’s still not honest to himself.</Content>
+          <Content>เฮ้อ~ ฉันไม่รู้นิว่าไอ้โง่นั้นจะเอาอุปกรณ์แบบนั้นมาใส่… ตาแก่ออสการ์ยังคงไม่ซื่อสัตย์กับตัวเองเหมือนเดิม</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_Wedge_ep1_angela19</VoiceFile>
-          <Content>You seem to have a number of old friends.</Content>
+          <Content>นายดูเหมือนจะมีเพื่อนเก่าหลายคนเลยนะ</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch4_Wedge_ep1_roland11</VoiceFile>
-          <Content>Well, yeah. They’re seasoned veterans with mountains of experience. It’s hard not to run into ‘em at least once or twice as a Fixer, y’know?</Content>
+          <Content>ก็พวกเขาเป็นทหารผ่านศึกที่มากประสบการณ์ มันไม่แปลกเลยที่จะเจอพวกเขาอย่างน้อยหนึ่งหรือสองครั้งในฐานะฟิกเซอร์ เธอเข้าใจใช้ไหม?</Content>
         </Dialog>
       </Place>
     </Episode>

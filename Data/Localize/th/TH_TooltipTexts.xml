@@ -15,44 +15,44 @@
 
   <!--Auto tooltip-->
   
-  <text id="ui_autotooltip_invitation_storyslot_title">Choosing Guests</text>
-  <text id="ui_autotooltip_invitation_storyslot_content">A &#60;color=#ff5622ff&#62;‘Reception’&#60;/color&#62; begins by sending an &#60;color=#ff5622ff&#62;‘Invitation’&#60;/color&#62; to guests whom you want to invite. You’ll want to navigate to the ‘?’ to begin this process.</text>
+  <text id="ui_autotooltip_invitation_storyslot_title">เลือแขกรับเชิญ</text>
+  <text id="ui_autotooltip_invitation_storyslot_content">&#60;color=#ff5622ff&#62;‘การต้อนรับ’&#60;/color&#62;จะเริ่มต้นจากการส่ง&#60;color=#ff5622ff&#62;‘คำเชื้อเชิญ’&#60;/color&#62;ไปให้แขกที่คุณอยากจะเชิญมา. You’ll want to navigate to the ‘?’ to begin this process.</text>
 
-  <text id="ui_autotooltip_invitation_storyslotlevelicon_title">Once Upon a Time</text>
-  <text id="ui_autotooltip_invitation_storyslotlevelicon_content">Select the episode you’d like to play.</text>
+  <text id="ui_autotooltip_invitation_storyslotlevelicon_title">กาลครั้งหนึ่ง</text>
+  <text id="ui_autotooltip_invitation_storyslotlevelicon_content">เลือกตอนที่คุณอยากจะเล่น</text>
 
-  <text id="ui_autotooltip_invitation_invrightdropbookslot_title">Books of the Day</text>
-  <text id="ui_autotooltip_invitation_invrightdropbookslot_content">With this panel, you’ll provide the set of books required to start the episode.</text>
+  <text id="ui_autotooltip_invitation_invrightdropbookslot_title">หนังสือประจำวัน</text>
+  <text id="ui_autotooltip_invitation_invrightdropbookslot_content">หน้าจอนี้จะแสดงให้เห็นว่าต้องใช้ชุดหนังสือที่ต้องการเพื่อทำการเริ่มตอน</text>
 
-  <text id="ui_autotooltip_invitation_invcenterdropbookslot_title">What’s Up for Grabs?</text>
-  <text id="ui_autotooltip_invitation_invcenterdropbookslot_content">This screen shows the list of books currently in the Library’s possession. Select the needed book now.</text>
+  <text id="ui_autotooltip_invitation_invcenterdropbookslot_title">มีอะไรน่าจับไปไหม?</text>
+  <text id="ui_autotooltip_invitation_invcenterdropbookslot_content">หน้าจอนี้จะแสดงให้เห็นถึงรายชื่อของหนังสือที่หอสมุดมีอยู่ โปรดเลือกไปที่หนังสือที่ต้องใช้</text>
 
-  <text id="ui_autotooltip_invitation_sendbutton_title">Sending the Invitation</text>
+  <text id="ui_autotooltip_invitation_sendbutton_title">ส่งคำเชื้อเชิญ</text>
   <text id="ui_autotooltip_invitation_sendbutton_title_pad">Sending the Invitation &#60;sprite index=4&#62;</text>
-  <text id="ui_autotooltip_invitation_sendbutton_content">Continue along with the final preparations for the Invitation.</text>
+  <text id="ui_autotooltip_invitation_sendbutton_content">ดำเนินการต่อไป เป็นขั้นตอนสุดท้ายในการเชิญ</text>
 
-  <text id="ui_autotooltip_invitation_confirmbutton_title">Lick and Stamp</text>
-  <text id="ui_autotooltip_invitation_confirmbutton_content">When you’re ready to send the Invitation, confirm your choice with the ‘Send’ stamp.</text>
+  <text id="ui_autotooltip_invitation_confirmbutton_title">เลียแล้วปั้มแสตม</text>
+  <text id="ui_autotooltip_invitation_confirmbutton_content">เมื่อคุณพร้อมที่จะส่งบัตรเชิญแล้ว กดไปที่แสตม‘ส่ง’เพื่อดำเนินการต่อ</text>
 
   <!-- Before battle -->
-  <text id="ui_autotooltip_before_battle_character_title">Librarian Info</text>
-  <text id="ui_autotooltip_before_battle_character_content">Up here, you can see some bare information about the librarians who will participate in the &#60;color=#ff5622ff&#62;‘Reception’&#60;/color&#62;.</text>
+  <text id="ui_autotooltip_before_battle_character_title">ข้อมูลบรรณารักษ์</text>
+  <text id="ui_autotooltip_before_battle_character_content">ช่องบนนี้ คุณจะเห็นบรรณารักษ์ที่จะเข้าร่วมใน&#60;color=#ff5622ff&#62;‘การต้อนรับ’&#60;/color&#62;ครั้งนี้</text>
 
-  <text id="ui_autotooltip_before_battle_detail_title">Detailed Info</text>
-  <text id="ui_autotooltip_before_battle_detail_content">In this section, you can view detailed information about the selected character.</text>
+  <text id="ui_autotooltip_before_battle_detail_title">ข้อมูลโดยละเอียด</text>
+  <text id="ui_autotooltip_before_battle_detail_content">ช่องกลางนี้ จะแสดงข้อมูลของตัวละครที่คุณเลือก</text>
 
   <text id="ui_autotooltip_before_battle_card_title">Combat Pages</text>
-  <text id="ui_autotooltip_before_battle_card_content">Underneath, you can check the list of Combat Pages (cards) the selected character will use in the &#60;color=#ff5622ff&#62;‘Reception’&#60;/color&#62;.</text>
+  <text id="ui_autotooltip_before_battle_card_content">ช่องล่างนี้ จะแสดงเด็ค Combat Pages(การ์ด) ของตัวละครที่คุณเลือก ตัวละครที่คุณเลือกจะทำการใช้สิ่งนี้ใน&#60;color=#ff5622ff&#62;‘การต้อนรับ’&#60;/color&#62;ครั้งนี้</text>
 
-  <text id="ui_autotooltip_before_battle_enemy_title">All the Details</text>
-  <text id="ui_autotooltip_before_battle_enemy_content">Info on the guests that have accepted the Invitation to the Library is shown here.</text>
+  <text id="ui_autotooltip_before_battle_enemy_title">ข้อมูลทั้งหมด</text>
+  <text id="ui_autotooltip_before_battle_enemy_content">ข้อมูลของแขกที่ตอบรับคำเชิญของห้องสมุดจะแสดงให้เห็นบนนี้</text>
 
-  <text id="ui_autotooltip_before_battle_start_title">Lights, Camera, Action!</text>
-  <text id="ui_autotooltip_before_battle_start_content">Select this bar (or press the relevant button) to start the battle when you have finished reviewing all available information.</text>
+  <text id="ui_autotooltip_before_battle_start_title">แสงพร้อม, กล้องพร้อม, แอคชั่น!</text>
+  <text id="ui_autotooltip_before_battle_start_content">กดที่ปุ่มนี้ เพื่อทำการเริ่มต่อสู้เมื่อคุณดูข้อมูลทั้งหมดแล้ว</text>
 
 
   <!-- after battle -->
-  <text id="ui_autotooltip_after_battle_book_title">Spoils of Battle</text>
+  <text id="ui_autotooltip_after_battle_book_title">ของเหลือจากการต่อสู้</text>
   <text id="ui_autotooltip_after_battle_book_content">You can check the books you have obtained from the &#60;color=#ff5622ff&#62;‘Reception’&#60;/color&#62; here.
 If you have failed the Reception, this part will show the books you have lost instead.</text>
 

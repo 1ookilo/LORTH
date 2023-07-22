@@ -3,117 +3,117 @@
   <GroupName>PupleTear</GroupName>
   <Character ID="PupleTear">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Well, then… Shall I test your skills?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">I wonder how big the Library has gotten.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Since we have the time, let’s slowly warm up.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ถ้าอย่างนั้น… ฉันจะขอทดสอบทักษะของคุณได้ไหม?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ฉันสงสัยว่าห้องสมุดนี้มีขนาดใหญ่แค่ไหนกัน</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">เรามีเวลาเหลือเฟือ งั้นมาค่อยๆ อุ่นเครื่องกันดีกว่า</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I was hoping for more, but I guess you weren’t at that point yet…</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">That was pretty fun. Buuut… I guess you aren’t quite there yet.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ฉันหวังไว้มากกว่านี้นะ คุณคงยังไม่ถึงจุดนั้น…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">มันค่อนข้างจะสนุก แต่… ฉันคิดคุณคงไม่รู้สึกแบบนั้น</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Good… You’re growing strong, slowly but steadily.</BattleDialog>
+      <BattleDialog ID="DEATH_0">เยี่ยม… พวกนายกำลังเติบโตอย่างแข็งแกร่งแบบช้าๆ แต่มั่นคง</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">You still haven’t figured yourself out, have you?</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Hm, that was below my expectations.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">You’ve done an excellent job holding out against me for so long. Too bad, though.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_3">You should be better prepared the next time we meet, kid?</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_4">You’re pretty good. It’s been a long time since I got so much pressure in a fight.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_5">My, and you sounded so confident… Is this really the best you could do?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">นายคงยังไม่เข้าใจความสามารถตัวเองใช่ไหม?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">หืม นั่นต่ำกว่าความคาดหวังของฉันนะ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">นายทำผลงานได้ดีมากในการต่อสู้ยื้อกับฉันนะ แต่ ช่างน่าเสียดาย</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">ถ้าเจอกันครั้งหน้าควรเตรียมตัวให้ดีกว่านี้นะ ไอหนู?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">นายค่อนข้างดีเลยละ นานแล้วนะที่ที่ฉันได้เจอการโดนกดดันในการต่อสู้นะ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_5">ฉันมั่นใจในตัวนายมาก… แต่นี่เป็นสิ่งที่ดีที่สุดที่นายสามารถทำได้จริงหรือ?</BattleDialog>
     </Type>
   </Character>
   <Character ID="PupleTear_MeetBinah">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Well… It’s no surprise that you’re here.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">I’ve seen you a few times before, so…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">อืม… ไม่แปลกใจเลยละ ที่เธอมาอยู่ที่นี่.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ฉันเคยเห็นเธอมาไม่กี่ครั้ง ดังนั้น…</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Even with a being like that, there was no difference.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">แม้จะเป็นแบบนั้นแท้ๆ แต่ก็ไม่เห็นความแตกต่าง</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Haha… Interesting for sure…</BattleDialog>
+      <BattleDialog ID="DEATH_0">ฮ่าๆ… มันน่าสนใจอย่างแน่นอน…</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">I thought things would be different this time.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">ฉันคิดว่าสิ่งต่างๆ จะแตกต่างออกไปในครั้งนี้</BattleDialog>
     </Type>
   </Character>
   <Character ID="PupleTear_MeetGebura">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">I can’t really consider you to be the same being that Kali was, can I?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Let’s see if you remember my teachings… Care to show me?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ฉันไม่แน่ใจ เธอเป็นคนเดียวกันกับกาลีงั้นเหรอ?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">มาดูกันว่าคุณจำคำสอนของฉันอยู่ได้ไหม… สนใจมาแสดงให้ฉันเห็นไหมละ?</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Kali. Your pupils were certainly a bit tricky to deal with.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">กาลี เป็นนักเรียนที่ค่อนข้างจัดการได้ยากเลยละ</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">You remember it well…</BattleDialog>
+      <BattleDialog ID="DEATH_0">คุณยังจำมันได้ เยี่ยม…</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">Figured your strength wouldn’t be the same as before…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">ฉันคิดว่าความแข็งแกร่งของเธอจะเปลี่ยนไปนะ…</BattleDialog>
     </Type>
   </Character>
   <Character ID="PupleTear_MeetRoland">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Uh-uh, stay still, and don’t peep a word.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">You’re doing pretty alright, I see.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">เอ่อ อยู่เงียบๆ และอย่าพูดอะไรสักคำ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">นายทำได้ดีมาก ฉันเข้าใจแล้ว</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Was that really your best?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">นายทำได้ดีที่สุดแล้วเหรอ?</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">…Yeah. You’ve shown me that sending you here was worth my while.</BattleDialog>
+      <BattleDialog ID="DEATH_0">…ใช่ นายแสดงให้ฉันเห็นแล้วว่าการส่งนายมาที่นี่ก็คุ้มค่ากับการเสียเวลาของฉัน</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">C’mon, now… You’ve gotten a lot softer.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">ไม่เอาน่า… นายควรที่จะนุ่มนวลกว่านี้นะ</BattleDialog>
     </Type>
   </Character>
   <Character ID="Binah_MeetPupleTear">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Indeed. I know of you as well.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">แน่นอน ฉันก็รู้จักคุณเช่นกัน</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">As expected… I cannot help but be astonished.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">ตามที่คาดไว้… ฉันอดใจไม่ได้เลยที่จะประหลาดใจ</BattleDialog>
     </Type>
     <Type ID="DEATH">
       <BattleDialog ID="DEATH_0">…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Her prowess was simply too great for you to endure.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Tis alright. Be relieved in your rest.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">You held out for an impressive duration, still.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">พลังของเธอนั้นยอดเยี่ยมเกินกว่าที่นายจะทนได้นะ</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">ไม่เป็นไร ก็แค่ผ่อนคลายและพักผ่อน</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">คุณคงอยู่ในช่วงเวลาของการต่อสู้ที่น่าประทับใจ</BattleDialog>
     </Type>
   </Character>
   <Character ID="Gebura_MeetPupleTear">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">…I won’t bother saying pointless stuff.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">…ฉันจะไม่พูดอะไรที่มันไร้สาระ และไม่มีจุดหมายหรอก</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
       <BattleDialog ID="SPECIAL_EVENT_0">…</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">…She’s strong. And something about her is similar to me…</BattleDialog>
+      <BattleDialog ID="DEATH_0">…เธอแข็งแกร่งมาก และมีบางอย่างเกี่ยวกับเธอที่คล้ายกับฉัน…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">The rest of you can bear this for longer, right?</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">…A Color isn’t all that different.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">Don’t get impatient. You’ll only make more mistakes that way.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">พวกนายที่เหลือ สามารถทนได้นานกว่านี้ ไหม?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">…ระดับสี ก็ไม่ต่างกันทั้งหมดหรอก</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">อย่าพึ่งใจร้อน นายจะมีแต่ทำผิดพลาดมากขึ้นเท่านั้น</BattleDialog>
     </Type>
   </Character>
   <Character ID="Roland_MeetPupleTear">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">…Hah.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">…ฮ่า</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">…If you came here to see me ‘cause you were worried, it was wasted effort.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">…ถ้าเธอมาที่นี่เพื่อพบผมเพราะความกังวล มันก็แค่เสียความพยายามไปเปล่าๆ</BattleDialog>
     </Type>
     <Type ID="DEATH">
       <BattleDialog ID="DEATH_0">…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">…Don’t be discouraged.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…อย่าพึ่งท้อแท้</BattleDialog>
       <BattleDialog ID="COLLEAGUE_DEATH_1">…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">Let’s push on.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">มาผลักดันกันเถอะ</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>

@@ -3,24 +3,24 @@
   <GroupName>Olivier</GroupName>
   <Character ID="Hana_Olivier">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Our past ties have finally led us here, Roland.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ความความสัมพันธ์ในอดีตได้นำเรามาให้พบกันอีกครั้ง โรแลนด์</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">To meet my death by the blade of a friend…</BattleDialog>
+      <BattleDialog ID="DEATH_0">ฉันพบกับความตาย ด้วยดาบของเพื่อนฉันเอง…</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">…I hope you at least realize what you’ve done.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">…ฉันหวังว่านายจะตระหนักถึงสิ่งที่นายได้ทำลงไปนะ</BattleDialog>
     </Type>
   </Character>
   <Character ID="Hana_Olivier_Roand">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Yep. After all that’s happened… This day has come.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ใช่แล้วละ หลังจากเรื่องทั้งหมดที่เกิดขึ้น… และวันนี้ก็ได้มาถึง</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">…It does upset me.</BattleDialog>
+      <BattleDialog ID="DEATH_0">…มันทำให้รู้สึกผิดคาดเลยละ</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Thanks for everything. And…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ขอบคุณสำหรับทุกอย่าง และ…</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>
