@@ -137,7 +137,7 @@ Stagger ทั้งหมดจะเปลี่ยนเป็น "อ่อ�
 </PassiveDesc>
 <PassiveDesc ID="303012">
 <Name>ได้เวลาออกล่า</Name>
-<Desc>Become active and target foes for two Scenes after an ally dies.</Desc>
+<Desc>หลังจากพันธมิตรตาย จะเริ่มตอบโต้เป็นเวลาสองเทิร์น</Desc>
 </PassiveDesc>
 <!-- 거미봉오리 -->
 <PassiveDesc ID="303021">
@@ -157,71 +157,94 @@ Stagger ทั้งหมดจะเปลี่ยนเป็น "อ่อ�
 </PassiveDesc>
 <PassiveDesc ID="403013">
 <Name>ความสุขที่เกินต้าน</Name>
-<Desc>At the start of each Scene, characters restore 1 Light for each page of 'Pleasure' in their hand. On hit, if the target has three pages of 'Pleasure', deal 20 damage and exhaust those pages.</Desc>
+<Desc>เมื่อเริ่มต้นในแต่ละฉาก แต่ละตัวละครจะฟื้น 1 แสงต่อจำนวน "Pleasure" ในมือ
+เมื่อโจมตี หากเป้าหมาายมี "Pleasure" 3 ใบ ทำดาเมจ 20 ดาเมจ
+และสลาย Page ดังกล่าว</Desc>
 </PassiveDesc>
 
 	<!-- 노래하는 기계 -->
 	<PassiveDesc ID="203011">
 		<Name>เครื่องจักร์ที่ร้องเพลงได้</Name>
-		<Desc>Cannot be targeted. Does not act. Takes no damage.</Desc>
+		<Desc>ไม่สามารถถูกเลือกเป้าได้ ไม่มีการโจมตี ไม่รับดาเมจ</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="203012">
 		<Name>การแสดง</Name>
-		<Desc>On the Scene after 'I CRAVE that Melody!' is activated, plays music using the character in the machine. The character takes damage equal to 30% of their Max HP and is excluded from battle for that Scene. While the music is playing, all characters gain 5 Strength and all Stagger damage resistances change to 'Fatal'.</Desc>
+		<Desc>ฉากหลังจาก "ฉันต้องได้ฟังเพลงบรรเลงนั้น!!!" ทำงาน
+		เล่นเพลงโดยใช้ตัวละครที่ยู่ในนั้น
+		ตัวละครดังกล่าวได้รับดาเมจ 30% ของ HP สูงสุด
+		และถูกเอาออกจากการต่อสู้ในฉากนั้น
+		ขณะที่ดนตรีบรรเลงอยู่ ทุกตัวละครได้รับกำลัง 5 จำนวน
+		และความต้านทาน Stagger เปลี่ยนเป็น "ร้ายแรง"</Desc>
 	</PassiveDesc>
 <PassiveDesc ID="203021">
 <Name>ฉันต้องได้ฟังเพลงบรรเลงนั้น!!!</Name>
-<Desc>Starting with the third Scene: every four Scenes, gain an extra Speed die, and use a different set of Combat Pages. If Staggered while this is active, gets put into the machine at the start of the next Scene.</Desc>
+<Desc>เริ่มทำงานในฉากที่สาม; ทุกๆ สี่ฉาก
+ได้รับลูกเต๋าความเร็วเพิ่ม และใช้ Combat Pages ชุดใหม่
+หาก Staggered โดยเอฟเฟคนี้ทำงาน จะถูกยัดเข้าเครื่องจักร
+ในฉากถัดไป</Desc>
 </PassiveDesc>
 
 <!-- 증오의 여왕 -->
 <PassiveDesc ID="501011">
 <Name>เปลี่ยนผันที่เงาร้าย</Name>
-<Desc>When the Hysteria gauge is filled, transform. The Hysteria gauge rises upon losing clashes or being attacked by marked characters, and decreases upon winning clashes or attacking marked characters. The screen pinkens from left to right as the gauge fills.
-At the end of the Scene, restore all Light and draw 2 pages.</Desc>
+<Desc>เมื่อหลอดฮิลทีเรียเต็ม จะแปลงร่าง
+หลอดฮิสทีเรียจะเพิ่มเมื่อแพ้การปะทะหรือถูกโจมตีโดยตัวละครที่ถูกทำเครื่องหมาย
+และจะลดลงเมื่อชนะการปะทะหรือโจมตีตัวละครที่ถูกทำเครื่องหมาย
+หลอดฮิสทีเรียจะเปลี่ยนเป็นสีชมพูตามฉากหลัง
+เมื่อจบฉาก ฟื้นฟูแสงทั้งหมดและจั่ว 2 Page</Desc>
 </PassiveDesc>
 <PassiveDesc ID="501012">
 <Name>ในนามของความเกลียดชัง</Name>
-<Desc>Uses a page that leaves a "mark" on the target every 2 Scenes. All resistances on the marked character change to "Weak", and the character will be primarily targeted by the Abnormality.</Desc>
+<Desc>ใช้ Page ที่จะมอบ "ถูกทำเครื่องหมาย" ใส่เป้าหมายทุกๆ 2 ฉาก
+ความทนทานของตัวละครดังกล่าวจะเปลี่ยนเป็น "อ่อนแอ" และจะถูกเล็งโดย
+Abnormality เป็นเป้าหมายหลัก</Desc>
 </PassiveDesc>
 <PassiveDesc ID="501013">
 <Name>Arcana Slave</Name>
-<Desc>Uses a Mass Attack page that targets all librarians every 4 Scenes. If the Abnormality uses the page while transformed, it becomes Staggered on the following Scene.</Desc>
+<Desc>ใช้ Page โจมตีหมู่ในทุกๆ 4 ฉาก หาก Abnormality ใช้ Page ในขณะที่แปลงร่าง
+มันจะ Staggered ในฉากถัดไป</Desc>
 </PassiveDesc>
 
 <!-- 절망의 기사 본체-->
 <PassiveDesc ID="502011">
-<Name>ภักดัพิทักษ์ตน</Name>
-<Desc>Cannot be targeted. Does not act.</Desc>
+<Name>ภักดีพิทักษ์ตน</Name>
+<Desc>ไม่สามารถถูกเลือกเป้าได้ ไม่มีการโจมตี</Desc>
 </PassiveDesc>
 <PassiveDesc ID="502012">
 <Name>ความโศกเศร้า</Name>
-<Desc>Give Tears to a random sword every 3 Scenes. If the character is Staggered, activates the Scene after.</Desc>
+<Desc>สุ่มมอบน้ำตาให้กับดาบเล่มหนึ่งในทุกๆ 3 ฉาก
+หากตัวละคร Staggered จะเริ่มทำงานในฉากถัดไป</Desc>
 </PassiveDesc>
 <PassiveDesc ID="502013">
 <Name>ความสิ้นหวัง</Name>
-<Desc>When a sword with Tears takes lethal damage, falls into Despair next Scene.</Desc>
+<Desc>เมื่อดาบที่มีน้ำตาได้รับดาเมจถึงตาย
+จะตกสู่ความสิ้นหวังในฉากถัดไป</Desc>
 </PassiveDesc>
 <PassiveDesc ID="502014">
 <Name>การอวยพรแห่งความสิ้นหวัง</Name>
-<Desc>When the Abnormality falls into Despair, all swords fully recover HP and Stagger Resist, and use special Combat Pages.</Desc>
+<Desc>เมื่อ Abnormality ตกสู่ความสิ้นหวัง
+ดาบทั้งหมดจะฟื้น HP และ Stagger Resist ทังหมด
+และใช้ Combat Pages พิเศษ</Desc>
 </PassiveDesc>
 <PassiveDesc ID="502015">
 <Name>หัวใจแตกสลาย</Name>
-<Desc>If all swords impale the Abnormality in Despair state, become Staggered and targetable next Scene.</Desc>
+<Desc>หากดาบทั้งหมดแทง Abnormality ในสถานะสิ้นหวัง
+จะ Staggered และสามารถถูกโจมตีได้ในฉากถัดไป</Desc>
 </PassiveDesc>
 <!-- 절망의 기사 칼 -->
 <PassiveDesc ID="502021">
 <Name>น้ำตา</Name>
-<Desc>Gain a Speed die, use special pages, and change resistances while under the effect of Tears.</Desc>
+<Desc>ได้รับลูกเต๋าความเร็วเพิ่ม ใช้ Pages พิเศษ
+และจะเปลี่ยนค่าความทนทานเมื่อมีสถานะน้ำตา</Desc>
 </PassiveDesc>
 <PassiveDesc ID="502022">
 <Name>พักผ่อน</Name>
-<Desc>Enter a state of suspension upon taking lethal damage. Revives after two Scenes.</Desc>
+<Desc>จะหมดสภาพต่อสู้เมื่อรับดาเมจถึงตาย ฟื้นกลับมาเมื่อครบสองฉาก</Desc>
 </PassiveDesc>
 <PassiveDesc ID="502023">
 <Name>ดาบทะลวงความสิ้นหวัง</Name>
-<Desc>If this fails to deal any damage to its target while in Despair state, the sword will impale the Knight of Despair, dealing damage to her.</Desc>
+<Desc>หากไม่สามารถทำดาเมจได้ในขณะที่อยู่ในสถานะสิ้นหวัง
+ดาบจะแทงใส่ Knight of Despair และทำดาเมจใส่เธอ</Desc>
 </PassiveDesc>
 
 <!-- 여왕벌 -->
@@ -772,41 +795,41 @@ If the character did not use the page for 3 Scenes after shapeshifting, it will 
 
 <!--잭-->
 <PassiveDesc ID="704021">
-<Name>Stolen Power</Name>
+<Name>พลังที่ขโมยมา</Name>
 <Desc>Uses the Combat Pages of the librarian with Oblivion.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="704022">
-<Name>Who’s the Real Deal?</Name>
+<Name>อันไหนล่ะของจริง</Name>
 <Desc>Only one of the Jacks that awaken is real; the rest are fakes.
 Whenever a librarian with Oblivion hits the real Jack, it gives back a Combat Page that was stolen from them.
 The screen blinks when the real Jack is hit.</Desc>
 </PassiveDesc>
  <PassiveDesc ID="704023">
-<Name>Steal or be Stolen</Name>
+<Name>ขโมย หรือจะถูกขโมย</Name>
 <Desc>After the librarian with Oblivion hits the real Jack 9 times, all Jacks die.
 If the condition isn't fulfilled within 3 Scenes of Oblivion being applied, the librarian with the status is turned into a pumpkin next Scene.
 Afterwards, the real Jack transforms into 'Jack Revived', and permanently uses the Key page and Combat Pages of the librarian that had Oblivion.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="704024">
-<Name>Fragment of the South</Name>
+<Name>เศษเสี้ยวจากทางใต้</Name>
 <Desc>Gains 2 Strength every Scene</Desc>
 </PassiveDesc>
 <PassiveDesc ID="704025">
-<Name>Fragment of the West</Name>
+<Name>เศษเสี้ยวจากทางตะวันตก</Name>
 <Desc>Gains 2 Endurance every Scene</Desc>
 </PassiveDesc>
 <PassiveDesc ID="704026">
-<Name>Fragment of the North</Name>
+<Name>เศษเสี้ยวจากทางเหนือ</Name>
 <Desc>Gains 1 Haste every Scene</Desc>
 </PassiveDesc>
 <PassiveDesc ID="704027">
-<Name>Fragment of the East</Name>
+<Name>เศษเสี้ยวจากทางตะวันออก</Name>
 <Desc>Gains a buff that increases Stagger damage by 3 every Scene</Desc>
 </PassiveDesc>
 
 <!--되살아난 잭-->
 <PassiveDesc ID="704031">
-<Name>All Mine!</Name>
+<Name>ทั้งหมดเป็นของฉัน!!!</Name>
 <Desc>Uses the Key page and Combat Pages of the librarian that has turned into a pumpkin.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="704032">
@@ -815,7 +838,7 @@ Afterwards, the real Jack transforms into 'Jack Revived', and permanently uses t
 </PassiveDesc>
 <!--기억을 잃은 호박-->
 <PassiveDesc ID="704041">
-<Name>Lost Memories</Name>
+<Name>เสียความทรงจำ</Name>
 <Desc>All Combat Pages change to unique ones. All stats change. Other passive abilities of this character will not activate.</Desc>
 </PassiveDesc>
 
@@ -825,7 +848,7 @@ Afterwards, the real Jack transforms into 'Jack Revived', and permanently uses t
 <Desc>Cannot be targeted. Immune to status ailments.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="903012">
-<Name>Sound of a Star</Name>
+<Name>เสียงของดวงดาว</Name>
 <Desc>Starting with the third Scene, the Shrine to the Blue Star uses a Mass Attack page every 3 Scenes.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="903013">
@@ -843,7 +866,7 @@ Afterwards, the real Jack transforms into 'Jack Revived', and permanently uses t
 
 <!--푸른별의 신도-->
 <PassiveDesc ID="903021">
-<Name>I Can Hear the Sound of the Star!!</Name>
+<Name>ฉันได้ยินมัน!! เสียงของดวงดาวน่ะ!!</Name>
 <Desc>Uses a special Combat Page on the Scene when the Shrine to the Blue Star uses a Mass Attack page. If the character's Stagger Resist is 40% or lower, instead uses a page that causes the character to self-destruct.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="903022">

@@ -550,7 +550,7 @@
           <Content>ข่มใจตัวเองหน่อย จงจำเอาไว้ อำนาจ ยศถา และเงินตรานั้นครองทุกสิ่งในโลกใบนี้</Content>
         </Dialog>
         <Dialog ID="2" Model="발렌틴">
-			<Teller>วาเลนทิน</Teller>
+	<Teller>วาเลนทิน</Teller>
 			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin2-01</VoiceFile>
           <Content>ถึงแม้เขาจะเป็นถึงระดับสี แต่นั่นก็ไม่ใช่ข้ออ้างที่จะให้พวกฟิกเซอร์ที่ไม่ได้อยู่สมาพันธ์เดียวกับเรามาออกคำสั่งให้นะครับ</Content>
@@ -1707,1299 +1707,1299 @@ This train is operating as intended.</Content>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: TV Screen</PlaceName>
+        <PlaceName>สถานที่: หน้าจอทีวี</PlaceName>
         <Dialog ID="0" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald1</VoiceFile>
-          <Content>…you enjoy today’s show?</Content>
+          <Content>…พวกคุณชื่นชอบโชว์ในวันนี้หรือเปล่า?</Content>
         </Dialog>
         <Dialog ID="1" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald2</VoiceFile>
-          <Content>Laugh to your heart’s content at the end of a weary life, and maybe you could have a good eternity’s sleep!</Content>
+          <Content>ถ้าคุณหัวเราะกันจนท้องแข็งแล้วตายไป บางทีคุณอาจจะหลับฝันดีก็ได้นะ!</Content>
         </Dialog>
         <Dialog ID="2" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald3</VoiceFile>
-          <Content>You never know, regular viewers of ours might get the chance to come on our stage in person!</Content>
+          <Content>ใครจะไปรู้ คุณผู้ชมทางบ้านเองก็อาจจะมีโอกาสได้มาเล่นกับพวกเราแบบตัวเป็นๆก็ได้!</Content>
         </Dialog>
         <Dialog ID="3" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald4</VoiceFile>
-          <Content>It would be so delightful to join me on this stage, wouldn’t it?!</Content>
+          <Content>มันคงจะวิเศษมากๆแน่เลยที่จะมีคนมาแสดงบนนี้กับผมด้วย จริงไหมครับ?!</Content>
         </Dialog>
         <Dialog ID="4" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald5</VoiceFile>
-          <Content>We’ll be back at the same time tomorrow to bring you even more laughter.</Content>
+          <Content>แล้วพบกันใหม่พรุ่งนี้ที่เดิม  เวลาเดิมพร้อมมอบเสียงหัวเราะให้กับคุณอีก</Content>
         </Dialog>
         <Dialog ID="5" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald6</VoiceFile>
-          <Content>Nail your heads, everyone, and have a bloomy splodey night~!</Content>
+          <Content>ขอให้ทุกคนตรึงหัวไว้ แล้วพบกันใหม่ โรยรากันอย่างเบิกบานนะคร้าบ~!</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Deep in a Mountain Trail</PlaceName>
+        <PlaceName>สถานที่: ลึกลงไปในทางภูเขา</PlaceName>
         <Dialog ID="6" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah1</VoiceFile>
-          <Content>Sigh…</Content>
+          <Content>เฮ้อ…</Content>
         </Dialog>
         <Dialog ID="7" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma1</VoiceFile>
-          <Content>Still bothered by what your boss said?</Content>
+          <Content>ยังคิดมากเรื่องที่หัวหน้าพูดอยู่อีกหรอ?</Content>
         </Dialog>
         <Dialog ID="8" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah2</VoiceFile>
-          <Content>How could I not be? I’m sick of nitpicks like that already…</Content>
+          <Content>ฉันจะไม่คิดมากได้ไง? ฉันยิ่งเกลียดพวกจู้จี้จุกจิกแบบนั้นอยู่…</Content>
         </Dialog>
         <Dialog ID="9" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma2</VoiceFile>
-          <Content>Can’t help it. We did make an error…</Content>
+          <Content>ช่วยไม่ได้นี่นา ก็พวกเราทำพลาดกันเองr…</Content>
         </Dialog>
         <Dialog ID="10" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah3</VoiceFile>
-          <Content>Think about it, though. Of all the screens, it had to be the one in the farthest corner… And it happened in the darkest nook-cranny at the edge!</Content>
+          <Content>ก็ลองคิดดูสิ มันมีตั้งหลายจอ แต่ดันเกิดกับจอที่ไกลที่สุด… แถมยังเป็นมุมมืดซะด้วย!</Content>
         </Dialog>
         <Dialog ID="11" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah4</VoiceFile>
-          <Content>We can’t possibly check them all with just a measly pair of eyes…</Content>
+          <Content>เราจะเช็คพวกมันทั้งหมดด้วยตาคู่นี้ของเราได้ไงกัน…</Content>
         </Dialog>
         <Dialog ID="12" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma3</VoiceFile>
-          <Content>And that’s why you asked me to go for a walk all the way out here?</Content>
+          <Content>งั้นเพราะอย่างงี้ นายเลยชวนฉันให้มาเดินเล่นข้างนอกเป็นเพื่อนด้วยสินะ?</Content>
         </Dialog>
         <Dialog ID="13" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah5</VoiceFile>
-          <Content>Well, I needed to clear my thoughts. And you’re the only other smoker in our department.</Content>
+          <Content>ก็นะ ฉันต้องการสงบอารมณ์ซักหน่อย แถมนายเองก็เป็นอีกคนเดียวที่สูบบุหรี่ในแผนกของเรา</Content>
         </Dialog>
         <Dialog ID="14" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma4</VoiceFile>
-          <Content>Aaaand, we’re lost in the woods now?</Content>
+          <Content>ฮึ งี้เราก็หลงป่าแล้วสิ?</Content>
         </Dialog>
         <Dialog ID="15" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah6</VoiceFile>
-          <Content>…You didn’t have to point that out.</Content>
+          <Content>…ไม่ต้องบอกก็รู้อยู่</Content>
         </Dialog>
         <Dialog ID="16" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma5</VoiceFile>
-          <Content>You can beat around the bush all you want, but you can’t hide anything from a friend of five years, no?</Content>
+          <Content>ถึงนายจะพยายามเก็บอะไรเอาไว้ แต่นายน่ะซ่อนอะไรไม่ได้ต่อหน้าคนที่เป็นเพื่อนนายตั้ง5ปีหรอกนะ?</Content>
         </Dialog>
         <Dialog ID="17" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma6</VoiceFile>
-          <Content>Let’s peep at this in a positive light. We’ll find a way if we keep walking. Besides, it’s been a while since we were in a nice, open area like this.</Content>
+          <Content>ลองคิดในแง่บวกดู เดี๋ยวเราก็หาทางออกกันได้เองถ้าเราเดินต่อไปเรื่อยๆ แถมมันก็นานมาแล้วที่พวกเราได้ออกมาเดินในที่โล่งดีๆแบบนี้</Content>
         </Dialog>
         <Dialog ID="18" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah7</VoiceFile>
-          <Content>We’re surrounded by trees, though…</Content>
+          <Content>แต่รอบๆเรามีแต่ต้นไม้นะ…</Content>
         </Dialog>
         <Dialog ID="19" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma7</VoiceFile>
-          <Content>Now remind me again whose fault is it that we got lost?</Content>
+          <Content>แล้วคิดว่าใครทำให้เราหลงล่ะ?</Content>
         </Dialog>
         <Dialog ID="20" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah8</VoiceFile>
-          <Content>…Yeah, sorry.</Content>
+          <Content>…เออ ขอโทษด้วยละกัน</Content>
         </Dialog>
         <Dialog ID="21" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah9</VoiceFile>
-          <Content>What the hell? I swear I was following the footpath right… And I don’t see anything like a trail anymore.</Content>
+          <Content>อะไรกันวะเนี้ย? สาบานเลยว่าฉันเดินตามรอยมานะ แต่ตอนนี้กลับไม่เห็นทางเดินอะไรเลย</Content>
         </Dialog>
         <Dialog ID="22" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma8</VoiceFile>
-          <Content>It’s nighttime. Maybe you got in the wrong direction ‘cause of the dark.</Content>
+          <Content>ตอนนี้น่ะเป็นตอนกลางคืน นายเองอาจจะมองทางผิดเพราะมันมืดก็ได้นะ</Content>
         </Dialog>
         <Dialog ID="23" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah10</VoiceFile>
-          <Content>Oh, whatever! Regular maintenance is ending in an hour… We’re not gonna be back in time at this rate.</Content>
+          <Content>โอ้ย ชั่งแม่งแล้ว! การบำรุงรักษาประจำกำลังจะจบในอีกชั่วโมง เราไม่มีทางกลับไปทันแน่</Content>
         </Dialog>
         <Dialog ID="24" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma9</VoiceFile>
-          <Content>What’s the worst that could happen, getting fired?</Content>
+          <Content>อย่างมาก เราก็แค่โดนไล่ออกแค่นั้น</Content>
         </Dialog>
         <Dialog ID="25" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah11</VoiceFile>
-          <Content>Don’t say vicious stuff like that even as a joke! You won’t have to worry about money even if you catch the pink slip, Emma, but I’m not you.</Content>
+          <Content>อย่ามาพูดบ้าๆนะเอ็มม่า ถึงนายโดนเด้งไป นายเองก็ไม่ต้องกังวลเรื่องเงินอยู่แล้ว แต่ไม่ใช่กับฉัน</Content>
         </Dialog>
         <Dialog ID="26" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah12</VoiceFile>
-          <Content>You know what, nevermind… You saw how furious the chief got, yeah?</Content>
+          <Content>รู้อะไรไหม ช่างมันเถอะ นายเห็นไหมว่าหัวหน้าโกรธแค่ไหน?</Content>
         </Dialog>
         <Dialog ID="27" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah13</VoiceFile>
-          <Content>If they were that mad, then they might be preparing documents to fire me already. Or worse, my post could be long gone by the time I get back there…</Content>
+          <Content>ถ้าพวกเขาโกรธขนาดนั้น เขาอาจจะเตรียมเอกสารไล่ฉันออกแล้วก็ได้ หรือไม่ก็ไม่มีที่ๆฉันอยู่ได้อีกแล้ว…</Content>
         </Dialog>
         <Dialog ID="28" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma10</VoiceFile>
-          <Content>You can always ask me for help, remember? I told you I can help you reach your dreams.</Content>
+          <Content>ลืมไปแล้วหรอ? ว่านายขอให้ฉันช่วยก็ได้ ฉันจะช่วยทำให้ความฝันของนายเป็นจริงเอง</Content>
         </Dialog>
         <Dialog ID="29" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma11</VoiceFile>
-          <Content>There are things you’re much better at than staring at boring screens all day. Something you have the talent for!</Content>
+          <Content>มีอะไรตั้งหลายอย่างที่นายทำได้นอกจากนั่งมองหน้าจอเบื่อๆไปทั้งวัน บางอย่างที่นายมีพรสวรรค์ฃ!</Content>
         </Dialog>
         <Dialog ID="30" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah14</VoiceFile>
-          <Content>Yeah, yeah~ You’re moving me to tears, buddy o’ pal o’ mine, but I’m not interested in being a doll for the rich to play with~</Content>
+          <Content>คร้าบ คร้าบ~ ซึ้งใจชิบหายเพื่อนรักเพื่อนเลิฟของฉัน แต่ฉันไม่สนใจไปเป็นตุ๊กตาให้ไอ้พวกคนรวยเล่นหรอก~</Content>
         </Dialog>
         <Dialog ID="31" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah15</VoiceFile>
-          <Content>And I scrapped my dreams ages ag— …Hey! What’s up, stopping like a car before a deer… That’s dangerous, man.</Content>
+          <Content>แถมฉันยังทิ้งความฝันไปตั้— …เฮ้ย! เป็นอะไร ยืนอึ้งยังกับเห็นผีแหนะ… มันอันตรายนะเฮ้ย</Content>
         </Dialog>
         <Dialog ID="32" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma12</VoiceFile>
-          <Content>Hey Noah, doesn’t that thing over there… look like a tent?</Content>
+          <Content>โนอาห์ ไอ้นั้นมัน… เหมือนจะเป็นเต๊นท์ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="33" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah16</VoiceFile>
-          <Content>What? …Huh, it really does. Did someone set up a camp or something?</Content>
+          <Content>ฮะ? …จริงแฮะ มีใครมาตั้งแคมป์แถวนี่รึไง?</Content>
         </Dialog>
         <Dialog ID="34" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma13</VoiceFile>
-          <Content>There might be someone living in there. Let’s check it out.</Content>
+          <Content>อาจจะมีใครอยู่แถวนั้นก็ได้ รีบไปหาเขากันเถอะ</Content>
         </Dialog>
         <Dialog ID="35" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah17</VoiceFile>
-          <Content>I’m nervous… You sure you wanna go there?</Content>
+          <Content>ฉันเกร็งจัง… นี่นายอยากจะไปจริงๆหรอ?</Content>
         </Dialog>
         <Dialog ID="36" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma14</VoiceFile>
-          <Content>Who knows? They might be kind enough to tell us a way outta here.</Content>
+          <Content>ใครจะไปรู้ล่ะ? บางทีเขาอาจจะใจดีพอบอกทางออกให้เราก็ได้</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Entrance to a Big Top</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าเต๊นท์คณะละครสัตว์</PlaceName>
         <Dialog ID="37" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma15</VoiceFile>
-          <Content>…Whoa, this place is huge. It’s a bit dilapidated, but… It’s much more fascinating close up?</Content>
+          <Content>…ว้าว ที่นี่ใหญ่จัง อาจจะโทรมไปหน่อย แต่… ดูใกล้ๆก็ยังสวยดีอยู่ ว่าไหม?</Content>
         </Dialog>
         <Dialog ID="38" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah18</VoiceFile>
-          <Content>I think I saw something like this in a book… What did they call it… A circ—</Content>
+          <Content>ฉันเหมือนเคยได้ยินอะไรแบบนี้อยู่ในหนังสืออยู่… มันเรียกว่าอะไรนะ… โรงละครสั—</Content>
         </Dialog>
         <Dialog ID="39" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	 <Teller>ออสวอลด์</Teller>
+	 <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald7</VoiceFile>
-          <Content>Oh my, could you be our new guests? The show just ended, though.</Content>
+          <Content>ชิชะ! แขกคนใหม่เองหรือนี่? แต่การแสดงของพวกเราก็พึ่งจบไปเองนะจ๊ะ</Content>
         </Dialog>
         <Dialog ID="40" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah19</VoiceFile>
-          <Content>…GAH!! What the… Who the hell are you!</Content>
+          <Content>…อ้า!! เอ็ง… เอ็งเป็นใครวะ!</Content>
         </Dialog>
         <Dialog ID="41" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma16</VoiceFile>
-          <Content>Oh, are you the owner of this place? We apologize… We dropped by to see if there’d be someone here to give us directions.</Content>
+          <Content>อะ คุณคงเป็นเจ้าของที่นี่สินะครับ? เราต้องขอโทษด้วย… เรามาดูเผื่อมีใครพอจะบอกทางเราได้ไหม</Content>
         </Dialog>
         <Dialog ID="42" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	 <Teller>ออสวอลด์</Teller>
+	 <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald8</VoiceFile>
-          <Content>Oh, that sure sounds like a troubly-trouble… There’s no need to be sorry, no.</Content>
+          <Content>พุทโธ่ พุทธัง… ฟังดูเป็นเรื่องใหญ่เอาการอยู่… แต่ไม่ต้องเป็นกังวลไป</Content>
         </Dialog>
         <Dialog ID="43" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald9</VoiceFile>
-          <Content>This is the 8 o’Clock Circus, giving smiles to the smelly City dwellers!</Content>
+          <Content>ที่นี่คือคณะละครสัตว์ 8 นาฬิกา พร้อมจะมอบรอยยิ้มแสนหวานให้กับชาวเมืองแสนเหม็นฉึ่ง!</Content>
         </Dialog>
         <Dialog ID="44" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	 <Teller>ออสวอลด์</Teller>
+	 <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald10</VoiceFile>
-          <Content>Let’s skip introductions. My name doesn’t matter too much, does it?</Content>
+          <Content>เราข้ามการแนะนำตัวไปเลยละกันเนอะ ชื่อของกระผมนั้นมันไม่สำคัญอะไรอยู่แล้วนิ?</Content>
         </Dialog>
         <Dialog ID="45" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	 <Teller>ออสวอลด์</Teller>
+	 <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald11</VoiceFile>
-          <Content>We’re long past the archaic era of introducing each other with names and everything~</Content>
+          <Content>ยุคสมัยที่ยังแนะนำตัวโดยบอกชื่อกันนั้นมันเฉิ่มเบ๊อะไปแล้ว~</Content>
         </Dialog>
         <Dialog ID="46" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	 <Teller>ออสวอลด์</Teller>
+	 <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald12</VoiceFile>
-          <Content>Shall we sniff each other’s wrists instead?</Content>
+          <Content>งั้นเรามาดมข้อมือกันและกันแทนเลยดีไหมจ๊ะ?</Content>
         </Dialog>
         <Dialog ID="47" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah20</VoiceFile>
-          <Content>No thanks…</Content>
+          <Content>ไม่ล่ะขอบคุณ…</Content>
         </Dialog>
         <Dialog ID="48" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah21</VoiceFile>
-          <Content>Emma, this place is weirding me out. Let’s just skidaddle now…</Content>
+          <Content>เอ็มม่า ที่นี่น่าขนลุกมากเลย รีบเผ่นกันดีกว่า…</Content>
         </Dialog>
         <Dialog ID="49" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	 <Teller>ออสวอลด์</Teller>
+	 <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald13</VoiceFile>
-          <Content>Oh dearie me! Was I too scary for you!?</Content>
+          <Content>ตายจริง! นี่กระผมนั้นน่ากลัวเกินไปสำหรับคุณหรอครับเนี้ย!?</Content>
         </Dialog>
         <Dialog ID="50" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	 <Teller>ออสวอลด์</Teller>
+	 <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald14</VoiceFile>
-          <Content>Hold your worries! I’m but a clown who wishes to rub lemons on everyone’s tongue!</Content>
+          <Content>แต่วางใจหายห่วงได้เลย! กระผมก็แค่ตัวตลกที่อยากจะคั่นน้ำเลม่อนใส่ลิ้นทุกคนก็เท่านั้น!</Content>
         </Dialog>
         <Dialog ID="51" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald15</VoiceFile>
-          <Content>And that one over there… seems curious about our circus!</Content>
+          <Content>แถมคนตรงนั้นเอง… ก็ดูสนใจเกี่ยวกับคณะละครสัตว์ของเรานะเนี้ย!</Content>
         </Dialog>
         <Dialog ID="52" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma17</VoiceFile>
-          <Content>Wow… Check this out, Noah. It’s dark, but I see lots of neat things here.</Content>
+          <Content>ว้าว… ดูนี่สิ โนอาห์ มันมืดก็จริง แต่ฉันเห็นอะไรเจ๋งๆในนี่เพียบเลย</Content>
         </Dialog>
         <Dialog ID="53" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma18</VoiceFile>
-          <Content>Giant balls, different kinds of instruments… There’s a lion and an elephant, too! And also…</Content>
+          <Content>บอลยักษ์ เครื่องดนตรีหลากหลายประเภท มีสิงโตและช้างด้วย! แถมยังมี…</Content>
         </Dialog>
         <Dialog ID="54" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah22</VoiceFile>
-          <Content>…It’s real. I’ve never seen an actual circus before.</Content>
+          <Content>…ของจริงแฮะ ฉันไม่เคยเห็นคณะละครสัตว์จริงๆ มาก่อนเลย</Content>
         </Dialog>
         <Dialog ID="55" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah23</VoiceFile>
-          <Content>The book said circuses like this passed into history long ago…</Content>
+          <Content>หนังสือมันบอกว่าคณะละครสัตว์แบบนี้กลายเป็นแค่ประวัติศาสตร์ไปเมื่อนานมาแล้ว…</Content>
         </Dialog>
         <Dialog ID="56" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald16</VoiceFile>
-          <Content>Care to learn more about us? If you want, I can give you a nice special! A once-in-a-lifetime field trip.</Content>
+          <Content>อยากจะรู้อะไรเกี่ยวกับพวกเราไหมครับ? ถ้าอยากล่ะก็… กระผมจะให้ข้อเสนอคุณได้นะ! การทัศนศึกษาครั้งหนึ่งในชีวิตนี้</Content>
         </Dialog>
         <Dialog ID="57" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	 <Teller>ออสวอลด์</Teller>
+	 <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald17</VoiceFile>
-          <Content>I’ve been feeling so stale, too!</Content>
+          <Content>แถมกระผมนั้งยังอารมณ์ค้างอยู่เลย!</Content>
         </Dialog>
         <Dialog ID="58" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah24</VoiceFile>
-          <Content>…He keeps talking nonsense.</Content>
+          <Content>…พูดอะไรไม่เห็นรู้เรื่องเลย</Content>
         </Dialog>
         <Dialog ID="59" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma19</VoiceFile>
-          <Content>Noah… It’s too dark to find a path, so we might as well…</Content>
+          <Content>โนอาห์… ไหนๆตอนนี้มันยังมืดเกินที่จะหาทาง งั้นเราก็…</Content>
         </Dialog>
         <Dialog ID="60" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah25</VoiceFile>
-          <Content>Sigh… Whatever. I’m doomed to get fired anyway, so you take care of my future.</Content>
+          <Content>เฮ้อ… ยังไงก็ได้ ไหนๆฉันก็ถูกกำหนดให้ถูกไล่ออกอยู่แล้ว เพราะฉนั้นนายจะต้องดูแลอนาคตของฉันด้วย</Content>
         </Dialog>
         <Dialog ID="61" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma20</VoiceFile>
-          <Content>Haha, you’re such a joker.</Content>
+          <Content>ฮะๆ นายนี่ตลกจัง</Content>
         </Dialog>
         <Dialog ID="62" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald18</VoiceFile>
-          <Content>What a lovely friendship to behold! Come on in, then.</Content>
+          <Content>ช่างเป็นมิตรภาพที่แสนวิเศษอะไรขนาดนี้! งั้นก็… เชิญเข้ามาได้เลยครับ</Content>
         </Dialog>
         <Dialog ID="63" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald19</VoiceFile>
-          <Content>Oh, and watch your feet now~ Hungry flowers might bite you!</Content>
+          <Content>โอ้ะ เกือบลืมไป มองเท้าตัวเองก่อนเดินด้วยนะครับ~ เดี๋ยวดอกไม้มันกัดเอาน่ะ!</Content>
         </Dialog>
         <Dialog ID="64" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah26</VoiceFile>
-          <Content>Flowers can bite…?</Content>
+          <Content>ดอกไม้มันกัดได้หรอ…?</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Circus Tent</PlaceName>
+        <PlaceName>สถานที่: ด้านในเต้นท์คณะละครสัตว์</PlaceName>
         <Dialog ID="65" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald20</VoiceFile>
-          <Content>This fella is Mr. Lion. He’s the strongest pal here!</Content>
+          <Content>สุภาพบุรุษแสนสง่าตรงนี้คือคุณสิงโต เขาเป็นคนที่แข็งแรงที่สุดในหมู่เราแล้วครับ!</Content>
         </Dialog>
         <Dialog ID="66" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Ringmaster</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald21</VoiceFile>
-          <Content>He may seem cold and sharp, but on the inside, he’s actually soft and warm like a fur coat. He’s not a bad lion!</Content>
+          <Content>เขาอาจจะดูเย็นชาและเฉียบคม แต่ในใจลึกๆแล้ว เขาทั้งอ่อนนุ่มและอบอุ่นราวกับเสื้อขนสัตว์แหนะครับ!</Content>
         </Dialog>
         <Dialog ID="67" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Ringmaster</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald22</VoiceFile>
-          <Content>People have left a good amount of 5-star reviews about Mr. Lion’s belly, you see~?</Content>
+          <Content>รู้รึเปล่า ว่าผู้คนมักรีวิวให้คะแนน5ดาวสำหรับส่วนท้องของคุณสิงโตเสมอเลยล่ะครับ~?</Content>
         </Dialog>
         <Dialog ID="68" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah27</VoiceFile>
-          <Content>Hmm… This lion’s teeth are oddly round and blunt.</Content>
+          <Content>อืม… ฟันสิงโตตัวนี้มันหม่นๆทื่อๆยังไงไม่รู้</Content>
         </Dialog>
         <Dialog ID="69" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma21</VoiceFile>
-          <Content>What are you on about, Noah? They’re so sharp, it could hurt you if you touched it… Are you too tired right now?</Content>
+          <Content>พูดอะไรน่ะ โนอาห์? พวกมันคมจะตายไป นายจะเจ็บตัวได้นะถ้าเผลอไปแตะโดนมันน่ะ… นี่นายเหนื่อยไปหรอ?</Content>
         </Dialog>
         <Dialog ID="70" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah28</VoiceFile>
-          <Content>…Maybe I mistook them for something else in the dark. I don’t really… wanna get into its belly, though…</Content>
+          <Content>…ฉันอาจจะมองผิดเพราะมันมืดก็ได้ แต่ว่า… ยังไงก็ไม่อยากไปจับท้องมันหรอก…</Content>
         </Dialog>
         <Dialog ID="71" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald23</VoiceFile>
-          <Content>And this is Mr. Elephant! He makes the loudest noise in the circus.</Content>
+          <Content>สุภาพบุรุษอีกท่านก็คือคุณช้าง! เขาชอบทำเสียงดังที่สุดในคณะของเราแล้ว</Content>
         </Dialog>
         <Dialog ID="72" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald24</VoiceFile>
-          <Content>For realsies… He loves to sing so much all the time, we had to give him a candy to keep him quiet!</Content>
+          <Content>พูดตามตรงนะครับ… เขาชอบร้องเพลงมากร้องตลอดเวลาเลย เราเลยต้องให้ลูกอมเขาเพื่อให้เขายอมเงียบลงไปน่ะ!</Content>
         </Dialog>
         <Dialog ID="73" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald25</VoiceFile>
-          <Content>I don’t want anyone reporting us for noise pollution!</Content>
+          <Content>ก็กระผมนั้นไม่อยากให้ใครมารายงานว่าเราเป็นตัวการสร้างมลพิษทางเสียงให้คนรอบๆน่ะครับ!</Content>
         </Dialog>
         <Dialog ID="74" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah29</VoiceFile>
-          <Content>This is in the middle of nowhere, I don’t think there’s anyone who—</Content>
+          <Content>ที่นี่ที่ไหนก็ไม่รู้ ฉันไม่คิดหรอกว่าจะมีใครมารายง—</Content>
         </Dialog>
         <Dialog ID="75" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald26</VoiceFile>
-          <Content>Don’t be a silly moose! Mrs. Ant would be sad to hear that. We have a massive ant nest beneath us.</Content>
+          <Content>อย่ามาพูดเป็นเล่นได้ไหมครับ! ถ้าคุณมดได้ยินเข้าเดี๋ยวเขาก็เสียใจหรอก เรามีมีรังมดรังใหญ่อยู่ใต้เรานะครับ</Content>
         </Dialog>
         <Dialog ID="76" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald27</VoiceFile>
-          <Content>And we also have Ms. Mermaid, Ms. Hexagonal Cone Hat, Mr. Knife, and many, many others!</Content>
+          <Content>แถมเราก็ยังมีคุณนายนางเงือก คุณหมวกทรงหกเหลี่ยม คุณมีด และก็อีกหลากหลายคุณนับไม่ทวนครับ!</Content>
         </Dialog>
         <Dialog ID="77" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald28</VoiceFile>
-          <Content>Ms. Mermaid joined us because she was sooo scared of the sea. She’s very glad to be on land now!</Content>
+          <Content>คุณนายนางเงือกมาอยู่กับพวกเราก็เพราะว่าเธอกลัวทะเลน่ะครับ เธอพอใจมากเลยที่ได้อยู่บนพื้นดินแล้ว!</Content>
         </Dialog>
         <Dialog ID="78" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah30</VoiceFile>
-          <Content>That’s strange, I thought mermaids are usually supposed to live in the oceans or underwater…</Content>
+          <Content>แปลกๆแฮะ ฉันคิดมาตลอดว่านางเงือกมันต้องอยู่ใต้น้ำไม่ใช่เรอะ…</Content>
         </Dialog>
         <Dialog ID="79" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald29</VoiceFile>
-          <Content>Harumph, this is why I don’t deal with people who have cold rice for brains!</Content>
+          <Content>เฮ้อ นี่เป็นเหตุผลว่าทำไมผมถึงไม่ชอบจัดการกับพวกสมองทึบอะนะ</Content>
         </Dialog>
         <Dialog ID="80" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald30</VoiceFile>
-          <Content>We’re talking about basic knowledge here. The uppitymost very basics. Don’t you know that living in the sea makes you fish food?</Content>
+          <Content>เรื่องที่เราพูดกันอยู่เนี้ยเป็นเรื่องง่ายๆเบสิคๆนะครับ ไม่รู้รึไงว่าถ้าเราไปอยู่ในทะเลเราจะกลายเป็นอาหารปลาได้น่ะครับ?</Content>
         </Dialog>
         <Dialog ID="81" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah31</VoiceFile>
-          <Content>I mean, mermaids are fish too…</Content>
+          <Content>ที่ฉันจะพูดคือ นางเงือกน่ะก็เป็นปล…</Content>
         </Dialog>
         <Dialog ID="82" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald31</VoiceFile>
-          <Content>Bonkers!!!</Content>
+          <Content>ชิชะ!!!</Content>
         </Dialog>
         <Dialog ID="83" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+         <Teller>ออสวอลด์</Teller>
+	 <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald32</VoiceFile>
-          <Content>Fish eat fish all the time!!!</Content>
+          <Content>ปลาน่ะกินปลาด้วยกันอยู่ตลอดเวลาไม่ใช่เรอะ!!!</Content>
         </Dialog>
         <Dialog ID="84" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Ringmaster</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald33</VoiceFile>
-          <Content>…Phew, getting so worked up is out of character for me! Where was I?</Content>
+          <Content>…เฮ้อ พออารมณ์พลุกพล่านแล้วหลุดคาแรคเตอร์เลยเรา! นี่กระผมพูดถึงไหนแล้วครับ?</Content>
         </Dialog>
         <Dialog ID="85" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah32</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="86" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma22</VoiceFile>
-          <Content>Wow, Mister Lemon Clown, these are the coolest circus crew I’ve ever seen!</Content>
+          <Content>คุณตัวตลกเลม่อนครับ คณะนี้เนี้ยเป็นคณะละครสัตว์ที่เจ๋งที่สุดที่ผมเคยเห็นเลยล่ะครับ!</Content>
         </Dialog>
         <Dialog ID="87" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma23</VoiceFile>
-          <Content>They’re… special. I feel like something about them speaks to my heart.</Content>
+          <Content>พวกเขานั้น… พิเศษกันมาก เหมือนกับว่ามีอะไรบางอย่างถูกปลุกขึ้นมาในใจผมเลย</Content>
         </Dialog>
         <Dialog ID="88" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah33</VoiceFile>
-          <Content>Don’t tell me you actually like this screwy tent. I’m not taking that crap.</Content>
+          <Content>นี่นายกำลังจะบอกว่าชอบสถานที่บ้าๆปัญญาอ่อนแบบนี้หรอ?</Content>
         </Dialog>
         <Dialog ID="89" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma24</VoiceFile>
-          <Content>Don’t be so sour, Noah. It’s such a wonderful place, can’t you see?</Content>
+          <Content>อย่าปอดแหกไปหน่อยเลย โนอาห์ ที่นี่เนี้ยสุดยอดไปเลยไม่ใช่หรอ?</Content>
         </Dialog>
         <Dialog ID="90" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma25</VoiceFile>
-          <Content>And they can make people smile through tough times like this. A circus… I wanna see it, too.</Content>
+          <Content>แถมพวกเขาสามารถมอบรอยยิ้มให้กับผู้คนในช่วงที่ลำบากขนาดนี้ได้ โรงละครสัตว์งั้นหรอ… ฉันเองก็อยากเห็นมันด้วย</Content>
         </Dialog>
         <Dialog ID="91" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah34</VoiceFile>
-          <Content>Forget it. This is just insane… You can stay here if you want, I’m leaving.</Content>
+          <Content>ช่างแม่งละกัน ที่บ้าๆแบบนี้อยากอยู่ก็อยู่ไป… ฉันกลับแล้ว</Content>
         </Dialog>
         <Dialog ID="92" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma26</VoiceFile>
-          <Content>But this is a rare chance…</Content>
+          <Content>แต่นี่เป็นโอกาสที่หาได้ยากเลยนะ…</Content>
         </Dialog>
         <Dialog ID="93" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald34</VoiceFile>
-          <Content>Ah, you want to join us?</Content>
+          <Content>โอ๊ะ โอ นี่คุณอยากเข้าร่วมกับพวกเราหรอครับ?</Content>
         </Dialog>
         <Dialog ID="94" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma27</VoiceFile>
-          <Content>Pardon? Um… No, actually… I just wanted to watch your show.</Content>
+          <Content>ฮะ? อ๋อเปล่าครับ… ผมหมายถึง… ผมอยากจะดูการแสดงของพวกคุณอะครับ</Content>
         </Dialog>
         <Dialog ID="95" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald35</VoiceFile>
-          <Content>Aw, that’s a big shame… Everyone couldn’t understand my words and actions and left me, one by one.</Content>
+          <Content>โธ่ถัง น่าเสียดายนะครับเนี้ย… ทุกๆคนน่ะไม่เข้าใจทั้งคำพูดและการกระทำขอกระงผม เลยพากันหนีกระผมไปทีละคนทีละคน</Content>
         </Dialog>
         <Dialog ID="96" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald36</VoiceFile>
-          <Content>My secret pals were the only ones who stayed with me ‘til the end!</Content>
+          <Content>มีแค่เพื่อนลับของกระผมเท่านั้นที่ยังอยู่กับกระผมจนถึงวินาทีสุดท้ายน่ะครับ!</Content>
         </Dialog>
         <Dialog ID="97" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald37</VoiceFile>
-          <Content>The mermaid who snacks on jelly beans inside seashells… The hamster who’s so tall, he can drink clouds off the sky…</Content>
+          <Content>นางเงือกที่กินเจลลี่บีนอยู่ใต้เปลือกหอย… และแฮมสเตอร์ที่สู๊งสูง สูงจนกินเมฆที่อยู่บนฟ้าได้เลย…</Content>
         </Dialog>
         <Dialog ID="98" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma28</VoiceFile>
-          <Content>Oh dear…</Content>
+          <Content>นั่นมัน…</Content>
         </Dialog>
         <Dialog ID="99" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+			<Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald38</VoiceFile>
-          <Content>My earnest efforts to bring merry smiles to people were adored by Ms. Sun, who then whispered to me that she will make my wish come true.</Content>
+          <Content>ความพยายามที่จะมอบรอยยิ้มให้กับผู้คนของกระผมนั้นถูกชื่นชอบโดยคุณนายพระอาทิตย์ ผู้ที่กระซิบใส่กระผมว่าเธอจะทำให้ความฝันของกระผมนั้นเป็นจริงได้</Content>
         </Dialog>
         <Dialog ID="100" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+			<Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald39</VoiceFile>
-          <Content>It was the outrageous, head-blowing wish to frolic with my secret pals!</Content>
+          <Content>มันเป็นคำขอที่สุดขีด สุดชีวิต และสุดกู่ที่สุดที่ได้ทำเรื่องสนุกๆไปกับเพื่อนลับของกระผม!</Content>
         </Dialog>
         <Dialog ID="101" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+	   <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald40</VoiceFile>
-          <Content>So I am now living the dream of my life, joyfully performing at the circus with my friends every night.</Content>
+          <Content>เพราะงั้นกระผมจึงสามารถใช้ชีวิตอยู่ในความฝันของกระผมได้ ได้เปิดการแสดงที่โรงละครสัตว์พร้อมกับเพื่อนของกระผมทุกคืนอย่างมีความสุขน่ะครับ</Content>
         </Dialog>
         <Dialog ID="102" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah35</VoiceFile>
-          <Content>Joy… Dreams…</Content>
+          <Content>ความฝัน… ความสุข…</Content>
         </Dialog>
         <Dialog ID="103" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald41</VoiceFile>
-          <Content>It’s rather obvious that you’d be attracted to us! I do understand your feeling, oh I do.</Content>
+          <Content>มันแน่อยู่แล้วที่คุณนั้นจะยึดติดกับพวกเรา! กระผมนั้นเข้าใจ๊ เข้าใจดีเลยล่ะครับ</Content>
         </Dialog>
         <Dialog ID="104" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah36</VoiceFile>
-          <Content>Can I really be happy… if I joined your circus?</Content>
+          <Content>ฉันจะมีความสุขจริงๆหรอ… ถ้าฉันเข้าร่วมกับคณะละครสัตว์ของนายน่ะ?</Content>
         </Dialog>
         <Dialog ID="105" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald42</VoiceFile>
-          <Content>You don’t say! Every moment of your life will be filled to the brim with the thrilling taste of pepper!</Content>
+          <Content>ไม่ต้องพูดถึงเลยครับ! เอาเป็นว่าทุกช่วงชีวิตของคุณหลังจากนี้จะเต็มเปี่ยมไปด้วยรสชาติที่หน้าตื่นเต้นของพริกไทยอะครับ!</Content>
         </Dialog>
         <Dialog ID="106" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah37-01</VoiceFile>
-          <Content>I’m gonna be fired from J Corp. for my mistake anyway… I don’t wanna go back to the Backstreets, either…</Content>
+          <Content>ไหนๆฉันก็จะถูกไล่ออกจากJ คอร์ปเพราะความผิดพลาดของฉันอยู่แล้ว… แถมฉันเองก็ไม่อยากกับไปในแบ็คสตรีทอีกด้วย…</Content>
         </Dialog>
         <Dialog ID="107" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah38-01</VoiceFile>
-          <Content>Even if I got to keep my job, I don’t want to set foot in that living hell again.</Content>
+          <Content>ถึงฉันจะได้งานเก่าฉันกลับมา ฉันเองก็ไม่อยากไปแตะนรกบนดินนั่นอีกแล้ว.</Content>
         </Dialog>
         <Dialog ID="108" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah39-01</VoiceFile>
-          <Content>I… I just wanted to watch the world and the skies from a higher place.</Content>
+          <Content>ฉัน… ฉันน่ะก็แค่ต้องการที่จะมองโลกและท้องฟ้าจ้างที่ที่สูงขึ้นไปอีก</Content>
         </Dialog>
         <Dialog ID="109" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah40-01</VoiceFile>
-          <Content>I know that my dream was an empty one… I knew there was no way I could achieve it as long as I was at the bottom.</Content>
+          <Content>ฉันรู้อยู่แล้วว่ามันเป็นความฝันที่เป็นไปไม่ได้… และยังรู้ด้วยว่าฉันทำมันไม่ได้แน่ๆถ้าฉันยังตกต่ำถึงขนาดนี้</Content>
         </Dialog>
         <Dialog ID="110" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah41-01</VoiceFile>
-          <Content>And when I finally scratched and clawed my way up… I just stare at boring screens until I get fired.</Content>
+          <Content>และเมื่อฉันปีนป่ายขึ้นมาได้… ฉันก็ได้แค่มองหน้าจอหน้าเบื่อๆจนฉันโดนไล่ออกเท่านั้น</Content>
         </Dialog>
         <Dialog ID="111" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+         <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma29</VoiceFile>
-          <Content>Noah… If there’s anything I can help you with…</Content>
+          <Content>โนอาห์… ถ้ามีอะไรที่ฉันพอช่วยได้ล่ะก็…</Content>
         </Dialog>
         <Dialog ID="112" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah42</VoiceFile>
-          <Content>What? Hahaha… You’re still making a mockery of me…</Content>
+          <Content>อะไรกัน? ฮ่าๆๆๆ… นี่นายยังจะล้อเลียนฉันจนถึงที่สุดเลยรึไง…</Content>
         </Dialog>
         <Dialog ID="113" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah43</VoiceFile>
-          <Content>It’s always money, money, money. You say you can solve my problems with money; do you think everything will work out by simply throwing money?</Content>
+          <Content>เอาแต่พูดเรื่องเงิน เงิน เงิน พูดว่าเงินนั้นสามารถแก้ปัญหาของฉันได้ คิดจริงๆหรอว่าแค่โยนเงินไว้ปัญหาก็จะแก้เองได้น่ะ?</Content>
         </Dialog>
         <Dialog ID="114" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah44</VoiceFile>
-          <Content>Why did you even follow me into that shitty department in the first place? You could live fine without it.</Content>
+          <Content>แล้วทำไมนายถึงต้องตามฉันไปจนถึงสำนักงานงี่เง่านั่นตั้งแต่แรกด้วยล่ะ?</Content>
         </Dialog>
         <Dialog ID="115" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah45</VoiceFile>
-          <Content>No, you know what, just… Just forget it all.</Content>
+          <Content>ไม่ รู้อะไรไหม ช่างมันเหอะ… ลืมมันไปซะ</Content>
         </Dialog>
         <Dialog ID="116" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah46</VoiceFile>
-          <Content>Hey, the clown over there. I wanna be a part of your crew.</Content>
+          <Content>เฮ้ย ไอ้ตัวตลกตรงนั้นน่ะ ฉันอยากจะเข้าร่วมกับนายด้วย</Content>
         </Dialog>
         <Dialog ID="117" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Corporate Drone</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma30</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="118" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+           <Teller>ออสวอลด์</Teller>
+	   <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald43</VoiceFile>
-          <Content>Oh, yikes and a half… The mood doesn’t seem so bright here!</Content>
+          <Content>แหม แหม… แถวนี่ดูอารมณ์บ่จอยกันจังเลยน่ะครับ!</Content>
         </Dialog>
         <Dialog ID="119" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+           <Teller>ออสวอลด์</Teller>
+	   <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald44</VoiceFile>
-          <Content>You can’t join us if you’re hanging out with those meanie tears, y’know?</Content>
+          <Content>คุณจะเข้าร่วมกับพวกเราไม่ได้นะครับถ้ายังมีน้ำตาเพื่อนใจร้ายอยู่อะครับ?</Content>
         </Dialog>
         <Dialog ID="120" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+           <Teller>ออสวอลด์</Teller>
+	   <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald45</VoiceFile>
-          <Content>Aha! I’ll help you say goodbye to those mean friends flowing down your cheek. We’ll be friends with each other when you open your eyes!</Content>
+          <Content>งั้นก็! กระผมจะช่วยให้คุณบอกลาพวกเพื่อนใจร้ายพวกนั้นลงไปละกัน เราจะเป็นเพื่อนกันก่อนที่จะรู้สึกตัวซะอีก!</Content>
         </Dialog>
         <Dialog ID="121" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+           <Teller>ออสวอลด์</Teller>
+	   <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald46</VoiceFile>
-          <Content>Now then, let’s…</Content>
+          <Content>งั้นก็ เริ่ม…</Content>
         </Dialog>
         <Dialog ID="122" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald47</VoiceFile>
-          <Content>…Ah, so you’re finally awake! You were asleep for so long, I was almost starting to worry if I’d have to place a well-cooked drumstick on your nose!</Content>
+          <Content>…โอะ โอ้ ตื่นซักทีนะครับ! คุณนั้นหลับไปน๊าน นาน จนกระผมคิดว่าต้องเอาไก่ย่างมาวางล่อให้ตื่นซะอีก!</Content>
         </Dialog>
         <Dialog ID="123" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Noah47</VoiceFile>
-          <Content>The world’s… My eyes… There’s too many worlds. What the hell. It’s making my head spin…</Content>
+          <Content>โลกมัน… โลกมันมากเกินไปแล้ว… อะไรกันเนี้ย มันทำให้ฉันเวียนหัวไปหมด…</Content>
         </Dialog>
         <Dialog ID="124" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald48</VoiceFile>
-          <Content>No worries. You’ll get used to it soon enough!</Content>
+          <Content>สบายใจหายห่วงได้เลย เดี๋ยวแปปๆคุณก็ชินเองแหละ!</Content>
         </Dialog>
         <Dialog ID="125" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald49</VoiceFile>
-          <Content>A present for an observant and curious friend, who wanted to witness the variety of the world from a higher place!</Content>
+          <Content>เป็นของขวัญสำหรับเพื่อนที่ช่างสังเกตและขี้สงสัยของเรา ผู้ที่ต้องการมองลงมาบนโลกจากที่ห่างไกล!</Content>
         </Dialog>
         <Dialog ID="126" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald50</VoiceFile>
-          <Content>I gave you eyes that can glance at everything, from ants on the floor to spiders on the ceiling. Consider this a welcoming gift from us!</Content>
+          <Content>กระผมให้ดวงตาที่สามารถจ้องมองไปได้ทุกที่ ตั้งแต่มดบนพื้นจนถึงแมงมุมบนเพดาน คิดซะว่าเป็นของขวัญต้อนรับจากพวกเราก็ได้นะ!</Content>
         </Dialog>
         <Dialog ID="127" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Noah48</VoiceFile>
-          <Content>Wha… What does that even… Emma… Where’s Emma!</Content>
+          <Content>อะไร… หมายความว่าไงกัน… เอ็มม่า แล้วเอ็มม่าล่ะ…!</Content>
         </Dialog>
         <Dialog ID="128" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Emma31</VoiceFile>
-          <Content>It’s okay, Noah. Although I can’t see where you are, I’ve been next to you the whole time.</Content>
+          <Content>ไม่ต้องห่วงนะโนอาห์ ถึงแม้ฉันจะไม่เห็นว่านายอยู่ไหน แต่ฉันจะอยู่ข้างนายตลอด</Content>
         </Dialog>
         <Dialog ID="129" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Emma32</VoiceFile>
-          <Content>I could finally help you as who I am, not in the form of material wealth!</Content>
+          <Content>ในที่สุดฉันก็สามารถช่วยนายในแบบของฉันได้ โดยที่ไม่พึ่งเงินเลย!</Content>
         </Dialog>
         <Dialog ID="130" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Emma33</VoiceFile>
-          <Content>You were right. I lived a sheltered life, so I don’t know much.</Content>
+          <Content>ที่นายพูดมันก็ถูก ฉันน่ะใช้ชีวิตแบบใข่ในหิน ฉันเลยไม่รู้อะไรมากนัก</Content>
         </Dialog>
         <Dialog ID="131" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Emma34</VoiceFile>
-          <Content>The scenery I saw would simply pass by.</Content>
+          <Content>ทิวทัศที่ฉันเคยเห็นก็มีแต่จะผ่านตาฉันไป</Content>
         </Dialog>
         <Dialog ID="132" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Emma35</VoiceFile>
-          <Content>I’ll lift you up. You’ll be able to see more things from the new heights.</Content>
+          <Content>ฉันเลยจะยกนายขึ้นไป นายน่ะน่าจะเห็นอะไรมากขึ้นจากความสูงใหม่นี่นะ</Content>
         </Dialog>
         <Dialog ID="133" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald51</VoiceFile>
-          <Content>I’m glad that you seem to like our gifts!</Content>
+          <Content>ผมนี่ซึ้งใจจริงๆที่พวกคุณดูจะชอบของขวัญของพวกเรานะครับ!</Content>
         </Dialog>
         <Dialog ID="134" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald52</VoiceFile>
-          <Content>I have one favor to ask of you two, however.</Content>
+          <Content>แต่ดูเหมือนว่า กระผมคงจะมีคำขอเล็กๆน้อยๆให้พวกคุณสองคนทำน่ะครับ</Content>
         </Dialog>
         <Dialog ID="135" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Noah49</VoiceFile>
-          <Content>What’s that?</Content>
+          <Content>แล้วมันคืออะไร?</Content>
         </Dialog>
         <Dialog ID="136" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald53</VoiceFile>
-          <Content>Actually… Bad guys came into our circus tent some time ago and swallowed my friends whole!</Content>
+          <Content>จริงๆแล้ว… ไม่นานมานี้มันมีพวกเล๊วเลวเข้ามาในเต้นท์ของเราแล้วก็กลืนเพื่อนของกระผมไปอะครับ!</Content>
         </Dialog>
         <Dialog ID="137" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald54</VoiceFile>
-          <Content>Poor Ms. Hippo and Mr. Ball… I was so saddened that day, my frown was as long as three sausages…</Content>
+          <Content>โธ๊ โธ่ คุณนายฮิปโปและคุณบอลที่น่าฉงฉาน… วันนั้นกระผมเศร้ามาก จนกระผมขมวดคิ้วทีหนึงก็ยาวประมาณ3ไส้กรอกได้เลยครับ…</Content>
         </Dialog>
         <Dialog ID="138" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald55</VoiceFile>
-          <Content>And my big and magnificent palace was ruined thanks to them.</Content>
+          <Content>แถมสถานที่ใหญ่โตและสวยงามแห่งนี้ก็พังเละไม่เป็นท่าต้องขอบคุณพวกนั้นเลย</Content>
         </Dialog>
         <Dialog ID="139" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Emma36</VoiceFile>
-          <Content>That’s awful. Who were the culprits?</Content>
+          <Content>นั่นเลวร้ายมากเลย แล้วใครเป็นคนทำหรอ?</Content>
         </Dialog>
         <Dialog ID="140" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald56</VoiceFile>
-          <Content>It doesn’t matter who they were. All I know… is that they later went to a place called the Library!</Content>
+          <Content>มันไม่สำคัญหรอกว่าพวกเขาเป็นใคร ที่กระผมรู้นั้น… ก็มีแค่พวกเขาไปสถานที่ที่ชื่อว่าห้องสมุดหลังจากนั้น!</Content>
         </Dialog>
         <Dialog ID="141" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald57</VoiceFile>
-          <Content>Our splendid circus had never failed once, but for some reason, we couldn’t move their hearts…</Content>
+          <Content>คณะละครสัตว์ของพวกเรานั้นไม่เคยล้มเลวกันเลยซักครั้ง แต่ด้วยอะไรบางอย่าง พวกเราทำให้ใจของพวกเขาสั่นคลอนไม่ได้เลยน่ะครับ…</Content>
         </Dialog>
         <Dialog ID="142" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald58</VoiceFile>
-          <Content>I want to know! WHHHHY!!!</Content>
+          <Content>กระผมล่ะอยากจะรู้จริงๆ! ทำไม๊ ทำไม!!!</Content>
         </Dialog>
         <Dialog ID="143" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald59</VoiceFile>
-          <Content>…Oh no no no, whew! I’m wondering how they didn’t pop their flowers despite my cute tricks and acts.</Content>
+          <Content>…ไม่ ไม่ ฟิ้ว! กระผมแค่สงสัยว่าทำไมดอกไม้ของพวกเขาไม่บานออกหลังจากชมการแสดงที่แสนน่ารักของกระผมไป</Content>
         </Dialog>
         <Dialog ID="144" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald60</VoiceFile>
-          <Content>If we can read their books… Then I could hold a circus that’s so entertaining, even people like them will shake their salts, don’t you think?</Content>
+          <Content>ถ้าเกิดเราได้อ่านหนังสือของพวกเขา… งั้นเราก็สามารถทำให้คณะละครสัตว์ของเรานั้นเอ็นเตอร์เทนมากขึ้นได้ จนพวกคนอย่างพวกเขาต้องเต้นจนเกลือหกเลย ว่าไหมครับ?</Content>
         </Dialog>
         <Dialog ID="145" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Noah50</VoiceFile>
-          <Content>…It feels uncertain, but if the way is written in their books, we’ll be able to hold an even grander circus.</Content>
+          <Content>…มันรู้สึกทะแม่งๆยังไงอยู่ แต่ถ้าวิธีการมันถูกเขียนอยู่ในหนังสือของพวกเขา งั้นเราก็สามารถจัดโรงละครสัตว์ที่ยิ่งใหญ่กว่าเดิมได้</Content>
         </Dialog>
         <Dialog ID="146" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Emma37</VoiceFile>
-          <Content>Is it really okay to enter that place, though…</Content>
+          <Content>มันจะดีหรอที่ให้พวกเราเข้าไปน่ะ…</Content>
         </Dialog>
         <Dialog ID="147" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald61</VoiceFile>
-          <Content>Oh, how compassionate of you! I knew I could count on you two. Sniffle, sniffle…</Content>
+          <Content>ฮือ พวกคุณนี่ใจดีจริงๆ! กระผมรู้อยู่แล้วว่าหวังพึ่งพวกคุณทั้งคู่ได้น่ะ กระซิก กระซิก…</Content>
         </Dialog>
         <Dialog ID="148" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald62</VoiceFile>
-          <Content>If you manage to return, we should throw a party to celebrate it!</Content>
+          <Content>ถ้าเกิดพวกคุณรอดกลับมาได้นะ เดี๋ยวพวกเราจะจัดงานปาร์ตี้เลี้ยงฉลองไปเลย!</Content>
         </Dialog>
         <Dialog ID="149" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald63</VoiceFile>
-          <Content>We’ll feast on otherworldly delicacies like the sea cocktail garnished with a piece of a cloud, and lion’s mane chili fries!</Content>
+          <Content>เดี๋ยวเราจะกินอาหารหายากต่างโลกกันอย่างค็อกเทลทะเลตกแต่งด้วยปุยเมฆ กับแผงคอสิงโตผัดพริกแกง!</Content>
         </Dialog>
         <Dialog ID="150" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Noah51</VoiceFile>
-          <Content>Sounds promising. What do you say, Emma… Shall we go?</Content>
+          <Content>น่าสนใจจริงๆ คิดว่าไงเอ็มม่า… พวกเราพร้อมจะไปกันไหม?</Content>
         </Dialog>
         <Dialog ID="151" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Emma38</VoiceFile>
-          <Content>If that’s what you want.</Content>
+          <Content>ถ้าเกิดนายต้องการล่ะก็</Content>
         </Dialog>
         <Dialog ID="152" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald64</VoiceFile>
           <Content>…</Content>
-        </Dialog>
-        <Dialog ID="153" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+		<Dialog ID="153" Model="오스왈드">
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald65</VoiceFile>
-          <Content>Phew, now I have a lot to prepare!</Content>
+          <Content>ฟิ้ว ตอนนี้เราต้องเตรียมอะไรอีกเยอะแยะเลย!</Content>
         </Dialog>
         <Dialog ID="154" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald66</VoiceFile>
-          <Content>First off, for the duo… I should prepare a hefty feast that’ll make their teeth groan!</Content>
+          <Content>อย่างแรกเลย สำหรับคู่หูคู่นั้น… เราต้องเตรียมจัดงานเลี้ยงหนักๆจนฟันของพวกเขาต้องร้ำร้องกันเลยทีเดียว!</Content>
         </Dialog>
         <Dialog ID="155" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald67</VoiceFile>
-          <Content>I need to recruit more members for my circus… Practice with Ms. Mermaid’s scale mane, and then…</Content>
+          <Content>เราต้องหาสมาชิกในคณะละครสัตว์ของเราเพิ่ม… แล้วฝึกซ้อมเกล็ดของคุณนายนางเงือก แล้วก็…</Content>
         </Dialog>
         <Dialog ID="156" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald68</VoiceFile>
-          <Content>Oh my! Who is this rude intruder!?</Content>
+          <Content>อุ ต๊ะ! ใครกันเสียมารยาทเข้ามา!?</Content>
         </Dialog>
         <Dialog ID="157" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch5_Circus_ep1_Philip1-01</VoiceFile>
-          <Content>…Where am I…?</Content>
+          <Content>…นี่ฉันอยู่ที่ไหน…?</Content>
         </Dialog>
         <Dialog ID="158" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch5_Circus_ep1_Philip2</VoiceFile>
-          <Content>I was… fighting inside the Library…</Content>
+          <Content>ฉันมั่นใจว่า… ฉันสู้อยู่ข้างในห้องสมุดนั้นอยู่…</Content>
         </Dialog>
         <Dialog ID="159" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald69</VoiceFile>
           <Content>…</Content>
         </Dialog>
+        </Dialog>
         <Dialog ID="160" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald70</VoiceFile>
-          <Content>…Hahaha! Are you perhaps a new clown? Or are you simply here to watch our show?</Content>
+          <Content>…ฮ่าๆๆๆ! หรือว่าคุณคือตัวตลกคนใหม่กัน? หรือว่าคุณแค่มาดูการแสดงของพวกเรา?</Content>
         </Dialog>
         <Dialog ID="161" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch5_Circus_ep1_Philip3-03</VoiceFile>
-          <Content>No, I…</Content>
+          <Content>ไม่นะ ผมแค่…</Content>
         </Dialog>
         <Dialog ID="162" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald71</VoiceFile>
-          <Content>It’s good either way! Holding a teensy little performance for our jesting visitor should be as easy as chewing cold pie-flavored gum.</Content>
+          <Content>จะยังไงก็ดีทั้งคู่นั้นแหละ! จัดงานแสดงเล็กๆน้อยๆให้ตัวตลกผู้มาเยือนของเรานั้นง่ายซะยิ่งกว่าเคี้ยวหมากฝรั่งเย็นเฉียบรสพายซะอีก</Content>
         </Dialog>
         <Dialog ID="163" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald72</VoiceFile>
-          <Content>This is… the 8 o’Clock Circus!</Content>
+          <Content>ที่นี่คือ… คณะละครสัตว์ 8 นาฬิกา!</Content>
         </Dialog>
         <Dialog ID="164" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+	  <Teller>ออสวอลด์</Teller>
+	  <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald73</VoiceFile>
-          <Content>We bring the bestest of the smells to City people who have lost their flower stalks.</Content>
+          <Content>เรานั้นคอยมอบกลิ่นที่ดีที่สุดให้กับชาวเมืองผู้ที่ก้านดอกไม้ของเขาโดนตัดทิ้งไปแล้ว</Content>
         </Dialog>
         <Dialog ID="165" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
           <VoiceFile>ch5_Circus_ep1_Philip4</VoiceFile>
-          <Content>What…? The 8 o’Clock… Circus?</Content>
+          <Content>ฮ้า…? คณะละครสัตว์… 8 นาฬิกา?</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="166" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland1</VoiceFile>
-          <Content>Hunh, I was wondering where Philip got sent with Oscar’s device… And he had to be dropped there of all places…</Content>
+          <Content>เห้อ กำลังสงสัยเลยว่าเครื่องมือของออสการ์มันจะส่งฟิลิปไปไหน… มีตั้งหลายที่แต่เป็นที่นี่เนี้ยนะ…</Content>
         </Dialog>
         <Dialog ID="167" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland2</VoiceFile>
-          <Content>I’m curious about what that nutjob of a clown is up to next. The Invitation cuts things off at odd timings, it could’ve shown us just a bit more…</Content>
+          <Content>กำลังสงสัยอยู่เลยว่าไอ้ตัวตลกบ้านั่นมันจะทำอะไรต่อไป แต่บัตรเชิญดันตัดไปซะได้ น่าจะโชว์อะไรมากกว่านี้นิดหน่อยนะ…</Content>
         </Dialog>
         <Dialog ID="168" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+	  <Teller>แองเจล่า</Teller>
+	  <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela1</VoiceFile>
-          <Content>He’s not today’s guest, so it doesn’t matter much, does it? And the Invitation simply shows us what we need to see, so don’t complain about it.</Content>
+          <Content>เขาไม่ใช่แขกของเราวันนี้นิ? แปลว่ามันไม่สำคัญอะไรมากนักหรอก แถมบัตรเชิญจะโชว์แค่สิ่งที่เราควรเห็นเท่านั้น เพราะงั้นอย่าบ่นให้มันมากด้วย</Content>
         </Dialog>
         <Dialog ID="169" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland3</VoiceFile>
-          <Content>…Fair enough.</Content>
+          <Content>…ก็พอเข้าใจได้อยู่</Content>
         </Dialog>
         <Dialog ID="170" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland4</VoiceFile>
-          <Content>Putting that aside, a tall guy and a guy with four eyes, literally… Both look fancy, but neither seems normal.</Content>
+          <Content>ช่างเรื่องนั้นเถอะ ไอ้หนุ่มตัวสูงและไอ้หนุ่มสี่ตานั่น… พวกเขาดูสวยดี แต่ทั้งคู่ดูไม่ปกติยังไงไม่รู้</Content>
         </Dialog>
         <Dialog ID="171" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+	  <Teller>แองเจล่า</Teller>
+	  <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela2</VoiceFile>
-          <Content>One who needs help from another person to stand high… I’m not sure I understand.</Content>
+          <Content>คนที่ต้องการความช่วยเหลือจากอีกคนเพื่อที่จะยืนขึ้นได้… ฉันไม่ค่อยเข้าใจซักเท่าไหร่</Content>
         </Dialog>
         <Dialog ID="172" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland5</VoiceFile>
-          <Content>Well, you don’t have much choice unless you’re born to a rich family, you know?</Content>
+          <Content>ก็นะ เธอไม่ค่อยมีตัวเลือกมากนักถ้าเกิดเธอไม่ได้เกิดในครอบครัวคนมีตังอะนะ เธอพอเข้าใจใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="173" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland6</VoiceFile>
-          <Content>Being a gifted child won’t matter if you don’t have the money to support that gift.</Content>
+          <Content>จะเก่งเจ๋งมาจากไหนถ้าไม่มีเงินช่วยไว้มันก็ไม่สำคัญหรอก</Content>
         </Dialog>
         <Dialog ID="174" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+	  <Teller>แองเจล่า</Teller>
+	  <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela3</VoiceFile>
-          <Content>Are you trying to say that hard work alone cannot earn recognition?</Content>
+          <Content>นี่นายพยายามจะสื่อว่าแค่พยายามทำงานหนักอย่างเดียวนายจะไม่ได้การยอมรับหรอ?</Content>
         </Dialog>
         <Dialog ID="175" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland7</VoiceFile>
-          <Content>That’s usually the case for people who aren’t blessed with pure fortune.</Content>
+          <Content>ยกเว้นซะแต่ว่าโชคจะเข้าข้างเธอมากอะนะ แต่ก็เป็นแค่ส่วนน้อยอยู่ดี</Content>
         </Dialog>
         <Dialog ID="176" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+         <Teller>แองเจล่า</Teller>
+	  <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela4</VoiceFile>
-          <Content>If what you said is correct, having more money would lead to happiness. But the man we saw was angry about the idea, rather than being happy. Why is that?</Content>
+          <Content>ถ้ายิ่งมีเงินมากจะนำพาไปหาความสุขได้มันเป็นอย่างที่นายพูดจริง แล้วทำไมคนๆนั้นดูไม่ค่อยสบอารมณ์เกี่ยวกับเรื่องนั้นนักล่ะ?</Content>
         </Dialog>
         <Dialog ID="177" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland8</VoiceFile>
-          <Content>It differs from person to person. Could be his last bit of pride, could be the fear of earning the reputation of a greedy man who only makes friends for their wealth… On top of that, it kind of hurts, too.</Content>
+          <Content>หลากคนหลากความคิดอะนะ อาจจะเป็นความภูมิใจอันน้อยนิดของเขาก็ได้ อาจจะเป็นความกลัวที่จะมีชื่อเสียว่าเป็นคนโลภที่ใช้เพื่อนเป็นเครื่องทำกินก็ได้… มันก็น่าเศร้าอยู่หรอก</Content>
         </Dialog>
         <Dialog ID="178" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland9</VoiceFile>
-          <Content>As delightful as it is to have someone who can gladly give you money to help… It can make you feel upset and slighted at the same time.</Content>
+          <Content>มันก็ดีอยู่หรอกที่มีใครซักคนยินดีให้เงินเราเพื่อช่วยเหลือ… แต่บางครั้งมันก็ทำให้อารมณ์เสียและดูเหมือนดูถูกอยู่เหมือนกัน</Content>
         </Dialog>
         <Dialog ID="179" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+	  <Teller>แองเจล่า</Teller>
+	 <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela5</VoiceFile>
-          <Content>Upset about what?</Content>
+          <Content>อารมณ์เสียเรื่องอะไรล่ะ?</Content>
         </Dialog>
         <Dialog ID="180" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland10</VoiceFile>
-          <Content>About how you had to give up everything you dreamed for because you weren’t wealthy enough, and your friend is readily able to give away the money you needed like it’s chump change to them.</Content>
+          <Content>เรื่องที่ว่าเธอต้องทิ้งความฝันของเธอไปเพียงเพราะเธอไม่รวยพอ และเพื่อนของเธอนั้นก็ยินดียื่นเงินเข้ามาช่วยอย่างกับว่าเงินพวกนั้นเป็นแค่เศษเงินหลังตู้เย็นของเขาน่ะ</Content>
         </Dialog>
         <Dialog ID="181" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland11</VoiceFile>
-          <Content>And you’re basically dragging that rich friend into your messy life by getting financial help from them, wouldn’t that be morally distressing?</Content>
+          <Content>แถมเธอก็ยังลากเพื่อนของเธอลงมาใช้ชีวิตเส็งเคร็งแบบเธอด้วย นั้นจะไม่ทำให้เธอทุกข์หนักเข้าไปอีกหรอ?</Content>
         </Dialog>
         <Dialog ID="182" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+	  <Teller>แองเจล่า</Teller>
+	 <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela6</VoiceFile>
-          <Content>Maybe the friend simply wanted to help, but didn’t know the best way to go about it.</Content>
+          <Content>บางทีเพื่อนก็แค่อยากจะช่วย แต่ไม่รู้จะช่วยยังไงก็ได้</Content>
         </Dialog>
         <Dialog ID="183" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland12</VoiceFile>
-          <Content>Whatever the case. It’s about how the receiver takes it, regardless of the intention.</Content>
+          <Content>จะเป็นแบบไหน มันก็แล้วแต่ว่าคนรับจะรู้สึกยังไงต่างหาก ไม่ว่าจะให้ด้วยเจตนาอะไรก็ตาม</Content>
         </Dialog>
         <Dialog ID="184" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+	  <Teller>แองเจล่า</Teller>
+	 <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela7</VoiceFile>
-          <Content>…I see.</Content>
+          <Content>…อย่างนี้นี่เอง</Content>
         </Dialog>
         <Dialog ID="185" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland13</VoiceFile>
-          <Content>Going back to our guests who willingly joined the freak show… I guess they were that desperate to achieve their dreams, huh?</Content>
+          <Content>แต่ว่านะถึงขนาดที่ยอมไปเข้าร่วมกับคณะตลกแปลกๆนั่น… แปลว่าคนพวกนั้นน่าจะหมดหวังกับความฝันของพวกเขาสุดๆแล้วก็ได้?</Content>
         </Dialog>
         <Dialog ID="186" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland14</VoiceFile>
-          <Content>This world surely is big enough to fit in all kinds of weird freaks… I can understand wanting to have a refuge from reality somewhat.</Content>
+          <Content>โลกนี้มันใหญ่พอที่จะยัดพวกแปลกๆเข้ามา… ฉันก็พอเข้าใจว่าบางครั้งเราก็ต้องหนีจากความเป็นจริงบ้าง</Content>
         </Dialog>
         <Dialog ID="187" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland15</VoiceFile>
-          <Content>Even then, thinking about what kind of hideous body might be hiding under that beautiful clothing… Geh, it’s making me retch.</Content>
+          <Content>ถึงอย่างนั้นก็เถอะ แค่คิดว่ามีร่างกายที่น่าเกลียดอยู่ใต้เสื้อผ้าที่แสนสวยพวกนั้นแล้ว… มันก็ทำให้รู้สึกคลื่นไส้ไปหมด</Content>
         </Dialog>
         <Dialog ID="188" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+	  <Teller>แองเจล่า</Teller>
+	 <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela8</VoiceFile>
-          <Content>Curb your unnecessary curiosity. You should focus on the reception for now.</Content>
+          <Content>เก็บความสงสัยที่ไม่จำเป็นพวกนั้นไปก่อนเถอะ นายควรโฟกัสกับการต้อนรับได้แล้ว</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Outside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านนอกห้องสมุด</PlaceName>
         <Dialog ID="189" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Emma39</VoiceFile>
-          <Content>Am I on the right track? Are we still far from the Library…</Content>
+          <Content>นี่ ฉันยังไปถูกทางใช่ไหม? ยังอีกไกลไหมกว่าจะถึงห้องสมุดน่ะ…</Content>
         </Dialog>
         <Dialog ID="190" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Noah52</VoiceFile>
-          <Content>No, it’s right ahead of us. Take slow steps just in case.</Content>
+          <Content>ผิดแล้ว มันอยู่ข้างหน้าเราต่างหาก เดินช้าๆนะเพื่อมีอะไรเกิดขึ้น</Content>
         </Dialog>
         <Dialog ID="191" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Noah53</VoiceFile>
-          <Content>For a place that’s supposedly full of monsters… It’s actually rather quiet and clean.</Content>
+          <Content>สำหรับที่ที่เต็มไปด้วยสัตว์ประหลาดแล้ว… มันค่อนข้างเงียบแถมสะอาดอีกด้วย</Content>
         </Dialog>
         <Dialog ID="192" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Emma40</VoiceFile>
-          <Content>I think this place is big and fancy… though not as much as our circus. My head isn’t bumping on any ceilings.</Content>
+          <Content>ฉันว่าที่นี่มันต้องใหญ่และหรูหราแน่… ถึงจะไม่ใหญ่เท่าโรงละครของเราก็เถอะ แต่หัวฉันยังไม่ไปโขกกับเพดานเลย</Content>
         </Dialog>
         <Dialog ID="193" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+	  <Teller>แองเจล่า</Teller>
+	 <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela9</VoiceFile>
-          <Content>Greetings, dear guests.</Content>
+          <Content>ยินดีต้อนรับค่ะ แขกผู้มีเกียรติ</Content>
         </Dialog>
         <Dialog ID="194" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+	  <Teller>แองเจล่า</Teller>
+	 <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela10</VoiceFile>
-          <Content>I am Angela, the director and librarian of my role’s namesake.</Content>
+          <Content>ดิฉันแองเจล่า เป็นบรรณารักษ์และผู้ดูแลที่แห่งนี้</Content>
         </Dialog>
         <Dialog ID="195" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Emma41</VoiceFile>
-          <Content>Hello!!! Can you hear my voice~!!!</Content>
+          <Content>สวัสดีครับ!!! ได้ยินที่ผมพูดไหมครับ~!!!</Content>
         </Dialog>
         <Dialog ID="196" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+	  <Teller>แองเจล่า</Teller>
+	 <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela11</VoiceFile>
-          <Content>…Yes, I can hear you loud and clear. There is no need to shout at the top of your lungs.</Content>
+          <Content>…ดิฉันได้ยินค่ะ ไม่ต้องตะโกนสุดปอดก็ได้นะคะ</Content>
         </Dialog>
         <Dialog ID="197" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Noah54</VoiceFile>
-          <Content>She’s right below us, buddy o’ pal. And think of me who has to hear your voice up close.</Content>
+          <Content>เธอน่ะอยู่ข้างล่างเราแล้ว ไอ้เพื่อนยาก คิดถึงคนบนนี้ที่อยู่ใกล้นายบ้างก็ได้นะ</Content>
         </Dialog>
         <Dialog ID="198" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Emma42</VoiceFile>
-          <Content>Heh heh, sorry. I thought people down under wouldn’t hear me well since I’m so tall.</Content>
+          <Content>เฮะ เฮะ โทษทีนะ ฉันคิดว่าคนข้างล่างจะไม่ได้ยินฉันแล้วเพราะฉันตัวสูงซะขนาดนี้</Content>
         </Dialog>
         <Dialog ID="199" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Emma43</VoiceFile>
-          <Content>Angela! If we manage to get all the books we need… I’ll invite you to our next performance!</Content>
+          <Content>แองเจล่า! ถ้าเกิดเราได้หนังสือที่เราต้องการแล้วนะ… ผมจะเชิญให้คุณไปการแสดงครั้งต่อไปของเราด้วย!</Content>
         </Dialog>
         <Dialog ID="200" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Noah55</VoiceFile>
-          <Content>I’m sure those books contain the secret to making more people happy…</Content>
+          <Content>ฉันมั่นใจเลยว่าในหนังสือพวกนั้นมันต้องเก็บความลับที่จะทำให้ผู้คนมีความสุขได้…</Content>
         </Dialog>
         <Dialog ID="201" Model="노아">
-          <Teller>Noah</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>โนอาห์</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Noah56</VoiceFile>
-          <Content>With that, we’ll be able to turn your cold stare into a hearty smile.</Content>
+          <Content>ด้วยสิ่งนั้น พวกเราจะสามารถเปลี่ยนสายตาเย็นชาคู่นั้นให้กลายเป็นยิ้มกว้างแทนได้</Content>
         </Dialog>
         <Dialog ID="202" Model="에마">
-          <Teller>Emma</Teller>
-          <Title>Circus Trouper</Title>
+          <Teller>เอ็มม่า</Teller>
+          <Title>นักแสดงคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Emma44</VoiceFile>
-          <Content>We promise to bring you happiness, so please!! Look forward to it.</Content>
+          <Content>พวกเราสัญญาเลยว่าจะนำความสุขมาให้ เพราะงั้น!! เตรียมรอไว้ได้เลยนะ</Content>
         </Dialog>
         <Dialog ID="203" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+	  <Teller>แองเจล่า</Teller>
+	 <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela12</VoiceFile>
-          <Content>…Yes. I appreciate your sentiment.</Content>
+          <Content>…ค่ะ ขอบคุณสำหรับความจริงใจนะคะ</Content>
         </Dialog>
         <Dialog ID="204" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+	  <Teller>แองเจล่า</Teller>
+	 <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela13</VoiceFile>
-          <Content>May you… find your book in this place.</Content>
+          <Content>ขอให้คุณ… พบหนังสือที่ต้องการ ณ ที่แห่งนี้</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>Episode 1 Epilogue</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland16</VoiceFile>
-          <Content>I honestly thought the tall guy might break the Library’s entrance for a moment.</Content>
+          <Content>เอาตรงๆนะ ฉันคิดว่าไอ้หนุ่มตัวสูงนั่นจะพังทางเข้าห้องสมุดของเราซะอีก</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland17</VoiceFile>
-          <Content>Anyways, about the man who turned those two people into freaks…</Content>
+          <Content>ยังไงก็เถอะ พูดถึงไอ้คนที่ทำให้ทั้งคู่ต้องกลายเป็นตัวประหลาดนั้น…</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland18</VoiceFile>
-          <Content>You think he has something to do with the Blue Reverb’s gang of “musicians”?</Content>
+          <Content>คิดว่าเขาจะไปมีส่วนเกี่ยงข้องพวกแก๊ง“นักดนตรี”ของเสียงกัลวาลสีครามไหม?</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+	  <Teller>แองเจล่า</Teller>
+	 <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela14</VoiceFile>
-          <Content>It’s too early to make such a conclusion.</Content>
+          <Content>มันยังเร็วไปที่จะตัดสินใจนะ</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+	  <Teller>แองเจล่า</Teller>
+	 <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela15</VoiceFile>
-          <Content>His purpose of sending people here seemed different from that of the Blue Reverberation and those related to him.</Content>
+          <Content>เป้าหมายของเขาที่ส่งคนมานั้นยังดูแตกต่างจากเสียงกัลวาลสีครามและพวกที่เกี่ยวข้องกับเขาด้วย</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
-          <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+         <Teller>แองเจล่า</Teller>
+	 <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Circus_ep1_Angela16</VoiceFile>
-          <Content>However, there’s something about him that differentiates him from ordinary humans. He could be a being of similar essence to the Blue Reverberation’s accomplices in some ways…</Content>
+          <Content>ถึงอย่างนั้น มันมีบางอย่างที่ทำให้เขาแตกต่างจากคนทั่วไปอยู่ เขาอาจจะเป็นสิ่งที่เสียงกัลวาลสีครามนั้นหมายปองอยู่ก็ได้…</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch5_Circus_ep1_Roland19</VoiceFile>
-          <Content>Neither of them look normal, that I can say for sure.</Content>
+          <Content>ที่แน่ๆก็คือ พวกมันทั้งคู่ดูไม่ปกติซักคน</Content>
         </Dialog>
       </Place>
     </Episode>
