@@ -1889,7 +1889,7 @@ This train is operating as intended.</Content>
           <Teller>เอ็มม่า</Teller>
           <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma11</VoiceFile>
-          <Content>มีอะไรตั้งหลายอย่างที่นายทำได้นอกจากนั่งมองหน้าจอเบื่อๆไปทั้งวัน บางอย่างที่นายมีพรสวรรค์ฃ!</Content>
+          <Content>มีอะไรตั้งหลายอย่างที่นายทำได้นอกจากนั่งมองหน้าจอเบื่อๆไปทั้งวัน บางอย่างที่นายมีพรสวรรค์!</Content>
         </Dialog>
         <Dialog ID="30" Model="노아">
           <Teller>โนอาห์</Teller>
@@ -1949,8 +1949,8 @@ This train is operating as intended.</Content>
           <Content>ฉันเหมือนเคยได้ยินอะไรแบบนี้อยู่ในหนังสืออยู่… มันเรียกว่าอะไรนะ… โรงละครสั—</Content>
         </Dialog>
         <Dialog ID="39" Model="오스왈드">
-	 <Teller>ออสวอลด์</Teller>
-	 <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald7</VoiceFile>
           <Content>ชิชะ! แขกคนใหม่เองหรือนี่? แต่การแสดงของพวกเราก็พึ่งจบไปเองนะจ๊ะ</Content>
         </Dialog>
@@ -1967,8 +1967,8 @@ This train is operating as intended.</Content>
           <Content>อะ คุณคงเป็นเจ้าของที่นี่สินะครับ? เราต้องขอโทษด้วย… เรามาดูเผื่อมีใครพอจะบอกทางเราได้ไหม</Content>
         </Dialog>
         <Dialog ID="42" Model="오스왈드">
-	 <Teller>ออสวอลด์</Teller>
-	 <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald8</VoiceFile>
           <Content>พุทโธ่ พุทธัง… ฟังดูเป็นเรื่องใหญ่เอาการอยู่… แต่ไม่ต้องเป็นกังวลไป</Content>
         </Dialog>
@@ -1979,20 +1979,20 @@ This train is operating as intended.</Content>
           <Content>ที่นี่คือคณะละครสัตว์ 8 นาฬิกา พร้อมจะมอบรอยยิ้มแสนหวานให้กับชาวเมืองแสนเหม็นฉึ่ง!</Content>
         </Dialog>
         <Dialog ID="44" Model="오스왈드">
-	 <Teller>ออสวอลด์</Teller>
-	 <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald10</VoiceFile>
           <Content>เราข้ามการแนะนำตัวไปเลยละกันเนอะ ชื่อของกระผมนั้นมันไม่สำคัญอะไรอยู่แล้วนิ?</Content>
         </Dialog>
         <Dialog ID="45" Model="오스왈드">
-	 <Teller>ออสวอลด์</Teller>
-	 <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald11</VoiceFile>
-          <Content>ยุคสมัยที่ยังแนะนำตัวโดยบอกชื่อกันนั้นมันเฉิ่มเบ๊อะไปแล้ว~</Content>
+         <Content>ยุคสมัยที่ยังแนะนำตัวโดยบอกชื่อกันนั้นมันเฉิ่มเบ๊อะไปแล้ว~</Content>
         </Dialog>
         <Dialog ID="46" Model="오스왈드">
-	 <Teller>ออสวอลด์</Teller>
-	 <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald12</VoiceFile>
           <Content>งั้นเรามาดมข้อมือกันและกันแทนเลยดีไหมจ๊ะ?</Content>
         </Dialog>
@@ -2009,14 +2009,14 @@ This train is operating as intended.</Content>
           <Content>เอ็มม่า ที่นี่น่าขนลุกมากเลย รีบเผ่นกันดีกว่า…</Content>
         </Dialog>
         <Dialog ID="49" Model="오스왈드">
-	 <Teller>ออสวอลด์</Teller>
-	 <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald13</VoiceFile>
           <Content>ตายจริง! นี่กระผมนั้นน่ากลัวเกินไปสำหรับคุณหรอครับเนี้ย!?</Content>
         </Dialog>
         <Dialog ID="50" Model="오스왈드">
-	 <Teller>ออสวอลด์</Teller>
-	 <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald14</VoiceFile>
           <Content>แต่วางใจหายห่วงได้เลย! กระผมก็แค่ตัวตลกที่อยากจะคั่นน้ำเลม่อนใส่ลิ้นทุกคนก็เท่านั้น!</Content>
         </Dialog>
@@ -2036,7 +2036,7 @@ This train is operating as intended.</Content>
           <Teller>เอ็มม่า</Teller>
           <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Emma18</VoiceFile>
-          <Content>บอลยักษ์ เครื่องดนตรีหลากหลายประเภท มีสิงโตและช้างด้วย! แถมยังมี…</Content>
+           <Content>บอลยักษ์ เครื่องดนตรีหลากหลายประเภท มีสิงโตและช้างด้วย! แถมยังมี…</Content>
         </Dialog>
         <Dialog ID="54" Model="노아">
           <Teller>โนอาห์</Teller>
@@ -2051,14 +2051,14 @@ This train is operating as intended.</Content>
           <Content>หนังสือมันบอกว่าคณะละครสัตว์แบบนี้กลายเป็นแค่ประวัติศาสตร์ไปเมื่อนานมาแล้ว…</Content>
         </Dialog>
         <Dialog ID="56" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
+          <Teller>ออสวอลด์</Teller>
           <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald16</VoiceFile>
           <Content>อยากจะรู้อะไรเกี่ยวกับพวกเราไหมครับ? ถ้าอยากล่ะก็… กระผมจะให้ข้อเสนอคุณได้นะ! การทัศนศึกษาครั้งหนึ่งในชีวิตนี้</Content>
         </Dialog>
         <Dialog ID="57" Model="오스왈드">
-	 <Teller>ออสวอลด์</Teller>
-	 <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald17</VoiceFile>
           <Content>แถมกระผมนั้งยังอารมณ์ค้างอยู่เลย!</Content>
         </Dialog>
@@ -2087,14 +2087,14 @@ This train is operating as intended.</Content>
           <Content>ฮะๆ นายนี่ตลกจัง</Content>
         </Dialog>
         <Dialog ID="62" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald18</VoiceFile>
           <Content>ช่างเป็นมิตรภาพที่แสนวิเศษอะไรขนาดนี้! งั้นก็… เชิญเข้ามาได้เลยครับ</Content>
         </Dialog>
         <Dialog ID="63" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald19</VoiceFile>
           <Content>โอ้ะ เกือบลืมไป มองเท้าตัวเองก่อนเดินด้วยนะครับ~ เดี๋ยวดอกไม้มันกัดเอาน่ะ!</Content>
         </Dialog>
@@ -2108,20 +2108,20 @@ This train is operating as intended.</Content>
       <Place>
         <PlaceName>สถานที่: ด้านในเต้นท์คณะละครสัตว์</PlaceName>
         <Dialog ID="65" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald20</VoiceFile>
           <Content>สุภาพบุรุษแสนสง่าตรงนี้คือคุณสิงโต เขาเป็นคนที่แข็งแรงที่สุดในหมู่เราแล้วครับ!</Content>
         </Dialog>
         <Dialog ID="66" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald21</VoiceFile>
           <Content>เขาอาจจะดูเย็นชาและเฉียบคม แต่ในใจลึกๆแล้ว เขาทั้งอ่อนนุ่มและอบอุ่นราวกับเสื้อขนสัตว์แหนะครับ!</Content>
         </Dialog>
         <Dialog ID="67" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald22</VoiceFile>
           <Content>รู้รึเปล่า ว่าผู้คนมักรีวิวให้คะแนน5ดาวสำหรับส่วนท้องของคุณสิงโตเสมอเลยล่ะครับ~?</Content>
         </Dialog>
@@ -2144,20 +2144,20 @@ This train is operating as intended.</Content>
           <Content>…ฉันอาจจะมองผิดเพราะมันมืดก็ได้ แต่ว่า… ยังไงก็ไม่อยากไปจับท้องมันหรอก…</Content>
         </Dialog>
         <Dialog ID="71" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald23</VoiceFile>
           <Content>สุภาพบุรุษอีกท่านก็คือคุณช้าง! เขาชอบทำเสียงดังที่สุดในคณะของเราแล้ว</Content>
         </Dialog>
         <Dialog ID="72" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald24</VoiceFile>
           <Content>พูดตามตรงนะครับ… เขาชอบร้องเพลงมากร้องตลอดเวลาเลย เราเลยต้องให้ลูกอมเขาเพื่อให้เขายอมเงียบลงไปน่ะ!</Content>
         </Dialog>
         <Dialog ID="73" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald25</VoiceFile>
           <Content>ก็กระผมนั้นไม่อยากให้ใครมารายงานว่าเราเป็นตัวการสร้างมลพิษทางเสียงให้คนรอบๆน่ะครับ!</Content>
         </Dialog>
@@ -2168,20 +2168,20 @@ This train is operating as intended.</Content>
           <Content>ที่นี่ที่ไหนก็ไม่รู้ ฉันไม่คิดหรอกว่าจะมีใครมารายง—</Content>
         </Dialog>
         <Dialog ID="75" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald26</VoiceFile>
           <Content>อย่ามาพูดเป็นเล่นได้ไหมครับ! ถ้าคุณมดได้ยินเข้าเดี๋ยวเขาก็เสียใจหรอก เรามีมีรังมดรังใหญ่อยู่ใต้เรานะครับ</Content>
         </Dialog>
         <Dialog ID="76" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald27</VoiceFile>
           <Content>แถมเราก็ยังมีคุณนายนางเงือก คุณหมวกทรงหกเหลี่ยม คุณมีด และก็อีกหลากหลายคุณนับไม่ทวนครับ!</Content>
         </Dialog>
         <Dialog ID="77" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald28</VoiceFile>
           <Content>คุณนายนางเงือกมาอยู่กับพวกเราก็เพราะว่าเธอกลัวทะเลน่ะครับ เธอพอใจมากเลยที่ได้อยู่บนพื้นดินแล้ว!</Content>
         </Dialog>
@@ -2193,13 +2193,13 @@ This train is operating as intended.</Content>
         </Dialog>
         <Dialog ID="79" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald29</VoiceFile>
           <Content>เฮ้อ นี่เป็นเหตุผลว่าทำไมผมถึงไม่ชอบจัดการกับพวกสมองทึบอะนะ</Content>
         </Dialog>
         <Dialog ID="80" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald30</VoiceFile>
           <Content>เรื่องที่เราพูดกันอยู่เนี้ยเป็นเรื่องง่ายๆเบสิคๆนะครับ ไม่รู้รึไงว่าถ้าเราไปอยู่ในทะเลเราจะกลายเป็นอาหารปลาได้น่ะครับ?</Content>
         </Dialog>
@@ -2211,19 +2211,19 @@ This train is operating as intended.</Content>
         </Dialog>
         <Dialog ID="82" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald31</VoiceFile>
-          <Content>ชิชะ!!!</Content>
+       <Content>ชิชะ!!!</Content>
         </Dialog>
         <Dialog ID="83" Model="오스왈드">
-         <Teller>ออสวอลด์</Teller>
-	 <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald32</VoiceFile>
           <Content>ปลาน่ะกินปลาด้วยกันอยู่ตลอดเวลาไม่ใช่เรอะ!!!</Content>
         </Dialog>
         <Dialog ID="84" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald33</VoiceFile>
           <Content>…เฮ้อ พออารมณ์พลุกพล่านแล้วหลุดคาแรคเตอร์เลยเรา! นี่กระผมพูดถึงไหนแล้วครับ?</Content>
         </Dialog>
@@ -2277,7 +2277,7 @@ This train is operating as intended.</Content>
         </Dialog>
         <Dialog ID="93" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald34</VoiceFile>
           <Content>โอ๊ะ โอ นี่คุณอยากเข้าร่วมกับพวกเราหรอครับ?</Content>
         </Dialog>
@@ -2289,19 +2289,19 @@ This train is operating as intended.</Content>
         </Dialog>
         <Dialog ID="95" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald35</VoiceFile>
           <Content>โธ่ถัง น่าเสียดายนะครับเนี้ย… ทุกๆคนน่ะไม่เข้าใจทั้งคำพูดและการกระทำขอกระงผม เลยพากันหนีกระผมไปทีละคนทีละคน</Content>
         </Dialog>
         <Dialog ID="96" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald36</VoiceFile>
           <Content>มีแค่เพื่อนลับของกระผมเท่านั้นที่ยังอยู่กับกระผมจนถึงวินาทีสุดท้ายน่ะครับ!</Content>
         </Dialog>
         <Dialog ID="97" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald37</VoiceFile>
           <Content>นางเงือกที่กินเจลลี่บีนอยู่ใต้เปลือกหอย… และแฮมสเตอร์ที่สู๊งสูง สูงจนกินเมฆที่อยู่บนฟ้าได้เลย…</Content>
         </Dialog>
@@ -2313,19 +2313,19 @@ This train is operating as intended.</Content>
         </Dialog>
         <Dialog ID="99" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-			<Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald38</VoiceFile>
           <Content>ความพยายามที่จะมอบรอยยิ้มให้กับผู้คนของกระผมนั้นถูกชื่นชอบโดยคุณนายพระอาทิตย์ ผู้ที่กระซิบใส่กระผมว่าเธอจะทำให้ความฝันของกระผมนั้นเป็นจริงได้</Content>
         </Dialog>
         <Dialog ID="100" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-			<Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald39</VoiceFile>
           <Content>มันเป็นคำขอที่สุดขีด สุดชีวิต และสุดกู่ที่สุดที่ได้ทำเรื่องสนุกๆไปกับเพื่อนลับของกระผม!</Content>
         </Dialog>
         <Dialog ID="101" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-	   <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald40</VoiceFile>
           <Content>เพราะงั้นกระผมจึงสามารถใช้ชีวิตอยู่ในความฝันของกระผมได้ ได้เปิดการแสดงที่โรงละครสัตว์พร้อมกับเพื่อนของกระผมทุกคืนอย่างมีความสุขน่ะครับ</Content>
         </Dialog>
@@ -2337,7 +2337,7 @@ This train is operating as intended.</Content>
         </Dialog>
         <Dialog ID="103" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald41</VoiceFile>
           <Content>มันแน่อยู่แล้วที่คุณนั้นจะยึดติดกับพวกเรา! กระผมนั้นเข้าใจ๊ เข้าใจดีเลยล่ะครับ</Content>
         </Dialog>
@@ -2349,7 +2349,7 @@ This train is operating as intended.</Content>
         </Dialog>
         <Dialog ID="105" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald42</VoiceFile>
           <Content>ไม่ต้องพูดถึงเลยครับ! เอาเป็นว่าทุกช่วงชีวิตของคุณหลังจากนี้จะเต็มเปี่ยมไปด้วยรสชาติที่หน้าตื่นเต้นของพริกไทยอะครับ!</Content>
         </Dialog>
@@ -2426,32 +2426,32 @@ This train is operating as intended.</Content>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="118" Model="오스왈드">
-           <Teller>ออสวอลด์</Teller>
-	   <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald43</VoiceFile>
           <Content>แหม แหม… แถวนี่ดูอารมณ์บ่จอยกันจังเลยน่ะครับ!</Content>
         </Dialog>
         <Dialog ID="119" Model="오스왈드">
-           <Teller>ออสวอลด์</Teller>
-	   <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald44</VoiceFile>
           <Content>คุณจะเข้าร่วมกับพวกเราไม่ได้นะครับถ้ายังมีน้ำตาเพื่อนใจร้ายอยู่อะครับ?</Content>
         </Dialog>
         <Dialog ID="120" Model="오스왈드">
-           <Teller>ออสวอลด์</Teller>
-	   <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald45</VoiceFile>
           <Content>งั้นก็! กระผมจะช่วยให้คุณบอกลาพวกเพื่อนใจร้ายพวกนั้นลงไปละกัน เราจะเป็นเพื่อนกันก่อนที่จะรู้สึกตัวซะอีก!</Content>
         </Dialog>
         <Dialog ID="121" Model="오스왈드">
-           <Teller>ออสวอลด์</Teller>
-	   <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald46</VoiceFile>
           <Content>งั้นก็ เริ่ม…</Content>
         </Dialog>
         <Dialog ID="122" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald47</VoiceFile>
           <Content>…โอะ โอ้ ตื่นซักทีนะครับ! คุณนั้นหลับไปน๊าน นาน จนกระผมคิดว่าต้องเอาไก่ย่างมาวางล่อให้ตื่นซะอีก!</Content>
         </Dialog>
@@ -2462,20 +2462,20 @@ This train is operating as intended.</Content>
           <Content>โลกมัน… โลกมันมากเกินไปแล้ว… อะไรกันเนี้ย มันทำให้ฉันเวียนหัวไปหมด…</Content>
         </Dialog>
         <Dialog ID="124" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald48</VoiceFile>
           <Content>สบายใจหายห่วงได้เลย เดี๋ยวแปปๆคุณก็ชินเองแหละ!</Content>
         </Dialog>
         <Dialog ID="125" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald49</VoiceFile>
           <Content>เป็นของขวัญสำหรับเพื่อนที่ช่างสังเกตและขี้สงสัยของเรา ผู้ที่ต้องการมองลงมาบนโลกจากที่ห่างไกล!</Content>
         </Dialog>
         <Dialog ID="126" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald50</VoiceFile>
           <Content>กระผมให้ดวงตาที่สามารถจ้องมองไปได้ทุกที่ ตั้งแต่มดบนพื้นจนถึงแมงมุมบนเพดาน คิดซะว่าเป็นของขวัญต้อนรับจากพวกเราก็ได้นะ!</Content>
         </Dialog>
@@ -2516,14 +2516,14 @@ This train is operating as intended.</Content>
           <Content>ฉันเลยจะยกนายขึ้นไป นายน่ะน่าจะเห็นอะไรมากขึ้นจากความสูงใหม่นี่นะ</Content>
         </Dialog>
         <Dialog ID="133" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald51</VoiceFile>
           <Content>ผมนี่ซึ้งใจจริงๆที่พวกคุณดูจะชอบของขวัญของพวกเรานะครับ!</Content>
         </Dialog>
         <Dialog ID="134" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald52</VoiceFile>
           <Content>แต่ดูเหมือนว่า กระผมคงจะมีคำขอเล็กๆน้อยๆให้พวกคุณสองคนทำน่ะครับ</Content>
         </Dialog>
@@ -2534,20 +2534,20 @@ This train is operating as intended.</Content>
           <Content>แล้วมันคืออะไร?</Content>
         </Dialog>
         <Dialog ID="136" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald53</VoiceFile>
           <Content>จริงๆแล้ว… ไม่นานมานี้มันมีพวกเล๊วเลวเข้ามาในเต้นท์ของเราแล้วก็กลืนเพื่อนของกระผมไปอะครับ!</Content>
         </Dialog>
         <Dialog ID="137" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald54</VoiceFile>
           <Content>โธ๊ โธ่ คุณนายฮิปโปและคุณบอลที่น่าฉงฉาน… วันนั้นกระผมเศร้ามาก จนกระผมขมวดคิ้วทีหนึงก็ยาวประมาณ3ไส้กรอกได้เลยครับ…</Content>
         </Dialog>
         <Dialog ID="138" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald55</VoiceFile>
           <Content>แถมสถานที่ใหญ่โตและสวยงามแห่งนี้ก็พังเละไม่เป็นท่าต้องขอบคุณพวกนั้นเลย</Content>
         </Dialog>
@@ -2558,32 +2558,32 @@ This train is operating as intended.</Content>
           <Content>นั่นเลวร้ายมากเลย แล้วใครเป็นคนทำหรอ?</Content>
         </Dialog>
         <Dialog ID="140" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald56</VoiceFile>
           <Content>มันไม่สำคัญหรอกว่าพวกเขาเป็นใคร ที่กระผมรู้นั้น… ก็มีแค่พวกเขาไปสถานที่ที่ชื่อว่าห้องสมุดหลังจากนั้น!</Content>
         </Dialog>
         <Dialog ID="141" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald57</VoiceFile>
           <Content>คณะละครสัตว์ของพวกเรานั้นไม่เคยล้มเลวกันเลยซักครั้ง แต่ด้วยอะไรบางอย่าง พวกเราทำให้ใจของพวกเขาสั่นคลอนไม่ได้เลยน่ะครับ…</Content>
         </Dialog>
         <Dialog ID="142" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald58</VoiceFile>
           <Content>กระผมล่ะอยากจะรู้จริงๆ! ทำไม๊ ทำไม!!!</Content>
         </Dialog>
         <Dialog ID="143" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald59</VoiceFile>
           <Content>…ไม่ ไม่ ฟิ้ว! กระผมแค่สงสัยว่าทำไมดอกไม้ของพวกเขาไม่บานออกหลังจากชมการแสดงที่แสนน่ารักของกระผมไป</Content>
         </Dialog>
         <Dialog ID="144" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald60</VoiceFile>
           <Content>ถ้าเกิดเราได้อ่านหนังสือของพวกเขา… งั้นเราก็สามารถทำให้คณะละครสัตว์ของเรานั้นเอ็นเตอร์เทนมากขึ้นได้ จนพวกคนอย่างพวกเขาต้องเต้นจนเกลือหกเลย ว่าไหมครับ?</Content>
         </Dialog>
@@ -2600,20 +2600,20 @@ This train is operating as intended.</Content>
           <Content>มันจะดีหรอที่ให้พวกเราเข้าไปน่ะ…</Content>
         </Dialog>
         <Dialog ID="147" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald61</VoiceFile>
           <Content>ฮือ พวกคุณนี่ใจดีจริงๆ! กระผมรู้อยู่แล้วว่าหวังพึ่งพวกคุณทั้งคู่ได้น่ะ กระซิก กระซิก…</Content>
         </Dialog>
         <Dialog ID="148" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald62</VoiceFile>
           <Content>ถ้าเกิดพวกคุณรอดกลับมาได้นะ เดี๋ยวพวกเราจะจัดงานปาร์ตี้เลี้ยงฉลองไปเลย!</Content>
         </Dialog>
         <Dialog ID="149" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald63</VoiceFile>
           <Content>เดี๋ยวเราจะกินอาหารหายากต่างโลกกันอย่างค็อกเทลทะเลตกแต่งด้วยปุยเมฆ กับแผงคอสิงโตผัดพริกแกง!</Content>
         </Dialog>
@@ -2630,31 +2630,32 @@ This train is operating as intended.</Content>
           <Content>ถ้าเกิดนายต้องการล่ะก็</Content>
         </Dialog>
         <Dialog ID="152" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald64</VoiceFile>
           <Content>…</Content>
-		<Dialog ID="153" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+        </Dialog>
+        <Dialog ID="153" Model="오스왈드">
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald65</VoiceFile>
           <Content>ฟิ้ว ตอนนี้เราต้องเตรียมอะไรอีกเยอะแยะเลย!</Content>
         </Dialog>
         <Dialog ID="154" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald66</VoiceFile>
           <Content>อย่างแรกเลย สำหรับคู่หูคู่นั้น… เราต้องเตรียมจัดงานเลี้ยงหนักๆจนฟันของพวกเขาต้องร้ำร้องกันเลยทีเดียว!</Content>
         </Dialog>
         <Dialog ID="155" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald67</VoiceFile>
           <Content>เราต้องหาสมาชิกในคณะละครสัตว์ของเราเพิ่ม… แล้วฝึกซ้อมเกล็ดของคุณนายนางเงือก แล้วก็…</Content>
         </Dialog>
         <Dialog ID="156" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald68</VoiceFile>
           <Content>อุ ต๊ะ! ใครกันเสียมารยาทเข้ามา!?</Content>
         </Dialog>
@@ -2671,15 +2672,14 @@ This train is operating as intended.</Content>
           <Content>ฉันมั่นใจว่า… ฉันสู้อยู่ข้างในห้องสมุดนั้นอยู่…</Content>
         </Dialog>
         <Dialog ID="159" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald69</VoiceFile>
           <Content>…</Content>
         </Dialog>
-        </Dialog>
         <Dialog ID="160" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald70</VoiceFile>
           <Content>…ฮ่าๆๆๆ! หรือว่าคุณคือตัวตลกคนใหม่กัน? หรือว่าคุณแค่มาดูการแสดงของพวกเรา?</Content>
         </Dialog>
@@ -2690,20 +2690,20 @@ This train is operating as intended.</Content>
           <Content>ไม่นะ ผมแค่…</Content>
         </Dialog>
         <Dialog ID="162" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald71</VoiceFile>
           <Content>จะยังไงก็ดีทั้งคู่นั้นแหละ! จัดงานแสดงเล็กๆน้อยๆให้ตัวตลกผู้มาเยือนของเรานั้นง่ายซะยิ่งกว่าเคี้ยวหมากฝรั่งเย็นเฉียบรสพายซะอีก</Content>
         </Dialog>
         <Dialog ID="163" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald72</VoiceFile>
           <Content>ที่นี่คือ… คณะละครสัตว์ 8 นาฬิกา!</Content>
         </Dialog>
         <Dialog ID="164" Model="오스왈드">
-	  <Teller>ออสวอลด์</Teller>
-	  <Title>หัวหน้าคณะละครสัตว์</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald73</VoiceFile>
           <Content>เรานั้นคอยมอบกลิ่นที่ดีที่สุดให้กับชาวเมืองผู้ที่ก้านดอกไม้ของเขาโดนตัดทิ้งไปแล้ว</Content>
         </Dialog>
@@ -5564,14 +5564,14 @@ This train is operating as intended.</Content>
       <Place>
         <PlaceName>Location: Inside a Circus Tent</PlaceName>
         <Dialog ID="0" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald1</VoiceFile>
           <Content>This is… the 8 o’Clock Circus!</Content>
         </Dialog>
         <Dialog ID="1" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald2</VoiceFile>
           <Content>We bring the bestest of the smells to City people who have lost their flower stalks.</Content>
         </Dialog>
@@ -5582,26 +5582,26 @@ This train is operating as intended.</Content>
           <Content>What…? The 8 o’Clock… Circus?</Content>
         </Dialog>
         <Dialog ID="3" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald3</VoiceFile>
           <Content>Don’t tell me, do you perhaps not know what a circus is?</Content>
         </Dialog>
         <Dialog ID="4" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald4</VoiceFile>
           <Content>Well, no matter! Venturing into unknown tastes always comes with a stomachache, after all!</Content>
         </Dialog>
         <Dialog ID="5" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald5</VoiceFile>
           <Content>We are the circus whose singular purpose is to spread the flower seeds of the people.</Content>
         </Dialog>
         <Dialog ID="6" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald6</VoiceFile>
           <Content>If ten people could become clowns and blow up one thousand flowers… Oh, just imagine how wonderfully joyous this world would be!</Content>
         </Dialog>
@@ -5618,20 +5618,20 @@ This train is operating as intended.</Content>
           <Content>Ugh… These are… …Oh, what the…! These… These are all… people…</Content>
         </Dialog>
         <Dialog ID="9" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald7</VoiceFile>
           <Content>My oh my oh my! Our new clown friend still seems to be a shy one!</Content>
         </Dialog>
         <Dialog ID="10" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald8</VoiceFile>
           <Content>Maybe I should introduce you to the rest of our troupe first.</Content>
         </Dialog>
         <Dialog ID="11" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald9</VoiceFile>
           <Content>Alright, Ms. Mermaid and Mr. Knife? Let’s share some of our salts with him!</Content>
         </Dialog>
@@ -5642,8 +5642,8 @@ This train is operating as intended.</Content>
           <Content>Stop, stop it!!</Content>
         </Dialog>
         <Dialog ID="13" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald10</VoiceFile>
           <Content>Oh dear, oh my… Looks like Ms. Mermaid didn’t have enough practice with her scaly mane, you lackadaisical girl… Your voice is too small! Or are you feeling timid all of a sudden? Whatever the case!</Content>
         </Dialog>
@@ -5654,20 +5654,20 @@ This train is operating as intended.</Content>
           <Content>You maniacs… This is all abnormal…</Content>
         </Dialog>
         <Dialog ID="15" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald11</VoiceFile>
           <Content>Who gets to decide what’s normal and what’s abnormal, now?</Content>
         </Dialog>
         <Dialog ID="16" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald12</VoiceFile>
           <Content>If everyone wears a hat weaved from fancy rats on their head… Should that be considered normal?!</Content>
         </Dialog>
         <Dialog ID="17" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald13</VoiceFile>
           <Content>Haha! Hahahah!!</Content>
         </Dialog>
@@ -5678,8 +5678,8 @@ This train is operating as intended.</Content>
           <Content>You won’t ever get to be considered normal, that’s for sure…</Content>
         </Dialog>
         <Dialog ID="19" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald14</VoiceFile>
           <Content>Harumph, you’re such a rude fellow, aren’t you!</Content>
         </Dialog>
@@ -5708,20 +5708,20 @@ This train is operating as intended.</Content>
           <Content>Talk about a coincidence…</Content>
         </Dialog>
         <Dialog ID="24" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald15</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="25" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald16</VoiceFile>
           <Content>You… You’re actually starting to give a similar stink as mine!</Content>
         </Dialog>
         <Dialog ID="26" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald17</VoiceFile>
           <Content>But the stench isn’t strong enough just yet; you’re still too fragrant!</Content>
         </Dialog>
@@ -5732,20 +5732,20 @@ This train is operating as intended.</Content>
           <Content>Shut up! I’ll slay you… here and now…</Content>
         </Dialog>
         <Dialog ID="28" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald18</VoiceFile>
           <Content>Hm… Still smells good, way too good…</Content>
         </Dialog>
         <Dialog ID="29" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald19</VoiceFile>
           <Content>But, what if we mixed that fragrance with a filthy smell to create a new, boggy scent!</Content>
         </Dialog>
         <Dialog ID="30" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald20</VoiceFile>
           <Content>Okay, alright. Let’s perform with me, shall we!</Content>
         </Dialog>
@@ -5768,8 +5768,8 @@ This train is operating as intended.</Content>
           <Content>What the… What are you…</Content>
         </Dialog>
         <Dialog ID="34" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald21</VoiceFile>
           <Content>A big hand for the three clowns who will lead the show~ Clappity clap~</Content>
         </Dialog>
@@ -5780,32 +5780,32 @@ This train is operating as intended.</Content>
           <Content>I… What the hell have you done…</Content>
         </Dialog>
         <Dialog ID="36" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald22</VoiceFile>
           <Content>Whoopsie daisy, you’re making such a humpy face!</Content>
         </Dialog>
         <Dialog ID="37" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald23</VoiceFile>
           <Content>Surprise is a stimulant, one that leads to laughter and entertainment!</Content>
         </Dialog>
         <Dialog ID="38" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald24</VoiceFile>
           <Content>A true flower only blooms after you have faced your biggest inner abscess and squeezed all the pus out of it!</Content>
         </Dialog>
         <Dialog ID="39" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald25</VoiceFile>
           <Content>You can’t laugh to your heart’s content until you’ve swallowed the fragrant pus of sadness whole, you know?</Content>
         </Dialog>
         <Dialog ID="40" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald26</VoiceFile>
           <Content>That’s where I would like to help you!</Content>
         </Dialog>
@@ -5822,8 +5822,8 @@ This train is operating as intended.</Content>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="43" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald27</VoiceFile>
           <Content>Oh, what an unexpected turn of events?!</Content>
         </Dialog>
@@ -5840,8 +5840,8 @@ This train is operating as intended.</Content>
           <Content>B-But, master already has a wife and children…</Content>
         </Dialog>
         <Dialog ID="46" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald28</VoiceFile>
           <Content>Hahaha! Talk about childish. This is such a typical telenovela we have here!</Content>
         </Dialog>
@@ -5852,26 +5852,26 @@ This train is operating as intended.</Content>
           <Content>Shut up… You, don’t you dare insult my two mentors with these false illusions!!!</Content>
         </Dialog>
         <Dialog ID="48" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald29</VoiceFile>
           <Content>Pardon? I would never.</Content>
         </Dialog>
         <Dialog ID="49" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald30</VoiceFile>
           <Content>Isn’t what you’re seeing right now… the putrid scent that you believed to be true in your heart so blindly and obviously?</Content>
         </Dialog>
         <Dialog ID="50" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald31</VoiceFile>
           <Content>Whether it’s true doesn’t matter! You were so certain about it, too. I don’t get why you could be trying to denounce your own claims now!</Content>
         </Dialog>
         <Dialog ID="51" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald32</VoiceFile>
           <Content>You’re pausing it at just the right moment like it’s a rerun you’ve watched over and over… There’s got to be a reason.</Content>
         </Dialog>
@@ -5882,8 +5882,8 @@ This train is operating as intended.</Content>
           <Content>Shut up, shut the hell up…!</Content>
         </Dialog>
         <Dialog ID="53" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald33</VoiceFile>
           <Content>“Did you know? The reason I shunned you, and the topic he wanted to discuss with you.”</Content>
         </Dialog>
@@ -5894,8 +5894,8 @@ This train is operating as intended.</Content>
           <Content>No… This has to be a dream… That—That pesky damn clown…</Content>
         </Dialog>
         <Dialog ID="55" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald34-01</VoiceFile>
           <Content>“That’s enough, Philip. We were simply…”</Content>
         </Dialog>
@@ -6086,20 +6086,20 @@ This train is operating as intended.</Content>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="87" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald35</VoiceFile>
           <Content>What’s this now?! You started exuding the same stink as mine?</Content>
         </Dialog>
         <Dialog ID="88" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald36</VoiceFile>
           <Content>Aren’t you a man of talent! You never told me you could make such vibrant expressions~!</Content>
         </Dialog>
         <Dialog ID="89" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald37</VoiceFile>
           <Content>And… oh. Could you be another new jester to visit us? You’re looking splendid!</Content>
         </Dialog>
@@ -6110,8 +6110,8 @@ This train is operating as intended.</Content>
           <Content>…Yes, hello. My name is Pluto.</Content>
         </Dialog>
         <Dialog ID="91" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald38</VoiceFile>
           <Content>You’ve come at just the right time! The three of us could make for a wonderful show~</Content>
         </Dialog>
@@ -6128,14 +6128,14 @@ This train is operating as intended.</Content>
           <Content>Was the relationship between the three people you just showed on the stage actual truth?</Content>
         </Dialog>
         <Dialog ID="94" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald39</VoiceFile>
           <Content>Pft, how lame! Why would anyone care about that at this point?!</Content>
         </Dialog>
         <Dialog ID="95" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald40</VoiceFile>
           <Content>What matters the most is that the show gave our audience fun and entertainment, isn’t it?!</Content>
         </Dialog>
@@ -6146,20 +6146,20 @@ This train is operating as intended.</Content>
           <Content>Creating illusions from one’s distorted desires, is it… I can see that this place amplifies people’s desires to the maximum.</Content>
         </Dialog>
         <Dialog ID="97" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald41</VoiceFile>
           <Content>Sniff, sniff… You’re also a rather smelly individual…</Content>
         </Dialog>
         <Dialog ID="98" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald42</VoiceFile>
           <Content>Ooh, did you also hear her voice?</Content>
         </Dialog>
         <Dialog ID="99" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald43</VoiceFile>
           <Content>…Nevermind that! Nooow, now! The audience is waiting, so please join me in the rest of the show!</Content>
         </Dialog>
@@ -6170,8 +6170,8 @@ This train is operating as intended.</Content>
           <Content>I’m afraid the circus must come to an end as of today.</Content>
         </Dialog>
         <Dialog ID="101" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Ringmaster</Title>
+          <Teller>ออสวอลด์</Teller>
+          <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald44</VoiceFile>
           <Content>Golly, what are you even talking about now?!</Content>
         </Dialog>
