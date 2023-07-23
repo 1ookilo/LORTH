@@ -457,187 +457,187 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland1</VoiceFile>
-          <Content>Whew… Got a ton of books for you, Malkuth!</Content>
+          <Content>เฮ้อ… ฉันมีหนังสือเยอะแยะมาให้เธอเลยนะ มัลคุท!</Content>
         </Dialog>
         <Dialog ID="1" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth1</VoiceFile>
-          <Content>By the way, I told you before that this is my third life, right?</Content>
+          <Content>ว่าแต่ ฉันเคยบอกนายไปแล้วว่า นี่คือชีวิตครั้งที่สามของฉันน่ะ ถูกไหม?</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland2</VoiceFile>
-          <Content>Oh, yeah. You been thinking about your previous lives?</Content>
+          <Content>อืม ใช่ เธอยังคงกำลังคิดเกี่ยวกับชีวิต ของเธอก่อนหน้านี้อยู่อีกหรอ?</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland3</VoiceFile>
-          <Content>By the way, I heard from Angela that this place is related to Lobotomy Corporation somehow. Is that really true?</Content>
+          <Content>อีกอย่างนึง ฉันได้ยินมาว่าที่แห่งนี้มีความเกี่ยวข้อง บางอย่างกับโลโบโทมีคอร์ปอยู่ นั้นน่ะมันจริงหรือเปล่าล่ะ?</Content>
         </Dialog>
         <Dialog ID="4" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth2</VoiceFile>
-          <Content>It’s not just “related somehow”. I was an AI in charge of the Control Team in Lobotomy Corporation.</Content>
+          <Content>มันไม่ใช่แค่ "เกี่ยวข้องกันเท่านั้น" ฉันเคยเป็นเอไอ ที่ดูแลทีมควบคุมของโลโบโทีมีคอร์ปน่ะ</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland4</VoiceFile>
-          <Content>AI? As in artificial intelligence? Hoooold on a sec. You’re an AI? Just like Angela?</Content>
+          <Content>เอไอหรอ? แบบเดียวกันกับปัญญาประดิษฐหรือเปล่า? เดี๋ยวก่อนนะ เธอเป็นเอไอสินะ? เหมือนกับแองเจล่างั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="6" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth3</VoiceFile>
-          <Content>…Sorry, my wording was a little off. I wasn’t a real AI.</Content>
+          <Content>…ขอโทษนะ ฉันใช้คำพูดผิดไปหน่อย จริงๆฉันไม่ใช่เอไอหรอก</Content>
         </Dialog>
         <Dialog ID="7" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth4</VoiceFile>
-          <Content>I was a human whose brain was restored for a second chance, if anything.</Content>
+          <Content>ฉันก็เป็นคนหนึ่ง ที่สมองได้รับการฟื้นฟู สำหรับโอกาสในการ ใช้ชีวิตในครั้งที่สองน่ะ</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland5</VoiceFile>
-          <Content>Sheesh, I was worried for a second that this place violated the AI Ethics Amendment even more than just one time. The Head could come burn this place to the ground at any moment if that were the case.</Content>
+          <Content>เฮ้ยๆ ฉันรู้สึกกังวลว่าสถานแห่งนี้อาจจะละเมิดกฏหมายจริยธรรม ปัญญาประดิษฐ์มากว่าหนึ่งข้อ ถ้าเป็นแบบนั้นเฮดอาจจะมา เผาที่เนี่ยทิ้งได้ทุกเมื่อเลยนะ</Content>
         </Dialog>
         <Dialog ID="9" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth5</VoiceFile>
-          <Content>You mean the institution that manages the City?</Content>
+          <Content>นายหมายถึงหน่วยงานที่ดูแลจัดการเมืองอยู่สินะ?</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland6</VoiceFile>
-          <Content>Yepper, that Head. They usually like to stay awfully quiet, but when they do have work, they’re scarily thorough and quick about it. Or so I’ve heard, y’know?</Content>
+          <Content>ใช่แล้ว เฮดนั้นแหละ พวกมันปกติก็จะอยู่เงียบๆ แต่พอเริ่มลงมือแล้ว พวกมันก็ทำงานได้อย่างรวดเร็วและเด็ดขาดมาก เท่าที่ฉันเคยได้ยินมาน่ะ เธอเก็ตป่ะ?</Content>
         </Dialog>
         <Dialog ID="11" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth6</VoiceFile>
-          <Content>You’re so casual, aren’t you? I thought we were having a serious conversation here.</Content>
+          <Content>นายดูชิลล์ๆมากเลย ไม่ใช่หรอ? ฉันนึกว่าเรากำลังคุยเรื่องจริงจังกันอยู่</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland7</VoiceFile>
-          <Content>Oh, whoops. Sorry. I’ve gone through all kinds of stuff, so my priorities tend to be a bit unusual.</Content>
+          <Content>โอ๊ะ โทดทีนะ ฉันเพิ่งผ่านอะไรมาหลายอย่าง ลำดับความสำคัญของฉันช่วงนี้ จึงค่อนข้างผิดปกติไปหน่อยน่ะ</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland8</VoiceFile>
-          <Content>It’s not like I was trying to ignore what you were saying or anything, Malkuth. I’m sorry if it made you feel bad.</Content>
+          <Content>ไม่ใช่ว่าฉันตั้งใจจะเฉยเมยต่อ สิ่งที่เธอพยายามพูดอยู่หรอกนะ มัลคุท ฉันขอโทษนะถ้ามันทำ ให้เธอรู้สึกแย่น่ะ</Content>
         </Dialog>
         <Dialog ID="14" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth7</VoiceFile>
-          <Content>You have a rather unique personality, Roland.</Content>
+          <Content>นายค่อนข้างมีบุคลิกที่ไม่เหมือนใครจังนะ โรแลนด์</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland9</VoiceFile>
-          <Content>It was all part of my survival strategy.</Content>
+          <Content>ทั้งหมดก็เป็นส่วนหนึ่งของกลยุทธ์ การเอาตัวรอดของฉันละนะ</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland10</VoiceFile>
-          <Content>Anyway, back to your past. You said you used to be the boss of the Control Team back in Lobotomy Corp, right?</Content>
+          <Content>เอาล่ะ ย้อนกลับไปคุยเรื่องอดีตของเธอ เธอบอกว่าเคยเป็นหัวหน้าของทีมควบคุม ในโลโบโทมีคอร์ปใช่ไหมล่ะ?</Content>
         </Dialog>
         <Dialog ID="17" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth8</VoiceFile>
-          <Content>That’s right. And now I’m in charge of history here, as you can see.</Content>
+          <Content>ใช่ และตอนนี้ฉันมารับผิดชอบชั้นประวัติศาสตร์ อย่างที่นายเห็นนั้นแหละ</Content>
         </Dialog>
         <Dialog ID="18" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth9</VoiceFile>
-          <Content>So I started out by tracing back in my own history. Very, very slowly.</Content>
+          <Content>ดังนั้นฉันจึงจะค่อยๆ เริ่มต้นด้วยการเล่าย้อน อดีตของตัวเองอย่างช้าๆ</Content>
         </Dialog>
         <Dialog ID="19" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth10</VoiceFile>
-          <Content>Would you like to have a listen?</Content>
+          <Content>นายอยากฟังต่อไหม?</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland11</VoiceFile>
-          <Content>Ehhhh. Not a fan of long and convoluted stories.</Content>
+          <Content>เอ่อ ฉันไม่ใช่แฟนหนังไตรภาค และเรื่องที่มีความซับซ้อนเท่าไหร่นะ</Content>
         </Dialog>
         <Dialog ID="21" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth11</VoiceFile>
-          <Content>Hey, don’t be such a mood killer! You’re supposed to agree here!</Content>
+          <Content>นิ อย่าทำตัวขัดอารมณ์ได้ไหม! นายควรจะตอบตกลงแล้วรับฟังสิย่ะ</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland12</VoiceFile>
-          <Content>Well, why bother asking if you’re going to tell me the story anyway?!</Content>
+          <Content>เออ แล้วทำไมต้องถามล่ะ ในเมื่อหากเธอก็อยากจะเล่า ให้ฉันฟังอยู่แล้ว?!</Content>
         </Dialog>
         <Dialog ID="23" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth12</VoiceFile>
-          <Content>Hahaha. You know what, you got me there.</Content>
+          <Content>ฮ่าฮ่า รู้อะไรไหม ฉันเถียงนายไม่ออกเลยจริงๆ</Content>
         </Dialog>
         <Dialog ID="24" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth13</VoiceFile>
-          <Content>Anyways, I was ordered to work in Lobotomy Corp. as the head of the Control Team, bearing all my flaws.</Content>
+          <Content>อย่างไรก็ตาม ฉันก็ได้รับคำสั่งให้ทำงานในโลโบโทมี่คอร์ป ในตำแหน่งหัวหน้าทีมควบคุม  แม้ว่าพวกเขาจะรู้ว่าฉันมีข้อบกพร่องอยู่ก็ตาม</Content>
         </Dialog>
         <Dialog ID="25" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth14</VoiceFile>
-          <Content>I was given a role to play as soon as I woke up.</Content>
+          <Content>ฉันได้รับมอบหมายให้ทำหน้าที่ ทันทีที่ฉันตื่นขึ้นมา</Content>
         </Dialog>
         <Dialog ID="26" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth15</VoiceFile>
-          <Content>Not realizing who I truly was…</Content>
+          <Content>ฉันยังไม่รู้ตัวเลยว่าจริงๆแล้ว ฉันเป็นใคร…</Content>
         </Dialog>
         <Dialog ID="27" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth16</VoiceFile>
-          <Content>But with my heart still aching from the unresolved pain and regret from my past, almost about to burst.</Content>
+          <Content>แต่หัวใจของฉันยังคงเจ็บปวด จากบาดแผลและความเสียใจ ในอดีตที่ยังไม่ได้รับการแก้ไข จนแทบเกือบจะระเบิดออกมา</Content>
         </Dialog>
         <Dialog ID="28" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth17</VoiceFile>
-          <Content>Just like that, I kept doing inhumane acts for Lobotomy Corp.</Content>
+          <Content>และฉันยังคงทำแบบนั้น ทำสิ่งที่ไร้มนุษยธรรมให้กับ โลโบโทมี่คอร์ปต่อไป</Content>
         </Dialog>
         <Dialog ID="29" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth18</VoiceFile>
-          <Content>I didn’t even question what I was doing since it was all just work to me.</Content>
+          <Content>ฉันไม่แม้แต่จะตั้งคำถามว่า ฉันกำลังทำอะไรอยู่เพราะทั้งหมด นั้นเป็นเพียงงานสำหรับฉัน</Content>
         </Dialog>
         <Dialog ID="30" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำชั้น - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth19</VoiceFile>
-          <Content>It felt like a calling, even. The only thing guiding me was a vague feeling that something went wrong because I didn’t try hard enough.</Content>
+          <Content>มันรู้สึกเหมือนเป็นงานที่ต้องทำให้สำเร็จ สิ่งเดียวที่ผลักดันฉันคือความรู้สึกที่คลุมเครือ ว่าถ้าเกิดมีอะไรผิดพลาดขั้นมานั้นก็เพราะว่า ฉันยังไม่ได้พยายามกับมันมากพอ</Content>
         </Dialog>
         <Dialog ID="31" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -9960,7 +9960,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep2_roland23</VoiceFile>
-          <Content>และฉันขอเดาว่าพนักงานจำนวนมาก ต้องตายในระหว่างกระบวนการ จัดการสิ่งมีชีวิตเหล่านั้นด้วยใช่ไหม?</Content>
+          <Content>และฉันขอเดาว่ามีพนักงานจำนวนมาก ตายในระหว่างกระบวนการ จัดการสิ่งมีชีวิตเหล่านั้นด้วยใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="56" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
