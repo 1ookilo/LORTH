@@ -3,27 +3,27 @@
   <GroupName>Stray Dogs</GroupName>
   <Character ID="Gyeong-mi">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Don’t send one at a time like cowards, and fight me all at once!</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Looks like the goons we sent in advance weren’t any good. What a bother.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Yeah! Shudder with fear. I’mma full send on you!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">อย่ามาทีละคนเหมือนคนขี้ขลาดเลย ถ้ามึงแน่จริงก็มารุมกูเลย!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ดูเหมือนลูกน้องกูที่ส่งไปก่อนหน้าจะโดนกำจัดไปหมดแล้ว แม่งโคตรไร้ประโยชน์เลย</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ใช่! ตัวสั่นด้วยความกลัว แล้วกูจะส่งพวกมึงไปตายเอง!</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">So the ‘books’ we could supposedly find here… It was this easy to win ‘em?</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">That son of a bitch Walter was a soft stooge. How could he manage to lose against these wimps!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">นี้เหรอหนังสือที่เราควรจะมาหานะ… มันได้ง่ายขนาดนี้เลยเหรอ อืม?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">ไอลูกหมานี้ก็ไม่ได้เก่งนี้หว่า คนก่อนหน้านี้แพ้ได้ไงวะ!</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">This has got to be a dream… There’s no way I can lose!!!</BattleDialog>
-      <BattleDialog ID="DEATH_1">Those sons of bitches must’ve pulled some dirty trick on me…!</BattleDialog>
+      <BattleDialog ID="DEATH_0">นี่ต้องเป็นแค่ความฝันแน่ๆ… กูไม่มีทางแพ้ได้หรอก!!!</BattleDialog>
+      <BattleDialog ID="DEATH_1">ไอ้พวกลูกหมาเอ้ย พวกมันคงใช้ทริคบางอย่างแน่ๆ…!</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Why’d you have to run wild in the front and get wrecked.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Pathetic, getting pwned by a bunch of nerdy wimps.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">Don’t care if one or two die.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">ทำไมมึงต้องวิ่งไปข้างหน้าและตายโง่ๆวะ!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">ชั่งน่าสมเพช โดนไอ้พวกผอมนี้ฆ่า</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">กูไม่สนใจหรอกว่าจะมีคนตายสักกี่คน</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Adjust my strength? Never tried that.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Die! Kill ‘em all and drop dead!!!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">I would’ve loved to smash this guy’s head to a pulp to blow off some steam.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">นี้กูต้องฝ่ายออมแรงหรอ? มึงก็ตายง่ายเกิน</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">มึงตาย! ฆ่าพวกแม่งแล้วแล้วเอาหัวมันจูบพื้น!!!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">กูละชอบที่จะทุบหัวให้แหลกเป็นเสี่ยงเลยๆ</BattleDialog>
     </Type>
   </Character>
   <Character ID="Zulu">
