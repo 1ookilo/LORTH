@@ -13116,7 +13116,7 @@ I appreciate your help, everyone.</Content>
           <Teller />
           <Title />
           <VoiceFile>ch8_Gebura_ep5_Roland_45</VoiceFile>
-          <Content>เป็นความผิดของคน… ความผิดของเมืองนี้!!!</Content>
+          <Content>เป็นความผิดของผู้คน… ความผิดของเมืองนี้!!!</Content>
         </Dialog>
         <Dialog ID="81" Model="">
           <Teller />
@@ -13321,7 +13321,7 @@ I appreciate your help, everyone.</Content>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: The Library – Floor of Social Sciences</PlaceName>
+        <PlaceName>สถานที่ : ห้องสมุด – ชั้นสังคมศาสตร์</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
@@ -13338,13 +13338,13 @@ I appreciate your help, everyone.</Content>
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed1-01</VoiceFile>
-          <Content>เห.. โรแลนด์สินะ?</Content>
+          <Content>Heya, Roland?</Content>
         </Dialog>
         <Dialog ID="3" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed2-01</VoiceFile>
-          <Content>มาสิ มานั่งพักชิวๆ แล้วดื่มกาแฟสักแก้วไหม~</Content>
+          <Content>Here, why don’t you take a comfy seat and drink some coffee~</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13356,7 +13356,7 @@ I appreciate your help, everyone.</Content>
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed3-01</VoiceFile>
-          <Content>ถือว่าเป็นการมีน้ำใจให้กับเพื่อนบรรณารักษ์ด้วยกันเองล่ะนะ~</Content>
+          <Content>Gotta show some solidarity with a fellow librarian, no~?</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13374,13 +13374,13 @@ I appreciate your help, everyone.</Content>
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed4-01</VoiceFile>
-          <Content>แปลกจังแหะ ผมแน่ใจว่าแก้วนั้นเป็นเมล็ดกาแฟ Kenya BB อย่างดีเชียวนะ...</Content>
+          <Content>That’s odd. I made sure to brew high-quality Kenya BB…</Content>
         </Dialog>
         <Dialog ID="9" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed5-01</VoiceFile>
-          <Content>บางทีผมคงยังไม่ชำนาญการสังเคราะห์วัตถุดิบผ่านห้องสมุดมากนักละมั้ง...</Content>
+          <Content>Maybe I haven’t quite mastered the art of reconstructing materials within the Library yet…</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13392,13 +13392,13 @@ I appreciate your help, everyone.</Content>
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed6</VoiceFile>
-          <Content>หากไม่รังเกียจล่ะก็นะ</Content>
+          <Content>If you’ll excuse me.</Content>
         </Dialog>
         <Dialog ID="12" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed7-01</VoiceFile>
-          <Content>...เอ ทั้งกลิ่นหอมนวลและก็รสสัมผัสนี่ ก็เป็นกาแฟที่สมบูรณ์แบบแก้วนึงเลยไม่ใช่หรอ?</Content>
+          <Content>…It’s a perfectly fine cup of fragrant coffee, though?</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13410,7 +13410,7 @@ I appreciate your help, everyone.</Content>
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed8</VoiceFile>
-          <Content>ก็นะ...? สูตรนี้เขาขึ้นชื่อเรื่องความดุดันไม่เกรงใจใครนี่นา</Content>
+          <Content>This blend is known for being acidic, to be fair…?</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13422,7 +13422,7 @@ I appreciate your help, everyone.</Content>
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed9</VoiceFile>
-          <Content>จะว่าไปนะโรแลนด์ คุณมาจากแบ็คสตรีทใช่ไหม?</Content>
+          <Content>Say, Roland, are you from the Backstreets?</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13434,7 +13434,7 @@ I appreciate your help, everyone.</Content>
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed10</VoiceFile>
-          <Content>ว่าแล้วเชียว~ สีหน้าของคุณตอนดื่มกาแฟที่ผมชงให้ เหมือนกันกับคาริเป๊ะไม่มีผิดเลย</Content>
+          <Content>I knew it~ You gave me the exact same reaction Kali made back when I brewed coffee for her.</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13446,7 +13446,7 @@ I appreciate your help, everyone.</Content>
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed11</VoiceFile>
-          <Content>เกบูราน่ะ คุณรู้จัก 'หมอกแดง' ไหม?</Content>
+          <Content>It’s Gebura. Ever heard of ‘The Red Mist’?</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13464,7 +13464,7 @@ I appreciate your help, everyone.</Content>
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed12</VoiceFile>
-          <Content>สีหน้าของเธอเจ๋งแจ้วมากเลยล่ะ</Content>
+          <Content>Her face was priceless, alright.</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13476,7 +13476,7 @@ I appreciate your help, everyone.</Content>
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed13</VoiceFile>
-          <Content>ช่าย ตอนที่เราทำงานที่ศูนย์วิจัยนอกชานเมือง</Content>
+          <Content>Yep. Back when we were at a laboratory in the Outskirts.</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13488,13 +13488,13 @@ I appreciate your help, everyone.</Content>
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed14</VoiceFile>
-          <Content>ตอนนั้นทุกอย่างก็ยังดูสดใส... อยู่สักพักนึง</Content>
+          <Content>The mood was upbeat. For a while…</Content>
         </Dialog>
         <Dialog ID="28" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed15</VoiceFile>
-          <Content>มันก็เป็นแค่ศูนย์วิจัยกังๆ ในหัวมุมชานเมืองนึงเท่านั้นเอง แต่สำหรับผมมันกลับรู้สึกสุขสบาย กว่าที่หรูหราไหนที่The Cityจะมีได้</Content>
+          <Content>It was just a shabby laboratory situated in a corner of the Outskirts, but for me, it was cozier than any luxurious place within the City could be.</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13506,7 +13506,7 @@ I appreciate your help, everyone.</Content>
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed16</VoiceFile>
-          <Content>จะว่ามันกะทันหันก็ไม่ถูกหรอก มันค่อยๆคลืบคลานเข้ามามากกว่า</Content>
+          <Content>I wouldn’t say it was sudden. It slowly seeped in, rather.</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13530,7 +13530,7 @@ I appreciate your help, everyone.</Content>
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed17</VoiceFile>
-          <Content>ผมยังไม่ได้พูดเลยนะ ว่าทุกๆอย่างมันถูกลิขิตให้พังตั้งแต่ก้าวแรกน่ะ~?</Content>
+          <Content>I never really said things went wrong from the start, though~?</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13548,13 +13548,13 @@ I appreciate your help, everyone.</Content>
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed18</VoiceFile>
-          <Content>แน่นอน เรายังมีเวลากันอีกเหลือเฟือ ไว้ทีหลังมาปรึกษาเรื่องต่างๆกันเท่าที่อยากทำเลยนะ~</Content>
+          <Content>You bet. We still have plenty of time, so let’s talk things out at our leisure~</Content>
         </Dialog>
         <Dialog ID="38" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed19</VoiceFile>
-          <Content>ไม่อยากจะโม้ แต่ตอนนี้คาริน่ะชอบกาแฟแล้วนะ ผมเชื่อว่าถ้าเกิดคุณได้มาลองดื่มบ่อยๆล่ะก็ เดียวสักวันคุณก็ต้องติดมันเองแหละน่า โรแลนด์~</Content>
+          <Content>Kali’s now fond of coffee after trying it for some time, so I’m sure you can eventually come to enjoy it, Roland~</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>โรแลนด์</Teller>
