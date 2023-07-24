@@ -9630,7 +9630,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth1</VoiceFile>
-          <Content>นี่ก็ไม่ใช่… นั้นก็ไม่ใช่…</Content>
+          <Content>นี่ไม่ใช่… นั้นก็ไม่ใช่…</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9642,7 +9642,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth2</VoiceFile>
-          <Content>ฉันทำทั้งหมดนี้ได้เองน่า!</Content>
+          <Content>ฉันทำเองได้เองน่า!</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9654,7 +9654,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth3</VoiceFile>
-          <Content>…ประมาณนั้น</Content>
+          <Content>…ก็ประมาณนั้น</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9666,13 +9666,13 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth4</VoiceFile>
-          <Content>มันยากที่จะจดจำเนื้อหาของหนังสือ พวกนี้จากชื่อเพียงอย่างเดียวน่ะ</Content>
+          <Content>จะให้จดจำเนื้อหาของหนังสือก็ยากไป พวกนี้แค่จากชื่อหนังสือน่ะ</Content>
         </Dialog>
         <Dialog ID="7" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth5</VoiceFile>
-          <Content>และมันยิ่งยากที่จะหาหนังสือที่อ่านได้จริงๆ </Content>
+          <Content>และเอาเข้าจริง ให้อ่านก็ยากไปจริงๆ นั่นแหละ</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9684,7 +9684,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth6-01</VoiceFile>
-          <Content>ความสมบูรณ์ของหนังสือส่วนใหญ่ขึ้นอยู่กับผู้อ่าน อย่างไรก็ตาม แต่บางเล่มก็มีปัญหาตั้งแต่แรก</Content>
+          <Content>หนังสือจะความสมบูรณ์หรือไม่ก็ขึ้นอยู่กับผู้อ่าน แต่ก็มีบางเล่มที่มีปัญหาตั้งแต่แรกอยู่ดี</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9696,13 +9696,13 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth7-01</VoiceFile>
-          <Content>ฉันไม่แน่ใจเหมือนกันนะ แต่ฉันคิดว่ามันเกี่ยวกับว่า หนังสือเล่มนั้นได้ถูกอ่านอย่างละเอียดแค่ไหน</Content>
+          <Content>ฉันไม่แน่ใจเหมือนกัน แต่ฉันคิดว่ามันเกี่ยวกับว่า หนังสือเล่มนั้นได้ถูกอ่านอย่างละเอียดแค่ไหนมากกว่า</Content>
         </Dialog>
         <Dialog ID="12" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth8</VoiceFile>
-          <Content>เมื่อเนื้อหาทั้งหมดของหนังสือถูกอ่านอย่างเข้าใจแล้ว หนังสือเล่มนั้นก็จะหายไป เนื่องจากมันบรรลุจุดประสงค์ของมันแล้ว</Content>
+          <Content>พอเนื้อหาทั้งหมดของหนังสือถูกอ่านอย่างเข้าใจแล้ว หนังสือเล่มนั้นก็จะหายไป เพราะมันบรรลุจุดประสงค์ของมันแล้ว</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9720,13 +9720,13 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth9</VoiceFile>
-          <Content>ฉันไม่รู้ยะ! หยุดพยายามเปรียบเทียบแปลกๆ ด้วยความรู้กระจอกๆของนายสักที</Content>
+          <Content>ฉันไม่หรอก! หยุดเทียบอะไรแปลกๆ ด้วยความรู้กระจิดริดของนายสักทีสิยะ</Content>
         </Dialog>
         <Dialog ID="16" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth10-01</VoiceFile>
-          <Content>มันน่าจะทำงานอย่างอธิบายไม่ได้เหมือนกับซิงกูล่าริตี้ ฉันแค่คิดไปตามนั้น</Content>
+          <Content>มันน่าจะทำงานเหมือนกับซิงกูลาริตี้ที่อธิบายไม่ได้นั่นแหละ ฉันแค่คิดแค่นั้นพอ</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9738,19 +9738,19 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth11-01</VoiceFile>
-          <Content>ฉันไม่แกล้งทำเป็นเข้าใจในสิ่งที่ฉันไม่เข้าใจหรอกนะ แต่ฉันยังต้องทำให้แน่ใจว่าได้อ่านและจัดการหนังสือทั้งหมดที่นายส่งมาน่ะ</Content>
+          <Content>ถ้าฉันไม่เข้าใจ ก็ไม่แกล้งว่าเข้าใจหรอกนะ แต่หนังสือที่นายส่งมาทั้งหมดน่ะ ฉันก็ต้องแน่ใจว่าได้อ่านและจัดการหนังสือเรียบร้อยแล้ว</Content>
         </Dialog>
         <Dialog ID="19" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth12</VoiceFile>
-          <Content>หนังสือเล่มเดียวกันสามารถแสดงสิ่งที่แตกต่างกันในแต่ละครั้งที่อ่าน ดังนั้นการเข้าใจเนื้อหาทั้งหมดของหนังสือเล่มหนึ่ง จึงเป็นงานทีต้องทำซ้ำๆ นายเข้าใจไหม?</Content>
+          <Content>หนังสือเล่มเดียวกันสามารถแสดงสิ่งที่แตกต่างกันในแต่ละครั้งที่อ่าน ดังนั้นแล้วการเข้าใจเนื้อหาทั้งหมดของหนังสือเล่มหนึ่ง จึงเป็นงานทีต้องทำซ้ำๆ นายเข้าใจหรือยัง??</Content>
         </Dialog>
         <Dialog ID="20" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth13-01</VoiceFile>
-          <Content>และฉันก็ไม่อยากอยู่อย่างไม่รู้ไปตลอดหรอก นั้นน่ะมันน่ารำคาญ</Content>
+          <Content>และฉันก็ไม่อยากอยู่อย่างไม่รู้ไปตลอดหรอก น่ารำคาญจะตาย</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9762,37 +9762,37 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth14</VoiceFile>
-          <Content>…ฉันยังไม่เข้าใจมันทั้งหมดหรอก แต่ฉันค่อนข้างชอบคุณสมบัติของแสง ที่นายเพิ่งบอกฉันนะ</Content>
+          <Content>…ถึงฉันจะยังไม่เข้าใจมันทั้งหมด แต่ฉันค่อนข้างถูกใจคุณสมบัติของแสง ที่นายเพิ่งบอกฉันนะ</Content>
         </Dialog>
         <Dialog ID="23" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth15</VoiceFile>
-          <Content>ความจริงที่ว่าบางสิ่งสามารถเปลี่ยนแปลงได้เพียงแค่มองดู มันฟังดูโรแมนติกไปอีกแบบ</Content>
+          <Content>ความจริงที่ว่าบางสิ่งสามารถเปลี่ยนแปลงได้เพียงแค่มองดู มันก็ฟังดูโรแมนติกไปอีกแบบ</Content>
         </Dialog>
         <Dialog ID="24" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth16-02</VoiceFile>
-          <Content>และบางที… ฉันแค่อยู่เคียงข้างเอโนคมีความหมาย เพียงพอสำหรับเขาหรือเปล่านะ?</Content>
+          <Content>และบางที… ฉันแค่อยู่เคียงข้างเอนอธมีความหมาย เพียงพอสำหรับเขาหรือเปล่านะ?</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep2_roland10</VoiceFile>
-          <Content>เอโนค?</Content>
+          <Content>เอนอธ?</Content>
         </Dialog>
         <Dialog ID="26" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth17</VoiceFile>
-          <Content>อย่างที่นายและมัลคุทพูดคุยกัน ย้อนกลับไปในชีวิตครั้งที่สองของฉัน เมื่อก่อนมีทิฟาเรธอยู่สองคน</Content>
+          <Content>อย่างที่นายคุยกันกับมัลคุทไว้ ย้อนกลับไปในชีวิตครั้งที่สองของฉัน เคยมีทิฟาเรธอยู่สองคน</Content>
         </Dialog>
         <Dialog ID="27" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth18</VoiceFile>
-          <Content>และเราก็อยู่ด้วยกันในชีวิตแรกอีกด้วย</Content>
+          <Content>และในชีวิตแรก เราก็อยู่ด้วยกันอีกด้วย</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9804,7 +9804,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth19</VoiceFile>
-          <Content>…เอโนคเลือกที่จะทิ้งฉันไปทั้งสองครั้งเลย</Content>
+          <Content>…เอนอธเลือกที่จะทิ้งฉันไปทั้งสองครั้งเลย</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9816,13 +9816,13 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth20-01</VoiceFile>
-          <Content>…โรแลนด์… เอโนคเขาตายน่ะ</Content>
+          <Content>…โรแลนด์… เอนอธเขาตายน่ะ</Content>
         </Dialog>
         <Dialog ID="32" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth21-01</VoiceFile>
-          <Content>และเรื่องของเอโนคไม่ใช่ว่าใครจะเอามาพูดเล่นๆได้หรอกนะ</Content>
+          <Content>และเรื่องของเอนอธไม่ใช่ว่าใครจะเอามาพูดเล่นๆได้หรอกนะ</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9840,13 +9840,13 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth22</VoiceFile>
-          <Content>ไม่เป็นไรๆ ตอนที่ฉันได้กล่าวคำลากับเอโนคในครั้งที่สอง…</Content>
+          <Content>ไม่เป็นไรๆ ตอนที่ฉันได้กล่าวคำลากับเอนอธในชีวิตที่สอง…</Content>
         </Dialog>
         <Dialog ID="36" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth23</VoiceFile>
-          <Content>ฉันมั่นใจว่าเขาคงจะหาความหมายที่เขากำลังตามหาอยู่ได้แล้วล่ะ</Content>
+          <Content>ฉันมั่นใจว่า เขาคงจะหาความหมายที่เขากำลังตามหาอยู่ได้แล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="37" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
@@ -9858,7 +9858,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth25-03</VoiceFile>
-          <Content>เราใช้ชีวิตอยู่ในโลกที่ทุกคนสามารถตายได้อย่างง่ายดาย แต่เอโนคเขาเชื่อว่าการตายโดยไร้ความหมาย ไม่ใช่เหตุผลเพื่อให้คนเราเกิดมา</Content>
+          <Content>เราใช้ชีวิตอยู่ในโลกที่ทุกคนสามารถตายได้อย่างง่ายดาย แต่เอนอธเขาเชื่อว่า การตายโดยไร้ความหมาย มันไม่ใช่เหตุผลเพื่อให้คนเราเกิดมา</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9870,7 +9870,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth26-01</VoiceFile>
-          <Content>บางทีละมั้ง? เป้าหมายที่ฉันได้รับตอนนี้คือ การทำให้แสงส่องสว่างสมบูรณ์ เพื่อให้ใช้งานได้อย่างเหมาะสม</Content>
+          <Content>อาจจะมั๊ง? แต่หน้าที่ที่ฉันได้รับตอนนี้คือ การทำให้แสงส่องสว่างสมบูรณ์ เพื่อให้ใช้งานได้อย่างเหมาะสม</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9882,7 +9882,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth27</VoiceFile>
-          <Content>นายคงได้ยินเกี่ยวกับซิงกูล่าริตี้ ของโลโบโทมี่คอร์ปมาแล้วไม่ใช่หรอ?</Content>
+          <Content>นายคงได้ยินเกี่ยวกับซิงกูลาริตี้ ของโลโบโทมี่คอร์ปมาแล้วไม่ใช่หรอ?</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9894,7 +9894,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth28-01</VoiceFile>
-          <Content>ถูกต้อง การปรากฏเหล่านั้นยังสามารถละลายกลับไปเป็นรูปแบบ ที่ไม่แน่นอนและซึมเข้าไปในจิตใจของผู้คนได้อีกด้วย</Content>
+          <Content>ถูกต้อง การปรากฏเหล่านั้นยังสามารถละลายย้อนกลับ ไปเป็นรูปแบบที่ไม่แน่นอน และซึมเข้าไปในจิตใจของผู้คนได้อีกด้วย</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9912,7 +9912,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth30</VoiceFile>
-          <Content>แน่นอนว่า ทั้งหมดนี้ดำเนินการภารกิจในนาม บริษัทจัดการพลังงานจากสายตาโลกภายนอก</Content>
+          <Content>แน่นอนว่า ทั้งหมดนี้ดำเนินการภารกิจที่ซ่อนไว้ในนามของ บริษัทจัดการพลังงาน จากสายตาโลกภายนอก</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9924,13 +9924,13 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth31</VoiceFile>
-          <Content>สิ่งมีชีวิตที่เรียกว่า แอบนอร์มาลิตี้ที่ถูกสร้างขึ้นมาจากผล ข้างเคียงการทดลองซิงกูล่าริตี้ของพวกเราน่ะ</Content>
+          <Content>สิ่งมีชีวิตที่เรียกว่า แอบนอร์มาลิตี้ที่ถูกสร้างขึ้นมาจาก ผลข้างเคียงการทดลองซิงกูลาริตี้ของพวกเราน่ะ</Content>
         </Dialog>
         <Dialog ID="50" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth32</VoiceFile>
-          <Content>ขณะที่เราจัดการกับพวกมันอยู่ เราได้เรียนรู้ว่าพวกมันปล่อยพลังงานรูปแบบหนึ่งออกมา นั่นก็คือเอนเคฟาลิน</Content>
+          <Content>ขณะที่เราจัดการกับพวกมัน เราได้เรียนรู้ว่าพวกมันปล่อยพลังงานรูปแบบหนึ่งออกมา นั่นก็คือเอนเคฟาลิน</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9948,7 +9948,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth33</VoiceFile>
-          <Content>จากมนุษย์น่ะ พูดให้ถูกต้องก็คือ มนุษย์กลายเป็นแอบนอร์มาลิตี้</Content>
+          <Content>จากมนุษย์ต่างหาก พูดให้ถูกต้องก็คือ มนุษย์ที่กลายเป็นแอบนอร์มาลิตี้</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9966,7 +9966,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth34</VoiceFile>
-          <Content>นายเข้าใจถูกแล้ว ทั้งหมดนี้เป็นส่วนหนึ่งของ "ละครเวที" ที่แองเจลาพูดถึงนั้นแหละ</Content>
+          <Content>เข้าใจถูกแล้วล่ะ ทั้งหมดนี้เป็นส่วนหนึ่งของ "ละครเวที" ที่แองเจลาพูดถึงนั้นแหละ</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -9978,7 +9978,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth35</VoiceFile>
-          <Content>ฉันไม่รู้อะไรอย่างอื่นเกี่ยวกับวิงมากมายหรอกนะ แต่… พวกเขาก็คงจะไม่แตกต่างกันมากมายเท่าไหร่หรอกใช่ล่ะ?</Content>
+          <Content>ฉันไม่รู้อะไรอย่างอื่นเกี่ยวกับวิงมากมายหรอกนะ แต่ให้เดา… พวกเขาก็คงจะไม่แตกต่างกันมากมายเท่าไหร่หรอกใช่ล่ะ?</Content>
         </Dialog>
         <Dialog ID="59" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -10020,19 +10020,19 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth38</VoiceFile>
-          <Content>พูดตามตรง ฉันรู้เพียงแค่ภาพรวมทั่วไปๆ</Content>
+          <Content>พูดตามตรง ฉันรู้เพียงแค่ภาพรวมเท่านั้นแหละ</Content>
         </Dialog>
         <Dialog ID="66" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth39</VoiceFile>
-          <Content>ดังนั้นฉันอยากเห็นด้วยตาตัวเอง ว่าวัฏจักรเหล่านั้นเกิดขึ้นที่ข้างนอกจริงๆ</Content>
+          <Content>เพราะงั้นฉันอยากเห็นด้วยตาตัวเอง ว่าวัฏจักรแบบนั้นมันเกิดขึ้นที่ข้างนอกจริงๆ</Content>
         </Dialog>
         <Dialog ID="67" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth40-01</VoiceFile>
-          <Content>ฉันก็ไม่รู้อะไรเกี่ยวกับโลกข้างนอก เหมือนกับแองเจลานั้นแหละ</Content>
+          <Content>ฉันเองก็ไม่รู้อะไรเกี่ยวกับโลกข้างนอก ก็เหมือนกับแองเจลานั้นแหละ</Content>
         </Dialog>
         <Dialog ID="68" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -10044,7 +10044,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ประจำ - ชั้นวิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth41-01</VoiceFile>
-          <Content>ฮืม! ทำให้ได้อย่างที่พูดแล้วกัน</Content>
+          <Content>ฮึ! ให้มันได้อย่างที่พูดแล้วกัน</Content>
         </Dialog>
       </Place>
     </Episode>
