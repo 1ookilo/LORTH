@@ -7305,7 +7305,11 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland9</VoiceFile>
+<<<<<<< HEAD
+          <Content>ช่วยฉันหน่อยเถอะ ไหนๆเราก็ลงเรือลำเดียวกันแล้วนี่</Content>
+=======
           <Content>ช่วยฉันหน่อยเถอะนะ ไหนๆเราก็ลงเรือลำเดียวกันแล้ว</Content>
+>>>>>>> 49821af56fd2ae58c45afad49a30672aeeac4f34
         </Dialog>
         <Dialog ID="15" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
