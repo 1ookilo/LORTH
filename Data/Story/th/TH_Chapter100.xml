@@ -7227,7 +7227,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland2</VoiceFile>
-          <Content>อะไรกัน นี่นอนที่พื้นเลยเร๊อะ…?</Content>
+          <Content>อะไรกัน เล่นนอนพื้นเลยเหรอ…?</Content>
         </Dialog>
         <Dialog ID="2" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
@@ -7239,13 +7239,13 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland3</VoiceFile>
-          <Content>เฮอะ… หนังสือก็กองเต็มพื้นเลยด้วย ฉันไม่รู้สึกถึงแรงจูงใจในการอยาก ทำงานเลยซักกะนิด</Content>
+          <Content>เฮอะ… หนังสือก็กองเต็มพื้นด้วย ฉันไม่รู้สึกถึงแรงจูงใจในการอยากทำงานซักนิดเลย</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland4</VoiceFile>
-          <Content>หวัดดี~~ คุณเน็ตซัค เป็นบรรณารักษ์ใช่ไหมม~~?</Content>
+          <Content>หวัดดีคร้าบ~~ คุณเน็ตซัค เป็นบรรณารักษ์ที่นี่ใช่ไหมม~~?</Content>
         </Dialog>
         <Dialog ID="5" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
@@ -7257,19 +7257,19 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland5</VoiceFile>
-          <Content>ถ้าคุณไม่ยอมให้ความร่วมมือ แองเจล่าจะมาเล่นฉันเอานะ~</Content>
+          <Content>ถ้าคุณไม่ยอมให้ความร่วมมือ แองเจล่าจะมาเล่นผมเอานะ~</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland6</VoiceFile>
-          <Content>ตื่นเถอะได้โปรดดดดดด~~</Content>
+          <Content>ตื่นเถอะขอล่ะนะ~~</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach3</VoiceFile>
-          <Content>…นายรู้ไหมว่าต้องรู้สึกยังไง เมื่อทุ่มเททุกอย่างเพื่อนทำบางสิ่ง แต่กลับต้องเห็นมันพังทลายลงอย่างสิ้นเชิงน่ะ?</Content>
+          <Content>…นายรู้ไหมว่ามันรู้สึกยังไง เมื่อทุ่มเททุกอย่างเพื่อบางสิ่ง แต่กลับต้องเห็นมันพังทลายลงอย่างสิ้นเชิงน่ะ?</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
@@ -7281,31 +7281,31 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland7</VoiceFile>
-          <Content>ฉันขอพนันเลยละกันว่า แองเจล่าต้องเป็นคนที่สร้างคลื่นเหล่านั้น</Content>
+          <Content>ฉันขอพนันเลยว่า แองเจล่าต้องเป็นคนสร้างคลื่นนั่นแน่</Content>
         </Dialog>
         <Dialog ID="11" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach5</VoiceFile>
-          <Content>ฉันถูกปลุกให้ตื่นขึ้นมาอีกครั้ง ถูกเรียกให้มารับผิดชอบงานที่ไม่ต้องการอีกแล้ว</Content>
+          <Content>ฉันถูกปลุกให้ตื่นขึ้นมา แล้วถูกเรียกให้มารับผิดชอบงานที่ไม่ต้องการอีกครั้งนึง</Content>
         </Dialog>
         <Dialog ID="12" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach6</VoiceFile>
-          <Content>ปล่อยฉันไปเถอะ ฉันอยากกลับไปนอนอีกสักหน่อย</Content>
+          <Content>ปล่อยฉันไปเถอะ ฉันอยากกลับไปนอนต่ออีกสักหน่อย</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland8</VoiceFile>
-          <Content>โฮโหวววววววววว! ทำไมทุกคนถึงเกลียดแองเจล่ามากขนาดนี้กันนะ?</Content>
+          <Content>โฮโหวววววววววว! ทำไมทุกคนถึงเกลียดแองเจล่ามากขนาดนี้กัน?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland9</VoiceFile>
-          <Content>ช่วยฉันหน่อยเหอะ? ไหนๆเราก็ลงเรือลำเดียวกันแล้วนะ?</Content>
+          <Content>ช่วยฉันหน่อยเถอะนะ ไหนๆเราก็ลงเรือลำเดียวกันแล้ว</Content>
         </Dialog>
         <Dialog ID="15" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
