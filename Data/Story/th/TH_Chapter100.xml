@@ -589,13 +589,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ทาสรับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland12</VoiceFile>
-          <Content>เออ แล้วทำไมต้องถามล่ะ ในเมื่อหากเธอก็อยากจะเล่า ให้ฉันฟังอยู่แล้ว?!</Content>
+          <Content>เออ แล้วทำไมต้องถามด้วยล่า ในเมื่อหากเธอก็อยากจะเล่า ให้ฉันฟังอยู่แล้ว?!</Content>
         </Dialog>
         <Dialog ID="23" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth12</VoiceFile>
-          <Content>ฮ่าฮ่า รู้อะไรไหม ฉันเถียงนายไม่ออกเลยจริงๆ</Content>
+          <Content>ฮ่าฮ่า นายก็พูดถูกน้า</Content>
         </Dialog>
         <Dialog ID="24" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -619,7 +619,7 @@
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth16</VoiceFile>
-          <Content>แต่หัวใจของฉันยังคงเจ็บปวด จากบาดแผลที่ยังไม่ได้ รับการแก้ไขในอดีตเจ็บปวด จนแทบเกือบจะระเบิดออกมา</Content>
+          <Content>แต่หัวใจของฉันยังคงเจ็บปวด จากบาดแผลที่ยังไม่ได้ รับการแก้ไขในอดีตเสียใจและเจ็บปวด จนแทบเกือบจะระเบิดออกมา</Content>
         </Dialog>
         <Dialog ID="28" Model="말쿠트">
           <Teller>มัลคุท</Teller>
