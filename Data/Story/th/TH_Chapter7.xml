@@ -3303,7 +3303,7 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>โฮด vs. เกรต้า</EpisodeName>
+      <EpisodeName>ฮ็อด vs. เกรต้า</EpisodeName>
       <Place>
         <PlaceName>Location: The Library - Floor of Literature</PlaceName>
         <Dialog ID="0" Model="그레타">
@@ -3313,8 +3313,8 @@
           <Content>ฉันได้กลิ่นแปลกๆ ที่นี่… มันเป้นกลิ่นของซอสเลิศรส!</Content>
         </Dialog>
         <Dialog ID="1" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_1</VoiceFile>
           <Content>สวัสดีค่ะ ดิฉันโฮด, บรรณารักษ์ประจำชั้นแห่งนี้</Content>
         </Dialog>
@@ -3325,8 +3325,8 @@
           <Content>บรรณารักษ์ประจำชั้น? นี่เธอเป้นหนึ่งในเชฟที่นี่รึไง?</Content>
         </Dialog>
         <Dialog ID="3" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_2</VoiceFile>
           <Content>ที่นี่ไม่ใช่ร้านอาหารหรืออะไรนะคะ… แต่ถ้าให้ฉันเดาว่าก็คงเทียบเคึยงกันได้อยู่</Content>
         </Dialog>
@@ -3337,14 +3337,14 @@
           <Content>ชื่อเกรต้า! ฉันได้คำสั่งจากวาทยกรของเรา!</Content>
         </Dialog>
         <Dialog ID="5" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_3</VoiceFile>
           <Content>เกรต้า… ผิวของคุณนั้นขาวดั่งไข่มุก เหมือนที่ชื่อคุณสื่อไว้</Content>
         </Dialog>
         <Dialog ID="6" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_4</VoiceFile>
           <Content>ฉันได้ยินเรื่องที่เกิดกับอดีตเพื่อนร่วมงานของคุณแล้ว กลุ่มแปดเชฟสลายตัวไปแล้ว…</Content>
         </Dialog>
@@ -3361,8 +3361,8 @@
           <Content>พวกนั้มันปัญญาอ่อน พวกแม่งประกาศว่าเบื่ออาหารแบบปกดิแล้วเริ่มทำอาหารจากร่างกายตัวเอง</Content>
         </Dialog>
         <Dialog ID="9" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_5</VoiceFile>
           <Content>ร่างกายตัวเองเหรอคะ?</Content>
         </Dialog>
@@ -3391,8 +3391,8 @@
           <Content>พวกมันมีลิ้นชิมรสอาหาร แต่สมองแม่งก็กลายเป็นสเต๊กไปแล้ว!</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_6</VoiceFile>
           <Content>…ฉันเสียใจที่ได้ยินว่าคุณเป็นผู้รอดชีวิตคนสุดท้ายนะคะ</Content>
         </Dialog>
@@ -3415,8 +3415,8 @@
           <Content>ไม่มีใครสนห่าสนแตดว่าจะใช้วัตถุดิบอะไรในอาหารหรอก รสชาติเท่านั้นที่สำคัญ!</Content>
         </Dialog>
         <Dialog ID="18" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_7</VoiceFile>
           <Content>ถึงแม้มันไม่ง่ายที่จะจำชื่อวัตถุดิบ แต่รสชาติของมันจะทิ้งความประทับใจที่ยากที่จะลืม</Content>
         </Dialog>
@@ -3427,8 +3427,8 @@
           <Content>ฉันทำแบบนั้นกับพวกหัวสูงที่เรื่องมากเรื่องวัตถุดิบไม่ได้ พวกนั้นส่วนใหญ่ไม่ยืดหยุ่นเกินไป</Content>
         </Dialog>
         <Dialog ID="20" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_8</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -3445,14 +3445,14 @@
           <Content>อ้า เธอเป็นพวกนั้นสินะ!</Content>
         </Dialog>
         <Dialog ID="23" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_9</VoiceFile>
           <Content>ฉันเข้าใจนะว่าคงได้ถกเรื่องนี้กันอีกยาว ถ้าเรายังเถียงกันว่าเรากินอะไรได้อะไรกินไม่ได้ เราคงได้ข้อสรุปที่ว่าเราควรจะไม่ทานอะไรเลย</Content>
         </Dialog>
         <Dialog ID="24" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_10</VoiceFile>
           <Content>แต่ทว่า… ฉันไม่คิดว่าฉันจะสงบจิตกับความคิดในการกินเนื้อเพื่อนมนุษย์ได้</Content>
         </Dialog>
@@ -3475,8 +3475,8 @@
           <Content>แต่บอกอะไรให้นะ น้องสาว วัตถุดิบสมัยนี้นั้นทั้งสกปรกและอ่อนแอเกินไป เดี๋ยวนี้ของอร่อยก็หายากขึ้นแล้ว</Content>
         </Dialog>
         <Dialog ID="28" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_11</VoiceFile>
           <Content>คุณหมายความว่ายังไง?</Content>
         </Dialog>
@@ -3529,26 +3529,26 @@
           <Content>วันนั้นมาช้ากว่านี้ไม่ได้แล้ว! ฉันอัดแต่ขยะเข้าท้องมานานเกินไปแล้ว</Content>
         </Dialog>
         <Dialog ID="37" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_12</VoiceFile>
           <Content>คนบริสุทธ์ไร้มลทินงั้นเหรอ…</Content>
         </Dialog>
         <Dialog ID="38" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_13</VoiceFile>
           <Content>ฉันเดาว่าเราทั้งคู่… หรือใครก็ตามในเมืองนี้จะบอกไม่ได้ว่าทำในสิ่งที่ถูกต้อง</Content>
         </Dialog>
         <Dialog ID="39" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_14</VoiceFile>
           <Content>เราแค่ทำตามหัวใจของเราก็เท่านั้น…</Content>
         </Dialog>
         <Dialog ID="40" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_15</VoiceFile>
           <Content>และนั่นคือทำไม… ว่าฉันจะพยายามเต็มที่ในการหยุดคุณตรงนี้</Content>
         </Dialog>
@@ -6469,8 +6469,8 @@ The sad fireside corner of my poor black heart.</Content>
           <Content>You know better than anyone else that it’s pointless to oppose me in the Library, don’t you?</Content>
         </Dialog>
         <Dialog ID="16" Model="호드">
-          <Teller>โฮด</Teller>
-          <Title>Patron Librarian - Literature</Title>
+          <Teller>ฮ็อด</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Black_ep1_Hod_1</VoiceFile>
           <Content>Malkuth… Netzach… Yesod… They’re all dead…</Content>
         </Dialog>
