@@ -5,8 +5,8 @@
     <Type ID="START_BATTLE">
       <BattleDialog ID="START_BATTLE_0">แล้วพวกเราก็มารวมตัวกัน เพื่อการแสดงครั้งนี้</BattleDialog>
       <BattleDialog ID="START_BATTLE_1">โนอาห์ แม้ผมจะมองไม่เห็น ผมก็ไม่กลัวหรอก</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">เอมะ มีศัตรูอยู่ข้างหน้าเรา ห่างไปประมาณเจ็ดก้าว</BattleDialog>
-      <BattleDialog ID="START_BATTLE_3">เอมะ อย่าเคลื่อนไหวเร็วเกินไปและควรระมัดระวังไว้ เดี๋ยวฉันจะบอกทิศให้เอง</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">เอมม่า มีศัตรูอยู่ข้างหน้าเรา ห่างไปประมาณเจ็ดก้าว</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">เอมม่า อย่าเคลื่อนไหวเร็วเกินไปและควรระมัดระวังไว้ เดี๋ยวฉันจะบอกทิศให้เอง</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
       <BattleDialog ID="SPECIAL_EVENT_0">ผมสงสัยจังว่าคุณแองเจลา จะชอบการแสดงของเราไหม?</BattleDialog>
@@ -29,8 +29,8 @@
     <Type ID="START_BATTLE">
       <BattleDialog ID="START_BATTLE_0">ให้พวกเราได้มารวมตัวกันเพื่อชมการแสดงนี้</BattleDialog>
       <BattleDialog ID="START_BATTLE_1">แม้ฉันจะมองไม่เห็น ฉันก็ไม่กลัวหรอก</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">เอมะ มีศัตรูอยู่ข้างหน้านายในเจ็ดก้าว</BattleDialog>
-      <BattleDialog ID="START_BATTLE_3">เอมะ อย่าเคลื่อนไหวเร็วเกินไปและควรระมัดระวังไว้ เดี๋ยวฉันจะบอกทิศให้เอง</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">เอมม่า มีศัตรูอยู่ข้างหน้านายในเจ็ดก้าว</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">เอมม่า อย่าเคลื่อนไหวเร็วเกินไปและควรระมัดระวังไว้ เดี๋ยวฉันจะบอกทิศให้เอง</BattleDialog>
     </Type>
     <Type ID="DEATH">
       <BattleDialog ID="DEATH_0">…ฉันไม่ได้ยินอะไรเลย ทั้งหมดที่ฉันเห็นก็มีเพียงแต่ความมืด</BattleDialog>

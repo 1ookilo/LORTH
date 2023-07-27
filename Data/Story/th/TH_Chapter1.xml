@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="1">
-    <Title>Chapter 1-เรื่องเล่าขำขัน-‘ฉันก็แค่ออกไปที่ถนน พร้อมกับมือของฉันที่ล้วงกระเป๋าอยู่’</Title>
+    <Title>Chapter 1-เรื่องเล่าขำขัน-‘ฉันเดินออกมากลางถนน พร้อมๆกับมือที่ล้วงในกระเป๋า’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
@@ -55,7 +55,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela4</VoiceFile>
-          <Content>…ฉันจะถามแค่ครั้งเดียวเท่านั้น</Content>
+          <Content>…ฉันจะไม่ถามซ้ำหรอกนะ</Content>
         </Dialog>
         <Dialog ID="8" model="앤젤라">
           <Teller>???</Teller>
@@ -347,13 +347,13 @@
         </Dialog>
         <Dialog ID="24" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland10</VoiceFile>
           <Content>…ฉันว่าแล้วเรื่องแบบนี้มันต้องเกิดขึ้นสักวัน ผู้คนก็หายตัวไปโดยไม่มีร่องรอย แล้วก็มาพบอีกทีเหลือเพียงแค่ก้อนเนื้อในภายหลัง…</Content>
         </Dialog>
         <Dialog ID="25" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland11</VoiceFile>
           <Content>ฉันมักจะหัวเราะว่าคนพวกนั้นไม่ระวังตัวจนตัวเองต้องโชคร้าย แต่ตอนนี้ฉันเข้าใจแล้วว่ามันไม่เกี่ยวกับว่าไม่ระวังตัวหรือว่าโชคร้ายอะไรนั้นเลย คือแบบ ฮะ พอมันจะเกิดก็เกิดขึ้นโดยไม่รู้ตัว…</Content>
         </Dialog>
@@ -365,19 +365,19 @@
         </Dialog>
         <Dialog ID="27" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland12</VoiceFile>
           <Content>บ้าเอ้ย นี่เป็นการทดลองในห้องทดลองบ้าๆชัดๆ</Content>
         </Dialog>
         <Dialog ID="28" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland13</VoiceFile>
           <Content>เธอเป็นพวกชอบใส่อะไรสุ่มๆ อย่างเช่นเมล็ดข้าวโพดและใส่เครื่องจักรเข้าไปในท้องของคน แล้วคิดว่ามันจะกลายเป็นเครื่องทำป๊อปคอร์นพ่นป๊อปคอร์นออกมาได้ ทำนองนั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="29" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland14</VoiceFile>
           <Content>นั้นมันต้องแย่มากเลยนะ… ถ้าให้ฉันเลือกได้ขอยอมตายซะดีกว่า…</Content>
         </Dialog>
@@ -395,7 +395,7 @@
         </Dialog>
         <Dialog ID="32" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland15</VoiceFile>
           <Content>ข-ขอโทษครับ…</Content>
         </Dialog>
@@ -413,7 +413,7 @@
         </Dialog>
         <Dialog ID="35" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland16</VoiceFile>
           <Content>แองเจ…ล่า… เป็นชื่อที่ดีนะ</Content>
         </Dialog>
@@ -425,7 +425,7 @@
         <PlaceName>Location: Inside the Library</PlaceName>
         <Dialog ID="0" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland1</VoiceFile>
           <Content>แล้ว ฉันควรทำยังไงบ้างละ?</Content>
         </Dialog>
@@ -449,13 +449,13 @@
         </Dialog>
         <Dialog ID="4" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland2</VoiceFile>
           <Content>ฉันก็แค่ฟิซเซอร์เกรด 9 ผู้ล้มเหลวคนหนึ่งเองนะ แต่เด๋วก่อนนะ…</Content>
         </Dialog>
         <Dialog ID="5" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland3</VoiceFile>
           <Content>ไอ้ "การต้อนรับ" เนี้ยมันยังไงกันแน่? ฉันต้องคอยสบตาดูพวกเขาไหมหรือว่าฉันต้องเดินไปเสิร์ฟน้ำให้พวกเขาด้วยล่ะ?</Content>
         </Dialog>
@@ -491,7 +491,7 @@
         </Dialog>
         <Dialog ID="11" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland4</VoiceFile>
           <Content>เธอมีจินตนาการแปลกๆเกี่ยวกับฟิซเซอร์หรือเปล่านะ? คงไม่ได้คาดหวังมากเกินไปจากฟิซเซอร์เกรด 9 ใช่มั้ยห๊ะ? ฉันไม่ได้มีความสามารถแบบที่เธอคิดหรอกนะ</Content>
         </Dialog>
@@ -503,7 +503,7 @@
         </Dialog>
         <Dialog ID="13" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland5</VoiceFile>
           <Content>โอเค ฉันคิดว่าฉันเข้าใจสาระสำคัญของมันแล้วละ แล้วคำเชิญเนี้ยทำงานยังไงล่ะ?</Content>
         </Dialog>
@@ -515,7 +515,7 @@
         </Dialog>
         <Dialog ID="15" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland6</VoiceFile>
           <Content>แล้ว ต่อจากนั้นล่ะ?</Content>
         </Dialog>
@@ -527,7 +527,7 @@
         </Dialog>
         <Dialog ID="17" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland7</VoiceFile>
           <Content>แค่นั้นน่ะนะ? มันฟังดูง่ายเกินไปหน่อยจังแฮะ</Content>
         </Dialog>
@@ -545,7 +545,7 @@
         </Dialog>
         <Dialog ID="20" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland8</VoiceFile>
           <Content>อ๊า~ เข็มทิศ? ให้ใช้มันเป็นอุปกรณ์บอกทิศทางไปเลยรึไง?</Content>
         </Dialog>
@@ -575,7 +575,7 @@
         </Dialog>
         <Dialog ID="25" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland9</VoiceFile>
           <Content>แต่ไม่มีการรับประกันว่าแขกจะตอบรับคำเชิญอยู่เสมอ ใช่ม่ะ?</Content>
         </Dialog>
@@ -593,19 +593,19 @@
         </Dialog>
         <Dialog ID="28" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland10</VoiceFile>
           <Content>นั้นมันเป็นเรื่องที่สุภาพและยุติธรรมมากๆ จนน่าประหลาดใจกับสิ่งที่เกิดขึ้นในเมืองนี้นะ</Content>
         </Dialog>
         <Dialog ID="29" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland11</VoiceFile>
           <Content>นั้นเพราะว่าแทบจะตลอดเวลา ชีวิตของผู้คนมักจะถูกพรากไปโดยผู้อื่น แบบที่ไม่ได้รับความยินยอมหรือว่าเห็นด้วยกับมันเลยด้วยซ้ำ</Content>
         </Dialog>
         <Dialog ID="30" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland12</VoiceFile>
           <Content>เอาล่ะ เมื่อเราได้รับหนังสือเหล่านั้นมา แล้วยังไงต่อ?</Content>
         </Dialog>
@@ -635,7 +635,7 @@
         </Dialog>
         <Dialog ID="35" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland13</VoiceFile>
           <Content>หนังสือที่สมบูรณ์แบบที่สุดสินะ เอ่อ… ฉันคิดว่า "หนังสือ" เหล่านั้นคงจะแตกต่างจากที่ฉันเข้าใจละนะ</Content>
         </Dialog>
@@ -647,7 +647,7 @@
         <PlaceName>Location: Inside the Library</PlaceName>
         <Dialog ID="0" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Prol_ep4_roland1</VoiceFile>
           <Content>ขอเดาเลยนะว่าหนังสือที่นี่คงไม่ใช่หนังสือที่ฉันรู้จักธรรมดาๆอย่างแน่นอน</Content>
         </Dialog>
@@ -671,7 +671,7 @@
         </Dialog>
         <Dialog ID="4" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Prol_ep4_roland2</VoiceFile>
           <Content>ข้อมูล… ก็จริงนะตอนนี้ข้อมูลมีค่าเท่ากับเงิน มันอาจจะดึงดูดผู้ไม่หวังดีมาได้ก็เป็นเรื่องปกติ</Content>
         </Dialog>
@@ -962,7 +962,7 @@
         <PlaceName>สถานที่: ด้านในห้องสมุด - การส่งคำเชิญครั้งที่หนึ่ง</PlaceName>
         <Dialog ID="45" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland1</VoiceFile>
           <Content>ที่พวกเราเห็นนั้นมันอะไร…?</Content>
         </Dialog>
@@ -980,7 +980,7 @@
         </Dialog>
         <Dialog ID="48" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland2</VoiceFile>
           <Content>ฉันไม่คิดเลยว่าเธอจะเป็นพวกมีนิสัยชอบถ้ำมองเลยนะเนี้ย</Content>
         </Dialog>
@@ -998,19 +998,19 @@
         </Dialog>
         <Dialog ID="51" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland3</VoiceFile>
           <Content>มันเป็นสิ่งที่ยอดเยี่ยมเลยครับคุณผู้หญิง ใช้เหยื่อล่อและลักพาตัว ช่างเป็นเครื่องมือก่ออาชญกรรมที่สมบูรณ์เลยแฮะ</Content>
         </Dialog>
         <Dialog ID="52" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland4</VoiceFile>
           <Content>เฮ้ ถ้าการเชิญมันทำได้ขนาดนี้แล้ว ทำไมเราไม่ข้ามขั้นตอนการตอนรับทั้งหมดไปเลยล่ะ?</Content>
         </Dialog>
         <Dialog ID="53" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland5</VoiceFile>
           <Content>เราก็แค่ย้ายพวกเขาเข้าไปในห้องที่เต็มไปด้วยกับดักหรืออะไรสักอย่างก็ได้นิ?</Content>
         </Dialog>
@@ -1028,7 +1028,7 @@
         </Dialog>
         <Dialog ID="56" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland6</VoiceFile>
           <Content>ใช่ ใช่ ไม่มีทางที่ทุกอย่างจะเป็นไปได้อย่างราบรื่นในเมืองแห่งนี้สินะ</Content>
         </Dialog>
@@ -1040,7 +1040,7 @@
         </Dialog>
         <Dialog ID="58" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland7</VoiceFile>
           <Content>งั้นช่วยบอกฉันหน่อย ขั้นตอนของการเชิญทำให้เกิดตราสัญลักษณ์นั้นและความเสียหายในร่างกายนั้นด้วยหรอ?</Content>
         </Dialog>
@@ -1058,13 +1058,13 @@
         </Dialog>
         <Dialog ID="61" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland8</VoiceFile>
           <Content>ถ้าอย่างงั้นเรื่องแปลกๆที่เกิดขึ้นเป็นฝีมือของคนอื่นสินะ… </Content>
         </Dialog>
         <Dialog ID="62" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland9</VoiceFile>
           <Content>ฉันไม่เคยเห็นอะไรแบบนั้นมาก่อน ตั้งแต่เมื่อตอนที่ฉันยังเป็นฟิกเซอร์อยู่เลยนะ มันเหมือนกับอะไรบางอย่างที่มาจาก “Ruins” สินะ…</Content>
         </Dialog>
@@ -1076,13 +1076,13 @@
         </Dialog>
         <Dialog ID="64" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland10</VoiceFile>
           <Content>…ฉันก็ไม่รู้อะไรมากหรอกนะ แค่ได้แต่ได้ยินเรื่องเล่าของมัน จะว่ายังไงดีละมันเป็นเหมือน… เวทมนตร์ละมั้ง?</Content>
         </Dialog>
         <Dialog ID="65" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland11</VoiceFile>
           <Content>อะไรพวกนั้นมันมีอยู่ใน Ruins น่ะ</Content>
         </Dialog>
@@ -1094,25 +1094,25 @@
         </Dialog>
         <Dialog ID="67" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland12</VoiceFile>
           <Content>พวกนั้นน่าจะเป็นกลุ่มแก๊งอันธพาลจากแบ็คสตรีทที่เรียกว่า พวก‘Rats’.</Content>
         </Dialog>
         <Dialog ID="68" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland13</VoiceFile>
           <Content>กลุ่มแก๊งอันธพาลครึ่งๆกลางๆ แทบไม่มีค่าพอจะเป็นองค์กรได้ พวกเขาไม่มีแม้แต่เงินหรืออำนาจใดๆ</Content>
         </Dialog>
         <Dialog ID="69" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland14</VoiceFile>
           <Content>พวกเขาเป็นพวกขี้แพ้ที่คิดแต่จะทำเรื่องให้จบไปวันๆ</Content>
         </Dialog>
         <Dialog ID="70" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland15</VoiceFile>
           <Content>อืมม… พอพูดแล้วเหมือนฉันกำลังล้อตัวเองอยู่อย่างงั้นนะ</Content>
         </Dialog>
@@ -1124,7 +1124,7 @@
         </Dialog>
         <Dialog ID="72" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland16</VoiceFile>
           <Content>รู้จักด้วยหรอ?</Content>
         </Dialog>
@@ -1136,13 +1136,13 @@
         </Dialog>
         <Dialog ID="74" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland17</VoiceFile>
           <Content>อ้อ มันไม่มีอะไรพิเศษหรอก แบ็คสตรีทมันขยายตัวแพร่ไปทั่วเมืองอย่างรวดเร็วเหมือนกะเส้นเลือด</Content>
         </Dialog>
         <Dialog ID="75" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland18</VoiceFile>
           <Content>มันอาจจะยากกว่าด้วยซ้ำ ที่จะหาคนที่ไม่ได้มาจากที่นั้น</Content>
         </Dialog>
@@ -1235,7 +1235,7 @@
         </Dialog>
         <Dialog ID="1" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_rat_ep1_roland19</VoiceFile>
           <Content>ก็มันเป็นส่วนหนึ่งในการใช้ชีวิตในเมืองนี้ละนะ เธอต้องต้องเป็นส่วนหนึ่งของกลุ่มใดก็ตาม ไม่ว่าจะเป็นองค์กรหรืออะไรก็ตาม การใชีวิตในเมืองมันยากแบบนั้นแหละ</Content>
         </Dialog>
@@ -1427,19 +1427,19 @@
         </Dialog>
         <Dialog ID="29" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland1</VoiceFile>
           <Content>ก็ขึ้นอยู่กับSyndicateนั้นแหละ  The Cityมีมันเต็มไปหมดเลย จะบอกว่าเท่าจำนวนFixerเลยก็ได้มั้ง</Content>
         </Dialog>
         <Dialog ID="30" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland2</VoiceFile>
           <Content>จริงๆมันก็แค่พวกนักเลงมารวมตัวกัน แล้วไปทำอะไรสักอย่างภายใต้ชื่อที่ตั้งไว้นั้นแหละ</Content>
         </Dialog>
         <Dialog ID="31" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland3</VoiceFile>
           <Content>พวกเขาก็ทำแทบจะทุกอย่าง ถ้าจะให้จำกัดความคงทำได้ยากไปหน่อย</Content>
         </Dialog>
@@ -1451,19 +1451,19 @@
         </Dialog>
         <Dialog ID="33" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland4</VoiceFile>
           <Content>เขาไม่ใช่จักรกลหรือAIหรอก ถึงจะรูปร่างอย่างงั้น</Content>
         </Dialog>
         <Dialog ID="34" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland5</VoiceFile>
           <Content>จักรกลบริสุทธิ์ที่มีความรู้สึกและความปราถนาเป็นของตัวเองน่ะ หายไปจากCityนานมากแล้ว</Content>
         </Dialog>
         <Dialog ID="35" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland6</VoiceFile>
           <Content>พวกนี้ก็แต่เปลี่ยนถ่ายอวัยวะแบบครบร่าง แล้วคงจะเป็นของกากๆจากเวิร์คช็อปห่วยๆแน่นอน...</Content>
         </Dialog>
@@ -1475,7 +1475,7 @@
         </Dialog>
         <Dialog ID="37" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland7</VoiceFile>
           <Content>โอเค! มาเตรียมพร้อมรับแขกกันดีกว่าไหม?</Content>
         </Dialog>
@@ -1586,7 +1586,7 @@
         <PlaceName>Location: Inside the Library</PlaceName>
         <Dialog ID="0" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland8</VoiceFile>
           <Content>เห็นม่ะ การเอาสมองตัวเองไปใส่ในเศษเหล็กไม่ใช่เรื่องดีเลยสักนิด</Content>
         </Dialog>
@@ -1598,25 +1598,25 @@
         </Dialog>
         <Dialog ID="2" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland9</VoiceFile>
           <Content>มันมีวิธีเสริมพลังกายตั้งหลายวิธี ที่ไม่ใช่การเปลี่ยนถ่าย</Content>
         </Dialog>
         <Dialog ID="3" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland10</VoiceFile>
           <Content>แบบว่า แม่มมีเยอะจริงๆนั้นแหละ รอยสักเอย แขนขากลเอย ยาปฏิชีวนะเอย ขอแค่มีกะตังอะไรก็เป็นไปได้ทั้งนั้นนั่นแหละ</Content>
         </Dialog>
         <Dialog ID="4" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland11</VoiceFile>
           <Content>กลับกัน การเปลี่ยนถ่ายร่างกายเป็นจักรกลน่ะ เป็นทางขาเดียวที่ไปแล้วจะกลับไม่ได้เลยล่ะ</Content>
         </Dialog>
         <Dialog ID="5" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland12</VoiceFile>
           <Content>ร่างหุ่นยนต์มันทำเลียนแบบมนุษย์ไม่ได้ขนาดนั้น ถึงบางคนจะเปลี่ยนแค่ส่วนกล้ามเนื้อ แต่อีกไม่นานชีวิตคนๆนั้นก็จะไม่เป็นสุขอีกเลย</Content>
         </Dialog>
@@ -1628,19 +1628,19 @@
         </Dialog>
         <Dialog ID="7" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland13</VoiceFile>
           <Content>หนึ่ง ตอนที่อยากได้เงินร้อนเงินไว เธอสามารถเอาอวัยวะของตัวเองไปเปลี่ยนเป็นกะตังจำนวนมากได้</Content>
         </Dialog>
         <Dialog ID="8" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland14</VoiceFile>
           <Content>สอง ถ้าเกิดต้องทำงานที่มันนานๆแล้ววนซ้ำไปมา ได้ยินมาว่าร่างหุ่นยนต์ก็เหมาะกับการใช้แรงงานแบบนี้มากเลย</Content>
         </Dialog>
         <Dialog ID="9" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland15</VoiceFile>
           <Content>พออวัยวะพังก็เปลี่ยนได้ พอมีความอยากก็คุมได้ จริงๆมันก็มีข้อดีอยู่นั่นแหละ</Content>
         </Dialog>
@@ -1652,7 +1652,7 @@
         </Dialog>
         <Dialog ID="11" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Iron_ep1_roland16</VoiceFile>
           <Content>อะไรจ้ะ สนใจอยากได้ร่างใหม่รึไง?</Content>
         </Dialog>
@@ -1778,19 +1778,19 @@
         </Dialog>
         <Dialog ID="17" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep1_roland1</VoiceFile>
           <Content>อะไร? ฟังนะ ไม่ใช่ว่าฟิกเซอร์ทุกคนรู้จักกันซะหน่อย…</Content>
         </Dialog>
         <Dialog ID="18" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep1_roland2</VoiceFile>
           <Content>มันเหมือนแบบว่าเลือกสุ่มสองคนบนท้องถนนมาแล้วบอกว่าพวกเขาจะรู้จักกันเลย</Content>
         </Dialog>
         <Dialog ID="19" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep1_roland3</VoiceFile>
           <Content>คำถามของเธอเหมือนกำลังถามสองคนที่ไม่รู้จักกันว่า “คุณสองคนเป็นมนุษย์เหมือนกันนะ ดังนั้นพวกคุณควรรู้จักกัน ใช่มั้ย?” เธอเข้าใจรึเปล่าว่าฉันพูดถึงอะไร?</Content>
         </Dialog>
@@ -1802,7 +1802,7 @@
         </Dialog>
         <Dialog ID="21" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep1_roland4</VoiceFile>
           <Content>ก็ประมาณนั้น</Content>
         </Dialog>
@@ -1997,19 +1997,19 @@
         </Dialog>
         <Dialog ID="30" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep2_roland1</VoiceFile>
           <Content>ตามระเบียบแล้วก็เป็นแบบงั้นแหละ ฉันเลี่ยงขั้นตอนนั้นได้เพราะฉันใช้สำนักงานคนเดียว</Content>
         </Dialog>
         <Dialog ID="31" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep2_roland2</VoiceFile>
           <Content>พวกฟิกเซอร์ก็ไม่ได้ดีกว่า Syndicates ไปซะเท่าไหร่เลย เมื่อมีความโลภเข้ามาเกี่ยว</Content>
         </Dialog>
         <Dialog ID="32" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep2_roland3</VoiceFile>
           <Content>แล้วดูเหมือนว่าผู้ชายคนนี้กำลังพยายามหลอกใช้เด็กไร้เดียงสาคนนี้อยู่นะ</Content>
         </Dialog>
@@ -2066,7 +2066,7 @@
         <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="0" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep2_roland4</VoiceFile>
           <Content>โธ่เอ๊ย คิดๆแล้ว ได้เห็นมือใหม่มาตายแบบนี้ มันไม่ได้เป็นสิ่งที่น่าดีใจเลยแฮะ</Content>
         </Dialog>
@@ -2102,7 +2102,7 @@
         </Dialog>
         <Dialog ID="6" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep2_roland5</VoiceFile>
           <Content>ใช่ จุดนั้นก็แฟร์อยู่หรอก แต่วิธีการนั้นมันก็ยังรู้สึกว่ามันสกปรกอยู่ดี</Content>
         </Dialog>
@@ -2219,19 +2219,19 @@
         </Dialog>
         <Dialog ID="17" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland1</VoiceFile>
           <Content>เนี้ยคงไม่มากันทั้งสำนักงานใช่ไหม หะ?</Content>
         </Dialog>
         <Dialog ID="18" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland2</VoiceFile>
           <Content>อาจจะเป็นสำนักงานเล็กและไม่มีความสำคัญนัก แต่มันก็อาจจะเป็นเรื่องลำบากสำหรับห้องสมุดได้ในตอนนี้</Content>
         </Dialog>
         <Dialog ID="19" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland3</VoiceFile>
           <Content>ถ้าพวกเขาไปถึงห้องของเธอแล้วมันจะเกิดอะไรขึ้น?</Content>
         </Dialog>
@@ -2333,13 +2333,13 @@
         </Dialog>
         <Dialog ID="1" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland4</VoiceFile>
           <Content>พวกเขาทั้งหมดเหมือนกับแมลงเม่าที่บินเข้ากองไฟเลยนะ</Content>
         </Dialog>
         <Dialog ID="2" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland5</VoiceFile>
           <Content>คนชื่อยุนคนนั้นดูเหมือนเป็นคนฉลาด แต่เขาก็จบลงด้วยการกระโดดเข้าไปในกองไฟอย่างสุ่มสี่สุ่มห้าเพื่อให้ได้ในสิ่งที่เขาต้องการ</Content>
         </Dialog>
@@ -2357,13 +2357,13 @@
         </Dialog>
         <Dialog ID="5" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland6</VoiceFile>
           <Content>นี่ดูฮามากเลยนะ เธอพูดว่าเกลียดการพูดเยอะและวกไปวนมา แต่ตอนนี้เธอเริ่มพูดเป็นเจ้าบทเจ้ากลอนแทนซะหมด</Content>
         </Dialog>
         <Dialog ID="6" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Yun_ep3_roland7</VoiceFile>
           <Content>ให้ 10 เต็ม 10 เลยนะ ในฐานะบรรณารักษ์บางคนที่ฉันรู้จัก และอาจจะถอดแขนกับขาของฉันได้หากเธอได้ยินอะไรประมาณนั้น</Content>
         </Dialog>
@@ -2537,13 +2537,13 @@
         <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="25" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland1</VoiceFile>
           <Content>แม้แต่พวกอันธพาลพวกนี้ก็ยังเข้าร่วมสำนักฟิกเซอร์ได้ในทุกวันนี้แฮะ</Content>
         </Dialog>
         <Dialog ID="26" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland2</VoiceFile>
           <Content>ทั่วทั้งตลาดแข่งขันกันรุนแรง ไม่ว่าใครก็อยากเป็นฟิกเซอร์กันน่ะ</Content>
         </Dialog>
@@ -2555,13 +2555,13 @@
         </Dialog>
         <Dialog ID="28" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland3</VoiceFile>
           <Content>…ฟังนะ อาจจะดูไม่เหมือน แต่ฉันเคยเป็นคนที่ฮอตมากๆเลยนะ รู้ไหม?</Content>
         </Dialog>
         <Dialog ID="29" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland4</VoiceFile>
           <Content>แต่แล้วก็เกิดเรื่องขึ้นแล้วฉันก็ตกลงมาอยู่จุดต่ำสุดของชีวิต</Content>
         </Dialog>
@@ -2573,7 +2573,7 @@
         </Dialog>
         <Dialog ID="31" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland5</VoiceFile>
           <Content>ฉันก็ทำทุกอย่างจริงๆนะ ทำทุกอย่างที่ความสามารถของฉันพอไหวน่ะ!</Content>
         </Dialog>
@@ -2695,7 +2695,7 @@
         </Dialog>
         <Dialog ID="1" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland6</VoiceFile>
           <Content>ฉัน เอ่อ… อย่าใส่ใจเกี่ยวกับคำพูดของพวกนั้นที่ว่าเธอเลยนะ โอเค?</Content>
         </Dialog>
@@ -2707,7 +2707,7 @@
         </Dialog>
         <Dialog ID="3" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland7</VoiceFile>
           <Content>บางที อาจจะนะ… ฉันก็ไม่แคร์หรอกนะว่าเธอจะเป็นมนุษย์จริงๆหรือเปล่า</Content>
         </Dialog>
@@ -2719,7 +2719,7 @@
         </Dialog>
         <Dialog ID="5" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland8</VoiceFile>
           <Content>ยังไงก็ตาม เราก็ยังอยู่ในยุคสมัยของมวลมนุษย์ละน่า</Content>
         </Dialog>
@@ -2731,43 +2731,43 @@
         </Dialog>
         <Dialog ID="7" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland9</VoiceFile>
           <Content>อย่าจ้องเขม็งฉันแบบนั้นสิ ตอนนี้… ฉันก็ไม่รู้รายละเอียดเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="8" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland10</VoiceFile>
           <Content>เมื่อก่อน สิ่งมีชีวิตที่มีความฉลาดหรือมีสติปัญญาที่ไม่ใช่มนุษย์ถูกขับไล่ออกจากเมืองไปยัง Outskirts</Content>
         </Dialog>
         <Dialog ID="9" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland11</VoiceFile>
           <Content>ฉันไม่แน่ใจหรอกนะว่าทำไมถึงเกิดขึ้น แต่การแก้ไขกฏหมายจริยธรรมปัญญาประดิษฐ์ถูกนำมาใช้เป็นส่วนหนึ่งของการเคลื่อนไหวในครั้งนั้น…</Content>
         </Dialog>
         <Dialog ID="10" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland12</VoiceFile>
           <Content>จริงๆแล้วมันเป็นไปได้ที่จะสร้างเครื่องจักรที่สามารถรู้สึกถึงอารมณ์และความปรารถนาได้ พูดง่ายๆ… พวกเขาแทบจะเหมือนมนุษย์เลย</Content>
         </Dialog>
         <Dialog ID="11" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland13</VoiceFile>
           <Content>คงเป็นปัญหานั้นแหละนะ</Content>
         </Dialog>
         <Dialog ID="12" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland14</VoiceFile>
           <Content>ด้วยการแก้ไขกฎหมายจริยธรรมปัญญาประดิษฐ์ถูกนำมาใช้ จึงไม่สามารถสร้างเครื่องจักรที่คล้ายมนุษย์ได้เลย รวมถึงการสร้างร่างกายทดแทนนั้นก็ด้วย</Content>
         </Dialog>
         <Dialog ID="13" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland15</VoiceFile>
           <Content>ถึงแม้ว่าจะมีข้อยกเว้นอยู่บ้าง</Content>
         </Dialog>
@@ -2785,7 +2785,7 @@
         </Dialog>
         <Dialog ID="16" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland16</VoiceFile>
           <Content>ดังนั้นจึงไม่ใช่แม้แต่สมองของมนุษย์ที่อยู่ในร่างของหุ่นยนต์…?</Content>
         </Dialog>
@@ -2797,7 +2797,7 @@
         </Dialog>
         <Dialog ID="18" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland17</VoiceFile>
           <Content>แล้วเศษเสี้ยวของสมองมนุษย์ที่เธอพูดถึงล่ะ?</Content>
         </Dialog>
@@ -2815,55 +2815,55 @@
         </Dialog>
         <Dialog ID="21" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland18</VoiceFile>
           <Content>…ฉันเข้าใจแล้วแฮะ</Content>
         </Dialog>
         <Dialog ID="22" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland19</VoiceFile>
           <Content>แล้วที่เธอดูเหมือนว่าจะใช้ชีวิตอยู่แบบหลังเขามาตลอด เหมือนกับว่าเธอไม่รู้ความเป็นไปของโลกเลย…</Content>
         </Dialog>
         <Dialog ID="23" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland20</VoiceFile>
           <Content>เธอต้องระมัดระวังตัวเป็นพิเศษหน่อยนะ โดยเฉพาะหากเธอวางแผนจะออกไปจากที่นี่ในสักวัน</Content>
         </Dialog>
         <Dialog ID="24" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland21</VoiceFile>
           <Content>เธอเป็นแอนดรอยด์ที่มีความรู้ึสึกและมีความปรารถนา การมีตัวตนอยู่ของเธอเป็นการละเมิดกฏหมายจริยธรรมปัญญาประดิษฐ์โดยสิ้นเชิง</Content>
         </Dialog>
         <Dialog ID="25" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland22</VoiceFile>
           <Content>พวก 'เดอะเฮด' เก่งมากในการตรวจสิ่งผิดปกติแบบเธอ</Content>
         </Dialog>
         <Dialog ID="26" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland23</VoiceFile>
           <Content>จริงสิ เรื่องนี้เธอยังไม่รู้ เดอะเฮดเป็นองค์กรปริศนาที่คอยควบคุมเมืองทั้งหมด</Content>
         </Dialog>
         <Dialog ID="27" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland24</VoiceFile>
           <Content>ถึงแม้ว่าเราจะไม่มีโอกาสได้พบกับพวกเขาเลย</Content>
         </Dialog>
         <Dialog ID="28" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland25</VoiceFile>
           <Content>อย่างไรก็ตาม ทั่วทั้งห้องสมุดนี้อยู่ในความเสี่ยงมาตั้งแต่แรกแล้ว</Content>
         </Dialog>
         <Dialog ID="29" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland26</VoiceFile>
           <Content>บรรณารักษ์ที่นี่ดูเหมือนพวกเขาเป็นมนุษย์ แต่ในขณะเดียวกันก็ไม่ใช่ "มนุษย์" ซะจริงๆ</Content>
         </Dialog>
@@ -2887,19 +2887,19 @@
         </Dialog>
         <Dialog ID="33" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland27</VoiceFile>
           <Content>ฉันบอกได้เลยว่าใครก็ตามที่สร้างเธอขึ้นมา ต้องเป็นคนที่ไม่เหมือนใครเลยจริงๆ</Content>
         </Dialog>
         <Dialog ID="34" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland28</VoiceFile>
           <Content>ฉันไม่รู้หรอกนะว่าอะไรเป็นแรงจูงใจให้กับพวกเขา แต่การฝ่าฝืนกฏของเดอะเฮ็ดต้องใช้ความกล้าไม่น้อยเลย</Content>
         </Dialog>
         <Dialog ID="35" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland29</VoiceFile>
           <Content>เพราะไม่มีใครหนีรอดเงื้อมมือของเดอะเฮดได้</Content>
         </Dialog>
@@ -2923,7 +2923,7 @@
         </Dialog>
         <Dialog ID="39" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland30</VoiceFile>
           <Content>อีกครั้งกับการพูดอย่างกับเพ้อฝันที่เธอ "เกลียด" มันมากนะ แล้วนั่นหมายความว่าอะไรล่ะ?</Content>
         </Dialog>
@@ -2935,13 +2935,13 @@
         </Dialog>
         <Dialog ID="41" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland31</VoiceFile>
           <Content>ฉันก็ไม่ค่อยสนใจเท่าไหร่หรอกนะ</Content>
         </Dialog>
         <Dialog ID="42" model="롤랑">
           <Teller>โรแลนด์</Teller>
-          <Title>ทาสรับใช้</Title>
+          <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_Hook_ep1_roland32</VoiceFile>
           <Content>นั่นคือนั้น ส่วนนี่คือนี่</Content>
         </Dialog>

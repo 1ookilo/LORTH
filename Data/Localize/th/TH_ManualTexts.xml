@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<text id="ui_manual_title_1">การเชื้อเชิญ</text>
-	<text id="ui_manual_title_2">การต้อนรับ</text>
+	<text id="ui_manual_title_2">การรับแขก</text>
 	<text id="ui_manual_title_3">หอสมุด</text>
 	<text id="ui_manuals_subtitle_1_1">การส่งบัตรเชิญสีแดง</text>
 	<text id="ui_manuals_subtitle_1_2">การส่งบัตรเชิญทั่วไป</text>
 
-	<text id="ui_manuals_subtitle_2_1">เตรียมตัวสำหรับการต้อนรับ</text>
+	<text id="ui_manuals_subtitle_2_1">เตรียมตัวสำหรับการรับแขก</text>
 	<text id="ui_manuals_subtitle_2_2">พื้นฐานของการต่อสู้</text>
 
-	<text id="ui_manuals_subtitle_2_3">ขั้นตอนการต้อนรับ</text>
+	<text id="ui_manuals_subtitle_2_3">ขั้นตอนการแขก</text>
 	<text id="ui_manuals_subtitle_2_4">อารมณ์และ Abnormalities</text>
 	<text id="ui_manuals_subtitle_2_5">จุดจบของการต้อนรับ</text>
 	<text id="ui_manuals_subtitle_2_6">ประเภทของ Pages</text>
@@ -24,7 +24,7 @@
 	<text id="ui_manuals_subsubtitle_1_1_3">ป้อนหนังสือ II</text>
 	<text id="ui_manuals_subsubtitle_1_1_4">การส่งคำเชิญของคุณ</text>
 	<text id="ui_manuals_subsubtitle_1_2_1">การส่งคำเชิญทั่วไป</text>
-	<text id="ui_manuals_subsubtitle_2_2_1">Combat  Pages คืออะไร?</text>
+	<text id="ui_manuals_subsubtitle_2_2_1">Combat Pages คืออะไร?</text>
 	<text id="ui_manuals_subsubtitle_2_3_1">ทอย Speed Dice</text>
 	<text id="ui_manuals_subsubtitle_2_3_2">เลือกใช้ Combat Pages</text>
 	<text id="ui_manuals_subsubtitle_2_3_3">เริ่มการต่อสู้</text>
@@ -102,53 +102,53 @@ dice พวกนี้จะถูกเก็บไว้จนกระทั
 
 	<!-- Invitation-related Manual Sections -->
 	<text id="ui_manuals_subsubtitle_1_1_1_1">ขั้นที่ 1: จากเมนูคำเชื้อเชิญ, เลือกแขกรับเชิญที่คุณต้องการเชิญชวนโดยกดไปที่โลโก้ของพวกเขา(หรือเครื่องหมาย ‘?’ ถ้าเกิดคุณยังไม่ได้ต้อนรับพวกเขาซักครั้ง).</text>
-	<text id="ui_manuals_subsubtitle_1_1_1_4">การต้อนรับจะเริ่มต้นขึ้นเมื่อทำการส่ง‘คำเชื้อเชิญ’ไปหาแขกของคุณ
+	<text id="ui_manuals_subsubtitle_1_1_1_4">การต้อนรับจะเริ่มต้นขึ้นเมื่อทำการส่ง‘คำเชิญ’ไปหาแขกของคุณ
 ทำตามขั้นตอนนี้(1-5 ตามหน้า) เพื่อส่ง‘บัตรเชิญสีแดง’ในการดำเนินเนื้อเรื่องต่อไป</text>
 	<text id="ui_manuals_subsubtitle_1_1_2_1">ขั้นที่ 2: จากหน้าเมนูที่ขยาย, คลิกไปที่เครื่องหมายของตอนที่คุณอยากจะเชิญแขกมา</text>
 	<text id="ui_manuals_subsubtitle_1_1_2_2">ขั้นที่ 3: หลังจากที่คุณได้ทำการเลือกตอนไปแล้ว, รายชื่อหนังสือที่ต้องใช้จะปรากฏขึ้นมาในบัตรเชิญ คลิกไปที่ช่องว่างในลิส</text>
 	<text id="ui_manuals_subsubtitle_1_1_3_1">ขั้นที่ 4: เลือกหนังสือที่ต้องใช้ใน‘หนังสือประจำวัน’.</text>
-	<text id="ui_manuals_subsubtitle_1_1_4_1">ขั้นที่ 5: กดไปที่‘ส่งคำเชิญ’เพื่อเตรียมและสรุปคำเชื้อเชิญฃ</text>
+	<text id="ui_manuals_subsubtitle_1_1_4_1">ขั้นที่ 5: กดไปที่‘ส่งคำเชิญ’เพื่อเตรียมและสรุปคำเชื้อเชิญ</text>
 	<text id="ui_manuals_subsubtitle_1_1_4_2">ขั้นที่ 6: คลิกไปที่ปุ่มทองเพื่อที่จะทำการส่งคำเชิญไปให้แขกของคุณ</text>
 	<text id="ui_manuals_subsubtitle_1_1_4_3">ข้อมูลของแขกของคุณจะยังไม่สามารถเห็นได่ถ้าเกิดคุณยังไม่เคยเชิญเขามาก่อน
 
-หลังจากที่คุณสู้กับพวกเขาไปแล้วครั้งหนึง, คุณจะสามารถเห็นข้อมูลการต่อสู้ได้</text>
-	<text id="ui_manuals_subsubtitle_1_2_1_1">คำเชื้อเชิญทั่วไปจะส่งไปให้แขกที่ไม่สำคัญ พวกเขาไม่ได้ขับเคลื่อนเรื่องราวแต่จะเป็นทรัพยากรที่ใช้สำหรับขยายห้องสมุด
+หลังจากที่คุณสู้กับพวกเขาไปแล้วครั้งนึง คุณจะสามารถเห็นข้อมูลการต่อสู้ได้</text>
+	<text id="ui_manuals_subsubtitle_1_2_1_1">คำเชิญทั่วไปจะถูกส่งไปให้แขกที่ไม่สำคัญ พวกเขาไม่ได้ขับเคลื่อนเรื่องราวแต่จะเป็นทรัพยากรที่ใช้สำหรับการขยายห้องสมุด
 
 
-ทำตามขั้นตอนนี้ (1-2 ข้างล่าง)เพื่อที่จะส่งคำเชื้อเชิญทั่วไป</text>
+ทำตามขั้นตอนนี้ (1-2 ข้างล่าง)เพื่อที่จะส่งคำเชิญทั่วไป</text>
 	<text id="ui_manuals_subsubtitle_1_2_1_2">ขั้นที่ 1: เลือกหนังสือ*อะไรก็ได้*เพื่อจะลงทะเบียนให้เป็น‘หนังสือประจำวัน’ของคุณ โดยกดไปที่ช่อง‘ลงทะเบียนหนังสือ’ที่ว่างอยู่
 (จำนวนเท่าไหร่/เกรดอะไรก็ได้)
 โน้ต: ถ้าใส่หนังสือที่ใช้ในคำเชื้อเชิญสีแดงจะทำการเชิญแขกที่ว่าดังกล่าวแทน</text>
 	<text id="ui_manuals_subsubtitle_1_2_1_3">ขั้นที่ 2: กด‘ส่ง’เพื่อทำการเชิญแขก</text>
-	<text id="ui_manuals_subsubtitle_1_2_1_4">In the case of General Invitations, the types of guests that take interest will depend on the value of the books you register.</text>
+	<text id="ui_manuals_subsubtitle_1_2_1_4">ในกรณีของการเชิญทั่วไป ประเภทแขกที่สนใจจะขึ้นกับค่าของหนังสือที่คุณลงทะเบียนไป</text>
 
 
-	<text id="ui_manuals_subsubtitle_2_2_1_1">Combat Pages and their dice are the main components of the reception.</text>
-	<text id="ui_manuals_subsubtitle_2_2_1_2">This text describes the ability of the page, usually &#60;color=#ff5622ff&#62;activated upon use&#60;/color&#62;.</text>
+	<text id="ui_manuals_subsubtitle_2_2_1_1">Combat Pages และเต๋าในหน้านั้นเป็นองค์ประกอบหลักของการรับแขก</text>
+	<text id="ui_manuals_subsubtitle_2_2_1_2">คำนี้อธิบายความสามารถของหน้า ส่วนใหญ่จะ&#60;color=#ff5622ff&#62;ทำงานเมื่อใช้&#60;/color&#62;</text>
 	<!--띄어쓰기 중요-->
-	<text id="ui_manuals_subsubtitle_2_2_1_3">In combat, &#60;color=#ff5622ff&#62;3 types of Offensive dice&#60;/color&#62; exist, each corresponding to a different damage type.
+	<text id="ui_manuals_subsubtitle_2_2_1_3">ในการต่อสู้&#60;color=#ff5622ff&#62;มีเต๋าโจมตีอยู่ 3 ประเภท&#60;/color&#62; แต่ละประเภทจะทำดาเมจต่างกัน
   
-This icon represents the ‘Slash’ damage type; when an Offensive die with this icon is played, a Slash-type attack will be performed.
+ไอคอนนี้เป็นดาเมจประเภท ‘ฟัน’ เมื่อเล่นเต๋าโจมตีที่มีไอคอนนี้จะกระทำการโจมตีประเภทฟัน
 	
-Likewise, playing an Offensive die with the ‘Pierce’ icon will perform a Pierce-type attack.
+่เช่นกันว่าการเล่นเต๋าโจมตีที่มีไอคอน ‘แทง’ จะกระทำการโจมตีประเภทแทง
 	
-Lastly, playing an Offensive die with the ‘Blunt’ icon will perform a Blunt-type attack.</text>
+ท้ายสุด การเล่นเต๋าโจมตีที่มีไอคอน ‘ทุบ’ จะกระทำการโจมตีประเภททุบ</text>
 
-	<text id="ui_manuals_subsubtitle_2_3_1_1">When a new Scene begins, press the Spacebar to roll Speed dice.
+	<text id="ui_manuals_subsubtitle_2_3_1_1">เมื่อเริ่มซีนใหม่ กด Spacebar เพื่อทอย Speed dice.
 (Or you can click the nifty logo button at the center-top of the screen.)
 
-The number of Combat Pages a character can use each Scene depends on &#60;color=#ff5622ff&#62;the number of Speed dice they have&#60;/color&#62;.
+จำนวนของ Combat Pages ที่สามารถใช้ได้ในแต่ละซีนนั้นขึ้นกับ&#60;color=#ff5622ff&#62;จำนวนของ Speed dice ที่แต่ละตัวมี&#60;/color&#62;
 
-Characters with higher Speed rolls:
+ตัวละครที่มี Speed rolls สูงกว่า:
 - Act first.
 - Can redirect enemies with lower Speed &#60;color=#ff5622ff&#62;to target them instead&#60;/color&#62;.</text>
   
-  <text id="ui_manuals_subsubtitle_2_3_1_1_pad">When a new Scene begins, press [4] to roll Speed dice.
+  <text id="ui_manuals_subsubtitle_2_3_1_1_pad">เมื่อเริ่มซีนใหม่ กด [4]] เพื่อทอย Speed dice.
 (Or you can click the nifty logo button at the center-top of the screen.)
 
-The number of Combat Pages a character can use each Scene depends on &#60;color=#ff5622ff&#62;the number of Speed dice they have&#60;/color&#62;.
+จำนวนของ Combat Pages ที่สามารถใช้ได้ในแต่ละซีนนั้นขึ้นกับ&#60;color=#ff5622ff&#62;จำนวนของ Speed dice ที่แต่ละตัวมี&#60;/color&#62;
 
-Characters with higher Speed rolls:
+ตัวละครที่มี Speed rolls สูงกว่า:
 - Act first.
 - Can redirect enemies with lower Speed &#60;color=#ff5622ff&#62;to target them instead&#60;/color&#62;.</text>
   
@@ -401,7 +401,7 @@ Most abilities activate when the attack &#60;color=#ff5622ff&#62;hits&#60;/color
 	<!--2_battleapge -> type2-->
 	<text id="ui_manuals_subsubtitle_2_2_3">Light</text>
 	<text id="ui_manuals_subsubtitle_2_2_3_1">During battle, using &#60;color=#ff5622ff&#62;‘Combat Pages’&#60;/color&#62; needs a resource called ‘Light’.
-    The amount of Light a character currently has is indicated by the number of yellow icons above them.</text>
+    The amount of Light a character currently has is indicated by จำนวนของ yellow icons above them.</text>
 
 	<!--2_emotion -> 에고-->
 	<text id="ui_manuals_subsubtitle_2_4_5">E.G.O</text>
@@ -429,7 +429,7 @@ Each floor offers a different set of Abnormality pages to choose from, and the l
 	<text id="ui_manuals_subsubtitle_2_1_1_1">You can view a librarian’s info by selecting them.</text>
 	<text id="ui_manuals_subsubtitle_2_1_1_4">You can view a guest’s info by selecting them.</text>
 	<text id="ui_manuals_subsubtitle_2_1_2_2">Step 2: Start the reception by pressing the ‘Begin Stageplay’ button.</text>
-	<text id="ui_manuals_subsubtitle_2_1_2_3">This indicates the number of floors that may be used during reception.
+	<text id="ui_manuals_subsubtitle_2_1_2_3">This indicates จำนวนของ floors that may be used during reception.
 Running out of floors means that the reception will end.</text>
 	<text id="ui_manuals_subsubtitle_2_1_2_4">Number of Battles Remaining</text>
 	<text id="ui_manuals_subsubtitle_2_1_1_2">You can swap the selected librarian’s Key page for another by clicking here.</text>

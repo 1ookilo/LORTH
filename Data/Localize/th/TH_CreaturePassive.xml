@@ -162,20 +162,20 @@ Stagger ทั้งหมดจะเปลี่ยนเป็น "อ่อ�
 และสลาย Page ดังกล่าว</Desc>
 </PassiveDesc>
 
-	<!-- 노래하는 기계 -->
-	<PassiveDesc ID="203011">
-		<Name>เครื่องจักร์ที่ร้องเพลงได้</Name>
-		<Desc>ไม่สามารถถูกเลือกเป้าได้ ไม่มีการโจมตี ไม่รับดาเมจ</Desc>
-	</PassiveDesc>
-	<PassiveDesc ID="203012">
-		<Name>การแสดง</Name>
-		<Desc>ฉากหลังจาก "ฉันต้องได้ฟังเพลงบรรเลงนั้น!!!" ทำงาน
-		เล่นเพลงโดยใช้ตัวละครที่ยู่ในนั้น
-		ตัวละครดังกล่าวได้รับดาเมจ 30% ของ HP สูงสุด
-		และถูกเอาออกจากการต่อสู้ในฉากนั้น
-		ขณะที่ดนตรีบรรเลงอยู่ ทุกตัวละครได้รับกำลัง 5 จำนวน
-		และความต้านทาน Stagger เปลี่ยนเป็น "ร้ายแรง"</Desc>
-	</PassiveDesc>
+<!-- 노래하는 기계 -->
+<PassiveDesc ID="203011">
+<Name>เครื่องจักร์ที่ร้องเพลงได้</Name>
+<Desc>ไม่สามารถถูกเลือกเป้าได้ ไม่มีการโจมตี ไม่รับดาเมจ</Desc>
+</PassiveDesc>
+<PassiveDesc ID="203012">
+<Name>การแสดง</Name>
+<Desc>ฉากหลังจาก "ฉันต้องได้ฟังเพลงบรรเลงนั้น!!!" ทำงาน
+เล่นเพลงโดยใช้ตัวละครที่ยู่ในนั้น
+ตัวละครดังกล่าวได้รับดาเมจ 30% ของ HP สูงสุด
+และถูกเอาออกจากการต่อสู้ในฉากนั้น
+ขณะที่ดนตรีบรรเลงอยู่ ทุกตัวละครได้รับกำลัง 5 จำนวน
+และความต้านทาน Stagger เปลี่ยนเป็น "ร้ายแรง"</Desc>
+</PassiveDesc>
 <PassiveDesc ID="203021">
 <Name>ฉันต้องได้ฟังเพลงบรรเลงนั้น!!!</Name>
 <Desc>เริ่มทำงานในฉากที่สาม; ทุกๆ สี่ฉาก
@@ -250,118 +250,147 @@ Abnormality เป็นเป้าหมายหลัก</Desc>
 <!-- 여왕벌 -->
 <PassiveDesc ID="104011">
 <Name>สปอร์</Name>
-<Desc>If the character was attacked, inflict 1 Spores on all librarians at the start of the next Scene.</Desc>
+<Desc>หากถูกโจมตี มอบ 1 สปอร์ใส่บรรณารักษ์ทั้งหมดเมื่อเริ่มฉากถัดไป</Desc>
 </PassiveDesc>
 <PassiveDesc ID="104012">
 <Name>ชูชันสร้างแรงงาน</Name>
-<Desc>If there are 2 or fewer Worker Bees alive เมื่อเริ่มฉาก, inflict 2 Spores on all librarians.</Desc>
+<Desc>หากมี Worker Bees 2 ตัวหรือน้อยกว่า
+เมื่อเริ่มฉาก มอบ 2 สปอร์ใส่บรรณารักษ์ทั้งหมด</Desc>
 </PassiveDesc>
 <PassiveDesc ID="104013">
 <Name>แปลงสภาพ</Name>
-<Desc>If a librarian dies while under the influence of Spores, spawn a Worker Bee next Scene.</Desc>
+<Desc>หากบรรณารักษ์ตายขณะติดสถานะสปอร์
+เสก Worker Bee ในฉากถัดไป</Desc>
 </PassiveDesc>
 <PassiveDesc ID="104014">
 <Name>ฟีโรโมน</Name>
-<Desc>Uses pages that boost the aggression and loyalty of Worker Bees every 3 Scenes.</Desc>
+<Desc>ใช้ Pages เพิ่มการโจมตีและความภักดีของ Worker Bees
+ในทุกๆ 3 ฉาก</Desc>
 </PassiveDesc>
 <!-- 일벌-->
 <PassiveDesc ID="104021">
 <Name>ความภักดี</Name>
-<Desc>Target the last foe that attacked the Queen Bee in the previous Scene.</Desc>
+<Desc>เล็งเป้าหมายที่โจมตี Queen Bee เป็นคนสุดท้ายในฉากที่แล้ว</Desc>
 </PassiveDesc>
 <PassiveDesc ID="104022">
 <Name>ความกล้าสู่การเผชิญความตาย</Name>
-<Desc>If the Queen Bee's HP falls to 20% or below, attacks her.</Desc>
+<Desc>หาก Queen Bee เหลือ HP 20% หรือต่ำกว่า จะโจมตี Queen Bee</Desc>
 </PassiveDesc>
 
 <!-- 붉은 두건의 용병 : 용병-->
 <PassiveDesc ID="601011">
 <Name>จุดจบของฝันร้าย</Name>
-<Desc>The battle is won if the Mercenary finishes off the Wolf; the battle is lost if the Mercenary dies before the Wolf does.</Desc>
+<Desc>การต่อสู้จะจบลงหากหนูน้อยหมวกแดงฆ่าหมาป่าได้;
+การต่อสู้จะแพ้ทันทีหากหนูน้อยหมวกแดงตายก่อนหมาป่า</Desc>
 </PassiveDesc>
 <PassiveDesc ID="601012">
 <Name>ไม่รีรอ</Name>
-<Desc>Uses 'Strike Without Hesitation' every 2-3 Scenes, targeting all characters.</Desc>
+<Desc>ใช้ "จู่โจมอย่างไม่ลังเล" ในทุกๆ 2-3 ฉาก เล็งทุกเป้าหมาย</Desc>
 </PassiveDesc>
 <PassiveDesc ID="601013">
-<Name>แรงโกรธ</Name>
-<Desc>When the Rage meter is filled, enters a state of rage. The Rage meter rises upon taking damage from the Wolf, and decreases upon dealing damage to the Wolf. The screen becomes redder as the Rage meter fills. Rage: Lasts 2 Scenes. Gain +2 Strength each Scene, and use Mass Attack pages.</Desc>
+<Name>เพลิงรักแรงแค้น</Name>
+<Desc>หากหลอดความโกรธเต็ม เข้าสถานะโกรธ
+หลอดความโกรธจะเพิ่มเมื่อถูกหมาป่าโจมตี
+และลดลงเมื่อโจมตีหมาป่า
+หน้าจอจะเปลี่ยนเป็นสีแสงเมื่อหลอดความโกรธเพิ่มขึ้น
+
+โกรธแค้น: เป็นระยะเวลา 2 ฉาก
+ได้รับกำลัง +2 จำนวนในแต่ละฉาก ใช้ Pages โจมตีหมู่</Desc>
 </PassiveDesc>
 <PassiveDesc ID="601014">
-<Name>โทสะไร้ที่ลง</Name>
-<Desc>If a librarian lands a killing blow on the Wolf, the Abnormality enters an 'Fury with No Outlet' state, and gains additional Max HP and Stagger Resist. Afterwards, recover 50% of Max HP and fully recover Stagger Resist. Fury with No Outlet: Permanently persists. Gain +5 Strength and Haste each Scene, and use Mass Attack pages.</Desc>
+<Name>เก็บกดคลั่งแค้น</Name>
+<Desc>ถ้าบรรณารักษ์เป็นผู้ฆ่าหมาป่า Abnormality จะเข้าสู่สภาวะ "เก็บกดคลั่งแค้น"
+และได้รับ HP สูงสุดและ Stagger Resist เพิ่มเติม
+จากนั้น ฟื้นฟู HP 50% และ Stagger Resist ทั้งหมด
+เก็บกดคลั่งแค้น: คงอยู่ถาวร ได้รับกำลังและว่องไว +5 จำนวนในแต่ละฉาก ใช้ Pages โจมตีหมู่</Desc>
 </PassiveDesc>
 <!-- 붉은 두건의 용병 : 늑대 -->
 <PassiveDesc ID="601021">
-<Name>หมาป่าคำราม</Name>
-<Desc>Uses 'Howl' every 3~4 Scenes, targeting all characters.</Desc>
+<Name>หมาป่าเห่าหอน</Name>
+<Desc>ใช้ "เห่าหอน" ในทุกๆ 3~4 ฉาก เล็งทุกเป้าหมาย</Desc>
 </PassiveDesc>
 <PassiveDesc ID="601022">
 <Name>ฝันร้ายคำรามก้อง</Name>
-<Desc>When HP falls to 50% or lower, gain a Speed die and use Howl every Scene.</Desc>
+<Desc>เมื่อ HP ลดลงเหลือ 50% หรือต่ำกว่า ได้รับลูกเต๋าความเร็วเพิ่ม
+และจะใช้เห่าหอนทุกฉาก</Desc>
 </PassiveDesc>
 
 <!-- 허수아비 -->
 <PassiveDesc ID="701011">
-<Name>Gleaning</Name>
-<Desc>Every 3 Scenes, gains an additional Speed die and uses the page 'Harvest Wisdom', which absorbs the target's Combat Page and recovers the user's HP on hit. If the target has no Combat Pages left to absorb, deals bonus damage (5~20) instead.</Desc>
+<Name>เก็บเกี่ยว</Name>
+<Desc>ทุกๆ 3 ฉาก ได้รับลูกเต๋าความเร็วเพิ่มและใช้ "เก็บเกี่ยวปัญญา"
+โดยจะดูดซับเอา Combat Page และฟื้นฟู HP เมื่อโจมตี 
+หากเป้าหมายไม่เหลือ Combat Pages ให้ดูดซับ
+ทำดาเมจโบนัส (5~20) ดาเมจแทน</Desc>
 </PassiveDesc>
 <PassiveDesc ID="701012">
-<Name>Tranquility of the Wise</Name>
-<Desc>If 'Harvest Wisdom' clashes against 'Wisdom', the Abnormality takes 20 Stagger damage at the end of the engagement, and gains 3 Feeble and Bind next Scene.</Desc>
+<Name>ผู้มีปัญญาจักสงบนิ่ง</Name>
+<Desc>หาก "เก็บเกี่ยวปัญญา" ปะทะกับ "ปัญญา" 
+Abnormality จะได้รับดาเมจ Stagger 20 ดาเมจหลังการปะทะ
+และได้รับอ่อนแรงและพันธนา 3 จำนวนในฉากถัดไป</Desc>
 </PassiveDesc>
 <PassiveDesc ID="701013">
-<Name>Cerebral Endeavor</Name>
-<Desc>After absorbing a page that isn't 'Wisdom' with 'Harvest Wisdom', gain Strength and Endurance equal to the number of pages absorbed, and use one of the absorbed pages.</Desc>
+<Name>ความมุมานะของสมอง</Name>
+<Desc>หลังจากดูดซับ Page ที่ไม่ใช่ "ปัญญา" ด้วย "เก็บเกี่ยวปัญญา"
+ได้รับกำลังและอึดทนเท่ากับจำนวน Page ที่ดูดซับมา
+และใช้หนึ่งใน Page ที่ดูดซับมา</Desc>
 </PassiveDesc>
 <PassiveDesc ID="701014">
-<Name>Straw for Brains</Name>
-<Desc>เมื่อเริ่มฉาก, all librarians who own no pages become Staggered.</Desc>
+<Name>เจาะสมองแล้วดูดจ๊วบๆ</Name>
+<Desc>เมื่อเริ่มฉาก บรรณารักษ์ทั้งหมดที่ไม่มี Page จะ Staggered</Desc>
 </PassiveDesc>
 
 <!-- 나무꾼 -->
 <PassiveDesc ID="702011">
-<Name>Dense Forest</Name>
-<Desc>If the character has Warm Heart เมื่อเริ่มฉาก, all librarians restore Light to max.</Desc>
+<Name>ป่าทึบ</Name>
+<Desc>ถ้าตัวละครนี้มี Warm Heart
+เมื่อเริ่มฉาก บรรณารักษ์ทั้งหมดจะฟื้นแสงจนเต็ม</Desc>
 </PassiveDesc>
 <PassiveDesc ID="702012">
-<Name>Still Not Enough</Name>
-<Desc>Each Scene, targets the character with the most Light.</Desc>
+<Name>ยังไม่ได้ ยังไม่พอ</Name>
+<Desc>ในแต่ละฉาก เล็งเป้าไปยังบรรณารักษ์ที่มีแสงมากที่สุด</Desc>
 </PassiveDesc>
 <PassiveDesc ID="702013">
-<Name>I Want a Heart</Name>
-<Desc>When attacking, all dice gain Power equal to the amount of Light the target has.</Desc>
+<Name>เอาหัวใจนั้นมา</Name>
+<Desc>เมื่อโจมตี ลูกเต๋าทั้งหมดจะได้รับพลังตามจำนวนแสงที่เป้าหมายมี</Desc>
 </PassiveDesc>
 <PassiveDesc ID="702014">
-<Name>Pulsing Ticker</Name>
-<Desc>Upon defeating another character, recover 20% of Max HP and gain 3 stacks of Warm Heart.</Desc>
+<Name>นาฬิกาใจ</Name>
+<Desc>เมื่อฆ่าเป้าหมายสำเร็จ ฟื้นฟู HP 20%
+และได้รับ Warm Heart 3 จำนวน</Desc>
 </PassiveDesc>
 <PassiveDesc ID="702015">
-<Name>Empty Chest</Name>
-<Desc>If the character has no Warm Heart เมื่อเริ่มฉาก, become Staggered.</Desc>
+<Name>หัวใจฉันไม่อยู่ตรงนี้ มันว่างเปล่า</Name>
+<Desc>ถ้าตัวละครนี้ไม่มี Warm Heart
+เมื่อเริ่มฉากจะ Staggered.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="702021">
-<Name>Heart-Haver</Name>
-<Desc>เมื่อเริ่มฉาก, if the amount of Warm Heart(s) is 0, the Woodsman culls this character.</Desc>
+<Name>ผู้ครองใจเธอ คือฉันนี่เอง</Name>
+<Desc>เมื่อเริ่มฉาก ถ้า Warm Heart(s) เหลืออยู่ 0
+Woodsman จะสับใส่ตัวละครนี้</Desc>
 </PassiveDesc>
 
 <!-- 죽나장 -->
 <PassiveDesc ID="204011">
-<Name>Hand of Salvation</Name>
-<Desc>Targets the enemy with the least HP. Prioritizes targets with Sealed dice.</Desc>
+<Name>หัตถ์แห่งความพ้นภัย</Name>
+<Desc>เล็งเป้าหมายที่ HP น้อยที่สุด
+เล็งเป้าหมายที่ถูกผนึกลูกเต๋าเป็นพิเศษ</Desc>
 </PassiveDesc>
 <PassiveDesc ID="204012">
-<Name>Tranquility</Name>
-<Desc>If all of a character's Speed dice are Sealed by this Abnormality's page effects, they become Staggered.</Desc>
+<Name>เจียมตัวสงบนิ่ง</Name>
+<Desc>หากลูกเต๋าทั้งหมดถูกผนึกโดยเอฟเฟคของ Page ของ Abnormality ตัวนี้
+พวกเขาทั้งหมดจะ Staggered</Desc>
 </PassiveDesc>
 <PassiveDesc ID="204013">
-<Name>Lamentation</Name>
-<Desc>If there's a Staggered enemy เมื่อเริ่มฉาก, uses a Mass Attack page.</Desc>
+<Name>คร่ำครวญ</Name>
+<Desc>ถ้ามีศัตรูที่ Staggered อยู่
+เมื่อเริ่มฉาก ใช้ Page โจมตีหมู่</Desc>
 </PassiveDesc>
 <!-- 죽나장 나비-->
 <PassiveDesc ID="204021">
-<Name>Futile Fluttering</Name>
-<Desc>Targets the enemy with the least HP; suppressed when the Funeral of the Dead Butterflies is suppressed.</Desc>
+<Name>กระพรือไปอย่างไร้ประโยชน์</Name>
+<Desc>เล็งเป้าหมายที่มี HP ต่ำที่สุด;
+จะถูกปราบลงเมื่อ Funeral of the Dead Butterflies ถูกปราบลง</Desc>
 </PassiveDesc>
 
 <PassiveDesc ID="602011">
@@ -738,8 +767,8 @@ After attacking the Servant of Wrath again on the second Scene, uses a Mass Atta
 <Name>Piercing Shriek</Name>
 <Desc>After taking an attack, uses the Combat Page 'Piercing Shriek' next Scene.</Desc>
 </PassiveDesc>
-	
-	
+
+
 <PassiveDesc ID="604011">
 <Name>Fear of Water</Name>
 <Desc>If the character has less than 5 Blood, gain Strength proportional to the amount of Blood missing. (Up to 3)</Desc>
@@ -768,7 +797,7 @@ If the character did not use the page for the first 4 Scenes of the battle, it w
 <PassiveDesc ID="604033">
 <Name>Unbearable Drought</Name>
 <Desc>If the character has 2 or less Blood, uses a special Combat Page. (Has a 2 Scene cooldown.)</Desc>
-</PassiveDesc>	
+</PassiveDesc>
 <PassiveDesc ID="604034">
 <Name>Lust for Blood</Name>
 <Desc>If the character has 0 Blood, uses a Mass Attack page: 'Lust for Blood'. (Has a 3 Scene cooldown.)
