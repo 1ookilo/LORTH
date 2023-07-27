@@ -28,52 +28,52 @@
   </Character>
   <Character ID="Zulu">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Did the guys who got in first get wrecked already?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">It ain’t hard work to deal with chumps like you.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">You’d better wimp out while you can.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">พวกที่คนเข้ามาก่อนตายไปงั้นเหรอ?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">นี้คงไม่ใช่งานยากเลยที่จะจัดการกับพวกแก</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">แกควรกำจัดมันเท่าที่ทำได้</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Go back and get some more nutrition, why don’tcha. You were just as crummy as I thought.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">We’re a bit pressed for time, but they should like the quality intel in these books.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ปะ กลับบ้านไปหาข้าวกินกัน หืม ทำไมพวกนายยังดูไม่พอใจละ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">ช่วงนี้เราค่อนข้างไม่มีเวลาเลย แต่ก็น่าจะคุ้มที่จะเสียเวลาให้กับข้อมูลในหนังสือนี้</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">No… I didn’t come all the way here to die like a sack of shit…!</BattleDialog>
-      <BattleDialog ID="DEATH_1">I gotta crush ‘em all… I don’t wanna end this!!!</BattleDialog>
+      <BattleDialog ID="DEATH_0">ไม่… ฉันไม่ได้มาที่นี่เพื่อตายอย่างกับเป็นพวกเศษขยะนะ…!</BattleDialog>
+      <BattleDialog ID="DEATH_1">ฉันแค่ต้องบดขยี้พวกมันอีกคน… ฉันยังไม่อยากยอมแพ้แค่นี้!!!</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Another one dies. …Doesn’t feel too good.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">I’m used to seeing lame pansies get themselves killed by now, but…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">Shoulda just stayed behind if you were gonna be so mediocre.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">และก็มีคนตายอีกคน …สักเริ่มรู้สึกไม่ดีแล้วสิ</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">พวกที่อ่อนแอ่ก็แพ้ไป แต่…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">นายควรจะอยู่แถวหลังนะถ้านายไม่พร้อม</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Shouldn’t have stood in my way in the first place.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">At least make this fun for me… Petty bastards.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Got no other choice. I have to kill others if I don’t wanna die myself.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">นายไม่คู่ควรที่จะมาขวางทางฉัน</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">อย่างน้อยก็ควรให้ฉันสนุกหน่อยสิ… ไอ้เวรนี้</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ฉันไม่มีทางเลือกอื่น ฉันแค่ต้องฆ่าคนอื่นถ้าฉันไม่อยากตายเอง</BattleDialog>
     </Type>
   </Character>
   <Character ID="Dino">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">We’re supposed to fight a bunch of little brats now? That’s discouraging…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Sigh… Those poor sods. Looks like they got wiped out helplessly.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">This could dislocate your bones if it misses the mark, so just stay still.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">นี้เราจะต่อสู้กับพวกอ่อนด้อยนี้เหรอ? มันเป็นเรื่องที่น่าเหนือยใจมาก…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">เฮ้อ… พวกนี้น่าสงสารจัง ดูเหมือนว่าพวกมันจะต้องถูกฆ่าอย่างช่วยไม่ได้</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ถ้าฉันลงแรงมากไปอาจจะทำให้กระดูกของนายเคลื่อนได้ ดังนั้นช่วยให้อยู่นิ่งๆ</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Didn’t even break a sweat conquering this place…</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Man, I’d be too embarrassed to tell anyone that we got these books by defeating ferocious foes.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">แถบไม่แม้แต่จะเสียเหงื่อเลย เพื่อพิชิตสถานที่นี้…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">อา ฉันคงอายเลยที่จะบอกใคร ว่าเราได้หนังสือนี้มาโดยการเอาชนะศัตรูอันตราย</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I misjudged. Shouldn’t have underestimated those bastards…</BattleDialog>
-      <BattleDialog ID="DEATH_1">This ain’t fair… Not fair at all!!!</BattleDialog>
+      <BattleDialog ID="DEATH_0">ฉันคาดคะเนผิด มันไม่ควรประเมินไอพวกเวรนี้ต่ำไป…</BattleDialog>
+      <BattleDialog ID="DEATH_1">มันไม่ยุติธรรม… ไม่ยุติธรรมเลย!!!</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">…Fine, not everyone can survive, I guess.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Dammit, who just died? …I was hoping we won’t have to face this kinda situation.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">Poor bastard… To die in a place like this.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…โอเค ไม่ใช่ทุกคนที่จะอยู่รอดได้สินะ</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">ให้ตายเถอะเมื่อกี่ใครตายวะ? …ฉันหวังว่าเราสถานการณ์จะไม่ยากขึ้นนะ</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">ไอ้เวร… แกจะมาตายในที่แบบนี้ได้ยังไง</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">The bookworm is flying high across the field.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Should have backed off once you noticed you’re weaker than me.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">This guy’s so soft, it feels like I’m kicking air.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">และเหล่าหนอนหนังสือก็โดนนกงาบไปแดก</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">แกควรจะยอมแพ้ตั้งแต่แรกนะ เมื่อแกสังเกตเห็นว่าตัวเองอ่อนแอกว่าฉัน</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ไอนี้ตัวมันนุ่มมาก รู้สึกเหมือนฉันกำลังเตะอากาศเลย</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>
