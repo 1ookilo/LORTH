@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="1">
-    <Title>Chapter 1-เรื่องเล่าขำขัน-‘ฉันก็แค่ออกไปที่ถนน พร้อมกับมือของฉันที่ล้วงกระเป๋าอยู่’</Title>
+    <Title>Chapter 1-เรื่องเล่าขำขัน-‘ฉันเดินออกมากลางถนน พร้อมๆกับมือที่ล้วงในกระเป๋า’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
@@ -13,7 +13,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela1</VoiceFile>
-          <Content>ฉันยังไม่สามารถที่จะไปจากที่นี่ได้…</Content>
+          <Content>ฉันยังไปจากที่นี่ไม่ได้…</Content>
         </Dialog>
         <Dialog ID="1" model="앤젤라">
           <Teller>???</Teller>
@@ -55,7 +55,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela4</VoiceFile>
-          <Content>…ฉันจะถามแค่ครั้งเดียวเท่านั้น</Content>
+          <Content>…ฉันจะไม่ถามซ้ำหรอกนะ</Content>
         </Dialog>
         <Dialog ID="8" model="앤젤라">
           <Teller>???</Teller>
