@@ -4944,61 +4944,61 @@
           <Teller>ซาโย</Teller>
           <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo1</VoiceFile>
-          <Content>โฮ่แบบนี่ไม่ได้นะ</Content>
+          <Content>ฮืม เเบบนี้ไม่พอหรอกนะ</Content>
         </Dialog>
         <Dialog ID="1" Model="거주민1">
           <Teller>ผู้พักอาศัย 1</Teller>
           <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants1_1</VoiceFile>
-          <Content>แต่คุณผู้หญิง เราไม่มีเงินสดเหลือให้คุณแล้ว…</Content>
+          <Content>แต่ว่าคุณผู้หญิง เราไม่มีเงินสดเหลือให้คุณแล้วนะครับ…</Content>
         </Dialog>
         <Dialog ID="2" Model="사요">
           <Teller>ซาโย</Teller>
           <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo2</VoiceFile>
-          <Content>หากคุณไม่มีเงินแล้ว คุณก็ไม่ควรขอการคุ้มครองจากเราไม่ใช่เหรอ?</Content>
+          <Content>ถ้าคุณไม่มีเงินเหลือแล้ว คุณก็ไม่ควรขอการคุ้มครองจากเราไม่ใช่เหรอ?</Content>
         </Dialog>
         <Dialog ID="3" Model="거주민2">
           <Teller>ผู้พักอาศัย 2</Teller>
           <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants2-1-01</VoiceFile>
-          <Content>แต่ข้างนอกมีหมอกปกคลุม เราไม่รู้ว่ามีอะไรอยู่ข้างนอกนั่น… เราอาจจะถูกฆ่าตาย…</Content>
+          <Content>แต่ข้างนอกมีหมอกปกคลุม เเถมยังมีอะไรอีกบ้างก็ไม่รู้… พวกเราอาจตายได้นะคะ…</Content>
         </Dialog>
         <Dialog ID="4" Model="거주민1">
           <Teller>ผู้พักอาศัย 1</Teller>
           <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants1_2-01</VoiceFile>
-          <Content>เราไม่ปลอดภัยที่นี่เหมือนกัน พวกอันธพาลอาจบุกเข้ามาได้ทุกเมื่อ…</Content>
+          <Content>ที่นี่ก็ไม่ปลอดภับเหมือนกัน พวกอันธพาลจะบุกเข้าเมื่อไหร่ก็ได้…</Content>
         </Dialog>
         <Dialog ID="5" Model="양">
           <Teller>หยาง</Teller>
           <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang1</VoiceFile>
-          <Content>โอ้ หยุดเลย… ชีวิตในเนสท์คงตราตรึงอยู่ในหัวของพวกคุณเกินไปจนทำให้ไปไหนมาไหนไม่ได้เลยเหรอ</Content>
+          <Content>โถ่ ไม่เอาน่า… นี่มุดหัวอยู่ในเนสท์นานไปจนไม่กล้าออกไปไหนมาไหนเลยรึไง?</Content>
         </Dialog>
         <Dialog ID="6" Model="양">
           <Teller>หยาง</Teller>
           <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang2</VoiceFile>
-          <Content>ผมคิดว่าบางทีเราอาจคาดหวังได้มากกว่านี้จากเจ้าของหอนะ</Content>
+          <Content>ผมคิดว่าถ้าเป็นเจ้าของหอ บางทีอาจจะได้อะไรที่เยอะกว่านี้ก็ได้</Content>
         </Dialog>
         <Dialog ID="7" Model="긴">
-          <Teller>จิน</Teller>
+          <Teller>กิน</Teller>
           <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin1</VoiceFile>
-          <Content>ซาโย เราจะเฉือนมันทิ้งมั้ย?</Content>
+          <Content>ซาโย เราเฉือนมันทิ้งเลยดีมั้ย?</Content>
         </Dialog>
         <Dialog ID="8" Model="사요">
           <Teller>ซาโย</Teller>
           <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo3-01</VoiceFile>
-          <Content>จัดการเลย คนเหล่านี้ควรจะคุ้นเคยกับกฎของ แบ็คสตรีท ให้เร็วหน่อย</Content>
+          <Content>จัดการเลย เราต้องสอนให้คนพวกนี้คุ้นเคยกับกฎของ แบ็คสตรีท ซะหน่อย</Content>
         </Dialog>
         <Dialog ID="9" Model="긴">
-          <Teller>จิน</Teller>
+          <Teller>กิน</Teller>
           <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin3-02</VoiceFile>
-          <Content>เฮ้ คิดว่านี่เป็นบทเรียนฟรีๆ จากเราละกัน</Content>
+          <Content>นี่ ถือซะว่านี่เป็นบทเรียนจากพวกเราก็เเล้วกัน</Content>
         </Dialog>
         <Dialog ID="10" Model="">
           <Teller />
@@ -5012,61 +5012,61 @@
           <Teller>หยาง</Teller>
           <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang3-01</VoiceFile>
-          <Content>เราควรเอาแขนทีละข้างนะ</Content>
+          <Content>ตัดเเขนคนละข้างดีไหม</Content>
         </Dialog>
         <Dialog ID="12" Model="거주민1">
           <Teller>ผู้พักอาศัย 1</Teller>
           <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants1_3</VoiceFile>
-          <Content>ได้โปรดเมตตาพวกเราด้วย… แบบนั้นไม่ใจร้ายเกินไปหน่อยเหรอ…</Content>
+          <Content>ได้โปรดเมตตาพวกเราด้วย… อย่าโหดร้ายกับพวกเรานักเลย…</Content>
         </Dialog>
         <Dialog ID="13" Model="사요">
           <Teller>ซาโย</Teller>
           <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo4-01</VoiceFile>
-          <Content>แล้วพวกคุณไม่เมตตาเราเลยหรือในขณะที่เราต่อสู้ให้ใน แบ็คสตรีท ซึ่งเต็มไปด้วยความสกปรกและเลือด? พวกคุณแค่มองดูความทุกข์ทรมานของพวกเรา แล้วพวกคุณกับอยู่สุขสบายใน เนสท์ ไม่ใช้หรอ</Content>
+          <Content>เเล้วเคยเมตตาให้พวกเราที่กระเสือกกระสนใน แบ็คสตรีท ที่ที่มีทั้งกลิ่นเหม็นเเละคาวเลือดบ้างไหม? ไม่หรอก พวกคุณแค่มองดูความทุกข์ทรมานของเรา ในขณะที่ตัวเองอยู่ดีกินดีใน เนสท์ ไม่ใช่หรอ?</Content>
         </Dialog>
         <Dialog ID="14" Model="사요">
           <Teller>ซาโย</Teller>
           <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo5</VoiceFile>
-          <Content>พอคิดแบบนั้นแล้วมันหน้าหงุดหงิดขึ้นมาเลย หยาง เอาตาไปด้วยแล้วกัน</Content>
+          <Content>ยิ่งคิดเเล้วยิ่งน่าหงุดหงิด หยาง เอาตาพวกมันไปด้วย</Content>
         </Dialog>
         <Dialog ID="15" Model="양">
           <Teller>หยาง</Teller>
           <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang4</VoiceFile>
-          <Content>ครับ มาดาม~</Content>
+          <Content>รับทราบครับเจ๊~</Content>
         </Dialog>
         <Dialog ID="16" Model="긴">
-          <Teller>จิน</Teller>
+          <Teller>กิน</Teller>
           <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin3-01</VoiceFile>
-          <Content>รับแขนของคุณก่อนละกัน</Content>
+          <Content>เอาเเขนไปก่อนละกัน</Content>
         </Dialog>
         <Dialog ID="17" Model="거주민2">
           <Teller>ผู้พักอาศัย 2</Teller>
           <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants2-2</VoiceFile>
-          <Content>เราไม่ได้ขออะไรเลย จู่ๆ คนของคุณก็เข้ามาในบ้านของเราและขู่ให้เราจ่ายค่าคุ้มครอง…</Content>
+          <Content>ทั้งที่พวกเราไม่ได้ขออะไร จู่ๆ คนของคุณก็เข้ามาในบ้านของเราแถมยังขู่ให้เราจ่ายค่าคุ้มครองอีก…</Content>
         </Dialog>
         <Dialog ID="18" Model="양">
           <Teller>หยาง</Teller>
           <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang5</VoiceFile>
-          <Content>เราได้ดูแลความปลอดภัยให้คุณไม่ใช้หรอ? ฉันค่อนข้างแน่ใจเลยว่าเราดูแลทุกคนที่พยายามอยู่ที่นี่</Content>
+          <Content>พวกเราก็ดูเเลพวกคุณให้เเล้วไม่ใช่หรอ? ไม่ใช่ว่าเราก็จัดการไอพวกเลวที่มันมาป้วนเปี้ยนเเถวนี้ด้วยนี่</Content>
         </Dialog>
         <Dialog ID="19" Model="양">
           <Teller>หยาง</Teller>
           <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang6</VoiceFile>
-          <Content>ขอตาของคุณต่อนะ~</Content>
+          <Content>งั้นขอตาต่อน้า~</Content>
         </Dialog>
         <Dialog ID="20" Model="거주민1">
           <Teller>ผู้พักอาศัย 1</Teller>
           <Title>ผู้อยู่อาศัยในเนสท์</Title>
           <VoiceFile>ch4_Kurokumo_ep1_inhabitants1_4</VoiceFile>
-          <Content>เราจะทำยังไง…เราจะอยู่ได้ยังไง…</Content>
+          <Content>เเล้วต้องทำไง…เราจะใช้ชีวิตอยู่ต่อไปได้ยังไง…</Content>
         </Dialog>
         <Dialog ID="21" Model="거주민2">
           <Teller>ผู้พักอาศัย 2</Teller>
@@ -5075,22 +5075,22 @@
           <Content>ทำไมเนสท์ถึงล้มสลายไปเร็วขนาดนี้…</Content>
         </Dialog>
         <Dialog ID="22" Model="긴">
-          <Teller>จิน</Teller>
+          <Teller>กิน</Teller>
           <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin4</VoiceFile>
-          <Content>ร้องไห้ขี้แยไปได้ เราใจกว้างมากสุดแล้วใน แบ็คสตรีท แล้วเนี่ย</Content>
+          <Content>อย่ามาทำเป็นปอดเเหกน่าที่ แบ็คสตรีท ไม่มีใครใจกว้างเท่าเราเเล้วนะ</Content>
         </Dialog>
         <Dialog ID="23" Model="사요">
           <Teller>ซาโย</Teller>
           <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo6-01</VoiceFile>
-          <Content>เอาน่า เอาน่า~ เราจะไปกันแล้ว โปรดอย่าลืมบทเรียนของวันนี้ด้วยล่ะ:</Content>
+          <Content>เอาน่า เอาน่า~ ไปกันได้เเล้ว เเล้วก็จำบทเรียนวันนี้ให้ขึ้นใจด้วยล่ะ:</Content>
         </Dialog>
         <Dialog ID="24" Model="사요">
           <Teller>ซาโย</Teller>
           <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo7-01</VoiceFile>
-          <Content>หากได้รับสิ่งใดก็ควรตอบแทนสิ่งนั้นตามสมควร ลองนึกภาพว่าถ้าเป็นริงที่ปกป้องพื้นที่นี้ ไม่ใช่เราล่ะ…</Content>
+          <Content>หากได้รับสิ่งใดก็ควรตอบแทนสิ่งนั้นตามสมควร ลองนึกภาพว่านี่คือริงที่คุ้มครองเเถบนี้ เเทนที่จะพวกเราดูสิ…</Content>
         </Dialog>
         <Dialog ID="25" Model="사요">
           <Teller>ซาโย</Teller>
@@ -5102,19 +5102,19 @@
           <Teller>ซาโย</Teller>
           <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo9-01</VoiceFile>
-          <Content>โอ้ และโปรดออกจากบ้านนี้ภายในวันพรุ่งนี้ด้วย</Content>
+          <Content>โอ้ และได้โปรดออกจากบ้านนี้ภายในวันพรุ่งนี้ด้วย</Content>
         </Dialog>
         <Dialog ID="27" Model="사요">
           <Teller>ซาโย</Teller>
           <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo10</VoiceFile>
-          <Content>จิน ยึดโฉนดห้องเช่าของพวกนี้ด้วย?</Content>
+          <Content>กิน รีบยึดโฉนดห้องเช่าของพวกเขาด้วยสิ?</Content>
         </Dialog>
         <Dialog ID="28" Model="양">
           <Teller>หยาง</Teller>
           <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_yang7-01</VoiceFile>
-          <Content>ครั้งหน้าคุณจะมีเพื่อนที่ไม่ค่อยดีมาเยี่ยม ดังนั้นคุณควรย้ายออกให้เร็วที่สุด~</Content>
+          <Content>ครั้งหน้าถ้าไม่อยากให้ใครบุกมาล่ะก็ ควรย้ายออกให้เร็วน่าจะเป็นการดีกว่านะ~</Content>
         </Dialog>
         <Dialog ID="29" Model="사요">
           <Teller>ซาโย</Teller>
