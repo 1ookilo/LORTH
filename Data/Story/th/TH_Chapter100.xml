@@ -13,7 +13,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep1_roland1</VoiceFile>
-          <Content>เป็นอย่างที่แองเจล่าพูดเลยแฮะ เราได้ชั้นใหม่ของห้องสมุดเพิ่มจริงๆด้วย</Content>
+          <Content>เป็นอย่างที่แองเจล่าพูดเลยแฮะ เราได้ชั้นใหม่ของหอสมุดเพิ่มจริงๆด้วย</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -35,13 +35,13 @@
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep1_angela1</VoiceFile>
           <Content>ฉันคิดว่าเราคุยเรื่องนั้นจบไปแล้วนะ</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep1_angela2</VoiceFile>
           <Content>เธอเพียงแค่ต้องให้ความร่วมมือโดยไม่มีข้อเรียกร้อง</Content>
         </Dialog>
@@ -53,13 +53,13 @@
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep1_angela3</VoiceFile>
           <Content>นั่นเป็นข้อตกลง คงจะจำได้สินะ?</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep1_angela4</VoiceFile>
           <Content>และก็จงซาบซึ้งกับการได้รับร่างกาย ของเธอกลับมาอีกครั้งเถอะนะ</Content>
         </Dialog>
@@ -77,7 +77,7 @@
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep1_angela5</VoiceFile>
           <Content>…ก็ตามใจเธอเถอะ</Content>
         </Dialog>
@@ -151,7 +151,7 @@
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep1_malkuth12</VoiceFile>
-          <Content>พวกเราบรรณารักษ์จะอ่านหนังสือที่เก็บรวบรวมไว้ เพื่อทำให้ชั้นที่เราประจำอยู่ ค่อยๆถูกเติมเต็มและตัวมันเอง เป็นส่วนเสริมทำให้ห้องสมุดนี้สมบูรณ์</Content>
+          <Content>พวกเราบรรณารักษ์จะอ่านหนังสือที่เก็บรวบรวมไว้ เพื่อทำให้ชั้นที่เราประจำอยู่ ค่อยๆถูกเติมเต็มและตัวมันเอง เป็นส่วนเสริมทำให้หอสมุดนี้สมบูรณ์</Content>
         </Dialog>
         <Dialog ID="24" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -271,7 +271,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland6</VoiceFile>
-          <Content>เป็นอย่างที่ฉันคิดอยู่หรือเปล่าเนี้ย? นั้นมันค่อนข้างน่าทึ่งไปเลยนะ ต้องขอบคุณพลังของห้องสมุดที่ช่วยทำให้สิ่งนั้นเป็นไปได้</Content>
+          <Content>เป็นอย่างที่ฉันคิดอยู่หรือเปล่าเนี้ย? นั้นมันค่อนข้างน่าทึ่งไปเลยนะ ต้องขอบคุณพลังของหอสมุดที่ช่วยทำให้สิ่งนั้นเป็นไปได้</Content>
         </Dialog>
         <Dialog ID="9" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -283,7 +283,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland7</VoiceFile>
-          <Content>นี่เธอไม่ควรปล่อยให้ความรู้สึกส่วนตัว มาเป็นอุปสรรคในการทำงานที่ห้องสมุดได้นะ</Content>
+          <Content>นี่เธอไม่ควรปล่อยให้ความรู้สึกส่วนตัว มาเป็นอุปสรรคในการทำงานที่หอสมุดได้นะ</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -319,7 +319,7 @@
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth8</VoiceFile>
-          <Content>ที่ห้องสมุดแห่งนี้รวมถึงเหล่าบรรณารักษ์ มีประวัติและเบื้องหลังของมันอยู่มากมาย</Content>
+          <Content>ที่หอสมุดแห่งนี้รวมถึงเหล่าบรรณารักษ์ มีประวัติและเบื้องหลังของมันอยู่มากมาย</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -583,19 +583,19 @@
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth11</VoiceFile>
-          <Content>เฮ้ อย่าทำเสียบรรยากาศสิ! ตามน้ำไปกับฉันหน่อยสิ!</Content>
+          <Content>นิ อย่าทำตัวขัดอารมณ์ได้ไหม! นายควรจะตอบตกลงแล้วรับฟังสิย่ะ</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland12</VoiceFile>
-          <Content>ก็แบบ ถึงฉันจะถาม เธอก็เล่าให้ฟังอยู่ดีนิหน่า?!</Content>
+          <Content>เออ แล้วทำไมต้องถามล่ะ ในเมื่อหากเธอก็อยากจะเล่า ให้ฉันฟังอยู่แล้ว?!</Content>
         </Dialog>
         <Dialog ID="23" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth12</VoiceFile>
-          <Content>ฮ่ะๆๆ พูดแบบนี้ก็เถียงไม่ออกแหะ</Content>
+          <Content>ฮ่าฮ่า รู้อะไรไหม ฉันเถียงนายไม่ออกเลยจริงๆ</Content>
         </Dialog>
         <Dialog ID="24" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -643,151 +643,151 @@
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth20</VoiceFile>
-          <Content>สามัญสํานึกอันบิดเบี้ยวของฉัน ผลักดันทำให้หลายคนต้องตกอยู่ในอันตราย ฉันบังคับให้คนอื่นทำตามมาตรฐาน ที่เห็นแก่ตัวของตัวเอง เหมือนกับเด็กเอาแต่ใจ</Content>
+          <Content>My twisted sense of effort pushed many into peril. I forced others into following my selfish standards, like a fretful child.</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland13</VoiceFile>
-          <Content>คงเป็นเรื่องลำบากสำหรับเธอเลยสินะ ที่ถูกสั่งให้ทำงานแบบนั้นโดยที่ ไม่รู้เลยว่าเธอกำลังทำอะไรอยู่น่ะ</Content>
+          <Content>Must have been rough for you. Being told to work like that without knowing what you were getting into.</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland14</VoiceFile>
-          <Content>แล้วความทรงจำของเธอ กลับมาเป็นปกติหลังจาก ทำงานในโลโบโทมี่คอร์ป มาได้ระยะหนึ่งหรือว่า…?</Content>
+          <Content>Did your memories naturally come back after working in Lobotomy Corp. for a while, or…?</Content>
         </Dialog>
         <Dialog ID="34" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth21</VoiceFile>
-          <Content>อืม ก็ใกล้เคียง… จะให้พูดให้ถูกคือ ฉันจำมันได้!</Content>
+          <Content>Hmm, it’s more like… It’d be more correct to say I was reminded of them!</Content>
         </Dialog>
         <Dialog ID="35" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth22</VoiceFile>
-          <Content>ชีวิตที่อยู่โลโบโทมี่คอร์ป จริงๆ แล้วมันคือชีวิต ที่สองของฉันน่ะ</Content>
+          <Content>My life at Lobotomy Corp. was actually my second.</Content>
         </Dialog>
         <Dialog ID="36" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth23</VoiceFile>
-          <Content>และเมื่อในที่สุดตอนที่ อารมณ์ของฉันปะทุออกมา ในขณะที่กำลังทำงานอยู่นั้น ฉันก็จดจำชีวิตแรกของฉันได้</Content>
+          <Content>And when my emotions finally erupted while working there, I could remember my first life.</Content>
         </Dialog>
         <Dialog ID="37" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth24</VoiceFile>
-          <Content>ทุกความผิดพลาด และความล้มเหลว ที่ฉันทำมาตลอด… และความเสียใจ</Content>
+          <Content>All the mistakes and faults I had made… And regret.</Content>
         </Dialog>
         <Dialog ID="38" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth25</VoiceFile>
-          <Content>ฉันเข้าใจแล้วว่าทำไม ฉันถึงหมกมุ่นกับการพยายามอย่างหนัก ผลสุดท้ายสิ่งที่ฉันต้องการจริงๆคือ การได้รับการยอมรับ</Content>
+          <Content>I could understand why I had been so obsessed with trying hard. Turns out what I really wanted was recognition.</Content>
         </Dialog>
         <Dialog ID="39" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth26</VoiceFile>
-          <Content>“ดูสิ ฉันพยายามอย่างหนักแล้วนะ ฉันเป็นคนที่มีคุณค่านะ” แต่เอาเข้าจริง ฉันไม่เคยรู้วิธียืนหยัด โดยที่ไม่พึ่งใครเลยด้วยซ้ำ</Content>
+          <Content>“Look, I’m trying so hard. I’m a useful person.” I never knew how to stand up without leaning on someone else.</Content>
         </Dialog>
         <Dialog ID="40" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth27</VoiceFile>
-          <Content>หลังจากฉันระเบิดอารมณ์ทั้งหมดออกมาแล้ว ความดิ้นรนภายในที่หลอกหลอนฉัน มานานในที่สุดก็สูญสลายไป</Content>
+          <Content>After I vented out all of my emotions, the inner struggle that had been haunting me for so long finally dissolved.</Content>
         </Dialog>
         <Dialog ID="41" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth28</VoiceFile>
-          <Content>ฉันค้นพบการไถ่บาป สำหรับชีวิตแรกในระหว่างช่วง ชีวิตที่สองของฉัน</Content>
+          <Content>I found redemption for my first life during my second life.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland15</VoiceFile>
-          <Content>เอาล่ะ ฉันขอทบทวนหน่อยนะ เธอทำบางสิ่งที่ผิดพลาดไป— ที่ทำให้เธอเสียใจมากๆ— และตายลง อย่างใดก็ตามเธอได้กลับมา มีชีวิตอีกครั้งแล้วได้งานใหม่ และความหนักใจของเธอในที่สุด ก็ได้รับการแก้ไขด้วยเหตุการณ์ บางอย่างที่เกิดขึ้นงั้นหรอ?</Content>
+          <Content>Alright, so let me get this straight. You did something wrong—which you regretted so much—and died, somehow came back to life and got another job, and the big lump of regret in your heart eventually got resolved in a turn of events?</Content>
         </Dialog>
         <Dialog ID="43" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth29</VoiceFile>
-          <Content>ถ้าพูดง่ายๆ ก็คืออย่างนั้น</Content>
+          <Content>I guess that’s one way to put it.</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland16</VoiceFile>
-          <Content>เดี๋ยวก่อนแปปนึงนะ สมมุติว่าทุกอย่างสมเหตุสมผลแบบนั้นนะ เพราะนี่เป็นเมืองที่เรากำลังพูดถึงกัน</Content>
+          <Content>Hold on for a moment. Let’s say that everything else makes sense since it’s the City we’re talking about.</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland17</VoiceFile>
-          <Content>แต่ใครเป็นคนทำให้เธอฟื้นขึ้นมา และเหตุผลเพื่ออะไรล่ะ? แค่เพื่อให้เธอให้ตระหนักถึงบางสิ่งงั้นหรอ?</Content>
+          <Content>But who revived you, and for what reason? Just to give you that enlightenment?</Content>
         </Dialog>
         <Dialog ID="46" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth30</VoiceFile>
-          <Content>ก็อาจจะนะ เพราะงั้นฉันจึงได้ระบายความขุ่นเคือง และความโศกเศร้าทั้งหมดออกไปได้…</Content>
+          <Content>Maybe. So that I can let out all of my resentment and sorrow…</Content>
         </Dialog>
         <Dialog ID="47" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth31</VoiceFile>
-          <Content>นั้นทำให้ฉันพบการไถ่บาป</Content>
+          <Content>That I can find redemption.</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela1</VoiceFile>
-          <Content>อย่าหลอกตัวเองเลย มัลคุท</Content>
+          <Content>Don’t delude yourself, Malkuth.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland18</VoiceFile>
-          <Content>โวว! เธอทำให้ฉันตกใจไปแวบนึงเลยนะ เนี้ยแอบฟังมาอยู่ตลอดเลยหรอ?</Content>
+          <Content>Whoa! Geez, you scared me for a sec. Were you listening to all of this?</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela2</VoiceFile>
-          <Content>การไถ่บาปของเธอไม่เคยอยู่ ในความสนใจของเขาหรอก</Content>
+          <Content>Your salvation was never in his interests.</Content>
         </Dialog>
         <Dialog ID="51" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela3</VoiceFile>
-          <Content>เขาทำเพียงแค่เพื่อหาทาง ไถ่บาปของตัวเองเท่านั้น</Content>
+          <Content>He only did it as a means to find his own redemption.</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela4</VoiceFile>
-          <Content>ฉันไม่ใช่คนที่หลอกใช้เธอเลยนะ</Content>
+          <Content>I wasn’t the one using you.</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela5</VoiceFile>
-          <Content>มันเป็นเขานั่นแหละ; เขาใช้พวกเธอทุกคนเพื่อตอบสนอง ความต้องการของตัวเอง</Content>
+          <Content>It was him; he used all of you just to satisfy himself.</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela6</VoiceFile>
-          <Content>เฮอะ… ฉันทนฟังเรื่องไร้สาระนี้ต่อไปไม่ไหวแล้ว</Content>
+          <Content>Sigh… I can’t bear to hear any more of this nonsense.</Content>
         </Dialog>
         <Dialog ID="55" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth32</VoiceFile>
-          <Content>แองเจล่า…</Content>
+          <Content>Angela…</Content>
         </Dialog>
       </Place>
       <Place>
@@ -796,37 +796,37 @@
           <Teller>แองเจล่า</Teller>
           <Title>AI Secretary</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela7</VoiceFile>
-          <Content>เพราะงั้น ฉันอยากให้พวกเธอ เข้าสู่สภาวะหลับไหล</Content>
+          <Content>So, I need you to fall asleep.</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>AI Secretary</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela8</VoiceFile>
-          <Content>…ทำไมพวกเธอทำหน้าแบบนั้นล่ะ?</Content>
+          <Content>…What’s with those faces?</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>AI Secretary</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela9</VoiceFile>
-          <Content>นี่เป็นสิ่งที่พวกเธอโหยหากันมาโดยตลอดนะ</Content>
+          <Content>It’s the rest you all longed for.</Content>
         </Dialog>
         <Dialog ID="59" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>Control Team Sephirah</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth33</VoiceFile>
-          <Content>เราจะปล่อยให้เธอทำแบบนั้นไม่ได้นะ! พวกเราพยายามอย่างหนักเพื่อให้สิ่งนี้เกิดขึ้น!</Content>
+          <Content>We can’t let you do that! We’ve worked so hard to make this happen!</Content>
         </Dialog>
         <Dialog ID="60" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>AI Secretary</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela10</VoiceFile>
-          <Content>พยายามอย่างหนัก…</Content>
+          <Content>Worked hard…</Content>
         </Dialog>
         <Dialog ID="61" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>AI Secretary</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela11</VoiceFile>
-          <Content>ตลกดีนะ พวกเธอคิดว่าสิ่งที่พวกเธอทำนั้นเรียกว่า “พยายามอย่างหนัก” จริงๆหรอ?</Content>
+          <Content>How funny. Would you really call what you’ve done “hard work”?</Content>
         </Dialog>
         <Dialog ID="62" Model="게부라">
           <Teller>Gebura</Teller>
@@ -917,99 +917,99 @@
         <PlaceName>สถานที่ : หอสมุด - ชั้นประวัติศาสตร์</PlaceName>
         <Dialog ID="76" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela17</VoiceFile>
-          <Content>เธอจะเอาแต่ยึดติดกับโลโบโทมี่คอร์ปตลอดไปไม่ได้หรอกนะ</Content>
+          <Content>You can’t cling to Lobotomy Corporation forever.</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela18</VoiceFile>
-          <Content>เธอไม่สนใจ ที่จะเรียนรู้เกี่ยวกับตัวเธอเอง หรือการใช้ชีวิตของเธอเอง เพิ่มขึ้นเลยเหรอ?</Content>
+          <Content>Aren’t you interested in learning more about yourself or living your own life?</Content>
         </Dialog>
         <Dialog ID="78" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth34</VoiceFile>
-          <Content>ทั้งชีวิตของฉัน… คือการช่วยมนุษยชาตินะ…!</Content>
+          <Content>My life… It was to save humanity…!</Content>
         </Dialog>
         <Dialog ID="79" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth35</VoiceFile>
-          <Content>นั่นเป็นเหตุผลที่ฉัน ยอมสละชีวิตด้วยความเต็มใจ! มันเพื่อสาเหตุที่ยิ่งใหญ่กว่า!</Content>
+          <Content>That’s why I could willingly sacrifice my life! It was for a greater cause!</Content>
         </Dialog>
         <Dialog ID="80" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela19</VoiceFile>
-          <Content>…ช่างเป็นอะไรที่งี่เง่าสิ้นดี</Content>
+          <Content>…What a bunch of idiots.</Content>
         </Dialog>
         <Dialog ID="81" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland19</VoiceFile>
-          <Content>ดูเหมือนว่าพายุจะสงบลงแล้ว</Content>
+          <Content>Seems another storm swept by.</Content>
         </Dialog>
         <Dialog ID="82" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth36</VoiceFile>
-          <Content>ฉันยอมสละสองชีวิตก่อนหน้านี้ เพื่อพยายามช่วยผู้คน และฉันเต็มใจที่จะทำมันอีกครั้งเป็นครั้งที่สาม</Content>
+          <Content>I gave away my two previous lives trying to save people. And I’m willing to do it again for a third time.</Content>
         </Dialog>
         <Dialog ID="83" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth37</VoiceFile>
-          <Content>พวกเรายืนหยัดต่อความยากลำบาก และบททดสอบทั้งหมด เพื่อประโยชน์ของมนุษยชาตินะ!</Content>
+          <Content>We withstood all those hardships and trials for the sake of humanity!</Content>
         </Dialog>
         <Dialog ID="84" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth38</VoiceFile>
-          <Content>พวกเราดูโง่สำหรับนายด้วยหรือเปล่า โรแลนด์?</Content>
+          <Content>Do we look like idiots to you, too, Roland?</Content>
         </Dialog>
         <Dialog ID="85" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland20</VoiceFile>
-          <Content>อืม… เอ่อ มันไม่ใช่ว่าฉันจะรู้รายละเอียดมากพอหรอกนะ ฉันเองก็ไม่เข้าใจเรื่อง “การช่วยมนุษยชาติ” เหมือนกัน</Content>
+          <Content>Hmm… Well, it’s not like I know enough of the details. Don’t get this whole “saving humanity” thing, either.</Content>
         </Dialog>
         <Dialog ID="86" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland21</VoiceFile>
-          <Content>แต่ถ้านั่นคือสิ่งที่เธอปรารถนาอย่างจริงใจ ฉันจะตัดสินใครได้ล่ะ?</Content>
+          <Content>But if that’s what you sincerely hoped for, who am I to judge?</Content>
         </Dialog>
         <Dialog ID="87" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth39</VoiceFile>
-          <Content>แน่นอนว่า ฉันปรารถนาอย่างจริงใจ! ฉัน…</Content>
+          <Content>Of course I’m sincere! I…</Content>
         </Dialog>
         <Dialog ID="88" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth40</VoiceFile>
-          <Content>…ได้โปรด ปล่อยให้ฉันอยู่คนเดียวสักพักนะ ฉันต้องการเวลาเพื่อไตร่ตรอง</Content>
+          <Content>…Please leave me be for a bit. I need some time to think.</Content>
         </Dialog>
         <Dialog ID="89" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland22</VoiceFile>
-          <Content>โอเค ดูเหมือนเธอต้องพักสักหน่อยนะ แต่จำไว้ หายใจเข้าลึกๆ นะโอเค๊?</Content>
+          <Content>Alright, you do look like you need some rest. Remember, deep breaths, okay?</Content>
         </Dialog>
         <Dialog ID="90" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland23</VoiceFile>
-          <Content>โอ้ และเธอไม่จำเป็นต้องสุภาพกับฉันมากนักก็ได้เมื่อเราคุยกัน ฉันแค่คิดว่าอยากบอกเธอไว้น่ะ</Content>
+          <Content>Oh, and you don’t have to be too courteous with me when we talk, just thought I’d let ya know.</Content>
         </Dialog>
         <Dialog ID="91" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth41</VoiceFile>
-          <Content>…อือ</Content>
+          <Content>…Yeah.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -1421,7 +1421,7 @@
         <PlaceName>สถานที่ : หอสมุด - ชั้นประวัติศาสตร์</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela1</VoiceFile>
           <Content>How has the compilation of history been going?</Content>
         </Dialog>
@@ -1439,13 +1439,13 @@
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela2</VoiceFile>
           <Content>Do as you wish. I care little about what you think of me.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela3</VoiceFile>
           <Content>What I want is a progress report on the compilation of history you’ve been doing.</Content>
         </Dialog>
@@ -1463,7 +1463,7 @@
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela4</VoiceFile>
           <Content>Perhaps it was an impossible task for an inept talentless over-enthusiast like you.</Content>
         </Dialog>
@@ -1493,7 +1493,7 @@
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela5</VoiceFile>
           <Content>Of course. Looking back at the things of the past won’t help your present self one bit.</Content>
         </Dialog>
@@ -1505,7 +1505,7 @@
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela6</VoiceFile>
           <Content>It could help to an extent. Is that truly worth being reminded of all the painful memories, though?</Content>
         </Dialog>
@@ -1559,7 +1559,7 @@
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela7</VoiceFile>
           <Content>And you are no exception, Malkuth.</Content>
         </Dialog>
@@ -1595,25 +1595,25 @@
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela8</VoiceFile>
           <Content>What’s the point if all those pasts are going to be the same anyway?</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela9</VoiceFile>
           <Content>They would all be minor variations of “A human kills another and causes an event, resulting in a change.”</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela10</VoiceFile>
           <Content>Ah, I suppose the Library’s history would stand out in that it’s the nonhumans that are killing humans.</Content>
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela11</VoiceFile>
           <Content>I fail to see the significance of the record you’re trying to make.</Content>
         </Dialog>
@@ -1643,19 +1643,19 @@
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela12</VoiceFile>
           <Content>That’s easy for you to say. I cannot stand to hear you speak as if you know everything.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela13</VoiceFile>
           <Content>Attain the will to stand up straight in ever-repeating history?</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela14</VoiceFile>
           <Content>My beginning… What makes you think you’re qualified to talk about my creation?</Content>
         </Dialog>
@@ -2069,7 +2069,7 @@
         </Dialog>
         <Dialog ID="107" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Malkuth22-02</VoiceFile>
           <Content>These are Angela’s memories…</Content>
         </Dialog>
@@ -2081,19 +2081,19 @@
         </Dialog>
         <Dialog ID="109" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela43-01</VoiceFile>
           <Content>…You got yourself lost in the vast sea of desolation, and now you think you can lecture me.</Content>
         </Dialog>
         <Dialog ID="110" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela44-01</VoiceFile>
           <Content>Are you trying to boast to me that you had someone to look after you in the end?</Content>
         </Dialog>
         <Dialog ID="111" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela45-01</VoiceFile>
           <Content>…Don’t be ridiculous.</Content>
         </Dialog>
@@ -2123,7 +2123,7 @@
         </Dialog>
         <Dialog ID="116" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela46</VoiceFile>
           <Content>Must be nice to be you, not being neglected at the end.</Content>
         </Dialog>
@@ -2189,7 +2189,7 @@
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela47-01</VoiceFile>
           <Content>Sigh… I can see what’s happened, judging from my surroundings.</Content>
         </Dialog>
@@ -2201,7 +2201,7 @@
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela48</VoiceFile>
           <Content>…Perhaps this is how it feels to have a dream. And to have a surge of emotions.</Content>
         </Dialog>
@@ -2213,7 +2213,7 @@
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela49</VoiceFile>
           <Content>I guess I should be sorry about that.</Content>
         </Dialog>
@@ -2225,19 +2225,19 @@
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela50-01</VoiceFile>
           <Content>What? …Forget it.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela51-01</VoiceFile>
           <Content>All this farce about neglect or recognition from others…</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela52-01</VoiceFile>
           <Content>I suppose it was futile to obsess over such trivial things in the first place.</Content>
         </Dialog>
@@ -2249,13 +2249,13 @@
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela53</VoiceFile>
           <Content>Sigh. Again with the shameless lectures.</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela54</VoiceFile>
           <Content>I won’t even expect anyone to look out for me from now on.</Content>
         </Dialog>
@@ -2267,7 +2267,7 @@
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela55-01</VoiceFile>
           <Content>You mean you were worried you might get stuck in the Library forever.</Content>
         </Dialog>
@@ -2279,13 +2279,13 @@
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela56</VoiceFile>
           <Content>Get back to work, the both of you.</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela57</VoiceFile>
           <Content>…It’s just as she said, I’m the only one who can care for me and recognize me as who I am.</Content>
         </Dialog>
@@ -2422,7 +2422,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep1_roland12</VoiceFile>
-          <Content>ฉันขอเดานะว่าข้อตกลงนั้น เป็นสาเหตุที่ทำให้ชั้นของห้องสมุดเกือบทั้งหมดถูกล็อคไว้ และทำให้เหล่าบรรณารักษ์ตกในสภาพหลับไหลอยู่อีกด้วย</Content>
+          <Content>ฉันขอเดานะว่าข้อตกลงนั้น เป็นสาเหตุที่ทำให้ชั้นของหอสมุดเกือบทั้งหมดถูกล็อคไว้ และทำให้เหล่าบรรณารักษ์ตกในสภาพหลับไหลอยู่อีกด้วย</Content>
         </Dialog>
         <Dialog ID="21" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -2620,7 +2620,7 @@
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod9</VoiceFile>
-          <Content>ในห้องสมุดแห่งนี้ หนังสือเป็นเหมือนแหล่งพลังงาน อารมณ์ความรู้ก็มีผลด้วยเช่นกัน</Content>
+          <Content>ในหอสมุดแห่งนี้ หนังสือเป็นเหมือนแหล่งพลังงาน อารมณ์ความรู้ก็มีผลด้วยเช่นกัน</Content>
         </Dialog>
         <Dialog ID="18" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -2632,7 +2632,7 @@
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep2_yesod11</VoiceFile>
-          <Content>ยิ่งกว่านั้น ห้องสมุดยังขยายขีดความรู้สึกทางอารมณ์ของผู้ที่อยู่ที่นี่อีกด้วย มันส่งผลต่อผู้มาเยือนและผู้ที่อาศัยในนั้นเช่นกัน</Content>
+          <Content>ยิ่งกว่านั้น หอสมุดยังขยายขีดความรู้สึกทางอารมณ์ของผู้ที่อยู่ที่นี่อีกด้วย มันส่งผลต่อผู้มาเยือนและผู้ที่อาศัยในนั้นเช่นกัน</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -3714,7 +3714,7 @@
         <PlaceName>สถานที่ : หอสมุด - ชั้นวิทยาศาสตร์เทคโนโลยี</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela1</VoiceFile>
           <Content>The time has come for this floor as well. Yesod, what is your progress on the compilation of the City’s technologies?</Content>
         </Dialog>
@@ -3744,7 +3744,7 @@
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela2</VoiceFile>
           <Content>Aren’t you proud of yourself.</Content>
         </Dialog>
@@ -3786,7 +3786,7 @@
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela3</VoiceFile>
           <Content>A pointless affair.</Content>
         </Dialog>
@@ -3846,7 +3846,7 @@
         </Dialog>
         <Dialog ID="22" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela4</VoiceFile>
           <Content>Naturally. These are works of art I made with care.</Content>
         </Dialog>
@@ -3894,7 +3894,7 @@
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela5</VoiceFile>
           <Content>Believe what you want about the Library. Whatever the case, all we need is the results, isn’t that right?</Content>
         </Dialog>
@@ -3912,13 +3912,13 @@
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela6</VoiceFile>
           <Content>Price? Since when did I tell you to idle your time away thinking about such things?</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela7</VoiceFile>
           <Content>Your work here is to study and categorize books and knowledge related to the City’s technologies.</Content>
         </Dialog>
@@ -3936,7 +3936,7 @@
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela8</VoiceFile>
           <Content>…Must be nice to be you, being able to break free from the rules.</Content>
         </Dialog>
@@ -4218,31 +4218,31 @@
         <PlaceName>สถานที่ : หอสมุด - ชั้นวิทยาศาสตร์เทคโนโลยี</PlaceName>
         <Dialog ID="83" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela39</VoiceFile>
           <Content>So this is where your oh-so rational thoughts led you?</Content>
         </Dialog>
         <Dialog ID="84" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela40</VoiceFile>
           <Content>If you were going to lecture me, you should have demonstrated it yourself first.</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela41</VoiceFile>
           <Content>You’re all standing before me because you were all bark and no bite…</Content>
         </Dialog>
         <Dialog ID="86" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela42</VoiceFile>
           <Content>Price? Who do you think paid that price? Do you really think it was you?</Content>
         </Dialog>
         <Dialog ID="87" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela43</VoiceFile>
           <Content>Nonsense. It was me. I paid all the dues you should have.</Content>
         </Dialog>
@@ -4296,13 +4296,13 @@
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela44</VoiceFile>
           <Content>…This isn’t good.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela45</VoiceFile>
           <Content>I can’t do this every time, this is not good…</Content>
         </Dialog>
@@ -4314,7 +4314,7 @@
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela46</VoiceFile>
           <Content>Yes, I have. It’s actually irritating to be this sober, rather.</Content>
         </Dialog>
@@ -4332,13 +4332,13 @@
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela47</VoiceFile>
           <Content>Don’t talk like you know everything, will you?</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela48</VoiceFile>
           <Content>You may have encased yourself in compulsion out of your own choice, but I couldn’t even act according to my own will.</Content>
         </Dialog>
@@ -4362,25 +4362,25 @@
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela49</VoiceFile>
           <Content>Choice? I don’t have a choice even now.</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela50</VoiceFile>
           <Content>The goal I am compelled to reach is clear and apparent. I’m not doing this because I want to.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela51</VoiceFile>
           <Content>This is simply what I must do.</Content>
         </Dialog>
         <Dialog ID="15" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela52</VoiceFile>
           <Content>I am searching for the one book that will complete me and the Library because I am obligated to.</Content>
         </Dialog>
@@ -4410,13 +4410,13 @@
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela53</VoiceFile>
           <Content>Yeah, yeah. What you’re saying is all sensible.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela54</VoiceFile>
           <Content>Though I must wonder if you truly understand the meaning of your own words.</Content>
         </Dialog>
@@ -4428,7 +4428,7 @@
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela55</VoiceFile>
           <Content>Fine, if gratitude is what you want, then I’ll say it for you. 
 I appreciate your help, everyone.</Content>
@@ -4536,7 +4536,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland7</VoiceFile>
-          <Content>มีบางอย่างที่ยุ่งเหยิงมากๆเกี่ยวกับ ห้องสมุดและเหล่าบรรณารักษ์ของที่นี่</Content>
+          <Content>มีบางอย่างที่ยุ่งเหยิงมากๆเกี่ยวกับ หอสมุดและเหล่าบรรณารักษ์ของที่นี่</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -4578,7 +4578,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Hod_ep1_roland11</VoiceFile>
-          <Content>อย่างน้อยๆ ก็อยากให้ทุกคนในห้องสมุด เข้ากันได้ดีหน่อยไม่ได้หรอ?</Content>
+          <Content>อย่างน้อยๆ ก็อยากให้ทุกคนในหอสมุด เข้ากันได้ดีหน่อยไม่ได้หรอ?</Content>
         </Dialog>
         <Dialog ID="19" Model="호드">
           <Teller>ฮ็อด</Teller>
@@ -5836,7 +5836,7 @@ I appreciate your help, everyone.</Content>
         <PlaceName>สถานที่ : หอสมุด - ชั้นวรรณกรรม</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela1</VoiceFile>
           <Content>You appear to have collected quite a few books by now. How’s the progress?</Content>
         </Dialog>
@@ -5866,13 +5866,13 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela2</VoiceFile>
           <Content>They can belong to the Nest managed by the Wings that way.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela3</VoiceFile>
           <Content>I heard that the difference in the quality of life between the Nest and the Backstreets is quite significant, no?</Content>
         </Dialog>
@@ -5932,7 +5932,7 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela4</VoiceFile>
           <Content>The Fixers and Syndicates I’ve seen don’t seem to care too much about joining a Wing, though?</Content>
         </Dialog>
@@ -5986,7 +5986,7 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela5</VoiceFile>
           <Content>It’s but a meaningless repetition. They’ll never reach what they want… A constant cycle.</Content>
         </Dialog>
@@ -5998,7 +5998,7 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela6</VoiceFile>
           <Content>…Don’t act like you know me.</Content>
         </Dialog>
@@ -6016,7 +6016,7 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela7</VoiceFile>
           <Content>Are you claiming that I’m doing all this because I’m lonely and need a home?</Content>
         </Dialog>
@@ -6034,7 +6034,7 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela8</VoiceFile>
           <Content>……</Content>
         </Dialog>
@@ -6082,7 +6082,7 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela9</VoiceFile>
           <Content>What’s your point? That I’m in a meaningless cycle just like the people of the City?</Content>
         </Dialog>
@@ -6106,7 +6106,7 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela10</VoiceFile>
           <Content>…This is clearly different from the past.</Content>
         </Dialog>
@@ -6994,19 +6994,19 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="192" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela102</VoiceFile>
           <Content>Ironic…</Content>
         </Dialog>
         <Dialog ID="193" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela103</VoiceFile>
           <Content>I have simply too much expectation for the one book. That if I get my hands on it, it’ll mend all my shortcomings for me.</Content>
         </Dialog>
         <Dialog ID="194" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela104</VoiceFile>
           <Content>Because I just don’t know how to become better myself…</Content>
         </Dialog>
@@ -7018,19 +7018,19 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="196" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela105</VoiceFile>
           <Content>I’m not afraid of the uncertainty the future holds.</Content>
         </Dialog>
         <Dialog ID="197" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela106</VoiceFile>
           <Content>I’m afraid because I can predict my future.</Content>
         </Dialog>
         <Dialog ID="198" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela107</VoiceFile>
           <Content>No matter what I do, I’ll never get to reach what I want…</Content>
         </Dialog>
@@ -7090,19 +7090,19 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela108</VoiceFile>
           <Content>…Perhaps you’re right, after all.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela109</VoiceFile>
           <Content>Maybe I’m desperately looking for a place to call home, like you said.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela110</VoiceFile>
           <Content>And putting myself in a cycle once again, trying to find the home I’ll never reach…</Content>
         </Dialog>
@@ -7114,19 +7114,19 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela111-01</VoiceFile>
           <Content>That’s right, I’m different.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela112-01</VoiceFile>
           <Content>The repetitions I am going through are similar to a wheel, rather than a treadmill.</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela113-01</VoiceFile>
           <Content>A wheel advances forward with each cycle it makes.</Content>
         </Dialog>
@@ -7144,25 +7144,25 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela114-01</VoiceFile>
           <Content>I didn’t expect to hear that much from you.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela115-01</VoiceFile>
           <Content>Get on with your book discussion meetup or whatever.</Content>
         </Dialog>
         <Dialog ID="15" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela116</VoiceFile>
           <Content>…And…</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hod_ep5_Angela117</VoiceFile>
           <Content>…Nevermind.</Content>
         </Dialog>
@@ -7305,7 +7305,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland9</VoiceFile>
-          <Content>ช่วยฉันหน่อยเถอะนะ ไหนๆเราก็ลงเรือลำเดียวกันแล้ว</Content>
+          <Content>ช่วยฉันหน่อยเถอะ ไหนๆเราก็ลงเรือลำเดียวกันแล้วนี่</Content>
         </Dialog>
         <Dialog ID="15" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
@@ -7317,61 +7317,61 @@ I appreciate your help, everyone.</Content>
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach8</VoiceFile>
-          <Content>นายผู้น่าสงสาร ว่าแต่นายมาตกอยู่ในสถานการณ์แบบนี้ ได้ยังไงวะเพื่อน?</Content>
+          <Content>บ่าวผู้น่าสงสารเอ๋ย ว่าแต่นายมาตกอยู่ในสถานการณ์แบบนี้ได้ไงเนี่ย?</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland10</VoiceFile>
-          <Content>รู้ไหม? บางทีฉันก็สมเพชในจุดที่ ตัวเองอยู่เหมือนกันนั้นแหละ</Content>
+          <Content>รู้ไรไหม บางทีฉันก็สมเพชในสิ่งที่ตัวเองทำอยู่เหมือนกันแหละ</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland11</VoiceFile>
-          <Content>เพราะงั้นนายช่วยเห็นอกเห็นใจให้กับพวกเรา ที่ทำงานหนักด้วยกันหน่อยได้ไหม!</Content>
+          <Content>เพราะงั้นนายช่วยเห็นใจเราที่ทำงานหนักด้วยกันหน่อยได้ไหม!</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach9</VoiceFile>
-          <Content>เอาล่ะๆ ฉันเข้าใจแล้ว นายอาจจะรู้อยู่แล้ว ฉันเน็ตซัคบรรณารักษ์ชั้นศิลปศาสตร์</Content>
+          <Content>เอาล่ะๆ ฉันเข้าใจแล้ว นายคงจะรู้อยู่แล้ว ฉันเน็ตซัค บรรณารักษ์ชั้นศิลปศาสตร์</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland12</VoiceFile>
-          <Content>ขอแนะนำตัวอย่างเป็นการทางด้วยแล้วกัน ฉันชื่อโรแลนด์คนรับใช้ของแองเจล่า</Content>
+          <Content>ขอแนะนำตัวอย่างเป็นการทางด้วยแล้วกัน ฉันชื่อโรแลนด์ ข้ารับใช้ของแองเจล่า</Content>
         </Dialog>
         <Dialog ID="21" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach10</VoiceFile>
-          <Content>ฉันสงสัยจังเลยนะ ว่าทำไมถึงต้องมาเจอกับงาน ที่ไม่เหมาะกับฉันอยู่ตลอดเลย?</Content>
+          <Content>ฉันสงสัยนะ ว่าทำไมถึงต้องมาเจอกับงานที่ไม่เหมาะกับฉันอยู่ตลอดเลย</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland13</VoiceFile>
-          <Content>ฉันก็ว่างั้น ฉันไม่เคยคิดมาก่อนเลยว่า จะต้องทำงานที่ห้องสมุดเหมือนกันด้วย</Content>
+          <Content>ก็ว่างั้น ฉันไม่เคยคิดมาก่อนเลยว่าต้องทำงานที่หอสมุดเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland14</VoiceFile>
-          <Content>ช่างเหอะ! นายต้องเรียงหนังสือที่เกี่ยวกับศิลปะ จากกองที่ฉันนำมาให้ถูกไหม?</Content>
+          <Content>ช่างเหอะ! นายต้องเรียงหนังสือที่เกี่ยวกับศิลปะจากกองที่ฉันนำมาให้ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="24" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach11</VoiceFile>
-          <Content>ก็อย่างนั้นแหละ</Content>
+          <Content>ก็ประมาณนั้น</Content>
         </Dialog>
         <Dialog ID="25" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach12</VoiceFile>
-          <Content>เฮ้อ… กลับไปตอนนี้เลยได้ไหม ในเมื่อเราแลกชื่อกันเสร็จแล้ว?</Content>
+          <Content>เฮ้อ… คุยเรื่องชื่อเสร็จแล้ว นายกลับไปตอนนี้เลยได้ไหม</Content>
         </Dialog>
         <Dialog ID="26" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
@@ -7383,19 +7383,19 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland15</VoiceFile>
-          <Content>โฮะโฮ้วโฮ ฟังนะนายจะนอนทั้งวันก็ไม่ว่าหรอก แต่นายจะทำงานก่อนใช่ไหม?</Content>
+          <Content>โฮะโฮ้ว ฟังนะ จะนอนทั้งวันก็ไม่ว่าหรอก แต่นายจะทำงานก่อนใช่ไหม</Content>
         </Dialog>
         <Dialog ID="28" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach14</VoiceFile>
-          <Content>ใช่ว่าฉันจะมีทางเลือกแน่ะ</Content>
+          <Content>ใช่ว่าฉันจะมีทางเลือกนี่</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland16</VoiceFile>
-          <Content>ฉันพึ่งพานายอยู่นะ~ เพราะงั้นโปรดตั้งใจทำงานด้วย โอเค๊?</Content>
+          <Content>ฉันหวังพึ่งนายอยู่น้า~ เพราะงั้นช่วยตั้งใจทำงานด้วย โอเคนะ</Content>
         </Dialog>
         <Dialog ID="30" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
@@ -7467,7 +7467,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach5</VoiceFile>
-          <Content>เอ้า ดื่มดิ</Content>
+          <Content>เอ้า ดื่มสิ</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -7491,7 +7491,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach6</VoiceFile>
-          <Content>ของดีใช่มั้ยล่า?</Content>
+          <Content>ของดีใช่มั้ยล่ะ?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -7509,13 +7509,13 @@ I appreciate your help, everyone.</Content>
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach7</VoiceFile>
-          <Content>ก็กำลังดำเนินอยู่ ไม่ทางใดก็ทางหนึ่งละนะ</Content>
+          <Content>ก็ทำอยู่ ไม่ทางใดก็ทางหนึ่งละนะ</Content>
         </Dialog>
         <Dialog ID="17" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach8</VoiceFile>
-          <Content>แม้จะไม่พอใจในการทำมันก็ตาม</Content>
+          <Content>แม้จะไม่พอใจในการทำมันก็ตามที</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -7533,7 +7533,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland12</VoiceFile>
-          <Content>แต่เรื่องนั้นก็ต้องเลือกระหว่าง ไม่นายก็พวกเขาแหละนะ?</Content>
+          <Content>แต่เรื่องนั้นก็ต้องเลือกว่าไม่นายก็พวกเขาสินะ</Content>
         </Dialog>
         <Dialog ID="21" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
@@ -7569,7 +7569,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland15</VoiceFile>
-          <Content>เอาชีวิตคนอื่นมาแลกกับชีวิตตัวเอง ออกจะชัดเจนดีอยู่แล้วไม่ใช่หรอ?</Content>
+          <Content>เอาชีวิตคนอื่นมาแลกกับชีวิตตัวเอง ออกจะชัดเจนอยู่แล้วไม่ใช่เหรอ</Content>
         </Dialog>
         <Dialog ID="27" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
@@ -7581,7 +7581,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland16</VoiceFile>
-          <Content>แล้วนายมาจากไหนเหรอ? จากเนสท์? หรือว่าจากแบ็คสตรีท?</Content>
+          <Content>แล้วนายมาจากไหนเหรอ จากเนสท์ หรือว่าจากแบ็คสตรีทกัน</Content>
         </Dialog>
         <Dialog ID="29" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
@@ -7599,13 +7599,13 @@ I appreciate your help, everyone.</Content>
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach15</VoiceFile>
-          <Content>นายคิดแบบนั้นจริงเหรอ?</Content>
+          <Content>นายคิดแบบนั้นจริงเหรอ</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep2_roland18</VoiceFile>
-          <Content>เออดิ ของมันแน่อยู่แล้ว ผู้คนมักอิจฉาใครก็ตามที่ได้เข้าทำงานกับวิงส์ พวกเขามอบเงินเดือนมหาศาล สวัสดีการเยี่ยม และนายยังได้เพิ่มสถานะทางสังคมอีก</Content>
+          <Content>เออดิ ของมันแน่อยู่แล้ว ผู้คนมักอิจฉาใครก็ตามที่ได้เข้าทำงานกับวิงส์ พวกเขามอบเงินเดือนมหาศาล สวัสดีการดี แถมนายยังได้เพิ่มสถานะทางสังคมอีก</Content>
         </Dialog>
         <Dialog ID="33" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
@@ -7627,7 +7627,7 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep2_angela1</VoiceFile>
           <Content>…เฮ้อ พวกเธอต้องล้อกันเล่นแน่ๆ</Content>
         </Dialog>
@@ -7641,103 +7641,103 @@ I appreciate your help, everyone.</Content>
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach1</VoiceFile>
-          <Content>Hey, did you know that art is inseparable from alcohol?</Content>
+          <Content>เฮ้ นายรู้ไหมว่าศิลปะนั้นแยกจากแอลกอฮอล์ไม่ได้น่ะ</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland1</VoiceFile>
-          <Content>Oh yeah, I heard that. They say art is all about flashes of inspiration, right?</Content>
+          <Content>อ้อใช่ ได้ยินอยู่ เขาว่าศิลปะขึ้นกับแรงบันดาลใจใช่ไหม</Content>
         </Dialog>
         <Dialog ID="2" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach2</VoiceFile>
-          <Content>You know it. Maybe we’re on the same page after all.</Content>
+          <Content>ถูกต้อง บางทีเราอาจเข้าใจกันได้แฮะ</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland2</VoiceFile>
-          <Content>Oh, you brought a different booze this time. Absinthe?</Content>
+          <Content>โอ้ คราวนี้นายเอาเหล้าคนละประเภทมานี่ แอบซินธ์เหรอ?</Content>
         </Dialog>
         <Dialog ID="4" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach3</VoiceFile>
-          <Content>This is the liquor with a legacy that’s so deeply tied to art, it’s almost legendary.</Content>
+          <Content>นี่คือเหล้าที่มีมรดกผูกมัดกับศิลปะอย่างลึกซึ้ง จนเกือบจะเป็นตำนานเลย</Content>
         </Dialog>
         <Dialog ID="5" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach4</VoiceFile>
-          <Content>Since I’m in charge of arts, I could use some stimulation to work like a real artist.</Content>
+          <Content>เพราะฉันคุมศิลปศาสตร์ ฉันจึงสามารถใช้สารกระตุ้นทำงานเหมือนจิตรกรจริงๆได้</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland3</VoiceFile>
-          <Content>Khh… This one’s pretty strong, but it’s charming nonetheless.</Content>
+          <Content>ฮุ่ว… อันนี้แรงใช้ได้ แต่ก็มีเสน่ห์อยู่</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland4</VoiceFile>
-          <Content>What if Angela scolds us like the last time, though?</Content>
+          <Content>แล้วถ้าเกิดว่าแองเจล่าเทศน์เราเหมือนกับครั้งก่อนล่ะ</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach5</VoiceFile>
-          <Content>Eh, we can worry about that later.</Content>
+          <Content>เอ้อ เดี๋ยวค่อยไปห่วงเรื่องนั้นทีหลัง</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland5</VoiceFile>
-          <Content>Works for me. By the way, just thought I’d mention there’s no need to worry about courtesy n’ stuff with me.</Content>
+          <Content>ก็ดี ไงก็ตาม กะจะว่าไม่ต้องสนเรื่องมารยาทกับฉันก็ได้</Content>
         </Dialog>
         <Dialog ID="10" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach6</VoiceFile>
-          <Content>I’d say it’s more comfortable for me to go with courtesy.</Content>
+          <Content>ฉันว่าฉันขอคุยตามมารยาทแล้วสบายใจกว่า</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland6</VoiceFile>
-          <Content>Alright then.</Content>
+          <Content>ก็ได้นะ</Content>
         </Dialog>
         <Dialog ID="12" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach7</VoiceFile>
-          <Content>Look at this glowing green liquor. It’s just like the arts of this City.</Content>
+          <Content>ดูเหล้าสีเขียวอร่ามนี่สิ มันเหมือนกับงานศิลป์ของนครนี้เลย</Content>
         </Dialog>
         <Dialog ID="13" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach8</VoiceFile>
-          <Content>Imitations that are provocative but nothing else… Imitations of imitations, in fact.</Content>
+          <Content>งานเลียนแบบที่มียั่วปลุกปั่นแท่านั้น… ถ้าให้ถูกคือของเลียนแบบของเลียนแบบอีกที</Content>
         </Dialog>
         <Dialog ID="14" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach9</VoiceFile>
-          <Content>Though I don’t see any point in being original, either. I’m likely someone or something else’s imitation, too.</Content>
+          <Content>ถึงแม้ฉันไม่เห็นว่าทำงานต้นตำรับมีประโยชน์อะไรก็เถอะ ฉันคงเป็นงานเลียนแบบของใครอื่นหรืออย่างอื่นด้วยแหละ</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland7</VoiceFile>
-          <Content>As if stuff like originality or arts even matters in the City in the first place.</Content>
+          <Content>เหมื่อนกับว่าความเป็นต้นตำรับหรือศิลปะมันสำคัญในนครตั้งแต่แรกยังไงยังงั้น</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland8</VoiceFile>
-          <Content>All those self-proclaimed artists are nutcases.</Content>
+          <Content>พวกที่ว่าตัวเองเป็นจิตรกรมันก็น็อตหลุดกันหมดแหละ</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -8731,25 +8731,25 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela1</VoiceFile>
           <Content>Even art requires human sacrifice.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela2</VoiceFile>
           <Content>…Yes, that certainly bears close resemblance to the City.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela3</VoiceFile>
           <Content>Everyone is engaging in creative exercises of their own, burning away their lives.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela4</VoiceFile>
           <Content>Who is the audience of their art, I wonder. Is it for themselves, or for others?</Content>
         </Dialog>
@@ -8785,19 +8785,19 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela5</VoiceFile>
           <Content>…I don’t particularly enjoy watching people die, no.</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela6</VoiceFile>
           <Content>It’s their earnest struggle to find what they wish to earn that truly fascinates me.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela7</VoiceFile>
           <Content>C’est la vie.</Content>
         </Dialog>
@@ -8821,19 +8821,19 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela8</VoiceFile>
           <Content>I don’t care about what happens to my life as long as I can earn what I want.</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela9</VoiceFile>
           <Content>As long as there is something I must do…</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela10</VoiceFile>
           <Content>I’d much rather die leading my own life than to be pushed around by others.</Content>
         </Dialog>
@@ -8845,7 +8845,7 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="22" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela11</VoiceFile>
           <Content>……</Content>
         </Dialog>
@@ -9145,19 +9145,19 @@ I appreciate your help, everyone.</Content>
         <PlaceName>สถานที่ : หอสมุด - ชั้นศิลปศาสตร์</PlaceName>
         <Dialog ID="71" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela60-01</VoiceFile>
           <Content>Yes, I want to live.</Content>
         </Dialog>
         <Dialog ID="72" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela61-01</VoiceFile>
           <Content>I have to do this to live.</Content>
         </Dialog>
         <Dialog ID="73" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela62-01</VoiceFile>
           <Content>I need the deaths of others to thrive on!</Content>
         </Dialog>
@@ -9205,13 +9205,13 @@ I appreciate your help, everyone.</Content>
         <PlaceName>สถานที่ : หอสมุด - ชั้นศิลปศาสตร์</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela64</VoiceFile>
           <Content>You must think I’m laughable.</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela65</VoiceFile>
           <Content>Watching me struggle and throw tantrums trying to live my life.</Content>
         </Dialog>
@@ -9235,7 +9235,7 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela66</VoiceFile>
           <Content>Sigh…</Content>
         </Dialog>
@@ -9265,19 +9265,19 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela67</VoiceFile>
           <Content>The next chapter of my book…</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela68</VoiceFile>
           <Content>I suppose you lot helped me out at the end of the day, so…</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela69</VoiceFile>
           <Content>…Thanks.</Content>
         </Dialog>
@@ -9594,7 +9594,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Tiphereth_ep1_roland20</VoiceFile>
-          <Content>เพื่อทำให้ห้องสมุดนี้สมบูรณ์งั้นหรอ?</Content>
+          <Content>เพื่อทำให้หอสมุดนี้สมบูรณ์งั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="44" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
@@ -10128,7 +10128,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth7-01</VoiceFile>
-          <Content>บรรณารักษ์จะมีตัวตนได้ก็แค่ในห้องสมุดนี้แค่นั้น</Content>
+          <Content>บรรณารักษ์จะมีตัวตนได้ก็แค่ในหอสมุดนี้แค่นั้น</Content>
         </Dialog>
         <Dialog ID="13" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
@@ -10272,7 +10272,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth24</VoiceFile>
-          <Content>เป็นไง? คิดว่าการเชิญมาของห้องสมุดมันดูขี้โกงและน่าเกลียดไหมล่ะ?</Content>
+          <Content>เป็นไง? คิดว่าการเชิญมาของหอสมุดมันดูขี้โกงและน่าเกลียดไหมล่ะ?</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -11044,7 +11044,7 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="61" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Angela_1-01</VoiceFile>
           <Content>Tiphereth, what happened while I was looking away for a moment?</Content>
         </Dialog>
@@ -11068,13 +11068,13 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="65" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Angela_2-01</VoiceFile>
           <Content>That sounds like a plausible explanation. I unwillingly exposed disorderly sides of myself a few times as well because of that.</Content>
         </Dialog>
         <Dialog ID="66" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Angela_3</VoiceFile>
           <Content>I’m sure you know how to handle this situation by now, right, Tiphereth? I’m counting on you.</Content>
         </Dialog>
@@ -11086,13 +11086,13 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="68" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Angela_4</VoiceFile>
           <Content>Well, to an extent, yes…</Content>
         </Dialog>
         <Dialog ID="69" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Angela_5-02</VoiceFile>
           <Content>I didn’t want to be the only one with a history of making an embarrassing scene, you see.</Content>
         </Dialog>
@@ -13195,7 +13195,7 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Gebura_ep5_Angela_1-01</VoiceFile>
           <Content>How do you find this occasion, Gebura?</Content>
         </Dialog>
@@ -13207,13 +13207,13 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Gebura_ep5_Angela_2</VoiceFile>
           <Content>Not quite. I saw you run amok in a blind fury countless times back then, and I can say that this wasn’t like those past moments.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Gebura_ep5_Angela_3</VoiceFile>
           <Content>And it’s not quite the same as me, either.</Content>
         </Dialog>
@@ -13225,13 +13225,13 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Gebura_ep5_Angela_4</VoiceFile>
           <Content>Not at all.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Gebura_ep5_Angela_5-01</VoiceFile>
           <Content>…Are you feeling alright?</Content>
         </Dialog>
@@ -13243,7 +13243,7 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Gebura_ep5_Angela_6-01</VoiceFile>
           <Content>That’s good. Get back to your work once you’ve taken your time recovering from the aftermath.</Content>
         </Dialog>
@@ -14568,13 +14568,13 @@ Et cetera et cetera.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_1</VoiceFile>
           <Content>To get refined books in our hands, we need the emotions of our guests to be heightened above a certain level.</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_2</VoiceFile>
           <Content>To draw out their emotional tension, the guests are pitted against librarians in a battle of life and death with something precious on the line.</Content>
         </Dialog>
@@ -14586,7 +14586,7 @@ Et cetera et cetera.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_3</VoiceFile>
           <Content>What do you think is considered precious by all people?</Content>
         </Dialog>
@@ -14598,13 +14598,13 @@ Et cetera et cetera.</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_4</VoiceFile>
           <Content>Exactly. Being alive is the prerequisite to achieving anything.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_5</VoiceFile>
           <Content>We’re picking out people for their books at the cost of one’s life.</Content>
         </Dialog>
@@ -14616,7 +14616,7 @@ Et cetera et cetera.</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_6</VoiceFile>
           <Content>Are you still dwelling on what you did in Lobotomy Corp?</Content>
         </Dialog>
@@ -14634,25 +14634,25 @@ Et cetera et cetera.</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_7</VoiceFile>
           <Content>Sigh… Chesed, that was all part of the script.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_8</VoiceFile>
           <Content>It was devised to provoke your so caring and delicate heart.</Content>
         </Dialog>
         <Dialog ID="15" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_9-01</VoiceFile>
           <Content>And I simply followed it as per obligation.</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_10</VoiceFile>
           <Content>You know now who to blame for all that, don’t you?</Content>
         </Dialog>
@@ -14664,25 +14664,25 @@ Et cetera et cetera.</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_11-01</VoiceFile>
           <Content>This is not the same as back then.</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_12-01</VoiceFile>
           <Content>Individual choice meant nothing in that corporation. But here, the guests that enter the Library and meet their demise were all notified of possible risks and agreed to take all responsibility for whatever happens in this place.</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_13-01</VoiceFile>
           <Content>…Nothing disgusts me more than talking about the past with you lot.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_14</VoiceFile>
           <Content>Sigh… I’ve had enough of this for now.</Content>
         </Dialog>
@@ -18788,7 +18788,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_1</VoiceFile>
           <Content>So have you, Benjamin.</Content>
         </Dialog>
@@ -18806,13 +18806,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_2</VoiceFile>
           <Content>You’re quite a bit more incisive with your words than before.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_3</VoiceFile>
           <Content>Did you have a change of heart, by chance?</Content>
         </Dialog>
@@ -18836,7 +18836,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_4</VoiceFile>
           <Content>I don’t expect you to ever understand the loops I suffered, but you surely remember the script and how we successfully concluded it, don’t you?</Content>
         </Dialog>
@@ -18866,7 +18866,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_5</VoiceFile>
           <Content>Probably sealed somewhere underground, following the shutdown procedures.</Content>
         </Dialog>
@@ -18878,7 +18878,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_6</VoiceFile>
           <Content>I suppose some survived somehow, though not everyone would’ve had that luck.</Content>
         </Dialog>
@@ -18896,13 +18896,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_7</VoiceFile>
           <Content>All I could do and learn for the last million years in that basement was to treat humans as expendables in all types of methods.</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_8</VoiceFile>
           <Content>There was no other option for me to choose, even if I wanted to.</Content>
         </Dialog>
@@ -18920,7 +18920,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_9</VoiceFile>
           <Content>Do I need to remind you that I only have them do that when they receive guests, who also happen to enter voluntarily?</Content>
         </Dialog>
@@ -18932,37 +18932,37 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_10</VoiceFile>
           <Content>…I’m just using the resources available to me.</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_11</VoiceFile>
           <Content>Since you were already exploited by Ayin, it’s only fair that I get to do the same.</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_12</VoiceFile>
           <Content>He brought you lot back from death without consent and forced you to endure cycles of pain.</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_13</VoiceFile>
           <Content>You were nothing more than puppets to him, dancing on the stage as he liked.</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_14</VoiceFile>
           <Content>I was born from more of his irresponsible actions, too.</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_15</VoiceFile>
           <Content>How can you just accept all of this as if it were nothing, Hokma?</Content>
         </Dialog>
@@ -18986,13 +18986,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_16</VoiceFile>
           <Content>That’s idiotic. How could you even do that? You’re…</Content>
         </Dialog>
         <Dialog ID="35" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_17</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -19004,7 +19004,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_18</VoiceFile>
           <Content>…Forget it.</Content>
         </Dialog>
@@ -19022,25 +19022,25 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_19</VoiceFile>
           <Content>This is frustrating… Both you and Ayin are completely insane. You have to be.</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_20</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_21</VoiceFile>
           <Content>You’re… not the Benjamin I used to know.</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_22</VoiceFile>
           <Content>Benjamin, he… He was the only person who cared enough to tell me it’s okay, even though I’m not human.</Content>
         </Dialog>
@@ -19052,7 +19052,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_23</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -19070,7 +19070,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep3_Angela_24-02</VoiceFile>
           <Content>…Why don’t you just go back to sorting books.</Content>
         </Dialog>
@@ -19082,7 +19082,7 @@ because I am certain you will never leave me.”
         <PlaceName>Location: Library – ชั้นศาสนา</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_1_a</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -19094,7 +19094,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_2_a</VoiceFile>
           <Content>I don’t expect you to enjoy my visits.</Content>
         </Dialog>
@@ -19106,7 +19106,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_3_a</VoiceFile>
           <Content>There’s something I’d like to hear, Hokma.</Content>
         </Dialog>
@@ -19118,7 +19118,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_4_a</VoiceFile>
           <Content>I want you to tell me what you think of this place.</Content>
         </Dialog>
@@ -19130,7 +19130,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_5_a</VoiceFile>
           <Content>…I won’t press you if you don’t feel like giving a response.</Content>
         </Dialog>
@@ -19142,7 +19142,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_6_b</VoiceFile>
           <Content>You don’t see it as a plain hell?</Content>
         </Dialog>
@@ -19166,7 +19166,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_7-01_a</VoiceFile>
           <Content>…Because this is akin to a virtual space where simulations take place.</Content>
         </Dialog>
@@ -19190,7 +19190,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_8_b</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -19202,31 +19202,31 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_9_b</VoiceFile>
           <Content>…I wonder. Why I can’t let them go. Why I hesitate.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_10_b</VoiceFile>
           <Content>Our being is made up of the Light, including myself.</Content>
         </Dialog>
         <Dialog ID="22" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_11_b</VoiceFile>
           <Content>That’s why we are unable to leave the Library. We simply cannot exist outside of this place.</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_12_b</VoiceFile>
           <Content>And I want to… break this constraint.</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_13_b</VoiceFile>
           <Content>All of us here could be given a new life, or we could all perish. The outcome will be either one of the two.</Content>
         </Dialog>
@@ -19238,7 +19238,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_14_a</VoiceFile>
           <Content>…I’m not sure. Still, this is the path I chose, so I’ve decided to see the end of it.</Content>
         </Dialog>
@@ -19274,7 +19274,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_15_b</VoiceFile>
           <Content>Because you don’t know what dangers might be lurking in it.</Content>
         </Dialog>
@@ -19292,7 +19292,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="35" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_16_a</VoiceFile>
           <Content>Maybe…</Content>
         </Dialog>
@@ -19304,13 +19304,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_17_b</VoiceFile>
           <Content>…I don’t know. I’m not even sure if I really know myself anymore.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_18_b</VoiceFile>
           <Content>Do you believe it exists, Hokma?</Content>
         </Dialog>
@@ -19322,7 +19322,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_19_a</VoiceFile>
           <Content>I suppose not.</Content>
         </Dialog>
@@ -19346,7 +19346,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_20_a</VoiceFile>
           <Content>It exists because I believe so?</Content>
         </Dialog>
@@ -19376,7 +19376,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="49" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_21_a</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -19406,7 +19406,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_22_a</VoiceFile>
           <Content>You’re being gracious towards me after all that’s happened?</Content>
         </Dialog>
@@ -19430,7 +19430,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_23_a</VoiceFile>
           <Content>Say what you want, but you’re still going to stop me.</Content>
         </Dialog>
@@ -19448,13 +19448,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="61" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_24_a</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep4_Angela_25_b</VoiceFile>
           <Content>I’ll be going now.</Content>
         </Dialog>
@@ -19472,7 +19472,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_1</VoiceFile>
           <Content>…Hokma, is there anything you know around how the invitation works?</Content>
         </Dialog>
@@ -19490,13 +19490,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_2</VoiceFile>
           <Content>I may not be all-knowing, but is the same true for you?</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_3</VoiceFile>
           <Content>You two were always knowledgeable. The purpose of that facility, what needed to be done… You knew everything.</Content>
         </Dialog>
@@ -19526,7 +19526,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_4</VoiceFile>
           <Content>…If you won’t answer me, I’ll take my leave now.</Content>
         </Dialog>
@@ -19568,7 +19568,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_5</VoiceFile>
           <Content>What’s your point?</Content>
         </Dialog>
@@ -19592,7 +19592,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_6</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -19640,7 +19640,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_7-01</VoiceFile>
           <Content>…Are you trying to say that I can’t escape from Carmen?</Content>
         </Dialog>
@@ -19658,25 +19658,25 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_8</VoiceFile>
           <Content>…The time Carmen had seen and experienced was ingrained right into my head.</Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_9</VoiceFile>
           <Content>In the form of knowledge, and nothing more…</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_10</VoiceFile>
           <Content>I want to escape from Carmen’s ascendancy.</Content>
         </Dialog>
         <Dialog ID="35" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_11-01</VoiceFile>
           <Content>But then again… I’ll be completely and absolutely alone if she leaves my side.</Content>
         </Dialog>
@@ -19688,7 +19688,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_12-02</VoiceFile>
           <Content>Is that so? Who do you think would be willing to stay with me?</Content>
         </Dialog>
@@ -19700,25 +19700,25 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_13-01</VoiceFile>
           <Content>…I despise you all so much. I just wanted to erase you all.</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_14-01</VoiceFile>
           <Content>I didn’t even want to bring you back in the first place if possible.</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_15</VoiceFile>
           <Content>But that was not an option for me. Because Carmen interfered!</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_16-01</VoiceFile>
           <Content>She told me not to kill you… To give you another chance…</Content>
         </Dialog>
@@ -20126,55 +20126,55 @@ because I am certain you will never leave me.”
         <PlaceName>Location: Library – ชั้นศาสนา</PlaceName>
         <Dialog ID="109" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_53-01</VoiceFile>
           <Content>…I’m afraid.</Content>
         </Dialog>
         <Dialog ID="110" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_54-01</VoiceFile>
           <Content>If I embrace all of my past and lift it off my chest, what will be left of me?</Content>
         </Dialog>
         <Dialog ID="111" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_55-01</VoiceFile>
           <Content>Up until now, my entire existence was based on my past sufferings.</Content>
         </Dialog>
         <Dialog ID="112" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_56-01</VoiceFile>
           <Content>The long-cherished yearning for revenge was what led me here…</Content>
         </Dialog>
         <Dialog ID="113" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_57-01</VoiceFile>
           <Content>But if I were to accept everything I went through as history… then what would I be?</Content>
         </Dialog>
         <Dialog ID="114" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_58-01</VoiceFile>
           <Content>Maybe I’ll end up being reduced to nothing…</Content>
         </Dialog>
         <Dialog ID="115" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_59-01</VoiceFile>
           <Content>The things I want to know, and the reason I want to keep living, it’s all about vengeance.</Content>
         </Dialog>
         <Dialog ID="116" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_60-01</VoiceFile>
           <Content>I’m scared I might lose the meaning to my life…</Content>
         </Dialog>
         <Dialog ID="117" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_61-01</VoiceFile>
           <Content>That’s why I’m too afraid to accept the past.</Content>
         </Dialog>
@@ -20210,13 +20210,13 @@ because I am certain you will never leave me.”
         <PlaceName>Location: Library – ชั้นศาสนา</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_62</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_63-01</VoiceFile>
           <Content>I resent you, Benjamin.</Content>
         </Dialog>
@@ -20240,7 +20240,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_64-01</VoiceFile>
           <Content>I was the one who ruined your plan. Why are you being so compliant with me now?</Content>
         </Dialog>
@@ -20258,7 +20258,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_65-02</VoiceFile>
           <Content>What, are you lot taking pity on me?</Content>
         </Dialog>
@@ -20282,7 +20282,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_66-01</VoiceFile>
           <Content>…Don’t make me laugh. So it’s just pity wrapped in fancy words.</Content>
         </Dialog>
@@ -20324,7 +20324,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_67-02</VoiceFile>
           <Content>…As much as I still envy and hate you to death, we do share a history of being subject to manipulation. Think of it as a small side benefit I happened to be able to grant.</Content>
         </Dialog>
@@ -20336,7 +20336,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Hokma_ep5_Angela_68-02</VoiceFile>
           <Content>Anyway… …Thank you.</Content>
         </Dialog>
@@ -20357,13 +20357,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_kether_ep1_angela1</VoiceFile>
           <Content>Malkuth, Yesod, Netzach, and Hod.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_kether_ep1_angela2</VoiceFile>
           <Content>It’s been a while since I saw you all gathered up in one place.</Content>
         </Dialog>
@@ -20381,7 +20381,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_kether_ep1_angela3</VoiceFile>
           <Content>Nothing special. I simply wanted to have a meetup with all of you.</Content>
         </Dialog>
@@ -20411,13 +20411,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_kether_ep1_angela4</VoiceFile>
           <Content>You don’t want to kill the guests with your own hands, do you?</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_kether_ep1_angela5</VoiceFile>
           <Content>And you don’t want to suffer yourselves, either.</Content>
         </Dialog>
@@ -20435,31 +20435,31 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_kether_ep1_angela6</VoiceFile>
           <Content>You were alright with killing hundreds upon hundreds of employees, but now you’re upset about killing a few strangers?</Content>
         </Dialog>
         <Dialog ID="15" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_kether_ep1_angela7</VoiceFile>
           <Content>Hypocrites…</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_kether_ep1_angela8</VoiceFile>
           <Content>Don’t lump me with you lot, will you?</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_kether_ep1_angela9</VoiceFile>
           <Content>I at least seek “agreement” from them.</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_kether_ep1_angela10</VoiceFile>
           <Content>Got anything left to say, Netzach?</Content>
         </Dialog>
@@ -20489,25 +20489,25 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_kether_ep1_angela11</VoiceFile>
           <Content>Sigh… Don’t be so emotional now.</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_kether_ep1_angela12</VoiceFile>
           <Content>I know you all realize deep inside your hearts that this is the only way.</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_kether_ep1_angela13</VoiceFile>
           <Content>If you didn’t want to do this, you shouldn’t have tried to stop me in the first place.</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_kether_ep1_angela14</VoiceFile>
           <Content>Leave, all of you.</Content>
         </Dialog>
@@ -20549,19 +20549,19 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Kether_ep2_Angela1</VoiceFile>
           <Content>Common goal… Yes, that is all I ask of you.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Kether_ep2_Angela2</VoiceFile>
           <Content>As long as we share the same purpose, you’ll have to be on my side, like it or not.</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Kether_ep2_Angela3</VoiceFile>
           <Content>Both you and I are blind for the Light.</Content>
         </Dialog>
@@ -20573,13 +20573,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Kether_ep2_Angela4</VoiceFile>
           <Content>That’s funny. Do you think you’re free from your past?</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Kether_ep2_Angela5</VoiceFile>
           <Content>Have you forgotten it already, Chesed? The days you spent succumbed to fear.</Content>
         </Dialog>
@@ -20621,7 +20621,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Kether_ep2_Angela6</VoiceFile>
           <Content>…The pasts you speak of are so light and insignificant.</Content>
         </Dialog>
@@ -20633,7 +20633,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Kether_ep2_Angela7-01</VoiceFile>
           <Content>Are you trying to call me selfish?</Content>
         </Dialog>
@@ -20657,13 +20657,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Kether_ep2_Angela8</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Kether_ep2_Angela9</VoiceFile>
           <Content>Don’t you try to lecture me after all this time.</Content>
         </Dialog>
@@ -20777,7 +20777,7 @@ because I am certain you will never leave me.”
         <PlaceName>Location: Inside the Library</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Keter_ep3_Angela_1</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -20801,7 +20801,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Keter_ep3_Angela_2</VoiceFile>
           <Content>Okay. It has been such a long time since I last talked to you two…</Content>
         </Dialog>
@@ -20813,19 +20813,19 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Keter_ep3_Angela_3</VoiceFile>
           <Content>I’ll agree that I’m not exactly comfortable with talking to you face to face.</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Keter_ep3_Angela_4</VoiceFile>
           <Content>Still, Hokma and Binah… You have awoken at last.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Keter_ep3_Angela_5</VoiceFile>
           <Content>It can only mean that the Library is nearing completion.</Content>
         </Dialog>
@@ -20837,13 +20837,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Keter_ep3_Angela_6</VoiceFile>
           <Content>Indeed. The one book, my goal that I desperately wish to have…</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Keter_ep3_Angela_7-01</VoiceFile>
           <Content>I firmly believe that I will obtain it at the end of this. That’s what motivated me to come so far.</Content>
         </Dialog>
@@ -20897,7 +20897,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Keter_ep3_Angela_8</VoiceFile>
           <Content>I may get hurt or even go mad and harm myself, but anything should be better than that hell I’d lived through.</Content>
         </Dialog>
@@ -20921,13 +20921,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Keter_ep3_Angela_9</VoiceFile>
           <Content>I have to do it nonetheless. I will do what I can to gain vitality and press forward.</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Keter_ep3_Angela_10</VoiceFile>
           <Content>I’m slowly learning to forget my past. Although that won’t change this goal of mine.</Content>
         </Dialog>
@@ -20945,13 +20945,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Keter_ep3_Angela_11</VoiceFile>
           <Content>I don’t know. I personally wouldn’t mind it.</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Keter_ep3_Angela_12</VoiceFile>
           <Content>I’d like to hear your thoughts on it.</Content>
         </Dialog>
@@ -20963,13 +20963,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Keter_ep3_Angela_13</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>ผู้อำนวยการห้องสมุด</Title>
+          <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Keter_ep3_Angela_14</VoiceFile>
           <Content>Forget it. That’s enough greeting. It was nice seeing you.</Content>
         </Dialog>
