@@ -5,7 +5,7 @@
     <Desc>[Combat Start] If target is the Vermilion Cross, give him 3 Strength and Protection</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="elenaAtkBuf">
-    <Desc>[On Hit] Give 3 Strength and Endurance to all other allies</Desc>
+    <Desc>[เมิ้อโจมตี] Give 3 Strength and Endurance to all other allies</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="elenaMinionStrong">
     <Desc>All Speed dice of the character lose 3 Speed while this page is in use</Desc>
@@ -21,6 +21,6 @@
   </BattleCardAbility>
 
   <BattleCardAbility ID="elenaAreaDice">
-    <Desc>[On Hit] Recover HP equal to the amount of damage dealt</Desc>
+    <Desc>[เมิ้อโจมตี] Recover HP equal to the amount of damage dealt</Desc>
   </BattleCardAbility>
 </BattleCardAbilityDescRoot>

@@ -14,7 +14,7 @@
   </BattleCardAbility>
 
   <BattleCardAbility ID="eileen_Stun">
-    <Desc>[On Hit] Immobilize target next Scene</Desc>
+    <Desc>[เมิ้อโจมตี] Immobilize target next Scene</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="eileen_Text">
@@ -26,15 +26,15 @@
   </BattleCardAbility>
 
   <BattleCardAbility ID="smokeatkbyburnbuf">
-    <Desc>[On Hit] If target has Burn, inflict Smoke equal to the amount of Smoke on target</Desc>
+    <Desc>[เมิ้อโจมตี] If target has Burn, inflict Smoke equal to the amount of Smoke on target</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="smoke2addatk">
-    <Desc>[On Use] If target has 5+ Smoke, Offensive dice on this page gain '[On Hit] Inflict 2 Smoke'</Desc>
+    <Desc>[On Use] If target has 5+ Smoke, Offensive dice on this page gain '[เมิ้อโจมตี] Inflict 2 Smoke'</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="dmgupbysmokebuf">
-    <Desc>[On Hit] Damage increases by 0.5 per stack of Smoke on target</Desc>
+    <Desc>[เมิ้อโจมตี] Damage increases by 0.5 per stack of Smoke on target</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="strength2quickness2friendbytargetsmoke">
@@ -42,7 +42,7 @@
   </BattleCardAbility>
 
   <BattleCardAbility ID="smoke5atkandStun">
-    <Desc>[On Hit] Inflict 5 Smoke; Immobilize target next Scene</Desc>
+    <Desc>[เมิ้อโจมตี] Inflict 5 Smoke; Immobilize target next Scene</Desc>
   </BattleCardAbility>
  
 </BattleCardAbilityDescRoot>
