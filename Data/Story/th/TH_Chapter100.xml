@@ -13326,13 +13326,13 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland1</VoiceFile>
-          <Content>ชั้นสังคมศาสตร์… The Patron Librarian’s Chesed.</Content>
+          <Content>The ชั้นสังคมศาสตร์… The Patron Librarian’s Chesed.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland2</VoiceFile>
-          <Content>Sniff sniff. Is this the smell of coffee?</Content>
+          <Content>*ฝืดๆ*. นี่มันกลิ่นกาแฟนี่สินะเนี้ย?</Content>
         </Dialog>
         <Dialog ID="2" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13350,7 +13350,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland3</VoiceFile>
-          <Content>Oh, hi Chesed. I’m a bit flattered by your hospitality.</Content>
+          <Content>โอ้ ไงเชเซ็ด ตอนรับดีจนทำเอาแอบเขินนิดๆเลยนะเนี้ย</Content>
         </Dialog>
         <Dialog ID="5" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13362,13 +13362,13 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland4</VoiceFile>
-          <Content>Alright, guess I’ll try my first cup in a while.</Content>
+          <Content>ก็ได้ ลองดูสักแก้วหลังจากห่างไปนานก็คงไม่เลว</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland5</VoiceFile>
-          <Content>Ick! Is this really coffee? You sure it’s not spoiled?</Content>
+          <Content>อ็าค! กาแฟจริงๆปะเนี้ย? แน่ใจนะว่าไม่ได้บูดหรืออะไรเงี้ย?</Content>
         </Dialog>
         <Dialog ID="8" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13386,7 +13386,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland6</VoiceFile>
-          <Content>Cough cough… Why don’t you try it yourself!</Content>
+          <Content>แค็ก แค็ก… เดียวหาว่าโม้ ลองชิมเองสิ!</Content>
         </Dialog>
         <Dialog ID="11" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13404,7 +13404,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland7</VoiceFile>
-          <Content>But it’s way too bitter!? Are you sure this thing is coffee?</Content>
+          <Content>มันจะไม่ขมไปหน่อยรึไง!? แน่ใจนะว่าไอ้สสารนี่คือกาแฟจริงๆ?</Content>
         </Dialog>
         <Dialog ID="14" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13416,7 +13416,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland8</VoiceFile>
-          <Content>What? Isn’t coffee just supposed to be a stuffy, bitter drink you can put sugar in?</Content>
+          <Content>อะไรนะ? ไม่ใช่ว่ากาแฟมันก็แค่ของสิ้นคิดขมๆ ที่มีตัวตนเพื่อให้เราใส่น้ำตาลลงไปหรอกหรอ?</Content>
         </Dialog>
         <Dialog ID="16" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13428,7 +13428,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland9</VoiceFile>
-          <Content>Oh, well, kind of, yeah.</Content>
+          <Content>โอ้.. ก็ใช่ ประมาณนั้น</Content>
         </Dialog>
         <Dialog ID="18" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13440,7 +13440,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland10</VoiceFile>
-          <Content>Wait, who’s Kali?</Content>
+          <Content>เดียว ใครคือคาริ?</Content>
         </Dialog>
         <Dialog ID="20" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13458,7 +13458,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland12</VoiceFile>
-          <Content>…Boy, it’s kinda funny to imagine that the legendary Red Mist made the same expression as mine from drinking some coffee.</Content>
+          <Content>อ้ายก็ พอจินตนาการว่าหมอกแดงในตำนานเนี้ย ทำสีหน้าเดียวกับฉันตอนดื่มกาแฟแล้ว มันตลกชะมัดเลย</Content>
         </Dialog>
         <Dialog ID="23" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13470,7 +13470,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland13</VoiceFile>
-          <Content>…You’re talking about your first life, right?</Content>
+          <Content>นายหมายถึงชีวิตแรกใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="25" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13482,7 +13482,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland14</VoiceFile>
-          <Content>I guess things were cheery back then?</Content>
+          <Content>ช่วงนั้นทุกอย่างก็ยังสดใสอยู่สินะ?</Content>
         </Dialog>
         <Dialog ID="27" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13500,7 +13500,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland15</VoiceFile>
-          <Content>And then tragedy suddenly befalls?</Content>
+          <Content>ก่อนที่ความตายจะพรากทุกสิ่งไปกะทันหันสินะ</Content>
         </Dialog>
         <Dialog ID="30" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13512,19 +13512,19 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland16</VoiceFile>
-          <Content>I can get that.</Content>
+          <Content>เข้าใจได้อยู่</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland17</VoiceFile>
-          <Content>I sometimes think that maybe the tragic event that struck me didn’t come out of nowhere after all.</Content>
+          <Content>บางทีฉันก็คิดว่าเรื่องราวร้ายๆที่แทงอกฉัน แท้จริงแล้วมันได้อยากจะมาก็มาซะเดียวนั้น</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland18</VoiceFile>
-          <Content>I was already getting drenched in it. It was doomed to happen from the beginning.</Content>
+          <Content>ฉันอยู่กับมันมาโดยตลอด ความชิบหายมันลิขิตไว้ตั้งแต่เริ่มแล้ว</Content>
         </Dialog>
         <Dialog ID="34" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13536,13 +13536,13 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland19</VoiceFile>
-          <Content>Just talking about my experience.</Content>
+          <Content>หมายถึงประสบการณ์ฝั่งฉันน่ะ</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland20</VoiceFile>
-          <Content>Anyways, the coffee… didn’t really suit my taste, but I appreciate it. Let’s give this work our best shot.</Content>
+          <Content>ยังไงก็เถอะ กาแฟเนี้ยนะ น่าจะไม่ถูกกับฉันเท่าไร แต่ฉันก็ไม่ได้เกลียดมันหรอก งั้นจากนี้ไปมาทำงานให้เต็มที่กันเถอะ</Content>
         </Dialog>
         <Dialog ID="37" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13560,7 +13560,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland21</VoiceFile>
-          <Content>Well, here’s hoping.</Content>
+          <Content>ก็ หวังว่าอ่ะนะ</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -13572,265 +13572,265 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland1</VoiceFile>
-          <Content>Hey, Chesed! Care to open this door for me~? My hands are kinda full right now.</Content>
+          <Content>เฮ้ เชเซ็ด! เปิดประตูให้หน่อยสิ~? พอดีมือไม่ค่อยว่างเท่าไรอ่ะ</Content>
         </Dialog>
         <Dialog ID="1" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed1</VoiceFile>
-          <Content>Welcome~ Here, lemme help ya.</Content>
+          <Content>ยินดีต้อนรับ~ มาสิ ให้ฉันช่วยอีกแรง</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland2</VoiceFile>
-          <Content>Whew, can’t believe I actually carried this many books all the way here…</Content>
+          <Content>ฟิ้ว ไม่อยากจะเชื่อว่าฉันพึ่งขนหนังสือกองเท่าบ้านมาถึงที่นี่ได้…</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland3</VoiceFile>
-          <Content>Guess I’ve got this servant business down to a science.</Content>
+          <Content>สงสัยว่าการเป็นทาสรับใช้จะฝังเข้าไปในเซลล์ประสาทซะแล้ว</Content>
         </Dialog>
         <Dialog ID="4" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed2</VoiceFile>
-          <Content>You naturally get used to anything in time, after all~</Content>
+          <Content>เมื่อทำอะไรไปสักพัก ความชินชาก็จะเกิดขึ้นนั่นละน้า~</Content>
         </Dialog>
         <Dialog ID="5" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed3</VoiceFile>
-          <Content>The same goes for drinking coffee.</Content>
+          <Content>การดื่มกาแฟก็ไม่ต่างกันหรอก</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland4</VoiceFile>
-          <Content>Mmh… Coffee, huh…</Content>
+          <Content>อืม… กาแฟ อาา…</Content>
         </Dialog>
         <Dialog ID="7" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed4</VoiceFile>
-          <Content>This one should fit your taste better than the last one, I think?</Content>
+          <Content>ตัวนี้น่าจะตรงกับความชอบนายมากกว่าอันเก่า ล่ะมั้งนะ?</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland5</VoiceFile>
-          <Content>Hmm… Alright, I’ll trust you with this!</Content>
+          <Content>หืม… ก็ได้ ฉันเอาความเชื่อใจเป็นเดิมพัน!</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland6</VoiceFile>
-          <Content>Oh~ This one’s sweet, and like, really tasty overall!</Content>
+          <Content>โอ้ว ตัวนี้ดูหวานแหะ หรือก็คือ หร่อยแรงสุดๆเลย!</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland7</VoiceFile>
-          <Content>How should I put it… Yeah, I’ve never had such a classy and dainty coffee before!</Content>
+          <Content>พูดยังไงดี… แบบว่า ฉันไม่เคยดื่มกาแฟดีงามพระรามแปดเท่านี้มาก่อนเลย!</Content>
         </Dialog>
         <Dialog ID="11" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed5</VoiceFile>
-          <Content>Isn’t it~? Gebura also started out with this macchiato, you see.</Content>
+          <Content>ใช่ไหมละ~? ขนาดเกบูราก็เริ่มติดใจจาก "มัคคิอาโต้" เหมือนกับนายนี่แหละ</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland8</VoiceFile>
-          <Content>So this is what a delicious coffee tastes like.</Content>
+          <Content>นี่สินะ รสชาติของกาแฟที่อร่อย</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland9</VoiceFile>
-          <Content>I’m over thirty years old, and I’m still learning new things…</Content>
+          <Content>ฉันอายุเกิน30แล้วแท้ๆ ยังได้มาเรียนรู้สิ่งใหม่ๆอยู่เลย…</Content>
         </Dialog>
         <Dialog ID="14" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed6</VoiceFile>
-          <Content>I heard they mostly serve coffee with a strong taste of sweetness in the Backstreets to cover up the low quality ingredients.</Content>
+          <Content>ฉันเคยได้ยินมาว่าในแบ็คสตรีท ส่วนใหญ่เขามักจะทำกาแฟหวานแสบคอขายกัน เพื่อปิดบังวัตถุดิบคุณภาพหมาไม่อภิรมย์น่ะ</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland10</VoiceFile>
-          <Content>And some are just plain bitter.</Content>
+          <Content>หรือไม่ก็ขมปี๋ไปเลยสินะ</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland11</VoiceFile>
-          <Content>I used to drink it when I needed to stay awake or simply kill some time.</Content>
+          <Content>มีช่วงนึงฉันเคยดื่มอยู่ตอนที่จำเป็นต้องตื่นตลอด หรือไม่ก็แค่ฆ่าเวลาเฉยๆ</Content>
         </Dialog>
         <Dialog ID="17" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed7</VoiceFile>
-          <Content>I did too~</Content>
+          <Content>ฉันก็เคยนะ~</Content>
         </Dialog>
         <Dialog ID="18" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed8</VoiceFile>
-          <Content>In Lobotomy Corp, I always started each day with some coffee.</Content>
+          <Content>ในโลโบโทมี่คอร์ป ฉันมักจะเริ่มวันด้วยกาแฟสักแก้ว</Content>
         </Dialog>
         <Dialog ID="19" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed9</VoiceFile>
-          <Content>A warm cup was the only thing that could heat up my lethargic body, listless as lukewarm coffee.</Content>
+          <Content>มันเป็นสิ่งเดียวที่จะทำให้ร่างกายเพลียๆกระปรี้กระเปร่าชึ้นมาได้อีกครั้ง</Content>
         </Dialog>
         <Dialog ID="20" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed10</VoiceFile>
-          <Content>I kept forcing myself to work, holding zero expectations.</Content>
+          <Content>ฉันบังคับตัวเองให้ทำงานไป โดยไม่คาดหวังอะไรทั้งนั้น</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland12</VoiceFile>
-          <Content>Must’ve been pretty tiring.</Content>
+          <Content>ดูเหนื่อยชะมัดเลยนะนั่น</Content>
         </Dialog>
         <Dialog ID="22" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed11</VoiceFile>
-          <Content>It sure was~ Employees were slaughtered by Abnormalities all the time, and my plans to keep them alive never came to fruition.</Content>
+          <Content>ใช่แล้วล่ะ~ ต้องมาดูพนักงานถูกฆ่าทุกวัน ขนาดพยายามปรับแผนให้ช่วยชีวิตพวกเขาได้ มันก็ไม่มีผลอะไรเลย</Content>
         </Dialog>
         <Dialog ID="23" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed12-01</VoiceFile>
-          <Content>The coffee slowly cooled down along with my passion.</Content>
+          <Content>อุดมการณ์ของฉันเสียความร้อนแรงไป เหมือนกับกาแฟที่วางทิ้งไว้</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland13</VoiceFile>
-          <Content>How about now, did it warm over?</Content>
+          <Content>แล้วตอนนี้ล่ะ มันกลับมาอุ่นรึยัง?</Content>
         </Dialog>
         <Dialog ID="25" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed13</VoiceFile>
-          <Content>I guess you can say that. This time, it’s steaming hot again like you said, Roland~</Content>
+          <Content>เป็นอย่างนั้นนั่นล่ะ ครั้งนี้ มันกลับมาร้อนรุ่มอีกครั้งนึงแล้ว โรแลนด์~</Content>
         </Dialog>
         <Dialog ID="26" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed14</VoiceFile>
-          <Content>I can try a lot of things with everything that’s been given to me.</Content>
+          <Content>ฉันมีโอกาสได้ลองอะไรหลายอย่าง ที่ฉันได้รับมา</Content>
         </Dialog>
         <Dialog ID="27" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed15</VoiceFile>
-          <Content>Most of all, I can drink various blends of coffee now.</Content>
+          <Content>และที่สำคัญอันดับหนึ่ง ฉันมีโอกาสได้ดื่มกาแฟหลายแบบมากขึ้น</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland14</VoiceFile>
-          <Content>Though, you still have to follow someone else’s orders?</Content>
+          <Content>แม้ว่าจะต้องทำตามคำสั่งคนอื่นอ่ะนะ?</Content>
         </Dialog>
         <Dialog ID="29" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed16</VoiceFile>
-          <Content>I made the decision to follow her this time around.</Content>
+          <Content>คนที่เลือกทำตามเธอคนนั้น คือฉันเองไม่ใช่ใครอื่น</Content>
         </Dialog>
         <Dialog ID="30" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed17</VoiceFile>
-          <Content>And I can actually minimize the damage my fellow librarians have to suffer if I work hard at it.</Content>
+          <Content>และฉันยังสามารถลดความทรมาณที่จะมีต่อเหล่าบรรณารักษ์ของฉันได้ด้วย หากพยายามมากพอ</Content>
         </Dialog>
         <Dialog ID="31" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed18</VoiceFile>
-          <Content>So all in all, I’m feeling motivated, you see?</Content>
+          <Content>เพราะฉะนั้น ฉันเลยมีแรงจูงใจยังไงล่ะ</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland15</VoiceFile>
-          <Content>You’ve got quite the flexible mindset, huh.</Content>
+          <Content>เป็นชุดความคิดที่หยืดยุ่นชะมัดเลย</Content>
         </Dialog>
         <Dialog ID="33" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed19</VoiceFile>
-          <Content>Everything’s better than before.</Content>
+          <Content>ทุกๆสิ่งตอนนี้ดีกว่าที่เคยเป็นมา</Content>
         </Dialog>
         <Dialog ID="34" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed20</VoiceFile>
-          <Content>Maybe this is mercy of some kind.</Content>
+          <Content>บางทีนี่อาจจะเป็นความเมตตาก็ได้</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland16</VoiceFile>
-          <Content>From who? Our Miss Library Director?</Content>
+          <Content>จากใครล่ะ? คุณผู้จัดการห้องสมุดใช่ม๊า?</Content>
         </Dialog>
         <Dialog ID="36" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed21</VoiceFile>
-          <Content>It’s hard for me to believe, of course, but I sometimes think she might have done this for us.</Content>
+          <Content>ถึงจะเหลือเชื่อไปหน่อย แต่บางครั้งฉันเคยคิดในใจว่า เธอทำทุกอย่างก็เพื่อพวกเรา.</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland17</VoiceFile>
-          <Content>Eh, I’m not so sure.</Content>
+          <Content>เอ่อ ไม่แน่ใจแหะ</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland18</VoiceFile>
-          <Content>Angela’s goals and where her anger comes from seem pretty clear to me at this point.</Content>
+          <Content>เป้าหมายของแองเจล่า กับเหตุผลของความแค้นพวกนั้น ค่อนข้างจะกระจ่างแล้วสำหรับฉัน</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland19</VoiceFile>
-          <Content>I don’t think there’s any mercy in the path she’s trying to take.</Content>
+          <Content>ฉันไม่คิดว่าทางที่เธอเลือกเดิน จะมีความเมตตาให้เห็นแม้แต่เสี้ยวเดียว</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland20</VoiceFile>
-          <Content>Mmh, this macchiato sure is tasty. It’s almost addicting.</Content>
+          <Content>อืม มัคคิอาโต้นี่อร่อยจริงๆ เสพติดได้เลยนะเนี้ย</Content>
         </Dialog>
         <Dialog ID="41" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed22</VoiceFile>
-          <Content>I’ll introduce you to other types of coffee from time to time~</Content>
+          <Content>งั้นต่อจากนี้ฉันจะเอากาแฟหลายๆแบบมาให้ลองล่ะกันนะ~</Content>
         </Dialog>
         <Dialog ID="42" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed23</VoiceFile>
-          <Content>Let’s get to know each other little by little.</Content>
+          <Content>มารู้จักกันและกันไปทีละนิดกันดีกว่า</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep2_roland21</VoiceFile>
-          <Content>Fine by me. I’ll look forward to it.</Content>
+          <Content>ได้สิ ฉันจะรอนะ</Content>
         </Dialog>
       </Place>
     </Episode>
