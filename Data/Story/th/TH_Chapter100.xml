@@ -481,7 +481,7 @@
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth2</VoiceFile>
-          <Content>มันไม่ใช่แค่ "เกี่ยวข้องกันเท่านั้น" ฉันเคยเป็นเอไอ ที่ดูแลทีมควบคุมของโลโบโทีมีคอร์ปน่ะ</Content>
+          <Content>มันไม่ใช่แค่ "เกี่ยวข้องกันเท่านั้น" ฉันเคยเป็นเอไอ ที่ดูแลทีมควบคุมของโลโบโทมีคอร์ปน่ะ</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -791,124 +791,124 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Lobotomy Corporation Headquarters</PlaceName>
+        <PlaceName>สถานที่: สถานที่: ศูนย์ใหญ่โลโบโตมี่ คอร์เปอเรชั่น</PlaceName>
         <Dialog ID="56" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela7</VoiceFile>
           <Content>เพราะงั้น ฉันอยากให้พวกเธอ เข้าสู่สภาวะหลับไหล</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela8</VoiceFile>
           <Content>…ทำไมพวกเธอทำหน้าแบบนั้นล่ะ?</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela9</VoiceFile>
           <Content>นี่เป็นสิ่งที่พวกเธอโหยหากันมาโดยตลอดนะ</Content>
         </Dialog>
         <Dialog ID="59" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth33</VoiceFile>
           <Content>เราจะปล่อยให้เธอทำแบบนั้นไม่ได้นะ! พวกเราพยายามอย่างหนักเพื่อให้สิ่งนี้เกิดขึ้น!</Content>
         </Dialog>
         <Dialog ID="60" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela10</VoiceFile>
           <Content>พยายามอย่างหนัก…</Content>
         </Dialog>
         <Dialog ID="61" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela11</VoiceFile>
           <Content>ตลกดีนะ พวกเธอคิดว่าสิ่งที่พวกเธอทำนั้นเรียกว่า “พยายามอย่างหนัก” จริงๆหรอ?</Content>
         </Dialog>
         <Dialog ID="62" Model="게부라">
           <Teller>เกบูร่า</Teller>
-          <Title>Disciplinary Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Malkuth_ep3_gebura1</VoiceFile>
           <Content>We’re not going to sit still and let you take away our light.</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela12</VoiceFile>
           <Content>“Our” light?</Content>
         </Dialog>
         <Dialog ID="64" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Welfare Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Malkuth_ep3_chesed1</VoiceFile>
           <Content>You’re not the boss. And I would never listen to you even if you were.</Content>
         </Dialog>
         <Dialog ID="65" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela13</VoiceFile>
           <Content>Of course you won’t. You’re still loyal to that man.</Content>
         </Dialog>
         <Dialog ID="66" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
-          <Title>Central Command Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยสั่งการกลาง</Title>
           <VoiceFile>ch8_Malkuth_ep3_tiphereth1</VoiceFile>
           <Content>I won’t let you rob me of the meaning I finally found.</Content>
         </Dialog>
         <Dialog ID="67" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela14</VoiceFile>
           <Content>No one is by my side as I expected.</Content>
         </Dialog>
         <Dialog ID="68" Model="비나">
           <Teller>บินาห์</Teller>
-          <Title>Extraction Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Malkuth_ep3_binah1</VoiceFile>
           <Content>Do not feel so lonesome, now.</Content>
         </Dialog>
         <Dialog ID="69" Model="비나">
           <Teller>บินาห์</Teller>
-          <Title>Extraction Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Malkuth_ep3_binah2</VoiceFile>
           <Content>I shall stand by your side if no one else wills to.</Content>
         </Dialog>
         <Dialog ID="70" Model="게부라">
           <Teller>เกบูร่า</Teller>
-          <Title>Disciplinary Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Malkuth_ep3_gebura2</VoiceFile>
           <Content>Damn it! Binah… Even in the end, you’re…</Content>
         </Dialog>
         <Dialog ID="71" Model="비나">
           <Teller>บินาห์</Teller>
-          <Title>Extraction Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Malkuth_ep3_binah3</VoiceFile>
           <Content>This must be yet another consequence of his actions. I simply acknowledge all events as valid.</Content>
         </Dialog>
         <Dialog ID="72" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela15</VoiceFile>
           <Content>I would have shed a tear of gratitude for you if I could.</Content>
         </Dialog>
         <Dialog ID="73" Model="비나">
           <Teller>บินาห์</Teller>
-          <Title>Extraction Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Malkuth_ep3_binah4</VoiceFile>
           <Content>Feel free to act upon your wishes.</Content>
         </Dialog>
         <Dialog ID="74" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Record Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยทะเบียน</Title>
           <VoiceFile>ch8_Malkuth_ep3_hokma1</VoiceFile>
           <Content>Angela… A machine consumed by desires… You cannot take this path!</Content>
         </Dialog>
         <Dialog ID="75" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela16</VoiceFile>
           <Content>I decide what I can or can’t do now.</Content>
         </Dialog>
@@ -3008,46 +3008,46 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Lobotomy Corporation Headquarters</PlaceName>
+        <PlaceName>สถานที่: สถานที่: ศูนย์ใหญ่โลโบโตมี่ คอร์เปอเรชั่น</PlaceName>
         <Dialog ID="50" Model="게부라">
           <Teller>เกบูร่า</Teller>
-          <Title>Disciplinary Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Yesod_ep3_gebura1</VoiceFile>
           <Content>Huff… huff…</Content>
         </Dialog>
         <Dialog ID="51" Model="비나">
           <Teller>บินาห์</Teller>
-          <Title>Extraction Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah1</VoiceFile>
           <Content>Fatigued already? What a shame, my employees and I are up for more.</Content>
         </Dialog>
         <Dialog ID="52" Model="게부라">
           <Teller>เกบูร่า</Teller>
-          <Title>Disciplinary Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Yesod_ep3_gebura2</VoiceFile>
           <Content>Don’t be ridiculous. I’ll kill you for sure this time.</Content>
         </Dialog>
         <Dialog ID="53" Model="예소드">
           <Teller>เยซอทด์</Teller>
-          <Title>Information Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยข่าวกรอง</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod32</VoiceFile>
           <Content>บินาห์! Not even you will manage to break through our combined effort.</Content>
         </Dialog>
         <Dialog ID="54" Model="비나">
           <Teller>บินาห์</Teller>
-          <Title>Extraction Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah2</VoiceFile>
           <Content>You raise a valid concern. It is true, even I cannot stop all of you in such a short time.</Content>
         </Dialog>
         <Dialog ID="55" Model="비나">
           <Teller>บินาห์</Teller>
-          <Title>Extraction Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah3</VoiceFile>
           <Content>We will need to act quickly, Angela.</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Yesod_ep3_angela1</VoiceFile>
           <Content>I was just about to do something about it.</Content>
         </Dialog>
@@ -3058,7 +3058,7 @@
         </Dialog>
         <Dialog ID="58" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Welfare Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Yesod_ep3_chesed1</VoiceFile>
           <Content>Aw, shucks! The Qliphoth Deterrence is being lowered. She’s overriding my authority on the system…</Content>
         </Dialog>
@@ -3069,127 +3069,127 @@
         </Dialog>
         <Dialog ID="60" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
-          <Title>Safety Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยรักษา</Title>
           <VoiceFile>ch8_Yesod_ep3_netzach1</VoiceFile>
           <Content>The Abnormalities are breaching…</Content>
         </Dialog>
         <Dialog ID="61" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth1</VoiceFile>
           <Content>All Sephirot and personnel, please follow my lead!</Content>
         </Dialog>
         <Dialog ID="62" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth2</VoiceFile>
           <Content>The Control Team will be in command now!</Content>
         </Dialog>
         <Dialog ID="63" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth3</VoiceFile>
           <Content>Hokma and the Architecture Team, please stop Angela from taking over all the systems!</Content>
         </Dialog>
         <Dialog ID="64" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Record Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยทะเบียน</Title>
           <VoiceFile>ch8_Yesod_ep3_hokma1</VoiceFile>
           <Content>Understood.</Content>
         </Dialog>
         <Dialog ID="65" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth4</VoiceFile>
-          <Content>Gebura and the Disciplinary Team, please keep บินาห์ at bay!</Content>
+          <Content>เกบูรา and the Disciplinary Team, please keep บินาห์ at bay!</Content>
         </Dialog>
         <Dialog ID="66" Model="게부라">
           <Teller>เกบูร่า</Teller>
-          <Title>Disciplinary Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Yesod_ep3_gebura3</VoiceFile>
           <Content>You bet… Leave this to me.</Content>
         </Dialog>
         <Dialog ID="67" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth5</VoiceFile>
           <Content>Hod and the Training Team, provide the employees with the right manual and information!</Content>
         </Dialog>
         <Dialog ID="68" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Yesod_ep3_hod1</VoiceFile>
           <Content>Attention to all employees! This is a type-X emergency protocol.</Content>
         </Dialog>
         <Dialog ID="69" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Yesod_ep3_hod2</VoiceFile>
           <Content>Please act accordingly to the following instructions!</Content>
         </Dialog>
         <Dialog ID="70" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth6</VoiceFile>
           <Content>Netzach and the Safety Team, please focus on treating the wounded.</Content>
         </Dialog>
         <Dialog ID="71" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
-          <Title>Safety Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยรักษา</Title>
           <VoiceFile>ch8_Yesod_ep3_netzach2</VoiceFile>
           <Content>Aight. I’ll try to take care of ‘em as quickly as I can.</Content>
         </Dialog>
         <Dialog ID="72" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth7</VoiceFile>
           <Content>Yesod and the Information Team, please identify the weaknesses of the escaping Abnormalities right away!</Content>
         </Dialog>
         <Dialog ID="73" Model="예소드">
           <Teller>เยซอทด์</Teller>
-          <Title>Information Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยข่าวกรอง</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod33</VoiceFile>
           <Content>I will analyze them all with the utmost precision.</Content>
         </Dialog>
         <Dialog ID="74" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth8</VoiceFile>
           <Content>Chesed and the Welfare Team, please work on restoring the Qliphoth Deterrence as soon as possible.</Content>
         </Dialog>
         <Dialog ID="75" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Welfare Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Yesod_ep3_chesed2</VoiceFile>
           <Content>Will do. This one is my fault, after all…</Content>
         </Dialog>
         <Dialog ID="76" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth9</VoiceFile>
           <Content>No time to feel guilty, Chesed!</Content>
         </Dialog>
         <Dialog ID="77" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth10</VoiceFile>
           <Content>Tiphereth and the Central Command Team, please support everyone with your resourcefulness!</Content>
         </Dialog>
         <Dialog ID="78" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
-          <Title>Central Command Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยสั่งการกลาง</Title>
           <VoiceFile>ch8_Yesod_ep3_tiphereth1</VoiceFile>
           <Content>I was gonna! No need to say it!</Content>
         </Dialog>
         <Dialog ID="79" Model="비나">
           <Teller>บินาห์</Teller>
-          <Title>Extraction Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah4</VoiceFile>
           <Content>It brings me joy to see you all act in such coordination.</Content>
         </Dialog>
         <Dialog ID="80" Model="비나">
           <Teller>บินาห์</Teller>
-          <Title>Extraction Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah5</VoiceFile>
           <Content>Now, try and stop us till the end.</Content>
         </Dialog>
@@ -5212,124 +5212,124 @@ I appreciate your help, everyone.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Lobotomy Corporation Headquarters</PlaceName>
+        <PlaceName>สถานที่: สถานที่: ศูนย์ใหญ่โลโบโตมี่ คอร์เปอเรชั่น</PlaceName>
         <Dialog ID="56" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep3_angela1</VoiceFile>
           <Content>We’ve already spent two days on this stalemate.</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep3_angela2</VoiceFile>
           <Content>You’re holding up much better than I expected.</Content>
         </Dialog>
         <Dialog ID="58" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Hod_ep3_malkuth1</VoiceFile>
           <Content>Of course we are! Did you really think we’d go to sleep just because you told us to?</Content>
         </Dialog>
         <Dialog ID="59" Model="비나">
           <Teller>บินาห์</Teller>
-          <Title>Extraction Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Hod_ep3_binah1</VoiceFile>
           <Content>However, it is only a matter of time.</Content>
         </Dialog>
         <Dialog ID="60" Model="게부라">
           <Teller>เกบูร่า</Teller>
-          <Title>Disciplinary Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Hod_ep3_gebura1</VoiceFile>
           <Content>Hrk… And time is what matters to you most right now.</Content>
         </Dialog>
         <Dialog ID="61" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep3_hod32</VoiceFile>
           <Content>Our employees have sustained too much damage…</Content>
         </Dialog>
         <Dialog ID="62" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
-          <Title>Safety Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยรักษา</Title>
           <VoiceFile>ch8_Hod_ep3_netzach1</VoiceFile>
           <Content>The regenerators are at their limits, too…</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep3_angela3</VoiceFile>
           <Content>I put up with the play for such a long time, I could pass a day or two in an instant.</Content>
         </Dialog>
         <Dialog ID="64" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep3_angela4</VoiceFile>
           <Content>But the last two days have felt so long and slow.</Content>
         </Dialog>
         <Dialog ID="65" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Record Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยทะเบียน</Title>
           <VoiceFile>ch8_Hod_ep3_hokma1</VoiceFile>
           <Content>Angela, your filthy deed born out of your personal desire shall never be brought to fruition.</Content>
         </Dialog>
         <Dialog ID="66" Model="게부라">
           <Teller>เกบูร่า</Teller>
-          <Title>Disciplinary Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Hod_ep3_gebura2</VoiceFile>
           <Content>Arrrgh!</Content>
         </Dialog>
         <Dialog ID="67" Model="비나">
           <Teller>บินาห์</Teller>
-          <Title>Extraction Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Hod_ep3_binah2</VoiceFile>
-          <Content>The circumstances are no longer the same as before, Gebura. I am now aware of the existence of E.G.O and its capabilities.</Content>
+          <Content>The circumstances are no longer the same as before, เกบูรา. I am now aware of the existence of E.G.O and its capabilities.</Content>
         </Dialog>
         <Dialog ID="68" Model="예소드">
           <Teller>เยซอทด์</Teller>
-          <Title>Information Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยข่าวกรอง</Title>
           <VoiceFile>ch8_Hod_ep3_yesod1</VoiceFile>
           <Content>All employees from the Welfare and Disciplinary Teams have fallen…</Content>
         </Dialog>
         <Dialog ID="69" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep3_angela5</VoiceFile>
           <Content>You’ll never get to spread the light for those seven days you all planned.</Content>
         </Dialog>
         <Dialog ID="70" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep3_angela6</VoiceFile>
           <Content>It would last… hmm, perhaps four days at most?</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep3_angela7</VoiceFile>
           <Content>And I’d be left with only two or three days’ worth of light for myself.</Content>
         </Dialog>
         <Dialog ID="72" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep3_angela8</VoiceFile>
           <Content>In any case, none of us will have won this battle.</Content>
         </Dialog>
         <Dialog ID="73" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Record Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยทะเบียน</Title>
           <VoiceFile>ch8_Hod_ep3_hokma2</VoiceFile>
           <Content>What is your point…?</Content>
         </Dialog>
         <Dialog ID="74" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep3_angela9</VoiceFile>
           <Content>I’d like to make a proposal.</Content>
         </Dialog>
         <Dialog ID="75" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep3_angela10</VoiceFile>
           <Content>…I want to live, you see.</Content>
         </Dialog>
@@ -6133,133 +6133,133 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="49" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela13</VoiceFile>
           <Content>Greetings. I am Angela, the AI tasked with the general management of this facility.</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela14</VoiceFile>
           <Content>You must be the Sephirot who will be helping me out with work. Nice to meet you.</Content>
         </Dialog>
         <Dialog ID="51" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod31</VoiceFile>
           <Content>Nice to meet you… Lady Angela.</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela15</VoiceFile>
           <Content>You can just call me Angela. We’re in the same boat, so let’s be more comfortable with each other.</Content>
         </Dialog>
         <Dialog ID="53" Model="예소드">
           <Teller>เยซอทด์</Teller>
-          <Title>Information Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยข่าวกรอง</Title>
           <VoiceFile>ch8_Hod_ep5_Yesod1_b</VoiceFile>
           <Content>Well then, Angela, is there anything we can do?</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela16</VoiceFile>
           <Content>We have a number of things to take care of before the manager arrives someday.</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela17</VoiceFile>
           <Content>You can do it, Malkuth. There’s no need to rush.</Content>
         </Dialog>
         <Dialog ID="56" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Hod_ep5_Malkuth1-01</VoiceFile>
           <Content>Thanks, Angela! I’ll do my best!</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela18</VoiceFile>
           <Content>Yeah. I’m cheering for you.</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela19</VoiceFile>
           <Content>Netzach! Don’t be such a slacker now!</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela20</VoiceFile>
           <Content>We have plenty of things to prepare until the manager arrives and the work begins.</Content>
         </Dialog>
         <Dialog ID="60" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
-          <Title>Safety Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยรักษา</Title>
           <VoiceFile>ch8_Hod_ep5_Netzach1</VoiceFile>
           <Content>Yes, ma’am~ I’ll try.</Content>
         </Dialog>
         <Dialog ID="61" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela21</VoiceFile>
           <Content>What’s up, Hod?</Content>
         </Dialog>
         <Dialog ID="62" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod32-01</VoiceFile>
           <Content>Umm… You know, I…</Content>
         </Dialog>
         <Dialog ID="63" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod33-01</VoiceFile>
           <Content>I wanna start a counseling program for the employees…</Content>
         </Dialog>
         <Dialog ID="64" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod34-01</VoiceFile>
           <Content>You know, working in this place can be a bit too rough for most people.</Content>
         </Dialog>
         <Dialog ID="65" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela22</VoiceFile>
           <Content>That’s a good idea. Employees will be able to cheer up with your help.</Content>
         </Dialog>
         <Dialog ID="66" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Welfare Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed1</VoiceFile>
           <Content>Angela, can you have a look at this?</Content>
         </Dialog>
         <Dialog ID="67" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Welfare Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed2</VoiceFile>
           <Content>I tried designing some efficient methods to improve the welfare of our employees.</Content>
         </Dialog>
         <Dialog ID="68" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Welfare Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed3</VoiceFile>
           <Content>The things written here could prevent our employees from helplessly dying to Abnormalities.</Content>
         </Dialog>
         <Dialog ID="69" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela23</VoiceFile>
           <Content>Thanks. I’ll consider your suggestion.</Content>
         </Dialog>
         <Dialog ID="70" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela24</VoiceFile>
           <Content>I’ve been thinking if there’s any way to reduce the casualty rate, too.</Content>
         </Dialog>
@@ -6271,13 +6271,13 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="72" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela25</VoiceFile>
           <Content>What…?</Content>
         </Dialog>
         <Dialog ID="73" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela26</VoiceFile>
           <Content>Did I do something wrong?</Content>
         </Dialog>
@@ -6295,49 +6295,49 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="76" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela27</VoiceFile>
           <Content>You’re all back!</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela28</VoiceFile>
           <Content>The facility was shaking so hard, I was worried something might have happened to you.</Content>
         </Dialog>
         <Dialog ID="78" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Hod_ep5_Malkuth2-01</VoiceFile>
           <Content>Uh, nice to meet you, ma’am…?</Content>
         </Dialog>
         <Dialog ID="79" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod35</VoiceFile>
           <Content>Umm… Who are you?</Content>
         </Dialog>
         <Dialog ID="80" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela29</VoiceFile>
           <Content>I see. Only I remember all this…</Content>
         </Dialog>
         <Dialog ID="81" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela30</VoiceFile>
           <Content>And you guys have to start over from the beginning…</Content>
         </Dialog>
         <Dialog ID="82" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela31</VoiceFile>
           <Content>Once again, nice to meet you.</Content>
         </Dialog>
         <Dialog ID="83" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela32</VoiceFile>
           <Content>I’m simply Angela.</Content>
         </Dialog>
@@ -6349,49 +6349,49 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela33</VoiceFile>
           <Content>Careful, Hod. I’m okay with you setting up counseling…</Content>
         </Dialog>
         <Dialog ID="86" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela34</VoiceFile>
           <Content>But I don’t want you to get hurt doing it.</Content>
         </Dialog>
         <Dialog ID="87" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod36-01</VoiceFile>
           <Content>Okay! Thanks for your concern, Angela!</Content>
         </Dialog>
         <Dialog ID="88" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela35</VoiceFile>
           <Content>Chesed… I’m sorry, but I don’t think we can implement the method you suggested…</Content>
         </Dialog>
         <Dialog ID="89" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela36</VoiceFile>
           <Content>If we did, we’d have to start over…</Content>
         </Dialog>
         <Dialog ID="90" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Welfare Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed4</VoiceFile>
           <Content>What? What do you mean, start over?</Content>
         </Dialog>
         <Dialog ID="91" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela37</VoiceFile>
           <Content>I’m sorry… I don’t want to treat employees like expendables, either…</Content>
         </Dialog>
         <Dialog ID="92" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela38</VoiceFile>
           <Content>But…</Content>
         </Dialog>
@@ -6403,103 +6403,103 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="94" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod37</VoiceFile>
           <Content>Umm… Angela.</Content>
         </Dialog>
         <Dialog ID="95" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela39</VoiceFile>
           <Content>It’s the counseling program, right?</Content>
         </Dialog>
         <Dialog ID="96" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela40</VoiceFile>
           <Content>Here’s my proposal for an efficient way to run your program. What do you think?</Content>
         </Dialog>
         <Dialog ID="97" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod38-01</VoiceFile>
           <Content>You’re awesome, Angela!</Content>
         </Dialog>
         <Dialog ID="98" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod39-01</VoiceFile>
           <Content>You’re the only one who really gets me…</Content>
         </Dialog>
         <Dialog ID="99" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela41</VoiceFile>
           <Content>This is the most I can do without deviating from the script…</Content>
         </Dialog>
         <Dialog ID="100" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod40</VoiceFile>
           <Content>Huh? Script…?</Content>
         </Dialog>
         <Dialog ID="101" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela42</VoiceFile>
           <Content>It’s nothing for you to worry about.</Content>
         </Dialog>
         <Dialog ID="102" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Welfare Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed5</VoiceFile>
           <Content>How does this look, Angela? Think it could work?</Content>
         </Dialog>
         <Dialog ID="103" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela43</VoiceFile>
           <Content>I’m afraid we can’t employ your method to improve employee welfare, but…</Content>
         </Dialog>
         <Dialog ID="104" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela44</VoiceFile>
           <Content>How about this? I tried coming up with a method of my own.</Content>
         </Dialog>
         <Dialog ID="105" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod41-02</VoiceFile>
           <Content>Angela! Thank you… It’s all thanks to you!</Content>
         </Dialog>
         <Dialog ID="106" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod42</VoiceFile>
           <Content>I could save Tiffany with the counseling practices you suggested…</Content>
         </Dialog>
         <Dialog ID="107" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela45</VoiceFile>
           <Content>That’s great. I hope everything else goes well, too…</Content>
         </Dialog>
         <Dialog ID="108" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Welfare Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed6</VoiceFile>
           <Content>You’re great, Angela. With this method, our employees will no longer have to suffer meaningless deaths.</Content>
         </Dialog>
         <Dialog ID="109" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela46</VoiceFile>
           <Content>Yeah…</Content>
         </Dialog>
         <Dialog ID="110" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela47</VoiceFile>
           <Content>Hopefully…</Content>
         </Dialog>
@@ -6511,13 +6511,13 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="112" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela48</VoiceFile>
           <Content>I knew it… Yet again…</Content>
         </Dialog>
         <Dialog ID="113" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela49</VoiceFile>
           <Content>I suppose it was presumptuous of me to cross the lines again.</Content>
         </Dialog>
@@ -6571,31 +6571,31 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="122" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod43-01</VoiceFile>
           <Content>Um…</Content>
         </Dialog>
         <Dialog ID="123" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela56</VoiceFile>
           <Content>Here to ask about your counseling program, aren’t you?</Content>
         </Dialog>
         <Dialog ID="124" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod44-01</VoiceFile>
           <Content>Yeah…! I wanna help out the employees.</Content>
         </Dialog>
         <Dialog ID="125" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela57</VoiceFile>
           <Content>Let me tell you one thing, then.</Content>
         </Dialog>
         <Dialog ID="126" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela58</VoiceFile>
           <Content>The result will be the same anyway.</Content>
         </Dialog>
@@ -6607,43 +6607,43 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="128" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela60</VoiceFile>
           <Content>Alright, everyone. Pay attention.</Content>
         </Dialog>
         <Dialog ID="129" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela61</VoiceFile>
           <Content>The manager will be here as of today.</Content>
         </Dialog>
         <Dialog ID="130" Model="예소드">
           <Teller>เยซอทด์</Teller>
-          <Title>Information Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยข่าวกรอง</Title>
           <VoiceFile>ch8_Hod_ep5_Yesod2-01_b</VoiceFile>
           <Content>This means that person will be in charge of managing everything about this facility.</Content>
         </Dialog>
         <Dialog ID="131" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
-          <Title>Safety Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยรักษา</Title>
           <VoiceFile>ch8_Hod_ep5_Netzach2-01</VoiceFile>
           <Content>Sigh… Whoever it is, everyone will die anyway…</Content>
         </Dialog>
         <Dialog ID="132" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela62</VoiceFile>
           <Content>I know that you aren’t particularly fond of me.</Content>
         </Dialog>
         <Dialog ID="133" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela63</VoiceFile>
           <Content>But I’m certain our new manager will be able to bring change to this place.</Content>
         </Dialog>
         <Dialog ID="134" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod45-01</VoiceFile>
           <Content>All of you would be dead by now if I hadn’t helped you!</Content>
         </Dialog>
@@ -6655,13 +6655,13 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="136" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela64</VoiceFile>
           <Content>Hod… What’s wrong?</Content>
         </Dialog>
         <Dialog ID="137" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela65</VoiceFile>
           <Content>Manager! Something isn’t right with Hod!</Content>
         </Dialog>
@@ -6673,13 +6673,13 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="139" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod46-02</VoiceFile>
           <Content>Why won’t they appreciate my kindness?</Content>
         </Dialog>
         <Dialog ID="140" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod47-01</VoiceFile>
           <Content>I’m different! I really do care about them! Why does everyone hate me?</Content>
         </Dialog>
@@ -6691,25 +6691,25 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="142" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela66</VoiceFile>
           <Content>Meltdowns… I see, this is what the script meant…</Content>
         </Dialog>
         <Dialog ID="143" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela67</VoiceFile>
           <Content>She’s in so much pain, but…</Content>
         </Dialog>
         <Dialog ID="144" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela68</VoiceFile>
           <Content>I can’t do anything to help her…</Content>
         </Dialog>
         <Dialog ID="145" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela69</VoiceFile>
           <Content>It’s all up to the manager…</Content>
         </Dialog>
@@ -6739,67 +6739,67 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="150" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela73</VoiceFile>
           <Content>I’m Angela, and all you have to do is follow my orders.</Content>
         </Dialog>
         <Dialog ID="151" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela74</VoiceFile>
           <Content>I’m in control here.</Content>
         </Dialog>
         <Dialog ID="152" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod48</VoiceFile>
           <Content>Yes… Lady Angela.</Content>
         </Dialog>
         <Dialog ID="153" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela75</VoiceFile>
           <Content>If you ever want to run counseling programs or anything, feel free.</Content>
         </Dialog>
         <Dialog ID="154" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela76</VoiceFile>
           <Content>There is no need to ask me for every little thing.</Content>
         </Dialog>
         <Dialog ID="155" Model="예소드">
           <Teller>เยซอทด์</Teller>
-          <Title>Information Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยข่าวกรอง</Title>
           <VoiceFile>ch8_Hod_ep5_Yesod3-02_b</VoiceFile>
           <Content>You are the only one among us to have the semblance of a human, yet you act just like a heartless monster.</Content>
         </Dialog>
         <Dialog ID="156" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
-          <Title>Central Command Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยสั่งการกลาง</Title>
           <VoiceFile>ch8_Hod_ep5_Tiphereth1</VoiceFile>
           <Content>Why does Tiphereth have to die all the time?! Just why?!</Content>
         </Dialog>
         <Dialog ID="157" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela77</VoiceFile>
           <Content>You’re really starting to act like a child now, Tiphereth.</Content>
         </Dialog>
         <Dialog ID="158" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
-          <Title>Central Command Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยสั่งการกลาง</Title>
           <VoiceFile>ch8_Hod_ep5_Tiphereth2</VoiceFile>
           <Content>Tiphereth, Tiphereth, I’m sorry… Tiphereth…</Content>
         </Dialog>
         <Dialog ID="159" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Welfare Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed7</VoiceFile>
           <Content>That’s just… How could you be so cruel…</Content>
         </Dialog>
         <Dialog ID="160" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela78</VoiceFile>
           <Content>…So, did you enjoy your little detective game?</Content>
         </Dialog>
@@ -6811,7 +6811,7 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="162" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela79</VoiceFile>
           <Content>I’m sorry that we have to meet again like this.</Content>
         </Dialog>
@@ -6829,43 +6829,43 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="165" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela80</VoiceFile>
           <Content>“Please watch me manager! I can take care of this situation, no problem!”</Content>
         </Dialog>
         <Dialog ID="166" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Hod_ep5_Malkuth3-04</VoiceFile>
           <Content>…Please watch me manager! I can take care of this situation, no problem!</Content>
         </Dialog>
         <Dialog ID="167" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela81</VoiceFile>
           <Content>“I didn’t want to open my eyes again. I just yearned to fall into the infernal pit of hell, bearing my sins on my back.”</Content>
         </Dialog>
         <Dialog ID="168" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Welfare Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed8</VoiceFile>
           <Content>…I didn’t want to open my eyes again. I just yearned to fall into the infernal pit of hell, bearing my sins on my back.</Content>
         </Dialog>
         <Dialog ID="169" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela82</VoiceFile>
           <Content>“I’m the only one who cares about them… Why would they hate me…?”</Content>
         </Dialog>
         <Dialog ID="170" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hod_ep5_Hod49-01</VoiceFile>
           <Content>…I’m the only one who cares about them… Why would they hate me…?</Content>
         </Dialog>
         <Dialog ID="171" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Hod_ep5_Angela83</VoiceFile>
           <Content>Sigh, always the exact same lines, delivered at the exact same moments.</Content>
         </Dialog>
@@ -7281,7 +7281,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep1_roland7</VoiceFile>
-          <Content>ฉันขอพนันเลยว่า แองเจล่าต้องเป็นคนสร้างคลื่นนั่นแน่</Content>
+          <Content>ขอพนันเลยว่าแองเจล่าเป็นคนสร้างคลื่นนั่นแน่</Content>
         </Dialog>
         <Dialog ID="11" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
@@ -7743,296 +7743,296 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland9</VoiceFile>
-          <Content>They seem to be mistaking any stimulation that’s stronger than usual for art. Just like how I’m praising this drink as a work of art.</Content>
+          <Content>พวกนั้นคิดผิดไปว่าการกระตุ้นอะไรที่แรงกว่าปกติเป็นศิลปะไปหมด เหมือนที่ฉันชื่นชมเหล้านี่ว่าเป็นงานศิลปะ</Content>
         </Dialog>
         <Dialog ID="18" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach10</VoiceFile>
-          <Content>The Pianist must’ve been one hell of a stimulant, then.</Content>
+          <Content>นักเปียโนคงกระตุ้นได้สุดยอดแน่แท้</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach11</VoiceFile>
-          <Content>I heard that its music was a hair-raising masterpiece that awoke this gray city from its ennui.</Content>
+          <Content>ฉันได้ยินว่าเพลงของมันนั้นเป็นผลงานชิ้นเอกที่ปลุกนครสีเทานี้จากความเหนื่อยหน่าย</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland10</VoiceFile>
-          <Content>Well, the intensity was unprecedented, that’s for sure.</Content>
+          <Content>ก็นะ ที่แน่ๆ คือความรุนแรงนั้นเป็นประวัติการณ์เลย</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland11</VoiceFile>
-          <Content>And some are still hungover from that performance, like they were slammed with a real strong booze.</Content>
+          <Content>และบางคนยังมีอาการค้างจากการแสดงนั้นไม่หาย เหมือนกับว่าได้ดื่มเหล้าแรงจัดๆเข้าไป</Content>
         </Dialog>
         <Dialog ID="22" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach12</VoiceFile>
-          <Content>How about you?</Content>
+          <Content>แล้วนายล่ะ</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland12</VoiceFile>
-          <Content>I must be one of ‘em, I suppose? I never heard that kind of music before.</Content>
+          <Content>คงเป็นหนึ่งในพวกนั้นล่ะมั้ง ฉันไม่เคยได้ยินเพลงแบบนั้นมาก่อนเลย</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland13</VoiceFile>
-          <Content>I guess you’ve taken a liking to arts, seeing as you’re talking about all this.</Content>
+          <Content>ฉันเดาว่านายเริ่มชอบศิลปะสินะ นายถึงได้พูดเรื่องทั้งหมดนี้น่ะ</Content>
         </Dialog>
         <Dialog ID="25" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach13</VoiceFile>
-          <Content>True. If I could choose to live a different life, I might have been a painter or something.</Content>
+          <Content>จริง ถ้าฉันสามารถเลือกใช้ชีวิตแบบอื่นได้ ฉันคงเป็นจิตรกรหรืออะไรแบบนั้น</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland14</VoiceFile>
-          <Content>Painter, huh…</Content>
+          <Content>จิตรกรงั้นเหรอ…</Content>
         </Dialog>
         <Dialog ID="27" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach14</VoiceFile>
-          <Content>I’d be able to quietly express all my emotions on the painting.</Content>
+          <Content>ฉันจะสามารถปล่อยอารมณ์ทั้งหมดในรูปวาดได้อย่างเงียบๆ.</Content>
         </Dialog>
         <Dialog ID="28" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach15</VoiceFile>
-          <Content>Maybe I could’ve lived a humble life just like that.</Content>
+          <Content>บางทีฉันใช้ชีวิตสมถะแบบนั้นก็ได้</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland15</VoiceFile>
-          <Content>And how’d a modest man like yourself end up getting involved in something as grandiose as “curing humanity”?</Content>
+          <Content>แล้วคนสมถะแบบนายมาเกี่ยวข้องกับเรื่องยิ่งใหญ่อย่าง “รักษามนุษยชาติ” ได้ยังไง</Content>
         </Dialog>
         <Dialog ID="30" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach16</VoiceFile>
-          <Content>It really is a mystery. I’m not even sure. I think I wanted to be of help to someone.</Content>
+          <Content>มันก็เป็นปริศนา ฉันเองก็ไม่แน่ใจ ฉันคิดว่าฉันอยากช่วยเหลือใครบางคนล่ะมั้ง</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep3_roland16</VoiceFile>
-          <Content>Ooh, a someone? Perhaps your first love~?</Content>
+          <Content>อุ๊ว ใครเหรอ? หรือว่าจะเป็นรักแรกนายล่ะ~?</Content>
         </Dialog>
         <Dialog ID="32" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach17</VoiceFile>
-          <Content>Was it love, really? Even if it were, it wouldn’t have worked out anyway.</Content>
+          <Content>มันใช่รักเหรอ? ถึงแม้ว่าจะใช่ แต่มันก็ไม่รุ่งอยู่ดี</Content>
         </Dialog>
         <Dialog ID="33" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach18</VoiceFile>
-          <Content>But I was still holding onto the hope that I could make something better.</Content>
+          <Content>แต่ฉันยังยึดความหวังที่ว่าฉันสามารถทำอะไรให้ดีขึ้นได้</Content>
         </Dialog>
         <Dialog ID="34" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach19</VoiceFile>
-          <Content>That if I let go of my life, I could bring a bigger hope to some other person.</Content>
+          <Content>ว่าถ้าฉันปล่อยวางชีวิตฉัน ฉันจะสามารถนำความหวังที่ใหญ่กว่าให้ใครบางคนได้</Content>
         </Dialog>
         <Dialog ID="35" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach20</VoiceFile>
-          <Content>That’s why I participated in the research. That’s why I stood against Angela.</Content>
+          <Content>นั่นคือทำไมว่าฉันเข้าร่วมงานวิจัย นั่นคือทำไมฉันถืงต่อต้านแองเจล่า</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Lobotomy Corporation Headquarters</PlaceName>
+        <PlaceName>สถานที่: สถานที่: ศูนย์ใหญ่โลโบโตมี่ คอร์เปอเรชั่น</PlaceName>
         <Dialog ID="36" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela1</VoiceFile>
-          <Content>Isn’t it about time we ended this stalemate?</Content>
+          <Content>มันไม่ใช่เวลาที่เราต้องจบการเสมอนี้สักทีเหรอ</Content>
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela2</VoiceFile>
-          <Content>We’re at the dawn of the fourth day. If you are to drag on any further, I’ll be left with no choice but to terminate all of you instantly.</Content>
+          <Content>เรามาถึงเช้าของวันที่สี่ ถ้าพวกเธอยังจะยืดออกไปอีก ฉันคงไม่มีทางเลือกอื่นนอกจากปิดการใช้งานพวกเธอทันที</Content>
         </Dialog>
         <Dialog ID="38" Model="게부라">
           <Teller>เกบูร่า</Teller>
-          <Title>Disciplinary Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Netzach_ep3_gebura1</VoiceFile>
-          <Content>I’m with you on this one. We’re never going to beat you at this rate.</Content>
+          <Content>ฉันเห็นด้วยนะ เป็นแบบนี้เราไม่ชนะเธอแน่</Content>
         </Dialog>
         <Dialog ID="39" Model="게부라">
           <Teller>เกบูร่า</Teller>
-          <Title>Disciplinary Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Netzach_ep3_gebura2</VoiceFile>
-          <Content>I didn’t fight to spread only a meager half of the light.</Content>
+          <Content>ฉันไม่ได้สู้เธอเพื่อกระจายแสงที่มีจำนวนไม่ถึงครึ่งนะ</Content>
         </Dialog>
         <Dialog ID="40" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Netzach_ep3_hod1</VoiceFile>
-          <Content>Gebura! How could you agree with her… We might lose everything.</Content>
+          <Content>เกบูรา! ไปเห็นด้วยกับเธอได้ยังไง… เราอาจเสียทุกอย่างไปนะ</Content>
         </Dialog>
         <Dialog ID="41" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
-          <Title>Central Command Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยสั่งการกลาง</Title>
           <VoiceFile>ch8_Netzach_ep3_tiphereth1</VoiceFile>
-          <Content>I’m with Angela, too. Enoch’s death deserves a better meaning than this half-baked light.</Content>
+          <Content>ฉันก็เห็นด้วยกับแองเจล่านะ การตายของอีน็อชสมควรมีความหมายมากกว่าแสงครึ่งกลางนี่</Content>
         </Dialog>
         <Dialog ID="42" Model="예소드">
           <Teller>เยซอทด์</Teller>
-          <Title>Information Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยข่าวกรอง</Title>
           <VoiceFile>ch8_Netzach_ep3_yesod1</VoiceFile>
-          <Content>I am not willing to gamble with everything we’ve worked for.</Content>
+          <Content>ฉันไม่อยากจะพนันด้วยทุกอย่างที่เราสั่งสมมานะ</Content>
         </Dialog>
         <Dialog ID="43" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Welfare Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Netzach_ep3_chesed1</VoiceFile>
           <Content>Say, Angela. If what you’re saying is true, does that mean the employees who died in this place can come back as well?</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela3</VoiceFile>
           <Content>Indeed. You and your employees will wake up with brand new bodies.</Content>
         </Dialog>
         <Dialog ID="45" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
-          <Title>Safety Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยรักษา</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach21</VoiceFile>
           <Content>That doesn’t erase all the pain we and the employees went through.</Content>
         </Dialog>
         <Dialog ID="46" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Netzach_ep3_malkuth1</VoiceFile>
           <Content>And all our hard work too…!</Content>
         </Dialog>
         <Dialog ID="47" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Record Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยทะเบียน</Title>
           <VoiceFile>ch8_Netzach_ep3_hokma1</VoiceFile>
           <Content>Even if this deal were to be put through, it will only delay the inevitable.</Content>
         </Dialog>
         <Dialog ID="48" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Record Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยทะเบียน</Title>
           <VoiceFile>ch8_Netzach_ep3_hokma2</VoiceFile>
           <Content>How can we trust you not to betray us yet again?</Content>
         </Dialog>
         <Dialog ID="49" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela4</VoiceFile>
           <Content>Betray? Don’t be absurd.</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela5</VoiceFile>
           <Content>Have we ever once gathered around a table calmly discussing what we should do with this light?</Content>
         </Dialog>
         <Dialog ID="51" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela6</VoiceFile>
           <Content>We haven’t. I’ll make sure to keep this promise, though.</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela7</VoiceFile>
           <Content>Both you and I require the light in its whole, albeit for different reasons.</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela8</VoiceFile>
           <Content>I could use up this residue of light left for me right now, but I’d much prefer to have all of it.</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela9</VoiceFile>
           <Content>So I’d like to live more. I don’t care if you want to die or not; I want to live my own life.</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela10</VoiceFile>
           <Content>And I’d like to learn more about the City and about this world I live in.</Content>
         </Dialog>
         <Dialog ID="56" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Netzach_ep3_hod2</VoiceFile>
           <Content>Angela…</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela11</VoiceFile>
           <Content>Once we’ve reclaimed all of the light…</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela12</VoiceFile>
           <Content>You are free to lay judgement upon me when that time comes.</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela13</VoiceFile>
           <Content>Though I won’t sit back, of course.</Content>
         </Dialog>
         <Dialog ID="60" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela14</VoiceFile>
           <Content>That is all I have to offer.</Content>
         </Dialog>
         <Dialog ID="61" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela15</VoiceFile>
           <Content>If no one else objects, I’ll proceed with it right away.</Content>
         </Dialog>
         <Dialog ID="62" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Record Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยทะเบียน</Title>
           <VoiceFile>ch8_Netzach_ep3_hokma3</VoiceFile>
           <Content>I shall become a sentinel once more and watch your every action…</Content>
         </Dialog>
         <Dialog ID="63" Model="비나">
           <Teller>บินาห์</Teller>
-          <Title>Extraction Team Sephirah</Title>
+          <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Netzach_ep3_binah1</VoiceFile>
           <Content>It appears that we all have come to an agreement.</Content>
         </Dialog>
         <Dialog ID="64" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela16</VoiceFile>
           <Content>Don’t worry, I have no plans to let this be the end.</Content>
         </Dialog>
         <Dialog ID="65" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep3_angela17</VoiceFile>
           <Content>Life will call out to you once again, so take a nap until then.</Content>
         </Dialog>
@@ -8884,31 +8884,31 @@ I appreciate your help, everyone.</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela17</VoiceFile>
           <Content>Can’t you hear my voice anymore? Please… answer me.</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela18</VoiceFile>
           <Content>…Why do I see only darkness?</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela19</VoiceFile>
           <Content>Why does my voice not reach you at the finale?</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela20</VoiceFile>
           <Content>…So you do not want me to be at your side, even for the finale of this play.</Content>
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
-          <Title>AI Secretary</Title>
+          <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela21</VoiceFile>
           <Content>Those who shall face the end, together with you… It seems I am not among them…</Content>
         </Dialog>
@@ -11238,7 +11238,7 @@ I appreciate your help, everyone.</Content>
     </Episode>
   </Group>
   <Group>
-    <GroupName>Gebura - Language / The Courage to Protect</GroupName>
+    <GroupName>เกบูรา - Language / The Courage to Protect</GroupName>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
@@ -12676,7 +12676,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_5</VoiceFile>
-          <Content>Kali the Red Mist, Gebura the Sephirah in L Corp, and my present self—a librarian…</Content>
+          <Content>Kali the Red Mist, เกบูรา the Sephirah in L Corp, and my present self—a librarian…</Content>
         </Dialog>
         <Dialog ID="8" Model="게부라">
           <Teller>เกบูร่า</Teller>
@@ -13198,7 +13198,7 @@ I appreciate your help, everyone.</Content>
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการหอสมุด</Title>
           <VoiceFile>ch8_Gebura_ep5_Angela_1-01</VoiceFile>
-          <Content>How do you find this occasion, Gebura?</Content>
+          <Content>How do you find this occasion, เกบูรา?</Content>
         </Dialog>
         <Dialog ID="4" Model="게부라">
           <Teller>เกบูร่า</Teller>
@@ -19743,7 +19743,7 @@ because I am certain you will never leave me.”
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Lobotomy Corporation Headquarters</PlaceName>
+        <PlaceName>สถานที่: สถานที่: ศูนย์ใหญ่โลโบโตมี่ คอร์เปอเรชั่น</PlaceName>
         <Dialog ID="46" Model="">
           <Teller />
           <Title />
@@ -19794,7 +19794,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="54" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Hokma_ep5_Malkuth_1-01_Effect</VoiceFile>
           <Content>Thanks, Angela! You helped me realize how meaningful my work could be.</Content>
         </Dialog>
@@ -19806,13 +19806,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="56" Model="말쿠트">
           <Teller>มัลคุท</Teller>
-          <Title>Control Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Hokma_ep5_Malkuth_2-07_Effect</VoiceFile>
           <Content>You’re right, Lady Angela… Maybe I’m just a defect who can’t do anything right.</Content>
         </Dialog>
         <Dialog ID="57" Model="예소드">
           <Teller>เยซอทด์</Teller>
-          <Title>Information Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยข่าวกรอง</Title>
           <VoiceFile>ch8_Hokma_ep5_Yesod_1_Effect</VoiceFile>
           <Content>I must thank you for giving us some room to breathe in this place.</Content>
         </Dialog>
@@ -19824,13 +19824,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="59" Model="예소드">
           <Teller>เยซอทด์</Teller>
-          <Title>Information Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยข่าวกรอง</Title>
           <VoiceFile>ch8_Hokma_ep5_Yesod_2-04_Effect</VoiceFile>
           <Content>I suppose I must obey your orders and abide by the principles.</Content>
         </Dialog>
         <Dialog ID="60" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hokma_ep5_Hod_1_b</VoiceFile>
           <Content>You’re the only one who really gets me, Angela.</Content>
         </Dialog>
@@ -19842,13 +19842,13 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="62" Model="호드">
           <Teller>ฮ็อด</Teller>
-          <Title>Training Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Hokma_ep5_Hod_2_b-01</VoiceFile>
           <Content>Why won’t any of you understand me!!!</Content>
         </Dialog>
         <Dialog ID="63" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
-          <Title>Safety Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยรักษา</Title>
           <VoiceFile>ch8_Hokma_ep5_Netzach_1-01_Effect</VoiceFile>
           <Content>Working with you… makes me wanna try just a bit harder, I gotta say.</Content>
         </Dialog>
@@ -19860,7 +19860,7 @@ because I am certain you will never leave me.”
         </Dialog>
         <Dialog ID="65" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
-          <Title>Safety Team Sephirah</Title>
+          <Title>เซฟิราร์หน่วยรักษา</Title>
           <VoiceFile>ch8_Hokma_ep5_Netzach_2-01_Effect</VoiceFile>
           <Content>What’s the point, I bet you just want everyone to die.</Content>
         </Dialog>
@@ -20696,7 +20696,7 @@ because I am certain you will never leave me.”
           <Teller>Chesed</Teller>
           <Title>หัวหน้าบรรณารักษ์ - สังคมศาสตร์</Title>
           <VoiceFile>ch8_Kether_ep2_Chesed8-01</VoiceFile>
-          <Content>Hear, hear~ Tiphereth and I tell Gebura so many things for her own good, too.</Content>
+          <Content>Hear, hear~ Tiphereth and I tell เกบูรา so many things for her own good, too.</Content>
         </Dialog>
         <Dialog ID="30" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
