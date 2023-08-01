@@ -3,110 +3,110 @@
   <GroupName>Zwei Association</GroupName>
   <Character ID="San">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">I don’t want to lose my loved ones again.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">I steeled my resolve this time, I will secure the books of Mars and Lulu at all costs…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">I just have to do this the usual way…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ฉันไม่อยากจะเสียใครไปอีก</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ครั้งนี้ ฉันตั้งมั่นไว้แล้ว ฉันจะต้องได้หนังสือของทั้งมาร์สและลูลู่กลับมาไม่ว่าจะด้วยอะไรก็ตาม…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ฉันแค่ต้องทำเหมือนอย่างเคย…</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">About Mars and Lulu… I don’t wanna blame you guys for their death.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">You carried out your responsibilities, and I fulfilled mine.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">เรื่องมาร์สและลูลู่… ฉันไม่อยากจะโทษเรื่องนั้นให้กับพวกเธอหรอกนะ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">เธอทำตามหน้าที่เธอ ส่วนฉันจะสะซางเรื่องของฉัน</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Lulu, Mars… And Julia, who trusted me and followed me here… I’m sorry.</BattleDialog>
+      <BattleDialog ID="DEATH_0">ลูลู่… มาร์ส… และก็จูเลีย… เพื่อนๆที่เชื่อในตัวฉันและติดตามฉันมา… ฉันต้องขอโทษจริงๆ</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Let’s be careful. I could get killed as well.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">…Please give me a minute to mourn them, at least.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">The situation seems grave, I’m not sure if there’s any hope for us.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">เราต้องระมัดระวังให้มากกว่านี้ ฉันเองก็เกือบตายเหมือนกัน</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">…อย่างน้อย ให้ฉันไว้อาลัยให้กับพวกเขาหน่อยเถอะ</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">สถานะการณ์ดูเลวร้ายนะ ฉันไม่คิดว่าจะมีความหวังให้กับพวกเราแล้วล่ะ</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">I just found the right timing to advance, that’s all.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">I suppose… this is no time to be saying sorry.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">I should put away personal sentiments in moments like this.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ฉันก็แค่เห็นโอกาสในการเคลื่อนไปต่อ แค่นั้นเอง</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ฉันคิดว่า… คงไม่มีเวลามากพอที่จะขอโทษสินะ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ช่วงเวลาแบบนี้ฉันควรทิ้งความรู้สึกส่วนตัวไป</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">Mars and Lulu… Are you the one who killed them?</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_1">…Fair point. You simply do your job, and I carry out my own.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_2">Julia… What will I have left now…?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">ทั้งมาร์สและก็ลูลู่น่ะ… แกเป็นคนฆ่าพวกเขาใช่ไหม?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">…ก็ดี แกก็แค่ทำตามหน้าที่ของแกไป ส่วนฉันก็จะทำของฉันเหมือนกัน</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">จูเลีย… ทีนี้ฉันจะเหลืออะไรบ้างล่ะ…?</BattleDialog>
     </Type>
   </Character>
   <Character ID="Julia">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">I’ll act with composure.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">I hope that nothing bad happens to us… I hope that all of us can leave this place safely.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">This is a fight I can’t avoid, so I wanna win for the sake of everyone.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_3">I’m all ready for this.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_4">We do what we can… with maximum effort.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ฉันจะเคลื่อนไหวโดยใช้สตินะคะ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ฉันหวังว่าจะไม่มีเรื่องเลวร้ายเกิดขึ้นกับพวกเราหรอกนะ… และฉันหวังว่าพวกเราจะออกจากที่นี่ไปได้อย่างปลอดภัยทุกคนเลยล่ะ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">นี่คือการปะทะที่หลีกเลี่ยงไม่ได้ ฉันเลยอยากจะชนะเพื่อทุกคน</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">ฉันพร้อมแล้วค่ะ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">เราทำในสิ่งที่เราพอทำได้… ด้วยสิ่งที่เรามีทั้งหมด</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">We did it… We’ve actually won, right? Now we can go back safe and sound.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Yeah, let’s tell Isadora all about this adventure we just had.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">เราทำได้… เราชนะแล้วใช่ไหม? งั้นเราก็กลับไปได้อย่างปลอดภัยแล้วสินะคะ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">ใช่ค่ะ เราไปเล่าเกี่ยวกับการผจญภัยครั้งนี้ให้อิซาดอราฟังดีกว่าค่ะ</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">San… I’m sorry. I couldn’t help you much.</BattleDialog>
+      <BattleDialog ID="DEATH_0">ซาน… ฉันต้องขอโทษด้วย ฉันช่วยอะไรนายไม่ค่อยได้เลย</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">My legs are shaking… Are we at our limits?</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">I gotta pull myself together… for the sake of my late colleague.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">…It won’t hurt to be sad just for a bit, maybe.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">ขาฉันสั่นไปหมดเลย… นี่เราถึงขีดจำกัดของเราแล้วหรอ?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">ฉันต้องดึงสติตัวเองเอาไว้… เพื่อพวกเพื่อนๆของฉัน</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">…เศร้านิดหน่อยคงจะไม่เป็นไรนะ บางทีน่ะ</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">It’s just something that always happens. I shouldn’t get too sad about it.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">I can do it if I try!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">This is sad, but I guess there’s no choice…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">มันก็แค่สิ่งที่จะเกิดขึ้นอยู่แล้ว ฉันไม่ควรจะไปเศร้าเกี่ยวกับมัน</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ฉันก็ทำได้ถ้าแค่ฉันลอง!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">มันน่าเศร้าจริงๆ แต่ฉันเองก็ไม่มีทางเลือกเหมือนกัน…</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">San!!! No… Please don’t die on me like this…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">ซาน!!! ไม่นะ… ได้โปรดอย่ามาตายแบบนี้ต่อหน้าฉันสิ…</BattleDialog>
     </Type>
   </Character>
   <Character ID="Walter">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">We’re nothing like the ones that came here before us. It won’t be as easy.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Ensure that you never put down your own shields. And ensure that you never let others put your shields down.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">We are not fighting as a joke.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">พวกเรานั้นไม่เหมือนกับพวกที่มาก่อนหน้าเราหรอก มันจะไม่ง่ายแน่ๆ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">จงมั่นใจว่าตัวเองนั้นจะไม่วางโล่ของตนเองลงไป และจงมั่นใจว่าคนอื่นจะไม่สามารถทำให้โล่ของตนเองลงได้เช่นกัน</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">เราสู้กันนะไม่ใช่มุกตลกซะหน่อย</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">This is what happens when a measly Urban Legend dares to challenge the Zwei Association: an obvious defeat.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">This was the obvious outcome. I will make good use of the books you gave us.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ความพ่ายแพ้อย่างแน่นอน คือสิ่งที่จะเกิดขึ้นถ้าพวกตำนานประจำเมืองขี้ประติวกล้ามาท้าทายสมาพันธ์ซไว</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">นึ่คือผลลัพธ์ที่แน่นอนอยู่แล้ว ฉันจะใช้หนังสือที่พวกเธอให้มาอย่างดีเลยล่ะ</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Perhaps I underestimated my opponents…</BattleDialog>
-      <BattleDialog ID="DEATH_1">I was certain that I would succeed…</BattleDialog>
+      <BattleDialog ID="DEATH_0">บางที ฉันอาจจะประเมินศัตรูต่ำเกินไป…</BattleDialog>
+      <BattleDialog ID="DEATH_1">ฉันมั่นใจว่าฉันจะสำเร็จซะอีก…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">This is a common occurence.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">How unfortunate. But someone’s got to live.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">What a waste of time. You shouldn’t have been a hindrance.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">เกิดขึ้นเป็นประจำอยู่แล้ว</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">โชคร้ายจริงๆ แต่คนเป็นก็ต้องอยู่ต่อไป</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">เสียเวลาซะจริง คุณไม่ควรมาเป็นตัวถ่วงเราเลย</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">This is how you do it; take out your opponents one by one.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">That wasn’t difficult at all to handle.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">You’re a disorderly group of weaklings, aren’t you?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">พวกคุณต้องทำกันอย่างนี้; จัดการศัตรูลงทีละคนๆ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">นั่นไม่ได้จัดการยากอะไรเลย</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">พวกคุณก็เป็นแค่กลุ่มคนที่อ่อนแอและไร้ระเบียบวินัย ใช่ไหม?</BattleDialog>
     </Type>
   </Character>
   <Character ID="Isadora">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">…You must be one of the clique that took San and Julia.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">They don’t really look tough, but they did annihilate the previous group…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">I’m not willing to forgive you at all.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">…แกคงเป็นแก็งที่จัดการซายและจูเลียสินะ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">พวกเขาดูไม่ได้แข็งแกร่งอะไรเลย แต่สามารถล้างบางกลุ่มที่แล้วได้…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ฉันน่ะไม่มีทางให้อภัยแกได้แน่ๆ</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">We’ve won… San, Julia, I avenged you.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">…I’m partially responsible for your deaths, so let’s say that we evened up the score with this.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ชนะแล้วนะ… ซาน จูเลีย ฉันแก้แค้นให้พวกเธอได้แล้ว</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">…ฉันเองก็มีเอี่ยวกับการตายของเธอเหมือนกัน เพราะงั้นเรามาเสมอแต้มด้วยสิ่งนี้กัน</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Dammit… I’m still not done with my revenge…!</BattleDialog>
-      <BattleDialog ID="DEATH_1">Please, just give me just another chance…</BattleDialog>
+      <BattleDialog ID="DEATH_0">บ้าที่สุด… ฉันยังแก้แค้นไม่เสร็จเลย…!</BattleDialog>
+      <BattleDialog ID="DEATH_1">ได้โปรด ให้โอกาสฉันอีกซักครั้งเถอะ…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">I should do my job, whether anyone else dies here or not.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">…I’m still not fully accustomed to this.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">We have a man down! We need… assistance.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">ฉันควรทำตามหน้าที่ของฉัน ไม่ว่าคนอื่นๆจะเป็นตายร้ายดีอะไรก็ตาม</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">…ฉันยังไม่ชินกับเรื่องนี้ซะที</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">คนของเราบาดเจ็บ! เราต้องการ… กำลังเสริม</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Director, I’ve dealt with a hostile on my end.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Think of this as the rightful retribution for all the killing you’ve done.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">You should’ve blocked the attacks better.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ผู้กำกับการคะ ฉันจะจัดการเกี่ยวกับความรุณแรงนี้ในตอนจบเองค่ะ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">คิดซะว่านี่เป็นการลงโทษโดยชอบธรรม หลังจากการฆ่าไปตั้งมากมายของพวกแกละกัน</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">แกควรป้องกันการโจมตีให้ดีกว่านี้สิ</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>
