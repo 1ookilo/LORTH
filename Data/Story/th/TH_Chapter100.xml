@@ -2710,7 +2710,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland1</VoiceFile>
-          <Content>Your book delivery is here~ Tidied up my clothes in advance this time too.</Content>
+          <Content>หนังสือของนายอยู่นี่แล้ว~ ชุดขอฉันก็จัดมาก่อนเรียบร้อยแล้วด้วยนะ</Content>
         </Dialog>
         <Dialog ID="1" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -2722,25 +2722,25 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland2</VoiceFile>
-          <Content>Come on, still at it with that?</Content>
+          <Content>ไม่เอาน่า ยังไม่เลิกเล่นงี้อีกเหรอ?</Content>
         </Dialog>
         <Dialog ID="3" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod2</VoiceFile>
-          <Content>หนังสือที่นายนำมาให้ฉันครั้งล่าสุดก็น่าสนใจดีนะ พูดตามตรง ฉันได้เรียนรู้ว่าเทคโนโลยีที่ใช้ในแบ็คสตรีทนั้น ถูกนำมาใช้เข้าด้วยกันอย่างไม่เป็นระเบียบ</Content>
+          <Content>หนังสือที่นายนำมาให้ฉันครั้งล่าสุดก็น่าสนใจดีนะ พูดตามตรง ฉันได้เรียนรู้ว่าเทคโนโลยีที่ใช้ในแบ็คสตรีทนั้น ถูกนำมาใช้เข้าด้วยกันอย่างไม่เป็นระเบียบเลย</Content>
         </Dialog>
         <Dialog ID="4" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod3</VoiceFile>
-          <Content>ตั้งแต่อุปกรณ์หยาบๆ ที่ทำจากเศษขยะ ไปจนถึงเสื้อผ้าที่ถักทอมาจากปฏิสสาร ทำให้เห็นถึงความก้าวหน้า ที่หลากหลายของเทคโนโลยี ทุกระดับชั้นเลยนะ</Content>
+          <Content>ตั้งแต่อุปกรณ์หยาบๆ ที่ทำจากเศษขยะ ไปจนถึงเสื้อผ้าที่ถักทอมาจากปฏิสสาร ทำให้เห็นถึงความก้าวหน้า ที่หลากหลายของเทคโนโลยี ทุกระดับชั้นเลยละ</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland3</VoiceFile>
-          <Content>There’s cutting-edge tech out there, but only few get to benefit from it.</Content>
+          <Content>มีเทคโนโลยีเล้ำๆอยู่ข้างนอกเยอะแยะเลยนะ แต่มีไม่กี่คนเท่านั้นแหละ ที่ได้รับประโยชน์จากมัน</Content>
         </Dialog>
         <Dialog ID="6" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -2752,43 +2752,43 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland4</VoiceFile>
-          <Content>We’re in an era where rich people don’t have to worry about any disease.</Content>
+          <Content>ก็เราอยู่ในยุคที่คนรวย ไม่ต้องกังวลเกี่ยวกับ โรคภัยกันละนะ</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland5</VoiceFile>
-          <Content>We have all sorts of cures now, too. Granted you have the cash to buy them.</Content>
+          <Content>ตอนนี้เราก็มีวิธีรักษาโรคภัยที่หลากหลายอีกด้วยนะ แน่นอนว่านายต้องมีเงินก่อนถึงจะซื้อมันได้</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland6</VoiceFile>
-          <Content>And then we have people playing God with those technologies called ‘Singularities’.</Content>
+          <Content>แล้วเราก็ยังมีพวกคนที่พยายามเล่นเป็นพระเจ้า กับเหล่าเทคโนโลยีที่เรียกว่า ‘ชิงกูลาลิตี้’</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland7</VoiceFile>
-          <Content>What was Lobotomy Corp’s Singularity, by the way? The corp’s gone now anyway, so no one’s gonna sue us for spilling the beans.</Content>
+          <Content>แล้วไอ้ซิงกูลาริตี้ของโลโบโทมี่คอรป์คืออะไรกันล่ะ? บริฐัทนั้นก็หายไปแล้ว ดังนั้นจึงไม่มีใครฟ้องร้อง ให้เปิดเผยข้อมูลสู่สาธารณชนกันเลย</Content>
         </Dialog>
         <Dialog ID="11" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod5</VoiceFile>
-          <Content>นายเนี้ยเกินเยียวยาจริงๆ แต่ไม่เป็นไร ฉันจะบอกให้สักหน่อยก็แล้วกัน</Content>
+          <Content>นายเนี้ยเกินเยียวยาจริงๆ แต่ไม่เป็นไร ฉันจะบอกให้เอาบุญหน่อยละกัน</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland8</VoiceFile>
-          <Content>Hey, stop treating me like an idiot. I’m not THAT stupid, you know?!</Content>
+          <Content>เฮ้ หยุดทำเหมือนฉันเป็นไอ้โง่สักที ฉันไม่ได้โง่แบบนั้นสักหน่อย เข้าใจม้า?!</Content>
         </Dialog>
         <Dialog ID="13" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod6</VoiceFile>
-          <Content>ซิงกูลาริตี้ของโลโบโทมี่คอร์ป คือการปรากฏการณ์ทางกายภาพ จากจิตใต้สำนึกของมนุษย์ ซึ่งเป็นแนวคิดที่เป็นนามธรรม</Content>
+          <Content>ซิงกูลาริตี้ของโลโบโทมี่คอร์ป คือการทำให้จิตใต้สำนึกปรากฏขึ้นเป็นรูปร่าง ซึ่งเป็นแนวคิดที่เป็นนามธรรม</Content>
         </Dialog>
         <Dialog ID="14" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -2818,13 +2818,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland9</VoiceFile>
-          <Content>Physically manifesting the mind, huh~</Content>
+          <Content>ทำให้จิตใต้สำนึกปรากฏขึ้นเป็นรูปร่างสินะ หืม~</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland10</VoiceFile>
-          <Content>…Certainly seems similar to the Distortion…</Content>
+          <Content>…ดูเหมือนจะคล้ายๆกับ การบิดเบือนเลยแฮะ…</Content>
         </Dialog>
         <Dialog ID="20" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -2836,13 +2836,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland11</VoiceFile>
-          <Content>Oh, nothing. Just a bit of monologue. Anyway, uh, that sure sounds like a Singularity alright. Impressive indeed!</Content>
+          <Content>อ่อ ไม่มีไรหรอก แค่กำลังคลุมคิดนิดหน่อยน่ะ ยังไงก็ตาม เอ่อ ไอ้ซิงกาลาริตี้นั้นฟังดูแล้ว ก็น่าประทับใจจริงๆแฮะ!</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland12</VoiceFile>
-          <Content>You know, makes me wonder. Malkuth said you guys were part of a project that aimed to save humanity, right?</Content>
+          <Content>รู้อะไรไหม มีอย่างนึงที่ทำให้ฉันสงสัย มัลคุธบอกว่าพวกนาย เป็นส่วนหนึ่งของโปรเจคหนึ่ง ที่มีเป้าหมายในการช่วยเหลือ มนุษยชาติใช่มั้ย?</Content>
         </Dialog>
         <Dialog ID="23" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -2854,19 +2854,19 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland13</VoiceFile>
-          <Content>What kind of saving was that all about, really?</Content>
+          <Content>จริงๆแล้ว การช่วยเหลือแบบนั้นมันคืออะไรกันแน่?</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland14</VoiceFile>
-          <Content>Make money rain from the sky or something? That’d save everyone for sure.</Content>
+          <Content>ทำให้เงินตกเป็นฝนมาจากท้องฟ้า หรืออะไรซักอย่างก็ได้ แบบนั้นก็น่าจะช่วยทุกคนได้แน่ๆเลยนะ</Content>
         </Dialog>
         <Dialog ID="26" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod14</VoiceFile>
-          <Content>เรื่องนี้ไม่ควรที่จะเทียบ กับเรื่องไร้สาระแบบนั้นนะ</Content>
+          <Content>เรื่องนี้ไม่ควรที่จะเทียบ กับเรื่องไร้สาระแบบนั้น</Content>
         </Dialog>
         <Dialog ID="27" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -2878,7 +2878,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland15</VoiceFile>
-          <Content>Whoa, alright, calm down now. Sheesh, can’t even crack a joke around here.</Content>
+          <Content>โว้วๆ ก็ได้ๆ ใจเย็นสิเพื่อน หึย ไม่ให้แม้แต่จะพูดเล่นนิดนึง สักหน่อยเลยหรอ</Content>
         </Dialog>
         <Dialog ID="29" Model="예소드">
           <Teller>เยซอทด์</Teller>
