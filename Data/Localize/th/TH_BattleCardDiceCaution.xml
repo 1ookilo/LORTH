@@ -14,10 +14,10 @@
 <Desc>[เมื่อโจมตี] มอบกำลังและว่องไว 1 จำนวนให้พันธมิตรทุกคนในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="final_heart_eager1atk">
-<Desc>[เมื่อโจมตี] มอบ Hankering 1 จำนวนให้ Aspiration ในฉากนี้</Desc>
+<Desc>[เมื่อโจมตี] มอบความปราถนา 1 จำนวนให้กับหัวใจแห่งปณิธานในฉากนี้</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="final_heart_eager1pw">
-<Desc>[เมื่อปะทะชนะ] มอบ Hankering 1 จำนวนให้ Aspiration ในฉากถัดไป</Desc>
+<Desc>[เมื่อปะทะชนะ] มอบความปราถนา 1 จำนวนให้กับหัวใจแห่งปณิธานในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="final_exhaust_target_card">
 <Desc>[เมื่อปะทะชนะ] หากเป้าหมายเป็นบรรณารักษ์
@@ -52,10 +52,10 @@ Page ที่ปะทะกับ Page นี้จะสลายไปใน
 ให้พันธมิตร 2 คนแบบสุ่มในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="bremen2_ally2protectionpw">
-<Desc>[เมื่อปะทะชนะ] มอบเกราะ 2 จำนวน to the ally with the lowest HP ในฉากถัดไป</Desc>
+<Desc>[เมื่อปะทะชนะ] มอบเกราะ 2 จำนวนให้กับพวกพ้องที่HPต่ำที่สุดในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="greta_dmgUpbybleedingbufatk">
-<Desc>[เมื่อโจมตี] ดาเมจเพิ่มขึ้นตามจำนวน Bleed บนตัวเป้าหมาย</Desc>
+<Desc>[เมื่อโจมตี] ดาเมจเพิ่มขึ้นตามจำนวนเลือดไหลบนตัวเป้าหมาย</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="greta_destroyDice">
 <Desc>[เมื่อปะทะชนะ] ทำลายลูกเต๋าทั้งหมดของเป้าหมาย
@@ -81,7 +81,7 @@ Page ที่ปะทะกับ Page นี้จะสลายไปใน
 <Desc>[เมื่อปะทะชนะ] ทำดาเมจ Stagger 4 ดาเมจ; มอบเปราะบาง 1 จำนวนในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="Sword_getbonecuttingcardpl">
-<Desc>[เมื่อปะทะแพ้] เพิ่ม 'To Claim Their Bones' เข้ามือผู้ใช้</Desc>
+<Desc>[เมื่อปะทะแพ้] เพิ่ม 'ลากกระดูกออกมังสา' เข้ามือผู้ใช้</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="upgradeNext2atk">
 <Desc>[เมื่อโจมตี]เพิ่มค่าสูงสุดของลูกเต๋าถัดไป +2</Desc>
@@ -108,7 +108,7 @@ Page ที่ปะทะกับ Page นี้จะสลายไปใน
 [เมื่อปะทะแพ้] ทำลายลูกเต๋าถัดไปบน Page นี้</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="nicolaiDice2">
-<Desc>หากเป้าหมายมี 'Mark' เพิ่มดาเมจ
+<Desc>หากเป้าหมายมี 'เป้า' เพิ่มดาเมจ
 และดาเมจ Stagger ที่ทำได้ตามค่าลูกเต๋าปกติ</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="deerDice">
@@ -196,64 +196,64 @@ Page ที่ปะทะกับ Page นี้จะสลายไปใน
 <Desc>[เมื่อโจมตี] มอบเผาไหม้ 1 จำนวน 3 ครั้ง</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="burnSpread">
-<Desc>[เมื่อโจมตี] If target has 4 or more Burn, มอบเผาไหม้ 1 จำนวน to all enemies</Desc>
+<Desc>[เมื่อโจมตี] ถ้าเป้าหมายมีเผาไหม้ 4 จำนวนหรือมากกว่า, มอบเผาไหม้ 1 จำนวนให้กับศัตรูทุกคน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="kaliAreaDice">
 <Desc>[เมื่อโจมตี] มอบเลือดไหล 5 จำนวนในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="kaliAttackBuf">
-<Desc>[เมื่อโจมตี] Gain 3 Strength ในฉากถัดไป</Desc>
+<Desc>[เมื่อโจมตี] ได้รับกำลัง 3 จำนวนในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="fairy1atk">
-<Desc>[เมื่อโจมตี] มอบ Fairy 1 จำนวน</Desc>
+<Desc>[เมื่อโจมตี] มอบแฟร์รี่ 1 จำนวน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="fairy2atk">
-<Desc>[เมื่อโจมตี] มอบ Fairy 2 จำนวน</Desc>
+<Desc>[เมื่อโจมตี] มอบแฟร์รี่ 2 จำนวน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="fairy3atk">
-<Desc>[เมื่อโจมตี] มอบ Fairy 3 จำนวน</Desc>
+<Desc>[เมื่อโจมตี] มอบแฟร์รี่ 3 จำนวน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="forbidReuseDice">
-<Desc>Target's current die cannot be recycled</Desc>
+<Desc>ลูกเต๋าปัจจุบันของเป้าหมายไม่สามารถนำมาใช้ซ้ำได้</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="sealTargetAtk">
-<Desc>[เมื่อโจมตี] Seal a Speed die of target for the ในฉากถัดไป</Desc>
+<Desc>[เมื่อโจมตี] ผนึกลูกเต๋าความเร็วของเป้าหมายในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="forbidCardAtk">
-<Desc>[เมื่อโจมตี] Increase Cost of target's pages whose original Cost is 4 or higher by 2 for the ในฉากถัดไป</Desc>
+<Desc>[เมื่อโจมตี] เพิ่มคอสของ Pages เป้าหมายที่คอสปกติมีค่า 4 หรือมากกว่า เพิ่มขึ้น 2 ในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="binahShockwaveDice2">
 <Desc>[เมื่อโจมตี] มอบเปราะบาง 1 จำนวน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="powerDouble">
-<Desc>Power affects this die x2</Desc>
+<Desc>พลังที่มีผลต่อลูกเต๋านี้ x2</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="bleeding3atkTwoRound">
-<Desc>[เมื่อโจมตี] มอบเลือดไหล 3 จำนวนในฉากถัดไป and the Scene after</Desc>
+<Desc>[เมื่อโจมตี] มอบเลือดไหล 3 จำนวนในฉากถัดไปและฉากถัดไปอีก</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="vulnerable1atkTwoRound">
-<Desc>[เมื่อโจมตี] มอบ Fragile 1 จำนวนในฉากถัดไป and the Scene after</Desc>
+<Desc>[เมื่อโจมตี] มอบเปราะบาง 1 จำนวนในฉากถัดไปและฉากถัดไปอีก</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="purpleAreaDice1">
-<Desc>[เมื่อโจมตี] Deal 5 damage</Desc>
+<Desc>[เมื่อโจมตี] ทำดาเมจ 5</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="purpleAreaDice2">
-<Desc>[เมื่อโจมตี] Deal 5 Stagger damage</Desc>
+<Desc>[เมื่อโจมตี] ทำ Stagger ดาเมจ 5</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="purpleAreaDice3">
-<Desc>[เมื่อโจมตี] มอบเลือดไหล 3 จำนวน and 1 Fragile ในฉากนี้ and ในฉากถัดไป</Desc>
+<Desc>[เมื่อโจมตี] มอบเลือดไหล 3 จำนวน และเปราะบาง 1 จำนวนในฉากนี้และฉากถัดไปอีก</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="shyaoDebufDice">
-<Desc>[เมื่อโจมตี] มอบเปราะบาง 1 จำนวน and Disarm ในฉากถัดไป</Desc>
+<Desc>[เมื่อโจมตี] มอบเปราะบางและตัดกำลังอย่างละ 1 จำนวนในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="burnBoth">
-<Desc>[เมื่อโจมตี] มอบเผาไหม้ 3 จำนวน to each other</Desc>
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 3 จำนวนให้กับทั้งคู่</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="burnAll">
-<Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน to all enemies</Desc>
+<Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวนให้กับศัตรูทั้งหมด</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="dragonAngerDice">
-<Desc>[Reverse Scale]</Desc>
+<Desc>[เกล็ดมังกรย้อนกลับ]</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="shyaoBurnAreaDice">
 <Desc>[เมื่อโจมตี] มอบเผาไหม้ 8 จำนวน</Desc>
@@ -265,60 +265,60 @@ Page ที่ปะทะกับ Page นี้จะสลายไปใน
 <Desc>[เมื่อโจมตี] มอบเผาไหม้ 2 จำนวน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="yanAreaDice">
-<Desc>[เมื่อโจมตี] มอบ Erosion 2 จำนวน</Desc>
+<Desc>[เมื่อโจมตี] มอบกัดกร่อน 2 จำนวน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="yanOnly1Dice">
-<Desc>[เมื่อโจมตี] มอบ Erosion 2 จำนวน</Desc>
+<Desc>[เมื่อโจมตี] มอบกัดกร่อน 2 จำนวน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="yanOnly2Dice">
-<Desc>[เมื่อปะทะชนะ] Destroy opponent's next die</Desc>
+<Desc>[เมื่อปะทะชนะ] ทำลายลูกเต๋าถัดไปของศัตรู</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="bleeding5pw">
 <Desc>[เมื่อปะทะชนะ] มอบเลือดไหล 5 จำนวน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="lifeInsuranceAreaAtk">
-<Desc>[เมื่อโจมตี] มอบตัดกำลัง 2 จำนวน, Bind, and Feeble; ฟื้นฟู 2 HP</Desc>
+<Desc>[เมื่อโจมตี] มอบตัดกำลัง พันธนา และอ่อนแรง 2 จำนวน; ฟื้นฟู 2 HP</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="light1smoke3atk">
 <Desc>[เมื่อโจมตี] ฟื้นฟูแสง 1; มอบควัน 3 จำนวน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="smoke2selfsmoke1atk">
-<Desc>[เมื่อโจมตี] มอบควัน 2 จำนวน; Gain 1 Smoke</Desc>
+<Desc>[เมื่อโจมตี] มอบควัน 2 จำนวน; ได้รับควัน 1 จำนวน</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="smoke3atkparalysis3atkbytagetsmoke5">
-<Desc>[เมื่อโจมตี] มอบควัน 3 จำนวน; If target has 5+ Smoke, มอบอัมพาต 3 จำนวนในฉากถัดไป</Desc>
+<Desc>[เมื่อโจมตี] มอบควัน 3 จำนวน; ถ้าเป้าหมายมีควัน 5 จำนวนหรือมากกว่า, มอบอัมพาต 3 จำนวนในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="breakdmgbyselfbreak">
-<Desc>[เมื่อโจมตี] Spend all Stagger Resist to deal Stagger damage equal to what's spent</Desc>
+<Desc>[เมื่อโจมตี] จ่าย Stagger Resist ทั้งหมดเพื่อทำดาเมจ Stagger เท่ากับที่จ่ายไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="blackSilenceSpecialDice">
-<Desc>[เมื่อปะทะชนะ] Destroy all of opponent's dice</Desc>
+<Desc>[เมื่อปะทะชนะ] ทำลายลูกเต๋าของศัตรูทั้งหมด</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="tanyaOnlyCardDice">
-<Desc>[เมื่อปะทะชนะ] All dice on target's page lose 5 Power</Desc>
+<Desc>[เมื่อปะทะชนะ] ลูกเต๋าของศัตรูในPageนี้ทั้งหมดสูญเสีย 5 พลัง</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="rolandcontinuousDice">
-<Desc>[เมื่อโจมตี] If the natural roll is 5, recycle this die (สูงสุด 4 ครั้ง)</Desc>
+<Desc>[เมื่อโจมตี] ถ้าแต้มที่ทอยปกติได้เท่ากับ 5, ใช้ลูกเต๋านี้ซ้ำ (สูงสุด 4 ครั้ง)</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="heavysmoke1atk">
-<Desc>[เมื่อโจมตี] มอบ Suffocating 1 จำนวน Haze ในฉากถัดไป</Desc>
+<Desc>[เมื่อโจมตี] มอบหมอกควันที่หายใจไม่ออกและ Haze 1 จำนวนในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="bleeding5atkarea">
 <Desc>[เมื่อโจมตี] มอบเลือดไหล 5 จำนวนในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="heavysmoke3atkarea">
-<Desc>[เมื่อโจมตี] มอบ Suffocating 3 จำนวน Haze ในฉากถัดไป</Desc>
+<Desc>[เมื่อโจมตี] มอบหมอกควันที่หายใจไม่ออกและ Haze 3 จำนวนในฉากถัดไป</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="roland2phaseenemys1">
-<Desc>[เมื่อปะทะชนะ] Destroy all of opponent's dice
-[เมื่อปะทะแพ้] Destroy all dice on this page</Desc>
+<Desc>[เมื่อปะทะชนะ] ทำลายลูกเต๋าทั้งหมดของศัตรู
+[เมื่อปะทะแพ้] ทำลายลูกเต๋าทั้งหมดของ Page เรา</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="roland2phaseFar">
-<Desc>[เมื่อปะทะชนะ] Destroy all of opponent's dice
-[เมื่อปะทะแพ้] Destroy all dice on this page</Desc>
+<Desc>[เมื่อปะทะชนะ] ทำลายลูกเต๋าทั้งหมดของศัตรู
+[เมื่อปะทะแพ้] ทำลายลูกเต๋าทั้งหมดของ Page เรา</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="roland2phaseenemys2">
-<Desc>[เมื่อโจมตี] If the natural roll is 3, recycle this die (สูงสุด 4 ครั้ง)</Desc>
+<Desc>[เมื่อโจมตี] ถ้าแต้มที่ทอยปกติได้เท่ากับ 3, ใช้ลูกเต๋านี้ซ้ำ (สูงสุด 4 ครั้ง)</Desc>
 </BattleCardAbility>
 <BattleCardAbility ID="argaliaDownWithCond">
 <Desc>[เมื่อโจมตี] If target has 6 or more Vibration, reduce it by 1</Desc>
