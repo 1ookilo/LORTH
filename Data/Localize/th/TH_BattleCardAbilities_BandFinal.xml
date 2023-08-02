@@ -2,7 +2,7 @@
 <BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <!-- 잔향 상층 -->
   <BattleCardAbility ID="forbidrecovery2atk">
-    <Desc>[On Hit] Inflict 2 Antirecovery next Scene</Desc>
+    <Desc>[เมิ้อโจมตี] Inflict 2 Antirecovery next Scene</Desc>
   </BattleCardAbility>  
   
   <!-- 아르갈리아 뒤틀림-->
@@ -10,10 +10,10 @@
     <Desc>[Combat Start] For this Scene, the passive ability 'Resonance' activates if target has 4+ Vibration</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="nullifyPowerAtk">
-    <Desc>[On Hit] Target's dice Power cannot be influenced by any effects next Scene</Desc>
+    <Desc>[เมิ้อโจมตี] Target's dice Power cannot be influenced by any effects next Scene</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="vibrateDmg">
-    <Desc>[On Hit] Deal bonus damage equal to target's Vibration</Desc>
+    <Desc>[เมิ้อโจมตี] Deal bonus damage equal to target's Vibration</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerUp1thisRound">
     <Desc>[Combat Start] Boost Offensive dice Power by +1 for this Scene</Desc>
@@ -24,15 +24,15 @@
   
   <!-- 플루토 뒤틀림 -->
   <BattleCardAbility ID="Pluto_UC_Protect">
-    <Desc>[On hit] Add 'Unjust Counterpart: Defense' to target's hand next Scene.</Desc>
+    <Desc>[เมิ้อโจมตี] Add 'Unjust Counterpart: Defense' to target's hand next Scene.</Desc>
     <Desc>Only one copy of 'Unjust Counterpart: Defense' can be had at a time.</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="Pluto_UC_Atk">
-    <Desc>[On hit] Add 'Unjust Counterpart: Offense' to target's hand next Scene.</Desc>
+    <Desc>[เมิ้อโจมตี] Add 'Unjust Counterpart: Offense' to target's hand next Scene.</Desc>
     <Desc>Only one copy of 'Unjust Counterpart: Offense' can be had at a time.</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="Pluto_UC_Light">
-    <Desc>[On hit] Add 'Unjust Counterpart: Light' to target's hand next Scene.</Desc>
+    <Desc>[เมิ้อโจมตี] Add 'Unjust Counterpart: Light' to target's hand next Scene.</Desc>
     <Desc>Only one copy of 'Unjust Counterpart: Light' can be had at a time.</Desc>
   </BattleCardAbility>
 
@@ -93,7 +93,7 @@
     <Desc>If user has recovered 20+ HP this Act, this page's Cost is reduced by 2</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="elenaNewAreaDice">
-    <Desc>[On Hit] Recover 3 HP</Desc>
+    <Desc>[เมิ้อโจมตี] Recover 3 HP</Desc>
   </BattleCardAbility>
   
 
@@ -103,7 +103,7 @@
     <Desc>[On Use] All allies with 'Puppeteer’s Strings' recover 20 HP and Stagger Resist</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="jaeheonAreaDice">
-    <Desc>[On Hit] Inflict 1 Bind next Scene</Desc>
+    <Desc>[เมิ้อโจมตี] Inflict 1 Bind next Scene</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="oswaldArea">
@@ -112,7 +112,7 @@
     <Desc>[On Use] Inflict one of the following statuses to targets at random next Scene: 2 Fragile, 2 Disarm, 2 Feeble, 2 Protection, 2 Stagger Protection</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_break8areaatk">
-    <Desc>[On Hit] Deal 8 Stagger damage</Desc>
+    <Desc>[เมิ้อโจมตี] Deal 8 Stagger damage</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="bremenArea">
@@ -121,7 +121,7 @@
     <Desc>[On Use] Inflict 2 Fragile to all enemies this Scene</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="bremen_chorus_atk">
-    <Desc>[On Hit] Inflict 1 Paralysis next Scene</Desc>
+    <Desc>[เมิ้อโจมตี] Inflict 1 Paralysis next Scene</Desc>
   </BattleCardAbility>
   
   
@@ -142,7 +142,7 @@
   
   <!-- 공용2 -->
   <BattleCardAbility ID="resistance1atk">
-    <Desc>[On Hit] If user has 2 or less Resilience, gain 1 Resilience</Desc>
+    <Desc>[เมิ้อโจมตี] If user has 2 or less Resilience, gain 1 Resilience</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="costDownAndPowerUp">
     <Desc>While this page is in hand, its Cost is decreased for each clash lost against an Offensive die</Desc>
