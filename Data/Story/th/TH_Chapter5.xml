@@ -1109,595 +1109,594 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: WARP Train UW-212 - First Class Carriage</PlaceName>
+        <PlaceName>สถานที่: WARPเทรน UW-212 - ที่นั่งชั้นเฟิร์สคลาส</PlaceName>
         <Dialog ID="0" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon1</VoiceFile>
-          <Content>Why hello there, passengers in first class seats.</Content>
+          <Content>สวัสดีทุกๆท่าน ผู้ที่เดินทางอยู่ในชั้นเฟิร์สคลาสทั้งหลาย</Content>
         </Dialog>
         <Dialog ID="1" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon2</VoiceFile>
-          <Content>It takes twice the monthly wage of an average person in the Nest to afford a seat in this carriage, I hear?</Content>
+          <Content>ได้ยินมาว่าต้องใช้เงินเดือนคนธรรมดาในเนสอย่างต่ำตั้ง2เดือนกว่าจะได้มานั่งในชั้นนี้ ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="2" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon3</VoiceFile>
-          <Content>That means someone in the Backstreets would have to work hard for at least a year for it.</Content>
+          <Content>หมายความคนธรรมดาในแบ็คสตรีทจะต้องทำงานหนักเป็นปีๆเลยเพื่อจะขึ้นมาได้</Content>
         </Dialog>
         <Dialog ID="3" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon4</VoiceFile>
-          <Content>I’ve always had some pressing questions about WARP trains.</Content>
+          <Content>ฉันน่ะก็มีคำถามเกิดขึ้นมาในใจเกี่ยวกับWARPเทรนตลอดเลย</Content>
         </Dialog>
         <Dialog ID="4" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon5</VoiceFile>
-          <Content>For example, what is the point of first class seats when the trip supposedly only lasts ten seconds?</Content>
+          <Content>อย่างเช่นว่า จะไปมีที่นั่งชั้นเฟิร์สคลาสทำไมถ้าจะเดินทางกันแค่10วินาทีกันน่ะ?</Content>
         </Dialog>
         <Dialog ID="5" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon6</VoiceFile>
-          <Content>I guess it’s worth the expense, after all.</Content>
+          <Content>แต่ตอนนี้ฉันว่ามันคุ้มทุกบาททุกสตางที่เสียไปจริงๆ</Content>
         </Dialog>
         <Dialog ID="6" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon7</VoiceFile>
-          <Content>You can sleep without a care in the world.</Content>
+          <Content>แกก็แค่หลับลงไปไม่สนใจโลกรอบข้าง</Content>
         </Dialog>
         <Dialog ID="7" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon8</VoiceFile>
-          <Content>All the while the passengers in the carriages behind us are defenseless against the maddening tide of time, trying to overcome it through the pain of tearing their own flesh or the comfort of conjoining with one other.</Content>
+          <Content>ในขณะที่ผู้โดยสารคนอื่นๆต้องโดนผลกระทบของเวลา พยายามที่จะพิชิตมันโดยใช้ความเจ็บปวดจากการฉีกกระชากเนื้อหนังของตัวเองหรือไม่ก็ปลอบประโลมและอยู่กับคนอื่นๆ</Content>
         </Dialog>
         <Dialog ID="8" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon9-01</VoiceFile>
-          <Content>I’ve always wondered what kind of outstanding technologies Singularities could be to transport people to any platform in only ten seconds, no matter how far it is.</Content>
+          <Content>ฉันคิดมาตลอดเลยนะ ว่าต้องเป็นซิงกูลาริตี้ที่วิเศษวิโสขนาดไหนถึงขนาดที่จะสามารถส่งคนไปชาญชาลาไหนก็ได้ภายใน10วินาที ไม่ว่าจะไกลเท่าไหร่ก็ตาม</Content>
         </Dialog>
         <Dialog ID="9" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon10-01</VoiceFile>
-          <Content>And now I get the gist of it after seeing how this train’s been going for about two thousand years.</Content>
+          <Content>และตอนนี้ฉันเองก็พอมองแก่นแท้ของมันออกแล้วหลังจากที่อยู่ในรถไฟนี้ตั้ง2,000กว่าปี</Content>
         </Dialog>
         <Dialog ID="10" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon11-01</VoiceFile>
-          <Content>Me? How am I staying sane, you ask?</Content>
+          <Content>ส่วนฉันน่ะหรอ? คงถามอยู่ล่ะสิว่ายังคุมสติอยู่ได้ยังไงกัน?</Content>
         </Dialog>
         <Dialog ID="11" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon12-01</VoiceFile>
-          <Content>Well, it’s all thanks to my fellow members of the ensemble. That hothead Elena and I’ve actually been here for only a week or so…</Content>
+          <Content>ก็นะ ต้องขอขอบคุณเพื่อนๆในคณะของฉันเลย จริงๆทั้งฉันและยัยเอลิน่าจอมหัวร้อนนั่นมาอยู่ที่นี่ได้ซักประมาณอาทิตย์เดียวเอง…</Content>
         </Dialog>
         <Dialog ID="12" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon13</VoiceFile>
-          <Content>Pluto says our consciousness can be preserved in stasis and unfrozen only when needed or whatever.</Content>
+          <Content>พลูโตบอกไว้ว่าสติสัมปชัญญะของเราสามารถเก็บรักษาไว้ในสภาพหยุดนิ่งแล้วจะเลิกหยุดนิ่งตอนไหนก็ได้</Content>
         </Dialog>
         <Dialog ID="13" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon14</VoiceFile>
-          <Content>He says it’s magic and all, and welp, I’ve got no choice but to trust him. He’s my coworker now, all things considered.</Content>
+          <Content>เขาบอกว่ามันเป็นเวทมนตร์อะนะ ทำไงได้ ฉันไม่มีทางอื่นนอกจากต้องเชื่อใจเขา ก็เขาเป็นถึงเพื่อนร่วมงานของฉันแล้วนิ</Content>
         </Dialog>
         <Dialog ID="14" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon15</VoiceFile>
-          <Content>In any case, I pity the fools taking this train.</Content>
+          <Content>แต่ยังไงซะ ฉันล่ะสังเวชพวกโง่ที่มาขึ้นรถไฟนี้จริงๆ</Content>
         </Dialog>
         <Dialog ID="15" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon16-01</VoiceFile>
-          <Content>Thousands of years of pain and suffering, and it’s all long gone from their memories when they arrive. They return to their ordinary lives like nothing ever happened after a status restoration procedure, isn’t that right?</Content>
+          <Content>ความทรมาณและความเจ็บปวดตั้ง1,000กว่าปี  แล้วทุกสิ่งก็มลายหายไปเป็นฝุ่นเมื่อมาถึงที่หมาย กลับไปใช้ชีวิตตามปกติของพวกเขาเหมือนกับว่าไม่มีอะไรเกิดขึ้นเลยหลังจากเสร็จสิ้นขั้นตอนการฟื้นฟูสถานะ จริงไหม?</Content>
         </Dialog>
         <Dialog ID="16" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon17</VoiceFile>
-          <Content>“Wow, WARP trains are awesome! It’s kinda expensive, but I can get anywhere in such a short time.”</Content>
+          <Content>“ว้าว WARPเทรนเนี้ยสุดยอดมากเลย! ถึงจะแพงไปหน่อย แต่ฉันไปที่ไหนก็ได้โดยใช้เวลาไม่นานเลย”</Content>
         </Dialog>
         <Dialog ID="17" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon18</VoiceFile>
-          <Content>“It’s a wonderful world. We can go everywhere in the blink of an eye!”</Content>
+          <Content>“โลกนี้มันช่างวิเศษจริงๆ เราไปที่ไหนก็ได้ในพริบตาเดียวเอง”</Content>
         </Dialog>
         <Dialog ID="18" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon19</VoiceFile>
-          <Content>Uttering such remarks, they’ll blend back into the City life, completely forgetting about the hellscape that took place on this train.</Content>
+          <Content>พูดเสร็จ แล้วก็กลับไปใช้ชีวิตคนเมือง ปนอยู่กับคนอื่นๆ หลงลืมภาพที่เป็นเหมือนดั่งนรกบนดินในรถไฟขบวนนั้น</Content>
         </Dialog>
         <Dialog ID="19" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon20-01</VoiceFile>
-          <Content>The memories of trying to slaughter their own friends and families as all bonds were blurred over time, having lost themselves long ago…</Content>
+          <Content>ความทรงจำที่พยายามจะฆ่าทั้งเพื่อนและพ่อแม่พี่น้องตัวเองที่เลือนรางไปตามกาลเวลา ก็ได้สูญเสียมันไปแล้ว…</Content>
         </Dialog>
         <Dialog ID="20" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon21</VoiceFile>
-          <Content>And all of that is conveniently erased from their heads. It’s astonishing how Singularities are so uniformly appalling.</Content>
+          <Content>และเรื่องราวทั้งหมดก็ถูกลบออกจากสมองไป มันช่างน่าตกใจจริงๆที่ซิงกูลาริตี้จะน่ากลัวเหมือนกันไปหมด</Content>
         </Dialog>
         <Dialog ID="21" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon22-01</VoiceFile>
-          <Content>And yet you rich folks are scared of even that, so you doze off in your safe space for those thousands of years.</Content>
+          <Content>และพวกคนรวยๆอย่างพวกแกก็กลัวเรื่องพวกนั้น ก็เลยเข้าไปหลบในที่หลบภัยของตัวเองกว่า1,000ปี</Content>
         </Dialog>
         <Dialog ID="22" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon23</VoiceFile>
-          <Content>You must’ve heard a word of advice from some acquaintance of yours, hm?</Content>
+          <Content>แกคงไปได้ยินคำแนะนำจากคนรู้จักมาใช่ไหม ฮื้ม?</Content>
         </Dialog>
         <Dialog ID="23" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon24-01</VoiceFile>
-          <Content>That you’d be much better off taking first class seats. Or some of you are already aware of the truth behind WARP trains, perhaps?</Content>
+          <Content>"เป็นไปได้ไปนั่งบนชั้นเฟิร์สคลาสดีกว่าเยอะ" ห้ะ หรือไม่พวกแกซักคนรู้ความจริงเบื้องหลังWARPเทรนแล้ว ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="24" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon25</VoiceFile>
-          <Content>That’d be ironic in its own right. You decided to take this train knowing what would happen.</Content>
+          <Content>แต่แบบนั้นมันจะย้อนแย้งไปถึงไหน รู้ทั้งรู้ว่าจะเกิดอะไรแต่ก็ยังเลือกที่จะขึ้นรถไฟนี่อยู่ดี</Content>
         </Dialog>
         <Dialog ID="25" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon26</VoiceFile>
-          <Content>Ah, in case a certain foolhardy individual or two are still believing that this train is broken or malfunctional:</Content>
+          <Content>อ้อ สำหรับพวกคนที่โง่เป็นควายที่ยังเชื่อว่ารถไฟมันพังหรือไม่ก็ขัดข้องอยู่</Content>
         </Dialog>
         <Dialog ID="26" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon27</VoiceFile>
-          <Content>It’s not defective.
-This train is operating as intended.</Content>
+          <Content>มันไม่ได้พังหรอกนะ รถไฟขบวนนี้ยังทำงานได้ตามปกติที่มันตั้งไว้</Content>
         </Dialog>
         <Dialog ID="27" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon28</VoiceFile>
-          <Content>You get the hint by now, don’t you? Strolling around in a completely different timespace axis for some thousand years, and when it comes back to reality…</Content>
+          <Content>นึกออกรึยัง ฮึ้? เดินเล่นไปในแกนช่วงเวลาที่แตกต่างจากเดิมเป็นเวลา1,000กว่าปี และเมื่อกลับมาอยู่ความเป็นจริงเดิม…</Content>
         </Dialog>
         <Dialog ID="28" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon29</VoiceFile>
-          <Content>Tadaa~ It’s ten seconds later.</Content>
+          <Content>บู้ม 10วินาทีผ่านไป</Content>
         </Dialog>
         <Dialog ID="29" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon30</VoiceFile>
-          <Content>Taking long roundabouts through time, reduced to ten seconds in real life. Sounds like a perfect ride for people who are in a hurry, doesn’t it?</Content>
+          <Content>เดินวกไปวกมาใช้เวลาไปเรื่อยๆ แล้วก็กลับกลายเป็นแค่10วินาทีในความเป็นจริง ฟังแล้วพวกที่ยุ่งๆอยู่คงชอบอย่างงี้มากเลยสินะ?</Content>
         </Dialog>
         <Dialog ID="30" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon31</VoiceFile>
-          <Content>What is your “real” life, though?</Content>
+          <Content>แต่ว่า อะไรคือ“ความเป็นจริง”ของแกกัน?</Content>
         </Dialog>
         <Dialog ID="31" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon32</VoiceFile>
-          <Content>The one you were living for some few decades, or the one you’ve been trapped in for thousands of years?</Content>
+          <Content>ชีวิตที่อยู่แค่เพียงไม่กี่10ปีข้างนอกนั่น หรือชีวิตที่อยู่ในนี้กว่า1,000ปีกันล่ะ?</Content>
         </Dialog>
         <Dialog ID="32" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon33</VoiceFile>
-          <Content>If you lost your memories and returned to your ordinary life, would it be a blessing or a curse?</Content>
+          <Content>ถ้าเกิดแกเสียความจำทั้งหมดแล้วกลับไปใช้ชีวิตตามปกติของแก มันจะถือเป็นว่าโชคดี? หรือว่าโชคร้ายกันนะ?</Content>
         </Dialog>
         <Dialog ID="33" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon34</VoiceFile>
-          <Content>Who cares, really.</Content>
+          <Content>ใครจะไปสนกัน</Content>
         </Dialog>
         <Dialog ID="34" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon35-01</VoiceFile>
-          <Content>Moving on, my biggest question was this…</Content>
+          <Content>มาต่อเลยละกัน คำถามที่ฉันสงสัยมากที่สุดคือ…</Content>
         </Dialog>
         <Dialog ID="35" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon36</VoiceFile>
-          <Content>This box with T Corp’s logo on it, so shamelessly and ridiculously and nonchalantly on board.</Content>
+          <Content>กล่องที่มีสัญลักษณ์รูปT คอร์ปอยู่บนกล่อง มาอยู่บนนี้ได้หน้าไม่อายแถมวางได้น่าเกลียดมาก</Content>
         </Dialog>
         <Dialog ID="36" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon37</VoiceFile>
-          <Content>I was wondering what this thing was doing plugged into the train.</Content>
+          <Content>สงสัยจริงว่าไอ้กล่องนี้มันมาเสียบเข้ากับรถไฟทำไม</Content>
         </Dialog>
         <Dialog ID="37" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon38</VoiceFile>
-          <Content>But I could roughly guess why after a bit of thinking.</Content>
+          <Content>แต่พอมานั่งคิดดู ฉันก็พอเดาได้คร่าวๆอยู่</Content>
         </Dialog>
         <Dialog ID="38" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse?</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Elena1</VoiceFile>
-          <Content>The hell are you doing, quietly muttering lectures to yourself?</Content>
+          <Content>ทำบ้าอะไรของนาย ยืนคุยกับตัวเองอยู่รึไง?</Content>
         </Dialog>
         <Dialog ID="39" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon39</VoiceFile>
-          <Content>You’re coarse with words as usual.</Content>
+          <Content>ด่าเจ็บไม่เคยเปลี่ยน</Content>
         </Dialog>
         <Dialog ID="40" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon40-02</VoiceFile>
-          <Content>I’m speaking to the couple of voyeurs who are probably watching us as we speak, of course.</Content>
+          <Content>แน่นอน ฉันกำลังพูดอยู่กับพวกที่กำลังถ้ำมองพวกเราจาก "ที่อื่น" อยู่ไง</Content>
         </Dialog>
         <Dialog ID="41" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse?</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Elena2</VoiceFile>
-          <Content>Oh, right. That was the plan.</Content>
+          <Content>อ้อใช่ๆ แผนนั้นเองสินะ</Content>
         </Dialog>
         <Dialog ID="42" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse?</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Elena3</VoiceFile>
-          <Content>Being stuck in this train for a week really did take a toll on my focus.</Content>
+          <Content>ติดอยู่ในรถไฟนี้เป็นอาทิตย์ๆมันทำโฟกัสฉันรวนไปหมด</Content>
         </Dialog>
         <Dialog ID="43" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon41</VoiceFile>
-          <Content>Your acting was excellent. Were you an aspiring actress in the past?</Content>
+          <Content>แสดงได้ดีนิ เมื่อก่อนเคยเป็นนักแสดงไฟแรงรึไง?</Content>
         </Dialog>
         <Dialog ID="44" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse?</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Elena4</VoiceFile>
-          <Content>Maybe?</Content>
+          <Content>คิดว่าไงล่ะ?</Content>
         </Dialog>
         <Dialog ID="45" Model="엘레나">
-          <Teller>Elena</Teller>
-          <Title>Nurse?</Title>
+          <Teller>เอลิน่า</Teller>
+          <Title>พยาบาล?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Elena5</VoiceFile>
-          <Content>Anyway, just carry on with what you’re doing.</Content>
+          <Content>ยังไงก็เหอะ รีบๆทำเรื่องของนายให้เสร็จซักทีเถอะ</Content>
         </Dialog>
         <Dialog ID="46" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon42</VoiceFile>
-          <Content>How cold.</Content>
+          <Content>จะเย็นชาไปถึงไหน</Content>
         </Dialog>
         <Dialog ID="47" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon43</VoiceFile>
-          <Content>And it seems this disguise Pluto gave me has almost expired now.</Content>
+          <Content>ดูเหมือนว่าไอ้ชุดอำพรางที่พลูโตให้มาก็กำลังจะหมดอายุแล้ว</Content>
         </Dialog>
         <Dialog ID="48" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Doctor?</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon44</VoiceFile>
-          <Content>Shall we get started, wealthy fellows?</Content>
+          <Content>งั้นก็ เรามาเริ่มกันเลยดีไหม เพื่อนฝูงกระเป๋าหนักทุกท่าน?</Content>
         </Dialog>
         <Dialog ID="49" Model="재헌">
-          <Teller>The Puppeteer</Teller>
-          <Title>Reverb. Ensemble Member</Title>
+          <Teller>นักเชิดหุ่น</Teller>
+          <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon45</VoiceFile>
-          <Content>I have no hard feelings for the somewhat average commoners back there, but you lot make me upset, if I’m being honest.</Content>
+          <Content>ฉันไม่ได้โกรธเคืองหรืออะไรพวกที่เป็นคนธรรมดาทั่วไปหรอก แต่เอาตามตรงนะ พวกแกทำให้ฉันอารมณ์เสียวะ</Content>
         </Dialog>
         <Dialog ID="50" Model="재헌">
-          <Teller>The Puppeteer</Teller>
-          <Title>Reverb. Ensemble Member</Title>
+          <Teller>นักเชิดหุ่น</Teller>
+          <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon46</VoiceFile>
-          <Content>The way you try to squirm your way into comfort with money like the maggots you are agitates me beyond reason.</Content>
+          <Content>การที่พวกแกพยายามที่จะดิ้นรนขึ้นมาอย่างกับหนอน หาความสะดวกสบายด้วยเงินมันทำให้ฉันอยากจะอ้วก</Content>
         </Dialog>
         <Dialog ID="51" Model="재헌">
-          <Teller>The Puppeteer</Teller>
-          <Title>Reverb. Ensemble Member</Title>
+          <Teller>นักเชิดหุ่น</Teller>
+          <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon47</VoiceFile>
-          <Content>Life sure is bizarre, isn’t it.</Content>
+          <Content>ชีวิตนี่แปลกดีเนอะ</Content>
         </Dialog>
         <Dialog ID="52" Model="재헌">
-          <Teller>The Puppeteer</Teller>
-          <Title>Reverb. Ensemble Member</Title>
+          <Teller>นักเชิดหุ่น</Teller>
+          <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon48</VoiceFile>
-          <Content>You spend your hard-earned cash for a first class ticket to keep yourself safe and sound from the torture of time… But now you’re about to suffer something entirely else.</Content>
+          <Content>แกใช้เงินที่หามาได้อย่างยากลำบากสำหรับที่นั่งเฟิร์สคลาสเพื่อที่จะหนีจากความทรมาณของเวลา… แต่กลายเป็นว่าต้องมาทรมาณกับอะไรอย่างอื่นแทน</Content>
         </Dialog>
         <Dialog ID="53" Model="재헌">
-          <Teller>The Puppeteer</Teller>
-          <Title>Reverb. Ensemble Member</Title>
+          <Teller>นักเชิดหุ่น</Teller>
+          <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon49</VoiceFile>
-          <Content>You unfortunately run into the likes of us and meet a terrible fate. Just because you’ve taken first class seats.</Content>
+          <Content>พวกแกดันดวงซวยที่มาเจออะไรแบบพวกเราเลยต้องพบกับชะตากรรมที่เลวร้าย เพียงเพราะพวกแกได้มานั่งในชั้นเฟิร์สคลาสเท่านั้น</Content>
         </Dialog>
         <Dialog ID="54" Model="재헌">
-          <Teller>The Puppeteer</Teller>
-          <Title>Reverb. Ensemble Member</Title>
+          <Teller>นักเชิดหุ่น</Teller>
+          <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon50</VoiceFile>
-          <Content>Yeah, right. Who knows, one of you might have been a piss poor sod who just so happened to win a ticket, hm?</Content>
+          <Content>รู้น่า รู้ ใครบางคนอาจจะจนไม่มีซักศลึงเดียว แต่อาจจะโชคเข้าข้างไปได้ตั๋วที่นั่งเฟิร์สคลาสมาก็ได้?</Content>
         </Dialog>
         <Dialog ID="55" Model="재헌">
-          <Teller>The Puppeteer</Teller>
-          <Title>Reverb. Ensemble Member</Title>
+          <Teller>นักเชิดหุ่น</Teller>
+          <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon51</VoiceFile>
-          <Content>That’s what makes choices so mysterious and profound.</Content>
+          <Content>นั่นล่ะคือสิ่งที่ทำให้ตัวเลือกนั้นมันช่างลึกลับและลึกซึ้ง</Content>
         </Dialog>
         <Dialog ID="56" Model="재헌">
-          <Teller>The Puppeteer</Teller>
-          <Title>Reverb. Ensemble Member</Title>
+          <Teller>นักเชิดหุ่น</Teller>
+          <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon52</VoiceFile>
-          <Content>I personally think there’s no such thing as choice in our lives.</Content>
+          <Content>อย่างฉันเนี้ยคิดว่าทั้งชีวิตเรามันเลือกอะไรไม่ได้ตั้งแต่แรกอยู่แล้ว</Content>
         </Dialog>
         <Dialog ID="57" Model="재헌">
-          <Teller>The Puppeteer</Teller>
-          <Title>Reverb. Ensemble Member</Title>
+          <Teller>นักเชิดหุ่น</Teller>
+          <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon53</VoiceFile>
-          <Content>Someone is playing tricks on all of us, mischievously and sneakily.</Content>
+          <Content>มีใครบางคนค่อยเล่นกลใส่เราอย่างลับๆแถมยังอันตรายอีกด้วย</Content>
         </Dialog>
         <Dialog ID="58" Model="재헌">
-          <Teller>The Puppeteer</Teller>
-          <Title>Reverb. Ensemble Member</Title>
+          <Teller>นักเชิดหุ่น</Teller>
+          <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon54</VoiceFile>
-          <Content>Staging an endless puppet show, attaching invisible strings to us.</Content>
+          <Content>ค่อยจัดฉากการแสดงหุ่นเชิดไม่รู้จบ แล้วนำเส้นไหมล่องหนมาตรึงกับเรา</Content>
         </Dialog>
         <Dialog ID="59" Model="재헌">
-          <Teller>The Puppeteer</Teller>
-          <Title>Reverb. Ensemble Member</Title>
+          <Teller>นักเชิดหุ่น</Teller>
+          <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon55-01</VoiceFile>
-          <Content>Now, shall we get started?</Content>
+          <Content>งั้น เรามาเริ่มกันเลยไหม?</Content>
         </Dialog>
         <Dialog ID="60" Model="재헌">
-          <Teller>The Puppeteer</Teller>
-          <Title>Reverb. Ensemble Member</Title>
+          <Teller>นักเชิดหุ่น</Teller>
+          <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon56-01</VoiceFile>
-          <Content>It’s time for a little puppetry.</Content>
+          <Content>ได้เวลาการเชิดหุ่นแล้ว</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในหอสมุด</PlaceName>
         <Dialog ID="61" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Roland1</VoiceFile>
-          <Content>So that’s the ‘Puppeteer’, huh…</Content>
+          <Content>นั่นคงเป็น‘นักเชิดหุ่น’สินะ…</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela1</VoiceFile>
-          <Content>It’s as if he were speaking directly to us.</Content>
+          <Content>เหมือนกับว่าเขากำลังคุยกับเราซึ่งๆหน้าเลย</Content>
         </Dialog>
         <Dialog ID="63" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Roland2</VoiceFile>
-          <Content>If he’s part of the Blue Reverb’s gang, maybe he knows something about us.</Content>
+          <Content>ถ้าเขาเป็นหนึ่งในแก็งพวกกังวาลสีครามล่ะก็ เขาอาจจะรู้อะไรบางอย่างเกี่ยวกับเราก็ได้</Content>
         </Dialog>
         <Dialog ID="64" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela2</VoiceFile>
-          <Content>Could the Blue Reverberation be focusing on the Library, then?</Content>
+          <Content>งั้นหมายความว่าเสียงกังวาลสีครามก็เล็งมาที่หอสมุดน่ะหรอ?</Content>
         </Dialog>
         <Dialog ID="65" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Roland3</VoiceFile>
-          <Content>Possibly. I don’t know what he’s looking for, but it certainly ain’t gonna be normal.</Content>
+          <Content>เป็นไปได้ ฉันเองก็ไม่รู้หรอกนะว่าจะมาหาอะไรกัน แต่มั่นใจได้เลยว่ามันต้องไม่ปกติแน่ๆ</Content>
         </Dialog>
         <Dialog ID="66" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela3</VoiceFile>
-          <Content>What else could he be after, other than the books we have?</Content>
+          <Content>เขาอาจจะอยากได้หนังสือของเราก็ได้</Content>
         </Dialog>
         <Dialog ID="67" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Roland4</VoiceFile>
-          <Content>The question would be what kind of books they really want.</Content>
+          <Content>สงสัยจังว่าพวกเขาต้องการหนังสือประเภทไหน</Content>
         </Dialog>
         <Dialog ID="68" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela4</VoiceFile>
-          <Content>Anyway, WARP Corp. is going to be in big trouble if the disappearance of every passenger in the first class carriage gets known by others.</Content>
+          <Content>อีกเรื่องนึง WARP คอร์ปเองคงจะเจอปัญหาใหญ่เลยถ้าเกิดข่าวการหายตัวไปของผู้โดยสารชั้นเฟิร์คลาสหลุดออกไป</Content>
         </Dialog>
         <Dialog ID="69" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Roland5</VoiceFile>
-          <Content>For sure. W Corp. might get involved with us at this rate.</Content>
+          <Content>แน่นอน ถ้าเป็นแบบนี้ต่อไป W คอร์ปก็คงต้องมามีเอี่ยวกับเราแล้ว</Content>
         </Dialog>
         <Dialog ID="70" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Roland6</VoiceFile>
-          <Content>Was this part of the Blue Reverb’s plan…</Content>
+          <Content>แล้วก็ไปตรงตามแผนของเจ้าเสียงกังวาลสีครามเข้า…</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela5</VoiceFile>
-          <Content>It would be intriguing if that were the case.</Content>
+          <Content>มันคงน่าสนใจแน่ถ้าเกิดเป็นอย่างนั้นจริง</Content>
         </Dialog>
         <Dialog ID="72" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Roland7</VoiceFile>
-          <Content>Oh, I bet your enthusiasm will turn into disdain real quick when you actually meet that cuckoo.</Content>
+          <Content>ขอสาบานเลยนะ ว่าถ้าเธอได้ไปเจอไอ้บ้านั่นเข้า จากคำชมจะกลายเป็นคำด่าแทนเลย</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าหอสมุด</PlaceName>
         <Dialog ID="73" Model="인형1">
-          <Teller>Puppet 1</Teller>
-          <Title>Puppet</Title>
+          <Teller>หุ่นเชิด 1</Teller>
+          <Title>หุ่นเชิด</Title>
           <VoiceFile />
-          <Content>Gigigigi.</Content>
+          <Content>กึกกึกกึกกึกกึกกึ</Content>
         </Dialog>
         <Dialog ID="74" Model="인형2">
-          <Teller>Puppet 2</Teller>
-          <Title>Puppet</Title>
+          <Teller>หุ่นเชิด 2</Teller>
+          <Title>หุ่นเชิด</Title>
           <VoiceFile />
-          <Content>Grgrgrgrg.</Content>
+          <Content>กึกกึกกึกกึกกึกกึ</Content>
         </Dialog>
         <Dialog ID="75" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela6</VoiceFile>
-          <Content>Guests who cannot speak…</Content>
+          <Content>แขกที่พูดไม่ได้…</Content>
         </Dialog>
         <Dialog ID="76" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela7</VoiceFile>
-          <Content>Still, you’ve managed to come to the Library through the invitation… That means you must have some sort of consciousness, no?</Content>
+          <Content>ถึงอย่างนั้น การที่พวกคุณเข้ามาในหอสมุดนี้ได้ผ่านบัตรเชิญ… หมายความว่าพวกคุณยังเหลือสติกันอยู่ ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela8</VoiceFile>
-          <Content>Even though you are puppets controlled by the strings above you.</Content>
+          <Content>ถึงแม้ว่าพวกคุณจะเป็นหุ่นเชิดที่ถูกควบคุมโดยเส้นด้ายบนหัวคุณก็ตาม</Content>
         </Dialog>
         <Dialog ID="78" Model="인형3">
-          <Teller>Puppet 3</Teller>
-          <Title>Puppet</Title>
+          <Teller>หุ่นเชิด 3</Teller>
+          <Title>หุ่นเชิด</Title>
           <VoiceFile />
-          <Content>Gygygygygyg.</Content>
+          <Content>กึกกึกกึกกึกกึกกึก</Content>
         </Dialog>
         <Dialog ID="79" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela9</VoiceFile>
-          <Content>I have no idea what you may be saying.</Content>
+          <Content>พูดอะไรฉันไม่เห็นรู้เรื่อง</Content>
         </Dialog>
         <Dialog ID="80" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela10</VoiceFile>
-          <Content>If you want to get the books as your puppeteer so wishes, you can go through that door.</Content>
+          <Content>ถ้าอยากจะได้หนังสือที่นักเชิดหุ่นมันต้องการล่ะก็ ผ่านประตูนี้ไปได้เลย</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>Episode 1 Epilogue</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในหอสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Roland8</VoiceFile>
-          <Content>Those puppets were conscious somehow, right?</Content>
+          <Content>หุ่นเชิดพวกนั้นมันมีสติอยู่ ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela11</VoiceFile>
-          <Content>They appeared so. We could resolve books from them, too.</Content>
+          <Content>เหมือนจะเป็นเหมือนอย่างที่นายบอก แถมเราก็ได้หนังสือจากพวกเขาเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela12</VoiceFile>
-          <Content>Although they didn’t have control over their bodies, they still seemed to carry minds of their own.</Content>
+          <Content>ถึงแม้พวกเขาจะควบคุมร่างกายตัวเองไม่ได้ แต่สติดูเหมือนจะเป็นของตนเอง</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela13</VoiceFile>
-          <Content>And they had to witness their own bodies being tugged along by strings while their senses and feelings were intact.</Content>
+          <Content>แถมพวกเขาต้องมาเห็นว่าร่างกายของตัวเองโดนยึดติดกันด้วยเส้นด้ายในขณะที่ยังรับรู้ทุกสิ่งได้อยู่</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Roland9</VoiceFile>
-          <Content>Does that mean…?</Content>
+          <Content>งั้นก็หมายความว่า…?</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela14</VoiceFile>
-          <Content>Yes. The Puppeteer is a Distortion.</Content>
+          <Content>ใช่แล้ว นักเชิดหุ่นเป็นการบิดเบือน</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela15</VoiceFile>
-          <Content>And those puppets were its byproducts.</Content>
+          <Content>และพวกหุ่นเชิดก็คงเป็นผลพลอยได้จากมัน</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela16</VoiceFile>
-          <Content>I’ve seen several Abnormalities that could create underlings for themselves, so I can understand this to be a similar case.</Content>
+          <Content>ฉันเคยเห็นแอบนอร์มาลิตี้ที่สามารถสร้างลูกน้องได้ด้วยตัวของมันเอง ฉันเลยคิดว่ามันคงเป็นเคสเดียวกัน</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Roland10</VoiceFile>
-          <Content>Poor folks, working their asses off only to be treated like dolls.</Content>
+          <Content>มันช่างน่าเศร้าจริงๆ ทำงานหนักตรากตำเพื่อที่จะกลายเป็นตุ๊กตาเนี้ยนะ</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela17</VoiceFile>
-          <Content>I could understand their feelings well.</Content>
+          <Content>ฉันพอเข้าใจพวกเขาอยู่</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela18</VoiceFile>
-          <Content>After all, I used to be a puppet myself.</Content>
+          <Content>ก็ฉันน่ะ เคยเป็นหุ่นเชิดมาแล้วนิ</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Roland11</VoiceFile>
-          <Content>Can those puppets be freed, though?</Content>
+          <Content>หุ่นเชิดพวกนั้นจะถูกปลดปล่อยได้ไหม?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela19</VoiceFile>
-          <Content>Killing the Puppeteer may free them from the attached strings, but they would remain ragged dolls.</Content>
+          <Content>ฆ่านักเชิดหุ่นไปก็ปล่อยแค่เชือก พวกเขาจะยังเป็นตุ็กตาอยู่เหมือนเคย</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela20</VoiceFile>
-          <Content>I must wonder if they’d still want to live in that form?</Content>
+          <Content>แต่ฉันสงสัยนะว่าพวกเขาอยากจะมีชีวิอยู่ในร่างนั้นรึเปล่า?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Roland12</VoiceFile>
-          <Content>Yeah, fair enough. Knew it couldn’t be that simple.</Content>
+          <Content>ก็จริง พอรู้อยู่แล้วว่ามันไม่ง่ายแน่ๆ</Content>
         </Dialog>
       </Place>
     </Episode>

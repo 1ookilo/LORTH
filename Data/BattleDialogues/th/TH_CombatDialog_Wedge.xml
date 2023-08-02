@@ -3,44 +3,44 @@
   <GroupName>Wedge</GroupName>
   <Character ID="Philip">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">I can do it. For the sake of my master and seonbae…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">It won’t be the same as the last… I don’t want to run.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">I have to prove the Fixers of this Office wrong…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ผมต้องทำได้ เพื่อเห็นแก่อาจารย์และรุ่นพี่…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">มันจะไม่เหมือนกับครั้งที่แล้ว… ผมไม่อยากวิ่งหนีอีกแล้ว</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ผมจะพิสูจน์เองว่า พวกคุณคิดผิด…</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I’m glad we could end this safely.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ผมดีใจที่เราสามารถจบเรื่องนี้ได้อย่างปลอดภัย</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">I can’t seem to move… I can’t take another step ahead…</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_1">I’m left alone again…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">ผมไม่สามารถขยับแขนได้… ผมไม่สามารถก้าวไปต่อไปได้อีกแล้ว…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">และผมก็อยู่ตัวคนเดียว อีกแล้ว…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">I couldn’t help… I… got afraid again…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Do I have to… sit and watch my colleagues die, again…?</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">Can’t I stop this… with my own strength…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">ผมไม่สามารถช่วยเขาได้… ผม… รู้สึกกลัวอีกแล้ว…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">ผมต้อง… นั่งดูเพื่อนร่วมงานตายอีกแล้วเหรอ…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">ผมไม่สามารถหยุดสิ่งนี้ได้… ด้วยกำลังของผมเอง…?</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">I can do it as you can see, if I take careful steps…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Yeah… I just needed to be more daring.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">I shouldn’t let this get to my head…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ผมก็สามารถทำได้ ถ้าผมทำตามกระบวนการอย่างระมัดระวัง…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ใช่… ผมแค่ต้องกล้ามากกว่านี้อีก</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ผมจะไม่ปล่อยให้เรื่องนี้มันค้างอยู่ในหัวของผม…</BattleDialog>
     </Type>
   </Character>
   <Character ID="Philip2">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">I’ll end this fight for sure this time.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">I’m going to do what I can do now… What I must do.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">I won’t run… I can’t just wait and see anymore.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ผมจะหยุดการต่อสู้ครั้งนี้ ให้มันจบลงถาวร</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ผมจะทำสิ่งที่ผมทำได้… และผมต้องทำ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">ผมจะไม่วิ่งหนี… ผมจะอยู่และสู้ต่อไป</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Why could I only muster up this courage after losing everyone…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ทำไมผมถึงสามารถรวบรวมความกล้าได้หลังจากสูญเสียทุกคนไปละ…</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">Wait… Why… I still have to finish this!!!</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">เดี๋ยวก่อนนะ… หยุด… ผมยังต้องสู้ต่อให้เสร็จ!!!</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Am I really… going down the right path?</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">I won’t give in this time…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Hesitation won’t help me move forward.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">นี้ผมกำลัง… กำลังต่อสู้ด้วยวิธีที่ถูกต้องใช่ไหม?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ผมจะไม่ยอมแพ้ อย่างน้อยก็ครั้งนี้…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ความลังเลมันไม่ได้ช่วยให้ผมสามารถก้าวไปข้างหน้าต่อ</BattleDialog>
     </Type>
   </Character>
   <Character ID="Oscar">
