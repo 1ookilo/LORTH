@@ -33,7 +33,7 @@
       <BattleDialog ID="START_BATTLE_2">การระมัดระวังตัวตลอดเป็นสิ่งที่ดีก็จริง แต่ก็ไม่ควรลังเลเมื่อต้องยิง</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">นี้คิดจรองดิว่าจะหยุดเราได้ ด้วยความสามารถแค่นี้นะ?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">นี้คิดว่าจะหยุดเราได้ ด้วยความสามารถแค่นี้นะ?</BattleDialog>
       <BattleDialog ID="BATTLE_VICTORY_1">ปืนมันมีประโยชน์มากเลยละ ในสถานการณ์ที่เหมาะสมนะ</BattleDialog>
     </Type>
     <Type ID="DEATH">
