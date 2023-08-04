@@ -3428,78 +3428,78 @@
     <Episode>
       <EpisodeName>Episode 1 Epilogue</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+          <PlaceName>สถานที่: ด้านในห้องสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland10</VoiceFile>
-          <Content>Boy, was that exhausting. Those Sweepers sure are persistent.</Content>
+          <Content>เฮ้อ แปปนะหอบกิน พวกสวีปเปอร์ส์นี่จัดการยากจริงๆ.</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela12</VoiceFile>
-          <Content>What kind of deal could’ve made them so desperate, I wonder.</Content>
+          <Content>พวกเขาตกลงอะไรกันถึงกับยอมทำขนาดนี้เลย</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland11</VoiceFile>
-          <Content>The most I can tell is that the Sweepers are losing their ground, so they tried to make a deal to do something about it.</Content>
+          <Content>ที่ฉันรู้ตอนนี้คือพวกสวีปเปอร์ส์กำลังสูญเสียถิ่นของพวกเขา เพราะงั้นเลยเลือกทำข้อตกลงเพื่อจัดการกับปัญหานั้น</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela13</VoiceFile>
-          <Content>Could we get to know more?</Content>
+          <Content>เราพอจะรู้มากกว่านี้ได้ไหม?</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland12</VoiceFile>
-          <Content>No idea. Maybe the invitation will show us the answer eventually?</Content>
+          <Content>ไม่รู้เหมือนกัน บางที บัตรเชิญอาจจะโชว์คำตอบให้เราในไม่ช้าก็ได้?</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland13</VoiceFile>
-          <Content>You seem to be weirdly fixed on the Sweepers, by the way. What’s up with that?</Content>
+          <Content>แล้วทำไมเธอถึงยึดติดกับพวกสวีปเปอร์ส์จังเลย?</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela14</VoiceFile>
-          <Content>Something about them smelled suspicious…</Content>
+          <Content>ฉันได้กลิ่นตุๆน่ะ…</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland14</VoiceFile>
-          <Content>They do have an awful smell, I’ll give you that…</Content>
+          <Content>ก็จริงแฮะ พวกนั้นกลิ่นเหม็นตุจริงๆ…</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland15</VoiceFile>
-          <Content>Take a sniff of those filthy bandages, and your appetite’s…</Content>
+          <Content>แค่ดมกลิ่นผ้าพันแผลพวกนั้นแปปเดียว ความหิวก็มลา-…</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela15</VoiceFile>
-          <Content>Are you insane?</Content>
+          <Content>บ้าไปแล้วรึไง?</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland16</VoiceFile>
-          <Content>Sheesh, can’t even crack a joke…</Content>
+          <Content>เล่นมุกหน่อยก็ไม่ได้…</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland17</VoiceFile>
-          <Content>Well, anyway, this is the first time our Miss Library Director let her intuition speak so much… I guess it won’t hurt to keep an eye on this case.</Content>
+          <Content>ยังไงซะ นี่เป็นครั้งแรกที่ผู้อำนวยการห้องสมุดของพวกเราอยากรู้อยากเห็นมากนัก มันคงไม่เสียหายถ้าจับตาดูเรื่องนี้ซักหน่อย</Content>
         </Dialog>
       </Place>
     </Episode>
