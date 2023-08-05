@@ -27,8 +27,8 @@
   </Character>
   <Character ID="Philip2">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">ผมจะหยุดการต่อสู้ครั้งนี้ ให้มันจบลงถาวร</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">ผมจะทำสิ่งที่ผมทำได้… และผมต้องทำ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ผมจะหยุดการต่อสู้ครั้งนี้ ให้มันจบลงอย่างถาวร</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ผมจะทำในสิ่งที่ผมทำได้… และผมต้องทำ</BattleDialog>
       <BattleDialog ID="START_BATTLE_2">ผมจะไม่วิ่งหนี… ผมจะอยู่และสู้ต่อไป</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
@@ -38,75 +38,75 @@
       <BattleDialog ID="SPECIAL_EVENT_0">เดี๋ยวก่อนนะ… หยุด… ผมยังต้องสู้ต่อให้เสร็จ!!!</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">นี้ผมกำลัง… กำลังต่อสู้ด้วยวิธีที่ถูกต้องใช่ไหม?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">นี้ผม… กำลังต่อสู้ด้วยวิธีที่ถูกต้องใช่ไหม?</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_1">ผมจะไม่ยอมแพ้ อย่างน้อยก็ครั้งนี้…</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_2">ความลังเลมันไม่ได้ช่วยให้ผมสามารถก้าวไปข้างหน้าต่อ</BattleDialog>
     </Type>
   </Character>
   <Character ID="Oscar">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Enough, both of you. Don’t you still understand the consequences of carelessness?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">It seems you’ve learned nothing from the incident last time. Keep your focus on the enemies.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">หยุดเลยทั้งคู่ พวกเธอลืมผลที่เกิดขึ้นจากความประมาทเลินเล่องั้นเหรอ?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ดูเหมือนว่าเธอจะไม่ได้เรียนรู้อะไรเลยจากครั้งที่แล้ว ให้โฟกัสไปที่ศัตรู</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">This battle lacked firepower. We’ll wrap up and return.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">I suppose I haven’t gotten any weaker than my old friend has.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ในการต่อสู้ครั้งนี้อาวุธยังขาดพลังโจมตีอยู่ เราจะสรุปผลและกลับไปปรับปรุง</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">อย่างน้อยฉันก็ไม่ได้อ่อนแอกว่าเพื่อนเก่าฉัน</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Perhaps I’ve gotten too slowed up…</BattleDialog>
+      <BattleDialog ID="DEATH_0">บางทีฉันอาจจะช้าเกินไป…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">I warned you time after time to watch your front…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">It can all be attributed to the inattention of the individual.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">ฉันเตือนเธอแล้วนะ ว่าให้ระวังข้างหน้า…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">ทั้งหมดนี้มันเกิดจากความไม่โฟกัสไปกับงาน</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Uncertain actions will end in death. You drank as you brewed.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">You invited us to this battle with such a weak will. How thoughtless of you.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">They were no match for us in the end.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">การกระทำที่ไม่แน่นอนมันมักจบลงด้วยความตาย คุณทำอะไรก็ได้สิ่งนั้น</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">พวกคุณเชิญเราเข้าร่วมในการต่อสู้ครั้งนี้ แต่ความตั้งใจของคุณดันสวนทาง</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">พวกเขาไม่สามารถรับมือเราได้ในท้ายที่สุด</BattleDialog>
     </Type>
   </Character>
   <Character ID="Pameli">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">You wanna keep picking fights, huh? Why don’t you worry about your own body.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Oh you punk… Wanna have a go at it, yeah?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">เธอต้องการที่ให้ฉันระวังตัวใช่มั้ย แล้วทำไมเธอไม่กังวลตัวของเธอเองบ้างละ</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">โอ้ ไอพังก์… อยากลองดูไหมละ</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Seriously, this is all it took to wipe out that Office? That’s lame.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">I still don’t get how this place even functions.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ถามจริง มันกำจัดสำนักงานนายด้วยความสามารถแค่นี้เหรอ? โครตง่อยเลย</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">ฉันไม่เข้าใจเลย ว่าที่นี่มีหลักการทำงานยังไง</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">That was such an idiotic move…</BattleDialog>
+      <BattleDialog ID="DEATH_0">มันเป็นการเคลื่อนไหวที่ผิดพลาดมาก…</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">…This is a pretty tough situation, but I gotta get over it.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_1">Hmph, that’s what she gets for being cheeky. …I’m not gonna care, I really won’t.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">…สถานการณ์มันเริ่มข้างยากแล้ว แต่ฉันต้องผ่านมันไปให้ได้</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">อืม นั่นคงเป็นสิ่งที่นายได้รับจากการเป็นพวกหน้าด้าน …ฉันจะไม่สนใจเรื่องนั้นหรอก ไม่สนใจจริงๆ</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Thought I’d lose to the likes of you? I’ll skewer you all.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Didn’t take much effort to figure this one out.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Sigh… I just hope that idiot Philip’s being actually helpful for us.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">นี้คิดว่าฉันจะแพ้ให้กับคนแบบคุณเหรอ? ฉันแค่ต้องเสียบพวกนายทั้งหมด</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ไม่ต้องใช้ความพยายามมากเลย ในการจัดการมันคนหนึ่ง</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">เฮ้อ… ฉันแค่หวังว่าไอคนงี่เง่าอย่างฟิลิป จะเป็นประโยชน์กับให้เรา</BattleDialog>
     </Type>
   </Character>
   <Character ID="Pamela">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Please don’t get into the same trouble as last time. You should know how much of a hassle it is.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">You’re getting in my way, so stay to your position. Wanna say goodbye to your body twice?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">โปรดอย่าให้ตัวเองเจอปัญหาเหมือนกับครั้งที่แล้วนะ เธอควรจะรู้ว่ามันยุ่งยากมากแค่ไหน</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">เธอกำลังขัดขาฉันอยู่นะ ช่วยอยู่ในตำแหน่งของเธอชะ หรืออยากบอกลาร่างกายของเธออีกครั้งละ?</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I guess the old man really was washed up, dying in a place like this.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">It’s called taking care of the work we took. There’s no use getting all scared, you get that?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ฉันคิดว่าชายชราตงจะมาผิดที่จริงๆ และตายในสถานที่แบบนี้</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">เราแค่ดูแลงานที่เราได้รับมา มันไม่มีประโยชน์ที่จะกลัวไปตลอด เข้าใจไหม?</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I didn’t… wanna make such a mistake.</BattleDialog>
+      <BattleDialog ID="DEATH_0">ฉันไม่…อยากทำผิดพลาดแบบนั้น</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">It’s what we should always expect when we do work like this.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">This doesn’t feel good… We should be on our toes.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">มันเป็นสิ่งที่เราคิดเสมอว่ามันจะเกิดขึ้น เมื่อเราทำงานแบบนี้</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">มันไม่ดีแล้ว… ฉันควรจะตั้งสติ</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">That wasn’t hard, the movement was predictable.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Alright, how many more left?</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">I took down one, but I must say they’re pretty formidable foes.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">มันไม่ใช่เรื่องยากเลย ถ้าเราเจอการเคลื่อนไหวที่สามารถคาดเดาได้</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">เอาล่ะ ยังเหลืออีกกี่คน?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ฉันจัดการมันได้ แต่ฉันต้องบอกเลยว่าพวกมันเป็นศัตรูที่แข็งแกร่งทีเดียว</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>
