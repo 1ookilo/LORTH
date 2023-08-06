@@ -1648,7 +1648,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้บริหารหอสมุด</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_10</VoiceFile>
-          <Content>ฉันเหนื่อยกับการถูกหักหลัง แะฉันจะให้ใครก็ตามที่ทำแบบนั้นชดใช้</Content>
+          <Content>ฉันเหนื่อยกับการถูกหักหลัง แะฉันจะให้ใครก็ตามที่ทำแบบนั้นต้องชดใช้</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -3316,13 +3316,13 @@
           <Teller>ฮ็อด</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วรรณกรรม</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Hod_1</VoiceFile>
-          <Content>สวัสดีค่ะ ดิฉันโฮด, บรรณารักษ์ประจำชั้นแห่งนี้</Content>
+          <Content>สวัสดีค่ะ ดิฉันโฮด, หัวหน้าบรรณารักษ์ประจำชั้นนี้</Content>
         </Dialog>
         <Dialog ID="2" Model="그레타">
           <Teller>เกรต้า</Teller>
           <Title>เชฟคนที่แปด</Title>
           <VoiceFile>ch7_Blue_ep2_HG_Greta_2</VoiceFile>
-          <Content>บรรณารักษ์ประจำชั้น? นี่เธอเป้นหนึ่งในเชฟที่นี่รึไง?</Content>
+          <Content>หัวหน้าบรรณารักษ์? นี่เธอเป็นหนึ่งในเชฟที่นี่รึไง?</Content>
         </Dialog>
         <Dialog ID="3" Model="호드">
           <Teller>ฮ็อด</Teller>
