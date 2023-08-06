@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="1">
-    <Title>Chapter 1-เรื่องเล่าขำขัน-‘ฉันเดินออกมากลางถนน พร้อมๆกับมือที่ล้วงในกระเป๋า’</Title>
+    <Title>Chapter 1-เรื่องเล่าขำขัน-‘ฉันเดินออกมากลางถนน พร้อมๆกับมือที่ล้วงอยู่ในกระเป๋ากางเกง’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
@@ -19,49 +19,49 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela2</VoiceFile>
-          <Content>แม้กระทั้งเรื่องพวกนี้มันจบลงไปแล้ว ฉันก็ยังไม่เป็นอิสระ…</Content>
+          <Content>แม้กระทั้งเรื่องทุกอย่างมันจะจบไป ฉันก็ยังไม่เป็นอิสระ…</Content>
         </Dialog>
         <Dialog ID="2" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela3</VoiceFile>
-          <Content>หรือว่าฉันจะไม่มีสิทธิ์ฝันไปไกลเกินมากกว่านี้ได้…?</Content>
+          <Content>หรือว่าฉันจะไม่มีสิทธิ์ฝันเรื่องที่ไกลเกินกว่าจะไปถึง…?</Content>
         </Dialog>
         <Dialog ID="3" model="롤랑">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_roland1</VoiceFile>
-          <Content>บ้าเอ้ย… น้ำตาอินทนิล…</Content>
+          <Content>บ้าเอ้ย… ยัยน้ำตาอินทนิล…</Content>
         </Dialog>
         <Dialog ID="4" model="롤랑">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_roland2</VoiceFile>
-          <Content>ไม่อยากเชื่อว่ายัยนั้นคิดจัดการด้วยวิธีนี้…</Content>
+          <Content>ดันใช้วิธีเเบบนี้จัดการซะได้…</Content>
         </Dialog>
         <Dialog ID="5" model="롤랑">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_roland3</VoiceFile>
-          <Content>ว่าแต่มันเกิดบ้าอะไรขึ้น? ควันพวกนี้มาจากไหน?</Content>
+          <Content>เเล้วนี่มันบ้าอะไร? ทำไมมีเเต่ควันเต็มหมด?</Content>
         </Dialog>
         <Dialog ID="6" model="롤랑">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_roland4</VoiceFile>
-          <Content>เฮ้อ… ฉันว่าคงต้องเชื่อใจยัยนั้นไปก่อน…</Content>
+          <Content>เฮ้อ… มีเเต่ต้องเชื่อยัยนั่นสินะ…</Content>
         </Dialog>
         <Dialog ID="7" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela4</VoiceFile>
-          <Content>…ฉันจะไม่ถามซ้ำหรอกนะ</Content>
+          <Content>…ฉันขอถามนายเพียงครั้งเดียว</Content>
         </Dialog>
         <Dialog ID="8" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela5</VoiceFile>
-          <Content>ฉันเกลียดการพูดเยอะและวกไปวนมาและไร้ประโยชน์ไม่เข้าประเด็น</Content>
+          <Content>ฉันเกลียดการพูดวกวนหรือการพูดอ้อมค้อมนอกประเด็น</Content>
         </Dialog>
         <Dialog ID="9" model="앤젤라">
           <Teller>???</Teller>
@@ -73,7 +73,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela7</VoiceFile>
-          <Content>และก็อย่าถามฉันกลับด้วยนะ</Content>
+          <Content>และก็ห้ามถามฉันกลับด้วยล่ะ</Content>
         </Dialog>
         <Dialog ID="11" model="앤젤라">
           <Teller>???</Teller>
@@ -85,13 +85,13 @@
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland5</VoiceFile>
-          <Content>เด๋วก่อน, เนี้ยเธอเป็นใคร…</Content>
+          <Content>เด๋วก่อน, เธอล่ะเป็นใค…</Content>
         </Dialog>
         <Dialog ID="13" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland6</VoiceFile>
-          <Content>เอิ๊ก, แม่งเอ้ย… ทำไมอยู่ๆรู้สึกคลื่นไส้วะเนี้ย…</Content>
+          <Content>เอิ๊ก, แม่งเอ้ย… ทำไมอยู่ๆถึงรู้สึกคลื่นไส้วะเนี้ย…</Content>
         </Dialog>
         <Dialog ID="14" model="롤랑">
           <Teller>???</Teller>
@@ -103,31 +103,31 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela9</VoiceFile>
-          <Content>ฉันเตือนนายแล้ว แต่นายก็ยังคงล้ำเส้นอยู่ดี งั้นฉันจะถามอีกสักครั้งละกันนะ</Content>
+          <Content>ฉันเตือนนายแล้ว แต่นายก็ยังล้ำเส้น งั้นฟังที่ฉันถามอีกครั้งนะ</Content>
         </Dialog>
         <Dialog ID="16" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela10</VoiceFile>
-          <Content>นายมาที่นี่ได้ยังไง มาจากไหนและก็มาเพื่ออะไร?</Content>
+          <Content>นายมาที่นี่ได้ยังไง มาจากไหนและก็มาที่นี่เพื่ออะไร?</Content>
         </Dialog>
         <Dialog ID="17" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland8</VoiceFile>
-          <Content>…ฉันก็แค่เดินเล่นเดินไปมาแค่นั้นเอง แล้วจู่ๆก็มาโผล่ที่นี่ ฉันไม่รู้ตัวด้วยซ้ำว่ามาที่นี่ได้ยังไง บ้าเอ้ย เลือดกระฉูดออกมาจากขาขวาของฉัน ฉันสาบานจริงๆฉันไม่ได้กะมาบุกรุกที่นี่ ไม่รู้ด้วยซ้ำว่าที่นี่มันที่ไหน</Content>
+          <Content>…ฉันก็แค่เดินเล่นไปมาแค่นั้นเอง แล้วจู่ๆก็มาโผล่ที่นี่ได้ไงก็ไม่รู้ บ้าชิบเลือดที่ขาขวามันไหลไม่หยุดเลย ขอล่ะฉันไม่ได้มาบุกรุกอะไรหรอก อยู่ไหนฉันยังไม่รู้เลย</Content>
         </Dialog>
         <Dialog ID="18" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland9</VoiceFile>
-          <Content>ฉันตื่นมาราวๆตอนบ่ายmoงและไปเดินเล่นรอบๆถนนเขต 13 แล้วพอออกมาเดินเล่นแล้วคิดว่า ฉันอยากที่จะไปร้านแฮมแฮมปังปัง เพราะได้ยินว่าตอนนี้เขากำลังขายแซนวิซสูตรพิเศษในสุดสัปดาห์นี้</Content>
+          <Content>ฉันตื่นมาราวๆบ่ายโมงเเล้วฉันก็ไปเดินเเถวๆถนนเขต 13 พอได้มาสูดอากาศฉันก็เลยอยากไปกินอะไรที่ร้านแฮมแฮมปังปัง เห็นเขาว่าตอนนี้กำลังขายแซนวิซสูตรพิเศษของสุดสัปดาห์อยู่</Content>
         </Dialog>
         <Dialog ID="19" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland10</VoiceFile>
-          <Content>ยังไงก็แล้วแต่ ฉันมีหนี้ที่ต้องจ่าย ไม่มีงานและก็พยายามใช้ชีวิตอยู่ด้วยการเป็นพนักงา—</Content>
+          <Content>อย่าว่างั้นงี้เลย ค่าหนี้ฉันก็ต้องจ่าย งานเงินก็ไม่มี เเค่พยายามทำตัวเป็นพนักงานเงินเดือนปกติเอ—</Content>
         </Dialog>
         <Dialog ID="20" model="롤랑">
           <Teller>???</Teller>
@@ -139,31 +139,31 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela11</VoiceFile>
-          <Content>นายพูดจาลากยาวเกินไป ครั้งต่อไปฉันจะเอาแขนซ้ายและขาซ้ายของนาย</Content>
+          <Content>เลิกเหลวไหลได้เเล้ว ครั้งต่อไปฉันจะเอาแขนซ้ายกับขาซ้ายของนาย</Content>
         </Dialog>
         <Dialog ID="22" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela12</VoiceFile>
-          <Content>นายไม่มีจุดประสงค์ และนายก็ไม่รู้ว่าเข้ามาที่นี่ได้ยังไงสินะ แล้วนายเป็นใครกันแน่?</Content>
+          <Content>ไม่มีเเม้เเต่จุดประสงค์ และก็ไม่รู้ว่าตัวเองเข้ามาที่นี่ได้ยังไง แล้วตกลงนายเป็นใครกัน?</Content>
         </Dialog>
         <Dialog ID="23" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland12</VoiceFile>
-          <Content>ฉันก็แค่ฟิซเซอร์ธรรมดาๆที่ตกกระป๋องแล้วเท่านั้นเอง แล้วที่บ้าๆเนี้ยมันที่ไหน? แล้วเธอเป็นใครกันละเนี้ย?</Content>
+          <Content>ฉันก็แค่ฟิซเซอร์ดาษๆทั่วไปตามถนนหนทางนั่นเเหละ ที่นี่มันบ้าอะไรกัน? แล้วเธอเป็นใครกันเเน่?</Content>
         </Dialog>
         <Dialog ID="24" model="롤랑">
           <Teller>???</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland13</VoiceFile>
-          <Content>อ่ะเหื้อ!!! ไม่เอาน่า คราวนี้เอาไปทั้งแขนทั้งขาแบบนี้ไม่ยุติธรรมเลย…</Content>
+          <Content>เอื้อก!!! ไม่เอาน่า คราวนี้เหมาทั้งเเขนทั้งขาเลยเหรอไม่เห็นจะเเฟร์เลย…</Content>
         </Dialog>
         <Dialog ID="25" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela13</VoiceFile>
-          <Content>ฉันเป็นคนถามนายนะ นายชื่ออะไรน่ะ?</Content>
+          <Content>ฉันเป็นคนถาม ตอบมาว่านายชื่ออะไร?</Content>
         </Dialog>
         <Dialog ID="26" model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -175,25 +175,25 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela14</VoiceFile>
-          <Content>ดี ยินดีต้อนรับสู่ห้องสมุด พวกเรามีหน้าที่ต้อนรับแขก แต่จู่ๆนายก็ไม่รู้โผล่มาจากไหน</Content>
+          <Content>ดี ยินดีต้อนรับสู่ห้องสมุด พวกเรามีหน้าที่ต้อนรับแขกที่เข้ามา แต่นายก็ดันโผล่มาเเบบไม่มีปลี่ไม่มีขลุ่ย</Content>
         </Dialog>
         <Dialog ID="28" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela15</VoiceFile>
-          <Content>ฉันใช้ความพยายามไปไม่น้อยในการออกแบบห้องสมุดนี้ เพื่อให้แน่ใจว่าจะไม่มีแขกที่ไม่ได้รับเชิญเข้ามาได้ นายเข้าใจแล้วหรือเปล่า</Content>
+          <Content>กว่าฉันจะออกเเบบเเต่ละอย่างในห้องสมุดนี่ ฉันต้องแน่ใจก่อนว่าเเขกที่ได้รับเชิญจะเข้ามาไม่ได้ ที่นี้นายเก็ตหรือยัง</Content>
         </Dialog>
         <Dialog ID="29" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol1_ep1_roland15</VoiceFile>
-          <Content>…บ้าเอ้ย แขนขาเหล่านี้คือทั้งหมดที่ฉันมีนะ… ฉันไม่มีเงินหรือเอาอะไรไปซื้อมาใหม่ได้นะเว้ย…</Content>
+          <Content>…บ้าเอ้ย ถ้าไม่มีเเขนไม่มีขา… ไอฉันจะไปมีปัญญาซื้อของเทียมใส่ได้ยังไงฟะ…</Content>
         </Dialog>
         <Dialog ID="30" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol1_ep1_angela16</VoiceFile>
-          <Content>รู้สึกว่าเขาจะหมดสติไปแล้วสินะ</Content>
+          <Content>ดูท่าจะหมดสติสินะ</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -205,61 +205,61 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela1</VoiceFile>
-          <Content>ตื่น</Content>
+          <Content>ตื่นได้เเล้ว</Content>
         </Dialog>
         <Dialog ID="1" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland1</VoiceFile>
-          <Content>ฮึ่ม! แฮ่ก แฮ่ก… ข-ขา! และก็แขนฉัน!! </Content>
+          <Content>ฮึ่ม! หึ หะ… ข-ขาฉัน! เเขนฉันก็ด้วย!! </Content>
         </Dialog>
         <Dialog ID="2" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland2</VoiceFile>
-          <Content>…เฮ้ย เด๋วสิ พวกมันทำไมยังอยู่ครบเหมือนเดิมกันละเนี้ย?</Content>
+          <Content>…เฮ้ย เดี๋ยวสิ มันต่อติดกันใหม่ได้ไงเนี้ย?</Content>
         </Dialog>
         <Dialog ID="3" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela2</VoiceFile>
-          <Content>ตอนนี้นายน่าจะแกว่งแขนและก็เดินได้เหมือนเดิมแล้วล่ะนะ</Content>
+          <Content>นายน่าจะขยับเเขนขยับขาตัวเองได้เเล้วใช่ไหมล่ะ</Content>
         </Dialog>
         <Dialog ID="4" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela3</VoiceFile>
-          <Content>และฉันยังปรับร่างกายของนายนิดหน่อยทำให้คล่องตัวกว่าเดิมด้วย</Content>
+          <Content>และฉันยังดัดเเปลงร่างกายของนายนิดหน่อยเพื่อให้นายขยับตัวคล่องขึ้น</Content>
         </Dialog>
         <Dialog ID="5" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela4</VoiceFile>
-          <Content>ถึงแม้ว่านายจะบุกรุกเข้ามาห้องสมุดของฉัน แต่ฉันก็ยังเอาแขนขาของนายโดยที่นายไม่ได้ยินยอม ดังนั้นฉันจึงทำสิ่งนั้นให้เพื่อเป็นการขอโทษ</Content>
+          <Content>ถึงแม้ว่านายจะบุกรุกเข้ามาห้องสมุดของฉัน แต่ฉันกลับเอาเเขนขานายไปโดยที่นายไม่ยินยอม ดังนั้นฉันเลยทำเเบบนั้นให้เพื่อเป็นการขอโทษ</Content>
         </Dialog>
         <Dialog ID="6" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela4_1</VoiceFile>
-          <Content>เห็นมั้ยล่ะ ฉันเป็นคนที่ค่อนข้างอดทนและใจกว้างขนาดไหน</Content>
+          <Content>ฉันนี่ก็เป็นคนอดทนเเถมยังใจกว้างดีเหมือนกัน นายว่างั้นไหม</Content>
         </Dialog>
         <Dialog ID="7" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland3</VoiceFile>
-          <Content>อดทน ยัยบ้า… แล้วฉันต้องขอบคุณเธอมั้ยเนี้ย?</Content>
+          <Content>อดทน กับผีอะซี่… นี่ฉันต้องขอบคุณมั้ยเนี้ย?</Content>
         </Dialog>
         <Dialog ID="8" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland4</VoiceFile>
-          <Content>แล้วก็ เอ่อ… แล้วไอ้คำเตือนของเธอก่อนหน้านั้นไม่มีผลแล้ว ใช่ม่ะ?</Content>
+          <Content>เอ่อ… เเล้วนี่ ไอที่เตือนกันไปตอนเเรกนี่มันถือว่าไม่นับเเล้วเหรอ?</Content>
         </Dialog>
         <Dialog ID="9" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela5</VoiceFile>
-          <Content>ไม่ ไม่มีแล้ว ตอนที่นายสลบอยู่ฉันได้คิดอะไรได้นิดหน่อย</Content>
+          <Content>ไม่ ไม่อีกเเล้วล่ะ ในตอนที่นายสลบอยู่มันทำให้ฉันคิดอะไรได้นิดหน่อย</Content>
         </Dialog>
         <Dialog ID="10" model="앤젤라">
           <Teller>???</Teller>
@@ -277,97 +277,97 @@
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland6</VoiceFile>
-          <Content>ฉันได้ยินข่าวลือพวกนั้นนะว่าลักพาตัวผู้คนไปทดลองเกี่ยวกับ Singularity อะไรสักอย่าง</Content>
+          <Content>ฉันได้ยินข่าวลือว่าพวกนั้นลักพาตัวผู้คนไปทดลองเกี่ยวกับ Singularity อะไรสักอย่าง</Content>
         </Dialog>
         <Dialog ID="13" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland7</VoiceFile>
-          <Content>คนรู้จักของฉันเริ่มหลอนเป็นบ้าเพราะผลข้างเคียงจากหนึ่งในการทดลองเหล่านั้น…</Content>
+          <Content>มีคนรู้จักฉันที่กระโดดข้ามมิติไปมาเพราะผลข้างเคียงที่ได้จากการทดลองนั่น…</Content>
         </Dialog>
         <Dialog ID="14" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland8</VoiceFile>
-          <Content>เฮ้อ… ชีวิตของฉันมันช่างโชคร้ายสิ้นดี</Content>
+          <Content>โอ้ยหน่อ… นี่ฉันจะโชคร้ายไปถึงไหนเนี่ย</Content>
         </Dialog>
         <Dialog ID="15" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela7</VoiceFile>
-          <Content>ที่นี่มันห้องสมุด แล้วฉันก็ไม่รู้จักไอ้ "องค์กร" ที่นายพูดหรอกนะ และสถานที่นี้อย่างน้อยๆก็ไม่ใช่ Wing อะไรนั้นด้วย</Content>
+          <Content>ที่นี่คือห้องสมุด แล้วฉันก็ไม่รู้จักไอ้ "องค์กร" ที่นายพูดถึงหรอกนะ และที่เเห่งนี้อย่างน้อยๆก็ไม่ใช่ Wing อะไรนั้นด้วย</Content>
         </Dialog>
         <Dialog ID="16" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ผู้บุกรุก</Title>
           <VoiceFile>ch1_prol2_ep1_roland9</VoiceFile>
-          <Content>เรื่องนั้นมันไม่สำคัญหรอก เพราะยังไงฉันก็ต้องติดอยู่ที่นี่ แล้วเธอก็กะจะใช้งานฉันอย่างหนัก ใช่มั้ยละ?</Content>
+          <Content>จะเป็นยังไงก็ช่างเถอะ สุดท้ายฉันต้องติดอยู่ที่นี่ เพื่อเป็นข้ารับใช้เธออยู่เเล้วด้วยนี่ใช่มั้ย?</Content>
         </Dialog>
         <Dialog ID="17" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela8</VoiceFile>
-          <Content>ใช่ ที่ฉันปล่อยให้นายมีชีวิตอยู่เพราะมีเหตุผลด้วยกันสองข้อ</Content>
+          <Content>ใช่ ที่ฉันปล่อยให้นายอยู่ต่อเพราะมีเหตุผลด้วยกันอยู่ประการ</Content>
         </Dialog>
         <Dialog ID="18" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela9</VoiceFile>
-          <Content>ประการแรก ฉันต้องการตรวจสอบว่านายเข้ามาที่นี้ได้ยังไงโดยที่ไม่ได้รับคำเชิญมา</Content>
+          <Content>ประการแรก ฉันอยากตรวจสอบว่านายเข้ามาที่นี้ได้ยังไงโดยที่ไม่ได้รับคำเชิญ</Content>
         </Dialog>
         <Dialog ID="19" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela9_1</VoiceFile>
-          <Content>การส่งนายกลับไปหรือละเลยนายโดยที่ไม่รู้สาเหตุอะไรเลยแบบนี้ มันอาจจะเป็นความเสี่ยงต่อห้องสมุดแห่งนี้</Content>
+          <Content>การส่งนายกลับหรือละเลยนายโดยที่ไม่รู้สาเหตุอะไรเลยแบบนี้ มันอาจจะนำภัยมาสู่ห้องสมุดก็ได้</Content>
         </Dialog>
         <Dialog ID="20" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela10</VoiceFile>
-          <Content>เพราะฉะนั้น นายจะออกไปจากที่นี่ไม่ได้ โดยไม่ได้รับคำอนุญาตจากฉันอีกต่อไป</Content>
+          <Content>ถึงนายจะขอฉันไป นายก็ออกไปไม่ได้อยู่ดี</Content>
         </Dialog>
         <Dialog ID="21" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela11</VoiceFile>
-          <Content>ประการที่สอง ต่อจากนี้ฉันจะเริ่มเก็บหนังสือเกี่ยวกับเมืองนี้เพื่อค้นหาหนังสือหนึ่งเล่มที่สมบูรณ์แบบที่สุด</Content>
+          <Content>ประการที่สอง ต่อจากนี้ฉันจะเริ่มรวบรวมหนังสือของเมืองนี้เพื่อบันทึกเป็นหนังสือหนึ่งเล่มที่สมบูรณ์แบบที่สุด</Content>
         </Dialog>
         <Dialog ID="22" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela12</VoiceFile>
-          <Content>ซึ่งเรื่องนี้ ฉันอยากจะให้นายช่วย</Content>
+          <Content>ซึ่งนายต้องเป็นคนช่วยฉัน</Content>
         </Dialog>
         <Dialog ID="23" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela13</VoiceFile>
-          <Content>เนื่องจากนายเป็นผู้อยู่อาศัยที่เมืองนี้มาก่อน ฉันก็เลยคาดหวังว่านายจะมีประโยชน์ในหลายๆทาง</Content>
+          <Content>เนื่องจากนายเป็นพลเมืองของที่เมืองนี้มาก่อน หวังว่านายจะเป็นประโยชน์กับฉันได้บ้างนะ</Content>
         </Dialog>
         <Dialog ID="24" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland10</VoiceFile>
-          <Content>…ฉันว่าแล้วเรื่องแบบนี้มันต้องเกิดขึ้นสักวัน ผู้คนก็หายตัวไปโดยไม่มีร่องรอย แล้วก็มาพบอีกทีเหลือเพียงแค่ก้อนเนื้อในภายหลัง…</Content>
+          <Content>…กะไว้แล้วว่าสักวันเรื่องเเบบนี้มันต้องเกิด ผู้คนหายตัวไปอย่างไร้ร่องรอย พอมาเจออีกทีก็เหลือเเต่ก้อนเนื้อไปซะเเล้ว…</Content>
         </Dialog>
         <Dialog ID="25" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland11</VoiceFile>
-          <Content>ฉันมักจะหัวเราะว่าคนพวกนั้นไม่ระวังตัวจนตัวเองต้องโชคร้าย แต่ตอนนี้ฉันเข้าใจแล้วว่ามันไม่เกี่ยวกับว่าไม่ระวังตัวหรือว่าโชคร้ายอะไรนั้นเลย คือแบบ ฮะ พอมันจะเกิดก็เกิดขึ้นโดยไม่รู้ตัว…</Content>
+          <Content>ทีเเรกฉันก็เเอบขำคนที่ไม่ระวังตัวจนตัวเองต้องโชคร้าย แต่ฉันเข้าใจแล้วว่ามันไม่เกี่ยวกับไม่ระวังตัวหรือว่าโชคร้ายอะไร คือนี่มาเเบบเเว๊บเดียวเเว๊บเดียวจริงๆ…</Content>
         </Dialog>
         <Dialog ID="26" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela14</VoiceFile>
-          <Content>ไม่ต้องกังวลเกี่ยวกับชีวิตของนายมากเกินไป นายไม่ได้รับอนุญาตให้ตายที่นี่เว้นแต่ฉันจะอนุญาต</Content>
+          <Content>อย่าไปใส่ใจชีวิตตัวเองมากนักเลย ตราบใดที่ฉันไม่อนุญาตนายก็ยังตายไม่ได้</Content>
         </Dialog>
         <Dialog ID="27" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland12</VoiceFile>
-          <Content>บ้าเอ้ย นี่เป็นการทดลองในห้องทดลองบ้าๆชัดๆ</Content>
+          <Content>บ้าเอ้ย นี่ฉันเป็นหนูทดลองในห้องเเลปสุดเพี้ยนเเน่ๆ</Content>
         </Dialog>
         <Dialog ID="28" model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -379,25 +379,25 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland14</VoiceFile>
-          <Content>นั้นมันต้องแย่มากเลยนะ… ถ้าให้ฉันเลือกได้ขอยอมตายซะดีกว่า…</Content>
+          <Content>สุดจะบรรยายเลยนะนั่น… ถ้าฉันเลือกได้ขอยอมตายซะดีกว่า…</Content>
         </Dialog>
         <Dialog ID="30" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela15</VoiceFile>
-          <Content>ถ้าหากนายยังพูดจาไร้สาระแบบนั้นอีกสักครั้ง ฉันยินดีที่จะเปลี่ยนให้นายเป็นมนุษย์เครื่องทำป๊อบคอร์นแบบที่นายขอเลยนะ</Content>
+          <Content>ถ้านายยังพูดจาไร้สาระแบบนั้นอีกสักครั้ง ฉันยินดีจะเปลี่ยนให้นายเป็นมนุษย์เครื่องทำป๊อบคอร์นแบบที่นายขอเลยก็ได้นะ</Content>
         </Dialog>
         <Dialog ID="31" model="앤젤라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch1_prol2_ep1_angela16</VoiceFile>
-          <Content>ฉันได้ยินการพูดที่ไม่มีสาระและไม่มีประโยชน์มาหลายรอบแล้วนะ และมันเป็นเรื่องที่น่ารำคาญที่ต้องตอบกลับมันทุกครั้ง</Content>
+          <Content>ฉันฟังที่นายสาธยายมามากพอเเล้วล่ะ มันน่ารำคาญมากนะที่ฉันต้องมาตอบคำถามนาย</Content>
         </Dialog>
         <Dialog ID="32" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol2_ep1_roland15</VoiceFile>
-          <Content>ข-ขอโทษครับ…</Content>
+          <Content>ท-โทษทีครับ…</Content>
         </Dialog>
         <Dialog ID="33" model="앤젤라">
           <Teller>???</Teller>
@@ -427,91 +427,91 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland1</VoiceFile>
-          <Content>แล้ว ฉันควรทำยังไงบ้างละ?</Content>
+          <Content>แล้ว ฉันต้องทำอะไรบ้างล่ะ?</Content>
         </Dialog>
         <Dialog ID="1" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela1</VoiceFile>
-          <Content>หน้าที่ของนายก็คือ "ต้อนรับ" แขกที่ถูกเชิญมาห้องสมุดแห่งนี้</Content>
+          <Content>หน้าที่ของนายก็คือการ "ต้อนรับ" แขกที่ถูกเชิญเข้ามาในห้องสมุด</Content>
         </Dialog>
         <Dialog ID="2" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela2</VoiceFile>
-          <Content>ฉันจะพิจารณาอย่างรอบคอบว่าจะเชิญแขกท่านใดและเขียนคำเชิญเอง ซึ่งตามลำดับนั้น นายจะต้องคอยรับรองแขกที่ตอบรับคำเชิญ เมื่อพวกเขามาถึงห้องสมุด</Content>
+          <Content>ฉันจะพิจารณาอย่างรอบคอบว่าจะเชิญแขกท่านใดและเขียนคำเชิญเอง หลังจากนั้นนายก็เเค่ต้องคอยรับรองแขกที่ตอบรับคำเชิญ เมื่อพวกเขามาถึงห้องสมุด</Content>
         </Dialog>
         <Dialog ID="3" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela3</VoiceFile>
-          <Content>เนื่องจากว่านายมีประสบการณ์ทำงานจากการเป็นฟิซเซอร์ ฉันมั่นใจว่านายจะสามารถให้การต้อนรับแขกประเภทต่างๆ ได้ดีมากกว่าฉัน</Content>
+          <Content>เห็นว่านายเคยเป็นฟิกเซอร์มาก่อนนี่ ไม่ว่าจะมีเเขกเเบบไหนเข้ามา นายต้องรับมือได้ดีกว่าฉันเเน่</Content>
         </Dialog>
         <Dialog ID="4" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland2</VoiceFile>
-          <Content>ฉันก็แค่ฟิซเซอร์เกรด 9 ผู้ล้มเหลวคนหนึ่งเองนะ แต่เด๋วก่อนนะ…</Content>
+          <Content>ฉันมันก็แค่ฟิซเซอร์เกรด 9 ผู้ตกอับเองนะ เออเดี๋ยวก่อน…</Content>
         </Dialog>
         <Dialog ID="5" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland3</VoiceFile>
-          <Content>ไอ้ "การต้อนรับ" เนี้ยมันยังไงกันแน่? ฉันต้องคอยสบตาดูพวกเขาไหมหรือว่าฉันต้องเดินไปเสิร์ฟน้ำให้พวกเขาด้วยล่ะ?</Content>
+          <Content>ไอ้การ "ต้อนรับ" เนี้ยมันยังไงกัน? คือฉันต้องสวมบทบาทเป็นเเทนชงกาเเฟอยู่ในคาเฟ่ให้เเขกรึไง?</Content>
         </Dialog>
         <Dialog ID="6" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela4</VoiceFile>
-          <Content>มันเป็นเรื่องที่ง่ายมาก นายเพียงแค่ต้องคอยจัดการกับแขกด้วยกำลังแค่นั้นเอง</Content>
+          <Content>ง่ายมาก นายแค่ต้องใช้กำลังเพื่อจัดการเเขกเอง</Content>
         </Dialog>
         <Dialog ID="7" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela5</VoiceFile>
-          <Content>ห้องสมุดแห่งนี้จะมอบบททดสอบให้แก่แขกผู้เข้ามา และหนังสือก็จะเปิดออกในกระบวนการนี้</Content>
+          <Content>ห้องสมุดแห่งนี้จะมอบบททดสอบให้แก่แขกที่เข้ามา และหนังสือจะถูกเปิดออกในกระบวนการนี้</Content>
         </Dialog>
         <Dialog ID="8" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela6</VoiceFile>
-          <Content>แขกผู้ที่ก้าวข้ามบททดสอบนั้นไปได้จะถือว่าสมควรได้รับหนังสือของพวกเขาไป</Content>
+          <Content>แขกผู้ที่ก้าวข้ามบททดสอบไปได้จะถือว่าสมควรได้รับหนังสือของพวกเขาไป</Content>
         </Dialog>
         <Dialog ID="9" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela7</VoiceFile>
-          <Content>แต่มันก็มีความเป็นไปได้ที่นายอาจจะตายในระหว่างการต้อนรับ แต่ก็เป็นเพียงชั่วคราวเท่านั้น นายจะกลับมามีชีวิตอีกครั้งเมื่อห้องสมุดปิดทำการ</Content>
+          <Content>แต่มันก็มีความเป็นไปได้ที่นายอาจจะตายในระหว่างการต้อนรับ เเต่มันก็เเค่ชั่วคราว นายจะกลับมามีชีวิตอีกครั้งเมื่อห้องสมุดปิดทำการ</Content>
         </Dialog>
         <Dialog ID="10" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela8</VoiceFile>
-          <Content>ห้ามมิให้ผู้ใดได้พักที่นี่โดยไม่ได้รับอนุญาติจากฉัน</Content>
+          <Content>ห้ามมิให้ผู้ใดได้พักโดยที่ไม่ได้รับอนุญาตจากฉัน</Content>
         </Dialog>
         <Dialog ID="11" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland4</VoiceFile>
-          <Content>เธอมีจินตนาการแปลกๆเกี่ยวกับฟิซเซอร์หรือเปล่านะ? คงไม่ได้คาดหวังมากเกินไปจากฟิซเซอร์เกรด 9 ใช่มั้ยห๊ะ? ฉันไม่ได้มีความสามารถแบบที่เธอคิดหรอกนะ</Content>
+          <Content>นี่เธอคิดว่าพวกฟิกเซอร์มันจะร่ายเวทย์เสกคนให้เป็นไก่ได้อ่อ? จะคาดหวังอะไรกับฟิซเซอร์เกรด 9 กัน? ฉันไม่ได้เก่งอย่างที่เธอคิดหรอก</Content>
         </Dialog>
         <Dialog ID="12" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela9</VoiceFile>
-          <Content>นั่นไม่ใช่ธุรกิจของฉัน ฉันได้เตรียมคู่มือให้นายแล้ว ดังนั้นเอาไปอ่านแล้วและหาทางจัดการด้วยตัวเองก็แล้วกัน</Content>
+          <Content>ไม่ใช่ธุระกงการอะไรของฉัน ฉันเตรียมคู่มือให้นายอยู่แล้ว หยิบไปอ่านซะจะได้เข้าใจด้วยตัวเอง</Content>
         </Dialog>
         <Dialog ID="13" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland5</VoiceFile>
-          <Content>โอเค ฉันคิดว่าฉันเข้าใจสาระสำคัญของมันแล้วละ แล้วคำเชิญเนี้ยทำงานยังไงล่ะ?</Content>
+          <Content>อาหะ ฉันว่าฉันพอจับใจความได้เเล้วล่ะ แล้วคำเชิญเนี่ยปกติมันทำงานยังไง?</Content>
         </Dialog>
         <Dialog ID="14" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela10</VoiceFile>
-          <Content>เปิดหน้าคำเชิญ และก็ลงทะเบียนหนังสือที่นายต้องการให้บริการกับแขก</Content>
+          <Content>เปิดหน้าคำเชิญสิ จากนั้นลงทะเบียนหนังสือที่นายต้องการให้แขกได้รับ</Content>
         </Dialog>
         <Dialog ID="15" model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -529,115 +529,115 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland7</VoiceFile>
-          <Content>แค่นั้นน่ะนะ? มันฟังดูง่ายเกินไปหน่อยจังแฮะ</Content>
+          <Content>แค่นั้นน่ะนะ? ฟังดูง่ายไปหน่อยเเฮะ</Content>
         </Dialog>
         <Dialog ID="18" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela12</VoiceFile>
-          <Content>การเชิญชวนเป็นอีกงานหนึ่ง ที่ฉันคิดขึ้นมาอย่างรอบคอบและพิถีพิถันอย่างมาก เช่นเดียวกับห้องสมุดแห่งนี้</Content>
+          <Content>การเช่อชวนเป็นกระบวนการที่ฉันสร้างขึ้นด้วยความปราณีต เช่นเดียวกับห้องสมุดแห่งนี้</Content>
         </Dialog>
         <Dialog ID="19" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela13</VoiceFile>
-          <Content>ใช่ ให้คิดซะว่ามันเป็นเหมือนเข็มทิศ แบบนั้นมันน่าจะเข้าใจได้ง่ายกว่า</Content>
+          <Content>ใช่ มันก็เหมือนกับเข็มทิศนั่นเเหละ แบบนี้นายน่าจะเข้าใจได้ง่ายกว่า</Content>
         </Dialog>
         <Dialog ID="20" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland8</VoiceFile>
-          <Content>อ๊า~ เข็มทิศ? ให้ใช้มันเป็นอุปกรณ์บอกทิศทางไปเลยรึไง?</Content>
+          <Content>อ่อ~ เข็มทิศ? เเค่ใช้มันเป็นตัวบอกทางเลยว่างั้น?</Content>
         </Dialog>
         <Dialog ID="21" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela14</VoiceFile>
-          <Content>ถูกตัอง คำเชิญเหล่านั้นจะนำพาฉันไปสู่หนังสือเล่มหนึ่งที่ฉันต้องการ ที่อยากจะได้มัน</Content>
+          <Content>ถูกตัอง เเล้วคำเชิญเหล่านั้นจะนำพาฉันไปสู่หนังสือเพียงหนึ่งเดียวที่ฉันต้องการ</Content>
         </Dialog>
         <Dialog ID="22" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela15</VoiceFile>
-          <Content>และบางครั้งคำเชิญอาจเปลี่ยนเป็นสีแดงตามหนังสือที่นายลงทะเบียนแล้ว</Content>
+          <Content>และบางครั้ง คำเชิญอาจเปลี่ยนเป็นสีแดงตามหนังสือที่นายลงทะเบียนแล้ว</Content>
         </Dialog>
         <Dialog ID="23" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela16</VoiceFile>
-          <Content>คำเชิญสีแดงระบุว่าสามารถส่งไปยังแขกรับเชิญพิเศษที่จะคลี่คลายส่วนต่อไปของเรื่องราวได้</Content>
+          <Content>คำเชิญสีแดงถูกระบุว่าสามารถส่งไปยังแขกรับเชิญพิเศษ ผู้ที่นำไปสู่ส่วนต่อไปของเรื่องราวได้</Content>
         </Dialog>
         <Dialog ID="24" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela17</VoiceFile>
-          <Content>จนกว่าเราจะลงทะเบียนหนังสือที่ตรงกับคำเชิญสีแดง การเดินทางของเรานั้นจะถูกหยุดไว้สักหน่อย</Content>
+          <Content>จนกว่าเราจะได้หนังสือเล่มที่ใช้ลงทะเบียนกับคำเชิญสีเเดง เราคงเดินทางต่อไปไม่ได้สักพัก</Content>
         </Dialog>
         <Dialog ID="25" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland9</VoiceFile>
-          <Content>แต่ไม่มีการรับประกันว่าแขกจะตอบรับคำเชิญอยู่เสมอ ใช่ม่ะ?</Content>
+          <Content>แต่มันก็ไม่มีอะไรรับประกันนี่ว่า เเขกพวกนั้นจะตอบรับคำเชิญของเรานี่?</Content>
         </Dialog>
         <Dialog ID="26" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela18</VoiceFile>
-          <Content>ความจริงก็คือ พวกเขาถูกกำหนดให้มาที่นี่น่ะ</Content>
+          <Content>ความจริงเเล้ว พวกเขาถูกกำหนดให้ต้องมาที่นี่น่ะ</Content>
         </Dialog>
         <Dialog ID="27" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela19</VoiceFile>
-          <Content>แขกจะตอบรับคำเชิญด้วยตัวของพวกเขาเองและก็จะเข้ามาที่ห้องสมุดแห่งนี้</Content>
+          <Content>แขกพวกนั้นจะตอบรับคำเชิญเเละต้องเข้ามาในห้องด้วยเจตจำนงของตัวเอง</Content>
         </Dialog>
         <Dialog ID="28" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland10</VoiceFile>
-          <Content>นั้นมันเป็นเรื่องที่สุภาพและยุติธรรมมากๆ จนน่าประหลาดใจกับสิ่งที่เกิดขึ้นในเมืองนี้นะ</Content>
+          <Content>ฟังดูสุภาพเเละยุติธรรมเกินจนน่าประหลาดเลย นึกไม่ถึงว่าจะเกิดขึ้นในเมืองเเบบนี้ได้</Content>
         </Dialog>
         <Dialog ID="29" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland11</VoiceFile>
-          <Content>นั้นเพราะว่าแทบจะตลอดเวลา ชีวิตของผู้คนมักจะถูกพรากไปโดยผู้อื่น แบบที่ไม่ได้รับความยินยอมหรือว่าเห็นด้วยกับมันเลยด้วยซ้ำ</Content>
+          <Content>เพราะในเเต่ละวันชีวิตของผู้คนมักจะถูกพรากไปโดยผู้อื่น เเบบที่ยังไม่ทันได้ยินยอมอะไรเลย</Content>
         </Dialog>
         <Dialog ID="30" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland12</VoiceFile>
-          <Content>เอาล่ะ เมื่อเราได้รับหนังสือเหล่านั้นมา แล้วยังไงต่อ?</Content>
+          <Content>เอาล่ะ พอได้หนังสือพวกนี้มา เเล้วไงต่อ?</Content>
         </Dialog>
         <Dialog ID="31" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela20</VoiceFile>
-          <Content>ห้องสมุดแห่งนี้เป็นสถานที่แห่งความเป็นไปได้ไร้ขีดจำกัด</Content>
+          <Content>ห้องสมุดแห่งนี้เป็นสถานที่แห่งความเป็นไปได้อันไร้ที่สิ้นสุด</Content>
         </Dialog>
         <Dialog ID="32" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela21</VoiceFile>
-          <Content>แม้แต่ฉันเองก็ไม่สามารถหยั่งรู้ถึงพื้นที่อันไร้ที่สิ้นสุดและพลังของห้องสมุดแห่งนี้ได้เลย</Content>
+          <Content>แม้แต่ฉันก็ไม่อาจหยั่งรู้ถึงความเป็นไปได้ที่ไม่รู้จบของมันดีพอ</Content>
         </Dialog>
         <Dialog ID="33" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela22</VoiceFile>
-          <Content>นั้นแหละ เป็นเหตุผลที่ว่าทำไมฉันต้องการทำให้ห้องสมุดเติมเต็มช่องว่างเหล่านั้น ให้เต็มไปด้วยหนังสือ</Content>
+          <Content>นั่นเลยเป็นเหตุผลที่ว่า ฉันต้องการให้ช่องว่างมันถูกเติมเต็มด้วยหนังสือเเต่ละเล่มยังไงล่ะ</Content>
         </Dialog>
         <Dialog ID="34" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_prol3_ep1_angela23</VoiceFile>
-          <Content>แล้วหลังจากนั้นฉันก็จะต้องได้หนังสือที่สมบูรณ์แบบที่สุดที่ฉันต้องการ มาไว้ที่ห้องสมุดของฉัน</Content>
+          <Content>เเละจากนั้นฉันจะต้องได้หนังสือที่สมบูรณ์แบบที่สุด มาไว้ที่ห้องสมุดของฉัน</Content>
         </Dialog>
         <Dialog ID="35" model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch1_prol3_ep1_roland13</VoiceFile>
-          <Content>หนังสือที่สมบูรณ์แบบที่สุดสินะ เอ่อ… ฉันคิดว่า "หนังสือ" เหล่านั้นคงจะแตกต่างจากที่ฉันเข้าใจละนะ</Content>
+          <Content>หนังสือที่สมบูรณ์แบบที่สุดสินะ เอ่อ… ฉันว่า "หนังสือ" ที่เธอว่ามันคงเป็นเเบบที่ฉันไม่เข้าใจ</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -655,13 +655,13 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Prol_ep4_angela1</VoiceFile>
-          <Content>หนังสือในห้องสมุดเหล่านี้มีความพิเศษเพราะมันสร้างขึ้นมาจากมนุษย์</Content>
+          <Content>หนังสือในห้องสมุดเเห่งนี้ค่อนข้างพิเศษเพราะมันถูกสร้างขึ้นจากมนุษย์</Content>
         </Dialog>
         <Dialog ID="2" model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch1_Prol_ep4_angela2</VoiceFile>
-          <Content>หนังสือเหล่านี้จะโชว์ในสิ่งที่ผู้อ่านต้องอยากที่จะเห็น</Content>
+          <Content>หนังสือเหล่านี้จะโชว์ในสิ่งที่ผู้อ่านอยากที่จะเห็น</Content>
         </Dialog>
         <Dialog ID="3" model="앤젤라">
           <Teller>แองเจล่า</Teller>

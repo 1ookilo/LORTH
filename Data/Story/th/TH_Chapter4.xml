@@ -5126,16 +5126,16 @@
           <Teller>ซาโย</Teller>
           <Title>ผู้นำตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_sayo12</VoiceFile>
-          <Content>อ้อ ยังไงก็ตามจิน สถานการณ์ปัจจุบันของ L Corp's ใน เนสท์ เป็นยังไง?</Content>
+          <Content>อ้อ ยังไงก็ตามกิน สถานการณ์ปัจจุบันของ L Corp's ใน เนสท์ เป็นยังไง?</Content>
         </Dialog>
         <Dialog ID="31" Model="긴">
-          <Teller>จิน</Teller>
+          <Teller>กิน</Teller>
           <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin5</VoiceFile>
           <Content>ดูดเดือดเลย นี่เป็นครั้งแรกในรอบหลายปีที่ธัมบ์และอินเด็กซ์ทำสงครามแย่งชิงพื้นที่กัน</Content>
         </Dialog>
         <Dialog ID="32" Model="긴">
-          <Teller>จิน</Teller>
+          <Teller>กิน</Teller>
           <Title>ลูกสมุนตะกูลคุโรคุโมะ</Title>
           <VoiceFile>ch4_Kurokumo_ep1_gin6</VoiceFile>
           <Content>ทุกคนคงคิดว่านั้นมันคือพื้นที่พิเศษหรืออะไรสักอย่าง</Content>
