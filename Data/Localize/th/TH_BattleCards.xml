@@ -313,21 +313,21 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="301010">
-      <LocalizedName>ฝากไว้คิดบัญชี</LocalizedName>
+      <LocalizedName>โต้กลับ</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="301011">
-      <LocalizedName>กฎหมายกับคำสั่ง</LocalizedName>
+      <LocalizedName>กฎระเบียบ</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="302001">
       <LocalizedName>จู่โจมดุดัน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="302002">
-      <LocalizedName>เดียวก่อน!</LocalizedName>
+      <LocalizedName>ช้าก่อน!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="302003">
-      <LocalizedName>การพนัน</LocalizedName>
+      <LocalizedName>เดิมพัน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="302004">
       <LocalizedName>การตัดสินใจเด็ดเดี่ยว</LocalizedName>
@@ -336,7 +336,7 @@
       <LocalizedName>ใจเย็นเข้าไว้</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="302006">
-      <LocalizedName>ศิลปะแห่งการก้าวเร็ว</LocalizedName>
+      <LocalizedName>ศิลปะฝีเท้าเร็ว</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="302007">
@@ -415,7 +415,7 @@
       <LocalizedName>ยิงสวนกลับ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="402003">
-      <LocalizedName>ยิงมั่วทุกทิศทาง</LocalizedName>
+      <LocalizedName>ยิงไม่เลือกหน้า</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="402004">
       <LocalizedName>ฉันเกลียด C.Q.C</LocalizedName>
@@ -1036,7 +1036,7 @@
       <LocalizedName>ลิทิเชีย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910020">
-      <LocalizedName>หงข์ดำ</LocalizedName>
+      <LocalizedName>หงส์ดำ</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="910117">
@@ -1047,10 +1047,10 @@
       <LocalizedName>รีโหลด</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602002">
-      <LocalizedName>แทงดาบปลายปืน</LocalizedName>
+      <LocalizedName>ประจันดาบปลายปืน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602003">
-      <LocalizedName>กระสุนปราบปราม</LocalizedName>
+      <LocalizedName>ยิงปราบปราม</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602004">
       <LocalizedName>ลูกตะกั่วสลายตัว</LocalizedName>
@@ -1060,10 +1060,10 @@
       <LocalizedName>แอบยิงเธออยู่นะจ้ะ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602006">
-      <LocalizedName>ศูนย์รวมการยิง</LocalizedName>
+      <LocalizedName>รวมศูนย์ยิง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602007">
-      <LocalizedName>ป้องกันอย่างโลหะ</LocalizedName>
+      <LocalizedName>ป้องกันเหล็กไหล</LocalizedName>
       <!-- originally 'Guarding Stance' -->
     </BattleCardDesc>
     <BattleCardDesc ID="602008">
@@ -1085,11 +1085,11 @@
 
     <!-- Ammunition pages -->
     <BattleCardDesc ID="602020">
-      <LocalizedName>ลูกกระสุนทะลวงเกราะ</LocalizedName>
+      <LocalizedName>ลูกกระสุนเจาะเกราะ</LocalizedName>
       <!-- 철갑(徹甲) -->
     </BattleCardDesc>
     <BattleCardDesc ID="602021">
-      <LocalizedName>ลูกกระสุนหนาวเหน็บ</LocalizedName>
+      <LocalizedName>ลูกกระสุนน้ำแข็ง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602022">
       <LocalizedName>ลูกกระสุนเพลิง</LocalizedName>
@@ -1117,7 +1117,7 @@
       <LocalizedName>แปลงพลังงาน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="603008">
-      <LocalizedName>จู่โจมสะยิวกิ้ว</LocalizedName>
+      <LocalizedName>จู่โจมสยิวกิ้ว</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="604001">
@@ -1167,7 +1167,7 @@
       <LocalizedName>กลิ่นหอมเบาบาง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910025">
-      <LocalizedName>Da Capo</LocalizedName>
+      <LocalizedName>ดา คาโป</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="1100006">
@@ -1216,22 +1216,22 @@
     <!-- 환상체 카드용 -->
     <BattleCardDesc ID="1100007">
       <LocalizedName>ความเกลียดชังอันเปล่าประโยชน์</LocalizedName>
-      <Ability>[เมื่อใช้] สลายการ์ดนี้ แล้งฟื้นฟู 1 แสง</Ability>
+      <Ability>[เมื่อใช้] สลายการ์ดนี้ แล้วฟื้นฟู 1 แสง</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="1100008">
       <LocalizedName>ความสิ้นหวังอันเดียวดาย</LocalizedName>
-      <Ability>[เมื่อใช้] สลายการ์ดนี้ แล้งฟื้นฟู 1 แสง</Ability>
+      <Ability>[เมื่อใช้] สลายการ์ดนี้ แล้วฟื้นฟู 1 แสง</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="1100009">
       <LocalizedName>ความละโมบอันไร้ผลลัพธ์</LocalizedName>
-      <Ability>[เมื่อใช้] สลายการ์ดนี้ แล้งฟื้นฟู 1 แสง</Ability>
+      <Ability>[เมื่อใช้] สลายการ์ดนี้ แล้วฟื้นฟู 1 แสง</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="1100010">
       <LocalizedName>ความโกรธเกรี้ยวอันเหลาะแหละ</LocalizedName>
-      <Ability>[เมื่อใช้] สลายการ์ดนี้ แล้งฟื้นฟู 1 แสง</Ability>
+      <Ability>[เมื่อใช้] สลายการ์ดนี้ แล้วฟื้นฟู 1 แสง</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="1100011">
-      <LocalizedName>จงกลับสู่ความว่างเปล่า</LocalizedName>
+      <LocalizedName>หวนคืนสู่ความว่างเปล่า</LocalizedName>
       <Ability>[เมื่อเริ่มการต่อสู้] สลายการ์ดบนมือทั้งหมด ทุกฉากต่อจากนี้ จะได้รับ กำลังและอึดทน เท่ากับจำนวนการ์ดที่สลายไปด้วยความสามารถนี้</Ability>
     </BattleCardDesc>
 
@@ -1282,11 +1282,11 @@
 
     <BattleCardDesc ID="1100012 ">
       <LocalizedName>เงียบงัน</LocalizedName>
-      <Ability>[เมื่อเล่น] รับดาเมจ 15% จากMAX HPเต็ม; ตัวละครอื่นทั้งหมดเสีย 5 ความเร็ว</Ability>
+      <Ability>[เมื่อเล่น] รับดาเมจ 15% จาก MAX HP; ตัวละครอื่นทั้งหมดเสีย 5 ความเร็ว</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="1100013">
       <LocalizedName>ขยายขอบเขต</LocalizedName>
-      <Ability>[เมื่อเล่น] รับดาเมจ 10% จากMAX HPเต็ม; ได้รับ 5 ความเร็ว</Ability>
+      <Ability>[เมื่อเล่น] รับดาเมจ 10% จาก MAX HP; ได้รับ 5 ความเร็ว</Ability>
     </BattleCardDesc>
 
     <!-- the red mist -->
@@ -1312,7 +1312,7 @@
       <LocalizedName>เร่งรีบ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607008">
-      <LocalizedName>หลอมรวม E.G.O</LocalizedName>
+      <LocalizedName>สำแดง E.G.O</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607021">
       <LocalizedName>ผ่าสะบั้น: แนวนอน</LocalizedName>
@@ -1777,7 +1777,7 @@
 
 
     <BattleCardDesc ID="701001">
-      <LocalizedName>รูปแท้แห่งไตรแกรม</LocalizedName>
+      <LocalizedName>รูปแท้ไตรแกรม</LocalizedName>
       <!-- 眞 卦(괘 of '팔괘') -->
     </BattleCardDesc>
     <BattleCardDesc ID="701002">
@@ -1821,46 +1821,46 @@
     </BattleCardDesc>
 
     <BattleCardDesc ID="701021">
-      <LocalizedName>กอนแห่งไตรแกรมทั้งสี่</LocalizedName>
+      <LocalizedName>ไตรแกรมทั้งสี่ - กอน</LocalizedName>
       <!-- 乾. Arbitrarily put "Four Trigrams -" in front of the names for the part of the audience that will not be familiar with the whole thing. -->
     </BattleCardDesc>
     <BattleCardDesc ID="701022">
-      <LocalizedName>กนแห่งไตรแกรมทั้งสี่</LocalizedName>
+      <LocalizedName>ไตรแกรมทั้งสี่ - กน</LocalizedName>
       <!-- 坤 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701023">
-      <LocalizedName>กัมแห่งไตรแกรมทั้งสี่</LocalizedName>
+      <LocalizedName>ไตรแกรมทั้งสี่ - กัม</LocalizedName>
       <!-- 坎 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701024">
-      <LocalizedName>ริแห่งไตรแกรมทั้งสี่</LocalizedName>
+      <LocalizedName>ไตรแกรมทั้งสี่ - ริ</LocalizedName>
       <!-- 離 -->
     </BattleCardDesc>
 
     <BattleCardDesc ID="702001">
-      <LocalizedName>เวิร์คช็อปอัลลาส</LocalizedName>
+      <LocalizedName>อัลลาส เวิร์คช็อป</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702002">
-      <LocalizedName>วีลอินดัสตี้</LocalizedName>
+      <LocalizedName>วีล อินดัสตรี้</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702003">
-      <LocalizedName>เวิร์คช็อปเซลโคว่า</LocalizedName>
+      <LocalizedName>เซลโคว่า เวิร์คช็อป</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702004">
-      <LocalizedName>เวิร์คช็อปโอลบอย</LocalizedName>
+      <LocalizedName>โอลบอย เวิร์คช็อป</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702005">
-      <LocalizedName>เวิร์คช็อปมุค</LocalizedName>
+      <LocalizedName>ปมุค เวิร์คช็อป</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702006">
-      <LocalizedName>เวิร์คช็อปรังอา</LocalizedName>
+      <LocalizedName>รังอา เวิร์คช็อป</LocalizedName>
       <!-- Pronounced Rang-ah, not to be confused with a corruption of the word orangutan. -->
     </BattleCardDesc>
     <BattleCardDesc ID="702007">
-      <LocalizedName>คริสตัลแอทเทลเลีย</LocalizedName>
+      <LocalizedName>คริสตัล แอทเทลเลีย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702008">
-      <LocalizedName>แอทเทลเลียโลจิค</LocalizedName>
+      <LocalizedName>แอทเทลเลีย โลจิค</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="702009">
@@ -1940,10 +1940,10 @@
       <LocalizedName>สัญญารออนุมัติ: ขยายฤทธิ์</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704104">
-      <LocalizedName>สัญญารออนุมัติ: ความว่องไว</LocalizedName>
+      <LocalizedName>สัญญารออนุมัติ: ว่องไว</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704105">
-      <LocalizedName>สัญญารออนุมัติ: ความองอาจ</LocalizedName>
+      <LocalizedName>สัญญารออนุมัติ: องอาจ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704106">
       <LocalizedName>สัญญารออนุมัติ: แสง</LocalizedName>
@@ -1966,7 +1966,7 @@
       <LocalizedName>หนามเนื้อเลื้อย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702106">
-      <LocalizedName>สำลอกควัน</LocalizedName>
+      <LocalizedName>สำรอกควัน</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702107">
       <LocalizedName>โบกสบัด</LocalizedName>
@@ -2003,13 +2003,13 @@
       <LocalizedName>สายใยไม่เสถียร</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705203">
-      <LocalizedName>ประสาน: เวิร์คช็อปเซลโคว่า</LocalizedName>
+      <LocalizedName>ประสาน: เซลโคว่า เวิร์คช็อป</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705204">
-      <LocalizedName>ประสาน: เวิร์คช็อปอัลลาส</LocalizedName>
+      <LocalizedName>ประสาน: อัลลาส เวิร์คช็อป</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705205">
-      <LocalizedName>ประสาน: แอทเทลเลียโลจิค</LocalizedName>
+      <LocalizedName>ประสาน: แอทเทลเลีย โลจิค</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705206">
       <LocalizedName>ยืนหยัดอย่างตั้งมั่น</LocalizedName>
@@ -2056,7 +2056,7 @@
       <LocalizedName>ความทรงจำ - สำนักงานรุ่งอรุณ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702303">
-      <LocalizedName>ความทรงจำ - สมาพันธ์ซไว</LocalizedName>
+      <LocalizedName>ความทรงจำ - สมาพันธ์ซไวล์</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702304">
       <LocalizedName>ความทรงจำ - เมืองรัก</LocalizedName>
@@ -2138,13 +2138,13 @@
 
     <!-- 뒤틀린 재헌-->
     <BattleCardDesc ID="707701">
-      <LocalizedName>เส้นดายพันธนา</LocalizedName>
+      <LocalizedName>เส้นด้ายพันธนา</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707702">
-      <LocalizedName>ควบคุมเส้นดาย</LocalizedName>
+      <LocalizedName>ควบคุมเส้นด้าย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707703">
-      <LocalizedName>ประสานเส้นดาย</LocalizedName>
+      <LocalizedName>ประสานเส้นด้าย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707704">
       <LocalizedName>ไม่ให้ทำได้</LocalizedName>
@@ -2153,16 +2153,16 @@
       <LocalizedName>งานเย็บปัก</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707706">
-      <LocalizedName>ด้นถอยหลัง</LocalizedName>
+      <LocalizedName>ด้นกลับ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707707">
-      <LocalizedName>พิการ</LocalizedName>
+      <LocalizedName>ตัดกำลัง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707708">
       <LocalizedName>การเชิดหุ่น</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707709">
-      <LocalizedName>การเชิดหุ่</LocalizedName>
+      <LocalizedName>การเชิดหุ่น</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707710">
       <LocalizedName>จัดการเนื้อหนัง</LocalizedName>
@@ -2171,10 +2171,10 @@
       <LocalizedName>จัดการเนื้อหนัง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707712">
-      <LocalizedName>เส้นดายแดง</LocalizedName>
+      <LocalizedName>เส้นด้ายแดง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707713">
-      <LocalizedName>เส้นดายแดง</LocalizedName>
+      <LocalizedName>เส้นด้ายแดง</LocalizedName>
     </BattleCardDesc>
 
     <!-- 뒤틀린 타냐-->
@@ -2202,7 +2202,7 @@
 
     <!-- claw -->
     <BattleCardDesc ID="706001">
-      <LocalizedName>รอยทาง</LocalizedName>
+      <LocalizedName>ตามรอย</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706002">
       <LocalizedName>กำจัดเป้าหมาย</LocalizedName>
@@ -2363,7 +2363,7 @@
       <LocalizedName>ควันทิ่มแทง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="615005">
-      <LocalizedName>ดัดแปลงสนาม</LocalizedName>
+      <LocalizedName>ดัดแปลงภาคสนาม</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="615006">
       <LocalizedName>ปลดปล่อยควัน</LocalizedName>
@@ -2395,7 +2395,7 @@
 
 
     <BattleCardDesc ID="1100023">
-      <LocalizedName>ความกล้าไม่เป็นรูป</LocalizedName>
+      <LocalizedName>น้ำวิริยภาพ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100024">
       <LocalizedName>กระสอบไหมขี้เลื่อย</LocalizedName>
