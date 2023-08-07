@@ -2728,7 +2728,7 @@
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod2</VoiceFile>
-          <Content>หนังสือที่นายนำมาให้ฉันครั้งล่าสุดก็น่าสนใจดีนะ พูดตามตรง ฉันได้เรียนรู้ว่าเทคโนโลยีที่ใช้ในแบ็คสตรีทนั้น ถูกนำมาใช้เข้าด้วยกันอย่างไม่เป็นระเบียบเลย</Content>
+          <Content>หนังสือที่นายนำมาให้ฉันครั้งล่าสุดก็น่าสนใจดี พูดตามตรง ฉันได้เรียนรู้ว่าเทคโนโลยีที่ใช้ในแบ็คสตรีทนั้น ถูกนำมาใช้เข้าด้วยกันอย่างไม่เป็นระเบียบเลย</Content>
         </Dialog>
         <Dialog ID="4" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -2842,7 +2842,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland12</VoiceFile>
-          <Content>รู้อะไรไหม มีอย่างนึงที่ทำให้ฉันสงสัย มัลคุธบอกว่าพวกนาย เป็นส่วนหนึ่งของโปรเจคหนึ่ง ที่มีเป้าหมายในการช่วยเหลือ มนุษยชาติใช่มั้ย?</Content>
+          <Content>รู้อะไรไหม มีอย่างนึงที่ทำให้ฉันสงสัย มัลคุธบอกว่าพวกนาย เป็นส่วนหนึ่งของโปรเจคหนึ่ง ที่มีเป้าหมายในการช่วยเหลือ มนุษยชาติถูกมั้ย?</Content>
         </Dialog>
         <Dialog ID="23" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -2854,19 +2854,19 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland13</VoiceFile>
-          <Content>จริงๆแล้ว การช่วยเหลือแบบนั้นมันคืออะไรกันแน่?</Content>
+          <Content>จริงๆแล้ว การช่วยเหลือแบบนั้นน่ะ มันคืออะไรกันแน่ล่ะ?</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland14</VoiceFile>
-          <Content>ทำให้เงินตกเป็นฝนมาจากท้องฟ้า หรืออะไรซักอย่างแบบนั้นก็ได้ น่าจะช่วยทุกคนได้แน่ๆเลยนะ</Content>
+          <Content>ทำให้เงินตกเป็นฝนมาจากท้องฟ้า หรืออะไรซักอย่างแบบนั้นก็ได้นะ น่าจะช่วยทุกคนได้แน่ๆเลย</Content>
         </Dialog>
         <Dialog ID="26" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod14</VoiceFile>
-          <Content>เรื่องนี้ไม่ควรที่จะเทียบ กับเรื่องไร้สาระแบบนั้นได้หรอกนะ</Content>
+          <Content>เรื่องนี้ไม่ควรที่จะเอาไปเทียบ กับเรื่องไร้สาระแบบนั้นได้หรอก</Content>
         </Dialog>
         <Dialog ID="27" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -3019,37 +3019,37 @@
           <Teller>บินาห์</Teller>
           <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah1</VoiceFile>
-          <Content>Fatigued already? What a shame, my employees and I are up for more.</Content>
+          <Content>เหนื่อยแล้วหรอ? น่าเสียดายจังน้า~ ทั้งฉันและพนักงานของฉันยังไหวอยู่น่ะ</Content>
         </Dialog>
         <Dialog ID="52" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Yesod_ep3_gebura2</VoiceFile>
-          <Content>Don’t be ridiculous. I’ll kill you for sure this time.</Content>
+          <Content>อย่ามาพูดไร้สาระน่า คราวนี้แหละฉันจะฆ่าเธออย่างแน่นอน</Content>
         </Dialog>
         <Dialog ID="53" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>เซฟิราร์หน่วยข่าวกรอง</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod32</VoiceFile>
-          <Content>บินาห์! Not even you will manage to break through our combined effort.</Content>
+          <Content>บินาห์! แม้จะเป็นเธอก็ไม่อาจทำลายความพยายามร่วมกันของพวกเราได้หรอก</Content>
         </Dialog>
         <Dialog ID="54" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah2</VoiceFile>
-          <Content>You raise a valid concern. It is true, even I cannot stop all of you in such a short time.</Content>
+          <Content>นายพูดถูกแล้วล่ะ แม้แต่ฉันก็คงไม่อาจหยุดพวกนายทุกคนในเวลาอันสั้นได้</Content>
         </Dialog>
         <Dialog ID="55" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah3</VoiceFile>
-          <Content>We will need to act quickly, Angela.</Content>
+          <Content>เราจำเป็นต้องรีบหน่อยนะ แองเจล่า</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Yesod_ep3_angela1</VoiceFile>
-          <Content>I was just about to do something about it.</Content>
+          <Content>ฉันกำลังจัดการกับเรื่องนี้อยู่</Content>
         </Dialog>
         <Dialog ID="57" Model="NONE">
           <Teller>NONE</Teller>
@@ -3060,7 +3060,7 @@
           <Teller>Chesed</Teller>
           <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Yesod_ep3_chesed1</VoiceFile>
-          <Content>Aw, shucks! The Qliphoth Deterrence is being lowered. She’s overriding my authority on the system…</Content>
+          <Content>อ้าวเฮ้ย! การป้องกันคลิฟอธกำลังถูกลดระดับลง เธอแย่งสิทธิ์ควบคุมระบบของฉันไป…</Content>
         </Dialog>
         <Dialog ID="59" Model="NONE">
           <Teller>NONE</Teller>
@@ -3071,97 +3071,97 @@
           <Teller>เน็ตซัค</Teller>
           <Title>เซฟิราร์หน่วยรักษา</Title>
           <VoiceFile>ch8_Yesod_ep3_netzach1</VoiceFile>
-          <Content>The Abnormalities are breaching…</Content>
+          <Content>แอบนอร์มาลิตี้กำลังแหกออกมาแล้วล่ะ…</Content>
         </Dialog>
         <Dialog ID="61" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth1</VoiceFile>
-          <Content>All Sephirot and personnel, please follow my lead!</Content>
+          <Content>เซฟิรอธและบุคลากรทุกท่าน โปรดปฏิบัติตามคำสั่งของฉันด้วยค่ะ!</Content>
         </Dialog>
         <Dialog ID="62" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth2</VoiceFile>
-          <Content>The Control Team will be in command now!</Content>
+          <Content>ขณะนี้ทีมควบคุมจะขอเป็นคนสั่งการ!</Content>
         </Dialog>
         <Dialog ID="63" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth3</VoiceFile>
-          <Content>Hokma and the Architecture Team, please stop Angela from taking over all the systems!</Content>
+          <Content>ฮ็อคมาและทีมสถาปัตยกรรม โปรดหยุดแองเจล่าจากการเข้าควบคุม ระบบทั้งหมดด้วยค่ะ!</Content>
         </Dialog>
         <Dialog ID="64" Model="호크마">
           <Teller>Hokma</Teller>
           <Title>เซฟิราร์หน่วยทะเบียน</Title>
           <VoiceFile>ch8_Yesod_ep3_hokma1</VoiceFile>
-          <Content>Understood.</Content>
+          <Content>รับทราบ</Content>
         </Dialog>
         <Dialog ID="65" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth4</VoiceFile>
-          <Content>เกบูรา and the Disciplinary Team, please keep บินาห์ at bay!</Content>
+          <Content>เกบูรา และทีมวินัย โปรดช่วยหยุดบินาห์ไว้ก่อน!</Content>
         </Dialog>
         <Dialog ID="66" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Yesod_ep3_gebura3</VoiceFile>
-          <Content>You bet… Leave this to me.</Content>
+          <Content>แน่นอน… ปล่อยให้เป็นหน้าที่ฉันเอง</Content>
         </Dialog>
         <Dialog ID="67" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth5</VoiceFile>
-          <Content>Hod and the Training Team, provide the employees with the right manual and information!</Content>
+          <Content>ฮ็อด และทีมฝึกซ้อม โปรดจัดเตรียมคู่มือและข้อมูลที่เหมาะสม กับสถานการณ์ให้กับพนักงานด้วยค่ะ!</Content>
         </Dialog>
         <Dialog ID="68" Model="호드">
           <Teller>ฮ็อด</Teller>
           <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Yesod_ep3_hod1</VoiceFile>
-          <Content>Attention to all employees! This is a type-X emergency protocol.</Content>
+          <Content>พนักงานทั้งหมดโปรดฟัง! นี่คือระเบียบการฉุกเฉินประเภท X ค่ะ</Content>
         </Dialog>
         <Dialog ID="69" Model="호드">
           <Teller>ฮ็อด</Teller>
           <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Yesod_ep3_hod2</VoiceFile>
-          <Content>Please act accordingly to the following instructions!</Content>
+          <Content>โปรดปฏิบัติตามคำแนะนำต่อไปนี้!</Content>
         </Dialog>
         <Dialog ID="70" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth6</VoiceFile>
-          <Content>Netzach and the Safety Team, please focus on treating the wounded.</Content>
+          <Content>เน็ตซัค และทีมรักษาความปลอดภัย โปรดให้ความสำคัญกับการรักษาผู้บาดเจ็บ</Content>
         </Dialog>
         <Dialog ID="71" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>เซฟิราร์หน่วยรักษา</Title>
           <VoiceFile>ch8_Yesod_ep3_netzach2</VoiceFile>
-          <Content>Aight. I’ll try to take care of ‘em as quickly as I can.</Content>
+          <Content>ได้เลย ฉันจะพยายามดูแลพวกเขา ให้เร็วที่สุดเท่าที่จะทำได้นะ</Content>
         </Dialog>
         <Dialog ID="72" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth7</VoiceFile>
-          <Content>Yesod and the Information Team, please identify the weaknesses of the escaping Abnormalities right away!</Content>
+          <Content>เยซอทด์ และทีมสารสนเทศ โปรดระบุจุดอ่อนของแอบนอร์มาลิตี้ ที่กำลังจะหลบหนีโดยเร็วที่สุดค่ะ!</Content>
         </Dialog>
         <Dialog ID="73" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>เซฟิราร์หน่วยข่าวกรอง</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod33</VoiceFile>
-          <Content>I will analyze them all with the utmost precision.</Content>
+          <Content>ได้ ฉันจะวิเคราะห์พวกมันทั้งหมดด้วยความแม่นยำที่สุด</Content>
         </Dialog>
         <Dialog ID="74" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth8</VoiceFile>
-          <Content>Chesed and the Welfare Team, please work on restoring the Qliphoth Deterrence as soon as possible.</Content>
+          <Content>เชเซ็ด และทีมสวัสดิการ โปรดทำการฟื้นฟูระบบป้องกันคลิฟอธ โดยเร็วที่สุดเท่าที่เป็นไปได้ด้วยค่ะ</Content>
         </Dialog>
         <Dialog ID="75" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Yesod_ep3_chesed2</VoiceFile>
-          <Content>Will do. This one is my fault, after all…</Content>
+          <Content>ได้สิ เรื่องนี้ก็เป็นความผิดของฉัน ตั้งแต่แรกอยู่แล้ว…</Content>
         </Dialog>
         <Dialog ID="76" Model="말쿠트">
           <Teller>มัลคุท</Teller>
