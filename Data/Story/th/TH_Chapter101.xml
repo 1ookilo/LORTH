@@ -304,10 +304,10 @@
       <Place>
         <PlaceName>Location: The Library – Floor of Social Sciences</PlaceName>
         <Dialog ID="0" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura1</VoiceFile>
-          <Content>Put that wily face outta my sight.</Content>
+          <Content>เอาหน้าชวนตีของแกไปไกลๆ ตีนฉันเดี๋ยวนี้</Content>
         </Dialog>
         <Dialog ID="1" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -316,10 +316,10 @@
           <Content>C’mon~ You’re acting up again.</Content>
         </Dialog>
         <Dialog ID="2" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura2</VoiceFile>
-          <Content>Bah… I liked you a lot better when you were just a box of steel.</Content>
+          <Content>เห้อ… ให้พูดฉันยังชอบแกตอนเป็นถังเหล็กเดินได้มากกว่าด้วยซ้ำ</Content>
         </Dialog>
         <Dialog ID="3" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -328,10 +328,10 @@
           <Content>Wow, really? I guess today is my lucky day, getting compliments from Gebura of all people~</Content>
         </Dialog>
         <Dialog ID="4" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura3</VoiceFile>
-          <Content>Huh? That wasn’t supposed to be a compliment, you…</Content>
+          <Content>หา? ฉันว่าที่ฉันพูดมันไม่ใช่คำชมนะ ไอสมองนิ่ม…</Content>
         </Dialog>
         <Dialog ID="5" Model="티페리트">
           <Teller>Tiphereth</Teller>
@@ -340,16 +340,16 @@
           <Content>Alright, cut it out, you two. Aren’t you sick of fighting already?</Content>
         </Dialog>
         <Dialog ID="6" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura4</VoiceFile>
-          <Content>…This teal-haired turd keeps rubbing coffee in my face.</Content>
+          <Content>…ไอหนุ่มหัวกรมนี่มันเอากาแฟจะยัดปากฉันให้ได้อยู่เนี่ย</Content>
         </Dialog>
         <Dialog ID="7" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura5</VoiceFile>
-          <Content>I don’t get what’s so good about a cup of bitter bean water.</Content>
+          <Content>ฉันล่ะไม่เข้าใจจริงๆ ไอน้ำถั่วขมๆเนี่ยมันอร่อยยังไงวะ</Content>
         </Dialog>
         <Dialog ID="8" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -358,10 +358,10 @@
           <Content>It’s an acquired taste, you know~</Content>
         </Dialog>
         <Dialog ID="9" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura6</VoiceFile>
-          <Content>Go lap up that taste yourself, then. I don’t wanna bother getting used to it.</Content>
+          <Content>แดกเองเถอะไป ขอไม่กิน ไม่ชิม ไม่ลอง</Content>
         </Dialog>
         <Dialog ID="10" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -370,10 +370,10 @@
           <Content>Don’t be so sour~ I got something sweet for the both of you this time, so give it a try for my sake, please~?</Content>
         </Dialog>
         <Dialog ID="11" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura7</VoiceFile>
-          <Content>You mean the… muckhairytoe or something?</Content>
+          <Content>แกหมายถึงไอ… สุกี้อาโต้อะไรนี่ป่ะ?</Content>
         </Dialog>
         <Dialog ID="12" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -388,10 +388,10 @@
           <Content>It’s actually called macchiato, though…</Content>
         </Dialog>
         <Dialog ID="14" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura8</VoiceFile>
-          <Content>…Whatever, it’s all the same to me. That one was edible, I’ll admit.</Content>
+          <Content>…จะอะไรก็ช่างดิ เหมือนๆ กันแหละ ถ้าแค่กินได้ ฉันเอา</Content>
         </Dialog>
         <Dialog ID="15" Model="티페리트">
           <Teller>Tiphereth</Teller>
@@ -424,10 +424,10 @@
           <Content>I mean, I could drink coffee with you if you’re so desperate for a café buddy. You just seemed weirdly insistent with Gebura.</Content>
         </Dialog>
         <Dialog ID="20" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura9</VoiceFile>
-          <Content>Yeah, I gotta wonder what’s up with that.</Content>
+          <Content>จริงแท้ จะอะไรนักหนากับฉันเนี่ยห๊ะ</Content>
         </Dialog>
         <Dialog ID="21" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -448,10 +448,10 @@
           <Content>Her reactions are fun to watch?</Content>
         </Dialog>
         <Dialog ID="24" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura10</VoiceFile>
-          <Content>What?</Content>
+          <Content>หา?</Content>
         </Dialog>
         <Dialog ID="25" Model="티페리트">
           <Teller>Tiphereth</Teller>
@@ -484,10 +484,10 @@
           <Content>It’s true, we’d usually be shut up in our own floors doing our jobs if it weren’t for breaks like this…</Content>
         </Dialog>
         <Dialog ID="30" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura11</VoiceFile>
-          <Content>If that’s what this is for, there’s no reason to make it about coffee, right?</Content>
+          <Content>ถ้านั่นคือจุดประสงค์ งั้นก็ไม่มีเหตุผที่ต้องเป็นกาแฟใช่ป่ะ?</Content>
         </Dialog>
         <Dialog ID="31" Model="티페리트">
           <Teller>Tiphereth</Teller>
@@ -502,10 +502,10 @@
           <Content>You hit the bullseye there, Tiph~</Content>
         </Dialog>
         <Dialog ID="33" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura12</VoiceFile>
-          <Content>Forget it. In that case, I could just come up here with Tiphereth to hang out more often.</Content>
+          <Content>แช่งแม่งเหอะ ถ้าจะเอางั้น ขอมานี่พร้อมทิฟาเรธเป็นเพื่อนบ่อยๆ ละกัน</Content>
         </Dialog>
         <Dialog ID="34" Model="티페리트">
           <Teller>Tiphereth</Teller>
@@ -688,8 +688,8 @@
           <Content>I must wonder how you two perceive me, now that your memories have returned in whole.</Content>
         </Dialog>
         <Dialog ID="1" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch100_Smallstory_ep4_Gebura_1-01</VoiceFile>
           <Content>What? That kind of stuff doesn’t matter to me anymore.</Content>
         </Dialog>
@@ -700,8 +700,8 @@
           <Content>You are much more self-possessed than I expected.</Content>
         </Dialog>
         <Dialog ID="3" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch100_Smallstory_ep4_Gebura_2-01</VoiceFile>
           <Content>I can’t say I’m not at all uncomfortable, but we’re basically in the same oven now.</Content>
         </Dialog>
@@ -712,14 +712,14 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="5" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch100_Smallstory_ep4_Gebura_3-01</VoiceFile>
           <Content>Come on, Hod, have some confidence. You look even smaller than usual…</Content>
         </Dialog>
         <Dialog ID="6" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch100_Smallstory_ep4_Gebura_4</VoiceFile>
           <Content>She’s not the person you remember in your past, at least not anymore. I can’t guarantee what’ll happen in the future, but she won’t be harming us for a good while.</Content>
         </Dialog>
@@ -814,8 +814,8 @@
           <Content>Too much sugar can make the tea feel muddy. Though I suppose it is a matter of preference.</Content>
         </Dialog>
         <Dialog ID="22" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch100_Smallstory_ep4_Gebura_5-01</VoiceFile>
           <Content>…It sure is sweet. Not too bad.</Content>
         </Dialog>
@@ -832,8 +832,8 @@
           <Content>Oh… I think I heard about that. Some call it “black tea” based on the color of the leaves, and some call it “red tea” since the color of the tea is red.</Content>
         </Dialog>
         <Dialog ID="25" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch100_Smallstory_ep4_Gebura_6</VoiceFile>
           <Content>I guess it’s the difference between valuing the essence and the results.</Content>
         </Dialog>
@@ -856,8 +856,8 @@
           <Content>…That’s a tough question.</Content>
         </Dialog>
         <Dialog ID="29" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch100_Smallstory_ep4_Gebura_7-01</VoiceFile>
           <Content>What’s the big deal? Just call it whichever name you’re more used to.</Content>
         </Dialog>
@@ -1396,8 +1396,8 @@
           <Content>She brought us to the book that one time, true…</Content>
         </Dialog>
         <Dialog ID="7" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch100_Smallstory_ep7_Gebura_1</VoiceFile>
           <Content>I was having a light chat with Netzach, then this black suit snuck in.</Content>
         </Dialog>
@@ -1450,8 +1450,8 @@
           <Content>…That hurts. Stop hitting.</Content>
         </Dialog>
         <Dialog ID="16" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch100_Smallstory_ep7_Gebura_2-03</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -1462,8 +1462,8 @@
           <Content>Oh no, Gebura~ You shouldn’t smoke in a place like this~ Other librarians are walking by~</Content>
         </Dialog>
         <Dialog ID="18" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile />
           <Content>…</Content>
         </Dialog>
@@ -1480,8 +1480,8 @@
           <Content>I dunno if the books can catch fire here, but it doesn’t look very good.</Content>
         </Dialog>
         <Dialog ID="21" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch100_Smallstory_ep7_Gebura_4</VoiceFile>
           <Content>…Okay.</Content>
         </Dialog>
@@ -1582,14 +1582,14 @@
           <Content>I figured that a book on the Floor of Language would make good supplementary material, so we were heading up.</Content>
         </Dialog>
         <Dialog ID="38" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch100_Smallstory_ep7_Gebura_5</VoiceFile>
           <Content>Oh, that so? Guess I should vamoose. Appreciate the drinks, Netzach. The story you told was interesting, too.</Content>
         </Dialog>
         <Dialog ID="39" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch100_Smallstory_ep7_Gebura_7</VoiceFile>
           <Content>So, Yesod. What’s the book you want?</Content>
         </Dialog>
@@ -1876,8 +1876,8 @@
           <Content>I was having some coffee with Hod and Gebura~ Then they suddenly brought us here, saying they’d like to return the favor. Isn’t that a surprise?</Content>
         </Dialog>
         <Dialog ID="12" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch100_Smallstory_ep9_Gebura_1</VoiceFile>
           <Content>Should’ve realized that they were hers from the color of their attire…</Content>
         </Dialog>
@@ -1888,8 +1888,8 @@
           <Content>Sounds like you’re on friendly terms with assistant librarians.</Content>
         </Dialog>
         <Dialog ID="14" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Patron Librarian - Language</Title>
+          <Teller>เกบูร่า</Teller>
+          <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch100_Smallstory_ep9_Gebura_2</VoiceFile>
           <Content>They’re our coworkers, no need to be cold with them.</Content>
         </Dialog>
