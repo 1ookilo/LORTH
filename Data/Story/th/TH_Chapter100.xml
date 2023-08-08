@@ -832,7 +832,7 @@
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Malkuth_ep3_gebura1</VoiceFile>
-          <Content>We’re not going to sit still and let you take away our light.</Content>
+          <Content>เราจะไม่นั่งบื้อ รอเธอมาเอาแสงของเราไปเฉยๆ หรอก</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -880,7 +880,7 @@
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Malkuth_ep3_gebura2</VoiceFile>
-          <Content>Damn it! Binah… Even in the end, you’re…</Content>
+          <Content>แม่งเอ้ย! บินาห์… สุดท้าย แกก็…</Content>
         </Dialog>
         <Dialog ID="71" Model="비나">
           <Teller>บินาห์</Teller>
@@ -3107,7 +3107,7 @@
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Yesod_ep3_gebura3</VoiceFile>
-          <Content>แน่นอน… ปล่อยให้เป็นหน้าที่ฉันเอง</Content>
+          <Content>ได้… ให้เป็นหน้าที่ฉันเอง</Content>
         </Dialog>
         <Dialog ID="67" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -5241,7 +5241,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Hod_ep3_gebura1</VoiceFile>
-          <Content>Hrk… And time is what matters to you most right now.</Content>
+          <Content>คึ… แลไอเวลานี่แหละเป็นเรื่องที่ต้องคิดถึงให้เยอะแล้วนะ</Content>
         </Dialog>
         <Dialog ID="61" Model="호드">
           <Teller>ฮ็อด</Teller>
@@ -5277,7 +5277,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Hod_ep3_gebura2</VoiceFile>
-          <Content>Arrrgh!</Content>
+          <Content>อ๊าคคคค!</Content>
         </Dialog>
         <Dialog ID="67" Model="비나">
           <Teller>บินาห์</Teller>
@@ -7872,13 +7872,13 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Netzach_ep3_gebura1</VoiceFile>
-          <Content>ฉันเห็นด้วยนะ เป็นแบบนี้เราไม่ชนะเธอแน่</Content>
+          <Content>ฉันเห็นด้วย ถ้าเป็นแบบนี้ต่อ เราก็คงชนะเธอไม่ได้อยู่ดี</Content>
         </Dialog>
         <Dialog ID="39" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Netzach_ep3_gebura2</VoiceFile>
-          <Content>ฉันไม่ได้สู้เธอเพื่อกระจายแสงที่มีจำนวนไม่ถึงครึ่งนะ</Content>
+          <Content>ฉันไม่ได้ต่อสู้กับเธอ เพียงเพื่อกระจายแสงที่มีไม่ถึงครึ่งนี่นะ</Content>
         </Dialog>
         <Dialog ID="40" Model="호드">
           <Teller>ฮ็อด</Teller>
@@ -20534,7 +20534,7 @@ because I am certain you will never leave me.”
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Kether_ep2_Gebura1-01</VoiceFile>
-          <Content>Make no mistake, Angela. We aren’t on your side. We only share a common goal.</Content>
+          <Content>ไม่มีอะไรผิดหรอกแองเจล่า เราไม่ได้ยืนอยู่ข้างเธอ เราต่างแค่มีจุดหมายเดียวกันแค่นั้น</Content>
         </Dialog>
         <Dialog ID="3" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
@@ -20606,7 +20606,7 @@ because I am certain you will never leave me.”
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Kether_ep2_Gebura2</VoiceFile>
-          <Content>He’s right. I don’t believe that I failed to protect anything. I could save the life of someone who inherited her will.</Content>
+          <Content>เขาพูดถูกแล้ว ฉันไม่เชื่อหรอกว่าฉันปกป้องอะไรไม่ได้น่ะ อย่างน้อยฉันยังปกป้องคนที่สานต่อความคิดเธอไว้ได้แล้ว</Content>
         </Dialog>
         <Dialog ID="15" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
@@ -20630,7 +20630,7 @@ because I am certain you will never leave me.”
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Kether_ep2_Gebura3-02</VoiceFile>
-          <Content>Sure, if that’s what you think. You only care about the feelings and agony you bear.</Content>
+          <Content>เออ เชิญเลย ถ้าคิดแบบนั้น สุดท้ายก็คิดถึงแต่ตัวเองและความโกรธตัวเองสินะ</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
