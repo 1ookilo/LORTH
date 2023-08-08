@@ -3077,7 +3077,7 @@
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth1</VoiceFile>
-          <Content>เซฟิรอธและบุคลากรทุกท่าน โปรดปฏิบัติตามคำสั่งของฉันด้วยค่ะ!</Content>
+          <Content>เซฟิร่าและบุคลากรทุกท่าน โปรดปฏิบัติตามคำสั่งของฉันด้วยค่ะ!</Content>
         </Dialog>
         <Dialog ID="62" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -10134,7 +10134,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth8-01</VoiceFile>
-          <Content>และบรรณารักษ์ทั้งหมดก็เป็นตัวตนที่เกิดใหม่จากโลโบโตมี่คอเปอร์เรชั่น หัวหน้าบรรณารักษ์คือเซฟิรอธ ผู้ช่วยบรรณารักษ์คือพนักงาน</Content>
+          <Content>และบรรณารักษ์ทั้งหมดก็เป็นตัวตนที่เกิดใหม่จากโลโบโตมี่คอเปอร์เรชั่น หัวหน้าบรรณารักษ์คือเซฟิร่า ผู้ช่วยบรรณารักษ์คือพนักงาน</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -10152,7 +10152,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth10-01</VoiceFile>
-          <Content>แองเจล่าก็รักษาสัญญา แต่ไม่ใช่แค่เซฟิรอธกับพนักงานที่กลับมา</Content>
+          <Content>แองเจล่าก็รักษาสัญญา แต่ไม่ใช่แค่เซฟิร่ากับพนักงานที่กลับมา</Content>
         </Dialog>
         <Dialog ID="17" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
@@ -12634,13 +12634,13 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_1-02</VoiceFile>
-          <Content>The Book of the Red Mist…</Content>
+          <Content>หนังสือของหมอกแดง…</Content>
         </Dialog>
         <Dialog ID="1" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_2-04</VoiceFile>
-          <Content>I was called that back then… Meeting my past self in person reminded me of a lot of things.</Content>
+          <Content>ชื่อนี้คิดถึงจริง เมื่อกก่อนถูกเรียกแบบนั้น… ตัวฉันในอดีตทำให้นึกอะไรได้หลายๆ อย่างเลยล่ะ</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12652,13 +12652,13 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_3_b</VoiceFile>
-          <Content>I certainly brandished my blade trying to protect many friends and colleagues.</Content>
+          <Content>ฉันได้เลือกไปแล้ว ว่าจะแกว่งดาบเพื่อปกป้องทั้งเพื่อนๆ และเพื่อนร่วมงานของฉัน</Content>
         </Dialog>
         <Dialog ID="4" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_4-03</VoiceFile>
-          <Content>Even if I couldn’t meet the expectations; even if I couldn’t save them all.</Content>
+          <Content>ต่อให้ทำไม่ได้อย่างหวังก็ตาม; ต่อให้ปกป้องไม่ได้ทั้งหมดก็ตาม</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12676,13 +12676,13 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_5</VoiceFile>
-          <Content>Kali the Red Mist, เกบูรา the Sephirah in L Corp, and my present self—a librarian…</Content>
+          <Content>Kali หมอกแดง, เกบูรา เซฟิราร์ของโลโบโตมี่คอร์ป, และตัวฉันที่เป็นบรรณารักษ์…</Content>
         </Dialog>
         <Dialog ID="8" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_6-02</VoiceFile>
-          <Content>My three lives may not have been the same, but my spirit has carried over.</Content>
+          <Content>ถึงสามชีวิตนี้จะไม่ใช่หนึ่งเดียวกัน แต่จิตวิญญาณก็ยังถูกส่งต่อกันอยู่</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12694,19 +12694,19 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_7-03</VoiceFile>
-          <Content>Not really. I do think it’s laughable, though.</Content>
+          <Content>ไม่เชิง ฉันว่ามันน่าหัวเราะมากกว่า</Content>
         </Dialog>
         <Dialog ID="11" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_8-05</VoiceFile>
-          <Content>I failed to protect everyone and ended up here like this.</Content>
+          <Content>ฉันพลาดกับการปกป้องทุกคน และมาลงเอยแบบนี้แท้ๆ</Content>
         </Dialog>
         <Dialog ID="12" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_9-04</VoiceFile>
-          <Content>Still, I can say for sure that I did my best.</Content>
+          <Content>ถึงอย่างนั้น ฉันก็พูดได้ว่าใส่เต็มสุดแล้วละกัน</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12724,31 +12724,31 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_10_b</VoiceFile>
-          <Content>…She’s probably still wandering herself.</Content>
+          <Content>…เธอเองก็น่าจะยังคิดเกี่ยวกับเรื่องนี้อยู่นั่นแหละ</Content>
         </Dialog>
         <Dialog ID="16" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_11-01</VoiceFile>
-          <Content>Thinking about everything she went through, I honestly can’t blame her so harshly for doing what she did.</Content>
+          <Content>คิดถึงทุกอย่างที่เธอข้ามผ่านมา หลายสิ่งหลายอย่าง ให้โทษดื้อกับสิ่งที่ทำก็ไม่ได้หรอก</Content>
         </Dialog>
         <Dialog ID="17" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_12</VoiceFile>
-          <Content>So I want to reserve my judgement until I’ve seen for myself the end of the path she’s taking.</Content>
+          <Content>เพราะงั้นฉันก็อยากเกก็บคำตัดสินฉันไว้จนกว่าจะเห็นตัวเลือกที่เธอเลือกได้ด้วยตาฉันเองนั่นแหละ</Content>
         </Dialog>
         <Dialog ID="18" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_13</VoiceFile>
-          <Content>If I unleashed my rage at her now, nothing would change.</Content>
+          <Content>ต่อให้ฉันโกรธและไล่ขยี้ไปตอนนี้ ก็ไม่มีอะไรเปลี่ยนหรอก</Content>
         </Dialog>
         <Dialog ID="19" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_14-01</VoiceFile>
-          <Content>It’ll only perpetuate the chain of fury and vengeance.</Content>
+          <Content>มันก็ได้แค่สืบต่อวิบากของความโกรธและความแค้นไปเรื่อยๆ เท่านั้น</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12766,13 +12766,13 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_16</VoiceFile>
-          <Content>I’d be lying if I said I didn’t feel any anger or regret.</Content>
+          <Content>ถ้าบอกว่าฉันไม่โกกรธหรือไม่เสียใจ ก็คงโกหก</Content>
         </Dialog>
         <Dialog ID="23" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_18-01</VoiceFile>
-          <Content>Even though I couldn’t protect everyone, I saved the ones I could.</Content>
+          <Content>ถึงจะปกป้องไม่ได้ทุกคน อย่างน้อยฉันก็ปกป้องคนๆ นึงได้</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13204,7 +13204,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_21</VoiceFile>
-          <Content>I guess my past self in Lobotomy Corp. wasn’t too different from Roland just now.</Content>
+          <Content>ฉันว่า ตัวฉันยุคโลโบโตมี่คอร์ปก็ไม่ได้ต่างจากกโรแลนด์ตอนนี้หรอก.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -13252,7 +13252,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_22</VoiceFile>
-          <Content>…Well, don’t mind it too much. We all have our humiliating moments.</Content>
+          <Content>…ก็ อย่าถือละกัน ต่าคนต่างได้จังหวะหน้าแตกพอกันนั่นแหละ</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13264,25 +13264,25 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_23</VoiceFile>
-          <Content>Roland. I well understand where your anger comes from.</Content>
+          <Content>โรแลนด์ ฉันเข้าใจแกเกี่ยวกับที่ไปที่มาของความโกรธแกนะ</Content>
         </Dialog>
         <Dialog ID="15" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_24</VoiceFile>
-          <Content>But wrath is like a blade with the sharpest edge. If you aren’t careful with wielding it, you might end up cutting yourself before you even realize it.</Content>
+          <Content>แต่ความโกรธนี่แหละคือใบดาบที่คมที่สุด หากไม่คุมมันไว้ให้ดีแล้วล่ะก็ ใบดาบนั้นมันจะบาดมือคนใช้ก่อนคนใช้จะเห็นแผลอีกแน่</Content>
         </Dialog>
         <Dialog ID="16" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_25</VoiceFile>
-          <Content>So it’s important to hold that blade correctly.</Content>
+          <Content>เพราะงั้นแล้ว ถือใบดาบนั้นให้มั่นคงเสียก่อน</Content>
         </Dialog>
         <Dialog ID="17" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_26-03</VoiceFile>
-          <Content>And the next step would be deciding where to point your sharp blade.</Content>
+          <Content>แล้วค่อยต่อกันว่า เราจะชี้ดาบนี้ไปใส่ใคร</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13306,7 +13306,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_27_b-01</VoiceFile>
-          <Content>…Want a cig?</Content>
+          <Content>…สูบหน่อยไหม?</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
