@@ -394,33 +394,41 @@ Woodsman จะสับใส่ตัวละครนี้</Desc>
 </PassiveDesc>
 
 <PassiveDesc ID="602011">
-<Name>The Role of the Wolf</Name>
-<Desc>Every 2 Scenes, uses a Combat Page that swallows the target on hit. The consumed librarian is excluded from battle for the next Scene.</Desc>
+<Name>บทบาทของหมาป่า</Name>
+<Desc>ทุกๆ 2 ฉาก ใช้ Combat Page ที่จะกลืนเป้าหมายเมื่อโจมตี
+เป้าหมายที่ถูกกลืนจะถูกเอาออกจากการต่อสู้ในฉากถัดไป</Desc>
 </PassiveDesc>
 <PassiveDesc ID="602012">
-<Name>Hour of Poetic Justice</Name>
-<Desc>After swallowing a librarian, all Stagger damage resistances change to 'Fatal' for the next Scene. If the Wolf is Staggered within the Scene, expel the captive librarian. The librarian loses 25% of their Max HP upon being expelled and becomes Staggered.</Desc>
+<Name>ช่วงคืนกวีแห่งความเที่ยงธรรม</Name>
+<Desc>หลังจากกลืนบรรณารักษ์แล้ว ในฉากถัดไป ความทนทาน Stagger ทั้งหมดเปลี่ยนเป็น "ร้ายแรง"
+หากหมาป่า Staggered ในฉากนั้น คายบรรณารักษ์ออกมา
+บรรณารักษ์จะเสีย HP 25% จากทั้งหมดเมื่อถูกคายและ Staggered ด้วย</Desc>
 </PassiveDesc>
 <PassiveDesc ID="602013">
-<Name>Destined to be the Big Bad Wolf</Name>
-<Desc>If the Wolf does not get Staggered after the Scene it swallows a librarian, the librarian is killed and the Wolf transforms into a powerful state. The Wolf also transforms if its HP is at 50% or lower at the start of a Scene. HP does not fall below 30% before transforming.</Desc>
+<Name>ชะตาชี้กำหนดให้เป็นหมาป่าใหญ่และชั่วร้าย</Name>
+<Desc>หากหมาป่าไม่ถูก Staggered หลังจากกลืนบรรณารักษ์
+บรรณารักษ์คนนั้นจะถูกฆ่า และหมาป่าจะแปรงร่าง
+หากหมาป่าเหลือ HP 50% หรือต่ำกว่า ก็จะแปรงร่างเมื่อเริ่มฉากเช่นกัน
+HP จะไม่ลดไปต่ำกว่า 30% จนกว่าจะแปรงร่าง</Desc>
 </PassiveDesc>
 
 <PassiveDesc ID="602021">
-<Name>Transform</Name>
-<Desc>Upon transforming, Max Stagger Resist increases, and Stagger Resist is recovered to full.</Desc>
+<Name>แปรงร่าง</Name>
+<Desc>เมื่อแปรงร่าง Stagger Resist เพิ่มขึ้นและฟื้นฟูจนเต็ม</Desc>
 </PassiveDesc>
 <PassiveDesc ID="602022">
-<Name>Into the Dark</Name>
-<Desc>After the Abnormality loses 25% or more of the HP it had at the point of transformation, gain the 'Skulking in the Shadows' status for the next 2 Scenes.</Desc>
+<Name>สู่เงามืด</Name>
+<Desc>เมื่อแอบนอร์มาลิตี้เสีย HP 25% หรือมากกว่า นับจากตอนแปรงร่าง
+จะได้รับสถานะ "Skulking in the Shadows" เป็นเวลา 2 ฉาก</Desc>
 </PassiveDesc>
 <PassiveDesc ID="602023">
-<Name>Shadowy Lurker</Name>
-<Desc>While the Abnormality has the 'Skulking in the Shadows' status, librarians other than the ones targeted by the Abnormality cannot target it.</Desc>
+<Name>เงาคืบคลาน</Name>
+<Desc>ขณะที่แอบนอร์มาลิตี้มีสถานะ "Skulking in the Shadows"
+บรรณารักษ์คนอื่นที่ไม่ได้ถูกเล็งโดยมัน จะเล็งใส่แอบนอร์มาลิตี้ไม่ได้</Desc>
 </PassiveDesc>
 <PassiveDesc ID="602024">
-<Name>Weariness</Name>
-<Desc>After 'Skulking in the Shadows' wears off, all Stagger damage resistances change to 'Fatal' for a Scene.</Desc>
+<Name>อ่อนล้า</Name>
+<Desc>หลังจาก "Skulking in the Shadows" หมดลง ความทนทาน Stagger ทั้งหมดเปลี่ยนเป็น "ร้ายแรง" หนึ่งฉาก</Desc>
 </PassiveDesc>
 
 <PassiveDesc ID="503010">
@@ -474,7 +482,7 @@ Woodsman จะสับใส่ตัวละครนี้</Desc>
 </PassiveDesc>
 <PassiveDesc ID="304013">
 <Name>Being Lonely is Sad</Name>
-<Desc>If all other allies have died, all resistances change to 'Fatal'.</Desc>
+<Desc>If all other allies have died, all resistances change to "ร้ายแรง".</Desc>
 </PassiveDesc>
 <PassiveDesc ID="304021">
 <Name>Gi...ft...</Name>
@@ -655,7 +663,7 @@ If no librarian is damaged by the attack, the Abnormality becomes Staggered next
 </PassiveDesc>
 <PassiveDesc ID="703032">
 <Name>Cowardly</Name>
-<Desc>Once 'The Road Home' dies, all resistances change to 'Fatal', and Max HP is reduced. The number of Speed dice and Combat Pages also change.</Desc>
+<Desc>Once 'The Road Home' dies, all resistances change to "ร้ายแรง", and Max HP is reduced. The number of Speed dice and Combat Pages also change.</Desc>
 </PassiveDesc>
 
 <PassiveDesc ID="504011">
@@ -815,11 +823,11 @@ If the character did not use the page for 3 Scenes after shapeshifting, it will 
  </PassiveDesc>
  <PassiveDesc ID="704012">
 <Name>Agony of the Deprived</Name>
-<Desc>After a librarian with Oblivion is restored from the status, all resistances of this character change to 'Fatal' at the start of the next Scene, and uses a Mass Attack page. Repeats the pattern afterwards.</Desc>
+<Desc>After a librarian with Oblivion is restored from the status, all resistances of this character change to "ร้ายแรง" at the start of the next Scene, and uses a Mass Attack page. Repeats the pattern afterwards.</Desc>
  </PassiveDesc>
 <PassiveDesc ID="704013">
 <Name>Grief of the Deprived</Name>
-<Desc>After 2 cycles have passed, all Stagger damage resistances of this character change to 'Fatal' at the start of the next Scene, and uses an extremely powerful Mass Attack page.</Desc>
+<Desc>After 2 cycles have passed, all Stagger damage resistances of this character change to "ร้ายแรง" at the start of the next Scene, and uses an extremely powerful Mass Attack page.</Desc>
 </PassiveDesc>
 
 <!--잭-->
