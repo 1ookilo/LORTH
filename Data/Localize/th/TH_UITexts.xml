@@ -431,8 +431,8 @@ The Combat bookshelf will be reset.</text>
 
 
   <!--8/05-->
-  <text id ="ui_popup_opencomplete_floor">{0} Realization อย่างเสร็จสมบูรณ์</text>
-  <text id ="ui_popup_openuncomplete_floor">{0} ได้ล้มเหลวในการ Realization</text>
+  <text id ="ui_popup_opencomplete_floor">รู้แจ้ง{0}เสร็จสมบูรณ์</text>
+  <text id ="ui_popup_openuncomplete_floor">{0}ได้ล้มเหลวในการรู้แจ้ง</text>
   <text id="ui_library_abilitycontent_17">คุณสามารถใช้ E.G.O Pages ได้แล้ว</text>
   <text id="ui_library_abilitycontent_18">ขีดจำกัดของระดับอารมณ์ได้ถูกเพิ่มเป็น {0}</text>
   <text id="ui_popup_creature_bossbattle_start">คุณได้เตรียมตัวเตรียมใจให้พร้อมเพื่อรับชมบทสรุปของ {0} หรือยัง?</text>
@@ -552,7 +552,7 @@ The Combat bookshelf will be reset.</text>
   <!--20201113-->
   <text id="ui_selectgendertype">ชนิดร่างกาย</text>
   <!--20201113-->
-  <text id="ui_resultemptygift">No Battle Symbols gained</text>
+  <text id="ui_resultemptygift">ไม่ได้รับ Battle Symbols</text>
   <!--20201116-->
   <text id="ui_genderappearance_a">ตัวเลือก A</text>
   <text id="ui_genderappearance_b">ตัวเลือก B</text>
@@ -590,8 +590,8 @@ The Combat bookshelf will be reset.</text>
 
   <text id ="ui_equippage_notequip">ยกเลิก</text>
 
-  <text id ="ui_alarm_battlesetting_canusebinah">คุณสามารถใช้งานหัวหน้าบรรณารักษ์ บีนา ได้ในการต่อสู้ครั้งนี้</text>
-  <text id ="ui_alarm_main_canusebinah">หัวหน้าบรรณารักษ์ผู้รับผิดชอบชั้นปรัชญา บีนา พร้อมร่วมต้อนรับแขกแล้ว</text>
+  <text id ="ui_alarm_battlesetting_canusebinah">คุณสามารถใช้งานหัวหน้าบรรณารักษ์ บีนาห์ ได้ในการต่อสู้ครั้งนี้</text>
+  <text id ="ui_alarm_main_canusebinah">หัวหน้าบรรณารักษ์ชั้นปรัชญา บีนาห์ พร้อมร่วมต้อนรับแขกแล้ว</text>
 
   <text id ="ui_slash_form">ฟัน</text>
   <text id ="ui_penetrate_form">แทง</text>
@@ -617,11 +617,11 @@ The Combat bookshelf will be reset.</text>
 
   <text id="ui_controller_story_playvoice">เล่นเสียงพูด</text>
 
-  <text id="ui_controller_zoominout">ซูม เข้า/ออก</text>
-  <text id="ui_controller_zoomreset">รีเซ็ท ซูม</text>
+  <text id="ui_controller_zoominout">ซูมเข้า/ออก</text>
+  <text id="ui_controller_zoomreset">รีเซ็ทการซูม</text>
 
 
-  <text id="ui_invitation_send_blueReveration">ต้อนรับแขกที่มิได้รับเชิญ</text>
+  <text id="ui_invitation_send_blueReveration">ต้อนรับแขกที่ไม่ได้รับเชิญ</text>
 
   
 
@@ -629,7 +629,7 @@ The Combat bookshelf will be reset.</text>
   <text id ="ui_alarm_enterthebluereverberationprimary">คุณพร้อมที่จะเริ่มการต้อนรับ {0} หรือไม่?</text>
 
   <!--20210210UI-->
-  <text id ="ui_controller_removedeck">ลบเด๊ค</text>
+  <text id ="ui_controller_removedeck">ลบเด็ค</text>
 
   <!--20210215UI-->
   <text id ="ui_alarm_feedingbook_backtomain">หยุดการเผาหนังสือและกลับไปหน้าก่อนหน้า?</text>
@@ -659,10 +659,10 @@ The Combat bookshelf will be reset.</text>
   <text id ="ui_alarm_blueprimaryreward">รางวัลที่ได้รับจากการต้อนรับ "คณะเสียงกังวาล" สามารถรับได้เพียงครั้งเดียวเท่านั้น</text>
 
 
-  <text id="ui_alarm_startthebluereverberationprimary">หลังจากนี้คุณจะไม่สามารถส่งบัตรเชิญ เผาหนังสือ ต่อสู้กับ Abnormalities หรือ realize ชั้นได้อีกต้อไป
+  <text id="ui_alarm_startthebluereverberationprimary">หลังจากนี้คุณจะไม่สามารถส่งบัตรเชิญ เผาหนังสือ ต่อสู้กับ Abnormalities หรือหยั่งรู้ชั้นได้อีกต่อไป
 คุณแน่ใจว่าคุณเพรียบพร้อมที่จะเผชิญหน้ากับสิ่งที่กำลังจะมาไม่ว่าจะต้องเผชิญหน้ากับสิ่งใดก็ตามใช่หรือไม่?</text>
 
-  <text id ="ui_alarm_backthebluereverberationprimary">หากคุณล้มเลิกตอนนี้คุณจะเสียความคืบหน้า ณ จุดนี้และถูกส่งกลับไปสู่ ณ ช่วงเวลาหลังจากที่คุณต้อนรับ สมาพันธ์ฮานะ
+  <text id ="ui_alarm_backthebluereverberationprimary">หากคุณล้มเลิกตอนนี้คุณจะเสียความคืบหน้า ณ จุดนี้และถูกส่งกลับไปสู่ ณ ช่วงเวลาหลังจากที่คุณต้อนรับสมาพันธ์ฮานะ
 คุณแน่ใจว่าคุณต้องการล้มเลิกการต้อนรับในครั้งนี้ใช่หรือไม่?</text>
 
 
@@ -685,12 +685,12 @@ The Combat bookshelf will be reset.</text>
   
   
   <!--20210318 선택지 텍스트-->
-  <text id ="ui_storyselectoption_blacksilence_kill">Reject Roland, and Angela will embrace this sorrow to grasp at freedom.</text>
-  <text id ="ui_storyselectoption_blacksilence_forgive">Forgive Roland, and Angela will let go of it all to turn everything back to how it was.</text>
-  <text id ="ui_storyselectoption_blacksilence_forgivecondition">Angela would only be able to do this after fully Realizing what she needed to on each floor.</text>
-  <text id ="ui_storyselectoption_angela_kill">Snub Angela, and Roland will exact his revenge with this last step.</text>
-  <text id ="ui_storyselectoption_angela_forgive">Forgive Angela.</text>
-  <text id ="ui_storyselectoption_angela_forgivecondition">Roland would only put things behind him after fully Realizing what he needed to on each floor.</text>
+  <text id ="ui_storyselectoption_blacksilence_kill">ปฎิเสธโรแลนด์ แล้วแองเจล่าจะรับความโศกนี้เพื่อคว้าอิสรภาพ</text>
+  <text id ="ui_storyselectoption_blacksilence_forgive">ยกโทษให้โรแลนด์ แล้วแองเจล่าจะปลดปล่อยทุกสิ่งเพื่อนำทุกอย่างกลับไปอย่างที่เคย</text>
+  <text id ="ui_storyselectoption_blacksilence_forgivecondition">แองเจล่าจะสามารถทำได้ต่อเมื่อเธอรู้แจ้งในสิ่งที่ต้องรู้ในแต่ละชั้นอย่างสมบูรณ์</text>
+  <text id ="ui_storyselectoption_angela_kill">ดับชีวิตแองเจล่า แล้วโรแลนด์จะได้ล้างแค้นด้วยขั้นตอนสุดท้ายนี้.</text>
+  <text id ="ui_storyselectoption_angela_forgive">ยกโทษให้แองเจล่า</text>
+  <text id ="ui_storyselectoption_angela_forgivecondition">โรแลนด์จะยอมปล่อยทิ้งไว้เบี้องหลังต่อเมื่อเขารู้แจ้งในสิ่งที่ต้องรู้ในแต่ละชั้นอย่างสมบูรณ์</text>
 
   <!--20210324패시브 필터 관련 *passive Desc에 사용되는 용어 그대로 번역-->
   <text id="ui_passivedetailfilter">ค้นหาแบบละเอียด</text>
