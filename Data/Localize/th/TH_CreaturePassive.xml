@@ -432,19 +432,19 @@ HP จะไม่ลดไปต่ำกว่า 30% จนกว่าจะ
 </PassiveDesc>
 
 <PassiveDesc ID="503010">
-<Name>Aurum Amber</Name>
+<Name>อัมพันสีเหลืองทอง</Name>
 <Desc>Does not act. If HP reaches 0 before the end of the Scene, awakens as a Magical Girl. Otherwise, awakens as the King of Greed.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="503011">
-<Name>Flicking Desire</Name>
+<Name>ความปราถนาที่ปลายทาง</Name>
 <Desc>If HP falls to 50% or lower, transform into the King of Greed next Scene. HP does not go below 50% before transformation.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="503012">
-<Name>The Road of Gold</Name>
+<Name>ถนนสีทองคำ</Name>
 <Desc>Every 3 Scenes, creates Brilliant Bliss and becomes untargetable, but does not act. The following Scene, uses a special Combat Page against all librarians.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="503013">
-<Name>Narcissism</Name>
+<Name>ผู้หลงตัวเอง</Name>
 <Desc>If three or fewer librarians manage to negate the attack of the special Combat Page, gain 3 Strength and Haste next Scene. (If two or less librarians are alive, one or no librarians negating the page will activate this effect)</Desc>
 </PassiveDesc>
 <PassiveDesc ID="503014">
@@ -456,7 +456,7 @@ HP จะไม่ลดไปต่ำกว่า 30% จนกว่าจะ
 <Desc>Uses a different set of Combat Pages. On a successful hit, deal bonus damage equal to stacks of Bleed on the target.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="503022">
-<Name>The Road of the King</Name>
+<Name>หนทางสู่ราชา</Name>
 <Desc>Every 3 Scenes, creates Brilliant Bliss and becomes untargetable, but does not act. The following Scene, uses two special Combat pages against a single target.</Desc>
 </PassiveDesc>
 <PassiveDesc ID="503023">
