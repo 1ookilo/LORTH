@@ -1544,7 +1544,7 @@ If any ally is hit, deal 10 damage to all librarians and restore 20 HP.</Ability
       <Behaviour ID="0">[On Hit] Give 1 Haste to 2 random allies next Scene</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9907414">
-      <LocalizedName>ไปให้พ้น, อย่างไร้เสียง</LocalizedName>
+      <LocalizedName>ไปให้พ้น อย่างไร้เสียง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9907415">
       <LocalizedName>ความทรมาณแห่งการพลัดพราก</LocalizedName>
@@ -1999,37 +1999,37 @@ Cannot use if other librarian already has this or if already possessing the effe
     </BattleCardDesc>
 
     <BattleCardDesc ID="9910011">
-      <LocalizedName>ความต้องการที่จะลุกขึ้นสู้</LocalizedName>
+      <LocalizedName>แรงปณิธานที่จะลุกขึ้นสู้</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9910012">
       <LocalizedName>ความรู้ที่จะจัดระเบียบวิจารณญาณ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9910013">
-      <LocalizedName>ความหวังจะเป็นตนเองที่ดีกว่า</LocalizedName>
+      <LocalizedName>ความหวังจะเป็นตัวเองที่ดีกว่า</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9910014">
-      <LocalizedName>ความไม่หวั่นเกรงที่จะมีชีวิตต่อไป</LocalizedName>
+      <LocalizedName>ความไม่หวั่นเกรงที่จะมีชีวิต</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9910015">
-      <LocalizedName>ความต้องการที่จะมีความหมายในชีวิตตน</LocalizedName>
+      <LocalizedName>ความต้องการที่จะมีเหตุผลในชีวิต</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9910016">
       <LocalizedName>ความกล้าที่จะปกป้อง</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9910017">
-      <LocalizedName>เหล่าผู้ซื่อสัตย์วางตนน่าเลื่อมใส</LocalizedName>
+      <LocalizedName>ผู้ซื่อสัตย์วางตนน่าเลื่อมใส</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9910018">
-      <LocalizedName>อันดวงตาเผชิญหน้าความกลัว ทะลายสิ้นวัฏจักร</LocalizedName>
+      <LocalizedName>ดวงตาเผชิญหน้าความกลัว ทะลายสิ้นวัฏจักร</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9910019">
-      <LocalizedName>แลดวงตาผู้น้อมรับวันวาน สร้างอนาคตอันสดใส</LocalizedName>
+      <LocalizedName>ดวงตาผู้น้อมรับวันวาน สันสร้างอนาคตอันสดใส</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9910020">
       <LocalizedName>???</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9910021">
-      <LocalizedName>การรู้ I</LocalizedName>
+      <LocalizedName>การรู้</LocalizedName>
     </BattleCardDesc>
 
     <!-- 피의 욕조 -->
@@ -2070,7 +2070,7 @@ Cannot use if other librarian already has this or if already possessing the effe
       <Behaviour ID="0">[On Hit] Purge Strength, Endurance, Protection and Stagger Protection from target; Add a copy of 'Depression' to target's hand</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9910106">
-      <LocalizedName>คราบเลือดอันไม่อาจขจัดออก</LocalizedName> 
+      <LocalizedName>คราบเลือดอันไม่อาจจางหาย</LocalizedName> 
 <Ability>Unaffected by Power gain or loss. [On Use] Add a copy of 'Depression' to target's hand</Ability>
       <Behaviour ID="0">[On Hit] Add a copy of 'Depression' to target's hand</Behaviour>
       <Behaviour ID="2">[On Hit] Add a copy of 'Depression' to target's hand</Behaviour>
@@ -2298,7 +2298,7 @@ Cannot use if other librarian already has this or if already possessing the effe
       <Behaviour ID="2">[On Clash Win] Inflict 1 Paralysis next Scene</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9910533">
-      <LocalizedName>ซื่อสัตย์กับจิตใจหน่อย</LocalizedName>
+      <LocalizedName>ซื่อสัตย์กับตัวเองสิ</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[On Hit] Deal 6 Stagger damage</Behaviour>
       <Behaviour ID="1">[On Hit] Deal 6 Stagger damage</Behaviour>
