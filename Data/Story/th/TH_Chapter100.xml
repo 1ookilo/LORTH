@@ -2890,7 +2890,7 @@
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod17</VoiceFile>
-          <Content>เธอบอกว่าทุกคนที่อยู่ในเมืองมีโรคทางจิตใจที่ย่ำแย่</Content>
+          <Content>เธอบอกว่าทุกคนที่อยู่ในเมืองมีโรคร้ายในจิตใจ</Content>
         </Dialog>
         <Dialog ID="31" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -3057,7 +3057,7 @@
           <Content />
         </Dialog>
         <Dialog ID="58" Model="헤세드">
-          <Teller>Chesed</Teller>
+          <Teller>เชเซ็ด</Teller>
           <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Yesod_ep3_chesed1</VoiceFile>
           <Content>อ้าวเฮ้ย! การป้องกันคลิฟอธกำลังถูกลดระดับลง เธอแย่งสิทธิ์ควบคุมระบบของฉันไป…</Content>
@@ -3158,7 +3158,7 @@
           <Content>เชเซ็ด และทีมสวัสดิการ โปรดทำการฟื้นฟูระบบป้องกันคลิฟอธ โดยเร็วที่สุดเท่าที่เป็นไปได้ด้วยค่ะ</Content>
         </Dialog>
         <Dialog ID="75" Model="헤세드">
-          <Teller>Chesed</Teller>
+          <Teller>เชเซ็ด</Teller>
           <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Yesod_ep3_chesed2</VoiceFile>
           <Content>ได้สิ เรื่องนี้ก็เป็นความผิดของฉัน ตั้งแต่แรกอยู่แล้ว…</Content>
@@ -3167,31 +3167,31 @@
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth9</VoiceFile>
-          <Content>No time to feel guilty, Chesed!</Content>
+          <Content>ไม่มีเวลารู้สึกผิดแล้ว เชเซ็ด!</Content>
         </Dialog>
         <Dialog ID="77" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth10</VoiceFile>
-          <Content>Tiphereth and the Central Command Team, please support everyone with your resourcefulness!</Content>
+          <Content>ทิฟาเรธ และทีมควบคุมส่วนกลาง โปรดสนับสนุนทุกคนด้วยการตัดสินใจที่เหมาะสม!</Content>
         </Dialog>
         <Dialog ID="78" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>เซฟิราร์หน่วยสั่งการกลาง</Title>
           <VoiceFile>ch8_Yesod_ep3_tiphereth1</VoiceFile>
-          <Content>I was gonna! No need to say it!</Content>
+          <Content>ฉันกำลังจะทำอยู่แล้วละน่า! ไม่ต้องย้ำ!</Content>
         </Dialog>
         <Dialog ID="79" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah4</VoiceFile>
-          <Content>It brings me joy to see you all act in such coordination.</Content>
+          <Content>มันทำให้ฉันมีความสุขจังเลยน้า ที่ได้เห็นพวกเธอร่วมมือกันน่ะ</Content>
         </Dialog>
         <Dialog ID="80" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah5</VoiceFile>
-          <Content>Now, try and stop us till the end.</Content>
+          <Content>ตอนนี้ก็ลองหยุดเรา ให้จนถึงที่สุดดูสิ</Content>
         </Dialog>
       </Place>
       <Place>
@@ -3200,121 +3200,121 @@
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod34</VoiceFile>
-          <Content>You will never understand. How we desperately struggled to stop her from snuffing out our light.</Content>
+          <Content>นายไม่มีวันจะเข้าใจหรอก ว่าพวกเราพยายามดิ้นรนอย่างสิ้นหวังกันแค่ไหน เพื่อหยุดยัยนั้นไม่ให้ดับแสงสว่างของพวกเรา</Content>
         </Dialog>
         <Dialog ID="82" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod35</VoiceFile>
-          <Content>And the guilt we feel from compromising at the end.</Content>
+          <Content>และความรู้สึกผิดจากการที่ต้อง ยอมจำนนในตอนท้ายนั้นอีกด้วย</Content>
         </Dialog>
         <Dialog ID="83" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland21</VoiceFile>
-          <Content>You’re right, I won’t. All I care about is helping Angela. I want her to achieve her goal, y’know.</Content>
+          <Content>นายพูดถูกแล้ว ฉันไม่เข้าใจหรอก ฉันสนใจแค่การช่วยแองเจล่า ให้เธอบรรลุเป้าหมายของเธอ  นายก็รู้อยู่นิ</Content>
         </Dialog>
         <Dialog ID="84" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod36</VoiceFile>
-          <Content>So you simply want the results, whatever the process may entail.</Content>
+          <Content>เพราะนายอยากได้แค่ผลลัพธ์ โดยที่ไม่สนวิธีการว่าจะเป็นอย่างไรก็ตาม</Content>
         </Dialog>
         <Dialog ID="85" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod37</VoiceFile>
-          <Content>You’re no different from Angela in that you only care about your own well-being.</Content>
+          <Content>นายน่ะไม่ต่างจากแองเจล่าเลย นายสนใจแค่ความพอใจของตัวเองเท่านั้น</Content>
         </Dialog>
         <Dialog ID="86" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod38</VoiceFile>
-          <Content>You’re despicable. A typical example of an inhabitant of the City, suffering from the disease of the mind.</Content>
+          <Content>นายมันน่ารังเกียจ เป็นตัวอย่างที่เห็นทั่วไปจากชาวเมือง ที่ป่วยเป็นโรคร้ายในจิตใจ</Content>
         </Dialog>
         <Dialog ID="87" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod39</VoiceFile>
-          <Content>You use the technologies the City has to offer for your immediate convenience, not knowing or caring about the sacrifices those technologies were built upon.</Content>
+          <Content>นายใช้เทคโนโลยีในเมืองที่มอบความสะดวกสบายให้กับนาย โดยที่ไม่รู้หรือสนใจเกี่ยวกับสิ่งที่ใช้สังเวย สร้างเทคโนโลยีเหล่านั้นขึ้นมา</Content>
         </Dialog>
         <Dialog ID="88" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod40</VoiceFile>
-          <Content>…Not knowing that you’re bringing about your own demise.</Content>
+          <Content>…โดยที่ไม่รู้ว่ากำลังนำตัวนายเองไปสู่ความพินาศ</Content>
         </Dialog>
         <Dialog ID="89" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland22</VoiceFile>
-          <Content>Oh, so that’s what the whole “diseased mind” thing was about?</Content>
+          <Content>อ๋อ งั้นนี่ก็คือสิ่งที่เกี่ยวกับ “โรคร้ายในจิตใจ” ที่ว่านั้นอย่างงั้นสินะ?</Content>
         </Dialog>
         <Dialog ID="90" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland23</VoiceFile>
-          <Content>I should value the process more than the result? Hah, you were a bunch of dreamers and snobs all along.</Content>
+          <Content>ฉันควรให้ความสำคัญกับวิธีการมากกว่าผลลัพธ์งั้นหรอ? เฮอะ นายเป็นพวกเพ้อฝันและชอบดูถูกมาโดยตลอดสินะ</Content>
         </Dialog>
         <Dialog ID="91" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland24</VoiceFile>
-          <Content>I bet you’re from one of the Nests.</Content>
+          <Content>ฉันพนันได้เลยว่า นายเป็นหนึ่งในคน ที่มาจากเนส</Content>
         </Dialog>
         <Dialog ID="92" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland25</VoiceFile>
-          <Content>Look, I know better than anyone about the price of those technologies and Singularities.</Content>
+          <Content>ฟังนะ ฉันรู้ดีกว่าใครๆเกี่ยวกับราคาของเทคโนโลยีเหล่านั้น และซิงกูลาลิตี้นั้นก็ด้วย</Content>
         </Dialog>
         <Dialog ID="93" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland26</VoiceFile>
-          <Content>Diseased mind my ass…</Content>
+          <Content>โรคร้ายในจิตใจ พ่อมึงสิ…</Content>
         </Dialog>
         <Dialog ID="94" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland27</VoiceFile>
-          <Content>And your point about people using Singularities without knowing how they really work?</Content>
+          <Content>แล้วประเด็นของนายที่ว่า ผู้คนใช้ซิงกูลาลิตี้ โดยไม่รู้ว่ามันทำงานยังไงนั้น?</Content>
         </Dialog>
         <Dialog ID="95" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland28</VoiceFile>
-          <Content>That’s because they literally have no other option!</Content>
+          <Content>นั่นเป็นเพราะพวกเขาไม่มีทางเลือกอื่น!</Content>
         </Dialog>
         <Dialog ID="96" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland29</VoiceFile>
-          <Content>The corporates have concealed so much the consumers eventually gave up inquiring.</Content>
+          <Content>บริษัทต่างๆ ได้ปกปิดข้อมูลไว้มากมาย จนผู้บริโภคในที่สุดก็ยอมพ้ ที่จะสอบถามหาความจริง</Content>
         </Dialog>
         <Dialog ID="97" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland30</VoiceFile>
-          <Content>Because they’re tired! They’re already too busy sustaining their everyday life!</Content>
+          <Content>พวกเขาเหนื่อย! พวกเขายุ่งมากพออยู่แล้ว กับการใช้ชีวิตในแต่ละวัน!</Content>
         </Dialog>
         <Dialog ID="98" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod41</VoiceFile>
-          <Content>It appears that I’m not getting through to you.</Content>
+          <Content>ดูเหมือนว่า เราไม่สามารถที่เข้าใจกันได้นะ</Content>
         </Dialog>
         <Dialog ID="99" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland31</VoiceFile>
-          <Content>Oh, what a coincidence. I was thinking the same thing, too.</Content>
+          <Content>โห บังเอิญจังแฮะ ฉันก็คิดแบบนั้นเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="100" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod42</VoiceFile>
-          <Content>No matter what you say, I do not want to turn a blind eye to this reality nor conform to it.</Content>
+          <Content>ไม่ว่านายจะพูดยังไง ฉันก็จะไม่เพิกเฉยต่อความจริงนี้ หรือคล้อยตามมันหรอกนะ</Content>
         </Dialog>
       </Place>
     </Episode>
