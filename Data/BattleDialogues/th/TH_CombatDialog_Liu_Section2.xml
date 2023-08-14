@@ -3,44 +3,44 @@
   <GroupName>Liu</GroupName>
   <Character ID="Liu-Fixer">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">My eyes shall look straight ahead as we advance.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">We will not expose our back to the enemy.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">To become a dragon of the battlefield, honorable and courageous…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_3">No matter what you do, maintain a sound body and mind.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_4">It may not be the kind of task we usually handle, but surely it can be dealt with in the same way.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_5">Remember the protocol… Let’s not get nervous.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_6">I am not afraid. Moving out!</BattleDialog>
-      <BattleDialog ID="START_BATTLE_7">The Liu is overpowered by none.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_8">We must be quick to go on the offensive.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_9">One’s actions should not be a detriment to all.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">ตาจะมองตรงไปข้างหน้า เมื่อต้องก้าวต่อไป</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">ฉันจะไม่หันหลังให้ศัตรูเด็ดขาด</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">เพื่อเป็นมังกรในสนามรบ ก็ควรจะเป็นคนที่มีเกียรติและกล้าหาญ…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">ไม่ว่านายจะทำอะไร ก็ไม่สามารถกระทบร่างกายและจิตใจฉันได้</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">นี้อาจจะไม่ใช่งานปกติที่เราทำ แต่แน่นอนว่าเราก็สามารถจัดการได้ด้วยเหมื่อนกัน</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">อย่าลืมมาตรการเดิมละ… นั้นคือการอย่าประมาท</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">แค่นี้ผมไม่กลัวหรอก ก็แค่บุกเข้าไป!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">สมาพันธ์หลิว นั้นไร้เทียมทาน</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">เราต้องรีบรุกขึ้นหน้า</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">หน้าที่ของคนๆหนึ่ง ก็คืออย่าขัดขวางทุกๆคน</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">It’s hardly believable that such amateurs made it to this grade…</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Regardless, we’ve accomplished the given mission… Let us go back.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_2">It’s not a good idea to become overconfident in victory.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_3">I won’t take pity on the opponent.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_4">A smooth triumph. Let’s take the books we were requested to retrieve and return.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">ไม่อยากเชื่อเลยว่าพวกมือสมัครเล่นจะมาได้ถึงระดับนี้…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">ในที่สุดเราก็ทำภารกิจนี้เร็จแล้ว… กลับกันเถอะ</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">ไม่ใช่ความคิดที่ดีนัก ในการจะมั่นใจในชัยชนะครั้งนี้มากจนเกินไป</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">ฉันจะไม่อ่อนข้อให้กับคู่ศัตรู</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">มันเป็นชัยชนะที่ราบรื่น งั้นมารับหนังสือที่ขอไว้และกลับกันเถอะ</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I’d hate to drag others down…</BattleDialog>
-      <BattleDialog ID="DEATH_1">I don’t want to give in at this point…</BattleDialog>
-      <BattleDialog ID="DEATH_2">How rash… A single mistake resulted in this…</BattleDialog>
-      <BattleDialog ID="DEATH_3">Hesitation would only be a roadblock…</BattleDialog>
-      <BattleDialog ID="DEATH_4">It would seem… I’ve reached my limit.</BattleDialog>
+      <BattleDialog ID="DEATH_0">ฉันเกลียดที่จะเป็นตัวถ่วงคนอื่น…</BattleDialog>
+      <BattleDialog ID="DEATH_1">ฉันไม่ต้องการยอมแพ้…</BattleDialog>
+      <BattleDialog ID="DEATH_2">การพลาดแบบนี้… มันเป็นความผิดพลาดเพียงอย่างเดียว……</BattleDialog>
+      <BattleDialog ID="DEATH_3">การลังเลมันจะเป็นเพียงสิ่งที่ขัดขวางผู้อื่นเท่านั้น……</BattleDialog>
+      <BattleDialog ID="DEATH_4">ดูเหมือนว่า… ฉันจะถึงขีดจำกัดแล้ว</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">We can’t afford to dwell on personal feelings.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">…All we can do is move onward in silence.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">It’s still difficult to stay composed over someone’s demise.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_3">…The offensive must continue.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_4">We can’t back down now, despite the risk.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">เราจะไม่จมอยู่กับความรู้สึกส่วนตัว</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">…สิ่งที่เราทำได้ก็คือก้าวต่อไป โดยไม่พูดอะไร</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">มันเป็นเรื่องยากในการจะสงบสติอารมณ์ต่อความตายของใครบางคน</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">…พวกเรายังต้องดำเนินต่อไป</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">เราไม่สามารถหันหลังกลับได้ แม้ว่าตอนนี้จะเริ่มอันตรายก็ตาม</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">I wish for the rest of our combat to resolve swimmingly like just now.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Inviting people to a fight with such a lax mindset was your mistake.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">I won’t let a single second pass in vain or let a single foe escape my notice.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_3">In moments like this, your weapon is the one thing you can rely on.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_4">Such feeble attacks won’t get through.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">ผมหวังว่าการต่อสู้ครั้งต่อไปจะแก้ไขปัญหาได้เหมือนตอนนี้</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">การเชิญชวนผู้คนให้มาต่อสู้โดยไม่ประเมินความสามารถ นั้นจะเป็นความผิดพลาดของพวกคุณ</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">ฉันจะไม่ยอมปล่อยให้แม้แต่วินาทีเดียวให้ผ่านไปโดยเปล่าประโยชน์ ฉันจะไม่ปล่อยให้ศัตรูรอดพ้นสายตาของฉันไปได้</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">ในช่วงเวลาแบบนี้ อาวุธของตัวเองมันเป็นสิ่งเดียวที่วางใจได้</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">การโจมตีที่อ่อนแอแบบนี้จะไม่สามารถทำไรได้หรอก</BattleDialog>
     </Type>
   </Character>
   <Character ID="Lowell">
