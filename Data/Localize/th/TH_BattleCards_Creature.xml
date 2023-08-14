@@ -152,19 +152,19 @@
 <BattleCardDesc ID="901201">
 <LocalizedName>รอยยิ้มสยอง</LocalizedName>
 <Ability />
-<Behaviour ID="1">[เมื่อโจมตี] เพิ่มแบบคัดลอกของ 'Pleasure' เข้ามือเป้าหมาย</Behaviour>
+<Behaviour ID="1">[เมื่อโจมตี] เพิ่มแบบคัดลอกของ 'ความสุข' เข้ามือเป้าหมาย</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="901202">
 <LocalizedName>ได้เวลาหัวระเบิดแล้วล่ะ</LocalizedName>
 <Ability />
-<Behaviour ID="0">[เมื่อโจมตี] เพิ่มแบบคัดลอกของ 'Pleasure' 2 ใบเข้าสู่มือเป้าหมาย</Behaviour>
-<Behaviour ID="1">[เมื่อโจมตี] เพิ่มแบบคัดลอกของ 'Pleasure' เข้ามือเป้าหมาย</Behaviour>
-<Behaviour ID="2">[เมื่อโจมตี] เพิ่มแบบคัดลอกของ 'Pleasure' เข้ามือเป้าหมาย</Behaviour>
+<Behaviour ID="0">[เมื่อโจมตี] เพิ่มแบบคัดลอกของ 'ความสุข' 2 ใบเข้าสู่มือเป้าหมาย</Behaviour>
+<Behaviour ID="1">[เมื่อโจมตี] เพิ่มแบบคัดลอกของ 'ความสุข' เข้ามือเป้าหมาย</Behaviour>
+<Behaviour ID="2">[เมื่อโจมตี] เพิ่มแบบคัดลอกของ 'ความสุข' เข้ามือเป้าหมาย</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="901203">
 <LocalizedName>เกมแห่งการเชื่อใจ</LocalizedName>
 <Ability />
-<Behaviour ID="0">[เมื่อโจมตี] เพิ่มแบบคัดลอกของ 'Pleasure' 2 ใบเข้าสู่มือเป้าหมาย</Behaviour>
+<Behaviour ID="0">[เมื่อโจมตี] เพิ่มแบบคัดลอกของ 'ความสุข' 2 ใบเข้าสู่มือเป้าหมาย</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="901204">
 <LocalizedName>ความสุข</LocalizedName>
@@ -173,7 +173,7 @@
 <BattleCardDesc ID="901301">
 <LocalizedName>ตามล่าอาหาร</LocalizedName>
 <Ability />
-<Behaviour ID="0">[เมื่อโจมตี] มอบสถานะ 'Cocoon' ใส่เป้าหมาย</Behaviour>
+<Behaviour ID="0">[เมื่อโจมตี] มอบสถานะ 'ดักแด้' ใส่เป้าหมาย</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="901302">
 <LocalizedName>Red Eyes</LocalizedName>
@@ -198,11 +198,11 @@
 	</BattleCardDesc>
 	<BattleCardDesc ID="901403">
 		<LocalizedName>จงฟังบทเพลงอันสวยงาม!</LocalizedName>
-		<Ability>ใช้ตอนที่ 'I CRAVE that Melody!' กำลังทำงานอยู่; หากทำดาเมจไม่ได้จะ Stagger ตัวเอง</Ability>
+		<Ability>ใช้ตอนที่ 'ฉันต้องได้ฟังเพลงบรรเลงนั้น!' กำลังทำงานอยู่; หากทำดาเมจไม่ได้จะ Stagger ตัวเอง</Ability>
 	</BattleCardDesc>
 	<BattleCardDesc ID="901404">
 		<LocalizedName>ฉันยอมปวดร้าวเพื่อฟังบทเพลงนี้!!</LocalizedName>
-		<Ability>ใช้ตอนที่ 'I CRAVE that Melody!' กำลังทำงานอยู่</Ability>
+		<Ability>ใช้ตอนที่ 'ฉันต้องได้ฟังเพลงบรรเลงนั้น!' กำลังทำงานอยู่</Ability>
 		<Behaviour ID="0">[เมื่อโจมตี] เป้าหมายถูกเอาเข้าเครื่องจักร</Behaviour>
 	</BattleCardDesc>
 
@@ -276,21 +276,21 @@
 </BattleCardDesc>
 <BattleCardDesc ID="901705">
 <LocalizedName>ดาบทะลวงหัวใจ</LocalizedName>
-<Ability>If this fails to deal any damage to its target, the sword will impale the Knight of Despair, dealing damage to her</Ability>
-<Behaviour ID="0">This die deals damage equal to (Dice value x 2)% of target's Max HP (Ignores resistances)</Behaviour>
+<Ability>หากทำดาเมจใส่เป้าหมายไม่ได้ ดาบจะแทงใส่อัศวินแห่งความสิ้นหวัง สร้างดาเมจใส่เธอ</Ability>
+<Behaviour ID="0">ดาเมจของลูกเต๋านี้จะเท่ากับ (ค่าลูกเต๋า x 2)% HP สูงสุดของเป้าหมาย (ไม่สนความทนทาน)</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="901706">
 <LocalizedName>ดาบกระชากหัวใจ</LocalizedName>
-<Ability>If this fails to deal any damage to its target, the sword will impale the Knight of Despair, dealing damage to her</Ability>
-<Behaviour ID="0">This die deals damage equal to (Dice value x 2)% of target's Max HP (Ignores resistances)</Behaviour>
-<Behaviour ID="1">This die deals damage equal to (Dice value x 2)% of target's Max HP (Ignores resistances)</Behaviour>
+<Ability>หากทำดาเมจใส่เป้าหมายไม่ได้ ดาบจะแทงใส่อัศวินแห่งความสิ้นหวัง สร้างดาเมจใส่เธอ</Ability>
+<Behaviour ID="0">ดาเมจของลูกเต๋านี้จะเท่ากับ (ค่าลูกเต๋า x 2)% HP สูงสุดของเป้าหมาย (ไม่สนความทนทาน)</Behaviour>
+<Behaviour ID="1">ดาเมจของลูกเต๋านี้จะเท่ากับ (ค่าลูกเต๋า x 2)% HP สูงสุดของเป้าหมาย (ไม่สนความทนทาน)</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="901707">
 <LocalizedName>ดาบทะลายหัวใจ</LocalizedName>
-<Ability>If this fails to deal any damage to its target, the sword will impale the Knight of Despair, dealing damage to her</Ability>
-<Behaviour ID="0">This die deals damage equal to (Dice value x 2)% of target's Max HP (Ignores resistances)</Behaviour>
-<Behaviour ID="1">This die deals damage equal to (Dice value x 2)% of target's Max HP (Ignores resistances)</Behaviour>
-<Behaviour ID="2">This die deals damage equal to (Dice value x 2)% of target's Max HP (Ignores resistances)</Behaviour>
+<Ability>หากทำดาเมจใส่เป้าหมายไม่ได้ ดาบจะแทงใส่อัศวินแห่งความสิ้นหวัง สร้างดาเมจใส่เธอ</Ability>
+<Behaviour ID="0">ดาเมจของลูกเต๋านี้จะเท่ากับ (ค่าลูกเต๋า x 2)% HP สูงสุดของเป้าหมาย (ไม่สนความทนทาน)</Behaviour>
+<Behaviour ID="1">ดาเมจของลูกเต๋านี้จะเท่ากับ (ค่าลูกเต๋า x 2)% HP สูงสุดของเป้าหมาย (ไม่สนความทนทาน)</Behaviour>
+<Behaviour ID="2">ดาเมจของลูกเต๋านี้จะเท่ากับ (ค่าลูกเต๋า x 2)% HP สูงสุดของเป้าหมาย (ไม่สนความทนทาน)</Behaviour>
 </BattleCardDesc>
 
 
@@ -300,68 +300,68 @@
 </BattleCardDesc>
 <BattleCardDesc ID="902002">
 <LocalizedName>เพิ่มความดุดัน ไม่เกรงใจใคร</LocalizedName>
-<Ability>If the character doesn't get staggered, give 5 Strength and Haste to all allies ในฉากถัดไป</Ability>
-<Behaviour ID="0">[On Clash Win] มอบSpores 1 </Behaviour>
-<Behaviour ID="1">[On Clash Win] มอบSpores 1 </Behaviour>
-<Behaviour ID="2">[On Clash Win] มอบSpores 1 </Behaviour>
+<Ability>หากยังไม่ staggered มอบกำลังและว่องไว 5 จำนวนให้กับพันมิตรทั้งหมดในฉากถัดไป</Ability>
+<Behaviour ID="0">[เมื่อปะทะชนะ] มอบสปอร์ 1 จำนวน</Behaviour>
+<Behaviour ID="1">[เมื่อปะทะชนะ] มอบสปอร์ 1 จำนวน</Behaviour>
+<Behaviour ID="2">[เมื่อปะทะชนะ] มอบสปอร์ 1 จำนวน</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="902003">
 <LocalizedName>เพิ่มความภักดี</LocalizedName>
-<Ability>If the character doesn't get staggered, give 5 Endurance to all allies ในฉากถัดไป</Ability>
-<Behaviour ID="0">[On Clash Win] มอบSpores 1 </Behaviour>
-<Behaviour ID="1">[On Clash Win] มอบSpores 1 </Behaviour>
-<Behaviour ID="2">[On Clash Win] มอบSpores 1 </Behaviour>
+<Ability>หากยังไม่ staggered มอบทนทาน 5 จำนวนให้กับพันมิตรทั้งหมดในฉากถัดไป</Ability>
+<Behaviour ID="0">[เมื่อปะทะชนะ] มอบสปอร์ 1 จำนวน</Behaviour>
+<Behaviour ID="1">[เมื่อปะทะชนะ] มอบสปอร์ 1 จำนวน</Behaviour>
+<Behaviour ID="2">[เมื่อปะทะชนะ] มอบสปอร์ 1 จำนวน</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="902004">
 <LocalizedName>ขนส่งสารอาหาร</LocalizedName>
 <Ability></Ability>
-<Behaviour ID="0">[เมื่อโจมตี] Queen Bee recovers 10 HP</Behaviour>
+<Behaviour ID="0">[เมื่อโจมตี] ราชินีผึ้งฟื้นฟู 10 HP</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="902005">
 <LocalizedName>การ์ด ดูร คอร์ป</LocalizedName>
 <Ability></Ability>
-<Behaviour ID="0">[เมื่อโจมตี] มอบSpores 1 </Behaviour>
-<Behaviour ID="2">[เมื่อโจมตี] มอบSpores 1 </Behaviour>
+<Behaviour ID="0">[เมื่อโจมตี] มอบสปอร์ 1 จำนวน</Behaviour>
+<Behaviour ID="2">[เมื่อโจมตี] มอบสปอร์ 1 จำนวน</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="902006">
 <LocalizedName>ขนส่งตัวอ่อน</LocalizedName>
 <Ability></Ability>
-<Behaviour ID="1">[เมื่อโจมตี] มอบSpores 3 </Behaviour>
+<Behaviour ID="1">[เมื่อโจมตี] มอบสปอร์ 3 จำนวน</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="902007">
 <LocalizedName>เติบโตเติบใหญ่</LocalizedName>
 <Ability></Ability>
-<Behaviour ID="0">[เมื่อโจมตี] Deal bonus damage equal to target's Spores stacks</Behaviour>
-<Behaviour ID="1">[เมื่อโจมตี] Deal bonus damage equal to target's Spores stacks</Behaviour>
-<Behaviour ID="2">[เมื่อโจมตี] Deal bonus damage equal to target's Spores stacks</Behaviour>
+<Behaviour ID="0">[เมื่อโจมตี] ทำโบนัสดาเมจเท่ากับจำนวนสปอร์ของเป้าหมาย</Behaviour>
+<Behaviour ID="1">[เมื่อโจมตี] ทำโบนัสดาเมจเท่ากับจำนวนสปอร์ของเป้าหมาย</Behaviour>
+<Behaviour ID="2">[เมื่อโจมตี] ทำโบนัสดาเมจเท่ากับจำนวนสปอร์ของเป้าหมาย</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="902008">
 <LocalizedName>โอบกอดความตาย</LocalizedName>
 <Ability></Ability>
-<Behaviour ID="0">[เมื่อโจมตี] Stagger target</Behaviour>
+<Behaviour ID="0">[เมื่อโจมตี] Stagger เป้าหมาย</Behaviour>
 </BattleCardDesc>
 
 <BattleCardDesc ID="901801">
 <LocalizedName>พักหายใจ</LocalizedName>
 <Ability></Ability>
-<Behaviour ID="0">[On Clash Win] All dice on this page gain +2 Power</Behaviour>
-<Behaviour ID="1">[On Clash Win] Recover 6 HP</Behaviour>
-<Behaviour ID="2">[On Clash Win] Recover 6 Stagger Resist</Behaviour>
+<Behaviour ID="0">[เมื่อปะทะชนะ] เพิ่มพลังลูกเต๋าทั้งหมดใน page นี้ +2</Behaviour>
+<Behaviour ID="1">[เมื่อปะทะชนะ] ฟื้นฟู 6 HP</Behaviour>
+<Behaviour ID="2">[เมื่อปะทะชนะ] ฟื้นฟู 6 Stagger Resist</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="901802">
 <LocalizedName>ล่าอสูรร้าย</LocalizedName>
 <Ability></Ability>
-<Behaviour ID="1">[On Clash Win] มอบตัดกำลัง 5 ในฉากถัดไป</Behaviour>
+<Behaviour ID="1">[เมื่อปะทะชนะ] มอบตัดกำลัง 5 ในฉากถัดไป</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="901803">
 <LocalizedName>กระสุนอันกลวงเปล่า</LocalizedName>
 <Ability></Ability>
-<Behaviour ID="0">[On Clash Win] มอบFragile 3 , Deal 10 Stagger damage, Destroy all of target's dice</Behaviour>
+<Behaviour ID="0">[เมื่อปะทะชนะ] มอบเปราะบาง 3 จำนวน, ทำ 10 Stagger ดาเมจ, ทำลายลูกเต๋าของเป้าหมายทั้งหมด</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="901804">
 <LocalizedName>จู่โจมอย่างไม่ลังเล</LocalizedName>
 <Ability></Ability>
-<Behaviour ID="0">[เมื่อโจมตี] Gain 1 Strength for every target hit</Behaviour>
+<Behaviour ID="0">[เมื่อโจมตี] ได้รับกำลัง 1 จำนวนทุกครั้งที่โจมตีเป้าหมาย</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="901805">
 <LocalizedName>ห่ากระสุน</LocalizedName>
@@ -376,7 +376,7 @@
 <BattleCardDesc ID="901807">
 <LocalizedName>เขี้ยวอันตราย</LocalizedName>
 <Ability></Ability>
-<Behaviour ID="1">[เมื่อโจมตี] Recover HP 10</Behaviour>
+<Behaviour ID="1">[เมื่อโจมตี] ฟื้นฟู 10 HP</Behaviour>
 </BattleCardDesc>
 <BattleCardDesc ID="901808">
 <LocalizedName>ตามล่ารอยเลือด</LocalizedName>
