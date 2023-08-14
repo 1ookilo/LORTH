@@ -552,13 +552,13 @@
         <Dialog ID="2" Model="발렌틴">
 	<Teller>วาเลนทิน</Teller>
 			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
-          <VoiceFile>ch5_Shi_ep1_Valentin2-01</VoiceFile>
+          <VoiceFile>ch5_Shi_ep1_Valentin2</VoiceFile>
           <Content>ถึงแม้เขาจะเป็นถึงระดับสี แต่นั่นก็ไม่ใช่ข้ออ้างที่จะให้พวกฟิกเซอร์ที่ไม่ได้อยู่สมาพันธ์เดียวกับเรามาออกคำสั่งให้นะครับ</Content>
         </Dialog>
         <Dialog ID="3" Model="발렌틴">
 			<Teller>วาเลนทิน</Teller>
 			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
-          <VoiceFile>ch5_Shi_ep1_Valentin3-01</VoiceFile>
+          <VoiceFile>ch5_Shi_ep1_Valentin3</VoiceFile>
           <Content>แถมเขายังทำอย่างโจ่งแจ้งอีกต่างหาก…</Content>
         </Dialog>
         <Dialog ID="4" Model="텐마">
@@ -606,7 +606,7 @@
         <Dialog ID="11" Model="발렌틴">
 			<Teller>วาเลนทิน</Teller>
 			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
-          <VoiceFile>ch5_Shi_ep1_Valentin6-01</VoiceFile>
+          <VoiceFile>ch5_Shi_ep1_Valentin6</VoiceFile>
           <Content>บ้าเอ้ย… เขาทิ้งคำขอที่อันตรายไว้ให้พวกเราทำ ทั้งๆที่ก็รู้ว่าพวกเรานั้นยังอิดโรยกันอยู่…</Content>
         </Dialog>
         <Dialog ID="12" Model="텐마">
@@ -673,7 +673,7 @@
 			<Teller>วาเลนทิน</Teller>
 			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin10</VoiceFile>
-          <Content>ท่านก็เห็นแล้วนิว่าหน่วยที่3 พร้อมกับสำนักของพวกเขานั้นโดนล้างบางด้วยคำขอจำนวนมากที่ไร้เหตุผลพวกนี้ และดูเหมือนว่ากำลังจะเกิดขึ้นกับพวกเราแล้ว…</Content>
+          <Content>ท่านก็เห็นแล้วนิว่าหน่วยที่3 พร้อมกับสำนักงานของพวกเขานั้นโดนล้างบางด้วยคำขอจำนวนมากที่ไร้เหตุผลพวกนี้ และดูเหมือนว่ากำลังจะเกิดขึ้นกับพวกเราแล้ว…</Content>
         </Dialog>
         <Dialog ID="23" Model="텐마">
 			<Teller>เทนมะ</Teller>
@@ -685,7 +685,7 @@
 			<Teller>เทนมะ</Teller>
 			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma11</VoiceFile>
-          <Content>ท่านนั้นยืนอยู่แถวหน้าแล้วสู้ดุเดือดกว่าคนอื่น เพื่อไม่ให้พวกเรานั้นต้องเจ็บตัวกัน…</Content>
+          <Content>ท่านนั้นยืนหยัดอยู่แถวหน้าแล้วสู้ดุเดือดกว่าคนอื่น เพื่อไม่ให้พวกเรานั้นต้องเจ็บตัวกัน…</Content>
         </Dialog>
         <Dialog ID="25" Model="유진">
 			<Teller>ยูจิน</Teller>
@@ -703,7 +703,7 @@
 			<Teller>วาเลนทิน</Teller>
 			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin12</VoiceFile>
-          <Content>พวกเราทุกคนในหน่วยที่ 2นั้นได้รับความเสียหายที่ต้องใช้เวลาหลายวันในการฝื้นตัว ยกเว้นว่าพวกเราจะมีซิงกูลาริตี้ของเค คอร์ปน่ะครับ…</Content>
+          <Content>พวกเราทุกคนในหน่วยที่2นั้นได้รับความเสียหายที่ต้องใช้เวลาหลายวันในการฟื้นนตัว ยกเว้นว่าพวกเราจะมีซิงกูลาริตี้ของK คอร์ปน่ะครับ…</Content>
         </Dialog>
         <Dialog ID="28" Model="유진">
 			<Teller>ยูจิน</Teller>
@@ -739,7 +739,7 @@
 			<Teller>ยูจิน</Teller>
 			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin9</VoiceFile>
-          <Content>เป้าหมายของเราก็คือการไปรับหนังสือของนักดนตรีแห่งบรีเมน</Content>
+          <Content>เป้าหมายของเราก็คือการไปรับหนังสือของนักดนตรีแห่งเบรเมน</Content>
         </Dialog>
         <Dialog ID="34" Model="유진">
          <Teller>ยูจิน</Teller>
@@ -762,7 +762,7 @@
         <Dialog ID="37" Model="발렌틴">
 			<Teller>วาเลนทิน</Teller>
 			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
-          <VoiceFile>ch5_Shi_ep1_Valentin14-01</VoiceFile>
+          <VoiceFile>ch5_Shi_ep1_Valentin14</VoiceFile>
           <Content>ท่านจะบอกว่าในหนังสือของนักดนตรีแห่งเบรเมนนั้นมีข้อมูลเกี่ยวกับเสียงกัลวาลสีครามหรอครับ?</Content>
         </Dialog>
         <Dialog ID="38" Model="유진">
@@ -775,18 +775,18 @@
 			<Teller>เทนมะ</Teller>
 			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma14</VoiceFile>
-          <Content>งั้น การที่ท่านส่งสำนักงานฟูลสต็อปไปลอบสังหารโบสถ์แห่งฟังเฟืองก็เพราะ…</Content>
+          <Content>งั้น การที่ท่านส่งสำนักงานฟูลสต็อปไปลอบสังหารพวกโบสถ์แห่งฟังเฟืองก็เพราะ…</Content>
         </Dialog>
         <Dialog ID="40" Model="발렌틴">
 			<Teller>วาเลนทิน</Teller>
 			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
-          <VoiceFile>ch5_Shi_ep1_Valentin15-01</VoiceFile>
+          <VoiceFile>ch5_Shi_ep1_Valentin15</VoiceFile>
           <Content>…ผมพอเข้าใจเป้าหมายของท่านนะครับ แต่แค่มีข้อมูลมันไม่ได้ทำให้เรื่องนี้จบลงไปหรอกครับ</Content>
         </Dialog>
         <Dialog ID="41" Model="발렌틴">
 			<Teller>วาเลนทิน</Teller>
 			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
-          <VoiceFile>ch5_Shi_ep1_Valentin16-01</VoiceFile>
+          <VoiceFile>ch5_Shi_ep1_Valentin16</VoiceFile>
           <Content>ท่านมีแผนจะทำอะไรกันแน่ครับ?</Content>
         </Dialog>
         <Dialog ID="42" Model="유진">
@@ -804,14 +804,14 @@
         <Dialog ID="44" Model="발렌틴">
 			<Teller>วาเลนทิน</Teller>
 			<Title>ฟิกเซอร์ ชิ ตอนใต้ หน่วยที่2</Title>
-          <VoiceFile>ch5_Shi_ep1_Valentin17-01</VoiceFile>
+          <VoiceFile>ch5_Shi_ep1_Valentin17</VoiceFile>
           <Content>ผู้กำกับการยูจิน ท่านนั้นคอยเอาแต่เสียสละตัวเองตลอดเลยครับ…</Content>
         </Dialog>
         <Dialog ID="45" Model="유진">
 			<Teller>ยูจิน</Teller>
 			<Title>ผู้กำกับการ ชิ ตอนใต้ หน่วยที่2</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin14</VoiceFile>
-          <Content>วางใจได้เลย ฉันพอรู้ว่าชีวิตฉันสำคัญแค่ไหน.</Content>
+          <Content>วางใจได้เลย ฉันพอรู้ว่าชีวิตฉันสำคัญแค่ไหน</Content>
         </Dialog>
         <Dialog ID="46" Model="유진">
 			<Teller>ยูจิน</Teller>
@@ -838,7 +838,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland1</VoiceFile>
-          <Content>เธอก็ยังคงถ่อมตัวไม่เคยเปลี่ยนเลย</Content>
+          <Content>เธอยังคงถ่อมตัวไม่เคยเปลี่ยนเลย</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
 			<Teller>แองเจล่า</Teller>
@@ -850,19 +850,19 @@
 			<Teller>แองเจล่า</Teller>
 			<Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Shi_ep1_Angela2</VoiceFile>
-          <Content>ถึงตอนนี้ ฉันก็พอรู้ว่าเส้นสายของนายนั้นมันกว้างขวางและลึกเกินไปสำหรับฟิกเซอร์ทั่วไปด้วยซ่ำน่ะ</Content>
+          <Content>ถึงตอนนี้ ฉันก็พอรู้ว่าเส้นสายของนายนั้นมันทั้งกว้างขวางและลึกเกินไปสำหรับฟิกเซอร์ทั่วไปด้วยซ้ำ</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland2</VoiceFile>
-          <Content>ถ้าจะให้ตอบก็คือ ใช่ ฉันเป็นแค่ฟิกเซอร์เกรด9น่ะ.</Content>
+          <Content>ถ้าจะให้ตอบก็คือ ใช่ ฉันเป็นแค่ฟิกเซอร์เกรด 9</Content>
         </Dialog>
         <Dialog ID="53" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland3</VoiceFile>
-          <Content>แต่นั่นก็หลังจากที่ฉันเจอเหตุการณ์หนึงที่ทำให้ฉันตกลงมาถึงจุดต่ำสุด ฉันน่ะก็เคยเป็นฟิกเซอร์ทั่วไปด้วยนะ</Content>
+          <Content>แต่นั่นก็หลังจากที่ฉันเจอเหตุการณ์นึงที่ทำให้ฉันตกลงมาถึงจุดต่ำสุด ฉันน่ะก็เคยเป็นฟิกเซอร์ทั่วไปด้วยนะ</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
 			<Teller>แองเจล่า</Teller>
@@ -874,7 +874,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland4</VoiceFile>
-          <Content>เชื่อปะล่ะว่าฉันเคยเป็น… สุดยอดฟิกเซอร์เกรด1ด้วยนะ! ขอบอก!</Content>
+          <Content>เชื่อปะล่ะว่าฉันเคยเป็น… สุดยอดฟิกเซอร์เกรด 1 ด้วยนะ! ขอบอก</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -886,13 +886,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland5</VoiceFile>
-          <Content>อึก แต่เธอดูเชื่อใจฉันง่ายนะเนี้ย…</Content>
+          <Content>อึก เธอดูเชื่อใจฉันง่ายนะเนี้ย…</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland6</VoiceFile>
-          <Content>ยังไงก็แล้วแต่ ฉันน่ะก็เป็นแค่ฟิกเซอร์ธรรมดาทั่วไปที่ส่วนใหญ่ทำงานรวบรวมข้อมูลน่ะ นั่นคือเหตุผลที่ทำให้ฉันมีเส้นสายอยู่เยอะ</Content>
+          <Content>ยังไงก็แล้วแต่ ฉันน่ะก็เป็นแค่ฟิกเซอร์ธรรมดาทั่วไปที่ส่วนใหญ่ทำงานรวบรวมข้อมูลน่ะ นั่นเป็นเหตุผลที่ทำให้ฉันมีเส้นสายอยู่เยอะ</Content>
         </Dialog>
         <Dialog ID="59" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -916,7 +916,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland9</VoiceFile>
-          <Content>เธอคิดว่าพวกเขาไม่ผิดหรือไง ที่พวกเขาก็ต้องฆ่าผู้คนที่ยังดิ้นรนใช้ชีวิตอยู่เหมือนกันน่ะ?</Content>
+          <Content>เธอคิดว่าพวกเขาไม่ผิดรึไง ที่พวกเขาก็ต้องฆ่าผู้คนที่ยังดิ้นรนใช้ชีวิตอยู่เหมือนกันน่ะ?</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
 			<Teller>แองเจล่า</Teller>
@@ -952,7 +952,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Shi_ep1_Roland13</VoiceFile>
-          <Content>แต่เราไม่ควรทิ้งเรื่องราวของตัวเองไปเพื่อเรื่องของคนอื่นหรอกนะ เหมือนกับที่พวกเรากำลังทำอยู่</Content>
+          <Content>แต่เราไม่ควรทิ้งเรื่องราวของตัวเอง เพื่อเรื่องของคนอื่นหรอกนะ เหมือนกับที่พวกเรากำลังทำอยู่</Content>
         </Dialog>
         <Dialog ID="69" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -1186,13 +1186,13 @@
           <Teller>แจ-ฮอน</Teller>
           <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon13</VoiceFile>
-          <Content>พลูโตบอกไว้ว่าสติสัมปชัญญะของเราสามารถเก็บรักษาไว้ในสภาพหยุดนิ่งแล้วจะเลิกหยุดนิ่งตอนไหนก็ได้</Content>
+          <Content>พลูโตบอกไว้ว่าสติสัมปชัญญะของพวกฉันสามารถเก็บรักษาไว้ในสภาพหยุดนิ่งได้ แล้วจะเลิกหยุดนิ่งตอนไหนก็ได้</Content>
         </Dialog>
         <Dialog ID="13" Model="재헌">
           <Teller>แจ-ฮอน</Teller>
           <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon14</VoiceFile>
-          <Content>เขาบอกว่ามันเป็นเวทมนตร์อะนะ ทำไงได้ ฉันไม่มีทางอื่นนอกจากต้องเชื่อใจเขา ก็เขาเป็นถึงเพื่อนร่วมงานของฉันแล้วนิ</Content>
+          <Content>เขาบอกว่ามันเป็นเวทมนตร์อะนะ ทำไงได้ ฉันไม่มีทางเลือกอื่นนอกจากต้องเชื่อใจเขา ก็ตอนนี้เขาเป็นถึงเพื่อนร่วมงานฉันแล้วนิ</Content>
         </Dialog>
         <Dialog ID="14" Model="재헌">
           <Teller>แจ-ฮอน</Teller>
@@ -1222,25 +1222,25 @@
           <Teller>แจ-ฮอน</Teller>
           <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon19</VoiceFile>
-          <Content>พูดเสร็จ แล้วก็กลับไปใช้ชีวิตคนเมือง ปนอยู่กับคนอื่นๆ หลงลืมภาพที่เป็นเหมือนดั่งนรกบนดินในรถไฟขบวนนั้น</Content>
+          <Content>พูดเสร็จ แล้วก็กลับไปใช้ชีวิตคนเมือง ปะปนกับผู้คน หลงลืมภาพที่เป็นเหมือนดั่งนรกบนดินในรถไฟขบวนนั้น</Content>
         </Dialog>
         <Dialog ID="19" Model="재헌">
           <Teller>แจ-ฮอน</Teller>
           <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon20-01</VoiceFile>
-          <Content>ความทรงจำที่พยายามจะฆ่าทั้งเพื่อนและพ่อแม่พี่น้องตัวเองที่เลือนรางไปตามกาลเวลา ก็ได้สูญเสียมันไปแล้ว…</Content>
+          <Content>ความทรงจำที่พยายามจะฆ่าทั้งเพื่อนและพ่อแม่พี่น้องของตัวเองที่เลือนรางไปตามกาลเวลา ก็ได้สูญเสียมันไปหมดแล้ว…</Content>
         </Dialog>
         <Dialog ID="20" Model="재헌">
           <Teller>แจ-ฮอน</Teller>
           <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon21</VoiceFile>
-          <Content>และเรื่องราวทั้งหมดก็ถูกลบออกจากสมองไป มันช่างน่าตกใจจริงๆที่ซิงกูลาริตี้จะน่ากลัวเหมือนกันไปหมด</Content>
+          <Content>และเรื่องราวทั้งหมดก็ถูกลบออกจากสมองไป มันน่าตกใจจริงๆที่ซิงกูลาริตี้พวกนี้จะน่ากลัวเหมือนกันไปหมด</Content>
         </Dialog>
         <Dialog ID="21" Model="재헌">
           <Teller>แจ-ฮอน</Teller>
           <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon22-01</VoiceFile>
-          <Content>และพวกคนรวยๆอย่างพวกแกก็กลัวเรื่องพวกนั้น ก็เลยเข้าไปหลบในที่หลบภัยของตัวเองกว่า1,000ปี</Content>
+          <Content>และพวกคนรวยๆอย่างพวกแกก็กลัวเรื่องพวกนั้น ก็เลยเข้าไปหลบในที่พักของตัวเองกว่า1,000ปี</Content>
         </Dialog>
         <Dialog ID="22" Model="재헌">
           <Teller>แจ-ฮอน</Teller>
@@ -1258,7 +1258,7 @@
           <Teller>แจ-ฮอน</Teller>
           <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon25</VoiceFile>
-          <Content>แต่แบบนั้นมันจะย้อนแย้งไปถึงไหน รู้ทั้งรู้ว่าจะเกิดอะไรแต่ก็ยังเลือกที่จะขึ้นรถไฟนี่อยู่ดี</Content>
+          <Content>แต่แบบนั้นมันจะย้อนแย้งไปถึงไหน รู้ทั้งรู้ว่าจะเกิดอะไรแต่ก็ยังกระเสือกกระสนที่จะขึ้นรถไฟนี่อยู่ดี</Content>
         </Dialog>
         <Dialog ID="25" Model="재헌">
           <Teller>แจ-ฮอน</Teller>
@@ -1270,13 +1270,13 @@
           <Teller>แจ-ฮอน</Teller>
           <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon27</VoiceFile>
-          <Content>มันไม่ได้พังหรอกนะ รถไฟขบวนนี้ยังทำงานได้ตามปกติที่มันตั้งไว้</Content>
+          <Content>มันไม่ได้พังหรอก รถไฟขบวนนี้ยังทำงานได้ตามปกติที่มันตั้งไว้</Content>
         </Dialog>
         <Dialog ID="27" Model="재헌">
           <Teller>แจ-ฮอน</Teller>
           <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon28</VoiceFile>
-          <Content>นึกออกรึยัง ฮึ้? เดินเล่นไปในแกนช่วงเวลาที่แตกต่างจากเดิมเป็นเวลา1,000กว่าปี และเมื่อกลับมาอยู่ความเป็นจริงเดิม…</Content>
+          <Content>นึกออกรึยัง ฮึ้? เดินเล่นไปในแกนเวลาที่แตกต่างจากเดิมเป็นเวลา1,000กว่าปี และเมื่อกลับมาอยู่ความเป็นจริงเดิม…</Content>
         </Dialog>
         <Dialog ID="28" Model="재헌">
           <Teller>แจ-ฮอน</Teller>
@@ -1288,7 +1288,7 @@
           <Teller>แจ-ฮอน</Teller>
           <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon30</VoiceFile>
-          <Content>เดินวกไปวกมาใช้เวลาไปเรื่อยๆ แล้วก็กลับกลายเป็นแค่10วินาทีในความเป็นจริง ฟังแล้วพวกที่ยุ่งๆอยู่คงชอบอย่างงี้มากเลยสินะ?</Content>
+          <Content>เดินวกไปวกมาผลาญเวลาไปเรื่อยๆ แล้วก็กลับกลายเป็นแค่10วินาทีในความเป็นจริง ฟังแล้วพวกที่ยุ่งๆอยู่คงชอบอย่างงี้มากเลยสินะ?</Content>
         </Dialog>
         <Dialog ID="30" Model="재헌">
           <Teller>แจ-ฮอน</Teller>
@@ -1348,7 +1348,7 @@
           <Teller>แจ-ฮอน</Teller>
           <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon39</VoiceFile>
-          <Content>ด่าเจ็บไม่เคยเปลี่ยน</Content>
+          <Content>ด่าเจ็บไม่เปลี่ยน</Content>
         </Dialog>
         <Dialog ID="40" Model="재헌">
           <Teller>แจ-ฮอน</Teller>
@@ -1384,13 +1384,13 @@
           <Teller>เอลิน่า</Teller>
           <Title>พยาบาล?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Elena5</VoiceFile>
-          <Content>ยังไงก็เหอะ รีบๆทำเรื่องของนายให้เสร็จซักทีเถอะ</Content>
+          <Content>ยังไงก็แล้วแต่ รีบๆทำเรื่องของนายให้เสร็จซักทีเถอะ</Content>
         </Dialog>
         <Dialog ID="46" Model="재헌">
           <Teller>แจ-ฮอน</Teller>
           <Title>หมอ?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon42</VoiceFile>
-          <Content>จะเย็นชาไปถึงไหน</Content>
+          <Content>จะเย็นชาไปไหน</Content>
         </Dialog>
         <Dialog ID="47" Model="재헌">
           <Teller>แจ-ฮอน</Teller>
@@ -1414,7 +1414,7 @@
           <Teller>นักเชิดหุ่น</Teller>
           <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon46</VoiceFile>
-          <Content>การที่พวกแกพยายามที่จะดิ้นรนขึ้นมาอย่างกับหนอน หาความสะดวกสบายด้วยเงินมันทำให้ฉันอยากจะอ้วก</Content>
+          <Content>การที่พวกแกพยายามที่จะชอนไชขึ้นมาอย่างกับหนอน หาความสะดวกสบายด้วยเงินมันทำให้ฉันอยากจะอ้วก</Content>
         </Dialog>
         <Dialog ID="51" Model="재헌">
           <Teller>นักเชิดหุ่น</Teller>
@@ -1432,19 +1432,19 @@
           <Teller>นักเชิดหุ่น</Teller>
           <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon49</VoiceFile>
-          <Content>พวกแกดันดวงซวยที่มาเจออะไรแบบพวกเราเลยต้องพบกับชะตากรรมที่เลวร้าย เพียงเพราะพวกแกได้มานั่งในชั้นเฟิร์สคลาสเท่านั้น</Content>
+          <Content>พวกแกดันดวงซวยที่มาเจออะไรแบบพวกเราเลยต้องพบกับชะตากรรมเลวร้าย เพียงเพราะพวกแกได้มานั่งในชั้นเฟิร์สคลาสเท่านั้น</Content>
         </Dialog>
         <Dialog ID="54" Model="재헌">
           <Teller>นักเชิดหุ่น</Teller>
           <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon50</VoiceFile>
-          <Content>รู้น่า รู้ ใครบางคนอาจจะจนไม่มีซักศลึงเดียว แต่อาจจะโชคเข้าข้างไปได้ตั๋วที่นั่งเฟิร์สคลาสมาก็ได้?</Content>
+          <Content>รู้น่า รู้ ใครบางคนอาจจะจนมาก แต่โชคเข้าข้างไปได้ตั๋วที่นั่งเฟิร์สคลาสมาก็ได้?</Content>
         </Dialog>
         <Dialog ID="55" Model="재헌">
           <Teller>นักเชิดหุ่น</Teller>
           <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon51</VoiceFile>
-          <Content>นั่นล่ะคือสิ่งที่ทำให้ตัวเลือกนั้นมันช่างลึกลับและลึกซึ้ง</Content>
+          <Content>นั่นล่ะคือสิ่งที่ทำให้ตัวเลือกนั้นมันช่างยากแท้หยั่งถึง</Content>
         </Dialog>
         <Dialog ID="56" Model="재헌">
           <Teller>นักเชิดหุ่น</Teller>
@@ -1456,13 +1456,13 @@
           <Teller>นักเชิดหุ่น</Teller>
           <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon53</VoiceFile>
-          <Content>มีใครบางคนค่อยเล่นกลใส่เราอย่างลับๆแถมยังอันตรายอีกด้วย</Content>
+          <Content>มีใครบางคนคอยเล่นกลอย่างลับๆและแสนอันตรายใส่เรา</Content>
         </Dialog>
         <Dialog ID="58" Model="재헌">
           <Teller>นักเชิดหุ่น</Teller>
           <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon54</VoiceFile>
-          <Content>ค่อยจัดฉากการแสดงหุ่นเชิดไม่รู้จบ แล้วนำเส้นไหมล่องหนมาตรึงกับเรา</Content>
+          <Content>คอยจัดฉากการแสดงหุ่นเชิดที่ไร้จุดจบ และนำเส้นไหมล่องหนมาตรึงกับเรา</Content>
         </Dialog>
         <Dialog ID="59" Model="재헌">
           <Teller>นักเชิดหุ่น</Teller>
@@ -1474,7 +1474,7 @@
           <Teller>นักเชิดหุ่น</Teller>
           <Title>สมาชิกคณะเสียงกังวาล</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon56-01</VoiceFile>
-          <Content>ได้เวลาการเชิดหุ่นแล้ว</Content>
+          <Content>ได้เวลาเชิดหุ่นแล้ว</Content>
         </Dialog>
       </Place>
       <Place>
@@ -1894,7 +1894,7 @@
           <Teller>โนอาห์</Teller>
           <Title>พนักงานบริษัท</Title>
           <VoiceFile>ch5_Circus_ep1_Noah14</VoiceFile>
-          <Content>คร้าบ คร้าบ~ ซึ้งใจชิบหายเพื่อนรักเพื่อนเลิฟของฉัน แต่ฉันไม่สนใจไปเป็นตุ๊กตาให้ไอ้พวกคนรวยเล่นหรอก~</Content>
+          <Content>คร้าบ คร้าบ~ ซึ้งใจชิบหายเพื่อนรักเพื่อนไอ้เลิฟของฉัน แต่ฉันไม่สนใจไปเป็นตุ๊กตาให้ไอ้พวกคนรวยเล่นหรอก~</Content>
         </Dialog>
         <Dialog ID="31" Model="노아">
           <Teller>โนอาห์</Teller>
@@ -3509,633 +3509,633 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: L Corp’s Nest - Residential Area</PlaceName>
+        <PlaceName>สถานที่: เนสL คอร์ป - เขตที่อยู่อาศัย</PlaceName>
         <Dialog ID="0" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan1-01</VoiceFile>
-          <Content>Hello, Miss Lala… Here’s your Prescript.</Content>
+          <Content>สวัสดีครับ คุณราร่า… นี่บทบัญญัติของคุณครับ</Content>
         </Dialog>
         <Dialog ID="1" Model="거주민1">
-          <Teller>Resident 1</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 1</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants1_1</VoiceFile>
-          <Content>“To Lala. Put three needles in Lily’s birthday cake by noon tomorrow.”</Content>
+          <Content>“ถึงราร่า นำเข็มหมุด3เล่มไปปักไว้ในเค้กวันเกิดของลิเลียภายในพรุ่งนี้ตอนเที่ยงวัน”</Content>
         </Dialog>
         <Dialog ID="2" Model="거주민1">
-          <Teller>Resident 1</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 1</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants1_2</VoiceFile>
-          <Content>By Lily, does it mean Mrs. Lily who’s living next door…? I did hear it’s her birthday tomorrow…</Content>
+          <Content>ลิเลียที่ว่า หรือว่าหมายถึงคุณลิเลียข้างบ้านหรอ…? ฉันไปได้ยินมาว่าพรุ่งนี้เองก็เป็นวันเกิดของเธอเหมือนกัน…</Content>
         </Dialog>
         <Dialog ID="3" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan2</VoiceFile>
-          <Content>I’m not sure myself…</Content>
+          <Content>ผมเองก็ไม่มั่นใจเหมือนกันครับ…</Content>
         </Dialog>
         <Dialog ID="4" Model="거주민1">
-          <Teller>Resident 1</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 1</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants1_3</VoiceFile>
-          <Content>…What if she bites one of those needles and gets hurt?</Content>
+          <Content>…แล้วถ้าเธอเพลอไปโดนเข็มแทงเข้าล่ะ?</Content>
         </Dialog>
         <Dialog ID="5" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan3</VoiceFile>
-          <Content>……You never know, she might luckily notice the needles before she eats them.</Content>
+          <Content>……ใครจะไปรู้ล่ะครับ คุณลิเลียอาจจะโชคดีไปเห็นเข็มหมุดเข้าก่อนก็ได้</Content>
         </Dialog>
         <Dialog ID="6" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan4-01</VoiceFile>
-          <Content>Or you could tell her in advance that there are needles in her cake.</Content>
+          <Content>หรือไม่ คุณราร่าเองก็ไปบอกเธอเรื่องเข็มหมุดในเค้กก่อนก็ได้นะครับ</Content>
         </Dialog>
         <Dialog ID="7" Model="거주민1">
-          <Teller>Resident 1</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 1</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants1_4</VoiceFile>
-          <Content>Oh… Is it okay for me to spoil the Prescript to her?</Content>
+          <Content>โอ้… ฉันสามารถบอกข้อความในบทบัญญัติให้เธอรู้ได้หรอ?</Content>
         </Dialog>
         <Dialog ID="8" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan5</VoiceFile>
-          <Content>The Prescript didn’t say anything about it, so it should be alright…</Content>
+          <Content>บทบัญญัติเองก็ไม่ได้กล่าวอะไรเกี่ยวกับเรื่องนั้น เพราะงั้นมันอาจจะไม่เป็นไรก็ได้นะครับ…</Content>
         </Dialog>
         <Dialog ID="9" Model="거주민1">
-          <Teller>Resident 1</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 1</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants1_5</VoiceFile>
-          <Content>It’s strange, though. I’ve been only getting weird Prescripts like this lately… Is there a meaning to this?</Content>
+          <Content>แต่ว่า มันแปลกมากเลยนะ ช่วงนี้ฉันได้แต่บทบัญญัติแปลกๆตลอดเลย… มันหมายความว่าไงกัน?</Content>
         </Dialog>
         <Dialog ID="10" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan6-01</VoiceFile>
-          <Content>If you don’t carry out the Prescripts, the Index won’t provide protection… You have a family, right?</Content>
+          <Content>ถ้าเกิดคุณไม่ทำตามที่บทบัญญัติเขียนไว้ อินเด็กซ์เองจะไม่ให้การคุ้มครองนะครับ… คุณเองก็มีครอบครัวใช่ไหมครับ?</Content>
         </Dialog>
         <Dialog ID="11" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan7-01</VoiceFile>
-          <Content>I hope you can fulfill this one smoothly.</Content>
+          <Content>ผมขอให้คุณสามารถทำตามครั้งนี้ได้อย่างราบรื่นนะครับ</Content>
         </Dialog>
         <Dialog ID="12" Model="거주민1">
-          <Teller>Resident 1</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 1</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants2_1</VoiceFile>
-          <Content>…Okay.</Content>
+          <Content>…โอเค</Content>
         </Dialog>
         <Dialog ID="13" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan8-01</VoiceFile>
-          <Content>Hello, Mister Lee Deok-gu. You’ve got a new Prescript.</Content>
+          <Content>สวัสดีครับคุณลี ด็กกู นี่บทบัญญัติใหม่ของคุณครับ</Content>
         </Dialog>
         <Dialog ID="14" Model="거주민2">
-          <Teller>Resident 2</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 2</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants2_2-01</VoiceFile>
-          <Content>What now… What more am I supposed to do now?!</Content>
+          <Content>อะไรกันวะ… กูต้องทำอะไรอีกล่ะเนี้ย?!</Content>
         </Dialog>
         <Dialog ID="15" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan9-01</VoiceFile>
-          <Content>Sorry, sir. I sadly can’t do anything for you even if you cling to me.</Content>
+          <Content>ขอโทษนะครับ ถึงคุณจะยึดติดกับผมไป ผมก็ทำอะไรให้ไม่ได้หรอกครับ</Content>
         </Dialog>
         <Dialog ID="16" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan10</VoiceFile>
-          <Content>Now… Take in deep breath, and read it out.</Content>
+          <Content>งั้นก็… หายใจเข้าลึกๆ แล้วเปิดอ่านเลยครับ</Content>
         </Dialog>
         <Dialog ID="17" Model="거주민2">
-          <Teller>Resident 2</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 2</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants2_3</VoiceFile>
-          <Content>…‘To Lee Deok-gu. Play rock paper scissors with the third person you meet and play rock. If you win, pull out 59 strands of their hair…’</Content>
+          <Content>…‘ถึงลี ด็กกู เล่นเป่ายิ้งชุบกับบุคคลที่สามที่คุณเจอแล้วออกแต่ค้อน หากคุณชนะ ดึงเส้นผมของอีกฝ่ายออกมา59เส้น…’</Content>
         </Dialog>
         <Dialog ID="18" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan11-01</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="19" Model="거주민2">
-          <Teller>Resident 2</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 2</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants2_4</VoiceFile>
-          <Content>‘Then, apply seafood-cream pasta sauce with mealworms fed on styrofoam to it three times, and eat it with a fork.’</Content>
+          <Content>‘แล้วนำหนอนนกที่กินแต่โฟมมาสามครั้ง นำไปโรยบนครีมพาสต้าซีฟู้ด และกินด้วยส้อม’</Content>
         </Dialog>
         <Dialog ID="20" Model="거주민2">
-          <Teller>Resident 2</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 2</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants2_5</VoiceFile>
-          <Content>Sick bastards… You’re telling me to eat that shit?</Content>
+          <Content>ไอ้พวกสติไม่ดี… นี่มึงกำลังบอกให้กูกินขยะนี่หรอห้ะ?</Content>
         </Dialog>
         <Dialog ID="21" Model="거주민2">
-          <Teller>Resident 2</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 2</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants2_6</VoiceFile>
-          <Content>I had to make risotto out of sewer water and give it to Minji next door just a week ago… They ate it without asking, and ended up going to the ER!</Content>
+          <Content>อาทิตย์ที่แล้ว กูพึ่งทำรีซอตโต้จากน้ำท่อไปให้มินจิข้างห้องไป… แม่งกินโดยไม่ถามสักคำ แล้วตรงไปห้องฉุกเฉินเลนนะเห้ย!</Content>
         </Dialog>
         <Dialog ID="22" Model="거주민2">
-          <Teller>Resident 2</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 2</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants2_7-02</VoiceFile>
-          <Content>Fuck this!</Content>
+          <Content>ช่างแม่งดิไอ้เหี้ย!</Content>
         </Dialog>
         <Dialog ID="23" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan12</VoiceFile>
-          <Content>I’m sorry… All I do is deliver the Prescripts…</Content>
+          <Content>ขอโทษครับ… ผมก็แค่ทำการส่งบทบัญญัติเท่านั้นครับ…</Content>
         </Dialog>
         <Dialog ID="24" Model="거주민2">
-          <Teller>Resident 2</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 2</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants2_8-01</VoiceFile>
-          <Content>Please… I’ll give you as much money as you want! Or let me get a different Prescript just this once, I beg you…</Content>
+          <Content>ขอเหอะ… จะเอาเงินก็เอาไปเลย! หรือจะให้บทบัญญัติใหม่ก็ได้ ขอสักครั้งทีเถอะนะ…</Content>
         </Dialog>
         <Dialog ID="25" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan13-01</VoiceFile>
-          <Content>I’d love to change this, but… I don’t have the authority to do that.</Content>
+          <Content>ผมเองก็อยากจะทำให้อยู่หรอกครับ แต่… ผมเองก็ไม่มีสิทธิจะไปเปลี่ยนมันได้ครับ</Content>
         </Dialog>
         <Dialog ID="26" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan14</VoiceFile>
-          <Content>…Everyone faces a test of faith in the Prescripts. I hope you can overcome this.</Content>
+          <Content>…ทุกคนต้องเผชิญกับบททดสอบจากบทบัญญัติครับ ผมหวังว่าคุณเองจะก้าวข้ามมันได้นะครับ</Content>
         </Dialog>
         <Dialog ID="27" Model="거주민2">
-          <Teller>Resident 2</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 2</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants2_9</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="28" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria1</VoiceFile>
-          <Content>Messenger Yan! Long time no see~</Content>
+          <Content>คนส่งสารยัน! ไม่ได้เจอกันนานเลยน้า~</Content>
         </Dialog>
         <Dialog ID="29" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan15</VoiceFile>
-          <Content>Hello, Proxy Gloria. Do you have business with Mister LaMarcus here, too?</Content>
+          <Content>สวัสดีครับ ผู้แทนกลอเรีย คุณกลอเรียเองก็มีธุระกับคุณลามาร์คัสด้วยหรอครับ?</Content>
         </Dialog>
         <Dialog ID="30" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria2</VoiceFile>
-          <Content>Yep, I do! I got a Prescript, hehe.</Content>
+          <Content>อื้ม ใช่แล้ว! ฉันเองก็ได้บทบัญญัติมาเหมือนกันล่ะ ฮิฮิ</Content>
         </Dialog>
         <Dialog ID="31" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan16-01</VoiceFile>
-          <Content>Hello, Mister LaMarcus? Are you there? We’re here to talk~!</Content>
+          <Content>สวัสดีครับคุณลามาร์คัส? คุณอยู่ไหมครับ? เรามีเรื่องที่อยากคุยด้วยน่ะครับ~!</Content>
         </Dialog>
         <Dialog ID="32" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria3</VoiceFile>
-          <Content>Mmm~? This won’t do! Leave it to me, sweetie~</Content>
+          <Content>ฮืม~? แบบนั้นไม่ได้หรอกนะ! ปล่อยให้เป็นหน้าที่ฉันเอง~</Content>
         </Dialog>
         <Dialog ID="33" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria4</VoiceFile>
-          <Content>Aha~ There you are!</Content>
+          <Content>เห้~ อยู่นี่ไง!</Content>
         </Dialog>
         <Dialog ID="34" Model="거주민3">
-          <Teller>Resident 3</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 3</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants3_1</VoiceFile>
-          <Content>…Please… It was… It was a tiny issue…</Content>
+          <Content>…ขอร้องล่ะ… มันก็แค่… ปัญหาเล็กๆน้อยๆเอง…</Content>
         </Dialog>
         <Dialog ID="35" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan17-01</VoiceFile>
-          <Content>Did this person not carry out his Prescript?</Content>
+          <Content>หรือว่าคุณคนนี้ไม่ได้ทำตามที่บทบัญญัติสั่งหรอครับ?</Content>
         </Dialog>
         <Dialog ID="36" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria5</VoiceFile>
-          <Content>Nope! So a Prescript came down to me, telling me to smash Mister LaMarcus’s frontal lobe.</Content>
+          <Content>อื้ม! เลยมีคำสั่งส่งมาให้บดสมองส่วนหน้าของคุณลามาร์คัสให้แหลกน่ะ</Content>
         </Dialog>
         <Dialog ID="37" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan18-01</VoiceFile>
-          <Content>Usually, Proxies only receive Prescripts on the rare occasion… of someone else not carrying out their Prescript, Mister LaMarcus.</Content>
+          <Content>ส่วนมากแล้วผู้แทนจะได้รับบทบัญญัติ… เมื่อมีคนที่ไม่ได้ทำตามบทบัญญัตินะครับ คุณรามาร์คัส</Content>
         </Dialog>
         <Dialog ID="38" Model="거주민3">
-          <Teller>Resident 3</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 3</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants3_2</VoiceFile>
-          <Content>…You’re shitting me. ‘Kill the painting you've drawn.’ …Does this make sense to you!!?</Content>
+          <Content>…ล้อกันเล่นใช่ไหม ‘ฆ่าศิลปะที่ตัวเองวาด’ …พวกแกเองคิดว่ามันฟังดูเข้าใจง่ายรึไง!!?</Content>
         </Dialog>
         <Dialog ID="39" Model="거주민3">
-          <Teller>Resident 3</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 3</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants3_3</VoiceFile>
-          <Content>Painting was everything in my life, and I smeared my own art with ink… stabbed them, tore them… Painted pictures of dead people in so many different ways… I did everything!!!</Content>
+          <Content>งานวาดนี่เป็นงานทั้งชีวิตฉันเลยนะ ละเลงภาพด้วยหมึกก็แล้ว… วาดภาพคนตายก็แล้ว… ฉีกมันแทงมันก็แล้ว… ฉันทำทุกอย่างแล้วนะเฮ้ย!!!</Content>
         </Dialog>
         <Dialog ID="40" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria6</VoiceFile>
-          <Content>Huh~? That’s a totes simple problem~</Content>
+          <Content>เฮ้อ~? นั่นมันปัญหากล้วยๆไม่ใช่รึไง~</Content>
         </Dialog>
         <Dialog ID="41" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria7</VoiceFile>
-          <Content>Just pick anyone from the streets, use them as a model for your painting, and then kill them. Isn’t that a no brainer?</Content>
+          <Content>ก็แค่เลือกใครสักคนมาเป็นแบบ แล้วก็ฆ่าทิ้งเอง ง่ายซะยิ่งกว่าปลอกกล้วยอีกนะเนี้ย?</Content>
         </Dialog>
         <Dialog ID="42" Model="거주민3">
-          <Teller>Resident 3</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 3</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants3_4</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="43" Model="거주민3">
-          <Teller>Resident 3</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 3</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants3_5</VoiceFile>
-          <Content>Th… This is… This isn’t my fault! It’s the Prescript being too vague…!</Content>
+          <Content>น… นั่นมัน… นั่นมันใช่ความผิดชั้นซะที่ไหน! มันเป็นความผิดของบทบัญญัติเองที่ฟังดูกำกวมน่ะ…!</Content>
         </Dialog>
         <Dialog ID="44" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria8</VoiceFile>
-          <Content>It’s not the Prescript’s fault that you were too dumb to get it~</Content>
+          <Content>แต่ที่นายซื่อบื้อมันไม่ใช่ความผิดของบทบัญญัติซะหน่อย~</Content>
         </Dialog>
         <Dialog ID="45" Model="거주민3">
-          <Teller>Resident 3</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 3</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants3_6</VoiceFile>
-          <Content>You sick fucks! I did all I could to live!</Content>
+          <Content>ไอ้พวกบ้า! ชั้นน่ะยอมทำทุกอย่างเพื่อเอาตัวรอดแล้วนะ!</Content>
         </Dialog>
         <Dialog ID="46" Model="거주민3">
-          <Teller>Resident 3</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 3</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants3_7</VoiceFile>
-          <Content>I relayed numbers to a guy called Riemann, I moved a unicorn plushie to a park, and I even found a way to see green from a white wall for Hye-in!</Content>
+          <Content>ชั้นส่งตัวเลขไปให้ชายที่ชื่อเลย์แมนน์ ขยับตุ๊กตายูนิคอร์นไปที่สวนสาธารณะ รวมถึงยังเจอวิธีเห็นสีเขียวบนกำแพงสีขาวให้เฮ-อินอีกด้วย!</Content>
         </Dialog>
         <Dialog ID="47" Model="거주민3">
-          <Teller>Resident 3</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 3</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants3_8</VoiceFile>
-          <Content>I’d been doing so good…</Content>
+          <Content>มันกำลังไปได้สวยอยู่เลยแท้ๆ…</Content>
         </Dialog>
         <Dialog ID="48" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria9</VoiceFile>
-          <Content>Too bad you couldn’t keep it up this time~</Content>
+          <Content>แย่หน่อยนะที่นายทำไม่ทันน่ะ~</Content>
         </Dialog>
         <Dialog ID="49" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan19</VoiceFile>
-          <Content>I understand that you tried. But…</Content>
+          <Content>ผมชื่นชมความพยายามของคุณนะครับ แต่ว่า…</Content>
         </Dialog>
         <Dialog ID="50" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria10</VoiceFile>
-          <Content>Once we get a Prescript, we should carry it out, no exceptions~</Content>
+          <Content>ถ้าเราได้บทบัญญัติมา เราก็ควรทำตาม ไม่มีข้อแก้ตัวหรอกน้า~</Content>
         </Dialog>
         <Dialog ID="51" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan20-03</VoiceFile>
-          <Content>…I’m sorry.</Content>
+          <Content>…ขอโทษด้วยครับ</Content>
         </Dialog>
         <Dialog ID="52" Model="거주민3">
-          <Teller>Resident 3</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 3</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants3_9</VoiceFile>
-          <Content>Ahhhhhhh!</Content>
+          <Content>อ้าาาาาาาาาาาก!</Content>
         </Dialog>
         <Dialog ID="53" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan21</VoiceFile>
-          <Content>…Hello, Mister John. Here’s your Prescript.</Content>
+          <Content>…สวัสดีครับ คุณจอห์น นี่บทบัญญัติของคุณครับ</Content>
         </Dialog>
         <Dialog ID="54" Model="거주민4">
-          <Teller>Resident 4</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 4</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants4_1</VoiceFile>
-          <Content>‘To John. Stand on any three-way intersection at 3:38 tomorrow, look to the east, and wave seven times.’</Content>
+          <Content>‘ถึงจอห์น ยืนอยู่บนสามแยกไหนก็ได้ในเวลา 3:38 นาฬิกาของวันพรุ่งนี้ มองไปทางทิศตะวันตก แล้วโบกมือเจ็ดที’</Content>
         </Dialog>
         <Dialog ID="55" Model="거주민4">
-          <Teller>Resident 4</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 4</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants4_2</VoiceFile>
-          <Content>Is this really all I have to do to be protected by you guys? No need to pay money like with the other Syndicates?</Content>
+          <Content>นี่ฉันแค่ต้องทำทั้งหมดนี่แล้วฉันจะถูกปกป้องโดยพวกนายใช่ไหม? โดยไม่ต้องเสียสักแดงเดียวเหมือนกับพวกองค์กรอื่นๆน่ะหรอ?</Content>
         </Dialog>
         <Dialog ID="56" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan22</VoiceFile>
-          <Content>Yes… That’s the case. All you need to do is carry out each Prescript accordingly.</Content>
+          <Content>ครับ… เหมือนจะเป็นอย่างนั้นนะครับ ขอแค่คุณทำตามที่บทบัญญัติเขียนไว้อย่างตรงไปตรงมาน่ะครับ</Content>
         </Dialog>
         <Dialog ID="57" Model="거주민4">
-          <Teller>Resident 4</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 4</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants4_3</VoiceFile>
-          <Content>Sweet! The Index really is the best!</Content>
+          <Content>งั้นก็เยี่ยมไปเลย! พวกอินเด็กซ์เนี่ยเจ๋งที่สุดจริงๆ!</Content>
         </Dialog>
         <Dialog ID="58" Model="거주민4">
-          <Teller>Resident 4</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 4</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants4_4</VoiceFile>
-          <Content>You don’t ask for backbreaking fees like the others do.</Content>
+          <Content>ไม่ต้องไปจ่ายค่าเช่าสุดโหดเหมือนกับพวกแก็งอื่นๆ</Content>
         </Dialog>
         <Dialog ID="59" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan23</VoiceFile>
-          <Content>Will you please reconsider? Nothing is truly free in this City…</Content>
+          <Content>คุณควรคิดดูให้ดีนะครับ มันไม่มีอะไรฟรีจริงๆในเมืองนี้หรอกครับ…</Content>
         </Dialog>
         <Dialog ID="60" Model="거주민4">
-          <Teller>Resident 4</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 4</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants4_5</VoiceFile>
-          <Content>I just have to carry out the Prescripts that come to me from time to time, don’t I?</Content>
+          <Content>นายบอกแค่ให้ฉันทำตามที่บทบัญญัติเขียนไว้เป็นครั้งเป็นคราวไม่ใช่รึไง?</Content>
         </Dialog>
         <Dialog ID="61" Model="거주민4">
-          <Teller>Resident 4</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 4</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants4_6</VoiceFile>
-          <Content>The Nest went under so suddenly… Dangerous gangs started prancing around the residential area…</Content>
+          <Content>จู่ๆเมื่อคืน เนสน่ะก็ล่มลงไป… พวกแก็งอันตรายทั้งหลายก็เริ่มมาป้วนเปี้ยนอยู่ในเขตที่อยู่อาศัย…</Content>
         </Dialog>
         <Dialog ID="62" Model="거주민4">
-          <Teller>Resident 4</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 4</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants4_7</VoiceFile>
-          <Content>And other Syndicates all wanted me to pay absurd amounts of money or sign these ridiculous contracts…</Content>
+          <Content>แถมพวกองค์กรอื่นๆก็ยังอยากให้จ่ายเงินในจำนวนมหาศาลหรือไม่ก็ให้ลงชื่อในสัญญาแปลกๆ…</Content>
         </Dialog>
         <Dialog ID="63" Model="거주민4">
-          <Teller>Resident 4</Teller>
-          <Title>Nest Resident</Title>
+          <Teller>ผู้อยู่อาศัย 4</Teller>
+          <Title>ผู้อยู่อาศัยเนส</Title>
           <VoiceFile>ch5_Index_ep1_inhabitants4_8</VoiceFile>
-          <Content>The Index is the only one me and my family can count on!</Content>
+          <Content>พวกอิกเด็กซ์เป็นพวกเดียวที่ทั้งฉันและครอบครัวของฉันพึ่งพาได้แล้วล่ะ!</Content>
         </Dialog>
         <Dialog ID="64" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan24-01</VoiceFile>
-          <Content>…If you believe so. You’ll be safe as long as you follow the Prescripts.</Content>
+          <Content>…ครับ ถ้าคุณคิดอย่างนั้นล่ะก็ คุณจะปลอดภัยตราบใดที่คุณยังทำตามบทบัญญัตินะครับ</Content>
         </Dialog>
         <Dialog ID="65" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan25</VoiceFile>
-          <Content>Maybe…</Content>
+          <Content>อาจจะนะ…</Content>
         </Dialog>
         <Dialog ID="66" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan26</VoiceFile>
-          <Content>Hello… Proxies. You have a new Prescript to carry out.</Content>
+          <Content>สวัสดีครับ… ผู้แทนทุกท่าน พวกคุณมีบทบัญญัติแอันใหม่ให้ทำแล้วครับ</Content>
         </Dialog>
         <Dialog ID="67" Model="에스더">
-          <Teller>Esther</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>เอสเธอร์</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Esther1</VoiceFile>
-          <Content>New Prescripts, huh…</Content>
+          <Content>บทบัญญัติใหม่งั้นหรอ…</Content>
         </Dialog>
         <Dialog ID="68" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria11</VoiceFile>
-          <Content>We’ve been getting Prescripts a whole lot more often these days!</Content>
+          <Content>เดี๋ยวนี้เราได้บทบัญญัติมากขึ้นกว่าแต่ก่อนนะเนี้ย!</Content>
         </Dialog>
         <Dialog ID="69" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan27-01</VoiceFile>
-          <Content>Prescripts will be Prescripts. It’s not like you ever cared about how many Prescripts you got.</Content>
+          <Content>บทบัญญัติมันก็เป็นแบบนี้มาแต่ไหนแต่ไรอยู่แล้ว แล้วคุณไปสนใจจำนวนของบทบัญญัติตั้งแต่เมื่อไหร่กันครับ?</Content>
         </Dialog>
         <Dialog ID="70" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria12</VoiceFile>
-          <Content>I have no doubts about Prescripts, no~ Though we might be seeing a lot of bloodshed with the Thumb and the Sweepers at this rate?</Content>
+          <Content>ชั้นไม่ได้คลับแคลงอะไรในบทบัญญัติหรอกน้า~ แต่ถ้าเป็นแบบนี้ ต่อไปเราอาจจะต้องแลกเลือดกับพวกเดอะ ทัมป์และพวกสวีปเปอร์มากขึ้นก็ได้นะ?</Content>
         </Dialog>
         <Dialog ID="71" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria13</VoiceFile>
-          <Content>I don’t have any blood left in my body to shed anyhow~</Content>
+          <Content>ถึงชั้นจะไม่มีเลือดให้ไปแลกก็ตามอ่ะนะ~</Content>
         </Dialog>
         <Dialog ID="72" Model="휴버트">
-          <Teller>Hubert</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>ฮูเบิร์ต</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Hubert1</VoiceFile>
-          <Content>If war is what the Prescript requires, we shall gladly wage war.</Content>
+          <Content>ถ้าสงครามคือสิ่งที่บทบัญญัติประสงค์ล่ะก็ เราก็ต้องพร้อมก่อสงคราม</Content>
         </Dialog>
         <Dialog ID="73" Model="에스더">
-          <Teller>Esther</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>เอสเธอร์</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Esther2</VoiceFile>
-          <Content>It’s our role to act on behalf of the Prescript’s will.</Content>
+          <Content>มันเป็นบทบาทของเราที่ต้องทำ ในนามของประสงค์แห่งบทบัญญัติ</Content>
         </Dialog>
         <Dialog ID="74" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan28-01</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="75" Model="에스더">
-          <Teller>Esther</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>เอสเธอร์</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Esther3</VoiceFile>
-          <Content>We will carry out the Prescripts we’ve received first.</Content>
+          <Content>เราจะทำตามบทบัญญัติที่เราได้มาก่อน</Content>
         </Dialog>
         <Dialog ID="76" Model="에스더">
-          <Teller>Esther</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>เอสเธอร์</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Esther4</VoiceFile>
-          <Content>As Proxies, each of us will convey the content that Prescript Messenger Yan gave us to the Proselytes in our familia.</Content>
+          <Content>ในฐานะผู้แทน เราจะส่งข้อความในบทบัญญัติของผู้ส่งสารยันที่ให้ไว้ไปให้สานุศิษย์ในฟา'มิเลียของเรา</Content>
         </Dialog>
         <Dialog ID="77" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan29</VoiceFile>
-          <Content>…What are the Prescripts about this time, by the way?</Content>
+          <Content>…แล้วครั้งนี้เป็นบทบัญญัติอะไรกันหรอ?</Content>
         </Dialog>
         <Dialog ID="78" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria14</VoiceFile>
-          <Content>Let’s see~ Mine is to extract the spinal cords of 37-year-old people in this Nest.</Content>
+          <Content>ไหนดูสิ~ ของชั้นคือไปดึงกระดูกสันหลังของคนที่อายุ37ปีในเนสนี้</Content>
         </Dialog>
         <Dialog ID="79" Model="얀">
-          <Teller>Yan</Teller>
-          <Title>Index Messenger</Title>
+          <Teller>ยัน</Teller>
+          <Title>ผู้ส่งสารแห่งอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Yan30</VoiceFile>
-          <Content>Every 37-year-old in the Nest?</Content>
+          <Content>คนอายุ37ปีทุกคนเลยหรอ?</Content>
         </Dialog>
         <Dialog ID="80" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria15</VoiceFile>
-          <Content>Dunno~? It’s up to Proxy Esther to clarify ambiguities in Prescripts, y’know~?</Content>
+          <Content>ไม่รู้จิ~? มันก็แล้วแต่ผู้แทนเอสเธอร์ว่าจะตีความกำกวมของบทบัญญัตินี้ยังไง~?</Content>
         </Dialog>
         <Dialog ID="81" Model="에스더">
-          <Teller>Esther</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>เอสเธอร์</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Esther5</VoiceFile>
-          <Content>It does target all denizens of the Nest. Search for every single person of the specified age and take their spine.</Content>
+          <Content>เป้าหมายคือประชาชนทั้งหมดในเนสนี้จริง ทำการค้นหาบุคคลที่มีอายุ37ปีแล้วทำการเราะกระดูกสันหลังพวกเขาซะ</Content>
         </Dialog>
         <Dialog ID="82" Model="휴버트">
-          <Teller>Hubert</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>ฮูเบิร์ต</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Hubert2</VoiceFile>
-          <Content>Our familia’s task is to exchange the left leg of the fourteenth person we come across today with the right leg of the twenty-sixth person we run into.</Content>
+          <Content>ส่วนหน้าที่ของฟา'มิเลียเราคือเปลี่ยนขาซ้ายของบุคคลที่เราเจอในวันนี้14คนด้วยขาขวาของบุคคลที่เราวิ่งเข้าหา26คน</Content>
         </Dialog>
         <Dialog ID="83" Model="글로리아">
-          <Teller>Gloria</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>กลอเรีย</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Gloria16</VoiceFile>
-          <Content>They’re so out there~ It actually feels strange to get a straightforward Prescript for once, you see, Yan~?</Content>
+          <Content>มันดูไม่เข้าพวกจังเลยน้า~ รู้สึกแปลกจริงๆที่ได้บทบัญญัติที่มันตรงแบบนี้น่ะ ยัน~?</Content>
         </Dialog>
         <Dialog ID="84" Model="에스더">
-          <Teller>Esther</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>เอสเธอร์</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Esther6</VoiceFile>
-          <Content>‘…Eliminate the Thumb. No time limits.’</Content>
+          <Content>‘…กำจัดเดอะ ทัมป์ ไม่จำกัดเวลา’</Content>
         </Dialog>
         <Dialog ID="85" Model="휴버트">
-          <Teller>Hubert</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>ฮูเบิร์ต</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Hubert3</VoiceFile>
-          <Content>This one needs no explanation.</Content>
+          <Content>ไม่ต้องอธิบายให้มากความ</Content>
         </Dialog>
         <Dialog ID="86" Model="에스더">
-          <Teller>Esther</Teller>
-          <Title>Index Proxy</Title>
+          <Teller>เอสเธอร์</Teller>
+          <Title>ผู้แทนอินเด็กซ์</Title>
           <VoiceFile>ch5_Index_ep1_Esther7</VoiceFile>
-          <Content>…I will send my Proselytes to the Library as my Prescript dictates.</Content>
+          <Content>…ฉันจะส่งสานุศิษย์ของฉันไปที่หอสมุดตามที่บทบัญญัติชี้นำ</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ข้างในหอสมุด</PlaceName>
         <Dialog ID="87" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Index_ep1_Roland1</VoiceFile>
-          <Content>Oh boy… The Index really is coming for us, huh.</Content>
+          <Content>ไอหยา… ดูเหมือนพวกอินเด็กซ์มันจ้องจะเล่นพวกเราจริงๆแล้ว</Content>
         </Dialog>
         <Dialog ID="88" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Index_ep1_Angela1</VoiceFile>
-          <Content>It seems the ‘Prescripts’ are often vague and need clarification.</Content>
+          <Content>ดูเหมือนว่า‘บทบัญญัติ’มันค่อนข้างคลุมเคลือและต้องการคำอธิบายให้ชัดเจนนะ</Content>
         </Dialog>
         <Dialog ID="89" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Index_ep1_Roland2</VoiceFile>
-          <Content>I haven’t seen ‘em myself, so I frankly have no idea how those instructions look. Dunno who makes the Prescripts, either.</Content>
+          <Content>ฉันเองก็ไม่เคยเห็นกับตาตัวเองจริงๆ ฉันก็เลยไม่รู้เหมือนกันว่ามันเขียนอะไร แถมยังไม่รู้ด้วยซ้ำว่าใครเป็นคนเขียนบทบัญญัติ</Content>
         </Dialog>
         <Dialog ID="90" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Index_ep1_Angela2</VoiceFile>
-          <Content>It’s impossible that they could maintain such a massive Syndicate following orders that come out of nowhere.</Content>
+          <Content>เป็นไปไม่ได้เลยที่พวกเขาสามารถรักษาองค์กรที่ใหญ่ขนาดนี้ได้โดยทำตามคำสั่งจากที่ไหนก็ไม่รู้</Content>
         </Dialog>
         <Dialog ID="91" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Index_ep1_Roland3</VoiceFile>
-          <Content>That’s the scary part. Those Prescripts seem random, but they work out in their favor somehow.</Content>
+          <Content>นั่นและส่วนที่น่ากลัว บทบัญญัติพวกนั้นอาจดูเหมือนสุ่มคำไปเฉยๆ แต่ก็ใช้ได้ในทางของพวกเขาเอง</Content>
         </Dialog>
         <Dialog ID="92" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Index_ep1_Angela3</VoiceFile>
-          <Content>And no one knows who’s responsible for making them?</Content>
+          <Content>แล้วไม่มีคนรู้เลยว่าใครเป็นคนรับผิดชอบในการสร้างบทบัญญัติ?</Content>
         </Dialog>
         <Dialog ID="93" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Index_ep1_Roland4</VoiceFile>
-          <Content>I haven’t seen anyone that knows, at least.</Content>
+          <Content>อย่างน้อย ตอนนี้ฉันยังไม่เห็นใครรู้อะนะ</Content>
         </Dialog>
         <Dialog ID="94" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Index_ep1_Roland5</VoiceFile>
-          <Content>The Prescripts are long since appointed as a Star of the City.</Content>
+          <Content>บทบัญญัติมันถูกแต่งตั้งให้เป็นดาวประจำเมืองตั้งนานแล้ว</Content>
         </Dialog>
         <Dialog ID="95" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Index_ep1_Angela4</VoiceFile>
-          <Content>I can hardly believe that so many are following such amphigory so blindly.</Content>
+          <Content>มันเชื่อได้ยากนะ ว่ามีคนตั้งมากมายเชื่อในเศษกระดาษพวกนั้นจนหน้ามืดตามัว</Content>
         </Dialog>
         <Dialog ID="96" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Index_ep1_Roland6</VoiceFile>
-          <Content>That’s pretty much everyone in the City. Like they said, people all just live according to the purpose of life given by someone or something else without thinking twice.</Content>
+          <Content>ที่พูดถึงอยู่ก็ทุกคนในเมืองนั่นแหละ เหมือนอย่างที่คนว่าไว้ ผู้คนอยู่ได้ตามที่คนหรือสิ่งใดให้เป้าหมายของชีวิตโดยไม่คิดหน้าคิดหลัง</Content>
         </Dialog>
         <Dialog ID="97" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Index_ep1_Roland7</VoiceFile>
-          <Content>Heck, those who are still lost without a purpose would gladly take Prescripts.</Content>
+          <Content>พวกที่สูญเสียเป้าหมายในชีวิตไปแล้วคงยอมรับบทบัญญัติอย่างเต็มใจด้วยละมั้ง</Content>
         </Dialog>
         <Dialog ID="98" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Index_ep1_Angela5</VoiceFile>
-          <Content>Even if they require them to yield their own lives?</Content>
+          <Content>ถึงแม้มันจะหมายถึงต้องสละชีพของพวกเขาไปน่ะหรอ?</Content>
         </Dialog>
         <Dialog ID="99" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Index_ep1_Roland8</VoiceFile>
-          <Content>They’re willing to declare war against the Thumb because a Prescript said so. Life surely isn’t the biggest concern for them.</Content>
+          <Content>ถ้าเกิดยอมถึงขนาดประกาศสงครามกับเดอะ ทัมป์เพียงเพราะบทบัญญัติบอกล่ะก็ ชีวิตนี้ก็คงไม่สำคัญสำหรับพวกเขาแล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="100" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Index_ep1_Angela6</VoiceFile>
-          <Content>But that’s only a conflict between Syndicates, not Wings. Can it really be called a war?</Content>
+          <Content>พวกนั้นก็แค่เรื่องบาดหมางระหว่างองค์กรเอง ไม่ใช่ระดับเดอะ วิงซ์ซะหน่อย มันจะเรียกว่าสงครามได้หรอ?</Content>
         </Dialog>
         <Dialog ID="101" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Index_ep1_Roland9</VoiceFile>
-          <Content>Ehey, ma’am~ You have no idea how big they really are!</Content>
+          <Content>แหม่ แหม่ คุณนาย~ คุณไม่รู้ซะแล้วว่าพวกเขาใหญ่กันขนาดไหน!</Content>
         </Dialog>
         <Dialog ID="102" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Index_ep1_Roland10</VoiceFile>
-          <Content>When the hundreds of Finger-affiliated Syndicates all clash at the same time, the scale and the aftermath is most certainly comparable to that of a war between Wings.</Content>
+          <Content>เมื่อมีองค์กรสังกัดเดอะ ฟิงเกอร์นับร้อยมาปะทะพร้อมๆกันนะ ความเสียหายหลังจากนั้นจะเทียบได้กับสงครามระหว่างเดอะ วิงซ์เลยล่ะ</Content>
         </Dialog>
         <Dialog ID="103" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Index_ep1_Roland11</VoiceFile>
-          <Content>This town’s gonna be noisy with those fanatics around for a while.</Content>
+          <Content>เมืองทั้งเมืองจะเสียงดังยั้งกับพวกเด็กแว้นเพราะพวกบ้านั่นไปสักพักเลย</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -4145,508 +4145,508 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: WARP Platform</PlaceName>
+        <PlaceName>สถานที่: ชานชาลา WARP</PlaceName>
         <Dialog ID="0" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>WARP คอร์ป</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_announcement1-02</VoiceFile>
-          <Content>The train has arrived.</Content>
+          <Content>รถไฟได้มาถึงที่หมายแล้วค่ะ</Content>
         </Dialog>
         <Dialog ID="1" Model="안내방송">
-          <Teller>Announcement</Teller>
-          <Title>WARP Corp.</Title>
+          <Teller>คำประกาศ</Teller>
+          <Title>WARP คอร์ป</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_announcement2-01</VoiceFile>
-          <Content>It will be available at the terminal in ten minutes.</Content>
+          <Content>จะพร้อมให้ทำการในเทอร์มินอลในอีก10นาทีนะคะ</Content>
         </Dialog>
         <Dialog ID="2" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose1</VoiceFile>
-          <Content>Quick, let’s get moving.</Content>
+          <Content>ไปๆ รีบๆเข้าไปได้แล้ว</Content>
         </Dialog>
         <Dialog ID="3" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose2</VoiceFile>
-          <Content>Let’s see what kind of mess it got into this time.</Content>
+          <Content>มาดูกันซิ ว่าครั้งนี้มันจะวินาศสันตะโรกันขนาดไหน</Content>
         </Dialog>
         <Dialog ID="4" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen2</VoiceFile>
-          <Content>I really hope it’s anything like the last time. All the passengers were sitting still in their seats, clasping their hands together.</Content>
+          <Content>ฉันหวังว่ามันจะเหมือนกับครั้งล่าสุดก็แล้วกัน ผู้โดยสารนั่งกันเป็นระเบียบพร้อมกับตบมือให้พวกเรา</Content>
         </Dialog>
         <Dialog ID="5" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti1</VoiceFile>
-          <Content>You said that’s an extremely uncommon occurrence though, right?</Content>
+          <Content>รุ่นพี่คะ รุ่นพี่บอกว่ามันหาย๊ากยากมากเลยไม่ใช่หรอคะ?</Content>
         </Dialog>
         <Dialog ID="6" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen3</VoiceFile>
-          <Content>Yep. They usually do arts and crafts with each other’s organs and shit.</Content>
+          <Content>ก็ใช่น่ะสิ ส่วนมากแล้วพวกเขาจะใช้อวัยวะมาละเลงสร้างเป็นงานอาร์ทกัน</Content>
         </Dialog>
         <Dialog ID="7" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen4</VoiceFile>
-          <Content>You’ve probably seen the educational footage, but you’d better be prepared, newb.</Content>
+          <Content>เธอคงจะเห็นในคลิปสอนแล้ว แต่ขอบอกไว้เลยว่าให้รีบทำใจซะเถอะ เด็กใหม่</Content>
         </Dialog>
         <Dialog ID="8" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen5</VoiceFile>
-          <Content>I don’t think I’ll ever want to take a WARP train in my life.</Content>
+          <Content>ฉันเองก็คงไม่คิดจะขึ้นWARPเทรนนี่อีกแล้วในชีวิตนี้</Content>
         </Dialog>
         <Dialog ID="9" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti2</VoiceFile>
-          <Content>Even if they let you forget all about it?</Content>
+          <Content>แล้วถ้าพวกเขาจะให้รุ่นพี่ลบความทรงจำไปล่ะคะ?</Content>
         </Dialog>
         <Dialog ID="10" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen6</VoiceFile>
-          <Content>No thanks. Knowing what happens absolutely kills the deal for me.</Content>
+          <Content>ไม่ล่ะขอบคุณ แค่รู้ว่าเกิดอะไรขึ้นในนั้นก็ตัดความคิดนั้นของฉันไปแล้ว</Content>
         </Dialog>
         <Dialog ID="11" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose3</VoiceFile>
-          <Content>Hey, we’re all ready. It’s time to start the cleanup.</Content>
+          <Content>เฮ้ย ทุกคนพร้อนกันแล้ว ได้เวลาเก็บกวาดรถไฟ</Content>
         </Dialog>
         <Dialog ID="12" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose4</VoiceFile>
-          <Content>Open up!</Content>
+          <Content>เปิดได้!</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside WARP Train UW-212</PlaceName>
+        <PlaceName>สถานที่: ด้านในWARPเทรน UW-212</PlaceName>
         <Dialog ID="13" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose5</VoiceFile>
           <Content>Fresh meat, just follow the manual. Remember the procedures.</Content>
         </Dialog>
         <Dialog ID="14" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen7</VoiceFile>
           <Content>This one’s pretty typical.</Content>
         </Dialog>
         <Dialog ID="15" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti3</VoiceFile>
           <Content>Eww… The stench is so strong even with my mask on, it feels like it’s physically stinging my nose.</Content>
         </Dialog>
         <Dialog ID="16" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen8</VoiceFile>
           <Content>Hello~ You’re still alive, right?</Content>
         </Dialog>
         <Dialog ID="17" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti4</VoiceFile>
           <Content>Hmm… “The flesh is spread thin in an attempt to maximize the surface area. The subject is determined to feel as much pain as possible…” This one would classify as a suicidal.</Content>
         </Dialog>
         <Dialog ID="18" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen9</VoiceFile>
           <Content>Ooh, you’re pretty good, aren’t ya? A lot of newbies can’t help but puke or faint on their first field job, even with the help of educational footage.</Content>
         </Dialog>
         <Dialog ID="19" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose6</VoiceFile>
           <Content>‘Cause she’s from District 23.</Content>
         </Dialog>
         <Dialog ID="20" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti5</VoiceFile>
           <Content>Can’t say I’ve seen worse, but I’m used to seeing this level of grotesque things.</Content>
         </Dialog>
         <Dialog ID="21" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose7</VoiceFile>
           <Content>Now, now. Cleanup agents, identify the genomes in your designated carriages and place the passengers back in their seats.</Content>
         </Dialog>
         <Dialog ID="22" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen10</VoiceFile>
           <Content>Gross… Look at that mushy eye still rolling around… I can never get used to this. I wonder how long I’ll be doing this work…</Content>
         </Dialog>
         <Dialog ID="23" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti6</VoiceFile>
           <Content>You said cleanup agents go through a memory erasure procedure and get their retirement fund when they quit, right?</Content>
         </Dialog>
         <Dialog ID="24" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen11</VoiceFile>
           <Content>You seriously buy that crap? You should know something’s up especially since you’re from the Backstreets.</Content>
         </Dialog>
         <Dialog ID="25" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti7</VoiceFile>
           <Content>You mean that’s a lie?</Content>
         </Dialog>
         <Dialog ID="26" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen12</VoiceFile>
           <Content>They’d probably drag you to some dark room and kill you without anyone knowing.</Content>
         </Dialog>
         <Dialog ID="27" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen13</VoiceFile>
           <Content>Whoops, don’t tell anyone that I said this. My employee review results weren’t too good this time around. You know I was just kidding, right?</Content>
         </Dialog>
         <Dialog ID="28" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti8</VoiceFile>
           <Content>Huhuhu. Maybe I’ll consider keeping quiet if you buy me dinner. How about some gopchang-jeongol!</Content>
         </Dialog>
         <Dialog ID="29" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen14</VoiceFile>
           <Content>Gopchang? You eat beef tripe? Rose… I’m starting to get scared of this newbie…</Content>
         </Dialog>
         <Dialog ID="30" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose8</VoiceFile>
           <Content>…Is that true?</Content>
         </Dialog>
         <Dialog ID="31" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti9</VoiceFile>
           <Content>Hm hm hmm~ Gotta do some work~ Work~ Sort out the genomes~ And I just gotta put them on the right seats, correct?</Content>
         </Dialog>
         <Dialog ID="32" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen15</VoiceFile>
           <Content>Yep~ Just put ‘em on their seats, and they’ll be restored, good as new.</Content>
         </Dialog>
         <Dialog ID="33" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose9</VoiceFile>
           <Content>Sen, Lesti. Stop your work immediately. We’re going back to the office.</Content>
         </Dialog>
         <Dialog ID="34" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen16</VoiceFile>
           <Content>Wha?</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: WARP Corp. Office</PlaceName>
+        <PlaceName>สถานที่: สำนักงานของ WARP คอร์ป</PlaceName>
         <Dialog ID="35" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti10</VoiceFile>
           <Content>Passengers have gone missing?!</Content>
         </Dialog>
         <Dialog ID="36" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen17</VoiceFile>
           <Content>Hey! Keep it down. We don’t want anyone else to hear that, dig?</Content>
         </Dialog>
         <Dialog ID="37" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti11</VoiceFile>
           <Content>This room is in maximum security, anyway.</Content>
         </Dialog>
         <Dialog ID="38" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen18</VoiceFile>
           <Content>It’s not just any passengers, the ones in First Class seats have disappeared.</Content>
         </Dialog>
         <Dialog ID="39" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen19</VoiceFile>
           <Content>The higher ups are gonna have a headache over this, too.</Content>
         </Dialog>
         <Dialog ID="40" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose10</VoiceFile>
           <Content>First Class passengers disappearing is already a significant risk, but we’ve also lost some time.</Content>
         </Dialog>
         <Dialog ID="41" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose11</VoiceFile>
           <Content>The time quota wasn’t fulfilled.</Content>
         </Dialog>
         <Dialog ID="42" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti12</VoiceFile>
           <Content>WARP Corp. has never had a siiingle incident ever since it became a Wing, hasn’t it? Gee, I wonder what went wrong now.</Content>
         </Dialog>
         <Dialog ID="43" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose12</VoiceFile>
           <Content>The engineers are investigating it for now. Take a look at this first.</Content>
         </Dialog>
         <Dialog ID="44" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti13</VoiceFile>
           <Content>Oh~ This must be the camera that only records important moments based on the emotional flux of people nearby!</Content>
         </Dialog>
         <Dialog ID="45" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti14</VoiceFile>
           <Content>I saw it in an educational footage.</Content>
         </Dialog>
         <Dialog ID="46" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen20</VoiceFile>
           <Content>Ugh, what’s up with that? Did people merge into one at some point?</Content>
         </Dialog>
         <Dialog ID="47" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti15</VoiceFile>
           <Content>Those guys look like doctors? They’re stitching bodies together so precisely.</Content>
         </Dialog>
         <Dialog ID="48" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen21</VoiceFile>
           <Content>I pity the cleanup agents who’ll have to tear them apart.</Content>
         </Dialog>
         <Dialog ID="49" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose13</VoiceFile>
           <Content>That entity possessed extreme physical strength, sixteen of our agents were killed by that thing alone.</Content>
         </Dialog>
         <Dialog ID="50" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti16</VoiceFile>
           <Content>“Love Town”… They made a town for themselves too, huh.</Content>
         </Dialog>
         <Dialog ID="51" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen22</VoiceFile>
           <Content>That doctor-ish duo must’ve been the anchor of the town… The townsfolk are all crying since they’re gone.</Content>
         </Dialog>
         <Dialog ID="52" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti17</VoiceFile>
           <Content>How did they get off the train, though?</Content>
         </Dialog>
         <Dialog ID="53" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose14</VoiceFile>
           <Content>Check this out. It’s footage of the First Class carriage.</Content>
         </Dialog>
         <Dialog ID="54" Model="1등석 승객1">
-          <Teller>First Class Passenger 1</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสารชั้นเฟิร์สคลาส 1</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_firstclass1</VoiceFile>
           <Content>Who the hell are y— GAHHHHH!</Content>
         </Dialog>
         <Dialog ID="55" Model="1등석 승객2">
-          <Teller>First Class Passenger 2</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสารชั้นเฟิร์สคลาส 2</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_firstclass2-01</VoiceFile>
           <Content>Do you know who I am?! Brat! Do you?! I’m a board member of U Corp!!!</Content>
         </Dialog>
         <Dialog ID="56" Model="1등석 승객3">
-          <Teller>First Class Passenger 3</Teller>
-          <Title>Passenger</Title>
+          <Teller>ผู้โดยสารชั้นเฟิร์สคลาส 3</Teller>
+          <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_firstclass3</VoiceFile>
           <Content>Who sent you… Who’s behind this!!!</Content>
         </Dialog>
         <Dialog ID="57" Model="재헌">
-          <Teller>Jae-heon</Teller>
-          <Title>Puppeteer</Title>
+          <Teller>แจ-ฮอน</Teller>
+          <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch5_CleanupCrew_ep1__Jaeheon1-01</VoiceFile>
           <Content>Who could it be, I wonder? Heehee… Must be the invisible strings that are doing all this.</Content>
         </Dialog>
         <Dialog ID="58" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti18</VoiceFile>
           <Content>He’s stitching the flesh of living people… And putting strings in them…</Content>
         </Dialog>
         <Dialog ID="59" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen23</VoiceFile>
           <Content>The heck is that guy? Got any contact from Hana Association? Is that a Syndicate, or what?</Content>
         </Dialog>
         <Dialog ID="60" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose15</VoiceFile>
           <Content>That seems to be the one called ‘The Puppeteer’. Looks like he has quite a reputation in the Backstreets.</Content>
         </Dialog>
         <Dialog ID="61" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen1</VoiceFile>
           <Content>What’s his grade?</Content>
         </Dialog>
         <Dialog ID="62" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose16</VoiceFile>
           <Content>Urban Nightmare. But he just laid hands on VIPs, so he’ll be exalted to a Star of the City in no time.</Content>
         </Dialog>
         <Dialog ID="63" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose17</VoiceFile>
           <Content>And here. The one next to him is ‘Blood-red Night’. She’s a former Star of the City that was shot down some time ago.</Content>
         </Dialog>
         <Dialog ID="64" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti19</VoiceFile>
           <Content>Wait, is it possible for a Star to come back after being shot down?</Content>
         </Dialog>
         <Dialog ID="65" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen24</VoiceFile>
           <Content>Hell if I know. Why did they have to take the train we’re in charge of and do all that?</Content>
         </Dialog>
         <Dialog ID="66" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose18</VoiceFile>
           <Content>Most importantly, check this part out.</Content>
         </Dialog>
         <Dialog ID="67" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose19</VoiceFile>
           <Content>The First Class passengers… No, “puppets” as designated by Hana Association.</Content>
         </Dialog>
         <Dialog ID="68" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose20</VoiceFile>
           <Content>You can see those puppets sign a piece of paper here, yeah?</Content>
         </Dialog>
         <Dialog ID="69" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti20</VoiceFile>
           <Content>Oh, they really are? They’re writing their names on a gorgeous-looking piece of paper.</Content>
         </Dialog>
         <Dialog ID="70" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen25</VoiceFile>
           <Content>And they just disappeared?</Content>
         </Dialog>
         <Dialog ID="71" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen26</VoiceFile>
           <Content>Whoa, what. Ain’t that a real teleportation?</Content>
         </Dialog>
         <Dialog ID="72" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose21</VoiceFile>
           <Content>This is the very same kind of paper they signed off on.</Content>
         </Dialog>
         <Dialog ID="73" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti21</VoiceFile>
           <Content>Um, are you… Actually gonna…</Content>
         </Dialog>
         <Dialog ID="74" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen27</VoiceFile>
           <Content>Rose! Please give us a break…</Content>
         </Dialog>
         <Dialog ID="75" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose22</VoiceFile>
           <Content>We’re signing this paper as well. This is the so-called “invitation” from an Urban Nightmare dubbed ‘The Library’.</Content>
         </Dialog>
         <Dialog ID="76" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen28</VoiceFile>
           <Content>Sigh…</Content>
         </Dialog>
         <Dialog ID="77" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti22</VoiceFile>
           <Content>Sob, sob… I struggled and worked like a dog in District 23… And I barely made it into this Wing…</Content>
         </Dialog>
         <Dialog ID="78" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose23</VoiceFile>
           <Content>It’s the orders from up top. No choice but to follow ‘em. We’ll bring a few other cleanup agents with us to the Library.</Content>
         </Dialog>
         <Dialog ID="79" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen29</VoiceFile>
           <Content>Dude, what if we refused this order…</Content>
         </Dialog>
         <Dialog ID="80" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose24</VoiceFile>
           <Content>Then we’re fired.</Content>
         </Dialog>
         <Dialog ID="81" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti23</VoiceFile>
           <Content>Bwaaaahaaaaaa!!!</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในหอสมุด</PlaceName>
         <Dialog ID="82" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
@@ -4739,40 +4739,40 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Location: Library Entrance</PlaceName>
+        <PlaceName>สถานที่: ทางเข้าหอสมุด</PlaceName>
         <Dialog ID="97" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti24</VoiceFile>
           <Content>For real?!</Content>
         </Dialog>
         <Dialog ID="98" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen30</VoiceFile>
           <Content>Yep. They made a whole ass kingdom on the train one time.</Content>
         </Dialog>
         <Dialog ID="99" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen31</VoiceFile>
           <Content>Appointed each other as kings, knights, nobles, and whatever.</Content>
         </Dialog>
         <Dialog ID="100" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen32</VoiceFile>
           <Content>A town is nothing compared to that.</Content>
         </Dialog>
         <Dialog ID="101" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen33</VoiceFile>
           <Content>Treason and schemes were rampant, the kingdom fell into decline, and loyal knights made valiant efforts to save their failing country.</Content>
         </Dialog>
         <Dialog ID="102" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti25</VoiceFile>
           <Content>Wow~ What happened next?!</Content>
         </Dialog>
@@ -4783,14 +4783,14 @@
           <Content>Greetings, dear guests.</Content>
         </Dialog>
         <Dialog ID="104" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose25</VoiceFile>
           <Content>Enough chitchats, agents.</Content>
         </Dialog>
         <Dialog ID="105" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose26</VoiceFile>
           <Content>Hey there. Have the… puppets been here recently?</Content>
         </Dialog>
@@ -4801,8 +4801,8 @@
           <Content>You mean the puppets made from W Corp’s First Class passengers, correct?</Content>
         </Dialog>
         <Dialog ID="107" Model="센">
-          <Teller>Sen</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เซน</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen34</VoiceFile>
           <Content>…How much do you know, lady.</Content>
         </Dialog>
@@ -4819,14 +4819,14 @@
           <Content>If you fail, however, other guests may obtain the books that hold the secrets of WARP trains.</Content>
         </Dialog>
         <Dialog ID="110" Model="레스티">
-          <Teller>Lesti</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>เรสติ</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti26</VoiceFile>
           <Content>W Corp. would be totally screwed, then?!</Content>
         </Dialog>
         <Dialog ID="111" Model="로즈">
-          <Teller>Rose</Teller>
-          <Title>WARP Cleanup Agent</Title>
+          <Teller>โรส</Teller>
+          <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose27</VoiceFile>
           <Content>We’re going in right now.</Content>
         </Dialog>
@@ -4841,7 +4841,7 @@
     <Episode>
       <EpisodeName>Episode 1 Epilogue</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ด้านในหอสมุด</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>

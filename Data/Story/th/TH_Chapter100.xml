@@ -832,7 +832,7 @@
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Malkuth_ep3_gebura1</VoiceFile>
-          <Content>We’re not going to sit still and let you take away our light.</Content>
+          <Content>เราจะไม่นั่งบื้อ รอเธอมาเอาแสงของเราไปเฉยๆ หรอก</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -880,7 +880,7 @@
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Malkuth_ep3_gebura2</VoiceFile>
-          <Content>Damn it! Binah… Even in the end, you’re…</Content>
+          <Content>แม่งเอ้ย! บินาห์… สุดท้าย แกก็…</Content>
         </Dialog>
         <Dialog ID="71" Model="비나">
           <Teller>บินาห์</Teller>
@@ -2728,7 +2728,7 @@
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod2</VoiceFile>
-          <Content>หนังสือที่นายนำมาให้ฉันครั้งล่าสุดก็น่าสนใจดีนะ พูดตามตรง ฉันได้เรียนรู้ว่าเทคโนโลยีที่ใช้ในแบ็คสตรีทนั้น ถูกนำมาใช้เข้าด้วยกันอย่างไม่เป็นระเบียบเลย</Content>
+          <Content>หนังสือที่นายนำมาให้ฉันครั้งล่าสุดก็น่าสนใจดี พูดตามตรง ฉันได้เรียนรู้ว่าเทคโนโลยีที่ใช้ในแบ็คสตรีทนั้น ถูกนำมาใช้เข้าด้วยกันอย่างไม่เป็นระเบียบเลย</Content>
         </Dialog>
         <Dialog ID="4" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -2842,7 +2842,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland12</VoiceFile>
-          <Content>รู้อะไรไหม มีอย่างนึงที่ทำให้ฉันสงสัย มัลคุธบอกว่าพวกนาย เป็นส่วนหนึ่งของโปรเจคหนึ่ง ที่มีเป้าหมายในการช่วยเหลือ มนุษยชาติใช่มั้ย?</Content>
+          <Content>รู้อะไรไหม มีอย่างนึงที่ทำให้ฉันสงสัย มัลคุธบอกว่าพวกนาย เป็นส่วนหนึ่งของโปรเจคหนึ่ง ที่มีเป้าหมายในการช่วยเหลือ มนุษยชาติถูกมั้ย?</Content>
         </Dialog>
         <Dialog ID="23" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -2854,19 +2854,19 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland13</VoiceFile>
-          <Content>จริงๆแล้ว การช่วยเหลือแบบนั้นมันคืออะไรกันแน่?</Content>
+          <Content>จริงๆแล้ว การช่วยเหลือแบบนั้นน่ะ มันคืออะไรกันแน่ล่ะ?</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland14</VoiceFile>
-          <Content>ทำให้เงินตกเป็นฝนมาจากท้องฟ้า หรืออะไรซักอย่างแบบนั้นก็ได้ น่าจะช่วยทุกคนได้แน่ๆเลยนะ</Content>
+          <Content>ทำให้เงินตกเป็นฝนมาจากท้องฟ้า หรืออะไรซักอย่างแบบนั้นก็ได้นะ น่าจะช่วยทุกคนได้แน่ๆเลย</Content>
         </Dialog>
         <Dialog ID="26" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod14</VoiceFile>
-          <Content>เรื่องนี้ไม่ควรที่จะเทียบ กับเรื่องไร้สาระแบบนั้นได้หรอกนะ</Content>
+          <Content>เรื่องนี้ไม่ควรที่จะเอาไปเทียบ กับเรื่องไร้สาระแบบนั้นได้หรอก</Content>
         </Dialog>
         <Dialog ID="27" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -2890,7 +2890,7 @@
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod17</VoiceFile>
-          <Content>เธอบอกว่าทุกคนที่อยู่ในเมืองมีโรคทางจิตใจที่ย่ำแย่</Content>
+          <Content>เธอบอกว่าทุกคนที่อยู่ในเมืองมีโรคร้ายในจิตใจ</Content>
         </Dialog>
         <Dialog ID="31" Model="예소드">
           <Teller>เยซอทด์</Teller>
@@ -3019,37 +3019,37 @@
           <Teller>บินาห์</Teller>
           <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah1</VoiceFile>
-          <Content>Fatigued already? What a shame, my employees and I are up for more.</Content>
+          <Content>เหนื่อยแล้วหรอ? น่าเสียดายจังน้า~ ทั้งฉันและพนักงานของฉันยังไหวอยู่น่ะ</Content>
         </Dialog>
         <Dialog ID="52" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Yesod_ep3_gebura2</VoiceFile>
-          <Content>Don’t be ridiculous. I’ll kill you for sure this time.</Content>
+          <Content>อย่ามาพูดไร้สาระน่า คราวนี้แหละฉันจะฆ่าเธออย่างแน่นอน</Content>
         </Dialog>
         <Dialog ID="53" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>เซฟิราร์หน่วยข่าวกรอง</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod32</VoiceFile>
-          <Content>บินาห์! Not even you will manage to break through our combined effort.</Content>
+          <Content>บินาห์! แม้จะเป็นเธอก็ไม่อาจทำลายความพยายามร่วมกันของพวกเราได้หรอก</Content>
         </Dialog>
         <Dialog ID="54" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah2</VoiceFile>
-          <Content>You raise a valid concern. It is true, even I cannot stop all of you in such a short time.</Content>
+          <Content>นายพูดถูกแล้วล่ะ แม้แต่ฉันก็คงไม่อาจหยุดพวกนายทุกคนในเวลาอันสั้นได้</Content>
         </Dialog>
         <Dialog ID="55" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah3</VoiceFile>
-          <Content>We will need to act quickly, Angela.</Content>
+          <Content>เราจำเป็นต้องรีบหน่อยนะ แองเจล่า</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Yesod_ep3_angela1</VoiceFile>
-          <Content>I was just about to do something about it.</Content>
+          <Content>ฉันกำลังจัดการกับเรื่องนี้อยู่</Content>
         </Dialog>
         <Dialog ID="57" Model="NONE">
           <Teller>NONE</Teller>
@@ -3057,10 +3057,10 @@
           <Content />
         </Dialog>
         <Dialog ID="58" Model="헤세드">
-          <Teller>Chesed</Teller>
+          <Teller>เชเซ็ด</Teller>
           <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Yesod_ep3_chesed1</VoiceFile>
-          <Content>Aw, shucks! The Qliphoth Deterrence is being lowered. She’s overriding my authority on the system…</Content>
+          <Content>อ้าวเฮ้ย! การป้องกันคลิฟอธกำลังถูกลดระดับลง เธอแย่งสิทธิ์ควบคุมระบบของฉันไป…</Content>
         </Dialog>
         <Dialog ID="59" Model="NONE">
           <Teller>NONE</Teller>
@@ -3071,127 +3071,127 @@
           <Teller>เน็ตซัค</Teller>
           <Title>เซฟิราร์หน่วยรักษา</Title>
           <VoiceFile>ch8_Yesod_ep3_netzach1</VoiceFile>
-          <Content>The Abnormalities are breaching…</Content>
+          <Content>แอบนอร์มาลิตี้กำลังแหกออกมาแล้วล่ะ…</Content>
         </Dialog>
         <Dialog ID="61" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth1</VoiceFile>
-          <Content>All Sephirot and personnel, please follow my lead!</Content>
+          <Content>เซฟิร่าและบุคลากรทุกท่าน โปรดปฏิบัติตามคำสั่งของฉันด้วยค่ะ!</Content>
         </Dialog>
         <Dialog ID="62" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth2</VoiceFile>
-          <Content>The Control Team will be in command now!</Content>
+          <Content>ขณะนี้ทีมควบคุมจะขอเป็นคนสั่งการ!</Content>
         </Dialog>
         <Dialog ID="63" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth3</VoiceFile>
-          <Content>Hokma and the Architecture Team, please stop Angela from taking over all the systems!</Content>
+          <Content>ฮ็อคมาและทีมสถาปัตยกรรม โปรดหยุดแองเจล่าจากการเข้าควบคุม ระบบทั้งหมดด้วยค่ะ!</Content>
         </Dialog>
         <Dialog ID="64" Model="호크마">
           <Teller>Hokma</Teller>
           <Title>เซฟิราร์หน่วยทะเบียน</Title>
           <VoiceFile>ch8_Yesod_ep3_hokma1</VoiceFile>
-          <Content>Understood.</Content>
+          <Content>รับทราบ</Content>
         </Dialog>
         <Dialog ID="65" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth4</VoiceFile>
-          <Content>เกบูรา and the Disciplinary Team, please keep บินาห์ at bay!</Content>
+          <Content>เกบูรา และทีมวินัย โปรดช่วยหยุดบินาห์ไว้ก่อน!</Content>
         </Dialog>
         <Dialog ID="66" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Yesod_ep3_gebura3</VoiceFile>
-          <Content>You bet… Leave this to me.</Content>
+          <Content>ได้… ให้เป็นหน้าที่ฉันเอง</Content>
         </Dialog>
         <Dialog ID="67" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth5</VoiceFile>
-          <Content>Hod and the Training Team, provide the employees with the right manual and information!</Content>
+          <Content>ฮ็อด และทีมฝึกซ้อม โปรดจัดเตรียมคู่มือและข้อมูลที่เหมาะสม กับสถานการณ์ให้กับพนักงานด้วยค่ะ!</Content>
         </Dialog>
         <Dialog ID="68" Model="호드">
           <Teller>ฮ็อด</Teller>
           <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Yesod_ep3_hod1</VoiceFile>
-          <Content>Attention to all employees! This is a type-X emergency protocol.</Content>
+          <Content>พนักงานทั้งหมดโปรดฟัง! นี่คือระเบียบการฉุกเฉินประเภท X ค่ะ</Content>
         </Dialog>
         <Dialog ID="69" Model="호드">
           <Teller>ฮ็อด</Teller>
           <Title>เซฟิราร์หน่วยอบรม</Title>
           <VoiceFile>ch8_Yesod_ep3_hod2</VoiceFile>
-          <Content>Please act accordingly to the following instructions!</Content>
+          <Content>โปรดปฏิบัติตามคำแนะนำต่อไปนี้!</Content>
         </Dialog>
         <Dialog ID="70" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth6</VoiceFile>
-          <Content>Netzach and the Safety Team, please focus on treating the wounded.</Content>
+          <Content>เน็ตซัค และทีมรักษาความปลอดภัย โปรดให้ความสำคัญกับการรักษาผู้บาดเจ็บ</Content>
         </Dialog>
         <Dialog ID="71" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>เซฟิราร์หน่วยรักษา</Title>
           <VoiceFile>ch8_Yesod_ep3_netzach2</VoiceFile>
-          <Content>Aight. I’ll try to take care of ‘em as quickly as I can.</Content>
+          <Content>ได้เลย ฉันจะพยายามดูแลพวกเขา ให้เร็วที่สุดเท่าที่จะทำได้นะ</Content>
         </Dialog>
         <Dialog ID="72" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth7</VoiceFile>
-          <Content>Yesod and the Information Team, please identify the weaknesses of the escaping Abnormalities right away!</Content>
+          <Content>เยซอทด์ และทีมสารสนเทศ โปรดระบุจุดอ่อนของแอบนอร์มาลิตี้ ที่กำลังจะหลบหนีโดยเร็วที่สุดค่ะ!</Content>
         </Dialog>
         <Dialog ID="73" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>เซฟิราร์หน่วยข่าวกรอง</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod33</VoiceFile>
-          <Content>I will analyze them all with the utmost precision.</Content>
+          <Content>ได้ ฉันจะวิเคราะห์พวกมันทั้งหมดด้วยความแม่นยำที่สุด</Content>
         </Dialog>
         <Dialog ID="74" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth8</VoiceFile>
-          <Content>Chesed and the Welfare Team, please work on restoring the Qliphoth Deterrence as soon as possible.</Content>
+          <Content>เชเซ็ด และทีมสวัสดิการ โปรดทำการฟื้นฟูระบบป้องกันคลิฟอธ โดยเร็วที่สุดเท่าที่เป็นไปได้ด้วยค่ะ</Content>
         </Dialog>
         <Dialog ID="75" Model="헤세드">
-          <Teller>Chesed</Teller>
+          <Teller>เชเซ็ด</Teller>
           <Title>เซฟิราร์ทีมสวัสดิการ</Title>
           <VoiceFile>ch8_Yesod_ep3_chesed2</VoiceFile>
-          <Content>Will do. This one is my fault, after all…</Content>
+          <Content>ได้สิ เรื่องนี้ก็เป็นความผิดของฉัน ตั้งแต่แรกอยู่แล้ว…</Content>
         </Dialog>
         <Dialog ID="76" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth9</VoiceFile>
-          <Content>No time to feel guilty, Chesed!</Content>
+          <Content>ไม่มีเวลารู้สึกผิดแล้ว เชเซ็ด!</Content>
         </Dialog>
         <Dialog ID="77" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>เซฟิราร์หน่วยควบคุม</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth10</VoiceFile>
-          <Content>Tiphereth and the Central Command Team, please support everyone with your resourcefulness!</Content>
+          <Content>ทิฟาเรธ และทีมควบคุมส่วนกลาง โปรดสนับสนุนทุกคนด้วยการตัดสินใจที่เหมาะสม!</Content>
         </Dialog>
         <Dialog ID="78" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
           <Title>เซฟิราร์หน่วยสั่งการกลาง</Title>
           <VoiceFile>ch8_Yesod_ep3_tiphereth1</VoiceFile>
-          <Content>I was gonna! No need to say it!</Content>
+          <Content>ฉันกำลังจะทำอยู่แล้วละน่า! ไม่ต้องย้ำ!</Content>
         </Dialog>
         <Dialog ID="79" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah4</VoiceFile>
-          <Content>It brings me joy to see you all act in such coordination.</Content>
+          <Content>มันทำให้ฉันมีความสุขจังเลยน้า ที่ได้เห็นพวกเธอร่วมมือกันน่ะ</Content>
         </Dialog>
         <Dialog ID="80" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>เซฟิราร์ทีมสกัด</Title>
           <VoiceFile>ch8_Yesod_ep3_binah5</VoiceFile>
-          <Content>Now, try and stop us till the end.</Content>
+          <Content>ตอนนี้ก็ลองหยุดเรา ให้จนถึงที่สุดดูสิ</Content>
         </Dialog>
       </Place>
       <Place>
@@ -3200,121 +3200,121 @@
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod34</VoiceFile>
-          <Content>You will never understand. How we desperately struggled to stop her from snuffing out our light.</Content>
+          <Content>นายไม่มีวันจะเข้าใจหรอก ว่าพวกเราพยายามดิ้นรนอย่างสิ้นหวังกันแค่ไหน เพื่อหยุดยัยนั้นไม่ให้ดับแสงสว่างของพวกเรา</Content>
         </Dialog>
         <Dialog ID="82" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod35</VoiceFile>
-          <Content>And the guilt we feel from compromising at the end.</Content>
+          <Content>และความรู้สึกผิดจากการที่ต้อง ยอมจำนนในตอนท้ายนั้นอีกด้วย</Content>
         </Dialog>
         <Dialog ID="83" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland21</VoiceFile>
-          <Content>You’re right, I won’t. All I care about is helping Angela. I want her to achieve her goal, y’know.</Content>
+          <Content>นายพูดถูกแล้ว ฉันไม่เข้าใจหรอก ฉันสนใจแค่การช่วยแองเจล่า ให้เธอบรรลุเป้าหมายของเธอ  นายก็รู้อยู่นิ</Content>
         </Dialog>
         <Dialog ID="84" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod36</VoiceFile>
-          <Content>So you simply want the results, whatever the process may entail.</Content>
+          <Content>เพราะนายอยากได้แค่ผลลัพธ์ โดยที่ไม่สนวิธีการว่าจะเป็นอย่างไรก็ตาม</Content>
         </Dialog>
         <Dialog ID="85" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod37</VoiceFile>
-          <Content>You’re no different from Angela in that you only care about your own well-being.</Content>
+          <Content>นายน่ะไม่ต่างจากแองเจล่าเลย นายสนใจแค่ความพอใจของตัวเองเท่านั้น</Content>
         </Dialog>
         <Dialog ID="86" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod38</VoiceFile>
-          <Content>You’re despicable. A typical example of an inhabitant of the City, suffering from the disease of the mind.</Content>
+          <Content>นายมันน่ารังเกียจ เป็นตัวอย่างที่เห็นทั่วไปจากชาวเมือง ที่ป่วยเป็นโรคร้ายในจิตใจ</Content>
         </Dialog>
         <Dialog ID="87" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod39</VoiceFile>
-          <Content>You use the technologies the City has to offer for your immediate convenience, not knowing or caring about the sacrifices those technologies were built upon.</Content>
+          <Content>นายใช้เทคโนโลยีในเมืองที่มอบความสะดวกสบายให้กับนาย โดยที่ไม่รู้หรือสนใจเกี่ยวกับสิ่งที่ใช้สังเวย สร้างเทคโนโลยีเหล่านั้นขึ้นมา</Content>
         </Dialog>
         <Dialog ID="88" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod40</VoiceFile>
-          <Content>…Not knowing that you’re bringing about your own demise.</Content>
+          <Content>…โดยที่ไม่รู้ว่ากำลังนำตัวนายเองไปสู่ความพินาศ</Content>
         </Dialog>
         <Dialog ID="89" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland22</VoiceFile>
-          <Content>Oh, so that’s what the whole “diseased mind” thing was about?</Content>
+          <Content>อ๋อ งั้นนี่ก็คือสิ่งที่เกี่ยวกับ “โรคร้ายในจิตใจ” ที่ว่านั้นอย่างงั้นสินะ?</Content>
         </Dialog>
         <Dialog ID="90" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland23</VoiceFile>
-          <Content>I should value the process more than the result? Hah, you were a bunch of dreamers and snobs all along.</Content>
+          <Content>ฉันควรให้ความสำคัญกับวิธีการมากกว่าผลลัพธ์งั้นหรอ? เฮอะ นายเป็นพวกเพ้อฝันและชอบดูถูกมาโดยตลอดสินะ</Content>
         </Dialog>
         <Dialog ID="91" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland24</VoiceFile>
-          <Content>I bet you’re from one of the Nests.</Content>
+          <Content>ฉันพนันได้เลยว่า นายเป็นหนึ่งในคน ที่มาจากเนส</Content>
         </Dialog>
         <Dialog ID="92" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland25</VoiceFile>
-          <Content>Look, I know better than anyone about the price of those technologies and Singularities.</Content>
+          <Content>ฟังนะ ฉันรู้ดีกว่าใครๆเกี่ยวกับราคาของเทคโนโลยีเหล่านั้น และซิงกูลาลิตี้นั้นก็ด้วย</Content>
         </Dialog>
         <Dialog ID="93" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland26</VoiceFile>
-          <Content>Diseased mind my ass…</Content>
+          <Content>โรคร้ายในจิตใจ พ่อมึงสิ…</Content>
         </Dialog>
         <Dialog ID="94" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland27</VoiceFile>
-          <Content>And your point about people using Singularities without knowing how they really work?</Content>
+          <Content>แล้วประเด็นของนายที่ว่า ผู้คนใช้ซิงกูลาลิตี้ โดยไม่รู้ว่ามันทำงานยังไงนั้น?</Content>
         </Dialog>
         <Dialog ID="95" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland28</VoiceFile>
-          <Content>That’s because they literally have no other option!</Content>
+          <Content>นั่นเป็นเพราะพวกเขาไม่มีทางเลือกอื่น!</Content>
         </Dialog>
         <Dialog ID="96" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland29</VoiceFile>
-          <Content>The corporates have concealed so much the consumers eventually gave up inquiring.</Content>
+          <Content>บริษัทต่างๆ ได้ปกปิดข้อมูลไว้มากมาย จนผู้บริโภคในที่สุดก็ยอมพ้ ที่จะสอบถามหาความจริง</Content>
         </Dialog>
         <Dialog ID="97" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland30</VoiceFile>
-          <Content>Because they’re tired! They’re already too busy sustaining their everyday life!</Content>
+          <Content>พวกเขาเหนื่อย! พวกเขายุ่งมากพออยู่แล้ว กับการใช้ชีวิตในแต่ละวัน!</Content>
         </Dialog>
         <Dialog ID="98" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod41</VoiceFile>
-          <Content>It appears that I’m not getting through to you.</Content>
+          <Content>ดูเหมือนว่า เราไม่สามารถที่เข้าใจกันได้นะ</Content>
         </Dialog>
         <Dialog ID="99" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland31</VoiceFile>
-          <Content>Oh, what a coincidence. I was thinking the same thing, too.</Content>
+          <Content>โห บังเอิญจังแฮะ ฉันก็คิดแบบนั้นเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="100" Model="예소드">
           <Teller>เยซอทด์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์เทคโนโลยี</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod42</VoiceFile>
-          <Content>No matter what you say, I do not want to turn a blind eye to this reality nor conform to it.</Content>
+          <Content>ไม่ว่านายจะพูดยังไง ฉันก็จะไม่เพิกเฉยต่อความจริงนี้ หรือคล้อยตามมันหรอกนะ</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -5241,7 +5241,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Hod_ep3_gebura1</VoiceFile>
-          <Content>Hrk… And time is what matters to you most right now.</Content>
+          <Content>คึ… แลไอเวลานี่แหละเป็นเรื่องที่ต้องคิดถึงให้เยอะแล้วนะ</Content>
         </Dialog>
         <Dialog ID="61" Model="호드">
           <Teller>ฮ็อด</Teller>
@@ -5277,7 +5277,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Hod_ep3_gebura2</VoiceFile>
-          <Content>Arrrgh!</Content>
+          <Content>อ๊าคคคค!</Content>
         </Dialog>
         <Dialog ID="67" Model="비나">
           <Teller>บินาห์</Teller>
@@ -7872,13 +7872,13 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Netzach_ep3_gebura1</VoiceFile>
-          <Content>ฉันเห็นด้วยนะ เป็นแบบนี้เราไม่ชนะเธอแน่</Content>
+          <Content>ฉันเห็นด้วย ถ้าเป็นแบบนี้ต่อ เราก็คงชนะเธอไม่ได้อยู่ดี</Content>
         </Dialog>
         <Dialog ID="39" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Netzach_ep3_gebura2</VoiceFile>
-          <Content>ฉันไม่ได้สู้เธอเพื่อกระจายแสงที่มีจำนวนไม่ถึงครึ่งนะ</Content>
+          <Content>ฉันไม่ได้ต่อสู้กับเธอ เพียงเพื่อกระจายแสงที่มีไม่ถึงครึ่งนี่นะ</Content>
         </Dialog>
         <Dialog ID="40" Model="호드">
           <Teller>ฮ็อด</Teller>
@@ -8529,181 +8529,181 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep4_roland19</VoiceFile>
-          <Content>That sure sounds tragic. Must’ve shocked you hard.</Content>
+          <Content>ฟังดูน่าเศร้าแฮะ นายคงช็อคน่าดูเลยสิท่า</Content>
         </Dialog>
         <Dialog ID="61" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach43</VoiceFile>
-          <Content>I could take it somewhat well. I was actually pretty calm about it.</Content>
+          <Content>ฉันก็พอรับได้อยู่ ที่จริงฉันรู้สึกค่อนข้างใจเย็นด้วยซ้ำ</Content>
         </Dialog>
         <Dialog ID="62" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach44</VoiceFile>
-          <Content>I thought, even the person who was more alive than anyone could meet such an early and miserable end.</Content>
+          <Content>ฉันคิดว่า แม้แต่คนที่มีชีวิตมากกว่าใครก็สามารถจบอนาถก่อนวัยอันควรได้</Content>
         </Dialog>
         <Dialog ID="63" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach45</VoiceFile>
-          <Content>I decided to stay in the laboratory to help out with completing the research Carmen started.</Content>
+          <Content>ฉันเลยตัดสินใจอยู่ที่แล็บเพื่อช่วยทำงานวิจัยที่คาร์เมนเริ่มไว้ให้สำเร็จ</Content>
         </Dialog>
         <Dialog ID="64" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach46</VoiceFile>
-          <Content>Her colleagues were still there, and they didn’t lose hope just yet.</Content>
+          <Content>เพื่อนร่วมงานของเธอก็ยังอยู่ และยังไม่เสียความหวังไป</Content>
         </Dialog>
         <Dialog ID="65" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach47</VoiceFile>
-          <Content>Then one day, they said we might possibly be able to save Carmen.</Content>
+          <Content>แต่วันนึง เขาบอกว่าเราอาจสามารถช่วยคาร์เมนได้</Content>
         </Dialog>
         <Dialog ID="66" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep4_roland20</VoiceFile>
-          <Content>A tempting offer, wasn’t it?</Content>
+          <Content>เป็นข้อเสนอที่เย้ายวนนะ ว่าไหม?</Content>
         </Dialog>
         <Dialog ID="67" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach48</VoiceFile>
-          <Content>It was. And…</Content>
+          <Content>ก็ใช่ และ…</Content>
         </Dialog>
         <Dialog ID="68" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep4_roland21</VoiceFile>
-          <Content>I’m guessing it came at a price.</Content>
+          <Content>ฉันเดาว่ามันมีราคาที่ต้องจ่ายสินะ</Content>
         </Dialog>
         <Dialog ID="69" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach49</VoiceFile>
-          <Content>It was a risky experiment. The subject could slip into a permanent coma if it went wrong.</Content>
+          <Content>มันเป็นการทดลองที่เสี่ยง ตัวทดลองอาจถึงขั้นโคม่าถาวรได้ถ้าผิดพลาดอะไร</Content>
         </Dialog>
         <Dialog ID="70" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach50</VoiceFile>
-          <Content>No one was willing to participate, so I volunteered to be the subject.</Content>
+          <Content>ไม่มีใครกล้าเข้าร่วม ฉันเลยอาสาเป็นตัวทดลองเอง</Content>
         </Dialog>
         <Dialog ID="71" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach51</VoiceFile>
-          <Content>Carmen coming back would’ve been the ideal outcome, but even if it failed and I ended up sleeping forever, I was okay with that.</Content>
+          <Content>การที่คาร์เมนกลับมาจะเป็นผลในอุดมคติ แต่ถึงแม้มันจะล้มเหลวและฉันจะหลับไปตลอดกาล ก็ไม่เป้นไร</Content>
         </Dialog>
         <Dialog ID="72" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach52</VoiceFile>
-          <Content>In a world without Carmen, I lost my light anyway.</Content>
+          <Content>ในโลกที่ไร้คาร์เมน ฉันก็หมดแสงไปแล้ว</Content>
         </Dialog>
         <Dialog ID="73" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach53</VoiceFile>
-          <Content>So I can understand people taking desperate measures to find meaning in their lives, like the Church of Gears we recently saw.</Content>
+          <Content>เพื่อที่ฉันจะเข้าใจผู้คนที่กระเสือกกระสนหาความหมายในชีวิต เหมือนดั่งนิกายฟันเฟืองที่เพิ่งเห็นไป</Content>
         </Dialog>
         <Dialog ID="74" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach54</VoiceFile>
-          <Content>I participated in an experiment that could get me killed for a similar reason. And its result was…</Content>
+          <Content>ฉันเข้าร่วมในการทดลองที่อาจฆ่าฉันได้ด้วยเหตุผลคล้ายคลึงกัน และผลของมันคือ…</Content>
         </Dialog>
         <Dialog ID="75" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep4_roland22</VoiceFile>
-          <Content>A failure, huh?</Content>
+          <Content>ล้มเหลวสินะ?</Content>
         </Dialog>
         <Dialog ID="76" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach55</VoiceFile>
-          <Content>Yep. Then I was given a second life. Woke up in Lobotomy Corp. as Netzach.</Content>
+          <Content>ใช่ จากนั้นฉันจึงได้ชีวิตที่สอง ตื่นขึ้นมาในโลโบโตมี คอร์ป ในฐานะเน็ตซัค</Content>
         </Dialog>
         <Dialog ID="77" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach56</VoiceFile>
-          <Content>Even though I had already abandoned all attachment to life before I died…</Content>
+          <Content>ถึงแม้ฉันจะทิ้งสิ่งยึดเหนื่ยวกับชีวิตไปหมดก่อนตายแล้วก็ตาม…</Content>
         </Dialog>
         <Dialog ID="78" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach57</VoiceFile>
-          <Content>In the midst of confusion, I could hear a nostalgic voice. It told me to try and live on.</Content>
+          <Content>ในช่วงเวลาอันสับสน ฉันได้ยินเสียงอันคุ้นเคย มันบอกให้ฉันพยายามใช้ชีวิตต่อไป</Content>
         </Dialog>
         <Dialog ID="79" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach58</VoiceFile>
-          <Content>After all those twists and turns, I finally got here. Now with the fearlessness to keep on living.</Content>
+          <Content>หลังจากผ่านฝ่าขวากหนามไปได้ ฉันก็ได้มาอยู่ที่นี่ พร้อมกับความไม่กลัวที่จะมีชีวิตต่อไป</Content>
         </Dialog>
         <Dialog ID="80" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep4_roland23</VoiceFile>
-          <Content>That’s a commendable spirit, Netz.</Content>
+          <Content>ใจนายถึงดีนี่ เน็ตซ์</Content>
         </Dialog>
         <Dialog ID="81" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach59</VoiceFile>
-          <Content>And now, I want to actually live, rather than just barely exist while doing nothing but breathe.</Content>
+          <Content>และตอนนี้ ฉันอยากจะมีชีวิตจริงๆ ไม่ใช่การมีตัวตนแค่หายใจทิ้งขว้างโดยไม่ทำอะไร</Content>
         </Dialog>
         <Dialog ID="82" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach60</VoiceFile>
-          <Content>If I get a chance to, that is.</Content>
+          <Content>ถ้าฉันมีโอกาสได้ทำนะ</Content>
         </Dialog>
         <Dialog ID="83" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach61</VoiceFile>
-          <Content>I’m starting to think it might actually be possible this time around.</Content>
+          <Content>ฉันเริ่มที่จะคิดว่าครั้งนี้อาจเป็นไปได้จริง</Content>
         </Dialog>
         <Dialog ID="84" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach62</VoiceFile>
-          <Content>The world is bigger than I expected, and it has lots of hideous sides, but there certainly is beauty to be found.</Content>
+          <Content>โลกมันใหญ่กว่าที่ฉันคาดไว้ และมันก็มีด้านที่น่าเกลียดอยู่มาก แต่ว่าก็มีความงามให้หาอยู่แน่นอน</Content>
         </Dialog>
         <Dialog ID="85" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep4_roland24</VoiceFile>
-          <Content>I guess your drinking habit was a coping mechanism to get you through each day.</Content>
+          <Content>ฉันเดาว่านิสัยดื่มเหล้าของนายเป็นการรับมือปัญหาให้ตัวเองผ่านแต่ละวันสินะ</Content>
         </Dialog>
         <Dialog ID="86" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach63</VoiceFile>
-          <Content>Pretty much. I do enjoy alcohol for what it is, though.</Content>
+          <Content>ประมาณนั้น ฉันก็ดื่มแอลกอฮอล์เพราะอยากดื่มจริงๆ อยู่นะ</Content>
         </Dialog>
         <Dialog ID="87" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep4_roland25</VoiceFile>
-          <Content>Same for me.</Content>
+          <Content>เช่นกัน</Content>
         </Dialog>
         <Dialog ID="88" Model="네짜흐">
           <Teller>เน็ตซัค</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ศิลปศาสตร์</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach64</VoiceFile>
-          <Content>I feel like a drink now. Shall we?</Content>
+          <Content>ฉันอยากจะดื่มสักแก้วแล้ว สนใจไหม?</Content>
         </Dialog>
         <Dialog ID="89" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Netzach_ep4_roland26</VoiceFile>
-          <Content>I’m all for it! Cheers for today.</Content>
+          <Content>เอาด้วยว่ะ! วันนี้ชนแก้วกัน</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -10134,7 +10134,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth8-01</VoiceFile>
-          <Content>และบรรณารักษ์ทั้งหมดก็เป็นตัวตนที่เกิดใหม่จากโลโบโตมี่คอเปอร์เรชั่น หัวหน้าบรรณารักษ์คือเซฟิรอธ ผู้ช่วยบรรณารักษ์คือพนักงาน</Content>
+          <Content>และบรรณารักษ์ทั้งหมดก็เป็นตัวตนที่เกิดใหม่จากโลโบโตมี่คอเปอร์เรชั่น หัวหน้าบรรณารักษ์คือเซฟิร่า ผู้ช่วยบรรณารักษ์คือพนักงาน</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -10152,7 +10152,7 @@ I appreciate your help, everyone.</Content>
           <Teller>ทิฟาเรธ</Teller>
           <Title>หัวหน้าบรรณารักษ์ - วิทยาศาสตร์ธรรมชาติ</Title>
           <VoiceFile>ch8_Tiphereth_ep3_Tiphereth10-01</VoiceFile>
-          <Content>แองเจล่าก็รักษาสัญญา แต่ไม่ใช่แค่เซฟิรอธกับพนักงานที่กลับมา</Content>
+          <Content>แองเจล่าก็รักษาสัญญา แต่ไม่ใช่แค่เซฟิร่ากับพนักงานที่กลับมา</Content>
         </Dialog>
         <Dialog ID="17" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
@@ -11283,7 +11283,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep1_gebura4</VoiceFile>
-          <Content>อืม… จะพูดว่าหลับก็ไม่ค่อยเ๖้มปากเท่าไหร่</Content>
+          <Content>อืม… จะพูดว่าหลับก็ไม่ค่อยเต็มปากเท่าไหร่</Content>
         </Dialog>
         <Dialog ID="7" Model="게부라">
           <Teller>เกบูร่า</Teller>
@@ -12430,13 +12430,13 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_18-01</VoiceFile>
-          <Content>Right. Carmen was from the Nest, but she wasn’t afraid to hang around the Backstreets to give her fervent speech.</Content>
+          <Content>คนนั้นแหละ คาเมนเป็นคนที่มาจาก Nest แต่ใช่ว่าเธอก็ไม่ใช่คนที่จะกลัวหัวหดกับการเตร็ดเตร่ใน Backstreets เพื่อปราศัยอัไรของเธอนั่นแหละ</Content>
         </Dialog>
         <Dialog ID="29" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_19-01</VoiceFile>
-          <Content>She wasn’t gonna last long if she kept that up, if we’re being honest.</Content>
+          <Content>ให้พูดจากใจจริง เธอไม่น่าอายุยืนแน่ๆ ถ้าทำแบบนั้นต่อน่ะ</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12448,79 +12448,79 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_20-01</VoiceFile>
-          <Content>Not a chance. I wasn’t naive enough to serve anyone without payment.</Content>
+          <Content>ชาติหน้าเหอะ ฉันไม่ได้ซื่อบื้อพอที่จะช่วยงานใครแบบฟรีๆ เสียหน่อย</Content>
         </Dialog>
         <Dialog ID="32" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_21-01</VoiceFile>
-          <Content>I simply wondered just what exactly a Nest dweller would know about the agonies of the City to be so passionate about the matter.</Content>
+          <Content>ฉันแค่สงสัยว่าว่าพวกหัวหดจาก Nest จะรู้อะไรแค่ไหนกับเรื่องอัดอั้นใน The City นี้ จนถึงขั้นต้องมาออกแรงแบบนี้กันเชียว</Content>
         </Dialog>
         <Dialog ID="33" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_22-01</VoiceFile>
-          <Content>She brazenly went on about her absurd claim that she can break the ever-repeating cycle of suffering that goes on in the City.</Content>
+          <Content>เธอพล่ามปากออกมาได้ ว่าสามารถทำลายไอวัฏจักรอุบาทแห่งความสาหัสใน The City นี้ได้</Content>
         </Dialog>
         <Dialog ID="34" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_23</VoiceFile>
-          <Content>I got mad that some dweeb was spouting off like she understood everything.</Content>
+          <Content>ฉันโกรธเป็นฟืนเป็นไฟกับคนแบบนั้นที่พูดเหมือนรู้ไปซะทุกเรื่องสุดๆ เลยล่ะ</Content>
         </Dialog>
         <Dialog ID="35" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_24</VoiceFile>
-          <Content>So I grabbed her and snapped at her. “How dare you rattle on about that! What do you know about the pain and suffering people in the Backstreets go through?!” I yelled.</Content>
+          <Content>ฉันก็เข้าไปคว้าคอเสื้อแล้วตะคอกใส่ไปว่า “กล้าดียังไงถึงพล่ามอยู่ได้! รู้รึไงว่าคนใน Backstreets ต้องทนทุกข์ผ่านร้อนหนาวมามากแค่ไหนกันเชียวห๊ะ?!”</Content>
         </Dialog>
         <Dialog ID="36" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_25</VoiceFile>
-          <Content>I thought Carmen would whimper on the verge of tears, but she instead kept a straight face and retorted with a question.</Content>
+          <Content>แว๊บแรก คิดว่าคาเมนจะงอแงหางจุกตูดหนีไปแล้วด้วยซ้ำ แต่กลับมองกระแทกตาขึ้นมาแล้วถามสวนกลับใส่</Content>
         </Dialog>
         <Dialog ID="37" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_26</VoiceFile>
-          <Content>“What do you know about the pain in the Nest, then?”</Content>
+          <Content>“แล้วเธอล่ะ รู้อะไรเกี่ยวกับความเจ็บปวดใน Nest บ้าง?”</Content>
         </Dialog>
         <Dialog ID="38" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_27</VoiceFile>
-          <Content>She said she’ll tell me all about the pain and agony of the Nest, so I should teach her about the suffering of the Backstreets in return.</Content>
+          <Content>เธอตกลงกับฉันว่า เธอจะเล่าความเจ็บปวดที่เจอใน Nest ให้ฉันฟัง แลกกับให้ฉันเล่าความทรมาณที่เจอได้ใน Backstreets ให้เธอฟังบ้างแทน</Content>
         </Dialog>
         <Dialog ID="39" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_28-01</VoiceFile>
-          <Content>She was so shameless. I didn’t like how she acted so brash for someone so weak.</Content>
+          <Content>คาเมนเป็นคนที่เรียกได้ว่าหน้าไม่อายสุดๆ ฉันล่ะเกลียดการที่เธอทำตัวหน้าทนทายาด ทั้งที่เปราะบางอ่อนแอแท้ๆ</Content>
         </Dialog>
         <Dialog ID="40" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_29-01</VoiceFile>
-          <Content>Her eyes and voice, on the other hand, carried a certain energy.</Content>
+          <Content>กลับกัน ทั้งนัยตา ทั้งเสียง เธอเป็นคนที่มุ่งมั่นแรงใจไร้ที่ติ</Content>
         </Dialog>
         <Dialog ID="41" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_30</VoiceFile>
-          <Content>She said even the weakest people could gain the power to easily topple the Head if they set their mind to it.</Content>
+          <Content>เธอพูดด้วยซ้ำ ว่าคนที่อ่อนแอที่สุดนี่แหละจะได้พลังมากดหัวพวก The Head ได้ง่ายๆ ถ้าตั้งใจน่ะ</Content>
         </Dialog>
         <Dialog ID="42" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_31-01</VoiceFile>
-          <Content>That she will give everyone the therapy to grant such power and mindset.</Content>
+          <Content>เธอว่า เธอจะบำบัดจิตคนเพื่อให้ได้มาทั้งพลังและความคิดแบบนั้น</Content>
         </Dialog>
         <Dialog ID="43" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_32-01</VoiceFile>
-          <Content>She gave me her card, telling me to come over if I was interested.</Content>
+          <Content>จากนั้น เธอกก็ให้นามบัตรมา แล้วบอกฉันให้ติดต่อไปถ้าสนใจน่ะ</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12532,7 +12532,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_33-01</VoiceFile>
-          <Content>Yep, I was a Grade 2 back then.</Content>
+          <Content>อ่า ใช่ ตอนนั้นฉันเกรด 2</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12544,7 +12544,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_34-01</VoiceFile>
-          <Content>No, I believed her because I was that experienced, actually. I’d met countless swindlers and hacks in my life, but something about Carmen told me that she wasn’t one of them.</Content>
+          <Content>ผิดละ ฉันเชื่อเพราะพอมีประสบการณ์ูคนได้เท่านั้นแหละ เจอพวกหลอกลวงต้มตุ๋นมาเยอะ แต่กับคาเมน มันให้ความรู้สึกว่าเธอไม่ใช่น่ะ</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12556,19 +12556,19 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_35</VoiceFile>
-          <Content>Anyways, I decided to count on Carmen.</Content>
+          <Content>แต่ถึงจะแบบไหนกก็เถอะ ฉันก็ตัดสินใจจะฝากความหวังไว้กับคาเมน</Content>
         </Dialog>
         <Dialog ID="50" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_36-01</VoiceFile>
-          <Content>If I could protect this person, maybe this world might change.</Content>
+          <Content>โลกคงมีอะไรเปลี่ยนบ้างสักนิด ถ้าเกิดฉันปกป้องเธอเอาไว้ล่ะนะ</Content>
         </Dialog>
         <Dialog ID="51" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_37-01</VoiceFile>
-          <Content>Maybe fewer people would have to suffer the same kind of pain I did.</Content>
+          <Content>บางที ก็จะได้มีคนผ่านร้อนหนาวแบบฉันน้อยลงสักนิดบ้างล่ะมัง</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12586,13 +12586,13 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_38-01</VoiceFile>
-          <Content>Those were just extras.</Content>
+          <Content>อันนั้นมันของแถมจากงานมากกว่า</Content>
         </Dialog>
         <Dialog ID="55" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep4_Gebura_39</VoiceFile>
-          <Content>Doing meaningful work was enough for me.</Content>
+          <Content>ได้งานที่มีความหมายก็พอแล้วสำหรับฉันน่ะ</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12634,13 +12634,13 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_1-02</VoiceFile>
-          <Content>The Book of the Red Mist…</Content>
+          <Content>หนังสือของหมอกแดง…</Content>
         </Dialog>
         <Dialog ID="1" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_2-04</VoiceFile>
-          <Content>I was called that back then… Meeting my past self in person reminded me of a lot of things.</Content>
+          <Content>ชื่อนี้คิดถึงจริง เมื่อกก่อนถูกเรียกแบบนั้น… ตัวฉันในอดีตทำให้นึกอะไรได้หลายๆ อย่างเลยล่ะ</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12652,13 +12652,13 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_3_b</VoiceFile>
-          <Content>I certainly brandished my blade trying to protect many friends and colleagues.</Content>
+          <Content>ฉันได้เลือกไปแล้ว ว่าจะแกว่งดาบเพื่อปกป้องทั้งเพื่อนๆ และเพื่อนร่วมงานของฉัน</Content>
         </Dialog>
         <Dialog ID="4" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_4-03</VoiceFile>
-          <Content>Even if I couldn’t meet the expectations; even if I couldn’t save them all.</Content>
+          <Content>ต่อให้ทำไม่ได้อย่างหวังก็ตาม; ต่อให้ปกป้องไม่ได้ทั้งหมดก็ตาม</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12676,13 +12676,13 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_5</VoiceFile>
-          <Content>Kali the Red Mist, เกบูรา the Sephirah in L Corp, and my present self—a librarian…</Content>
+          <Content>Kali หมอกแดง, เกบูรา เซฟิราร์ของโลโบโตมี่คอร์ป, และตัวฉันที่เป็นบรรณารักษ์…</Content>
         </Dialog>
         <Dialog ID="8" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_6-02</VoiceFile>
-          <Content>My three lives may not have been the same, but my spirit has carried over.</Content>
+          <Content>ถึงสามชีวิตนี้จะไม่ใช่หนึ่งเดียวกัน แต่จิตวิญญาณก็ยังถูกส่งต่อกันอยู่</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12694,19 +12694,19 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_7-03</VoiceFile>
-          <Content>Not really. I do think it’s laughable, though.</Content>
+          <Content>ไม่เชิง ฉันว่ามันน่าหัวเราะมากกว่า</Content>
         </Dialog>
         <Dialog ID="11" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_8-05</VoiceFile>
-          <Content>I failed to protect everyone and ended up here like this.</Content>
+          <Content>ฉันพลาดกับการปกป้องทุกคน และมาลงเอยแบบนี้แท้ๆ</Content>
         </Dialog>
         <Dialog ID="12" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_9-04</VoiceFile>
-          <Content>Still, I can say for sure that I did my best.</Content>
+          <Content>ถึงอย่างนั้น ฉันก็พูดได้ว่าใส่เต็มสุดแล้วละกัน</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12724,31 +12724,31 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_10_b</VoiceFile>
-          <Content>…She’s probably still wandering herself.</Content>
+          <Content>…เธอเองก็น่าจะยังคิดเกี่ยวกับเรื่องนี้อยู่นั่นแหละ</Content>
         </Dialog>
         <Dialog ID="16" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_11-01</VoiceFile>
-          <Content>Thinking about everything she went through, I honestly can’t blame her so harshly for doing what she did.</Content>
+          <Content>คิดถึงทุกอย่างที่เธอข้ามผ่านมา หลายสิ่งหลายอย่าง ให้โทษดื้อกับสิ่งที่ทำก็ไม่ได้หรอก</Content>
         </Dialog>
         <Dialog ID="17" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_12</VoiceFile>
-          <Content>So I want to reserve my judgement until I’ve seen for myself the end of the path she’s taking.</Content>
+          <Content>เพราะงั้นฉันก็อยากเกก็บคำตัดสินฉันไว้จนกว่าจะเห็นตัวเลือกที่เธอเลือกได้ด้วยตาฉันเองนั่นแหละ</Content>
         </Dialog>
         <Dialog ID="18" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_13</VoiceFile>
-          <Content>If I unleashed my rage at her now, nothing would change.</Content>
+          <Content>ต่อให้ฉันโกรธและไล่ขยี้ไปตอนนี้ ก็ไม่มีอะไรเปลี่ยนหรอก</Content>
         </Dialog>
         <Dialog ID="19" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_14-01</VoiceFile>
-          <Content>It’ll only perpetuate the chain of fury and vengeance.</Content>
+          <Content>มันก็ได้แค่สืบต่อวิบากของความโกรธและความแค้นไปเรื่อยๆ เท่านั้น</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -12766,13 +12766,13 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_16</VoiceFile>
-          <Content>I’d be lying if I said I didn’t feel any anger or regret.</Content>
+          <Content>ถ้าบอกว่าฉันไม่โกกรธหรือไม่เสียใจ ก็คงโกหก</Content>
         </Dialog>
         <Dialog ID="23" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_18-01</VoiceFile>
-          <Content>Even though I couldn’t protect everyone, I saved the ones I could.</Content>
+          <Content>ถึงจะปกป้องไม่ได้ทุกคน อย่างน้อยฉันก็ปกป้องคนๆ นึงได้</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13204,7 +13204,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_21</VoiceFile>
-          <Content>I guess my past self in Lobotomy Corp. wasn’t too different from Roland just now.</Content>
+          <Content>ฉันว่า ตัวฉันยุคโลโบโตมี่คอร์ปก็ไม่ได้ต่างจากกโรแลนด์ตอนนี้หรอก.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -13252,7 +13252,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_22</VoiceFile>
-          <Content>…Well, don’t mind it too much. We all have our humiliating moments.</Content>
+          <Content>…ก็ อย่าถือละกัน ต่าคนต่างได้จังหวะหน้าแตกพอกันนั่นแหละ</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13264,25 +13264,25 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_23</VoiceFile>
-          <Content>Roland. I well understand where your anger comes from.</Content>
+          <Content>โรแลนด์ ฉันเข้าใจแกเกี่ยวกับที่ไปที่มาของความโกรธแกนะ</Content>
         </Dialog>
         <Dialog ID="15" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_24</VoiceFile>
-          <Content>But wrath is like a blade with the sharpest edge. If you aren’t careful with wielding it, you might end up cutting yourself before you even realize it.</Content>
+          <Content>แต่ความโกรธนี่แหละคือใบดาบที่คมที่สุด หากไม่คุมมันไว้ให้ดีแล้วล่ะก็ ใบดาบนั้นมันจะบาดมือคนใช้ก่อนคนใช้จะเห็นแผลอีกแน่</Content>
         </Dialog>
         <Dialog ID="16" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_25</VoiceFile>
-          <Content>So it’s important to hold that blade correctly.</Content>
+          <Content>เพราะงั้นแล้ว ถือใบดาบนั้นให้มั่นคงเสียก่อน</Content>
         </Dialog>
         <Dialog ID="17" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_26-03</VoiceFile>
-          <Content>And the next step would be deciding where to point your sharp blade.</Content>
+          <Content>แล้วค่อยต่อกันว่า เราจะชี้ดาบนี้ไปใส่ใคร</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13306,7 +13306,7 @@ I appreciate your help, everyone.</Content>
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_27_b-01</VoiceFile>
-          <Content>…Want a cig?</Content>
+          <Content>…สูบหน่อยไหม?</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -20534,7 +20534,7 @@ because I am certain you will never leave me.”
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Kether_ep2_Gebura1-01</VoiceFile>
-          <Content>Make no mistake, Angela. We aren’t on your side. We only share a common goal.</Content>
+          <Content>ไม่มีอะไรผิดหรอกแองเจล่า เราไม่ได้ยืนอยู่ข้างเธอ เราต่างแค่มีจุดหมายเดียวกันแค่นั้น</Content>
         </Dialog>
         <Dialog ID="3" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
@@ -20606,7 +20606,7 @@ because I am certain you will never leave me.”
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Kether_ep2_Gebura2</VoiceFile>
-          <Content>He’s right. I don’t believe that I failed to protect anything. I could save the life of someone who inherited her will.</Content>
+          <Content>เขาพูดถูกแล้ว ฉันไม่เชื่อหรอกว่าฉันปกป้องอะไรไม่ได้น่ะ อย่างน้อยฉันยังปกป้องคนที่สานต่อความคิดเธอไว้ได้แล้ว</Content>
         </Dialog>
         <Dialog ID="15" Model="티페리트">
           <Teller>ทิฟาเรธ</Teller>
@@ -20630,7 +20630,7 @@ because I am certain you will never leave me.”
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Kether_ep2_Gebura3-02</VoiceFile>
-          <Content>Sure, if that’s what you think. You only care about the feelings and agony you bear.</Content>
+          <Content>เออ เชิญเลย ถ้าคิดแบบนั้น สุดท้ายก็คิดถึงแต่ตัวเองและความโกรธตัวเองสินะ</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
