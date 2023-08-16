@@ -1,61 +1,72 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-  <!-- 아르갈리아 뒤틀림-->
-  <PassiveDesc ID="1410011">
-    <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
-    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1410012">
-    <Name>Il Direttore dell’Ensemble Riverbero</Name>
-    <Desc>While Pluto or Elena are alive, HP does not go below 100. Gain a Speed die for every other Ensemble member that died this reception.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1410013">
-    <Name>Emozioni Intensificantesi</Name>
-    <Desc>Every 4 Scenes, give all Reverberation Ensemble members 'For the duration of the Act, gain 1 Strength and Endurance every Scene'.
-At the end of the Scene, all characters' Emotion Levels rise by 2.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1410014">
-    <Name>มหรสพส่งท้าย</Name>
-    <Desc>If no other Reverberation Ensemble members are present, fully recover Stagger Resist, and use a different set of Combat Pages.</Desc>
-  </PassiveDesc>
+<!-- 아르갈리아 뒤틀림-->
+<PassiveDesc ID="1410011">
+<Name>ประกายแสง</Name>
+<Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
+เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1410012">
+<Name>Il Direttore dell’Ensemble Riverbero</Name>
+<Desc>ขณะที่ Pluto หรือ Elena ยังมีชีวิตอยู่
+HP จะไม่ลดเหลือต่ำกว่า 100
+จะได้รับลูกเต๋าความเร็วเพิ่มตามจำนวนสมาชิกวงที่ตายไปในม่านเวทีนี้</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1410013">
+<Name>Emozioni Intensificantesi</Name>
+<Desc>ในทุกๆ 4 ฉากจะมอบผล
+"ตลอดองก์นี้ ได้รับกำลังและอึดทน 1 จำนวนในทุกๆฉาก" ให้กับ
+สมาชิกวงทุกกคน
+เมื่อจบฉาก ระดับอารมณ์ของทุกตัวละครเพิ่มขึ้น 2</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1410014">
+<Name>มหรสพส่งท้าย</Name>
+<Desc>หากไม่มีสมาชิกวงคนอื่นเหลืออยู่ ฟื้นฟู Stagger Resist ทั้งหมด
+และใช้ Combat Pages ชุดใหม่</Desc>
+</PassiveDesc>
 
-  <!-- 엘레나 뒤틀림-->
-  <PassiveDesc ID="1408011">
-    <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
-    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1408012">
-    <Name>ความเร็ว</Name>
-    <Desc>Speed Dice Slot +1. Gain a Speed die on the fourth Scene. Gain an additional one if there's an enemy whose Emotion Level is 4 or higher.
-Does not gain Speed dice from Emotion Level bonuses.</Desc>
-  </PassiveDesc>
-  
-  <!-- 플루토 뒤틀림 -->
-  <PassiveDesc ID="1409011">
-    <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
-    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1409012">
-    <Name>ไร้สติ ไร้เหตุผล</Name>
-    <Desc>Every Scene, uses an 'Unjust Contract' Combat Page.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1409013">
-    <Name>เงาทมิฬ</Name>
-    <Desc>Spawns a Shade on the second Scene. The Shade gets a copy of the Patron Librarian's hand and deck (Excluding [On Play] pages). If the Patron Librarian is not present, a random other librarian's deck will be copied instead.</Desc>
-  </PassiveDesc>
-  
-  
-  <PassiveDesc ID="1409021">
-    <Name>ไร้แสงที่ชี้นำ</Name>
-    <Desc>If Pluto is not present at the end of the Scene, dies.</Desc>
-  </PassiveDesc>
-  <PassiveDesc ID="1409022">
-    <Name>เงามืดที่แกร่งกล้า</Name>
-    <Desc>Dice Power +1. Uses the Shade's Combat Page every Scene.</Desc>
-  </PassiveDesc>
+<!-- 엘레나 뒤틀림-->
+<PassiveDesc ID="1408011">
+<Name>ประกายแสง</Name>
+<Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
+เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1408012">
+<Name>ความเร็ว</Name>
+<Desc>จำนวนลูกเต๋าความเร็ว +1
+ได้รับลูกเต๋าความเร็วเพิ่มในฉากที่ 4
+ได้รับลูกเต๋าความเร็วเพิ่มอีกหากมีศัตรูที่มีระับอารมณ์ 4 หรือสูงกว่า
+จะไม่ได้รับลูกเต๋าความเร็วเพิ่มจากโบนัสระดับอารมณ์</Desc>
+</PassiveDesc>
+
+<!-- 플루토 뒤틀림 -->
+<PassiveDesc ID="1409011">
+<Name>ประกายแสง</Name>
+<Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
+เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1409012">
+<Name>ไร้สติ ไร้เหตุผล</Name>
+<Desc>ทุกๆ ฉาก จะใช้ Combat Page "สัญญาขาดดุล"</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1409013">
+<Name>เงาทมิฬ</Name>
+<Desc>อัญเชิญเงาขึ้นมาในฉากที่ 2
+เงาจะก๊อปปี้ Combat Page บนมือและในกองของหัวหน้าบรรณารักษ์
+(ยกเว้น Page [เมื่อกดใช้])
+หากหัวหน้าบรรณารักษ์ไม่ได้อยู่แล้ว สุ่มก๊อปปี้บรรณารักษ์ 1 คนแทน</Desc>
+</PassiveDesc>
+
+
+<PassiveDesc ID="1409021">
+<Name>ไร้แสงที่ชี้นำ</Name>
+<Desc>หาก Pluto ไม่อยู่แล้ว เมื่อจบฉากจะตาย</Desc>
+</PassiveDesc>
+<PassiveDesc ID="1409022">
+<Name>เงามืดที่แกร่งกล้า</Name>
+<Desc>ลูกกเต๋าได้รับพลัง +1
+ใช้ Combat Page ของเงาทุกๆ ฉาก</Desc>
+</PassiveDesc>
  
 </PassiveDescRoot>
