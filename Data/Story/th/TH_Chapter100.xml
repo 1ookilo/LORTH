@@ -832,13 +832,13 @@
           <Teller>เกบูร่า</Teller>
           <Title>เซฟิราร์หน่วยวันัย</Title>
           <VoiceFile>ch8_Malkuth_ep3_gebura1</VoiceFile>
-          <Content>เราจะไม่นั่งบื้อ รอเธอมาเอาแสงของเราไปเฉยๆ หรอก</Content>
+          <Content>เราจะไม่นั่งบื้อ รอเธอมาเอาแสงของพวกเราไปเฉยๆ หรอกนะ</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>เลขานุการเอไอ</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela12</VoiceFile>
-          <Content>“Our” light?</Content>
+          <Content>แสง “ของพวกเรา” อย่างงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="64" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -1021,127 +1021,127 @@
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth1</VoiceFile>
-          <Content>Good work, everyone!</Content>
+          <Content>ทำดีมากเลยค่ะ ทุกคน!</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland1</VoiceFile>
-          <Content>Cheerful as always, Malkuth. What are you up to?</Content>
+          <Content>ร่าเริงเหมือนเดิมเลยนะ มัลคุท ทำอะไรอยู่ล่ะ?</Content>
         </Dialog>
         <Dialog ID="2" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth2-01</VoiceFile>
-          <Content>Oh, hi Roland! I was just having a training session with the assistant librarians.</Content>
+          <Content>อ้าว สวัสดีจ๊ะโรแลนด์! ฉันเกำลังฝึกอบรมให้กับ ผู้ช่วยบรรณารักษ์อยู่น่ะ</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland2</VoiceFile>
-          <Content>Seems lively. Guess you’re good friends with each other?</Content>
+          <Content>ดูมีชีวิตชีวาจัง เดาว่าพวกเธอคงจะเป็นเพื่อนที่ดีต่อกันเลยสินะ?</Content>
         </Dialog>
         <Dialog ID="4" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth3-01</VoiceFile>
-          <Content>They were my employees back in Lobotomy Corp!</Content>
+          <Content>พวกเขาเคยเป็นพนักงานของฉัน ตอนที่อยู่ในโลโบโทมี่คอร์ปน่ะ!</Content>
         </Dialog>
         <Dialog ID="5" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth4-01</VoiceFile>
-          <Content>Back then, I could only assist them from the backseat, rather than on the field.</Content>
+          <Content>ตอนนั้นฉันช่วยพวกเขาได้แค่ จากการซัพพอร์ตอยู่ด้านหลัง มากกว่าได้ลงสนามเองน่ะ</Content>
         </Dialog>
         <Dialog ID="6" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth5</VoiceFile>
-          <Content>It’s nice to be able to work alongside them this time around!</Content>
+          <Content>มันดีจริงๆเลยนะที่มีโอกาสได้ร่วมงาน เคียงข้างกับพวกเขาในครั้งนี้น่ะ!</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland3</VoiceFile>
-          <Content>Former coworkers from Lobotomy Corp, huh… Must be refreshing.</Content>
+          <Content>อดีตเพื่อนร่วมงานที่โลโบโทมีคอร์ปสินะ… คงจะรู้สึกดีอยู่แน่ๆเลย</Content>
         </Dialog>
         <Dialog ID="8" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth6</VoiceFile>
-          <Content>It sure is! I used to push them too hard because of my faulty mindset.</Content>
+          <Content>ใช่แล้วล่ะ! เมื่อก่อนฉันเคยกดดันพวกเขามากเกินไป เพราะความคิดผิดๆของฉัน</Content>
         </Dialog>
         <Dialog ID="9" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth7</VoiceFile>
-          <Content>But it’ll be different this time. We’ll start with the things we can do, one at a time.</Content>
+          <Content>แต่คราวนี้จะต่างออกไป เราจะเริ่มจากสิ่งที่เราทำได้ทีละอย่าง</Content>
         </Dialog>
         <Dialog ID="10" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth8</VoiceFile>
-          <Content>“Face the past, and build the future!”</Content>
+          <Content>“เผชิญหน้ากับอดีตและสร้างอนาคต!”</Content>
         </Dialog>
         <Dialog ID="11" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth9-01</VoiceFile>
-          <Content>I like this quote. It feels like a good way to summarize the essence of history. It’s similar to something I would hear before too.</Content>
+          <Content>ฉันชอบประโยคนี้จังเลยนะ มันให้ความรู้สึกเหมือนเป็นวิธีที่ดีในการสรุปแก่นสำคัญของประวัติศาสตร์ มันคล้ายๆกับสิ่งที่ฉันเคยได้ยินมาก่อนอีกด้วย</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland4</VoiceFile>
-          <Content>You ain’t wrong. But there aren’t too many people who can actually learn from history these days.</Content>
+          <Content>เธอพูดถูก แต่ทุกวันนี้มีคนไม่มากนักหรอก ที่จะเรียนรู้จากประวัติศาสตร์ได้จริงๆน่ะ</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland5</VoiceFile>
-          <Content>The lessons seem obvious, but putting them into action is the hard part.</Content>
+          <Content>บทเรียนดูเหมือนชัดเจน แต่การนำไปใช้จริงนั้นคือส่วนที่ยากมาก</Content>
         </Dialog>
         <Dialog ID="14" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth10</VoiceFile>
-          <Content>I’ve been thinking about the past a lot.</Content>
+          <Content>ฉันคิดถึงอดีตมาเยอะมากเลยละนะ</Content>
         </Dialog>
         <Dialog ID="15" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth11</VoiceFile>
-          <Content>I was a person called Elijah.</Content>
+          <Content>ฉันเคยเป็นคนที่ถูกเรียกว่า Elijah </Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland6</VoiceFile>
-          <Content>That your first life?</Content>
+          <Content>นั้นเป็นชีวิตแรกของเธอหรอ?</Content>
         </Dialog>
         <Dialog ID="17" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth12-01</VoiceFile>
-          <Content>Yep. Born in the Nest as an ordinary citizen, went to an ordinary school.</Content>
+          <Content>ใช่ ฉันเกิดในเนสในฐานะพลเมืองธรรมดา ใช้ชีวิตไปโรงเรียนเหมือนคนทั่วไป</Content>
         </Dialog>
         <Dialog ID="18" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth13</VoiceFile>
-          <Content>I wasn’t anyone special. I wasn’t richer than most people, and I didn’t really have special talent in any field.</Content>
+          <Content>ฉันไม่ได้เป็นคนพิเศษ ฉันไม่ได้ร่ำรวยไปกว่าคนส่วนใหญ่ และฉันก็ไม่ได้มีพรสวรรค์ในด้านใดๆเป็นพิเศษด้วย</Content>
         </Dialog>
         <Dialog ID="19" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth14</VoiceFile>
-          <Content>The people in the Nest where Elijah lived… They all seemed to have lost focus in life, spacing out and staring into empty places.</Content>
+          <Content>ผู้คนในเนสในที่ Elijah อาศัยอยู่… พวกเขาทั้งหมดดูเหมือนจะสูญเสียจุดสนใจในชีวิต พวกเขาเหม่อลอยและจ้องมองไปที่สถานที่ว่างเปล่า</Content>
         </Dialog>
         <Dialog ID="20" Model="말쿠트">
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth15-01</VoiceFile>
-          <Content>Everyone only saw black and white things.</Content>
+          <Content>ทุกคนมองเห็นสิ่งต่างๆ เป็นขาวและดำเท่านั้น</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -2908,7 +2908,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Yesod_ep3_roland16</VoiceFile>
-          <Content>อะไรนะ? ฉันได้กลิ่นเหมือนกับว่าเธอเป็นผู้นำลัทธิ ที่ไม่น่าไว้วางใจตามสัญชาตญาณ ฟิกเซอร์ของฉันบอกมา</Content>
+          <Content>อะไรนะ? ฉันได้กลิ่นเหมือนกับว่าเธอเป็นผู้นำลัทธิ ที่ไม่น่าไว้วางใจเลย ตามสัญชาตญาณฟิกเซอร์ของฉันบอกมา</Content>
         </Dialog>
         <Dialog ID="34" Model="롤랑">
           <Teller>โรแลนด์</Teller>
