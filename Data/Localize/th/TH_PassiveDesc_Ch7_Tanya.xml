@@ -2,18 +2,17 @@
 <PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <!-- 타냐 -->
   <PassiveDesc ID="1306011">
-    <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
-    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+    <Name>Shimmering</Name>
+    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1306012">
-    <Name>เวลานี้ หมาป่าจะออกล่า</Name>
-    <Desc>เมื่อเริ่มต้นฉาก หากไม่มีเป้าหมายที่สามารถเล็งเป้าได้ ลบล้างเอฟเฟค "เล็งเป้าไม่ได้" ออกจากศัตรูทั้งหมด แล้วมอบเกราะและเกราะ Stagger 2 ให้คนที่มีสถานะดังกล่าวแทน</Desc>
+    <Name>Hour of the Wolf</Name>
+    <Desc>At the start of the Scene, if there are no targetable enemies, purge 'Untargetable' effects from all enemies and give those that had those effects 2 Protection and Stagger Protection instead.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1306013">
-    <Name>หยอดเหรียญ ต่อยกสอง</Name>
-    <Desc>เมื่อ HP ลดเหลือ 1 ฟื้นฟู HP และ Stagger Resist ทั้งหมดและลบล้างสถานะผิดปกติด้วย หากเอฟเฟคนี้ยังงไม่ทำงาน HP จะไม่ลดถึง 0 (หนึ่งครั้งต่อองก์)
-หลังจากนั้น จะได้รับกำลังและอึดทน 2 จำนวนตลอดทั้งองก์</Desc>
+    <Name>Time for Round Two</Name>
+    <Desc>When HP drops to 1, fully recover HP and Stagger Resist, and purge all status ailments. HP cannot reach 0 before this occurs. (Once per Act)
+Afterwards, gain 2 Strength and Endurance for the rest of the Act.</Desc>
   </PassiveDesc>
  
 </PassiveDescRoot>
