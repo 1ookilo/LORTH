@@ -13,283 +13,283 @@
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch8_Talk_ep1_Roland1-01</VoiceFile>
-          <Content>Heya there. What are you guys talking so seriously about?</Content>
+          <Content>ว่าไงนั่น คุยอะไรกันน่ะ? ทำหน้าเครียดกันเชียว</Content>
         </Dialog>
         <Dialog ID="1" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod1</VoiceFile>
-          <Content>This is a serious matter indeed…</Content>
+          <Content>ก็นี่มันเรื่องชวนเครียด…</Content>
         </Dialog>
         <Dialog ID="2" Model="호드">
           <Teller>Hod</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch8_Talk_ep1_Hod1</VoiceFile>
-          <Content>Right. This issue has to be settled now.</Content>
+          <Content>ใช่แล้ว นี่คือเรื่องที่เราต้องจัดการกันตอนนี้</Content>
         </Dialog>
         <Dialog ID="3" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Patron Librarian - History</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth1-01</VoiceFile>
-          <Content>We’re in so much trouble!</Content>
+          <Content>เราเจอปัญหาที่ใหญ่มากเลยนะ!</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch8_Talk_ep1_Angela1</VoiceFile>
-          <Content>Just tell me what’s going on.</Content>
+          <Content>ก็แค่บอกมาสิ ว่ามันเกิดอะไรขึ้น</Content>
         </Dialog>
         <Dialog ID="5" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Patron Librarian - History</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth2</VoiceFile>
-          <Content>Netzach ran off!</Content>
+          <Content>เน็ตซักหนีไป!</Content>
         </Dialog>
         <Dialog ID="6" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod2-01</VoiceFile>
-          <Content>The Floor of Art was responsible for cleaning the Library’s corridors this week.</Content>
+          <Content>การทำความสะอาดโถงทางเดินห้องสมุดของสัปดาห์นี้เป็นความรับผิดชอบของแผนกศิลปศาสตร์</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch8_Talk_ep1_Roland2-01</VoiceFile>
-          <Content>Wha?</Content>
+          <Content>ห้ะ?</Content>
         </Dialog>
         <Dialog ID="8" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod3</VoiceFile>
-          <Content>Do you have any guesses on where he might be?</Content>
+          <Content>พอจะเดาออกไหมว่าเขาจะไปไหน?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch8_Talk_ep1_Roland3-01</VoiceFile>
-          <Content>Nah, of course not. No way. Hmhm…</Content>
+          <Content>ไม่อะ ใครจะไปรู้นะ ฮื้อฮือ…</Content>
         </Dialog>
         <Dialog ID="10" Model="호드">
           <Teller>Hod</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch8_Talk_ep1_Hod2</VoiceFile>
-          <Content>His assistant librarians must’ve all disappeared with him, too…</Content>
+          <Content>ผู้ช่วยบรรณารักษ์ทุกคนก็คงจะหายไปพร้อมกับเขาด้วยเช่นกัน…</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch8_Talk_ep1_Angela2</VoiceFile>
-          <Content>Cleaning? I don’t remember ordering you to clean this place.</Content>
+          <Content>ทำความสะอาดเหรอ? ไม่เห็นจำได้เลยว่าฉันเคยสั่งให้พวกนายทำความสะอาดที่แห่งนี้นะ</Content>
         </Dialog>
         <Dialog ID="12" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod4-02</VoiceFile>
-          <Content>We’ve concluded that while each librarian should clean their own rooms, it’s better to take turns to clean the corridors as they’re public spaces used by all of us.</Content>
+          <Content>เราได้ข้อสรุปกันว่าแม้ว่าบรรณารักษ์แต่ละคนควรจะทำความสะอาดห้องของตนเอง แต่ก็ควรผลัดกันทำความสะอาดทางเดินเพราะเป็นพื้นที่สาธารณะที่พวกเราทุกคนใช้ด้วย</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch8_Talk_ep1_Angela3</VoiceFile>
-          <Content>You lot always love to cause a bigger fuss than necessary, don’t you.</Content>
+          <Content>นายชอบทำเรื่องง่ายให้เป็นเรื่องยากจริงๆ สินะ</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
           <Teller>Hod</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch8_Talk_ep1_Hod3</VoiceFile>
-          <Content>Do you want us to stop it?</Content>
+          <Content>อยากให้เราหยุดไหม?</Content>
         </Dialog>
         <Dialog ID="15" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch8_Talk_ep1_Angela4</VoiceFile>
-          <Content>No, I don’t mind it.</Content>
+          <Content>ไม่ล่ะ ฉันไม่ว่าอะไร</Content>
         </Dialog>
         <Dialog ID="16" Model="호드">
           <Teller>Hod</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch8_Talk_ep1_Hod4</VoiceFile>
-          <Content>Thank goodness…</Content>
+          <Content>ขอบคุณ สวรรค์…</Content>
         </Dialog>
         <Dialog ID="17" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Patron Librarian - History</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth3-02</VoiceFile>
-          <Content>Anyway, that’s why we’ve been wondering! Just where did Netzach hide away!</Content>
+          <Content>ยังไงซะ นั่นแหละที่เรากำลังเถียงกันอยู่! ว่าเน็ตซักจะไปซ่อนที่ไหน!</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch8_Talk_ep1_Angela5</VoiceFile>
-          <Content>Sigh…</Content>
+          <Content>เฮ้อ…</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch8_Talk_ep1_Angela6</VoiceFile>
-          <Content>Alright, here’s Netzach.</Content>
+          <Content>เอาล่ะ นี่ไง เน็ตซัก</Content>
         </Dialog>
         <Dialog ID="20" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Patron Librarian - Art</Title>
           <VoiceFile>ch8_Talk_ep1_Netzach1-01</VoiceFile>
-          <Content>W…what the… What happened…</Content>
+          <Content>อะ…อะไรเนี่ย… เกิดอะไรขึ้น…</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch8_Talk_ep1_Angela7</VoiceFile>
-          <Content>It takes no effort for me to locate and relocate you lot, wherever in this Library you may be.</Content>
+          <Content> มันไม่ยากเลยที่ฉันจะระบุตำแหน่งนายและเคลื่อนย้าย ไม่ว่านายจะอยู่ที่ไหนในห้องสมึดก็ตาม</Content>
         </Dialog>
         <Dialog ID="22" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Patron Librarian - History</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth4-01</VoiceFile>
-          <Content>Netzaaaach~! We promised to keep the order we decided on!</Content>
+          <Content>เน็ตซักกกกกก~! เราสัญญากันแล้วนะว่าจะทำตามที่ตกลงกันน่ะ!</Content>
         </Dialog>
         <Dialog ID="23" Model="호드">
           <Teller>Hod</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch8_Talk_ep1_Hod5</VoiceFile>
-          <Content>You’re so mean, running away when it’s your turn…</Content>
+          <Content>ใจร้ายจังเลยนะคะ หนีงานตอนถึงตาของตัวเองเนี่ย…</Content>
         </Dialog>
         <Dialog ID="24" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod5</VoiceFile>
-          <Content>You reek of alcohol, and so do your assistant librarians behind you…</Content>
+          <Content>นายมีกลิ่นแอลกอฮอล์ด้วย และผู้ช่วยบรรณารักษ์ด้านหลังนั่นก็เช่นกัน…</Content>
         </Dialog>
         <Dialog ID="25" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Patron Librarian - Art</Title>
           <VoiceFile>ch8_Talk_ep1_Netzach2</VoiceFile>
-          <Content>…I can explain, there’s a good explanation for this.</Content>
+          <Content>…ฉันอธิบายได้ เป็นคำอธิบายที่ฟังขึ้นด้วย</Content>
         </Dialog>
         <Dialog ID="26" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Patron Librarian - History</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth5-02</VoiceFile>
-          <Content>What explanation?</Content>
+          <Content>ไหนว่ายังไง?</Content>
         </Dialog>
         <Dialog ID="27" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod6-02</VoiceFile>
-          <Content>Let’s hear your story, then.</Content>
+          <Content>งั้นก็มาฟังเรื่องของนายกัน</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch8_Talk_ep1_Roland4-01</VoiceFile>
-          <Content>Now now, Netzach will surely be careful next time. That’s enough scolding.</Content>
+          <Content>เอาล่ะ เอาล่ะ เน็ตซักคงจะต้องระวังให้มากในครั้งหน้าแน่ๆ แล้วล่ะ เราดุเขาแค่นี้ดีกว่าเนอะ</Content>
         </Dialog>
         <Dialog ID="29" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod7-02</VoiceFile>
-          <Content>No. I must hear what he has to say.</Content>
+          <Content>ไม่ ฉันอยากจะฟังสิ่งที่เขาจะพูด</Content>
         </Dialog>
         <Dialog ID="30" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Patron Librarian - History</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth6-03</VoiceFile>
-          <Content>Netzaaaaaach!</Content>
+          <Content>เน็ตซักกกกกกกก!</Content>
         </Dialog>
         <Dialog ID="31" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Patron Librarian - Art</Title>
           <VoiceFile>ch8_Talk_ep1_Netzach3-01</VoiceFile>
-          <Content>…Look, I didn’t feel like cleaning, but I still was gonna do it.</Content>
+          <Content>…ฟังนะ ฉันรู้สึกไม่อยากจะทำความสะอาดเลย แต่ฉันก็กำลังจะทำมัน</Content>
         </Dialog>
         <Dialog ID="32" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Patron Librarian - Art</Title>
           <VoiceFile>ch8_Talk_ep1_Netzach4</VoiceFile>
-          <Content>I was grumbling to myself about it, then Roland came along and said he found a good spot to goof off…</Content>
+          <Content>ตอนนั้นฉันกำลังบ่นพรำพรำกับตัวเอง ทันใดนั้นโรแลนด์ก็เข้ามาแล้วบอกว่าเขาเจอจุดดีในการอู้งานแล้ว…</Content>
         </Dialog>
         <Dialog ID="33" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Patron Librarian - Art</Title>
           <VoiceFile>ch8_Talk_ep1_Netzach5</VoiceFile>
-          <Content>Says he’ll tell me where if I shared some of my beer, and how I can skip clea— Mh, mmh!!</Content>
+          <Content>เขาจะบอกให้ว่าที่ไหนถ้าฉันยอมแบ่งเบียร์ให้เขาหน่อย และจะอู้งานทำความสะอาดอย่างไ— อะ อื้ม!!</Content>
         </Dialog>
         <Dialog ID="34" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch8_Talk_ep1_Roland5</VoiceFile>
-          <Content>Whoa, looks like he’s still too drunk to speak straight.</Content>
+          <Content>โว้ว ดูเหมือนเขาจะเมาจนพูดไม่รู้เรื่องแล้วนะ</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch8_Talk_ep1_Roland6</VoiceFile>
-          <Content>He sure loves to drink for someone so weak with it. Hahaha…</Content>
+          <Content>เขาดูจะชอบดื่มมากเลยนะ สำหรับคนที่คออ่อนแบบนี้เนี่ย ฮ่าฮ่าฮ่า…</Content>
         </Dialog>
         <Dialog ID="36" Model="호드">
           <Teller>Hod</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch8_Talk_ep1_Hod6</VoiceFile>
-          <Content>…Roland. Is what Netzach said true?</Content>
+          <Content>…โรแลนด์ ที่เน็ตซักพูดเป็นความจริงเหรอ?</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch8_Talk_ep1_Roland7</VoiceFile>
-          <Content>Haha… Naw, can’t be.</Content>
+          <Content>ฮ่าฮ่า… จะใช่ได้ยังไง บ้าแล้ว</Content>
         </Dialog>
         <Dialog ID="38" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod8-01</VoiceFile>
-          <Content>I can faintly smell alcohol from you as well, now that Netzach’s confessed it.</Content>
+          <Content>ฉันได้กลิ่นแอลกอฮอล์ลางๆ จากนายเช่นกัน และตอนี้เน็ตซักก็สารภาพแล้ว</Content>
         </Dialog>
         <Dialog ID="39" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Patron Librarian - History</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth7-04</VoiceFile>
-          <Content>I’m disappointed in you two!</Content>
+          <Content>ฉันผิดหวังในตัวพวกนายทั้งคู่มากเลยนะ!</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch8_Talk_ep1_Roland8</VoiceFile>
-          <Content>Alright, I’m sorry! I’ll help Netzach clean the corridors today, so please forgive me!</Content>
+          <Content>ก็ได้ ฉันขอโทษ! วันนี้ฉันจะช่วยเน็ตซักทำความสะอาดโถงทางเดินเอง ดังนั้น ให้อภัยฉันเถอะนะ!</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch8_Talk_ep1_Angela8</VoiceFile>
-          <Content>Hm, no. How about you join them on the cleaning roster from now on, rather than just for today?</Content>
+          <Content>หื้ม ไม่ล่ะ แทนที่จะทำแค่วันนี้ ทำไมไม่ไปร่วมในรายชื่อคนที่ต้องทำความสะอาดเลยล่ะ?</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch8_Talk_ep1_Roland9</VoiceFile>
-          <Content>Whaat?</Content>
+          <Content>ว่าไงนะะะ?</Content>
         </Dialog>
         <Dialog ID="43" Model="호드">
           <Teller>Hod</Teller>
           <Title>Patron Librarian - Literature</Title>
           <VoiceFile>ch8_Talk_ep1_Hod7</VoiceFile>
-          <Content>That’s a good idea.</Content>
+          <Content>เป็นไอเดียที่ดีมากเลย</Content>
         </Dialog>
         <Dialog ID="44" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Patron Librarian - Tech. Sciences</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod9</VoiceFile>
-          <Content>I could forgive your misbehavior today in that case.</Content>
+          <Content>ในกรณีนั้น ฉันจะยอมให้อภัยในความประพฤติผิดของนายในวันนี้</Content>
         </Dialog>
         <Dialog ID="45" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Patron Librarian - History</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth8-03</VoiceFile>
-          <Content>Good luck with the cleaning, then!</Content>
+          <Content>งั้นก็ ทำความสะอาดให้สนุกนะ!</Content>
         </Dialog>
         <Dialog ID="46" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Patron Librarian - Art</Title>
           <VoiceFile>ch8_Talk_ep1_Netzach6-01</VoiceFile>
-          <Content>…You’re also prone to make a fuss, aren’t you, Roland.</Content>
+          <Content>…นายนี่ขี้บ่นจังเลยนะ โรแลนด์</Content>
         </Dialog>
         <Dialog ID="47" Model="롤랑">
           <Teller>Roland</Teller>
@@ -313,19 +313,19 @@
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed1</VoiceFile>
-          <Content>C’mon~ You’re acting up again.</Content>
+          <Content>ไม่เอาน่า~ นี่เธอขึ้นอีกแล้วเหรอ</Content>
         </Dialog>
         <Dialog ID="2" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura2</VoiceFile>
-          <Content>เห้อ… ให้พูดฉันยังชอบแกตอนเป็นถังเหล็กเดินได้มากกว่าด้วยซ้ำ</Content>
+          <Content>เห้อ… ถ้าให้พูด ฉันยังชอบแกตอนเป็นถังเหล็กเดินได้มากกว่าด้วยซ้ำ</Content>
         </Dialog>
         <Dialog ID="3" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed2</VoiceFile>
-          <Content>Wow, really? I guess today is my lucky day, getting compliments from Gebura of all people~</Content>
+          <Content>ว้าว จริงป๊ะ? ฉันว่าวันนี้วันดีแฮะ ได้รับคำชมจากเกบูร่าด้วย~</Content>
         </Dialog>
         <Dialog ID="4" Model="게부라">
           <Teller>เกบูร่า</Teller>
@@ -337,25 +337,25 @@
           <Teller>Tiphereth</Teller>
           <Title>Patron Librarian - Nat. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth1</VoiceFile>
-          <Content>Alright, cut it out, you two. Aren’t you sick of fighting already?</Content>
+          <Content>เอาล่ะ พอได้แล้ว พวกนายทั้งคู่นี่ก็ช่างหาเรื่องกันซะจริงนะ?</Content>
         </Dialog>
         <Dialog ID="6" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura4</VoiceFile>
-          <Content>…ไอหนุ่มหัวกรมนี่มันเอากาแฟจะยัดปากฉันให้ได้อยู่เนี่ย</Content>
+          <Content>…ไอ้เวรนี่มันเอากาแฟจะยัดปากฉันให้ได้อยู่เนี่ย</Content>
         </Dialog>
         <Dialog ID="7" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura5</VoiceFile>
-          <Content>ฉันล่ะไม่เข้าใจจริงๆ ไอน้ำถั่วขมๆเนี่ยมันอร่อยยังไงวะ</Content>
+          <Content>ฉันล่ะไม่เข้าใจจริงๆ ไอน้ำถั่วขมๆ เนี่ยมันอร่อยยังไงวะ</Content>
         </Dialog>
         <Dialog ID="8" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed3</VoiceFile>
-          <Content>It’s an acquired taste, you know~</Content>
+          <Content>ก่อนอื่นเธอก็ต้องเทสดีย์ก่อนล่ะนะ~</Content>
         </Dialog>
         <Dialog ID="9" Model="게부라">
           <Teller>เกบูร่า</Teller>
@@ -367,7 +367,7 @@
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed4</VoiceFile>
-          <Content>Don’t be so sour~ I got something sweet for the both of you this time, so give it a try for my sake, please~?</Content>
+          <Content>อยู่บูดบึ้งอบบนั้นสิ~ ฉันเอาของหวานมาให้พวกเธอทั้งคู่เลยนะรอบนี้ ลองกินให้ชั้นหน่อยได้ม้าย~?</Content>
         </Dialog>
         <Dialog ID="11" Model="게부라">
           <Teller>เกบูร่า</Teller>
@@ -379,13 +379,13 @@
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed5</VoiceFile>
-          <Content>Mhm. That’s the one~</Content>
+          <Content>หื้ม ช่ายๆ นั่นแหละ~</Content>
         </Dialog>
         <Dialog ID="13" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed6</VoiceFile>
-          <Content>It’s actually called macchiato, though…</Content>
+          <Content>อันที่จริงมันเรียกว่ามัคคิอาโต้น่ะ…</Content>
         </Dialog>
         <Dialog ID="14" Model="게부라">
           <Teller>เกบูร่า</Teller>
@@ -397,55 +397,55 @@
           <Teller>Tiphereth</Teller>
           <Title>Patron Librarian - Nat. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth2</VoiceFile>
-          <Content>I wasn’t a huge fan of it, though. The flavor of caramel was too strong for my liking…</Content>
+          <Content>ฉันไม่ชอบมันเท่าไหร่ รสคาราเมลมันแรงเกินกว่าฉันจะรับได้…</Content>
         </Dialog>
         <Dialog ID="16" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed7</VoiceFile>
-          <Content>Thus I’ve prepared a cup of Vienna this time~ This’ll suit you better.</Content>
+          <Content>ฉันเลยเตรียมเวียนนามาให้เธอแก้วหนึ่งแทนงาย~ มันเหมาะกับเธอกว่า</Content>
         </Dialog>
         <Dialog ID="17" Model="티페리트">
           <Teller>Tiphereth</Teller>
           <Title>Patron Librarian - Nat. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth3</VoiceFile>
-          <Content>Thanks for being considerate, but… why do you keep recommending us coffee, anyway?</Content>
+          <Content>ขอบคุณที่ใส่ใจนะ แต่… ทำไมถึงเอาแต่ดึงดันแนะนำกาแฟให้เรากินอยู่ได้?</Content>
         </Dialog>
         <Dialog ID="18" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed8</VoiceFile>
-          <Content>Well, you see~ I thought it’d be nice to make at least one friend who understands the savors of coffee, y’know?</Content>
+          <Content>ก็ นะ~ ฉันคิดว่ามันคงจะเป็นเรื่องที่ดีที่จะหาเพื่อนผู้ดื่มด่ำไปกับรสชาติละมุนของกาแฟได้ล่ะนะ</Content>
         </Dialog>
         <Dialog ID="19" Model="티페리트">
           <Teller>Tiphereth</Teller>
           <Title>Patron Librarian - Nat. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth4</VoiceFile>
-          <Content>I mean, I could drink coffee with you if you’re so desperate for a café buddy. You just seemed weirdly insistent with Gebura.</Content>
+          <Content>ฉันจะบอกว่าถ้านายหว่าเว้อยากจะหาคู่ขากินกาแฟขนาดนั้น ฉันก็กินด้วยได้แหละ แต่นายดูอยากจะยัดเยียดให้เกบูร่ากินจนพิลึก</Content>
         </Dialog>
         <Dialog ID="20" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura9</VoiceFile>
-          <Content>จริงแท้ จะอะไรนักหนากับฉันเนี่ยห๊ะ</Content>
+          <Content>เออ จะอะไรกันนักกันหนากับฉันเนี่ยห๊ะ</Content>
         </Dialog>
         <Dialog ID="21" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed9</VoiceFile>
-          <Content>Well… How should I put it?</Content>
+          <Content>ก็… จะว่าไงดีนะ?</Content>
         </Dialog>
         <Dialog ID="22" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed10</VoiceFile>
-          <Content>See, the thing about Gebura is that…</Content>
+          <Content>ฟังนะ เกบูร่าเนี่ย…</Content>
         </Dialog>
         <Dialog ID="23" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed11</VoiceFile>
-          <Content>Her reactions are fun to watch?</Content>
+          <Content>การแสดงออกของเธอมันดูตลกดีอะ</Content>
         </Dialog>
         <Dialog ID="24" Model="게부라">
           <Teller>เกบูร่า</Teller>
@@ -463,79 +463,79 @@
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed12</VoiceFile>
-          <Content>The air’s taken a sharp turn to be menacing… I was just kidding~</Content>
+          <Content>ทำไมบรรยากาศมันน่ากลัวแปลกๆ ขึ้นแฮะ… ฉันแค่ล้อเล่นน่า~</Content>
         </Dialog>
         <Dialog ID="27" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed13</VoiceFile>
-          <Content>I mean, it’s nice that we can gather round from time to time for a drink, isn’t it~?</Content>
+          <Content>ที่จะบอกคือ มันก็คงจะดีนะที่พวกเราจะสามารถมาล้อมวงดื่มเป็นครั้งคราวได้ จริงไหม~?</Content>
         </Dialog>
         <Dialog ID="28" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed14</VoiceFile>
-          <Content>There’s no better reason than a hot cup of joe to bring us all together and chill~</Content>
+          <Content>จะมีเหตุผลไหนให้เรามารวมตัวกันได้ดีไปกว่ากาแฟร้อนๆ ซักแก้วแล้วล่ะ~</Content>
         </Dialog>
         <Dialog ID="29" Model="티페리트">
           <Teller>Tiphereth</Teller>
           <Title>Patron Librarian - Nat. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth6</VoiceFile>
-          <Content>It’s true, we’d usually be shut up in our own floors doing our jobs if it weren’t for breaks like this…</Content>
+          <Content>ก็จริงนะ ถ้าไม่ใช่ช่วงพักแบบนี้ เราก็คงอุดอู้อยู่เงียบๆ และก็ต่างคนต่างทำงานในห้องของตัวเองไป…</Content>
         </Dialog>
         <Dialog ID="30" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura11</VoiceFile>
-          <Content>ถ้านั่นคือจุดประสงค์ งั้นก็ไม่มีเหตุผที่ต้องเป็นกาแฟใช่ป่ะ?</Content>
+          <Content>ถ้านั่นคือจุดประสงค์ งั้นก็ไม่จำเป็นต้องเป็นกาแฟก็ได้ป่ะ?</Content>
         </Dialog>
         <Dialog ID="31" Model="티페리트">
           <Teller>Tiphereth</Teller>
           <Title>Patron Librarian - Nat. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth7</VoiceFile>
-          <Content>Maybe he doesn’t have any other excuses?</Content>
+          <Content>บางทีเขาคงแถไม่ออกแล้วมั้ง?</Content>
         </Dialog>
         <Dialog ID="32" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed15</VoiceFile>
-          <Content>You hit the bullseye there, Tiph~</Content>
+          <Content>ถูกเผงเลย ทิฟ~</Content>
         </Dialog>
         <Dialog ID="33" Model="게부라">
           <Teller>เกบูร่า</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ภาษาศาสตร์</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura12</VoiceFile>
-          <Content>แช่งแม่งเหอะ ถ้าจะเอางั้น ขอมานี่พร้อมทิฟาเรธเป็นเพื่อนบ่อยๆ ละกัน</Content>
+          <Content>ช่างเหอะ ถ้าจะเอางั้น ขอมานี่พร้อมทิฟาเรธเป็นเพื่อนบ่อยๆ ละกัน</Content>
         </Dialog>
         <Dialog ID="34" Model="티페리트">
           <Teller>Tiphereth</Teller>
           <Title>Patron Librarian - Nat. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth8</VoiceFile>
-          <Content>I don’t think we’re that friendly with each other…</Content>
+          <Content>ฉันไม่คิดว่าเราจะสนิทกันขนาดนั้นนะ…</Content>
         </Dialog>
         <Dialog ID="35" Model="티페리트">
           <Teller>Tiphereth</Teller>
           <Title>Patron Librarian - Nat. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth9</VoiceFile>
-          <Content>But still, it seems silly to me that you’re trying to make up reasons for us to meet, when all you needed to do was ask.</Content>
+          <Content>ถึงอย่างนั้น มันก็ดูงี่เง่าสำหรับฉันอยู่ดีที่นายพยายามหาเหตุผลให้เรามาพบปะกัน ทั้งที่นายก็แค่ชวนก็พอแล้ว</Content>
         </Dialog>
         <Dialog ID="36" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed16</VoiceFile>
-          <Content>I’m honored to hear that~</Content>
+          <Content>ปรื้มปริ่มจริงๆ ที่ได้ยินแบบนั้น~</Content>
         </Dialog>
         <Dialog ID="37" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Patron Librarian - Soc. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed17</VoiceFile>
-          <Content>So, back to this coffee… Wanna give it a try?</Content>
+          <Content>งั้น กลับมาเรื่องดาแฟกัน… ลองซักหน่อยป๊ะ?</Content>
         </Dialog>
         <Dialog ID="38" Model="티페리트">
           <Teller>Tiphereth</Teller>
           <Title>Patron Librarian - Nat. Sciences</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth10</VoiceFile>
-          <Content>No reason to refuse a cup you prepared for me!</Content>
+          <Content>ไม่มีเหตุผลที่จะปฏิเสธกาแฟที่นายอุส่าเตรียมให้ฉันอยู่แล้ว!</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -547,115 +547,115 @@
           <Teller>Hokma</Teller>
           <Title>Patron Librarian - Religion</Title>
           <VoiceFile>ch100_Smallstory_ep3_Hokma_1</VoiceFile>
-          <Content>You seem rather quiet here.</Content>
+          <Content>ที่นี่เธอดูสงบเสงี่ยมมากเลยนะ</Content>
         </Dialog>
         <Dialog ID="1" Model="비나">
           <Teller>Binah</Teller>
           <Title>Patron Librarian - Philosophy</Title>
           <VoiceFile>ch100_Smallstory_ep3_Binah_1</VoiceFile>
-          <Content>What more needs to be said? My role is only to observe.</Content>
+          <Content>จะให้ฉันพูดอะไรล่ะ? หน้าที่ฉันก็แค่สังเกตุการณ์</Content>
         </Dialog>
         <Dialog ID="2" Model="호크마">
           <Teller>Hokma</Teller>
           <Title>Patron Librarian - Religion</Title>
           <VoiceFile>ch100_Smallstory_ep3_Hokma_2</VoiceFile>
-          <Content>To observe, is it…</Content>
+          <Content>สังเกตุการณื สินะ…</Content>
         </Dialog>
         <Dialog ID="3" Model="비나">
           <Teller>Binah</Teller>
           <Title>Patron Librarian - Philosophy</Title>
           <VoiceFile>ch100_Smallstory_ep3_Binah_2</VoiceFile>
-          <Content>Indeed so. Some would think that this is merely a form of neglect. I see that you are one of them.</Content>
+          <Content>ถูกต้อง หลายคนมักจะมองว่านั่นคือการเมินเฉย และฉันว่านายก็เป็นหนึ่งในนั้น</Content>
         </Dialog>
         <Dialog ID="4" Model="호크마">
           <Teller>Hokma</Teller>
           <Title>Patron Librarian - Religion</Title>
           <VoiceFile>ch100_Smallstory_ep3_Hokma_3</VoiceFile>
-          <Content>I was simply curious. We haven’t had many opportunities to talk with one another.</Content>
+          <Content>ฉันก็แค่สงสัย เราไม่มีโอกาสได้คุยกันบ่อยขนาดนั้น</Content>
         </Dialog>
         <Dialog ID="5" Model="비나">
           <Teller>Binah</Teller>
           <Title>Patron Librarian - Philosophy</Title>
           <VoiceFile>ch100_Smallstory_ep3_Binah_3</VoiceFile>
-          <Content>There were practically none, were there? Neither you nor I left our respective posts.</Content>
+          <Content>เรียกว่าไม่มีจะดีกว่านะ? ทั้งฉันและก็นายก็ไม่เคยรามือจากงานของตัวเองอยู่แล้วหนิ</Content>
         </Dialog>
         <Dialog ID="6" Model="비나">
           <Teller>Binah</Teller>
           <Title>Patron Librarian - Philosophy</Title>
           <VoiceFile>ch100_Smallstory_ep3_Binah_4</VoiceFile>
-          <Content>Yet now you have the time to visit me of all people for a chat… It must indicate that we are freer than before, able to spare more of our moments.</Content>
+          <Content>แต่ตอนนี้นายมีเวลา และมาหาฉํนเพื่อจะพูดคุยแทนที่จะไปหาคนอื่น… มันแสดงว่าเรามีอิสระและวลามากขึ้นแล้วสินะ</Content>
         </Dialog>
         <Dialog ID="7" Model="호크마">
           <Teller>Hokma</Teller>
           <Title>Patron Librarian - Religion</Title>
           <VoiceFile>ch100_Smallstory_ep3_Hokma_4</VoiceFile>
-          <Content>Do you not welcome this change?</Content>
+          <Content>ไม่ชอบการเปลี่ยนแปลงนี้รึไง?</Content>
         </Dialog>
         <Dialog ID="8" Model="비나">
           <Teller>Binah</Teller>
           <Title>Patron Librarian - Philosophy</Title>
           <VoiceFile>ch100_Smallstory_ep3_Binah_5</VoiceFile>
-          <Content>I’m not quite certain of my sentiments.</Content>
+          <Content>ฉันไม่ค่อยมั่นใจกับความรู้สึกของตัวเองเท่าไหร่</Content>
         </Dialog>
         <Dialog ID="9" Model="비나">
           <Teller>Binah</Teller>
           <Title>Patron Librarian - Philosophy</Title>
           <VoiceFile>ch100_Smallstory_ep3_Binah_6</VoiceFile>
-          <Content>Regardless… Have a warm cup of tea, now that you are here.</Content>
+          <Content>ช่างมันแล้วกัน… มีชาอุ่นๆ และตอนนี้นายก็อยู่ด้วย</Content>
         </Dialog>
         <Dialog ID="10" Model="호크마">
           <Teller>Hokma</Teller>
           <Title>Patron Librarian - Religion</Title>
           <VoiceFile>ch100_Smallstory_ep3_Hokma_5</VoiceFile>
-          <Content>…If you’d be so kind.</Content>
+          <Content>…หากเธอจะใจดีแบ่ง</Content>
         </Dialog>
         <Dialog ID="11" Model="호크마">
           <Teller>Hokma</Teller>
           <Title>Patron Librarian - Religion</Title>
           <VoiceFile>ch100_Smallstory_ep3_Hokma_6</VoiceFile>
-          <Content>Say, have you never tried other types of tea? It appears as though black is all you drink.</Content>
+          <Content>เธอเคยลองชาชนิดอื่นบ้างไหม? ดูเหมือนว่าเธอจะดื่มแต่ชาดำนะ</Content>
         </Dialog>
         <Dialog ID="12" Model="비나">
           <Teller>Binah</Teller>
           <Title>Patron Librarian - Philosophy</Title>
           <VoiceFile>ch100_Smallstory_ep3_Binah_7</VoiceFile>
-          <Content>Maybe so. There are enough variants of black tea that I have not bothered in attempting to imbibe other beverages.</Content>
+          <Content>คงจะเป็นเช่นนั้น มันมีชาดำที่แตกต่างกันอยู่ แต่ฉันไม่คิดจะลองเครื่องดื่มอื่นหรอก</Content>
         </Dialog>
         <Dialog ID="13" Model="비나">
           <Teller>Binah</Teller>
           <Title>Patron Librarian - Philosophy</Title>
           <VoiceFile>ch100_Smallstory_ep3_Binah_8</VoiceFile>
-          <Content>Ah, although the azure-maned noble boy insists around the clock that I partake of coffee.</Content>
+          <Content>อ่า ถึงแม้เจ้าหนุ่มผู้ดีผมสีฟ้านั่นจะยืนกรานให้ฉันดื่มกาแฟบ้างก็ตาม</Content>
         </Dialog>
         <Dialog ID="14" Model="호크마">
           <Teller>Hokma</Teller>
           <Title>Patron Librarian - Religion</Title>
           <VoiceFile>ch100_Smallstory_ep3_Hokma_7</VoiceFile>
-          <Content>It is certainly true that there has been much change. I wouldn’t have expected that he would approach you first to recommend coffee.</Content>
+          <Content>มันแปลว่าเกิดการเปลี่ยนแปลงขึ้นมากมายจริงๆ ฉันคิดไม่ถึงเลยว่าเรื่องแรกที่เขาจะพูดกับเธอคือแนะนำกาแฟน่ะ</Content>
         </Dialog>
         <Dialog ID="15" Model="비나">
           <Teller>Binah</Teller>
           <Title>Patron Librarian - Philosophy</Title>
           <VoiceFile>ch100_Smallstory_ep3_Binah_9</VoiceFile>
-          <Content>One day, perchance, all of us will come together.</Content>
+          <Content>สักวันหนึ่ง อาจมีโอกาสที่เราทุกคนได้อยู่ร่วมกันก็ได้</Content>
         </Dialog>
         <Dialog ID="16" Model="비나">
           <Teller>Binah</Teller>
           <Title>Patron Librarian - Philosophy</Title>
           <VoiceFile>ch100_Smallstory_ep3_Binah_10</VoiceFile>
-          <Content>Indeed… It will be quite different from the first time such a gathering took place.</Content>
+          <Content>ใช่แล้ว… มันคงจะต่างไปจากการรวมตัวครั้งที่แล้วโดยสิ้นเชิง</Content>
         </Dialog>
         <Dialog ID="17" Model="호크마">
           <Teller>Hokma</Teller>
           <Title>Patron Librarian - Religion</Title>
           <VoiceFile>ch100_Smallstory_ep3_Hokma_8</VoiceFile>
-          <Content>I must wonder if the day shall come when we all will engage in casual conversation and share trivial tales. I am rather doubtful of it.</Content>
+          <Content>ฉันคงจะสงสัยว่าวันที่พวกเราจะได้คุยเรื่อยเปื่อยกันหรือบอกเล่าเรื่องราวต่างๆ จะเป็นเช่นไร ค่อนข้างน่าสนใจทีเดียว</Content>
         </Dialog>
         <Dialog ID="18" Model="비나">
           <Teller>Binah</Teller>
           <Title>Patron Librarian - Philosophy</Title>
           <VoiceFile>ch100_Smallstory_ep3_Binah_11</VoiceFile>
-          <Content>Yet deep down, you are looking forward to it. Perhaps everyone shares the same feelings.</Content>
+          <Content>แต่ลึกๆ ในใจ นายก็คงจะคาดหวังถึงมัน บางทีทุกคนก็รู้สึกแบบเดียวกัน</Content>
         </Dialog>
         <Dialog ID="19" Model="호크마">
           <Teller>Hokma</Teller>
@@ -667,13 +667,13 @@
           <Teller>Hokma</Teller>
           <Title>Patron Librarian - Religion</Title>
           <VoiceFile>ch100_Smallstory_ep3_Hokma_10</VoiceFile>
-          <Content>I’ve finished my cup, so I’ll be taking my leave now. I appreciate the hospitality.</Content>
+          <Content>ฉันดื่มเสร็จแล้วล่ะ ขอตัวก่อน ขอบคุณสำหรับการต้อนรับนะ</Content>
         </Dialog>
         <Dialog ID="21" Model="비나">
           <Teller>Binah</Teller>
           <Title>Patron Librarian - Philosophy</Title>
           <VoiceFile>ch100_Smallstory_ep3_Binah_12</VoiceFile>
-          <Content>Rendezvous anytime. Tea will always be ready and waiting.</Content>
+          <Content>อยากพูดคุยอีกเมื่อไหร่ก็ได้ จะเตรียมชาไว้รอเสมอ</Content>
         </Dialog>
       </Place>
     </Episode>
