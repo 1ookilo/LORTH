@@ -97,7 +97,7 @@
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep1_malkuth7</VoiceFile>
-          <Content>ฉันชื่อมัลคุทจ้า!</Content>
+          <Content>ชื่อมัลคุทจ้า!</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -697,7 +697,7 @@
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth27</VoiceFile>
-          <Content>หลังจากฉันระเบิดอารมณ์ทั้งหมดออกมาแล้ว ความดิ้นรนภายในที่หลอกหลอนฉัน มานานในที่สุดก็สูญสลายไป</Content>
+          <Content>หลังจากฉันระเบิดอารมณ์ทั้งหมดออกมาแล้ว ความดิ้นรนที่อยู่ภายในส่วนลึกของจิตใจ ที่มันคอยหลอกหลอนฉัน มานานในที่สุดก็สูญสลายไป</Content>
         </Dialog>
         <Dialog ID="41" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -727,7 +727,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland17</VoiceFile>
-          <Content>แต่ใครเป็นคนทำให้เธอฟื้นขึ้นมา และเหตุผลเพื่ออะไรล่ะ? แค่เพื่อให้เธอให้ตระหนักถึงบางสิ่งงั้นหรอ?</Content>
+          <Content>แต่ใครเป็นคนทำให้เธอฟื้นขึ้นมา และเหตุผลเพื่ออะไรล่ะ? แค่เพื่อให้เธอได้ตระหนักถึงบางสิ่งงั้นหรอ?</Content>
         </Dialog>
         <Dialog ID="46" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -979,7 +979,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland21</VoiceFile>
-          <Content>แต่ถ้านั่นคือสิ่งที่เธอปรารถนาอย่างจริงใจ ฉันจะตัดสินใครได้ล่ะ?</Content>
+          <Content>แต่ถ้านั่นคือสิ่งที่เธอปรารถนาอย่างจริงใจ แล้วฉันจะตัดสินใครได้ล่ะ?</Content>
         </Dialog>
         <Dialog ID="87" Model="말쿠트">
           <Teller>มัลคุท</Teller>
@@ -15654,211 +15654,211 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_1</VoiceFile>
-          <Content>The ชั้นปรัชญา! Its Patron Librarian is called Binah…</Content>
+          <Content>ชั้นแห่งปรัชญา! หัวหน้าบรรณารักษ์มีชื่อว่าบินาห์…</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_2</VoiceFile>
-          <Content>Huh, the air here gives off a certain smell… in a different way than Chesed’s place?</Content>
+          <Content>ฮึม อากาศในนี้มีกลิ่นบางอย่าง… ที่ต่างจากที่ของเฮเซดลิบลับแฮะ?</Content>
         </Dialog>
         <Dialog ID="2" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_1-01</VoiceFile>
-          <Content>…It is the scent of black tea.</Content>
+          <Content>…มันนั้นคือกลิ่นของชาดำ</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_3</VoiceFile>
-          <Content>It’s a nice scent, I gotta say! Stands out from coffee’s.</Content>
+          <Content>ผมว่ากลิ่นมันก็หอมดี! ต่างจากกาแฟเยอะเลย</Content>
         </Dialog>
         <Dialog ID="4" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_2-01</VoiceFile>
-          <Content>It is indeed. Although I am quite certain that the blue-haired noble below me still has not grown enough to appreciate a good cup of black tea.</Content>
+          <Content>มันต้องแน่อยู่แล้ว ถึงแม้ฉันจะมั่นใจว่าพ่อหนุ่มมีสกุลผมฟ้าข้างล่างฉันยังไม่โตพอที่จะเห็นค่าของชาดำดีๆ สักแก้ว</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_4</VoiceFile>
-          <Content>This place feels overbearing unlike the other floors.</Content>
+          <Content>ที่นี่รู้สึกอึดอัดไม่เหมือนชั้นอื่นเลย</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_5</VoiceFile>
-          <Content>Kinda fits with philosophy, I guess.</Content>
+          <Content>คงเหมาะกับปรัชญาดีละมั้งนะ</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_6</VoiceFile>
-          <Content>Too confusing to understand, and has a heavy feel to it.</Content>
+          <Content>สับสนเกินจะเข้าใจ and has a heavy feel to it.</Content>
         </Dialog>
         <Dialog ID="8" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_3-01</VoiceFile>
-          <Content>What is the Library like from what you have seen?</Content>
+          <Content>หอสมุดคืออะไรจากสิ่งที่เธอได้เห็นกัน?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_7</VoiceFile>
-          <Content>The Library I’ve seen?</Content>
+          <Content>หอสมุดที่ผมได้เห็นเหรอ?</Content>
         </Dialog>
         <Dialog ID="10" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_4-01</VoiceFile>
-          <Content>Is it a place of death, nourishing its thirst with blood…</Content>
+          <Content>มันคือสถานที่แห่งความตาย หล่อเลี้ยงความกระหายด้วยเลือด…</Content>
         </Dialog>
         <Dialog ID="11" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_5</VoiceFile>
-          <Content>Is it a spire of knowledge, accumulating all sorts of information…</Content>
+          <Content>หรือเป็นยอดหน่อแห่งความรู้ ที่ที่รวบรวมข้อมูลทุกประเภท…</Content>
         </Dialog>
         <Dialog ID="12" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_6-01</VoiceFile>
-          <Content>Or is it perhaps an ark, sailing for a new life?</Content>
+          <Content>หรืออาจจะเป็นเรือที่ล่องหาชีวิตใหม่กัน?</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_8</VoiceFile>
-          <Content>Hmm, the Library I’ve seen was like… an arena, maybe…?</Content>
+          <Content>อืม หอสมุดที่ผมได้เห็นมันเหมือนกับ… สังเวียนต่อสู้มั้ง…?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_9</VoiceFile>
-          <Content>Angela, the librarians, and others are all fighting to earn what they want.</Content>
+          <Content>แองเจล่า เหล่าบรรณารักษ์ และคนอื่นๆ ต่างสู้เพื่อได้มาในสิ่งที่ต้องการ</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_10</VoiceFile>
-          <Content>So it’s really fierce and bloody, all in all.</Content>
+          <Content>มันเลยทั้งดุร้ายและเลือดสาดSo it’s really fierce and bloody, all in all.</Content>
         </Dialog>
         <Dialog ID="16" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_7-01</VoiceFile>
-          <Content>That is the Library from your point of view, I see.</Content>
+          <Content>นั่นคือหอสมุดจากมุมมองของเธอสินะ</Content>
         </Dialog>
         <Dialog ID="17" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_8-02</VoiceFile>
-          <Content>What kind of place is the Library to you, then?</Content>
+          <Content>หอสมุดสำหรับเธอแล้วเป็นสถานที่แบบใดกัน?</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_11</VoiceFile>
-          <Content>Well, for me, it’s just a jail.</Content>
+          <Content>ก็สำหรับผมนะ มันก็แค่คุก</Content>
         </Dialog>
         <Dialog ID="19" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_9-01</VoiceFile>
-          <Content>That does not appear to be true.</Content>
+          <Content>นั่นดูไม่น่าจะเป็นความจริงนะ</Content>
         </Dialog>
         <Dialog ID="20" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_10</VoiceFile>
-          <Content>You are in fact looking to seize an opportunity.</Content>
+          <Content>ที่จริงแล้วเธอกำลังรอฉวยโอกาสอยู่</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_12-01</VoiceFile>
-          <Content>…Well, duh, of course I’m looking to get outta here.</Content>
+          <Content>…ก็เออดิ ผมกำลังรอฉวยโอกาสหนีไปจากที่นี่อยู่แล้ว</Content>
         </Dialog>
         <Dialog ID="22" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_11-01</VoiceFile>
-          <Content>If that is what you say.</Content>
+          <Content>ถ้านั่นคือสิ่งที่เธอว่านะ</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_13-01</VoiceFile>
-          <Content>Who are you, really.</Content>
+          <Content>คุณเป็นใครกัน</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_14-01</VoiceFile>
-          <Content>You talk like you know everything.</Content>
+          <Content>คุณพูดเหมือนกับว่าคุณรู้ไปทุกอย่างเลย</Content>
         </Dialog>
         <Dialog ID="25" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_12</VoiceFile>
-          <Content>I am บินาห์.</Content>
+          <Content>ฉันมีนามว่าบินาห์</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_15-02</VoiceFile>
-          <Content>No, that’s not what I… Your aura’s not at all like any librarian I’ve met so far.</Content>
+          <Content>ไม่ นั่นไม่ใช่ที่ผมจะ… ออร่าคุณมันไม่เหมือนกับของบรรณารักษ์คนอื่นที่ผมเห็นมาเลย</Content>
         </Dialog>
         <Dialog ID="27" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_13</VoiceFile>
-          <Content>Then you must be wondering what kind of being I used to be in my first life.</Content>
+          <Content>ถ้างั้นเธอคงสงสัยว่าฉันเคยเป็นสิ่งใดในชีวิตแรกของฉันสินะ</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_16</VoiceFile>
-          <Content>Yeah, what the hell were you?</Content>
+          <Content>เออดิ คุณเป็นตัวอะไรกันแน่?</Content>
         </Dialog>
         <Dialog ID="29" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_14-01</VoiceFile>
-          <Content>I was an Arbiter of the Head.</Content>
+          <Content>ฉันเคยเป็นตุลาการของเดอะเฮด</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_17</VoiceFile>
-          <Content>What!?</Content>
+          <Content>ห๊ะ!?</Content>
         </Dialog>
         <Dialog ID="31" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_15-01</VoiceFile>
-          <Content>It has not been long since I was awoken from my slumber.</Content>
+          <Content>มันผ่านมาไม่นานหลังจากที่ฉันตื่นขึ้นจากการหลับไหล</Content>
         </Dialog>
         <Dialog ID="32" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_16-01</VoiceFile>
-          <Content>I must calm my mind with the help of tea, so come again at a later time.</Content>
+          <Content>ฉันต้องทำใจให้สงบด้วยชาก่อน ฉะนั้นมาใหม่ทีหลังแล้วกัน</Content>
         </Dialog>
         <Dialog ID="33" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_17-01</VoiceFile>
-          <Content>And remember to bring books for me.</Content>
+          <Content>และอย่าลืมที่จะนำหนังสือมาให้ฉันด้วย</Content>
         </Dialog>
         <Dialog ID="34" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_18</VoiceFile>
-          <Content>Wait!</Content>
+          <Content>เดี๋ยวสิ!</Content>
         </Dialog>
       </Place>
     </Episode>
