@@ -2167,7 +2167,7 @@
           <Teller>มัลคุท</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ประวัติศาสตร์</Title>
           <VoiceFile>ch8_Malkuth_ep5_Malkuth29</VoiceFile>
-          <Content>There’s only one way to find out. Angela, here I come!</Content>
+          <Content>มีทางเดียวที่จะรู้ แองเจล่า จะลุยล่ะน้าาาาาาา!</Content>
         </Dialog>
         <Dialog ID="124" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -13327,13 +13327,13 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland1</VoiceFile>
-          <Content>ชั้นสังคมศาสตร์… The Patron Librarian’s เชเซ็ด.</Content>
+          <Content>ชั้นสังคมศาสตร์… บรรณารักษ์ชั้นสังคมเชเซ็ด</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland2</VoiceFile>
-          <Content>*ฝืดๆ*. นี่มันกลิ่นกาแฟนี่สินะเนี้ย?</Content>
+          <Content>*ฝืดๆ* นี่มันกลิ่นกาแฟนี่สินะเนี้ย?</Content>
         </Dialog>
         <Dialog ID="2" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13351,7 +13351,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland3</VoiceFile>
-          <Content>โอ้ ไงเชเซ็ด ตอนรับดีจนทำเอาแอบเขินนิดๆเลยนะเนี้ย</Content>
+          <Content>โอ้ ไงเชเซ็ด ตอนรับดีจนทำเอาแอบเขินนิดๆ เลยนะเนี้ย</Content>
         </Dialog>
         <Dialog ID="5" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13369,7 +13369,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland5</VoiceFile>
-          <Content>อ็าค! กาแฟจริงๆปะเนี้ย? แน่ใจนะว่าไม่ได้บูดหรืออะไรเงี้ย?</Content>
+          <Content>พรืด! กาแฟจริงๆปะเนี้ย? แน่ใจนะว่าไม่ได้บูดหรืออะไรเงี้ย?</Content>
         </Dialog>
         <Dialog ID="8" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13387,7 +13387,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland6</VoiceFile>
-          <Content>แค็ก แค็ก… เดียวหาว่าโม้ ลองชิมเองสิ!</Content>
+          <Content>แค่ก แค่ก… เดียวหาว่าโม้ มาลองชิมเองสิ!</Content>
         </Dialog>
         <Dialog ID="11" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13459,7 +13459,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Chesed_ep1_roland12</VoiceFile>
-          <Content>อ้ายก็ พอจินตนาการว่าหมอกแดงในตำนานเนี้ย ทำสีหน้าเดียวกับฉันตอนดื่มกาแฟแล้ว มันตลกชะมัดเลย</Content>
+          <Content>แหม่อ้ายก็ พอจินตนาการว่าหมอกแดงในตำนานเนี้ย ทำสีหน้าเดียวกับฉันตอนดื่มกาแฟแล้ว มันตลกชะมัดเลย</Content>
         </Dialog>
         <Dialog ID="23" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -15660,19 +15660,19 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_2</VoiceFile>
-          <Content>ฮึม อากาศในนี้มีกลิ่นบางอย่าง… ที่ต่างจากที่ของเฮเซดลิบลับแฮะ?</Content>
+          <Content>ฮึม อากาศในนี้มีกลิ่นบางอย่าง… ที่ต่างจากที่ของเชเซดลิบลับแฮะ?</Content>
         </Dialog>
         <Dialog ID="2" Model="비나">
           <Teller>บินาห์</Teller>
           <Title>หัวหน้าบรรณารักษ์ - ปรัชญา</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_1-01</VoiceFile>
-          <Content>…มันนั้นคือกลิ่นของชาดำ</Content>
+          <Content>…มันนั้นคือชาดำ</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_3</VoiceFile>
-          <Content>ผมว่ากลิ่นมันก็หอมดี! ต่างจากกาแฟเยอะเลย</Content>
+          <Content>ฉันว่ากลิ่นมันก็หอมดี! ต่างจากกาแฟเยอะเลย</Content>
         </Dialog>
         <Dialog ID="4" Model="비나">
           <Teller>บินาห์</Teller>
@@ -15696,7 +15696,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_6</VoiceFile>
-          <Content>สับสนเกินจะเข้าใจ and has a heavy feel to it.</Content>
+          <Content>และสับสนเกินจะเข้าใจ</Content>
         </Dialog>
         <Dialog ID="8" Model="비나">
           <Teller>บินาห์</Teller>
@@ -15744,7 +15744,7 @@ I appreciate your help, everyone.</Content>
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch8_Binah_ep1_Roland_10</VoiceFile>
-          <Content>มันเลยทั้งดุร้ายและเลือดสาดSo it’s really fierce and bloody, all in all.</Content>
+          <Content>มันเลยทั้งดุร้ายและเลือดสาดเลยล่ะ</Content>
         </Dialog>
         <Dialog ID="16" Model="비나">
           <Teller>บินาห์</Teller>
