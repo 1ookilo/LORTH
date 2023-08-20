@@ -4255,13 +4255,13 @@
           <Teller>เรสติ</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti4</VoiceFile>
-          <Content>หื้ม… “ดูเหมือนเนื้อจะกระจายไปจนแทบปกคลุมทั่วพื้นที่เลย เป้าหมายดูจะรู้สึกอยากเจ็บปวดให้มากที่สุด…” นี่น่าจะนับว่าฆ่าตัวตายนะคะ</Content>
+          <Content>หื้ม… “ดูเหมือนเนื้อจะกระจายไปจนแทบปกคลุมทั่วพื้นที่เลย เป้าหมายดูจะอยากรู้สึกอยากเจ็บปวดให้มากที่สุด…” นี่น่าจะนับว่าฆ่าตัวตายนะคะ</Content>
         </Dialog>
         <Dialog ID="18" Model="센">
           <Teller>เซน</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen9</VoiceFile>
-          <Content>โอ้ เก่งนะเราเนี่ย? พวกเด็กใหม่หลายคนไม่สามารถที่จะกลั้นไม่ให้อ้วกออกมาหรือหมดสติไปตั้งแต่ลงสนามครั้งแรกได้เลย ขนาดได้ตัวช่วยจากคลิปให้ศึกษาแล้วนะ</Content>
+          <Content>โอ้ เก่งนะเราเนี่ย? พวกเด็กใหม่หลายคนไม่สามารถที่จะกลั้นไม่ให้อ้วกออกมาหรือหมดสติไปตั้งแต่ลงสนามครั้งแรกได้เลย ขนาดได้ตัวช่วยจากคลิปสอนแล้วนะ</Content>
         </Dialog>
         <Dialog ID="19" Model="로즈">
           <Teller>โรส</Teller>
@@ -4291,7 +4291,7 @@
           <Teller>เรสติ</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti6</VoiceFile>
-          <Content>คุณเคยบอกว่าพนักงานเก็บกวาดจะต้องถูกลบความทรงจำ แล้วถึงได้เงินบำนาญเกษียณเมื่อลาออกใช่ไหมคะ?</Content>
+          <Content>รุ่นพี่เคยบอกว่าพนักงานเก็บกวาดจะต้องถูกลบความทรงจำ แล้วถึงได้เงินบำนาญเกษียณเมื่อลาออกใช่ไหมคะ?</Content>
         </Dialog>
         <Dialog ID="24" Model="센">
           <Teller>เซน</Teller>
@@ -4321,7 +4321,7 @@
           <Teller>เรสติ</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti8</VoiceFile>
-          <Content>ฮุฮุฮุ บางทีฉันอาจจะปิดปากเงียบไว้ก็ได้นะถ้าคุณยอมเลี้ยงมื้อค่ำ ก็อบชัง-จองอลก็ดีนะคะ!</Content>
+          <Content>ฮุฮุฮุ บางทีฉันอาจจะปิดปากเงียบไว้ก็ได้นะถ้ารุ่นพี่ยอมเลี้ยงมื้อค่ำ ก็อบชัง-จองอลก็ดีนะคะ!</Content>
         </Dialog>
         <Dialog ID="29" Model="센">
           <Teller>เซน</Teller>
@@ -4378,7 +4378,7 @@
           <Teller>เรสติ</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti11</VoiceFile>
-          <Content>ยังไงห้องนี้ก็คุ้มกันสูสุดอยู่แล้วไม่ใช่เหรอคะ</Content>
+          <Content>ยังไงห้องนี้ก็คุ้มกันสูงสุดอยู่แล้วไม่ใช่เหรอคะ</Content>
         </Dialog>
         <Dialog ID="38" Model="센">
           <Teller>เซน</Teller>
@@ -4438,13 +4438,13 @@
           <Teller>เรสติ</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti15</VoiceFile>
-          <Content>พวกนั้นดูเหมือนหมอเลย? พวกเขาเย็บร่างพวกนั้นเข้าด้วยอย่างประณีตเลย</Content>
+          <Content>พวกนั้นดูเหมือนหมอเลย? พวกเขาเย็บร่างพวกนั้นเข้าด้วยอย่างประณีตด้วย</Content>
         </Dialog>
         <Dialog ID="48" Model="센">
           <Teller>เซน</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen21</VoiceFile>
-          <Content>ฉันล่ะสงสารพนักงานทำความสะอาดที่ต้องไปฉีกร่างพวกเขาออกจากกันจัง</Content>
+          <Content>ฉันล่ะสงสารพนักงานเก็บกวาดที่ต้องไปฉีกร่างพวกเขาออกจากกันจัง</Content>
         </Dialog>
         <Dialog ID="49" Model="로즈">
           <Teller>โรส</Teller>
@@ -4486,7 +4486,7 @@
           <Teller>ผู้โดยสารชั้นเฟิร์สคลาส 2</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_firstclass2-01</VoiceFile>
-          <Content>รู้มั้ยว่าฉันเป็นใคร?! แก! บ้าเอ้ย?! ฉันคือผู้บริหาร U คอร์ปเลยนะเว้ย!!!</Content>
+          <Content>รู้มั้ยว่าฉันเป็นใคร?! แก! บ้าเอ้ย?! ฉันอยู่ในบอร์ดบริหาร U คอร์ปเลยนะเว้ย!!!</Content>
         </Dialog>
         <Dialog ID="56" Model="1등석 승객3">
           <Teller>ผู้โดยสารชั้นเฟิร์สคลาส 3</Teller>
@@ -4498,19 +4498,19 @@
           <Teller>แจ-ฮอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch5_CleanupCrew_ep1__Jaeheon1-01</VoiceFile>
-          <Content>จะเป็นใครกันนะ ฉันก็สงสัยเหมือนกัน? ฮีฮี่… คงจะเป็นเส้นใยที่มองไม่เห็นที่คอยเชิดมาตลอดล่ะมั้ง</Content>
+          <Content>จะเป็นใครกันนะ ฉันก็สงสัยเหมือนกัน? หึหึ… คงจะเป็นเส้นด้ายที่มองไม่เห็นที่คอยชักใยมาตลอดล่ะมั้ง</Content>
         </Dialog>
         <Dialog ID="58" Model="레스티">
           <Teller>เรสติ</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti18</VoiceFile>
-          <Content>เขาเย็บเนื้อของคนเป็นๆ … และใส่เส้นใยเข้าไปงั้นเหรอ…</Content>
+          <Content>เขาเย็บเนื้อของคนเป็นๆ … และใส่เส้นด้ายเข้าไปงั้นเหรอ…</Content>
         </Dialog>
         <Dialog ID="59" Model="센">
           <Teller>เซน</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen23</VoiceFile>
-          <Content>ไอ้บ้านั่นมันเป็นใครกัน? มีการติดต่อมาจากสมาคมฮานาบ้างไหม? นั่นมันองค์กรรีไงกัน?</Content>
+          <Content>ไอ้บ้านั่นมันเป็นใครกัน? มีการติดต่อมาจากสมาพันธ์ฮานาบ้างไหม? นั่นมันองค์กรรีไงกัน?</Content>
         </Dialog>
         <Dialog ID="60" Model="로즈">
           <Teller>โรส</Teller>
@@ -4528,7 +4528,7 @@
           <Teller>โรส</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose16</VoiceFile>
-          <Content>ฝันร้ายประจำเมือง แต่เขาเพิ่งจะลงไม้ลงมือกับพวก VIP งั้นอีกไม่นานเขาก็คงถูกจัดเป็นดาวประจำเมือง</Content>
+          <Content>ฝันร้ายประจำเมือง แต่เขาเพิ่งจะลงไม้ลงมือกับพวก VIP งั้นคงอีกไม่นานเขาก็คงถูกจัดเป็นดาวประจำเมืองแล้วล่ะมั้ง</Content>
         </Dialog>
         <Dialog ID="63" Model="로즈">
           <Teller>โรส</Teller>
@@ -4558,7 +4558,7 @@
           <Teller>โรส</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose19</VoiceFile>
-          <Content>ผูโดยสารชั้นเฟิร์สคลาส… ไม่สิ “หุ่นเชิด” ตามที่สมาคมฮานากำหนดชื่อ</Content>
+          <Content>ผู้โดยสารชั้นเฟิร์สคลาส… ไม่สิ “หุ่นเชิด” ตามที่สมาพันธ์ฮานากำหนดชื่อ</Content>
         </Dialog>
         <Dialog ID="68" Model="로즈">
           <Teller>โรส</Teller>
@@ -4606,7 +4606,7 @@
           <Teller>โรส</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose22</VoiceFile>
-          <Content>เราจะเซ็นชื่อที่กระดาศนี่ มันถูกเรียกว่า “บัตรเชิญ” จากฝันร้ายประจำเมืองที่ถูกเรียกว่า ‘ห้องสมุด’.</Content>
+          <Content>เราจะเซ็นชื่อที่กระดาษนี่ มันถูกเรียกว่า “บัตรเชิญ” จากฝันร้ายประจำเมืองที่ถูกเรียกว่า ‘ห้องสมุด’</Content>
         </Dialog>
         <Dialog ID="76" Model="센">
           <Teller>เซน</Teller>
@@ -4630,7 +4630,7 @@
           <Teller>เซน</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen29</VoiceFile>
-          <Content>นี่พวก จะเป็นยังไงถ้าเราฝ่าฝทนคำสั่งนี้…</Content>
+          <Content>นี่พวก จะเป็นยังไงถ้าเราฝ่าฝืนคำสั่งนี้…</Content>
         </Dialog>
         <Dialog ID="80" Model="로즈">
           <Teller>โรส</Teller>
@@ -4663,7 +4663,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Roland3</VoiceFile>
-          <Content>เฮ้อ ให้… ฉันเคยขึ้น WARP สองสามครั้งก่อนหน้านี้…</Content>
+          <Content>เฮ้อ ให้ตายสิ… ฉันเคยขึ้นรถไฟ WARP สองสามครั้งก่อนหน้านี้…</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -4681,13 +4681,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Roland5</VoiceFile>
-          <Content>และดูพนักงงานพวกนั้นสิ ทำตามคู่มือแล้วก็เล่นตลกกับกับเรื่องนั้น จัดการกับซากเนื้อได้หน้าตาเฉยเลย</Content>
+          <Content>และดูพนักงานพวกนั้นสิ ทำตามคู่มือแล้วก็เล่นตลกกัน จัดการกับซากเนื้อได้อย่างหน้าตาเฉยเลย</Content>
         </Dialog>
         <Dialog ID="88" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela2</VoiceFile>
-          <Content>โลโบโตมี่คอร์ปก็ไม่ต่างเท่าไหร่ ถึงกระนั้นก็ค่อนข้างน่าสนใจที่ได้เห็นความลับอันน่าสยดสยองของอีกวิงส์ด้วยตาของฉันเอง</Content>
+          <Content>โลโบโตมี่คอร์ปก็ไม่ต่างเท่าไหร่ ถึงกระนั้นก็ค่อนข้างน่าสนใจที่ได้เห็นความลับอันน่ารังเกียจของอีกวิงส์ด้วยตาของฉันเอง</Content>
         </Dialog>
         <Dialog ID="89" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -4756,13 +4756,13 @@
           <Teller>เซน</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen31</VoiceFile>
-          <Content>แต่ตั้งแต่ละคนเป็นราชา, อัศวิน, พวกขุนนาง, ฯลฯ</Content>
+          <Content>แต่งตั้งแต่ละคนเป็นราชา, อัศวิน, พวกขุนนาง, ฯลฯ</Content>
         </Dialog>
         <Dialog ID="100" Model="센">
           <Teller>เซน</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen32</VoiceFile>
-          <Content>เมืองนึงนี่เทียบไม่ตดเลยล่ะ</Content>
+          <Content>เมืองนึงนี่เทียบไม่ติดเลยล่ะ</Content>
         </Dialog>
         <Dialog ID="101" Model="센">
           <Teller>เซน</Teller>
@@ -4798,7 +4798,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela8</VoiceFile>
-          <Content>คุณหมายถึงหุ่นเชิดที่ถูกสร้างจากผู้โดยสารชั้นเฟิร์สคลาสของ W Corp คะ?</Content>
+          <Content>คุณหมายถึงหุ่นเชิดที่ถูกสร้างจากผู้โดยสารชั้นเฟิร์สคลาสของ W คอร์ปใช่ไหมคะ?</Content>
         </Dialog>
         <Dialog ID="107" Model="센">
           <Teller>เซน</Teller>
@@ -4834,7 +4834,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela11</VoiceFile>
-          <Content>ขอให้คุณเจอหนังสือที่ต้องการในที่แห่งนี้ค่ะ</Content>
+          <Content>ขอให้คุณเจอหนังสือที่ต้องการ ณ ที่แห่งนี้ค่ะ</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -4858,7 +4858,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Roland10</VoiceFile>
-          <Content>…ฉันรู้นะว่ามันไม่เหมาะที่จะถามตอนนี้ แต่เรื่องแผนการที่เกิดขึ้นในโลโบโตมี่คอร์เปอร์เรชั่น ที่ทำให้เธอต้องเจอกับการวนลูปที่ไ่รู้จบน่ะ…</Content>
+          <Content>…ฉันรู้นะว่ามันไม่เหมาะที่จะถามตอนนี้ แต่เรื่องแผนการที่เกิดขึ้นในโลโบโตมี่คอร์เปอร์เรชั่น ที่ทำให้เธอต้องเจอกับการวนลูปที่ไม่รู้จบน่ะ…</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -4906,7 +4906,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela17</VoiceFile>
-          <Content>จำที่ฉันบอกเกี่ยวกับผู้สร้างของฉันได้ไหม? เขาตั้งใจให้กำเนิดฉันด้วยความอย่างไร และทิ้งฉันไปเมื่อฉันไม่เป็นไปตามที่เขาคาดหวังไว้</Content>
+          <Content>จำที่ฉันบอกเกี่ยวกับผู้สร้างของฉันได้ไหม? เขาตั้งใจให้กำเนิดฉันด้วยความตั้งใจอย่างไร และทิ้งฉันไปเมื่อฉันไม่เป็นไปตามที่เขาคาดหวังไว้</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -4961,399 +4961,399 @@
         </Dialog>
         <Dialog ID="1" Model="아르갈리아">
           <Teller>อากาเลีย</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia2</VoiceFile>
           <Content>สหายของผมเกือบจะร้องไห้จนสลบแล้วนะครับ ดูสิ…</Content>
         </Dialog>
         <Dialog ID="2" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia3</VoiceFile>
-          <Content>เทลม่า… โอ้ เทลมา… เพื่อนที่น่าสงสารเอ๋ย…</Content>
+          <Content>เทลม่า… โอ้ เทลม่า… เพื่อนที่น่าสงสารเอ๋ย…</Content>
         </Dialog>
         <Dialog ID="3" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia4</VoiceFile>
           <Content>คุณกลั้นน้ำตาเอาไว้จะดีกว่านะครับ</Content>
         </Dialog>
         <Dialog ID="4" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia5</VoiceFile>
           <Content>ความสนุกของจริงยังไม่ทันจะเริ่มเลย</Content>
         </Dialog>
         <Dialog ID="5" Model="진">
-          <Teller>Jin</Teller>
+          <Teller>จิน</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Jin1</VoiceFile>
           <Content>โฮะ โฮะ โฮ้ย ควันเผ็ดจากท่อกระจ้อยร่อยของฉัน คงจะทำให้แกชาจนหายเจ็บสินะ?</Content>
         </Dialog>
         <Dialog ID="6" Model="진">
-          <Teller>Jin</Teller>
+          <Teller>จิน</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Jin2</VoiceFile>
           <Content>ไอ้นี่ทำให้สหายตัวน้อยของเรากลัวรึเปล่านะ หวาง เพื่อนยาก~</Content>
         </Dialog>
         <Dialog ID="7" Model="왕">
-          <Teller>Wang</Teller>
+          <Teller>หวาง</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Wang1</VoiceFile>
           <Content>แน่นอน แน่นอน โฮะ โฮะ โฮ้ย ฉันเพิ่งจะหั่นไปได้ เอ่อเท่าไหร่นะ 1347 ชิ้นเอง…</Content>
         </Dialog>
         <Dialog ID="8" Model="왕">
-          <Teller>Wang</Teller>
+          <Teller>หวาง</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Wang2</VoiceFile>
           <Content>ไหนดูสิ… สหายสีคราม คุณอยากจะได้กี่ชิ้นนะ…?</Content>
         </Dialog>
         <Dialog ID="9" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia6</VoiceFile>
-          <Content>เทลมาอาจตจะเป็นเพื่อนรักของผม แต่ว่าการผิดสัญญาก็เป็นความร้ายแรง งั้น…</Content>
+          <Content>เทลมาอาจตจะเป็นเพื่อนรักของผม แต่ว่าการผิดสัญญาก็เป็นความผิดร้ายแรง งั้น…</Content>
         </Dialog>
         <Dialog ID="10" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia7</VoiceFile>
           <Content>หนึ่งหมื่นชิ้นเป็นไงครับ?</Content>
         </Dialog>
         <Dialog ID="11" Model="왕">
-          <Teller>Wang</Teller>
+          <Teller>หวาง</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Wang3</VoiceFile>
           <Content>เอาล่ะ เอาล่ะ วางใจได้เลย ลูกเพ่</Content>
         </Dialog>
         <Dialog ID="12" Model="진">
-          <Teller>Jin</Teller>
+          <Teller>จิน</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Jin3</VoiceFile>
-          <Content>อุ้ย บักเกอริดู~! มี่ ยัยคนตะกละเอ้ย!! จะกินจนหมดจานไม่ได้นะเฮ้ย!!!</Content>
+          <Content>โอ้ย บักเกอริดู~! มี่ ยัยคนตะกละเอ้ย!! จะกินจนหมดจานไม่ได้นะเฮ้ย!!!</Content>
         </Dialog>
         <Dialog ID="13" Model="미">
-          <Teller>Mi</Teller>
+          <Teller>มี่</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Mi1</VoiceFile>
           <Content>โอ้ย หูจะแตกอยู่แล้ว! ยังไงเราก็จะกินมันอยู่ดีไม่ใช่รึงาย งั้นทำมายไม่กินมันซะตอนนี้เลยล่ะ หืม?</Content>
         </Dialog>
         <Dialog ID="14" Model="왕">
-          <Teller>Wang</Teller>
+          <Teller>หวาง</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Wang4</VoiceFile>
           <Content>ตอนนี้ ตอนนี้~ ยังเหลืออีกเพียบพอให้เราทู้กคนกินอยู่นะ ดั้งนั้นไม่ต้องทะเลาะกันเพราะแค่เศษเนื้อหรอก</Content>
         </Dialog>
         <Dialog ID="15" Model="왕">
-          <Teller>Wang</Teller>
+          <Teller>หวาง</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Wang5</VoiceFile>
-          <Content>ฉันจะยายามหั่นให้พวกเราทู้กคนได้อิ่มท้องนะ</Content>
+          <Content>ฉันจะยายามหั่นให้พวกเราทู้กคนได้อิ่มท้องเอง</Content>
         </Dialog>
         <Dialog ID="16" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia8</VoiceFile>
           <Content>เทลม่า… อย่ามองผมแบบนั้นสิครับ คุณก็รู้ข้อตกลงอยู่แล้วนี่</Content>
         </Dialog>
         <Dialog ID="17" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia9</VoiceFile>
           <Content>คุณทำงานทุกอย่างดีมาตลอด จะมาทำให้ผมผิดหวังในตอนสุดท้ายไม่ได้นะครับ…</Content>
         </Dialog>
         <Dialog ID="18" Model="미">
-          <Teller>Mi</Teller>
+          <Teller>มี่</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Mi2</VoiceFile>
           <Content>สหายสีครามเอ้ย ดูเหมือนว่าสหายคนนี้มีอะไรอยากจะพูดนา… ให้ดึงที่ปิดปากมันออกมั้ย?</Content>
         </Dialog>
         <Dialog ID="19" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia10</VoiceFile>
           <Content>แน่นอน รบกวนด้วยนะครับ</Content>
         </Dialog>
         <Dialog ID="20" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama1</VoiceFile>
           <Content>เฮือก… อ้า… แฮ่ก แฮ่ก…</Content>
         </Dialog>
         <Dialog ID="21" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama2</VoiceFile>
           <Content>ก้องกังวาลสีคร… แก… ไอ้บ้าเลวระยำ…</Content>
         </Dialog>
         <Dialog ID="22" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama3-01</VoiceFile>
           <Content>อย่ามาพูดให้ขำไปหน่อยเลย… แกไม่ใช่เหรอที่ให้งานที่เป็นไปไม่ได้มาตั้งแต่แรกน่ะ…!</Content>
         </Dialog>
         <Dialog ID="23" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia11</VoiceFile>
-          <Content>เฮ้อ… คุณเลือกที่จะใช้เพียงแผนก 2 ของสาขาทางใต้เท่านั้นทำงานนี้เองนะครับ เทลม่า</Content>
+          <Content>เฮ้อ… คุณเลือกที่จะใช้เพียงแผนก 2 ของสาขาทางใต้เท่านั้นมาทำงานนี้เองนะครับ เทลม่า</Content>
         </Dialog>
         <Dialog ID="24" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia12</VoiceFile>
-          <Content>คุณควรให้แผนก 1 รับมือบ้างนะครับ คุณเทลม่าตัวน้อยผู้โอหังเอ๋ย พยายามใช้แผนสกปรกเพื่อกำจัดแผนกที่ 2 เพื่อให้เขาเองรักษาเก้าอี้ของตัวเองเอาไว้ได้ และอนนี้เขาก็ล้มเหลวที่จะรักษาสัญญาที่ให้ไว้กับผม</Content>
+          <Content>คุณควรให้แผนก 1 รับมือบ้างนะครับ เทลม่าตัวน้อยผู้โอหัง เขาพยายามใช้แผนสกปรกเพื่อกำจัดแผนกที่ 2 เพื่อให้เขาเองรักษาเก้าอี้ของตัวเองเอาไว้ได้ และตอนนี้เขาก็ล้มเหลวที่จะรักษาสัญญาที่ให้ไว้กับผม</Content>
         </Dialog>
         <Dialog ID="25" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama4-01</VoiceFile>
           <Content>แต่แก!!! แกล่อให้ฉันใช้พวกนั้น!!!</Content>
         </Dialog>
         <Dialog ID="26" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia13</VoiceFile>
           <Content>ผมไม่เคยบอกว่าต้องซะหน่อยนะครับ จริงไหม?</Content>
         </Dialog>
         <Dialog ID="27" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia14</VoiceFile>
-          <Content>ทั้งหมดที่ผมขอจากคุณคือจัดการทุกอย่างที่อยู่ในรายการภายในเวลาที่ผมกำหนด และคุณก็ยอมรับข้อตกลงด้วย</Content>
+          <Content>ทั้งหมดที่ผมขอจากคุณคือจัดการทุกอย่างที่อยู่ในรายการภายในเวลาที่ผมกำหนด และคุณก็ยอมรับข้อตกลงนั้นด้วย</Content>
         </Dialog>
         <Dialog ID="28" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama5-01</VoiceFile>
-          <Content>…ไอ้เจ้าเล่ห์เอ้ย… …ถ้าแกข้าฉันที่เป็นผู้จัดการสาขา… แผนก 1 ของสาขาฉันจะตามล่าแก สำนักงานใหญ่ของชิก็ด้วย…</Content>
+          <Content>…ไอ้เจ้าเล่ห์เอ้ย… …ถ้าแกฆ่าฉันที่เป็นผู้จัดการสาขา… แผนก 1 ของสาขาฉันจะตามล่าแก สำนักงานใหญ่ของชิก็ด้วย…</Content>
         </Dialog>
         <Dialog ID="29" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama6</VoiceFile>
           <Content>แม้แต่ฮานาก็ต้องเคลื่อนไหวแน่…</Content>
         </Dialog>
         <Dialog ID="30" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama7-01</VoiceFile>
           <Content>ดังนั้น… ขอล่ะ…!</Content>
         </Dialog>
         <Dialog ID="31" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama8-01</VoiceFile>
           <Content>ให้โอกาสอีกซักครั้งเถอะ…</Content>
         </Dialog>
         <Dialog ID="32" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia15</VoiceFile>
           <Content>เทลม่า… คุณจะแค่ขอโทษที่ผิดสัญญาของพวกเราไม่ได้นะครับ</Content>
         </Dialog>
         <Dialog ID="33" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia16</VoiceFile>
           <Content>มันทำให้ผมปวดใจมากเลย โอ และคุณก็ไม่ต้องกังวลเรื่องของผมหรอกนะครับ</Content>
         </Dialog>
         <Dialog ID="34" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia17</VoiceFile>
-          <Content>บอกผมหน่อยสหาย ว่าพวกเราอยู่ที่ไหน?</Content>
+          <Content>บอกผมหน่อยสหาย ว่าตอนนี้พวกเราอยู่ที่ไหน?</Content>
         </Dialog>
         <Dialog ID="35" Model="왕">
-          <Teller>Wang</Teller>
+          <Teller>หวาง</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Wang6</VoiceFile>
           <Content>แบล็กสตรีทงาย ใช่แล้ว ที่ เอ่อ… เขต 23 ใช่ป๊ะ?</Content>
         </Dialog>
         <Dialog ID="36" Model="진">
-          <Teller>Jin</Teller>
+          <Teller>จิน</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Jin4</VoiceFile>
-          <Content>โว้ว จริงดิ? เพื่อผู้น่าฉงฉารนี่จะรู้มั้ยนะว่านี่ก็ค่ำแล้ว?</Content>
+          <Content>โว้ว จริงดิ? เพื่อนผู้น่าฉงฉารนี่จะรู้มั้ยนะว่านี่ก็ค่ำแล้ว?</Content>
         </Dialog>
         <Dialog ID="37" Model="미">
-          <Teller>Mi</Teller>
+          <Teller>มี่</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Mi3</VoiceFile>
           <Content>เขาจะไปรู้ได้ไงล่ะ! ก็ไปปิดตาเข้าซะแน่นแบบนี้หนิ!</Content>
         </Dialog>
         <Dialog ID="38" Model="왕">
-          <Teller>Wang</Teller>
+          <Teller>หวาง</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Wang7</VoiceFile>
           <Content>ช่าย ช่าย</Content>
         </Dialog>
         <Dialog ID="39" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama9</VoiceFile>
           <Content>…ตอนกลางคืนในแบล็กสตรีทเหรอ?</Content>
         </Dialog>
         <Dialog ID="40" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia18</VoiceFile>
           <Content>บิงโก บิงโก จะไม่มีใครรู้ด้วยซ้ำว่าคุณตายที่ไหน หรือใครเป็นคนทำ</Content>
         </Dialog>
         <Dialog ID="41" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia19</VoiceFile>
           <Content>คุณก็จะแค่หายไปกับเมือง… ใช่ไหมครับ?</Content>
         </Dialog>
         <Dialog ID="42" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำโบสถ์แห่งฟันเฟือง</Title>
           <VoiceFile>ch5_Smiling_ep1_Eileen1</VoiceFile>
-          <Content>ฉันมั่นใจว่าจะเป็นเช่นั้นค่ะ ท่านอากาเลีย</Content>
+          <Content>ฉันมั่นใจว่าจะเป็นเช่นนั้นค่ะ ท่านอากาเลีย</Content>
         </Dialog>
         <Dialog ID="43" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia20</VoiceFile>
           <Content>เค งั้น! เอาตามนั้นล่ะครับ สหาย</Content>
         </Dialog>
         <Dialog ID="44" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama10_b</VoiceFile>
-          <Content>…ฉันขอโทษ! ฉันขอโทษจริงๆ นายท่าน!</Content>
+          <Content>…ฉันขอโทษ! ฉันขอโทษจริงๆ ท่าน!</Content>
         </Dialog>
         <Dialog ID="45" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama11-01</VoiceFile>
-          <Content>ฉันขอโทษจริงๆ… Khn, hnn… ฉันขอโทษที่ผิดสัญญา…</Content>
+          <Content>ฉันขอโทษจริงๆ… ฮรึก ฮรือ… ฉันขอโทษที่ผิดสัญญา…</Content>
         </Dialog>
         <Dialog ID="46" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia21</VoiceFile>
           <Content>……</Content>
         </Dialog>
         <Dialog ID="47" Model="왕">
-          <Teller>Wang</Teller>
+          <Teller>หวาง</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Wang8</VoiceFile>
           <Content>เอางายดีเรา สหายสีคราม?</Content>
         </Dialog>
         <Dialog ID="48" Model="미">
-          <Teller>Mi</Teller>
+          <Teller>มี่</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Mi4</VoiceFile>
-          <Content>ตัดให้สั้นอีกดีมั้ยน้า?</Content>
+          <Content>จะตัดให้สั้นอีกดีมั้ยน้า?</Content>
         </Dialog>
         <Dialog ID="49" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia22</VoiceFile>
           <Content>เทลม่า…</Content>
         </Dialog>
         <Dialog ID="50" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama12-01</VoiceFile>
           <Content>ครับ! อากาเลีย… ฉันผิดไปแล้ว… ฉันสาบาน…</Content>
         </Dialog>
         <Dialog ID="51" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama13-01</VoiceFile>
           <Content>ฉันสาบาน! ว่าฉันจะไม่! ลูกไม้อีกแล้ว!</Content>
         </Dialog>
         <Dialog ID="52" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama14-01</VoiceFile>
           <Content>และฉันจะไม่ผิดสัญญาที่ให้กับคุณอีก…!</Content>
         </Dialog>
         <Dialog ID="53" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia23</VoiceFile>
           <Content>อ้า~ เทลม่า…</Content>
         </Dialog>
         <Dialog ID="54" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia24</VoiceFile>
           <Content>ทำเอาผมเกือบร้องไห้เลยนะครับ…</Content>
         </Dialog>
         <Dialog ID="55" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia25</VoiceFile>
-          <Content>ไม่มีทางที่ผมจะไว้ชีวิตคุณเพียงเพราะคำขอโทษหรอกนะครับ</Content>
+          <Content>ไม่มีทางที่ผมจะไว้ชีวิตคุณเพียงเพราะคำขอโทษหรอกนะ</Content>
         </Dialog>
         <Dialog ID="56" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia26</VoiceFile>
           <Content>ผมรู้ว่าคุณไม่ใช่สหายที่หัวไวที่สุดที่ผมรู้จัก แต่ผมไม่คิดเลยว่าคุณจะคิดออกช้าขนาดนี้</Content>
         </Dialog>
         <Dialog ID="57" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia27</VoiceFile>
           <Content>ถึงกระนั้น… ผมซาบซึ้งกับคำขอโทษนั้นจับใจเลยครับ</Content>
         </Dialog>
         <Dialog ID="58" Model="왕">
-          <Teller>Wang</Teller>
+          <Teller>หวาง</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Wang9</VoiceFile>
           <Content>เอาล่ะ เอาล่ะ ได้เวลาใส่ที่ปิดปากคืนแล้วนะ เพื่อนเอ้ย ร้องอ้าหน่อย~</Content>
         </Dialog>
         <Dialog ID="59" Model="셀마">
-          <Teller>Thelma</Teller>
-          <Title>Shi S. Branch Manager</Title>
+          <Teller>เทลม่า</Teller>
+          <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama15-01</VoiceFile>
           <Content>อ้าาาาาาาา!!!! ไอ้พวกระยำ!! ฉันเกลียดพวกแก!!!!</Content>
         </Dialog>
         <Dialog ID="60" Model="미">
-          <Teller>Mi</Teller>
+          <Teller>มี่</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Mi5</VoiceFile>
           <Content>อย่าทำหน้าเศร้าแบบนั้นสิเพื่อนเอ้ย~ ชีวิตควรจะมีสีสันมากกว่านะ</Content>
         </Dialog>
         <Dialog ID="61" Model="진">
-          <Teller>Jin</Teller>
+          <Teller>จิน</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Jin5</VoiceFile>
           <Content>แล้วเอาไงต่อ สหาย?</Content>
         </Dialog>
         <Dialog ID="62" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia28</VoiceFile>
           <Content>ทันทีที่เสร็จธุระกับเขา ให้มุ่งหน้าไปที่ห้องสมุดครับ ผมจะทิ้งคำเชิญไว้ตรงนี้นะ</Content>
         </Dialog>
         <Dialog ID="63" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia29</VoiceFile>
           <Content>และดูแลเทลม่าให้ดีด้วยนะครับ ถึงอย่างไรเขาก็เป็นเพื่อนเก่าของผม</Content>
         </Dialog>
         <Dialog ID="64" Model="왕">
-          <Teller>Wang</Teller>
+          <Teller>หวาง</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Wang10</VoiceFile>
           <Content>โฮะ โฮ้ย วางใจได้เลย เพื่อนเอ้ย~</Content>
         </Dialog>
         <Dialog ID="65" Model="아르갈리아">
-          <Teller>Argalia</Teller>
-          <Title>The Blue Reverberation</Title>
+          <Teller>อากาเลีย</Teller>
+          <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia30</VoiceFile>
           <Content>เอาล่ะ ไอลีน ไปเจอสหายคนอื่นกันดีไหมครับ?</Content>
         </Dialog>
         <Dialog ID="66" Model="에일린">
-          <Teller>Eileen</Teller>
-          <Title>Church of Gears Leader</Title>
+          <Teller>ไอลีน</Teller>
+          <Title>ผู้นำโบสถ์แห่งฟันเฟือง</Title>
           <VoiceFile>ch5_Smiling_ep1_Eileen2-02</VoiceFile>
-          <Content>ได้ค่ะ ท่าน</Content>
+          <Content>ได้ค่ะ นายท่าน</Content>
         </Dialog>
       </Place>
       <Place>
@@ -5374,7 +5374,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Smiling_ep1_Roland3</VoiceFile>
-          <Content>เขาเป็นฟิกเซอร์, และเขาก็มีการบิดเบือนและแม้กระทั่งพวก Smiling ก็อยู่ภายใต้เขา…</Content>
+          <Content>เขาเป็นฟิกเซอร์, และเขาก็มีการบิดเบือนและแม้กระทั่งพวก Smiling Faces ก็อยู่ภายใต้เขา…</Content>
         </Dialog>
         <Dialog ID="70" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -5392,7 +5392,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Smiling_ep1_Roland5</VoiceFile>
-          <Content>สมาคมฮานาได้แต่งตั้งสีที่เป็นเอกลักษณืให้กับแต่ละคน</Content>
+          <Content>สมาพันธ์ฮานาได้แต่งตั้งสีที่เป็นเอกลักษณืให้กับแต่ละคน</Content>
         </Dialog>
         <Dialog ID="73" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -5458,28 +5458,28 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Smiling_ep1_Roland12</VoiceFile>
-          <Content>บางทีนะ ถ้าเราลองพยายามดู เมืองก็คงดีขึ้นมากเหมือนกันถ้าไอ้บ้านั่นไม่อยู่ซักคน</Content>
+          <Content>บางทีนะ ถ้าเราลองพยายามดูก็อาจได้ เมืองก็คงดีขึ้นมากเหมือนกันถ้าไอ้บ้านั่นไม่อยู่ซักคน</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>สถานที่: ภายในห้องสมุด</PlaceName>
         <Dialog ID="84" Model="진">
-          <Teller>Jin</Teller>
+          <Teller>จิน</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Jin6</VoiceFile>
           <Content>โฮ่โฮ่ ดูนั่นสิ~ ที่นี่มันหลุดโลกไปแล้ววว~</Content>
         </Dialog>
         <Dialog ID="85" Model="미">
-          <Teller>Mi</Teller>
+          <Teller>มี่</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Mi6-01</VoiceFile>
           <Content>อย่าไปหลงกลมัน สหาย! เราต้องระวังตัวขณะอยู่ในถ้ำเสือนะ</Content>
         </Dialog>
         <Dialog ID="86" Model="왕">
-          <Teller>Wang</Teller>
+          <Teller>หวาง</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Wang11</VoiceFile>
-          <Content>ฟุดฟิด~ ถึงเวลาผู้อำนายการโผล่ยังนะ?</Content>
+          <Content>ฟุดฟิด~ ถึงเวลาผู้อำนวยการโผล่ยังนะ?</Content>
         </Dialog>
         <Dialog ID="87" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -5488,13 +5488,13 @@
           <Content>สวัสดีค่ะ แขก</Content>
         </Dialog>
         <Dialog ID="88" Model="진">
-          <Teller>Jin</Teller>
+          <Teller>จิน</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Jin7</VoiceFile>
           <Content>สวัสดีฮาฟ สุดสวยห์~</Content>
         </Dialog>
         <Dialog ID="89" Model="왕">
-          <Teller>Wang</Teller>
+          <Teller>หวาง</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Wang12</VoiceFile>
           <Content>เธอมีหนังสือของสหายเก่าที่ชื่อว่ายูจิน บ้างมั้ยฮึ?</Content>
@@ -5515,7 +5515,7 @@
           <Teller>Jin</Teller>
           <Title>Smiling Faces</Title>
           <VoiceFile>ch5_Smiling_ep1_Jin8</VoiceFile>
-          <Content>แน่สิ แน่สิ ทู้กอย่างเป็นไปตามที่เขาบอกเยยย</Content>
+          <Content>แน่อยู่แล้ว แน่อยู่แล้ว ทู้กอย่างเป็นไปตามที่เขาบอกเยยย</Content>
         </Dialog>
         <Dialog ID="93" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -5528,12 +5528,12 @@
     <Episode>
       <EpisodeName>Episode 1 Epilogue</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside the Library</PlaceName>
+        <PlaceName>สถานที่: ภายในห้องสมุด</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_Smiling_ep1_Roland14</VoiceFile>
-          <Content>อะไรกันนะ ที่ไอ้บ้าสีครามนั่นมันอยากได้นักหนาที่นี่น่ะ…?</Content>
+          <Content>ที่นี่จะมีอะไรกันนะ ที่ไอ้บ้าสีครามนั่นมันอยากได้นักอยากได้หนา…?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -5620,7 +5620,7 @@
           <Teller>ออสวอลด์</Teller>
           <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald7</VoiceFile>
-          <Content>My oh my oh my! Our new clown friend still seems to be a shy one!</Content>
+          <Content>แหม ต๊ายตาย ต๊ายตาย! Our new clown friend still seems to be a shy one!</Content>
         </Dialog>
         <Dialog ID="10" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
