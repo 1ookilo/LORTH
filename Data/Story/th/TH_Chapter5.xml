@@ -4243,7 +4243,7 @@
           <Teller>เรสติ</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti3</VoiceFile>
-          <Content>อิ้วว… กลิ่นแรงมากเลย ขนาดใส่หน้ากากยังรู้สึกราวกับมันแทงเข้ามาในจมูกเลย</Content>
+          <Content>อีว… กลิ่นนี่เตะจมูกมากเลยค่ะ นี่ขนาดใส่หน้ากากเอาไว้แล้วนะเนี่ย</Content>
         </Dialog>
         <Dialog ID="16" Model="센">
           <Teller>เซน</Teller>
@@ -4309,19 +4309,19 @@
           <Teller>เซน</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen12</VoiceFile>
-          <Content>พวกเขาคงจะลากเธอไปในห้องมืดๆ แล้วก็ฆ่าเธอทิ้งโดยไม่ให้ใครรู้มากกว่า</Content>
+          <Content>พวกเขาคงจะลากเธอไปในห้องมืดๆ แล้วก็เชือดเราทิ้งโดยไม่ให้ใครรู้มากกว่า</Content>
         </Dialog>
         <Dialog ID="27" Model="센">
           <Teller>เซน</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen13</VoiceFile>
-          <Content>อุ๊ป อย่าไปบอกใครน่ะว่าฉันพูดแบบนั้นไปน่ะ ช่วงนี้ผลตอบรับการทำงานของฉันไม่ค่อยดีเท่าไหร่ รู้ใช่ไหมว่าฉันพูดเล่นน่ะ?</Content>
+          <Content>อุ๊ป อย่าไปบอกใครน่ะว่าฉันพูดแบบนั้นไปน่ะ ช่วงนี้ชื่อเสียงในบริษัทฉันยิ่งไม่ค่อยดีอยู่ด้วย รู้ใช่ไหมว่าฉันพูดเล่นน่ะ?</Content>
         </Dialog>
         <Dialog ID="28" Model="레스티">
           <Teller>เรสติ</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti8</VoiceFile>
-          <Content>ฮุฮุฮุ บางทีฉันอาจจะปิดปากเงียบไว้ก็ได้นะถ้ารุ่นพี่ยอมเลี้ยงมื้อค่ำ ก็อบชัง-จองอลก็ดีนะคะ!</Content>
+          <Content>ฮุฮุฮุ ถ้ารุ่นพี่ยอมเลี้ยงข้าวเย็นให้สักมื้อล่ะก็ หนูจะยอมทำเป็นไม่ได้ยินให้ก็ได้~ ก็อบชัง-จองอลนี่ก็ดีนะคะ!</Content>
         </Dialog>
         <Dialog ID="29" Model="센">
           <Teller>เซน</Teller>
@@ -4372,7 +4372,7 @@
           <Teller>เซน</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen17</VoiceFile>
-          <Content>เฮ่! เบาเสียงหน่อย เราคงไม่อยากให้ใครมาได้ยินใช่ไหม?</Content>
+          <Content>ชู่..! พูดเบาๆหน่อย เดี๋ยวมีคนมาได้ยินเข้าหรอก?</Content>
         </Dialog>
         <Dialog ID="37" Model="레스티">
           <Teller>เรสติ</Teller>
@@ -4396,13 +4396,13 @@
           <Teller>โรส</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose10</VoiceFile>
-          <Content>ผู้โดยสารชั้นเฟิร์สคลาสหายไปก็เป็นความเสี่ยงอย่างมากแล้ว แต่ตอนนี้เราก็เสียเวลาไปมากเช่นกัน</Content>
+          <Content>การที่ผู้โดยสารชั้นเฟิร์สคลาสหายไปนั้นก็ถือว่าสาหัสแล้ว แต่ตอนนี้เราก็เสียเวลาไปมากเช่นกัน</Content>
         </Dialog>
         <Dialog ID="41" Model="로즈">
           <Teller>โรส</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose11</VoiceFile>
-          <Content>ยังไม่ครบเโควต้าเวลาเลย</Content>
+          <Content>เลยยังไม่ครบโควต้าเวลาเลย</Content>
         </Dialog>
         <Dialog ID="42" Model="레스티">
           <Teller>เรสติ</Teller>
@@ -4432,13 +4432,13 @@
           <Teller>เซน</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen20</VoiceFile>
-          <Content>เอ่อ อะไรล่ะนั่น? นั่นคนหลอมรวมกันเหรอ?</Content>
+          <Content>เฮ้ย อะไรวะเมื่อกี้นี้? อยู่ๆพวกคนก็เริ่มรวมร่างกันเฉยเลย?</Content>
         </Dialog>
         <Dialog ID="47" Model="레스티">
           <Teller>เรสติ</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti15</VoiceFile>
-          <Content>พวกนั้นดูเหมือนหมอเลย? พวกเขาเย็บร่างพวกนั้นเข้าด้วยอย่างประณีตด้วย</Content>
+          <Content>คนพวกนั้นดูเหมือนหมอเลยนะคะ? แถมพวกเขายังเย็บร่างพวกนั้นเข้าด้วยอย่างประณีตอีกด้วย</Content>
         </Dialog>
         <Dialog ID="48" Model="센">
           <Teller>เซน</Teller>
@@ -4462,13 +4462,13 @@
           <Teller>เซน</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen22</VoiceFile>
-          <Content>คู่หู่หมอสองคนนั้นคงจะเป็นหัวหลักของเมืองนี้สินะ… ชาวเมืองนี่เอาแต่ร้องกันจ้าตั้งแต่ที่พวกเขาไม่อยู่</Content>
+          <Content>ไอ้คู่หูดูโอ้หมอพยาบาลสองคนนั้นคงจะเป็นหัวหลักของเมืองนี้สินะ… ชาวเมืองนี่เอาแต่ร้องกันจ้าตั้งแต่ที่พวกเขาไม่อยู่</Content>
         </Dialog>
         <Dialog ID="52" Model="레스티">
           <Teller>เรสติ</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti17</VoiceFile>
-          <Content>พวกเขาออกจากรถไฟได้ยังไงกันนะ?</Content>
+          <Content>พวกเขาออกจากรถไฟได้ยังไงกันคะ?</Content>
         </Dialog>
         <Dialog ID="53" Model="로즈">
           <Teller>โรส</Teller>
@@ -4492,13 +4492,13 @@
           <Teller>ผู้โดยสารชั้นเฟิร์สคลาส 3</Teller>
           <Title>ผู้โดยสาร</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_firstclass3</VoiceFile>
-          <Content>ใครส่งแกมา… ใครอยู่เบื้องหลังเรื่องนี้!!!</Content>
+          <Content>ใครส่งแกมา… ใครอยู่เบื้องหลังเรื่องนี้กัน!!!</Content>
         </Dialog>
         <Dialog ID="57" Model="재헌">
           <Teller>แจ-ฮอน</Teller>
           <Title>นักเชิดหุ่น</Title>
           <VoiceFile>ch5_CleanupCrew_ep1__Jaeheon1-01</VoiceFile>
-          <Content>จะเป็นใครกันนะ ฉันก็สงสัยเหมือนกัน? หึหึ… คงจะเป็นเส้นด้ายที่มองไม่เห็นที่คอยชักใยมาตลอดล่ะมั้ง</Content>
+          <Content>อู้ จะเป็นใครกันนะ ฉันก็สงสัยเหมือนกัน? หึหึ… คงจะเป็นเส้นด้ายที่มองไม่เห็นแน่เลยที่คอยชักใยมาตลอดล่ะมั้ง</Content>
         </Dialog>
         <Dialog ID="58" Model="레스티">
           <Teller>เรสติ</Teller>
@@ -4510,7 +4510,7 @@
           <Teller>เซน</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen23</VoiceFile>
-          <Content>ไอ้บ้านั่นมันเป็นใครกัน? มีการติดต่อมาจากสมาพันธ์ฮานาบ้างไหม? นั่นมันองค์กรรีไงกัน?</Content>
+          <Content>ไอ้บ้านั่นมันเป็นใครกัน? มีการติดต่อมาจากสมาพันธ์ฮานาบ้างไหม? หรือว่านั่นเป็นพวกองค์กรกันแน่?</Content>
         </Dialog>
         <Dialog ID="60" Model="로즈">
           <Teller>โรส</Teller>
@@ -4522,7 +4522,7 @@
           <Teller>เซน</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen1</VoiceFile>
-          <Content>เขาระดับอะไร?</Content>
+          <Content>ระดับล่ะ?</Content>
         </Dialog>
         <Dialog ID="62" Model="로즈">
           <Teller>โรส</Teller>
@@ -4534,13 +4534,13 @@
           <Teller>โรส</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose17</VoiceFile>
-          <Content>และนี่ คนที่อยู่ข้างเขา ‘ราตรีโลหิตแดง’ เธอเคยเป็นอดีตดาวประจำเมืองที่ถูกสอยจนล่วง</Content>
+          <Content>และนี่ คนที่อยู่ข้างเขา ‘ราตรีโลหิตแดง’ เธอเคยเป็นอดีตดาวประจำเมืองที่ล่วงหล่นไปเมื่อไม่นานมานี้</Content>
         </Dialog>
         <Dialog ID="64" Model="레스티">
           <Teller>เรสติ</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti19</VoiceFile>
-          <Content>เดี๋ยวก่อนนะคะ มันเป็นไปได้เหรอที่ดาวประจำเมืองที่ถูกสอยแล้วจะกลับมาได้?</Content>
+          <Content>เดี๋ยวก่อนนะคะ มันเป็นไปได้เหรอที่ดาวประจำเมืองที่ถูกสอยแล้วจะกลับมาได้น่ะ?</Content>
         </Dialog>
         <Dialog ID="65" Model="센">
           <Teller>เซน</Teller>
@@ -4594,7 +4594,7 @@
           <Teller>เรสติ</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti21</VoiceFile>
-          <Content>เอิ่ม นี่คุณ… อย่าบอกนะว่า…</Content>
+          <Content>เอิ่ม รุ่นพี่คะ… อย่าบอกนะว่า…</Content>
         </Dialog>
         <Dialog ID="74" Model="센">
           <Teller>เซน</Teller>
@@ -4630,7 +4630,7 @@
           <Teller>เซน</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen29</VoiceFile>
-          <Content>นี่พวก จะเป็นยังไงถ้าเราฝ่าฝืนคำสั่งนี้…</Content>
+          <Content>นี่พวก แล้วถ้าแบบ เราปฎิเสธแทนล่ะ…</Content>
         </Dialog>
         <Dialog ID="80" Model="로즈">
           <Teller>โรส</Teller>
@@ -4663,7 +4663,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Roland3</VoiceFile>
-          <Content>เฮ้อ ให้ตายสิ… ฉันเคยขึ้นรถไฟ WARP สองสามครั้งก่อนหน้านี้…</Content>
+          <Content>เฮ้อ ให้ตายสิ… ฉันก็เคยขึ้นรถไฟ WARP สองสามครั้งได้ก่อนหน้านี้…</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -4687,7 +4687,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela2</VoiceFile>
-          <Content>โลโบโตมี่คอร์ปก็ไม่ต่างเท่าไหร่ ถึงกระนั้นก็ค่อนข้างน่าสนใจที่ได้เห็นความลับอันน่ารังเกียจของอีกวิงส์ด้วยตาของฉันเอง</Content>
+          <Content>โลโบโตมี่คอร์ปก็ไม่ต่างกันเท่าไหร่หรอก ถึงกระนั้นก็ค่อนข้างน่าสนใจที่ได้เห็นความลับอันน่ารังเกียจของอีกวิงส์ด้วยตาของฉันเอง</Content>
         </Dialog>
         <Dialog ID="89" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -4705,7 +4705,7 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Roland6</VoiceFile>
-          <Content>คงจะเจ๋งน่าดูนะถ้าเขียนหนังสือจากเรื่องนี้น่ะ</Content>
+          <Content>คงจะเจ๋งน่าดูนะถ้าเราได้หนังสือจากพวกเขาน่ะ</Content>
         </Dialog>
         <Dialog ID="92" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -4717,13 +4717,13 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Roland8</VoiceFile>
-          <Content>นั่นคงทำให้ W คอร์ปหมดหวังที่จะกู้ชื่อกลับมาได้</Content>
+          <Content>นั่นคงทำให้ W คอร์ปเอง ก็ยิ่งอยากจะได้หนังสือของพวกเขาคืนมากยิ่งขึ้นไปอีก</Content>
         </Dialog>
         <Dialog ID="94" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela5</VoiceFile>
-          <Content>ฉันยินดีเลยล่ะ จะได้เรียนรู้เกี่ยวกับพวกเขาได้มาขึ้นด้วย</Content>
+          <Content>ฉันยินดีเลยล่ะ จะได้เรียนรู้เกี่ยวกับพวกเขาได้มากขึ้นด้วย</Content>
         </Dialog>
         <Dialog ID="95" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -4744,7 +4744,7 @@
           <Teller>เรสติ</Teller>
           <Title>พนักงานเก็บกวาด WARP</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti24</VoiceFile>
-          <Content>จริงเหรอเนี่ยยย?!</Content>
+          <Content>จริงเหรอคะ?!</Content>
         </Dialog>
         <Dialog ID="98" Model="센">
           <Teller>เซน</Teller>
@@ -4810,13 +4810,13 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela9</VoiceFile>
-          <Content>แน่นอนว่าพวกเขามา และพวกคุณสามารถนำหนังสืของพวกเขากลับไปได้ จะได้ไม่มีใครรู้เกี่ยวกับอุบัติเหตุที่เกิดขึ้น</Content>
+          <Content>แน่นอนว่าพวกเขามา และพวกคุณสามารถนำหนังสือของพวกเขากลับไปได้ จะได้ไม่มีใครรู้เกี่ยวกับอุบัติเหตุที่เกิดขึ้น</Content>
         </Dialog>
         <Dialog ID="109" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela10</VoiceFile>
-          <Content>อย่างไรก็ตาม หากคุณล้มเหลว แขกคนอื่นเองก็สามารถจะเอาหนังสือที่กุมความลับของรถไฟ WARP ไปได้เหมือนกัน</Content>
+          <Content>อย่างไรก็ตาม หากคุณล้มเหลว แขกคนอื่นเองก็สามารถจะเอาหนังสือที่กุมความลับของ WARP เทรนไปได้เหมือนกัน</Content>
         </Dialog>
         <Dialog ID="110" Model="레스티">
           <Teller>เรสติ</Teller>
