@@ -2660,13 +2660,13 @@
         </Dialog>
         <Dialog ID="157" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Circus_ep1_Philip1-01</VoiceFile>
           <Content>…นี่ฉันอยู่ที่ไหน…?</Content>
         </Dialog>
         <Dialog ID="158" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Circus_ep1_Philip2</VoiceFile>
           <Content>ฉันมั่นใจว่า… ฉันสู้อยู่ข้างในห้องสมุดนั้นอยู่…</Content>
         </Dialog>
@@ -2684,7 +2684,7 @@
         </Dialog>
         <Dialog ID="161" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Circus_ep1_Philip3-03</VoiceFile>
           <Content>ไม่นะ ผมแค่…</Content>
         </Dialog>
@@ -2708,7 +2708,7 @@
         </Dialog>
         <Dialog ID="165" Model="필립">
           <Teller>ฟิลิป</Teller>
-          <Title>อดีต-ฟิกเซอร์แห่งรุ่งอรุณ</Title>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Circus_ep1_Philip4</VoiceFile>
           <Content>ฮ้า…? คณะละครสัตว์… 8 นาฬิกา?</Content>
         </Dialog>
@@ -5561,12 +5561,12 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Location: Inside a Circus Tent</PlaceName>
+        <PlaceName>สถานที่: ด้านในเต้นท์คณะละครสัตว์</PlaceName>
         <Dialog ID="0" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
           <Title>หัวหน้าคณะละครสัตว์</Title>
           <VoiceFile>ch5_Crying_ep1_Oswald1</VoiceFile>
-          <Content>This is… the 8 o’Clock Circus!</Content>
+          <Content>ที่นี่คือ… คณะละครสัตว์ 8 นาฬิกา!</Content>
         </Dialog>
         <Dialog ID="1" Model="오스왈드">
           <Teller>ออสวอลด์</Teller>
@@ -5575,8 +5575,8 @@
           <Content>We bring the bestest of the smells to City people who have lost their flower stalks.</Content>
         </Dialog>
         <Dialog ID="2" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip1</VoiceFile>
           <Content>What…? The 8 o’Clock… Circus?</Content>
         </Dialog>
@@ -5605,14 +5605,14 @@
           <Content>If ten people could become clowns and blow up one thousand flowers… Oh, just imagine how wonderfully joyous this world would be!</Content>
         </Dialog>
         <Dialog ID="7" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip2</VoiceFile>
           <Content>B—Bullshit… This is…</Content>
         </Dialog>
         <Dialog ID="8" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip3</VoiceFile>
           <Content>Ugh… These are… …Oh, what the…! These… These are all… people…</Content>
         </Dialog>
@@ -5635,8 +5635,8 @@
           <Content>Alright, Ms. Mermaid and Mr. Knife? Let’s share some of our salts with him!</Content>
         </Dialog>
         <Dialog ID="12" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip4</VoiceFile>
           <Content>Stop, stop it!!</Content>
         </Dialog>
@@ -5647,8 +5647,8 @@
           <Content>Oh dear, oh my… Looks like Ms. Mermaid didn’t have enough practice with her scaly mane, you lackadaisical girl… Your voice is too small! Or are you feeling timid all of a sudden? Whatever the case!</Content>
         </Dialog>
         <Dialog ID="14" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip5</VoiceFile>
           <Content>You maniacs… This is all abnormal…</Content>
         </Dialog>
@@ -5671,8 +5671,8 @@
           <Content>Haha! Hahahah!!</Content>
         </Dialog>
         <Dialog ID="18" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip6</VoiceFile>
           <Content>You won’t ever get to be considered normal, that’s for sure…</Content>
         </Dialog>
@@ -5683,26 +5683,26 @@
           <Content>Harumph, you’re such a rude fellow, aren’t you!</Content>
         </Dialog>
         <Dialog ID="20" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip7</VoiceFile>
           <Content>The 8 o’Clock Circus…</Content>
         </Dialog>
         <Dialog ID="21" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip8</VoiceFile>
           <Content>Now I remember. You’re the ones who kept Wedge Office busy… And everyone at Dawn Office died in the Library because they couldn’t help.</Content>
         </Dialog>
         <Dialog ID="22" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip9-01</VoiceFile>
           <Content>…If it weren’t for small fries like you, maybe my master and seonbae would’ve been safe and sound.</Content>
         </Dialog>
         <Dialog ID="23" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip10</VoiceFile>
           <Content>Talk about a coincidence…</Content>
         </Dialog>
@@ -5725,8 +5725,8 @@
           <Content>But the stench isn’t strong enough just yet; you’re still too fragrant!</Content>
         </Dialog>
         <Dialog ID="27" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip11-01</VoiceFile>
           <Content>Shut up! I’ll slay you… here and now…</Content>
         </Dialog>
@@ -5749,20 +5749,20 @@
           <Content>Okay, alright. Let’s perform with me, shall we!</Content>
         </Dialog>
         <Dialog ID="31" Model="살바도르">
-          <Teller>Salvador?</Teller>
+          <Teller>ซัลวาดอร์?</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Crying_ep1_Salvador1-01</VoiceFile>
           <Content>Young Philip.</Content>
         </Dialog>
         <Dialog ID="32" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip13</VoiceFile>
           <Content>…Master? Seonbae?</Content>
         </Dialog>
         <Dialog ID="33" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip14</VoiceFile>
           <Content>What the… What are you…</Content>
         </Dialog>
@@ -5773,8 +5773,8 @@
           <Content>A big hand for the three clowns who will lead the show~ Clappity clap~</Content>
         </Dialog>
         <Dialog ID="35" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip15</VoiceFile>
           <Content>I… What the hell have you done…</Content>
         </Dialog>
@@ -5809,14 +5809,14 @@
           <Content>That’s where I would like to help you!</Content>
         </Dialog>
         <Dialog ID="41" Model="유나">
-          <Teller>Yuna?</Teller>
+          <Teller>ยูนา?</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Crying_ep1_Yuna1</VoiceFile>
           <Content>Philip… I’m sorry I couldn’t answer what you asked back then.</Content>
         </Dialog>
         <Dialog ID="42" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip16</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -5827,14 +5827,14 @@
           <Content>Oh, what an unexpected turn of events?!</Content>
         </Dialog>
         <Dialog ID="44" Model="유나">
-          <Teller>Yuna?</Teller>
+          <Teller>ยูนา?</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Crying_ep1_Yuna2</VoiceFile>
           <Content>I…</Content>
         </Dialog>
         <Dialog ID="45" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip17</VoiceFile>
           <Content>B-But, master already has a wife and children…</Content>
         </Dialog>
@@ -5845,8 +5845,8 @@
           <Content>Hahaha! Talk about childish. This is such a typical telenovela we have here!</Content>
         </Dialog>
         <Dialog ID="47" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip18-01</VoiceFile>
           <Content>Shut up… You, don’t you dare insult my two mentors with these false illusions!!!</Content>
         </Dialog>
@@ -5875,8 +5875,8 @@
           <Content>You’re pausing it at just the right moment like it’s a rerun you’ve watched over and over… There’s got to be a reason.</Content>
         </Dialog>
         <Dialog ID="52" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip19</VoiceFile>
           <Content>Shut up, shut the hell up…!</Content>
         </Dialog>
@@ -5887,8 +5887,8 @@
           <Content>“Did you know? The reason I shunned you, and the topic he wanted to discuss with you.”</Content>
         </Dialog>
         <Dialog ID="54" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip20</VoiceFile>
           <Content>No… This has to be a dream… That—That pesky damn clown…</Content>
         </Dialog>
@@ -5899,188 +5899,188 @@
           <Content>“That’s enough, Philip. We were simply…”</Content>
         </Dialog>
         <Dialog ID="56" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip21</VoiceFile>
           <Content>They’re all the same… You all toyed with me!</Content>
         </Dialog>
         <Dialog ID="57" Model="살바도르">
-          <Teller>Salvador?</Teller>
+          <Teller>ซัลวาดอร์?</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Crying_ep1_Salvador2</VoiceFile>
           <Content>…Young Philip.</Content>
         </Dialog>
         <Dialog ID="58" Model="살바도르">
-          <Teller>Salvador?</Teller>
+          <Teller>ซัลวาดอร์?</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Crying_ep1_Salvador3</VoiceFile>
           <Content>What efforts have you actually made to advance your goals?</Content>
         </Dialog>
         <Dialog ID="59" Model="살바도르">
-          <Teller>Salvador?</Teller>
+          <Teller>ซัลวาดอร์?</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Crying_ep1_Salvador4</VoiceFile>
           <Content>You must’ve spent most of your energy fabricating all sorts of filthy and uncouth delusions about us simply because Yuna was reluctant to answer your question. Am I wrong here?</Content>
         </Dialog>
         <Dialog ID="60" Model="유나">
-          <Teller>Yuna?</Teller>
+          <Teller>ยูนา?</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Crying_ep1_Yuna3</VoiceFile>
           <Content>Do you think you have any right to blame us?</Content>
         </Dialog>
         <Dialog ID="61" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip22</VoiceFile>
           <Content>Stop, stop it… I…!</Content>
         </Dialog>
         <Dialog ID="62" Model="유나">
-          <Teller>Yuna?</Teller>
+          <Teller>ยูนา?</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Crying_ep1_Yuna4</VoiceFile>
           <Content>How pathetic. You ran away alone, and now you’re playing the victim.</Content>
         </Dialog>
         <Dialog ID="63" Model="유나">
-          <Teller>Yuna?</Teller>
+          <Teller>ยูนา?</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Crying_ep1_Yuna5</VoiceFile>
           <Content>It was your incompetence, and you didn’t even try to fix it… All you were doing was shamelessly looking for excuses.</Content>
         </Dialog>
         <Dialog ID="64" Model="유나">
-          <Teller>Yuna?</Teller>
+          <Teller>ยูนา?</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Crying_ep1_Yuna6</VoiceFile>
           <Content>You ran off without us telling yourself that it’s to save us, and now you’re blaming us for it.</Content>
         </Dialog>
         <Dialog ID="65" Model="유나">
-          <Teller>Yuna?</Teller>
+          <Teller>ยูนา?</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Crying_ep1_Yuna7-01</VoiceFile>
           <Content>You’re believing whatever you want to believe. Because it makes you feel better. Isn’t that true?</Content>
         </Dialog>
         <Dialog ID="66" Model="유나">
-          <Teller>Yuna?</Teller>
+          <Teller>ยูนา?</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Crying_ep1_Yuna8</VoiceFile>
           <Content>After all, it’s much easier to pretend that you’re thinking of others before yourself, rather than accept who you really are.</Content>
         </Dialog>
         <Dialog ID="67" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip23</VoiceFile>
           <Content>You both… abandoned me… died like that.</Content>
         </Dialog>
         <Dialog ID="68" Model="살바도르">
-          <Teller>Salvador?</Teller>
+          <Teller>ซัลวาดอร์?</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Crying_ep1_Salvador5</VoiceFile>
           <Content>You still haven’t realized. It was foolish of me to put my trust in you…</Content>
         </Dialog>
         <Dialog ID="69" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip24</VoiceFile>
           <Content>Shut up! Why do you show up now and haunt me!!!</Content>
         </Dialog>
         <Dialog ID="70" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip25</VoiceFile>
           <Content>You keep bothering me till the end… Just leave me alone now!</Content>
         </Dialog>
         <Dialog ID="71" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto1</VoiceFile>
           <Content>…It would appear that you require assistance.</Content>
         </Dialog>
         <Dialog ID="72" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip26</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="73" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto2</VoiceFile>
           <Content>Not feeling quite talkative, are you? Well, it’s fine. We have all the time in the world, so let us open up inch by inch.</Content>
         </Dialog>
         <Dialog ID="74" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto3</VoiceFile>
           <Content>When a person feels victimized or vexed, someone has to reach out to them and give them a helping hand.</Content>
         </Dialog>
         <Dialog ID="75" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto4</VoiceFile>
           <Content>I shall be that someone for you. That is what I am here for.</Content>
         </Dialog>
         <Dialog ID="76" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto5</VoiceFile>
           <Content>Now, hold my hand… Alright, I will kindly extend my arm this far for you.</Content>
         </Dialog>
         <Dialog ID="77" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip27</VoiceFile>
           <Content>Are you… going to make my wish come true?</Content>
         </Dialog>
         <Dialog ID="78" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto6</VoiceFile>
           <Content>If you utter your wishes, I will give you what you need to make them come true. Does this offer still sound unsatisfactory?</Content>
         </Dialog>
         <Dialog ID="79" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto7</VoiceFile>
           <Content>I can grant you strength to avenge yourself on that prankster who inflicted much suffering upon you, or I can provide you with powerful weaponry to save the two people you cherish.</Content>
         </Dialog>
         <Dialog ID="80" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip28</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="81" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip29</VoiceFile>
           <Content>I… don’t want to hear anything.</Content>
         </Dialog>
         <Dialog ID="82" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip30</VoiceFile>
           <Content>I don’t want to see anything… or speak anything…</Content>
         </Dialog>
         <Dialog ID="83" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip31</VoiceFile>
           <Content>I’m tired of it all. Right now, all I want is to just… cry out loud.</Content>
         </Dialog>
         <Dialog ID="84" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto8</VoiceFile>
           <Content>But of course. I can help you with that.</Content>
         </Dialog>
         <Dialog ID="85" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto9</VoiceFile>
           <Content>Pay close attention to her voice…</Content>
         </Dialog>
         <Dialog ID="86" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Dawn Fixer</Title>
+          <Teller>ฟิลิป</Teller>
+          <Title>อดีต-ฟิกเซอร์รุ่งอรุณ</Title>
           <VoiceFile>ch5_Crying_ep1_Philip32</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -6103,8 +6103,8 @@
           <Content>And… oh. Could you be another new jester to visit us? You’re looking splendid!</Content>
         </Dialog>
         <Dialog ID="90" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto10</VoiceFile>
           <Content>…Yes, hello. My name is Pluto.</Content>
         </Dialog>
@@ -6115,14 +6115,14 @@
           <Content>You’ve come at just the right time! The three of us could make for a wonderful show~</Content>
         </Dialog>
         <Dialog ID="92" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto11</VoiceFile>
           <Content>Now, may I ask you a single question?</Content>
         </Dialog>
         <Dialog ID="93" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto12</VoiceFile>
           <Content>Was the relationship between the three people you just showed on the stage actual truth?</Content>
         </Dialog>
@@ -6139,8 +6139,8 @@
           <Content>What matters the most is that the show gave our audience fun and entertainment, isn’t it?!</Content>
         </Dialog>
         <Dialog ID="96" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto13</VoiceFile>
           <Content>Creating illusions from one’s distorted desires, is it… I can see that this place amplifies people’s desires to the maximum.</Content>
         </Dialog>
@@ -6163,8 +6163,8 @@
           <Content>…Nevermind that! Nooow, now! The audience is waiting, so please join me in the rest of the show!</Content>
         </Dialog>
         <Dialog ID="100" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto14</VoiceFile>
           <Content>I’m afraid the circus must come to an end as of today.</Content>
         </Dialog>
@@ -6175,14 +6175,14 @@
           <Content>Golly, what are you even talking about now?!</Content>
         </Dialog>
         <Dialog ID="102" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto15</VoiceFile>
           <Content>Philip, here is an invitation for you. Move onward.</Content>
         </Dialog>
         <Dialog ID="103" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Yesterday’s Promise</Title>
+          <Teller>พลูโต</Teller>
+          <Title>สัญญา ณ วันวาน</Title>
           <VoiceFile>ch5_Crying_ep1_Pluto16</VoiceFile>
           <Content>And Oswald, I invite you to a far grander stage where we can hold the greatest show you could imagine.</Content>
         </Dialog>
