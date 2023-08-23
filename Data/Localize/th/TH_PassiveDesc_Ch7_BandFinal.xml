@@ -3,9 +3,8 @@
 
   <!-- 아르갈리아 뒤틀림-->
   <PassiveDesc ID="1410011">
-    <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
-    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+    <Name>Shimmering</Name>
+    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1410012">
     <Name>Il Direttore dell’Ensemble Riverbero</Name>
@@ -17,44 +16,42 @@
 At the end of the Scene, all characters' Emotion Levels rise by 2.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1410014">
-    <Name>มหรสพส่งท้าย</Name>
+    <Name>The Grand Finale</Name>
     <Desc>If no other Reverberation Ensemble members are present, fully recover Stagger Resist, and use a different set of Combat Pages.</Desc>
   </PassiveDesc>
 
   <!-- 엘레나 뒤틀림-->
   <PassiveDesc ID="1408011">
-    <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
-    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+    <Name>Shimmering</Name>
+    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1408012">
-    <Name>ความเร็ว</Name>
+    <Name>Speed</Name>
     <Desc>Speed Dice Slot +1. Gain a Speed die on the fourth Scene. Gain an additional one if there's an enemy whose Emotion Level is 4 or higher.
 Does not gain Speed dice from Emotion Level bonuses.</Desc>
   </PassiveDesc>
   
   <!-- 플루토 뒤틀림 -->
   <PassiveDesc ID="1409011">
-    <Name>ประกายแสง</Name>
-    <Desc>เมื่อเริ่มต้นในแต่ละฉาก สลาย Page ทั้งหมดในมือและในกอง
-    เพิ่ม Page ชุดดังกล่าวกลับเข้ามาใหม่ และมีคอส 0</Desc>
+    <Name>Shimmering</Name>
+    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1409012">
-    <Name>ไร้สติ ไร้เหตุผล</Name>
+    <Name>Unconscionable</Name>
     <Desc>Every Scene, uses an 'Unjust Contract' Combat Page.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1409013">
-    <Name>เงาทมิฬ</Name>
+    <Name>Stygian Shade</Name>
     <Desc>Spawns a Shade on the second Scene. The Shade gets a copy of the Patron Librarian's hand and deck (Excluding [On Play] pages). If the Patron Librarian is not present, a random other librarian's deck will be copied instead.</Desc>
   </PassiveDesc>
   
   
   <PassiveDesc ID="1409021">
-    <Name>ไร้แสงที่ชี้นำ</Name>
+    <Name>Without Light</Name>
     <Desc>If Pluto is not present at the end of the Scene, dies.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1409022">
-    <Name>เงามืดที่แกร่งกล้า</Name>
+    <Name>Powerful Shadow</Name>
     <Desc>Dice Power +1. Uses the Shade's Combat Page every Scene.</Desc>
   </PassiveDesc>
  

@@ -254,25 +254,25 @@
         <PlaceName>สถานที่: ทางเข้าหอสมุด</PlaceName>
         <Dialog ID="0" Model="샤오">
           <Teller>เซี่ยว</Teller>
-          <Title>ผู้กำกับลู่ใต้หน่วยที่ 1</Title>
+          <Title>ผู้กำกับหลิวใต้หน่วยที่ 1</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_80-01</VoiceFile>
           <Content>ปล่อยฉันนะ! มันยังไม่จบ… ฉันยัง…!</Content>
         </Dialog>
         <Dialog ID="1" Model="미리스">
           <Teller>มิริส</Teller>
-          <Title>ฟิกเซอร์ลู่ใต้หน่วยที่ 1</Title>
+          <Title>ฟิกเซอร์หลิวใต้หน่วยที่ 1</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_25-01</VoiceFile>
           <Content>โปรดใจเย็นก่อนครับ ผู้กำกับ!</Content>
         </Dialog>
         <Dialog ID="2" Model="샤오">
           <Teller>เซี่ยว</Teller>
-          <Title>ผู้กำกับลู่ใต้หน่วยที่ 1</Title>
+          <Title>ผู้กำกับหลิวใต้หน่วยที่ 1</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_81-01</VoiceFile>
           <Content>ถ้าแกกลัวก็หนีไปคนเดียวก็ได้นี่… อธิบายซะว่าทำไมแกต้องลากฉันมาด้วย!</Content>
         </Dialog>
         <Dialog ID="3" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>ผู้กำกับลู่ใต้หน่วยที่ 1</Title>
+          <Teller>มิริส</Teller>
+          <Title>ผู้กำกับหลิวใต้หน่วยที่ 1</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_26-01</VoiceFile>
           <Content>…</Content>
         </Dialog>
@@ -301,13 +301,13 @@
           <Teller>เซี่ยว</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_55</VoiceFile>
-          <Content>ในที่แห่งนี้, พวกเธอสู้ร่วมกับฉันจนเวลาสุดท้าย… แล้วก็จากไป</Content>
+          <Content>ในที่แห่งนี้ พวกเธอสู้ร่วมกับฉันจนเวลาสุดท้าย… แล้วก็จากไป</Content>
         </Dialog>
         <Dialog ID="3" Model="1_샤오에고">
           <Teller>เซี่ยว</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_56</VoiceFile>
-          <Content>ฉันรู้สึกโดดเดี่ยวดั่งมังกรที่ล่องบนนภา, ใจฉันเปี่ยมด้วยความโศกเศร้า</Content>
+          <Content>ฉันรู้สึกโดดเดี่ยวดั่งมังกรที่ล่องบนนภา ใจฉันเปี่ยมไปด้วยความโศกเศร้า</Content>
         </Dialog>
         <Dialog ID="4" Model="1_샤오에고">
           <Teller>เซี่ยว</Teller>
@@ -349,7 +349,7 @@
           <Teller>เซี่ยว</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_63-01</VoiceFile>
-          <Content>แต่ทว่า, ยามเมื่อลมหายใจเข้าพักภายในกายก่อนที่จะกระจายมันกลับมายังแหล่งของมัน… ฉันจะเจอเธออีกครั้งสักวัน; และฉันอาจได้ถามคำถามของฉันในตอนนั้น</Content>
+          <Content>แต่ทว่า ยามเมื่อลมหายใจเข้าพักภายในกายก่อนที่จะกระจายมันกลับมายังแหล่งของมัน… ฉันจะเจอเธออีกครั้งสักวัน; และฉันอาจได้ถามคำถามของฉันในตอนนั้น</Content>
         </Dialog>
         <Dialog ID="11" Model="1_샤오에고">
           <Teller>เซี่ยว</Teller>
@@ -367,7 +367,7 @@
           <Teller>เซี่ยว</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_66</VoiceFile>
-          <Content>…ฉันจะไม่ทรุดตัวหรือจำนนต่อความกลัวจากความสิ้นหวังที่ฉันนำเข้าตัวเอง</Content>
+          <Content>…ฉันจะไม่ทรุดตัวหรือจำนนต่อความกลัวจากความสิ้นหวังที่ฉันนำเข้าสู่ตัวเอง</Content>
         </Dialog>
         <Dialog ID="14" Model="1_샤오에고">
           <Teller>เซี่ยว</Teller>
@@ -385,19 +385,19 @@
           <Teller>เซี่ยว</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_69</VoiceFile>
-          <Content>…ไม่สิ มันไม่จำเป็นที่จะต้องท้อแท้เมื่อในเรื่องแบบนี้เลย ถ้าไร้ความสิ้นหวัง, ความหวังมันก็ไม่จำเป็น</Content>
+          <Content>…ไม่สิ มันไม่จำเป็นที่จะต้องท้อแท้เมื่อในเรื่องแบบนี้เลย ถ้าไร้ความสิ้นหวัง ความหวังมันก็ไม่จำเป็น</Content>
         </Dialog>
         <Dialog ID="17" Model="1_샤오에고">
           <Teller>เซี่ยว</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_70</VoiceFile>
-          <Content>ความกลัวนั้นเกิดเมื่อมีความหวัง, แต่ความกล้านั้นเกิดเพราะมีความกลัว…</Content>
+          <Content>ความกลัวนั้นเกิดเมื่อมีความหวัง แต่ความกล้านั้นเกิดเพราะมีความกลัว…</Content>
         </Dialog>
         <Dialog ID="18" Model="1_샤오에고">
           <Teller>เซี่ยว</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_71-01</VoiceFile>
-          <Content>ถ้าไม่มีพวกนี้, ก็ไร้ซึ่งชีวิต และชีวิตคืออะไรถ้าไม่มีเหตุที่จะมีชีวิตอยู่…</Content>
+          <Content>ถ้าไม่มีพวกนี้ ก็ไร้ซึ่งชีวิต และชีวิตคืออะไรถ้าไม่มีเหตุที่จะมีชีวิตอยู่…</Content>
         </Dialog>
         <Dialog ID="19" Model="1_샤오에고">
           <Teller>เซี่ยว</Teller>
@@ -421,7 +421,7 @@
           <Teller>เซี่ยว</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_75</VoiceFile>
-          <Content>…ไม่สิ หรือก็คือ, ฉันจะเมินต่อการเสียสละของพวกนั้นถ้าฉันยอมแพ้ที่นี่เพราะสิ่งที่เกิดขึ้นกับพวกนั้น</Content>
+          <Content>…ไม่สิ หรือก็คือ ฉันจะเมินต่อการเสียสละของพวกนั้นถ้าฉันยอมแพ้ที่นี่เพราะสิ่งที่เกิดขึ้นกับพวกนั้น</Content>
         </Dialog>
         <Dialog ID="23" Model="1_샤오에고">
           <Teller>เซี่ยว</Teller>
@@ -610,7 +610,7 @@
       <Place>
         <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_1</VoiceFile>
           <Content>เหนื่อยแล้วเหรอ? นี่เรายังแทบไม่ได้พยายามเลยนะ</Content>
@@ -622,7 +622,7 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="2" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_2</VoiceFile>
           <Content>เพชรฆาต</Content>
@@ -634,13 +634,13 @@
           <Content>…ผมจะจัดการเอง</Content>
         </Dialog>
         <Dialog ID="4" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_3</VoiceFile>
           <Content>…หยุดก่อน</Content>
         </Dialog>
         <Dialog ID="5" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_4</VoiceFile>
           <Content>เธอมาได้สักทีนะ</Content>
@@ -700,25 +700,25 @@
           <Content>ก็นะ… เราต้องยื้อพวกนั้นให้นานเท่าที่ทำได้…</Content>
         </Dialog>
         <Dialog ID="15" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_5</VoiceFile>
           <Content>รู้ไว้ด้วยว่าการร่วมมือกันมันไม่เปลื่ยนชะตาที่มิอาจหลีกเลี่ยงได้หรอกนะ</Content>
         </Dialog>
         <Dialog ID="16" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_6</VoiceFile>
           <Content>แต่ก็เอาเถอะ ความพยายามของพวกเธอนั้นสนุกที่ได้เห็นเหลือเกิน</Content>
         </Dialog>
         <Dialog ID="17" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_7</VoiceFile>
           <Content>จริงแท้แน่นอน… ถึงแม้ฉันจะไม่ว่าอะไรที่จะชมสถานการณ์จากระยะไกล…</Content>
         </Dialog>
         <Dialog ID="18" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_8</VoiceFile>
           <Content>แต่เราต้องทำให้แน่ใจว่าที่นี่จะถูกจัดการอย่างละเอียด ฉะนั้นจะเป็นการฉลาดที่ฉันจะเข้าร่วมด้วย</Content>
@@ -736,7 +736,7 @@
       <Place>
         <PlaceName>สถานที่: ภายในหอสมุด</PlaceName>
         <Dialog ID="0" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_1</VoiceFile>
           <Content>ถูกกักขัง ไร้ซึ่งทางออก… สภาพของพวกเธอนั้นช่างน่าสมเพชเหลือทน</Content>
@@ -748,13 +748,13 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="2" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_2</VoiceFile>
           <Content>พวกเธอยังยืนหยัดได้นานกว่าที่เราคาดไว้มาก น่าเสียดายเหลือเกินที่เรื่องมันจบลงแค่นี้…</Content>
         </Dialog>
         <Dialog ID="3" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_3</VoiceFile>
           <Content>ทีนี้…</Content>
@@ -778,13 +778,13 @@
           <Content>…มันจริงซะด้วยที่การพูดฟุ่มเฟือยทำให้ตัวเองมีช่องโหว่</Content>
         </Dialog>
         <Dialog ID="2" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile />
           <Content>…</Content>
         </Dialog>
         <Dialog ID="3" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_5</VoiceFile>
           <Content>แกเรี่ยน…</Content>
@@ -793,10 +793,10 @@
           <Teller>บินาห์</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep2_Binah_2</VoiceFile>
-          <Content>นั่นเป้นชื่อที่ฉันไม่ได้ยินมาสักพักแล้ว… ถึงแม้, ฉันเห็นว่าชื่อนั้นไม่ใช่สำหรับฉันอีก</Content>
+          <Content>นั่นเป้นชื่อที่ฉันไม่ได้ยินมาสักพักแล้ว… ถึงแม้ ฉันเห็นว่าชื่อนั้นไม่ใช่สำหรับฉันอีก</Content>
         </Dialog>
         <Dialog ID="5" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_6</VoiceFile>
           <Content>ถึงแม้เราจะได้ข่าวคราวของเธอ… ฉันไม่คิดว่าเธอจะออกมาต้อนรับเราช้าขนาดนี้นะ</Content>
@@ -811,7 +811,7 @@
           <Teller>บินาห์</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep2_Binah_3</VoiceFile>
-          <Content>ฉันแค่เฝ้าดูจากระยะไกลแค่ชั่วครู่เท่านั้น</Content>
+          <Content>ฉันแค่จับตาจากระยะไกลชั่วครู่เท่านั้น</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑_4">
           <Teller>โรแลนด์</Teller>
@@ -826,19 +826,19 @@
           <Content>ดูแลตัวเองให้ได้ก่อนจะมาโทษฉันสิ ความขัดแย้งครั้งนี้คงได้ต่อในอีกไม่นาน</Content>
         </Dialog>
         <Dialog ID="10" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_7</VoiceFile>
           <Content>ไม่เพียงแต่เธอล้มเหลวในการทำตามหน้าที่ที่ให้ไว้… เธอยังมาหลับในที่แห่งนี่และหันหลังทิ้งเราไป ไม่รอบคอบเอาซะเลย…</Content>
         </Dialog>
         <Dialog ID="11" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_8</VoiceFile>
-          <Content>อย่างไรก็ตาม ฉันคิดว่าเราสามารถคิดบัญชีเธอทีหลังได้</Content>
+          <Content>อย่างไรก็ตาม ฉันคิดว่าเราสามารถคิดบัญชีกับเธอทีหลังได้</Content>
         </Dialog>
         <Dialog ID="12" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_9</VoiceFile>
           <Content>เราจะทำลายหลุมศพเธอและพาตัวเธอกลับไปในเวลาไม่ช้า</Content>
@@ -850,13 +850,13 @@
           <Content>ฉันล่ะทำได้แค่สมเพชเธอและความพยายามในการหาสิ่งที่เหลือแต่เปลือกเปล่าเท่านั้น</Content>
         </Dialog>
         <Dialog ID="14" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_10</VoiceFile>
           <Content>…</Content>
         </Dialog>
         <Dialog ID="15" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_11</VoiceFile>
           <Content>เพชรฆาต เตรียมตัวให้ดี มันจะเกิดขึ้นในเวลาอีกไม่นานแล้ว</Content>
@@ -880,19 +880,19 @@
           <Content>…ดูเหมือนว่าพวกนั้นจะเดินแผนต่อแล้วสินะ</Content>
         </Dialog>
         <Dialog ID="2" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile />
           <Content>…</Content>
         </Dialog>
         <Dialog ID="3" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep3_Zena_2</VoiceFile>
           <Content>แกเรียน… ถึงแม้จะน่าเสียดายที่เราล้มเหลวในการเก็บร่างกายที่เคยสูญสลายไปของเธอ…</Content>
         </Dialog>
         <Dialog ID="4" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep3_Zena_3</VoiceFile>
           <Content>จุดจบมาถึงแล้ว</Content>
@@ -904,31 +904,31 @@
           <Content>…</Content>
         </Dialog>
         <Dialog ID="6" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep3_Zena_4</VoiceFile>
           <Content>ที่นี่จะถูกขับออกตามที่วางเอาไว้ เตรียมตัวถูกส่งไปยังชานเมือง สถานที่แสนห่างไกลจากนครได้</Content>
         </Dialog>
         <Dialog ID="7" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep3_Zena_5</VoiceFile>
           <Content>แต่อย่ากลัวไป พวกเธอแค่ถูกส่งไปยังที่ที่พวกเธอสมควรอยู่เท่านั้น…</Content>
         </Dialog>
         <Dialog ID="8" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep3_Zena_6</VoiceFile>
           <Content>ฉันแค่ขอว่าห้ามกลับมาอันขาด นครนี้ไม่มีที่สำหรับสิ่งเฉกเช่นเธอได้</Content>
         </Dialog>
         <Dialog ID="9" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep3_Zena_7</VoiceFile>
           <Content>สำหรับตอนนี้ เราจะทำแค่ย้ายพวกเธอไปชานเมืองเท่านั้น แต่ถ้าพวกเธอกลับมายังนคร เราจะถือว่าพวกเธอเลือกที่จะเมินเฉยต่อความเมตตาของเรา</Content>
         </Dialog>
         <Dialog ID="10" Model="제나">
-          <Teller>เซนะ</Teller>
+          <Teller>เซน่า</Teller>
           <Title>ตุลาการของ เดอะ เฮด</Title>
           <VoiceFile>ch7_Endbattle_ep3_Zena_8</VoiceFile>
           <Content>ฉะนั้นจำคำฉันให้ดี และอยู่ในที่พวกเธอควรอยู่ซะ</Content>
