@@ -28,7 +28,7 @@
   <text id="ui_autotooltip_invitation_invcenterdropbookslot_content">หน้าจอนี้จะแสดงให้เห็นถึงรายชื่อของหนังสือที่หอสมุดมีอยู่ โปรดเลือกไปที่หนังสือที่ต้องใช้</text>
 
   <text id="ui_autotooltip_invitation_sendbutton_title">ส่งคำเชื้อเชิญ</text>
-  <text id="ui_autotooltip_invitation_sendbutton_title_pad">Sending the Invitation &#60;sprite index=4&#62;</text>
+  <text id="ui_autotooltip_invitation_sendbutton_title_pad">ส่งคำเชื้อเชิญ &#60;sprite index=4&#62;</text>
   <text id="ui_autotooltip_invitation_sendbutton_content">ดำเนินการต่อไป เป็นขั้นตอนสุดท้ายในการเชิญ</text>
 
   <text id="ui_autotooltip_invitation_confirmbutton_title">เลียแล้วปั้มแสตม</text>
@@ -52,181 +52,181 @@
 
 
   <!-- after battle -->
-  <text id="ui_autotooltip_after_battle_book_title">ของเหลือจากการต่อสู้</text>
-  <text id="ui_autotooltip_after_battle_book_content">You can check the books you have obtained from the &#60;color=#ff5622ff&#62;‘Reception’&#60;/color&#62; here.
-If you have failed the Reception, this part will show the books you have lost instead.</text>
+<text id="ui_autotooltip_after_battle_book_title">ของเหลือจากการต่อสู้</text>
+  <text id="ui_autotooltip_after_battle_book_content">คุณสามารถตรวจสอบหนังสือที่คุณได้รับจาก &#60;color=#ff5622ff&#62;‘การต้อนรับ’&#60;/color&#62; ได้ตรงนี้
+แต่หากคุณทำการต้อนรับไม่ผ่าน ส่วนนี้จะโชว์หนังสือที่คุณเสียไปแทน</text>
 
-  <text id="ui_autotooltip_after_battle_gift_title">Accessory to Success</text>
-  <text id="ui_autotooltip_after_battle_gift_content">You can check the Battle Symbols your librarians have obtained from the &#60;color=#ff5622ff&#62;‘Reception’&#60;/color&#62; here.</text>
+  <text id="ui_autotooltip_after_battle_gift_title">ของตกแต่งนำไปสู่ชัยชนะ</text>
+  <text id="ui_autotooltip_after_battle_gift_content">คุณสามารถเช็ค Battle Symbols ของบรรณารักษ์ของคุณที่ได้รับมาจาก &#60;color=#ff5622ff&#62;‘การต้อนรับ’&#60;/color&#62; ได้ตรงนี้</text>
 
-  <text id="ui_autotooltip_after_battle_end_title">Calling the Curtains</text>
-  <text id="ui_autotooltip_after_battle_end_content">Now it’s time to conclude the &#60;color=#ff5622ff&#62;‘Reception’&#60;/color&#62; and exit the stage.</text>
+  <text id="ui_autotooltip_after_battle_end_title">ได้เวลาปิดม่าน</text>
+  <text id="ui_autotooltip_after_battle_end_content">ตอนนี้ก็ถึงเวลาที่จะจบ &#60;color=#ff5622ff&#62;‘การต้อนรับ’&#60;/color&#62; แล้วออกจากฉากแล้ว</text>
 
   
   <!--Feeding Book-->
-  <text id="ui_autotooltip_feedingbook_controlbutton_title">A Pleasure to Burn</text>
-  <text id="ui_autotooltip_feedingbook_controlbutton_content">In this section, you can burn the books that you have obtained.</text>
+  <text id="ui_autotooltip_feedingbook_controlbutton_title">เผาจนสุข</text>
+  <text id="ui_autotooltip_feedingbook_controlbutton_content">ในส่วนนี้ คุณจะสามารถเผาหนังสือที่ได้รับมาได้</text>
 
-  <text id="ui_autotooltip_feedingbook_centerbook_title">What Lies in the Pages</text>
-  <text id="ui_autotooltip_feedingbook_centerbook_content">You can see what the books in your possession have to offer before burning them.
-These books are also used for inviting the guests of subsequent episodes, so it is recommended to &#60;color=#ff5622ff&#62;keep at least one copy&#60;/color&#62; in your possession.</text>
+  <text id="ui_autotooltip_feedingbook_centerbook_title">อะไรอยู่ใน Page นั้น</text>
+  <text id="ui_autotooltip_feedingbook_centerbook_content">คุณจะเห็นสิ่งที่อยู่ข้างในหนังสือที่คุณจะเผาได้ หนังสือพวกนี้ก็จะนำไปใช้ในการเชื้อเชิญอีกด้วย เพราะฉนั้นขอแนะนำให้
+&#60;color=#ff5622ff&#62;เก็บหนังสือไว้สักเล่ม&#60;/color&#62;</text>
 
-  <text id="ui_autotooltip_feedingbook_rewarditems_title">From the Ashes</text>
-  <text id="ui_autotooltip_feedingbook_rewarditems_content">Here you can check the list of items that can be obtained from burning the book.</text>
+  <text id="ui_autotooltip_feedingbook_rewarditems_title">จากเถ้าธุลี</text>
+  <text id="ui_autotooltip_feedingbook_rewarditems_content">ส่วนนี้คุณจะสามารถตรวจดูสิ่งที่คุณได้รับจากการเผาหนังสือได้</text>
 
-  <text id="ui_autotooltip_feedingbook_feedbookbutton_title">Getting Fired Up</text>
-  <text id="ui_autotooltip_feedingbook_feedbookbutton_content">Press the relevant button to begin burning your books.
-You can burn &#60;color=#ff5622ff&#62;up to 20 books&#60;/color&#62; at a time.</text>
+  <text id="ui_autotooltip_feedingbook_feedbookbutton_title">เร่งไฟหน่อย!</text>
+  <text id="ui_autotooltip_feedingbook_feedbookbutton_content">กดที่ปุ่มนี้เพื่อทำการเผาหนังสือ
+คุณจะสามารถเผาหนังสือได้ &#60;color=#ff5622ff&#62;มากสุดถึง20เล่ม&#60;/color&#62;พร้อมกันได้</text>
 
   <!--START BATTLE-->
 
-  <text id="ui_autotooltip_battle_speeddicestop_title">Determining Speed</text>
-  <text id="ui_autotooltip_battle_speeddicestop_content">When the Scene begins, press the Spacebar to roll the ‘Speed Dice’.</text>
-  <text id="ui_autotooltip_battle_speeddicestop_content_pad">When the Scene begins, press &#60;sprite index=0&#62; to roll the ‘Speed Dice’.</text> <!-- temp -->
+  <text id="ui_autotooltip_battle_speeddicestop_title">กำหนดความเร็ว</text>
+  <text id="ui_autotooltip_battle_speeddicestop_content">เมื่อได้เริ่มฉากแล้ว กดที่ Spacebar เพื่อทำการกำหนด‘เต๋าความเร็ว’.</text>
+  <text id="ui_autotooltip_battle_speeddicestop_content_pad">เมื่อได้เริ่มฉากแล้ว กดที่ &#60;sprite index=0&#62; เพื่อทำการกำหนด‘เต๋าความเร็ว’</text> <!-- temp -->
 
-  <text id="ui_autotooltip_battle_speeddiceinfo_title">Speed Dice</text>
-  <text id="ui_autotooltip_battle_speeddiceinfo_content">A higher Speed value offers the following advantages:
-- If the enemy’s Speed is lower than yours, you can redirect their attack to you.
-- Characters with higher Speed values will act first.</text>
+  <text id="ui_autotooltip_battle_speeddiceinfo_title">เต๋าความเร็ว</text>
+  <text id="ui_autotooltip_battle_speeddiceinfo_content">หากทอยได้แต้มมากจะมีความได้เปรียบดังนี้:
+- หากค่าความเร็วของเต๋าศัตรูนั้นน้อยกว่าคุณ คุณจะสามารถเปลี่ยนเป้าหมายการโจมตีของศัตรูมาที่ตัวคุณได้
+- ตัวละครที่มีค่าความเร็วสูงจะได้จู่โจมก่อน</text>
 
-  <text id="ui_autotooltip_battle_selectspeeddice_title">A Librarian’s Speed Dice</text>
-  <text id="ui_autotooltip_battle_selectspeeddice_content">Please select the Speed dice on a librarian.</text>
+  <text id="ui_autotooltip_battle_selectspeeddice_title">เต๋าความเร็วของบรรณารักษ์</text>
+  <text id="ui_autotooltip_battle_selectspeeddice_content">โปรดเลือกเต๋าความเร็วของบรรณารักษ์</text>
 
-  <text id="ui_autotooltip_battle_selectcard_title">A Librarian’s Combat Pages</text>
-  <text id="ui_autotooltip_battle_selectcard_content">This is the librarian’s hand of Combat Pages (aka cards).
-Please select one of them.</text>
+  <text id="ui_autotooltip_battle_selectcard_title">Combat Pages ของบรรณารักษ์</text>
+  <text id="ui_autotooltip_battle_selectcard_content">นี่คือCombat Pages (หรือเรียกว่าการ์ด)บนมือของบรรณารักษ์
+โปรดเลือกหนึ่งในนั้น</text>
 
-  <text id="ui_autotooltip_battle_selectenemydice_title">The Enemy’s Speed Dice</text>
-  <text id="ui_autotooltip_battle_selectenemydice_content">Now select the Speed dice of an opposing character to target them with the attack.</text>
+  <text id="ui_autotooltip_battle_selectenemydice_title">เต๋าความเร็วของศัตรู</text>
+  <text id="ui_autotooltip_battle_selectenemydice_content">แล้วเลือกเต๋าความเร็วของตัวละครอีกฝ่ายเพื่อทำการเล็งการโจมตีไปที่มัน</text>
 
-  <text id="ui_autotooltip_battle_autubattlealarm_title">Quick Mode</text>
-  <text id="ui_autotooltip_battle_autubattlealarm_content">By pressing Q or clicking on the icon, you can toggle Quick Mode.
-In Quick Mode, the action dice are rolled automatically during battle, allowing combat to play out smoothly.
-When Quick Mode is off, the player must manually roll the action dice in each engagement by clicking or pressing Space.</text>
+  <text id="ui_autotooltip_battle_autubattlealarm_title">โหมดรวบรัด</text>
+  <text id="ui_autotooltip_battle_autubattlealarm_content">โดยการกดไปที่ปุ่ม Q หรือคลิกไปบนไอค่อน คุณจะสามารถเปิดใช้งานโหมดรวบรัดได้
+ในโหมดรวบรัด ลูกเต๋าจะทำการทอยแบบออโต้ ทำให้การเล่นนั้นออกมาลื่นไหล
+เมื่อโหมดรวบรัดนั้นปิดอยู่ คุณจะต้องทอยลูกเต๋าเองในแต่ละฉากโดยการกดไปที่ไอค่อนหรือการกดปุ่ม Space bar
+</text>
 
-  <text id="ui_autotooltip_battle_autubattlealarm_content_pad">Quick Mode is a toggleable option.
-In Quick Mode, the action dice are rolled automatically during battle, allowing combat to play out smoothly.
-When Quick Mode is off, the player must manually roll the action dice in each engagement by pressing a button.</text> <!-- temp -->
+  <text id="ui_autotooltip_battle_autubattlealarm_content_pad">โหมดรวบรัดคือระบบที่เปิดใช้งานได้
+ในโหมดรวบรัด ลูกเต๋าจะทำการทอยแบบออโต้ ทำให้การเล่นนั้นออกมาลื่นไหล
+เมื่อโหมดรวบรัดนั้นปิดอยู่ คุณจะต้องทอยลูกเต๋าเองในแต่ละฉากโดยการกดไปที่ไอค่อนหรือการกดปุ่ม Space</text> <!-- temp -->
 
-  <text id="ui_autotooltip_battle_autoequipcard_title">Auto-selecting Combat Pages</text>
-  <text id="ui_autotooltip_battle_autoequipcard_content">With this utility, you can automatically fill the librarians’ Speed dice with the Combat Pages in their hands.
-Targets are randomly determined.
-This makes the battle proceed quicker at the cost of precision and strategy.</text>
+  <text id="ui_autotooltip_battle_autoequipcard_title">เลือก Combat Pages แบบออโต้</text>
+  <text id="ui_autotooltip_battle_autoequipcard_content">ด้วยคุณประโยชน์นี้ คุณจะสามารถใช้งาน Combat Pages ในมือของบรรณารักษ์ตามจำนวนเต๋าความเร็วของเราได้
+แต่การเล็งเป้าหมายนั้นจะเป็นแบบสุ่ม
+ทำให้การต่อสู้นั้นใช้เวลาน้อยลงแลกกับความแม่นยำและกลยุทธ์ของคุณ
+</text>
 
 
-  <text id="ui_autotooltip_battle_battlearrowview_title">Targeting Display</text>
-  <text id="ui_autotooltip_battle_battlearrowview_content">These are visual indicators showing who the librarians and guests are currently targeting for attack.
-Toggle them by pressing 1/2/3 (Enemies/Clashes/Librarians) on the keyboard or by clicking on the icons.</text>
+  <text id="ui_autotooltip_battle_battlearrowview_title">โชว์การเล็ง</text>
+  <text id="ui_autotooltip_battle_battlearrowview_content">สิ่งนี้จะแสดงลูกศรโชว์ว่าใครเล็งเป้าหมายไปที่ใคร โดยการเปิดใช้ จะกดไปที่ปุ่ม 1/2/3 (ศัตรู/การปะทะ/บรรณารักษ์)บนคีย์บอร์ดหรือคลิกบนไอค่อน</text>
   
-  <text id="ui_autotooltip_battle_battlearrowview_content_pad">These are visual indicators showing who the librarians and guests are currently targeting for attack.
-You can toggle them with the icons.(Enemies/Clashes/Librarians)</text> <!-- temp -->
+  <text id="ui_autotooltip_battle_battlearrowview_content_pad">สิ่งนี้จะแสดงลูกศรโชว์ว่าใครเล็งเป้าหมายไปที่ใคร โดยการเปิดใช้ จะคลิกไปบนไอค่อน(ศัตรู/การปะทะ/บรรณารักษ์)</text> <!-- temp -->
   
   
-  <text id="ui_autotooltip_battle_startbattle_title">I’m Ready Now!</text>
-  <text id="ui_autotooltip_battle_startbattle_content">By pressing the Spacebar or clicking on the icon after the Speed dice have been rolled, you can begin the combat phase.</text>
+  <text id="ui_autotooltip_battle_startbattle_title">ฉันพร้อมแล้ว!</text>
+  <text id="ui_autotooltip_battle_startbattle_content">โดยการกดที่ปุ่ม Spacebar หรือกดไปที่ไอค่อนหลังจากที่เต๋าความเร็วนั้นทอยไปแล้ว จะเป็นการเข้าสู่ช่วงต่อสู้</text>
 
-  <text id="ui_autotooltip_battle_startbattle_content_pad">By pressing &#60;sprite index=4&#62; after the Speed dice have been rolled, you can begin the combat phase.</text>
+  <text id="ui_autotooltip_battle_startbattle_content_pad">โดยการกดที่ &#60;sprite index=4&#62; หลังจากที่เต๋าความเร็วนั้นทอยไปแล้ว จะเป็นการเข้าสู่ช่วงต่อสู้</text>
 
 
 
   <!--Creature Battle-->
-  <text id="ui_autotooltip_creaturebattle_selectenemy_title">Observing the Opponent</text>
-  <text id="ui_autotooltip_creaturebattle_selectenemy_content">Please click on an opposing character.</text>
-  <text id="ui_autotooltip_creaturebattle_selectenemy_content_pad">Please select on an opposing character.</text> <!-- temp -->
+  <text id="ui_autotooltip_creaturebattle_selectenemy_title">สำรวจศัตรู</text>
+  <text id="ui_autotooltip_creaturebattle_selectenemy_content">โปรดคลิกไปที่ตัวละครอีกฝ่าย</text>
+  <text id="ui_autotooltip_creaturebattle_selectenemy_content_pad">โปรดคลิกไปที่ตัวละครอีกฝ่าย</text> <!-- temp -->
 
-  <text id="ui_autotooltip_creaturebattle_passivealarm_title">List of Passives</text>
-  <text id="ui_autotooltip_creaturebattle_passivealarm_content">By selecting on the character, you can view the list of passive abilities they possess.</text>
+  <text id="ui_autotooltip_creaturebattle_passivealarm_title">ลิสของพาซสีฟ</text>
+  <text id="ui_autotooltip_creaturebattle_passivealarm_content">โดยการเลือกไปที่ตัวละครนั้นๆ คุณจะสามารถตรวจดูรายชื่อพาซสีฟที่ตัวละครนั้นมีอยู่ได้</text>
 
-  <text id="ui_autotooltip_creaturebattle_tolerancealarm_title">Resistances</text>
-  <text id="ui_autotooltip_creaturebattle_tolerancealarm_content">When you observe a character, you can also check their resistances to various damage types.</text>
+  <text id="ui_autotooltip_creaturebattle_tolerancealarm_title">ความต้านทาน</text>
+  <text id="ui_autotooltip_creaturebattle_tolerancealarm_content">เมื่อคุณตรวจดูตัวละครอยู่ คุณก็จะสามารถตรวจสอบความต้านทานต่อประเภทการโจมตีนั้นๆได้ </text>
 
 
   <!--Librarian Character Slot-->
-  <text id="ui_autotooltip_sephirah_librarianslot_title">Librarian Slots</text>
-  <text id="ui_autotooltip_sephirah_librarianslot_content">Please move over to this panel and select a librarian on this floor to move to the Combat Page list.</text>
+  <text id="ui_autotooltip_sephirah_librarianslot_title">ช่องบรรณารักษ์</text>
+  <text id="ui_autotooltip_sephirah_librarianslot_content">โปรดขยับไปที่หน้าต่างนี้และเลือกบรรณารักษ์ในชั้นนี้เพื่อไปที่ลิส Combat Page</text>
 
 
   <!-- I don't think there'll be much other than "Hey, you can open this by doing this, check it out from time to time", so get saucy in the meantime -->
   <!-- I put in some temporary text taken from the manual and my braincells for now until we get further instruction.-->
 
-  <text id="ui_autotooltip_battlepage_currentequiped_title">Current Deck Setup</text>
-  <text id="ui_autotooltip_battlepage_currentequiped_content">You can see the currently equipped Combat Pages here.</text>
+  <text id="ui_autotooltip_battlepage_currentequiped_title">เด็คปัจจุบัน</text>
+  <text id="ui_autotooltip_battlepage_currentequiped_content">คุณจะเห็น Combat Pages ที่ใช้อยู่ในนี้</text>
 
-  <text id="ui_autotooltip_battlepage_inventory_title">Combat Page List</text>
-  <text id="ui_autotooltip_battlepage_inventory_content">This is the list of Combat Pages owned by the player.</text>
+  <text id="ui_autotooltip_battlepage_inventory_title">ลิส Combat Pages</text>
+  <text id="ui_autotooltip_battlepage_inventory_content">นี่คือลิส Combat Pages ที่คุณเป็นเจ้าของอยู่</text>
 
-  <text id="ui_autotooltip_librarianinfo_customizebutton_title">Librarian Customization</text>
-  <text id="ui_autotooltip_librarianinfo_customizebutton_content">Here, you can customize your librarians’ appearance and dialogues.</text>
+  <text id="ui_autotooltip_librarianinfo_customizebutton_title">ตกแต่งบรรณารักษ์</text>
+  <text id="ui_autotooltip_librarianinfo_customizebutton_content">ในส่วนนี้ คุณจะสามารถตกแต่งรูปร่างและบทพูดของบรรณารักษ์ของคุณได้</text>
 
   <text id="ui_autotooltip_librarianinfo_gift_title">Battle Symbols</text>
-  <text id="ui_autotooltip_librarianinfo_gift_content">You can check the Battle Symbols in the librarian’s possession here.</text>
+  <text id="ui_autotooltip_librarianinfo_gift_content">คุณจะสามารถตรวจสอบ Battle Symbols ที่บรรณารักษ์คนนั้นครอบครองอยู่ในนี้</text>
 
   <text id="ui_autotooltip_librarianinfo_battlepage_title">Combat Pages</text>
-  <text id="ui_autotooltip_librarianinfo_battlepage_content">You can jump from the librarian information tab to the Combat Pages tab here.</text>
+  <text id="ui_autotooltip_librarianinfo_battlepage_content">คุณจะสามารถข้ามจากหน้าข้อมูลของบรรณารักษ์ไปที่หน้า Combat Page ได้จากตรงนี้</text>
 
   <text id="ui_autotooltip_librarianinfo_equippage_title">Key Page</text>
-  <text id="ui_autotooltip_librarianinfo_equippage_content">You can jump from the librarian information tab to the Key Page tab here.</text>
+  <text id="ui_autotooltip_librarianinfo_equippage_content">คุณจะสามารถข้ามจากหน้าข้อมูลของบรรณารักษ์ไปที่หน้า Key Page ได้จากตรงนี้</text>
   
   <!-- 210527 추가-->
-  <text id="ui_autotooltip_equippage_clickinvenbook_title">What a Wonderful Collection!</text>
-  <text id="ui_autotooltip_equippage_clickinvenbook_content">This is the list of Key Pages &#60;color=#ff5622ff&#62;currently owned&#60;/color&#62; by the player.</text>
+  <text id="ui_autotooltip_equippage_clickinvenbook_title">ของสะสมมันช่างวิเศษจริงๆ!</text>
+  <text id="ui_autotooltip_equippage_clickinvenbook_content">ส่วนนี้จะแสดงรายชื่อ Key Pages ที่&#60;color=#ff5622ff&#62;คุณเป็นเจ้าของอยู่ &#60;/color&#62;</text>
 
-  <text id="ui_autotooltip_equippage_invenbookinfo_title">Key Page Info</text>
-  <text id="ui_autotooltip_equippage_invenbookinfo_content">That panel shows the information of the selected Key Page.
-You can check &#60;color=#ff5622ff&#62;the deck (aka Combat Bookshelf), passive abilities, and resistances&#60;/color&#62;.</text>
+  <text id="ui_autotooltip_equippage_invenbookinfo_title">ข้อมูล Key Page</text>
+  <text id="ui_autotooltip_equippage_invenbookinfo_content">หน้าต่างนี้จะแสดงข้อมูลของ Key Page ที่คุณเลือก
+คุณจะสามารถเช็ค&#60;color=#ff5622ff&#62;กองเด็ค (หรือที่เรียกว่าชั้นหนังสือต่อสู้ส), ความสามารถของพาซสีฟ, และความต้านทาน&#60;/color&#62;</text>
   
-  <text id="ui_autotooltip_equippage_selfequipedbookinfo_title">Current Key Page</text>
-  <text id="ui_autotooltip_equippage_selfequipedbookinfo_content">That panel shows the information of the Key Page currently equipped by the librarian.</text>
+  <text id="ui_autotooltip_equippage_selfequipedbookinfo_title"> Key Page ปัจจุบัน</text>
+  <text id="ui_autotooltip_equippage_selfequipedbookinfo_content">หน้าต่างนี้จะแสดงข้อมูลของ Key Page ที่บรรณารักษ์สวมใส่อยู่</text>
 
-  <text id="ui_autotooltip_equippage_equipbuttonalarm_title">Equip Button</text>
-  <text id="ui_autotooltip_equippage_equipbuttonalarm_content">Press the button to equip the Key Page to the librarian.</text>
+  <text id="ui_autotooltip_equippage_equipbuttonalarm_title">ปุ่มสวมใส่</text>
+  <text id="ui_autotooltip_equippage_equipbuttonalarm_content">กดที่ปุ่มเพื่อทำการสวมใส่ Key Page ให้กับบรรณารักษ์</text>
 
-  <text id="ui_autotooltip_equippage_changecurrentequipalarm_title">The Librarian’s New Threads</text>
-  <text id="ui_autotooltip_equippage_changecurrentequipalarm_content">You can see the information of the newly equipped Key Page here.</text>
+  <text id="ui_autotooltip_equippage_changecurrentequipalarm_title">ลุคใหม่ๆของเหล่าบรรณารักษ์</text>
+  <text id="ui_autotooltip_equippage_changecurrentequipalarm_content">คุณจะเห็นข้อมูลของ Key Page ที่คุณพึ่งสวมใส่อยู่ได้ในนี้</text>
 
-  <text id="ui_autotooltip_equippage_selfequipedbookinfo_emptybattlepagealarm_title">Empty Bookshelf</text>
-  <text id="ui_autotooltip_equippage_selfequipedbookinfo_emptybattlepagealarm_content">The deck of Combat Pages is bound to the Key Page.
-Make sure to configure the deck after changing Key Pages.</text>
+  <text id="ui_autotooltip_equippage_selfequipedbookinfo_emptybattlepagealarm_title">ชั้นหนังสือมันช่างว่างเปล่า</text>
+  <text id="ui_autotooltip_equippage_selfequipedbookinfo_emptybattlepagealarm_content">เด็คของ Combat Pages นั้นจะถูกผูกอยู่กับ Key Page นั้นๆ
+คุณควรมั่นใจว่าตั้งค่าเด็คหลังจากที่เปลี่ยน Key Page ใหม่แล้ว</text>
 
   <!--Keter Levelup Possible-->
-  <text id="ui_autotooltip_keter_questalarm_title">Floor Assignments</text>
-  <text id="ui_autotooltip_keter_questalarm_content">Each floor will present you with a set of &#60;color=#ff5622ff&#62;Assignments&#60;/color&#62;.
-Completing the Assignments will unlock an ‘Abnormality Battle’.</text>
+  <text id="ui_autotooltip_keter_questalarm_title">งานที่กำหนดในแต่ละชั้น</text>
+  <text id="ui_autotooltip_keter_questalarm_content">ในแต่ละชั้นจะมีเซ็ตของ&#60;color=#ff5622ff&#62;งาน&#60;/color&#62;อยู่
+หลังจากที่สะสางงานเสร็จแล้วจะเป็นการปลดล็อค ‘การต่อสู้กับ Abnormality’</text>
 
-  <text id="ui_autotooltip_keter_possiblecreaturebattle_title">Abnormality Battles</text>
-  <text id="ui_autotooltip_keter_possiblecreaturebattle_content">When the Assignments are completed for a floor, &#60;color=#ff5622ff&#62;a battle against an Abnormality&#60;/color&#62; will become available.
-Clearing Abnormality battles will raise the floor’s Realization Level.</text>
+  <text id="ui_autotooltip_keter_possiblecreaturebattle_title"> การต่อสู้กับ Abnormality</text>
+  <text id="ui_autotooltip_keter_possiblecreaturebattle_content">หลังจากที่สะสางงานประจำชั้นเสร็จสิ้นแล้ว &#60;color=#ff5622ff&#62;การต่อสู้กับพวก Abnormality&#60;/color&#62; จะเปิดให้ต่อสู้
+หลังจากที่ควบคุม Abnormality เสร็จแล้ว จะเป็นการเพิ่มระดับการตื่นรู้ของชั้นนั้นๆ</text>
 
-  <text id="ui_autotooltip_keter_librarylevelalarm_title">Hazard Level</text>
-  <text id="ui_autotooltip_keter_librarylevelalarm_content">This is the Library’s current hazard level as perceived by the City.
-Raising the Realization Level of each floor will increase the Library’s presence as a threat.
-&#60;color=#ff5622ff&#62;The Library’s hazard level&#60;/color&#62; will rise once the gauge is filled.</text>
+  <text id="ui_autotooltip_keter_librarylevelalarm_title">ระดับภัยอันตราย</text>
+  <text id="ui_autotooltip_keter_librarylevelalarm_content">เส้นนี้คือระดับความอันตรายของหอสมุดที่เมืองเห็น 
+การเพิ่มระดับการตื่นรู้ในแต่ละชั้นจะเป็นการเพิ่มระดับการแสดงตนเป็นภัยคุกคามของหอสมุด
+&#60;color=#ff5622ff&#62;ระดับภัยอันตรายของหอสมุด&#60;/color&#62;จะเพิ่มขึ้นหลังจากที่หลอดถูกเติมเต็ม</text>
 
 
 
   <!--Battle Setting Remain Wave-->
-  <text id="ui_autotooltip_battlesetting_remainstagebuttonalarm_title">Acts Remaining</text>
-  <text id="ui_autotooltip_battlesetting_remainstagebuttonalarm_content">Some receptions are composed of multiple Acts.
-You can check the number of Acts in the reception here.</text>
+  <text id="ui_autotooltip_battlesetting_remainstagebuttonalarm_title">องค์ที่เหลืออยู่</text>
+  <text id="ui_autotooltip_battlesetting_remainstagebuttonalarm_content">การรับแขกบางครั้งอาจจะมีองค์มากกว่าหนึ่งองค์
+คุณจะสามารถเช็คจำนวนขององค์ในการรับแขกได้ตรงนี้</text>
 
 
-  <text id="ui_autotooltip_battlesetting_remainstageinfoalarm_title">Battle Order</text>
-  <text id="ui_autotooltip_battlesetting_remainstageinfoalarm_content">Visual indicators for the number of Acts and their order can be found here.</text>
+  <text id="ui_autotooltip_battlesetting_remainstageinfoalarm_title">ลำดับการต่อสู้</text>
+  <text id="ui_autotooltip_battlesetting_remainstageinfoalarm_content">ภาพตัวบ่งชี้ของจำนวนขององค์และลำดับนั้นจะตรวจสอบได้ตรงนี้</text>
 
   <!--Battle Setting Possible Floor-->
-  <text id="ui_autotooltip_battlesetting_possiblefloorinfo_title">One, Two, Three, Floor…</text>
-  <text id="ui_autotooltip_battlesetting_possiblefloorinfo_content">The floors that can participate in the reception are shown here.</text>
+  <text id="ui_autotooltip_battlesetting_possiblefloorinfo_title">ชั้นหนึ่ง, ชั้นสอง, ชั้นสาม, ฉันสิ…</text>
+  <text id="ui_autotooltip_battlesetting_possiblefloorinfo_content">ชั้นที่สามารถเข้าร่วมในการรับแขกได้จะแสดงอยู่ในนี้</text>
   
   <!--Malkuth Open-->
-  <text id="ui_autotooltip_malkuth_firstopen_allsephirahhighlight_title">Floors with Open Doors</text>
-  <text id="ui_autotooltip_malkuth_firstopen_allsephirahhighlight_content">This middle portion allows you to navigate the information of the floors that are currently available.</text>
+  <text id="ui_autotooltip_malkuth_firstopen_allsephirahhighlight_title">ประตูสู่อีกชั้น</text>
+  <text id="ui_autotooltip_malkuth_firstopen_allsephirahhighlight_content">ในส่วนนี้จะทำให้คุณสามารถสำรวจข้อมูลของชั้นที่ถูกปลดล็อคไปแล้วได้</text>
   
-  <text id="ui_autotooltip_malkuth_firstopen_floorhighlight_title">A New Floor</text>
-  <text id="ui_autotooltip_malkuth_firstopen_floorhighlight_content">More floors will be unlocked when certain conditions are met.
-New librarians are shown on new floors.</text>
+  <text id="ui_autotooltip_malkuth_firstopen_floorhighlight_title">ชั้นใหม่</text>
+  <text id="ui_autotooltip_malkuth_firstopen_floorhighlight_content">จะมีชั้นใหม่ๆพร้อมให้บริการ หลังจากที่เงื่อนไขของชั้นนั้นๆครบ
+และจะมีบรรณารักษ์คนใหม่มาประจำการที่ชั้นใหม่</text>
   
-  <text id="ui_autotooltip_malkuth_firstopen_floorinfohighlight_title">What’s on This Floor?</text>
-  <text id="ui_autotooltip_malkuth_firstopen_floorinfohighlight_content">You can view the information on the newly opened floor here.
-You can check the librarians, Floor Assignments, and Abnormality pages.</text>
+  <text id="ui_autotooltip_malkuth_firstopen_floorinfohighlight_title">ชั้นนี้มีอะไรบ้าง?</text>
+  <text id="ui_autotooltip_malkuth_firstopen_floorinfohighlight_content">คุณสามารถดูข้อมูลของชั้นที่พึ่งเปิดใหม่ได้ตรงนี้
+  คุณจะสามารถตรวจดูบรรณารักษ์, งานประจำชั้น, และ Abnormality pages</text>
 
 </localize>
