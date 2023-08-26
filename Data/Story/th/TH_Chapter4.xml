@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="4">
-    <Title>Chapter 4–Urban Plague–‘He says I don't have a disease.’</Title>
+    <Title>Chapter 4–ภัยประจำเมือง–‘เขาบอกว่าผมไม่มีโรคภัย’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>สถานที่:สมาพันธ์ชิ - สาขาทางใต้</PlaceName>
+        <PlaceName>สถานที่:สมาพันธ์ชิ - สาขาตอนใต้</PlaceName>
         <Dialog ID="0" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia1-01</VoiceFile>
-          <Content>เทลมา,คุณต้องขอบคุณฉันทั้งหมดที่ทำให้คุณสามารถรักษาตำแหน่งหัวหน้าแผนกทางใต้ได้ ดังนั้นบางทีคุณควรจะตอบแทนบุญคุณบ้างสิ ถูกไหม?</Content>
+          <Content>เซลม่า, ต้องขอบคุณผมเลยนะ ที่คุณยังสามารถดำลงตำแหน่งหัวหน้าแผนกทางใต้ได้ คุณไม่คิดว่ามันถึงเวลาตอบแทนบุญคุณแล้วหรอ?</Content>
         </Dialog>
         <Dialog ID="1" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma1-01</VoiceFile>
-          <Content>ฉันรู้ว่านั่นคือข้อตกลง</Content>
+          <Content>รู้แล้วน่า ก็มันคือคำสัญญานี่หน่า</Content>
         </Dialog>
         <Dialog ID="2" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma2-02</VoiceFile>
-          <Content>คุณต้องการอะไรในครั้งนี้?</Content>
+          <Content>แล้วครั้งนี้ต้องการอะไรล่ะ?</Content>
         </Dialog>
         <Dialog ID="3" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia2</VoiceFile>
-          <Content>ฉันต้องการให้ทีมของคุณดูแลสิ่งต่างๆในรายการนี้ ฉันคิดว่าคุณอาจจะสามารถทำมันได้เร็วพอ</Content>
+          <Content>ผมต้องการให้พวกคุณดูแลสิ่งต่างๆในรายการนี้ ผมคิดว่าผมอาจจะระบุตำแหน่งของมันได้เร็วๆนี้</Content>
         </Dialog>
         <Dialog ID="4" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma3-01</VoiceFile>
-          <Content>…ทั้งหมดนี้เป็นคำขอที่ไร้สาระสิ้นดี</Content>
+          <Content>…ทั้งหมดนี่มันเป็นคำขอที่ไร้สาระสิ้นดี</Content>
         </Dialog>
         <Dialog ID="5" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma4-01</VoiceFile>
-          <Content>แม้ว่าเราจะมีทีมที่เหมาะสมกับงานนี้ก็ตาม…</Content>
+          <Content>แต่ก็ เราก็มีทีมงานที่เหมาะสมอยู่…</Content>
         </Dialog>
         <Dialog ID="6" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia3</VoiceFile>
-          <Content>ให้ฉันเดานะ หน่วย 2 ใช่ไหม?</Content>
+          <Content>ให้ผมเดานะ หน่วย 2 ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="7" Model="???">
           <Teller>???</Teller>
@@ -61,19 +61,19 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia4-01</VoiceFile>
-          <Content>เห็นฉันเป็นคนที่มีน้ำใจมากขนาดนั่นเลยหรอ เทลมา</Content>
+          <Content>เห็นไหม? ว่าผมน่ะเป็นคนที่ใจกว้างขนาดไหน เซลม่า</Content>
         </Dialog>
         <Dialog ID="9" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma6</VoiceFile>
-          <Content>ในรายชื่อนี้ ‘ห้องสมุด’ ตอนนี้ได้รับการแต่งตั้งให้เป็นภัยประจำเมืองโดยสมาพันธ์ฮานาแล้ว…</Content>
+          <Content>ในรายชื่อนี้ ‘หอสมุด’ ตอนนี้ได้รับการแต่งตั้งให้เป็นภัยประจำเมืองโดยสมาพันธ์ฮานาแล้ว…</Content>
         </Dialog>
         <Dialog ID="10" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia5-01</VoiceFile>
-          <Content>นั่นคือสิ่งที่ฉันให้การสนใจเป็นพิเศษจริงๆ </Content>
+          <Content>จริงๆแล้ว หอสมุดนั่นแหละที่ผมสนใจเป็นพิเศษ</Content>
         </Dialog>
       </Place>
       <Place>
@@ -94,7 +94,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_prol_ep1_angela2</VoiceFile>
-          <Content>หากการประมาณของนายถูกต้อง, เราจะต้องเตรียมตัวให้พร้อมสำหรับแขกรับเชิญจาก สมาพันธ์ต่างๆ และก็ วิง จากนี้จะมาบ่อยขึ้นสินะ?</Content>
+          <Content>หากการประมาณของนายถูกต้อง, เราจะต้องเตรียมตัวให้พร้อมสำหรับพวกแขกที่จะมาจากองค์กรต่างๆ รวมถึงพวกวิงซ์หลังจากนี้สินะ?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -106,19 +106,19 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_prol_ep1_angela3</VoiceFile>
-          <Content>นายกำลังทำเรื่องไร้สาระอะไรเวลานี้?</Content>
+          <Content>ครั้งนี้นายจะพูดเรื่องไร้สาระอะไรอีกล่ะ?</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland3</VoiceFile>
-          <Content>เธอเพิ่งเรียกหาฉันว่า “โรแลนด์”</Content>
+          <Content>ก็เธอเพิ่งเรียกฉันว่า “โรแลนด์”</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_prol_ep1_angela4</VoiceFile>
-          <Content>เพราะนั่นคือชื่อของนายนี่</Content>
+          <Content>ก็โรแลนด์มันชื่อของนายนิ</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -136,37 +136,37 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland5</VoiceFile>
-          <Content>โอ้นั่น~ เป็นคำตอบที่ดูน่าเบื่อมาก.</Content>
+          <Content>อ้ะโด่ว~ ตอบได้น่าเบื่อมาก</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland6</VoiceFile>
-          <Content>เป็นเวลานานแล้วนะที่ไม่มีใครเรียกชื่อฉันหลังจากครั้งสุดท้ายที่ฉันได้ยินมาจากครอบครัวของฉันเอง, ฉันคิดว่า…</Content>
+          <Content>แต่ก็นานแล้วนะที่มีใครมาเรียกชื่อฉัน ครั้งสุดท้ายที่ฉันได้ยินก็น่ามาจากครอบครัวของฉันเอง ล่ะมั้ง…</Content>
         </Dialog>
         <Dialog ID="22" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_prol_ep1_angela6</VoiceFile>
-          <Content>นายบอกว่าคุณยายของนายหายไปนานแล้วนี่?</Content>
+          <Content>นายบอกเองว่าคุณยายของนายหายไปนานแล้วนี่?</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland7</VoiceFile>
-          <Content>โอ้ใช้ ฉันมีเมียแล้วเธอเข้าใจใช้ไหม</Content>
+          <Content>โอ้ะ แต่ฉันน่ะมีภรรยาแล้วนะ</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_prol_ep1_angela7</VoiceFile>
-          <Content>นั่นเป็นเรื่องที่น่าสนใจ</Content>
+          <Content>เป็นเรื่องที่น่าสนใจจริงๆ</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland8</VoiceFile>
-          <Content>ฮุน… เธอคงคิดว่าคนอย่างฉันไม่สามารถแต่งงานได้หรอกใช่ไหม? เธอดูรู้สึกสนใจกับการแต่งงานที่ดูไร้สาระของมนุษย์นะ? </Content>
+          <Content>ฮ้ะ… เธอคงไม่ได้สนใจว่าคนอย่างฉันจะแต่งงานไม่ได้ใช่ไหม? เธอคงสนใจว่าไอ้แนวคิดเกี่ยวกับพิธีแต่งงานของมนุษย์มันไร้ประโยชน์ใช่ไหม? </Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -178,25 +178,25 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland9</VoiceFile>
-          <Content>…บอกไว้ก่อนเลยว่ามันเป็นเรื่องซ้ำซากโดยรวมมีช่วงเวลาที่น่าเศร้าของฉัน อย่าคิดว่าเธอจะชอบมันจริงๆ</Content>
+          <Content>…บอกไว้ก่อนเลยว่ามันเป็นเรื่องซ้ำซากโดยรวมมีช่วงเวลาที่น่าเศร้าของฉัน ไม่คิดว่าเธอจะชอบฟังอะไรแนวนี้หรอก</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_prol_ep1_angela9</VoiceFile>
-          <Content>ไม่เป็นไรฉันเปิดรับเรื่องราวใหม่ๆ ของผู้อื่นอยู่เสมอ</Content>
+          <Content>ไม่เป็นไรฉันเปิดรับเรื่องราวใหม่ๆของผู้อื่นเสมอ</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland10</VoiceFile>
-          <Content>คนที่ไม่ยอมแม้แต่จะเล่าเรื่องชีวิตของเธอเองให้ฉันฟังนั้นนะ</Content>
+          <Content>พูดโดยคนที่่ไม่แม้แต่จะพูดเรื่องของตัวเองเนี้ยนะ</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_prol_ep1_angela10</VoiceFile>
-          <Content>ฉันไม่สามารถพาตัวเองไปเล่าเรื่องนั้นได้</Content>
+          <Content>ฉันไม่สามารถพาตัวเองไปเล่าเรื่องนั้นได้ ฉันเบื่อเกี่ยวกับมันแล้วล่ะ</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
@@ -220,127 +220,127 @@
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland12</VoiceFile>
-          <Content>ยังไงก็ตามฉันเคยทำงานอย่างหนักแต่ไม่มีอะไรดีขึ้นเลย</Content>
+          <Content>ยังไงก็ตาม ฉันก็เคยทำงานอย่างหนักมาแล้ว มันไม่มีงานดีๆให้ทำน่ะ</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland13</VoiceFile>
-          <Content>ฉันไม่เหมาะกับงาน  ฟิกเซอร์ เพราะมาจากพื้นฐานที่หยาบกระด้างและโดยรวม ในขณะที่ฉันยังคงทำงานเหมือนผึ้งงาน ฉันจึงได้บ้านในจุดที่เหมาะสมและได้พบกับสิ่งที่เรียกว่า "คู่ชีวิต"</Content>
+          <Content>คงจะเป็นเพราะสภาพแวดล้อมที่ฉันโตมาล่ะมั่ง ฉันเลยถนัดกับงานของพวกฟิกเซอร์ จากการที่ฉันทำงานหนักดั่งผึ้งงาน ฉันจึงซื้อบ้านในจุดดีๆได้และก็ได้พบกับ "คู่ชีวิต"</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland14</VoiceFile>
-          <Content>เธอเป็นผู้หญิงที่แกร่งมาก… เมื่อฉันมองไปที่แผ่นหลังของเธอทำให้ฉันรู้สึกสบายใจเหมือนได้เป็นที่พักพิง ซึ่งเป็นสิ่งที่ฉันไม่สามารถรู้สึกได้แม้แต่ตอนที่ฉันซื้อบ้าน</Content>
+          <Content>เธอเป็นผู้หญิงที่แกร่งมาก… เมื่อฉันมองไปที่แผ่นหลังของเธอมันทำให้ฉันรู้สึกสบายใจเหมือนได้ที่พักพิง เป็นสิ่งที่ฉันไม่สามารถรู้สึกได้แม้แต่ตอนที่ฉันซื้อบ้าน</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland15</VoiceFile>
-          <Content>ฉันพยายามหลายครั้งเพื่อดึงดูดความสนใจจากเธอ</Content>
+          <Content>ฉันพยายามตั้งหลายครั้งเพื่อดึงดูดความสนใจจากเธอ</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland16</VoiceFile>
-          <Content>โอ้ ฉันลากยาวเกินไปหรือเปล่า…?</Content>
+          <Content>โอ้ นี่ฉันลากยาวเกินไปหรือเปล่า…?</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_prol_ep1_angela13</VoiceFile>
-          <Content>อื่มไม่เป็นไร ต่อเลย</Content>
+          <Content>อื่ม ไม่เป็นไร ต่อเลย</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland17</VoiceFile>
-          <Content>ฉันมีโอกาสเจอเธอหลายครั้งเพราะเราอยู่ในวงการเดียวกัน</Content>
+          <Content>ฉันมีโอกาสได้เจอเธอหลายครั้งเพราะเราอยู่ในวงการเดียวกัน</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland18</VoiceFile>
-          <Content>ซึ่งภรรยาของฉันเป็น ฟิกเซอร์ ที่มีระดับค่อนข้างสูงเธอเป็นที่พึ่งได้ด้วยเหตุผลนี้</Content>
+          <Content>ภรรยาของฉันนะเป็นฟิกเซอร์ที่เกรดค่อนข้างสูง เธอเลยพึ่งพาได้ด้วยเหตุผลนี้</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland19</VoiceFile>
-          <Content>อย่างไรก็ตามมีขึ้นก็มีลง เกิดเหตุนับไม่ถ้วนหลังจากนั้น</Content>
+          <Content>อย่างไรก็ตาม หลังจากนั้นมีเรื่องต่างๆเข้ามาในชีวิตมากมายนับไม่ถ้วน เราทั้งคู่ก็ได้แต่งงานกัน</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland20</VoiceFile>
-          <Content>ฉันพูดง่ายๆตรงนี้เลยว่า ความเสียใจที่ฉันรู้สึกจากความพลิกผันนั้นเป็นของจริง เธอเข้าใจไหม?</Content>
+          <Content>ฉันพูดให้ฟังง่ายๆตรงนี้เลยว่า ความเสียใจที่ฉันรู้สึกจากความพลิกผันนั้นเป็นของจริง รู้ไหม?</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland21</VoiceFile>
-          <Content>เราทั้งคู่ได้สะสมเงินจำนวนมากจากการทำงาน ดังนั้นเราจึงตัดสินใจเลิกเป็น ฟิกเซอร์ สักระยะหนึ่งและใช้เวลาอย่างสงบสุขด้วยกัน</Content>
+          <Content>เราทั้งคู่ได้สะสมเงินจำนวนมากจากการทำงานเหมือนหมา ดังนั้นเราจึงตัดสินใจจะเลิกเป็นฟิกเซอร์ไปสักระยะหนึ่งและใช้เวลาอย่างสงบสุขด้วยกัน</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland22</VoiceFile>
-          <Content>ส่วนนี้ค่อนข้างซ้ำซาก แต่ "ความสุข" เป็นคำเดียวที่อธิบายความรู้สึกของฉันจริงๆ การอยู่คนเดียวมาทั้งชีวิตสุดท้ายก็มีคนให้พึ่งได้</Content>
+          <Content>ส่วนนี้มันค่อนข้างไม่จ๊าบนะ แต่คำว่า "ความสุข" เป็นคำเดียวที่อธิบายความรู้สึกของฉันจริงๆ การอยู่คนเดียวมาทั้งชีวิตสุดท้ายแล้วอยู่ๆก็มีคนที่ให้พึ่งได้</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland23</VoiceFile>
-          <Content>ตอนนั้นสิ่งที่เราต้องกังวลมีเพียงคือจะทานอะไรดี ตอนเย็นไปเดินเล่นที่ไหน…จะตั้งชื่อลูกและอะไรดี</Content>
+          <Content>ตอนนั้นสิ่งที่เราต้องกังวลมีเพียงว่าจะกินอะไรดี ตอนเย็นไปเดินเล่นที่ไหน…จะตั้งชื่อลูกว่าอะไร อะไรอย่างนั้นน่ะ</Content>
         </Dialog>
         <Dialog ID="47" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland24</VoiceFile>
-          <Content>แล้ววันหนึ่ง เพื่อนก็โทรมาด่วนขอให้ไปช่วยทำคำขอที่ไกลจากบ้าน</Content>
+          <Content>จนกระทั้งวันหนึ่ง เพื่อนก็โทรมาด่วนขอให้ไปช่วยทำคำขอที่ไกลจากบ้าน</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland25</VoiceFile>
-          <Content>เธออาจจะเดาได้ว่าตอนนี้กำลังดำเนินถึงตรงไหนแล้ว</Content>
+          <Content>เธออาจจะเดาได้ว่าตอนนี้กำลังจะเกิดอะไรขึ้นต่อไป</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland26</VoiceFile>
-          <Content>งานไม่ใช่เรื่องใหญ่และค่าตอบแทนก็ถือว่าโอเคอยู่ดังนั้นฉันจึงตัดสินใจรับมัน ภรรยาของฉันก็บอกว่าโอเคเช่นกัน</Content>
+          <Content>งานก็ไม่ใช่เรื่องใหญ่อะไรแถมค่าตอบแทนก็ถือว่าค่อนข้างโอเคอยู่ดังนั้นฉันจึงตัดสินใจรับมัน ภรรยาของฉันก็ให้ไปเหมือนกัน</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland27</VoiceFile>
-          <Content>ฉันถูกส่งไปยังย่านที่มีชื่อเสียงสำหรับพาจอน ซึ่งเป็นอาหารโปรดของภรรยาฉัน ฉันอยากจะเห็นเธอน้ำลายไหลด้วยความคิดที่อยากจะกินมัน</Content>
+          <Content>ฉันถูกส่งไปยังย่านที่มีชื่อเสียงสำหรับพาจอน อาหารโปรดของภรรยาฉัน ฉันแถบจะเห็นเธอน้ำลายไหลหลังจากเธอที่คิดว่าจะได้กินมันก่อนที่เธอจะไปส่งฉัน</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland28</VoiceFile>
-          <Content>เพื่อให้เป็นไปตามที่ฉันความคาดหวัง ฉันจึงซื้อกล่องถนอมอาหารจาก U Corp เพื่ออาหารอุ่นๆ จะได้ส่งตรงจากครัวไปให้เธอ.</Content>
+          <Content>เพื่อให้เป็นไปตามที่เธอคาดหวัง ฉันจึงซื้อกล่องถนอมอาหารจาก U คอร์ปเพื่อส่งตรงอาหารอุ่นๆจากเตาไปให้เธอ</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland29</VoiceFile>
-          <Content>แต่มีเหตุการณ์ใหญ่เกิดขึ้นที่บริเวณบ้านฉันในขณะที่ฉันไม่อยู่ ทำให้บ้านพัง… และภรรยาของฉันก็เสียชีวิตพร้อมกับลูกของเราที่อยู่ในท้องเธอ</Content>
+          <Content>แต่มีเหตุการณ์ใหญ่เกิดขึ้นที่บริเวณบ้านฉันในขณะที่ฉันไม่อยู่ ทำให้บ้านพัง… และภรรยาของฉันก็เสียชีวิตพร้อมกับลูกของเราที่อยู่ในท้อง</Content>
         </Dialog>
         <Dialog ID="53" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland30</VoiceFile>
-          <Content>ฉันร้องไห้แล้วสาปแช่งโลกนี้และเมืองนี้</Content>
+          <Content>ฉันร้องไห้ไปได้ซักพัก พร้อมกับสาปแช่งโลกและเมืองแห่งนี้</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland31</VoiceFile>
-          <Content>ฉันดิ้นทุรนทุรายเพื่อให้ได้มาซึ่งความสุขนี้ แต่แล้วทำไมมันถึงหลุดมือฉันไปได้ง่ายๆเลย…</Content>
+          <Content>ฉันยอมดิ้นทุรนทุรายเพื่อให้ได้มาซึ่งความสุข แต่แล้วทำไมมันถึงหลุดมือของฉันไปได้ง่ายๆ…</Content>
         </Dialog>
         <Dialog ID="55" Model="롤랑">
           <Teller>โรแลนด์</Teller>
@@ -382,19 +382,19 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_prol_ep1_angela16</VoiceFile>
-          <Content>แล้วสิ่งที่น่าประหลาดใจที่สุดรองลงมาสำหรับนายคืออะไร?</Content>
+          <Content>แล้วสิ่งที่น่าประหลาดใจที่สุดอันดับสองสำหรับนายคืออะไร?</Content>
         </Dialog>
         <Dialog ID="62" Model="롤랑">
           <Teller>โรแลนด์</Teller>
           <Title>ข้ารับใช้</Title>
           <VoiceFile>ch4_prol_ep1_roland36</VoiceFile>
-          <Content>อืม? การทำงานที่นี่เหมาะกับฉันมากกว่าที่ฉันคิดไว้นะ? ฉันคิดว่าไว้ทีหลังดีกว่า มันไม่สนุกเลยที่จะรู้ทุกอย่างในคราวเดียว ใช่ไหม?</Content>
+          <Content>อืม? การทำงานที่นี่เหมาะกับฉันมากกว่าที่ฉันคิดไว้ล่ะมั้ง? ฉันเก็บอันสุดท้ายไว้เป็นเซอร์ไพรส์ดีกว่า มันไม่สนุกที่จะรู้ทุกอย่างในคราวเดียวเลย ใช่ไหม?</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch4_prol_ep1_angela17</VoiceFile>
-          <Content>งั้นดีแล้ว ฉันจะปล่อยให้นายจัดเรียงหนังสือที่เหลือแล้วกัน</Content>
+          <Content>งั้นก็ได้ ฉันจะปล่อยให้นายจัดเรียงหนังสือที่เหลือแล้วกัน</Content>
         </Dialog>
       </Place>
     </Episode>

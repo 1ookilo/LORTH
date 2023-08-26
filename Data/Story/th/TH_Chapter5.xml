@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="5">
-    <Title>บทที่ 5-Urban Nightmare-‘ความฝันที่แตกสลาย; ตึกที่พังทลาย’</Title>
+    <Title>บทที่ 5-ฝันร้ายประจำเมือง-‘ความฝันที่แตกสลาย; ตึกที่พังทลาย’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
@@ -4957,7 +4957,7 @@
           <Teller>อากาเลีย</Teller>
           <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia1</VoiceFile>
-          <Content>เอาล่ะ สหายเอ๋ย… ไม่ต้องตื่นเต้นไปหรอกครับ พวกคุณรีบเกินไป…</Content>
+          <Content>เอาล่ะ สหายเอ๋ย… ไม่ต้องตื่นเต้นไปหรอกครับ พวกคุณน่ะรีบเกินไป…</Content>
         </Dialog>
         <Dialog ID="1" Model="아르갈리아">
           <Teller>อากาเลีย</Teller>
@@ -4969,7 +4969,7 @@
           <Teller>อากาเลีย</Teller>
           <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia3</VoiceFile>
-          <Content>เทลม่า… โอ้ เทลม่า… เพื่อนที่น่าสงสารเอ๋ย…</Content>
+          <Content>เซลม่า… โอ้ เซลม่า… เพื่อนที่น่าสงสารเอ๋ย…</Content>
         </Dialog>
         <Dialog ID="3" Model="아르갈리아">
           <Teller>อากาเลีย</Teller>
@@ -5053,7 +5053,7 @@
           <Teller>อากาเลีย</Teller>
           <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia8</VoiceFile>
-          <Content>เทลม่า… อย่ามองผมแบบนั้นสิครับ คุณก็รู้ข้อตกลงอยู่แล้วนี่</Content>
+          <Content>เซลม่า… อย่ามองผมแบบนั้นสิครับ คุณก็รู้ข้อตกลงอยู่แล้วนี่</Content>
         </Dialog>
         <Dialog ID="17" Model="아르갈리아">
           <Teller>อากาเลีย</Teller>
@@ -5074,19 +5074,19 @@
           <Content>แน่นอน รบกวนด้วยนะครับ</Content>
         </Dialog>
         <Dialog ID="20" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama1</VoiceFile>
           <Content>เฮือก… อ้า… แฮ่ก แฮ่ก…</Content>
         </Dialog>
         <Dialog ID="21" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama2</VoiceFile>
           <Content>ก้องกังวาลสีคร… แก… ไอ้บ้าเลวระยำ…</Content>
         </Dialog>
         <Dialog ID="22" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama3-01</VoiceFile>
           <Content>อย่ามาพูดให้ขำไปหน่อยเลย… แกไม่ใช่เหรอที่ให้งานที่เป็นไปไม่ได้มาตั้งแต่แรกน่ะ…!</Content>
@@ -5095,16 +5095,16 @@
           <Teller>อากาเลีย</Teller>
           <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia11</VoiceFile>
-          <Content>เฮ้อ… คุณเลือกที่จะใช้เพียงแผนก 2 ของสาขาทางใต้เท่านั้นมาทำงานนี้เองนะครับ เทลม่า</Content>
+          <Content>เฮ้อ… คุณเลือกที่จะใช้เพียงแผนก 2 ของสาขาทางใต้เท่านั้นมาทำงานนี้เองนะครับ เซลม่า</Content>
         </Dialog>
         <Dialog ID="24" Model="아르갈리아">
           <Teller>อากาเลีย</Teller>
           <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia12</VoiceFile>
-          <Content>คุณควรให้แผนก 1 รับมือบ้างนะครับ เทลม่าตัวน้อยผู้โอหัง เขาพยายามใช้แผนสกปรกเพื่อกำจัดแผนกที่ 2 เพื่อให้เขาเองรักษาเก้าอี้ของตัวเองเอาไว้ได้ และตอนนี้เขาก็ล้มเหลวที่จะรักษาสัญญาที่ให้ไว้กับผม</Content>
+          <Content>คุณควรให้แผนก 1 รับมือบ้างนะครับ เซลม่าตัวน้อยผู้โอหัง เขาพยายามใช้แผนสกปรกเพื่อกำจัดแผนกที่ 2 เพื่อให้เขาเองรักษาเก้าอี้ของตัวเองเอาไว้ได้ และตอนนี้เขาก็ล้มเหลวที่จะรักษาสัญญาที่ให้ไว้กับผม</Content>
         </Dialog>
         <Dialog ID="25" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama4-01</VoiceFile>
           <Content>แต่แก!!! แกล่อให้ฉันใช้พวกนั้น!!!</Content>
@@ -5122,25 +5122,25 @@
           <Content>ทั้งหมดที่ผมขอจากคุณคือจัดการทุกอย่างที่อยู่ในรายการภายในเวลาที่ผมกำหนด และคุณก็ยอมรับข้อตกลงนั้นด้วย</Content>
         </Dialog>
         <Dialog ID="28" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama5-01</VoiceFile>
           <Content>…ไอ้เจ้าเล่ห์เอ้ย… …ถ้าแกฆ่าฉันที่เป็นผู้จัดการสาขา… แผนก 1 ของสาขาฉันจะตามล่าแก สำนักงานใหญ่ของชิก็ด้วย…</Content>
         </Dialog>
         <Dialog ID="29" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama6</VoiceFile>
           <Content>แม้แต่ฮานาก็ต้องเคลื่อนไหวแน่…</Content>
         </Dialog>
         <Dialog ID="30" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama7-01</VoiceFile>
           <Content>ดังนั้น… ขอล่ะ…!</Content>
         </Dialog>
         <Dialog ID="31" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama8-01</VoiceFile>
           <Content>ให้โอกาสอีกซักครั้งเถอะ…</Content>
@@ -5149,7 +5149,7 @@
           <Teller>อากาเลีย</Teller>
           <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia15</VoiceFile>
-          <Content>เทลม่า… คุณจะแค่ขอโทษที่ผิดสัญญาของพวกเราไม่ได้นะครับ</Content>
+          <Content>เซลม่า… คุณจะแค่ขอโทษที่ผิดสัญญาของพวกเราไม่ได้นะครับ</Content>
         </Dialog>
         <Dialog ID="33" Model="아르갈리아">
           <Teller>อากาเลีย</Teller>
@@ -5188,7 +5188,7 @@
           <Content>ช่าย ช่าย</Content>
         </Dialog>
         <Dialog ID="39" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama9</VoiceFile>
           <Content>…ตอนกลางคืนในแบล็กสตรีทเหรอ?</Content>
@@ -5218,13 +5218,13 @@
           <Content>เค งั้น! เอาตามนั้นล่ะครับ สหาย</Content>
         </Dialog>
         <Dialog ID="44" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama10_b</VoiceFile>
           <Content>…ฉันขอโทษ! ฉันขอโทษจริงๆ ท่าน!</Content>
         </Dialog>
         <Dialog ID="45" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama11-01</VoiceFile>
           <Content>ฉันขอโทษจริงๆ… ฮรึก ฮรือ… ฉันขอโทษที่ผิดสัญญา…</Content>
@@ -5251,22 +5251,22 @@
           <Teller>อากาเลีย</Teller>
           <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia22</VoiceFile>
-          <Content>เทลม่า…</Content>
+          <Content>เซลม่า…</Content>
         </Dialog>
         <Dialog ID="50" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama12-01</VoiceFile>
           <Content>ครับ! อากาเลีย… ฉันผิดไปแล้ว… ฉันสาบาน…</Content>
         </Dialog>
         <Dialog ID="51" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama13-01</VoiceFile>
           <Content>ฉันสาบาน! ว่าฉันจะไม่! ลูกไม้อีกแล้ว!</Content>
         </Dialog>
         <Dialog ID="52" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama14-01</VoiceFile>
           <Content>และฉันจะไม่ผิดสัญญาที่ให้กับคุณอีก…!</Content>
@@ -5275,7 +5275,7 @@
           <Teller>อากาเลีย</Teller>
           <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia23</VoiceFile>
-          <Content>อ้า~ เทลม่า…</Content>
+          <Content>อ้า~ เซลม่า…</Content>
         </Dialog>
         <Dialog ID="54" Model="아르갈리아">
           <Teller>อากาเลีย</Teller>
@@ -5308,7 +5308,7 @@
           <Content>เอาล่ะ เอาล่ะ ได้เวลาใส่ที่ปิดปากคืนแล้วนะ เพื่อนเอ้ย ร้องอ้าหน่อย~</Content>
         </Dialog>
         <Dialog ID="59" Model="셀마">
-          <Teller>เทลม่า</Teller>
+          <Teller>เซลม่า</Teller>
           <Title>ผู้จัดการสาขาใต้ของชิ</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama15-01</VoiceFile>
           <Content>อ้าาาาาาาา!!!! ไอ้พวกระยำ!! ฉันเกลียดพวกแก!!!!</Content>
@@ -5335,7 +5335,7 @@
           <Teller>อากาเลีย</Teller>
           <Title>ก้องกังวาลสีคราม</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia29</VoiceFile>
-          <Content>และดูแลเทลม่าให้ดีด้วยนะครับ ถึงอย่างไรเขาก็เป็นเพื่อนเก่าของผม</Content>
+          <Content>และดูแลเซลม่าให้ดีด้วยนะครับ ถึงอย่างไรเขาก็เป็นเพื่อนเก่าของผม</Content>
         </Dialog>
         <Dialog ID="64" Model="왕">
           <Teller>หวาง</Teller>
@@ -6340,7 +6340,7 @@
           <Teller>เด็กน้อยไม่ฟัง</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Crying_ep1_Earkid2</VoiceFile>
-          <Content>อะไรนะ? เธอไม่อยากจะต้อนรับฉันเพราะว่าฉันด฿เหมือนเด็กเหรอ?</Content>
+          <Content>อะไรนะ? เธอไม่อยากจะต้อนรับฉันเพราะว่าฉันดูเหมือนเด็กเหรอ?</Content>
         </Dialog>
         <Dialog ID="129" Model="눈을 가린 아이">
           <Teller>เด็กน้อยไม่เห็น</Teller>
@@ -6478,7 +6478,7 @@
           <Teller>แองเจล่า</Teller>
           <Title>ผู้อำนวยการห้องสมุด</Title>
           <VoiceFile>ch5_Crying_ep1_Angela17</VoiceFile>
-          <Content>แต่มันคงเผยความรู้สึกที่แท้จริงที่สุดของพวกเขาแน่ จากการที่ถูกเอาเปลือกนอกออกจนหมด</Content>
+          <Content>แต่มันคงเผยความรู้สึกที่แท้จริงที่สุดของพวกเขาออกมา จากการที่ถูกเอาเปลือกนอกออกจนหมด</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>โรแลนด์</Teller>
