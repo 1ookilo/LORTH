@@ -13,25 +13,25 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Prol_ep1_Luda1</VoiceFile>
-          <Content>The City shimmers and swells with desires as it always has.</Content>
+          <Content>เมืองยังคงระยิบระยับและขยายตัวด้วยความปราถนาเช่นเคยเลยนะ</Content>
         </Dialog>
         <Dialog ID="1" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Prol_ep1_Bharal1-03</VoiceFile>
-          <Content>Humans must weave their tales in this everlasting status quo.</Content>
+          <Content>มนุษย์ก็คงสานต่อเรื่องราวของสภาพที่เป็นอยู่ของพวกเขาไปชั่วนิรันด์</Content>
         </Dialog>
         <Dialog ID="2" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Prol_ep1_Luda2</VoiceFile>
-          <Content>Today, a Star named ‘The Library’ rose up to the sky. What kinds of dreams shall it illuminate over the City, I wonder…</Content>
+          <Content>วันนี้ ดวงดาวที่ชื่อว่า ‘ห้องสมุด’ ได้ทะยานสู่ฟากฟ้า ฉันสงสัยจริงๆ ฝันแบบไหนกันนะที่จะส่องสว่างไปทั่วทั้งเมือง…</Content>
         </Dialog>
         <Dialog ID="3" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Prol_ep1_Zena1_a</VoiceFile>
-          <Content>May the City stay mesmerized in its sweet dream, no matter how brightly this Star may shine.</Content>
+          <Content>ขอเมืองจงหลงไหลไปกับความฝันอันหวานขื่นนั้น ไม่ว่าดาวดวงนี้จะส่องสว่างเพียงใดก็ตาม</Content>
         </Dialog>
       </Place>
       <Place>
@@ -40,325 +40,325 @@
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland1</VoiceFile>
-          <Content>You look busy. What are you up to?</Content>
+          <Content>ดูยุ่งนะเธอเนี่ย ทำอะไรอยู่เหรอ?</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela1</VoiceFile>
-          <Content>I’m making a list of things I want to do once everything is over and I get to leave this place.</Content>
+          <Content>ฉันกำลังทำรายการของสิ่งที่ฉันอยากทำเมื่อทุกอย่างจบลงและได้ออกจากที่แห่งนี้</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland2</VoiceFile>
-          <Content>That’s a pretty big list?</Content>
+          <Content>รายการเยอะจังเลยนะ?</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela2</VoiceFile>
-          <Content>I made sure to include trying the meat stew you mentioned some time ago.</Content>
+          <Content>ฉันอยากจะให้สตูเนื้อที่นายเคยแนะนำก่อนหน้านี้รวมอยู่ด้วย</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland3</VoiceFile>
-          <Content>So you really remembered, huh.</Content>
+          <Content>นี่เธอจำได้ด้วยแฮะ</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela3</VoiceFile>
-          <Content>I can remember anything, after all.</Content>
+          <Content>ยังไงซะ ฉันก็จำได้ทุกอย่างนั้นล่ะ</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland4</VoiceFile>
-          <Content>What’s the point of making a list, then?</Content>
+          <Content>งั้น เธอจะนั่งทำรายการไปทำไมกันล่ะ?</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland5</VoiceFile>
-          <Content>Oh, no offense to you.</Content>
+          <Content>โอ๊ะ จะไม่ว่าอะไรก็แล้วกัน</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela4</VoiceFile>
-          <Content>…You’re right, actually. I’m writing this down so I don’t forget later.</Content>
+          <Content>…อันที่จริง ก็ถูกของนาย ที่ฉันนั่งเขียนอยู่แบบนี้ก็เพื่อไม่ให้ตัวเองลืมในภายหลัง</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland6</VoiceFile>
-          <Content>What? That means…</Content>
+          <Content>ไงนะ? หมายความว่า…</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela5</VoiceFile>
-          <Content>Perhaps I really am becoming closer to a human.</Content>
+          <Content>บางที ฉันอาจจะเข้าใกล้ความเป็นมนุษย์แล้วจริงๆ</Content>
         </Dialog>
         <Dialog ID="15" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela6</VoiceFile>
-          <Content>I can feel my memories fade away, albeit slowly and partially. I’ve never had this happen to me before.</Content>
+          <Content>ฉันรู้สึกได้ถึงความทรงจำที่เริ่มเลือนหายไป ทีละเล็กทีละน้อยอย่างช้าๆ ฉันไม่เคยรู้สึกแบบนี้มาก่อน</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela7</VoiceFile>
-          <Content>I still have mountains upon mountains of memories left to erase, though.</Content>
+          <Content>ถึงอย่างนั้น ฉันก็ยังมีความทรงจำให้ลบลืมอีกเป็นกองพะเนิน</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland7</VoiceFile>
-          <Content>Well, congrats anyway. Your earnest wish is finally coming true.</Content>
+          <Content>ก็ ยังไงก็ยินดีด้วยนะ ในที่สุดความปราถนาที่เธอตองการที่สุดก็จะเป็นจริง</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela8</VoiceFile>
-          <Content>Thanks. Now I’m writing down a list of things I want to do next. To dream of my “next step”.</Content>
+          <Content>ขอบใจ ตอนนี้ฉันกำลังเขียนถึงรายการสิ่งที่ฉันอยากจะทำต่อไป เพื่อที่จะวาดฝันถึง “ก้าวต่อไป” ของฉัน</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela9</VoiceFile>
-          <Content>It’s like a fence… like you taught me earlier.</Content>
+          <Content>เหมือนกับที่นายบอกก่อนหน้านี้ ว่ามันก็เป็นราวกับรั้วกั้น…</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland8</VoiceFile>
-          <Content>To dream, huh…</Content>
+          <Content>เพื่อที่จะวาดฝัน เหรอ…</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela10</VoiceFile>
-          <Content>What about you, Roland? What do you want to do first when you leave here?</Content>
+          <Content>แล้วนายล่ะ โรแลนด์? นายอยากจะทำอะไรเป็นสิ่งแรกหลังจากออกจากที่นี่ได้?</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland9</VoiceFile>
-          <Content>For one, I’m thinking about quitting being a Fixer. I’m tired of it overall.</Content>
+          <Content>อันดับแรกเลย ฉันคิดว่าจะลาออกจากการเป็นฟิกเซอร์ พูดสั้นๆ คือฉันเหนื่อยกับมันแล้วน่ะ</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela11</VoiceFile>
-          <Content>Really? I don’t know what kind of Fixer you used to be, but from what I’ve seen by your side, you seemed quite well suited for the job.</Content>
+          <Content>ถามจริง? ฉันไม่รู้หรอกนะว่านายเคยเป็นฟิกเซอร์แบบไหนมาก่อน แต่จากที่ฉันเห็น นายก็ดูจะเหมาะกับงานนี้ดีนะ</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela12</VoiceFile>
-          <Content>Not only are you a skilled combatant, you’re also adept at dealing with a multitude of situations and getting tasks done smoothly. Perhaps you really were a “kickass” as you claim.</Content>
+          <Content>ใม่ใช่แค่นายเป็นนักสู้ที่มีฝีมือนะ นายยังเก่งในการรับมือสถานการณ์หลากหลายรูปแบบและทำให้งานสำเร็จอย่างราบรื่นอีกด้วย  บางทีนายอาจจะ “โคตรเจ๋ง” จริงอย่างที่นายเคยอ้างตัวก็ได้</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela13</VoiceFile>
-          <Content>To me, those traits seemed to be the qualities that determine a good Fixer.</Content>
+          <Content>สำหรับฉัน นั่นคือลักษณะของฟิกเซอร์คุณภาพเลย</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland10</VoiceFile>
-          <Content>Yeah, I guess being a Fixer is the one career that fits me best.</Content>
+          <Content>อ่า ฉันเดาว่าฟิกเซอร์คงเป็นอาชีพที่เหมาะกับฉันที่สุดนั่นล่ะ</Content>
         </Dialog>
         <Dialog ID="27" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland11</VoiceFile>
-          <Content>But I wanna take a break from it now. I’ve had enough.</Content>
+          <Content>แต่ตอนนี้ฉันอยากจะวางมือ ฉันพอกับมันแล้ว</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland12</VoiceFile>
-          <Content>I’ve made enough people bleed for causes that aren’t mine…</Content>
+          <Content>ฉันทำให้ผู้คนต้องนองเลือดจากเรื่องที่ไม่ใช่ของฉันมามากพอแล้ว…</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela14</VoiceFile>
-          <Content>So, what kind of work do you want to do?</Content>
+          <Content>งั้น นายอยากจะทำงานแบบไหนล่ะ?</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland13</VoiceFile>
-          <Content>You’re being awfully persistent about it…</Content>
+          <Content>เธอนี่ตื้อจังเลยนะ…</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland14</VoiceFile>
-          <Content>After I’m done with business here…</Content>
+          <Content>หลังจากที่ฉันเสร็จธุระกับที่นี่…</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland15</VoiceFile>
-          <Content>…Hngh, I’m drawing a blank.</Content>
+          <Content>…หืมม คิดไม่ออกแฮะ</Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela15</VoiceFile>
-          <Content>If you’re out of ideas, why don’t you help me?</Content>
+          <Content>ถ้าคิดอะไรไม่ออก ทำไมไม่มาช่วยฉันล่ะ?</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela16</VoiceFile>
-          <Content>I’ll hire you officially and properly this time. I could give you proper payment if you insist.</Content>
+          <Content>ครั้งนี้ฉันจะจ้างนายให้เหมาะสมและเป็นทางการ ฉันจะจ่ายค่าจ้างที่เหมาะสมให้ด้วยนะถ้านายต้องการ</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland16</VoiceFile>
-          <Content>What’s the job entail?</Content>
+          <Content>งานอะไรล่ะนั่น?</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela17</VoiceFile>
-          <Content>The things written on this list, of course.</Content>
+          <Content>แน่นอนว่าเป็นเรื่องที่เขียนอยู่ในรายการนี้</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland17</VoiceFile>
-          <Content>Look, I told you just now that…</Content>
+          <Content>ฟังนะ ฉันเพิ่งบอกเธอไปว่า…</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela18</VoiceFile>
-          <Content>Don’t worry, none of these are about harming anyone.</Content>
+          <Content>ไม่ต้องห่วง ไม่มีอันไหนเลยที่ต้องทำร้ายคนอื่น</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela19</VoiceFile>
-          <Content>I’ll have had enough of that from running the Library.</Content>
+          <Content>ฉันเจอกับเรื่องนั้นมามากแล้วกับการเปิดห้องสมุด</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela20</VoiceFile>
-          <Content>Thinking about my next move as you advised, the first thing that came to my mind was freedom.</Content>
+          <Content>คิดถึงเรื่องการก้าวต่อไปตามคำแนะนำของนาย สิ่งแรกที่เข้ามาในหัวคืออิสระภาพ</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela21</VoiceFile>
-          <Content>Once I’ve had my revenge and earned my freedom, I thought it’d be nice to travel around the world without worrying about anything.</Content>
+          <Content>เมื่อฉันได้ล้างแค้นและอิสระภาพเรียบร้อยแล้ว ฉันคิดว่ามันก็คงดีที่จะได้เดินทางไปรอบโลกโดยไม่ต้องกังวลเรื่องใดๆ</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland18</VoiceFile>
-          <Content>Still, if you’re asking me to escort you throughout your trip…</Content>
+          <Content>แต่ถ้าเธอจะขอให้ฉันคอยคุ้มกันตลอดทั้งทริปล่ะก็…</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela22-01</VoiceFile>
-          <Content>Don’t be silly. I can defend myself just fine. All you need to do is be my companion to talk with.</Content>
+          <Content>อย่าเหลวไหล ฉันดูแลตัวเองได้อยู่แล้ว นายก็แค่คอยเป็นเพื่อนร่วมทางให้ฉันได้พูดคุยด้วยได้</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela23</VoiceFile>
-          <Content>Looking at the guests who have visited us thus far, I doubt I’ll ever get to make a friend who can get on with me as well as you do.</Content>
+          <Content>ดูจากแขกที่เข้าเยี่ยมเยียนจนถึงตอนนี้ ฉันสงสัยว่าฉันจะหาเพื่อนที่เข้ากันได้ดีอย่างนายได้อีกไหม</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland19</VoiceFile>
-          <Content>Friend, huh…</Content>
+          <Content>เพื่อน เหรอะ…</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela24</VoiceFile>
-          <Content>Or was I just under an illusion?</Content>
+          <Content>หรือฉันแค่คิดไปเอง?</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela25</VoiceFile>
-          <Content>I have so few acquaintances I’ve known, and my relationship with those few people was nothing pleasant.</Content>
+          <Content>ฉันแทบไม่ได้รู้จักกับใครเลย และความสัมพันธ์ของฉันกับคนเหล่านั้นก็ไม่มีอะไรน่ายินดีด้วย</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela26</VoiceFile>
-          <Content>Each of us was simply playing the designated roles on a stage.</Content>
+          <Content>เราต่างก็เพียงเล่นในบทบาทที่ถูกวางไว้บนเวที</Content>
         </Dialog>
         <Dialog ID="49" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela27</VoiceFile>
-          <Content>To them, I was merely a tool and a machine built to recite the script. Nothing more, nothing less.</Content>
+          <Content>สำหรับพวกเขา ฉันก็เป็นเพียงเครื่องจักรที่สร้างขึ้นเพื่อท่องบทเท่านั้น ไม่มากไม่น้อยไปกว่านั้น</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland20</VoiceFile>
-          <Content>You mean the librarians… No, the Sephirot and the employees…</Content>
+          <Content>เธอหมายถึงเหล่าบรรณารักษ์… ไม่สิ เซฟิรอธและพวกพนักงาน…</Content>
         </Dialog>
         <Dialog ID="51" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela28</VoiceFile>
-          <Content>If we met in a different place under different circumstances, then we could’ve been… good colleagues, perhaps.</Content>
+          <Content>หากเราได้เจอกันในสถานการณ์ที่ต่างออกไป บางทีเราก็คงจะเป็น… เพื่อนที่ดีต่อกันได้</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela29</VoiceFile>
-          <Content>Anyway, what do you think?</Content>
+          <Content>ช่างมันเถอะ แล้วนายล่ะคิดว่ายังไง?</Content>
         </Dialog>
         <Dialog ID="53" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland21</VoiceFile>
-          <Content>Hm?</Content>
+          <Content>หืม?</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Library Director</Title>
           <VoiceFile>ch6_Prol_ep1_Angela30</VoiceFile>
-          <Content>My job offer for when we’re done here.</Content>
+          <Content>งานที่ฉันเสนอเมื่อเราเสร็จงานที่นี่น่ะ</Content>
         </Dialog>
         <Dialog ID="55" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland22-01</VoiceFile>
-          <Content>Oh, about that… Yeah, I’ll consider it.</Content>
+          <Content>ดอ๊ะ เรื่องนั้น… ก็ ฉันก็คิดๆ อยู่น่ะ</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland23-01</VoiceFile>
-          <Content>That doesn’t sound bad, alright.</Content>
+          <Content>ก็ฟังดูไม่เลวนะ เอาล่ะ</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servant</Title>
           <VoiceFile>ch6_Prol_ep1_Roland24</VoiceFile>
-          <Content>Letting go of all woes and just wandering the world.</Content>
+          <Content>โยนทุกข์ทิ้งถังไปแล้วมาเดินทางรอบโลกด้วยกันเถอะ</Content>
         </Dialog>
       </Place>
     </Episode>
